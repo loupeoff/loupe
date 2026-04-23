@@ -77,7 +77,7 @@
       <article class="hero__side-item" onclick="window.open('${esc(a.url)}','_blank')">
         <div class="hero__side-cat">${esc((a.category || "actu").toLowerCase())}</div>
         <h2 class="hero__side-title">${esc(a.title)}</h2>
-        <p class="hero__side-sum">${esc(trunc(a.summary, 120))}</p>
+        <p class="hero__side-sum">${esc(trunc(a.summary, 300))}</p>
         <div class="hero__side-meta"><span class="src">${esc(a.source || "")}</span> · ${timeAgo(a.published_at)}</div>
       </article>
     `;
@@ -95,7 +95,7 @@
         </div>
         <span class="card__cat">${esc((a.category || "actu").toLowerCase())}</span>
         <h3 class="card__title">${esc(a.title)}</h3>
-        <p class="card__sum">${esc(trunc(a.summary, size === "l" ? 180 : size === "s" ? 70 : 130))}</p>
+        <p class="card__sum">${esc(trunc(a.summary, size === "l" ? 600 : size === "s" ? 200 : 400))}</p>
         <div class="card__meta">
           <span class="src">${esc(a.source || "")}</span>
           <span>${timeAgo(a.published_at)}</span>
