@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>loupe_ — article</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,500;0,700;0,800;1,400;1,500&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<!-- STATUS BAR -->
+<div class="status">
+  <span class="status__item"><span class="dot dot--live"></span>live</span>
+  <span class="status__sep">/</span>
+  <span class="status__item" id="current-date">—</span>
+  <span class="status__spacer"></span>
+  <span class="status__item status__item--mono" id="current-time">—</span>
+</div>
+
+<!-- NAV -->
+<header class="nav">
+  <a href="index.html" class="brand">
+    <span class="brand__name">loupe<span class="brand__cursor">_</span></span>
+    <span class="brand__tag">// voir l'info autrement</span>
+  </a>
+  <nav class="nav__links">
+    <a href="index.html">à la une</a>
+    <a href="index.html">politique</a>
+    <a href="index.html">monde</a>
+    <a href="index.html">société</a>
+    <a href="index.html">éco</a>
+    <a href="index.html">culture</a>
+    <a href="index.html">tech</a>
+  </nav>
+  <a href="index.html#inscription" class="nav__cta">→ s'abonner</a>
+</header>
+
+<!-- ARTICLE -->
+<main class="article-page" id="article-root">
+  <div class="article-loading">// chargement...</div>
+</main>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="footer__top">
+    <a href="index.html" class="brand">
+      <span class="brand__name">loupe<span class="brand__cursor">_</span></span>
+      <span class="brand__tag">// voir l'info autrement</span>
+    </a>
+  </div>
+  <div class="footer__bottom">
+    <span>© 2026 loupe_</span>
+    <span>mentions légales · cgu · confidentialité</span>
+  </div>
+</footer>
+
+<script src="article.js"></script>
+</body>
+</html>
