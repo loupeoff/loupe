@@ -31,7 +31,7 @@ FEEDS = [
     {"name": "L'Équipe",        "url": "https://www.lequipe.fr/rss/actu_rss.xml",             "category": "Sport"},
 ]
 
-MAX_ARTICLES = 32
+MAX_ARTICLES = 30
 SITE_URL = os.environ.get("SITE_URL", "https://TONPSEUDO.github.io/loupe")
 SITE_NAME = "Loupe"
 SITE_TAGLINE = "Voir l'info autrement."
@@ -158,24 +158,23 @@ def summarize_batch(articles, api_key):
     )
 
     prompt = (
-        "Tu es rédacteur pour LOUPE, un média généraliste francophone.\n"
-        "Pour CHAQUE article ci-dessous, écris un résumé développé de 300 à 400 mots "
-        "(environ 5-6 paragraphes courts), en français, ton posé et factuel.\n\n"
+        "Tu es redacteur pour LOUPE, un media generaliste francophone.\n"
+        "Pour CHAQUE article ci-dessous, ecris un resume developpe de 230 a 270 mots "
+        "(environ 4 paragraphes), en francais, ton pose et factuel.\n\n"
         "Structure attendue :\n"
-        "- 1er paragraphe : les faits principaux, qui, quoi, quand, où\n"
-        "- 2e paragraphe : le contexte (pourquoi ça compte, arrière-plan)\n"
-        "- 3e paragraphe : les enjeux, les implications, les réactions\n"
-        "- 4e paragraphe : ce qui peut se passer ensuite, perspectives\n"
-        "- Paragraphe de clôture court si pertinent\n\n"
-        "Règles strictes :\n"
+        "- 1er paragraphe : les faits principaux, qui, quoi, quand, ou\n"
+        "- 2e paragraphe : le contexte, l'arriere-plan, pourquoi c'est important\n"
+        "- 3e paragraphe : les reactions, les enjeux, les implications\n"
+        "- 4e paragraphe : ce qui peut se passer ensuite, perspectives\n\n"
+        "Regles strictes :\n"
         "- Reformule ENTIEREMENT, ne reprends jamais plus de 3 mots consecutifs de l'extrait\n"
         "- Pas de jugement editorial, neutre et factuel\n"
         "- Pas de points d'exclamation\n"
         "- Phrases actives, claires, pas de jargon\n"
-        "- Separe les paragraphes par deux retours a la ligne dans le JSON\n"
+        "- Separe les paragraphes par deux retours a la ligne\n"
         "- Si l'extrait est trop court, developpe en t'appuyant sur tes connaissances generales, "
         "en restant factuel\n\n"
-        "Reponds UNIQUEMENT en JSON valide de cette forme exacte :\n"
+        "Reponds UNIQUEMENT en JSON valide :\n"
         '[{"i": 0, "summary": "..."}, {"i": 1, "summary": "..."}]\n'
         "Pas de markdown, pas de texte avant ou apres.\n\n"
         "Articles :\n" + items_text
@@ -183,7 +182,7 @@ def summarize_batch(articles, api_key):
 
     body = json.dumps({
         "model": "claude-haiku-4-5-20251001",
-        "max_tokens": 12000,
+        "max_tokens": 15000,
         "messages": [{"role": "user", "content": prompt}],
     }).encode("utf-8")
     req = Request(
@@ -197,7 +196,7 @@ def summarize_batch(articles, api_key):
         method="POST",
     )
     try:
-        with urlopen(req, timeout=120) as r:
+        with urlopen(req, timeout=180) as r:
             data = json.loads(r.read())
     except (URLError, HTTPError) as e:
         print(f"  ⚠ API error: {e}")
