@@ -53,7 +53,7 @@
   const [h1, h2, h3] = articles;
   if (h1) {
     hero.innerHTML = `
-      <article class="hero__main" onclick="window.open('${esc(h1.url)}','_blank')">
+      <article class="hero__main" onclick="window.location.href='article.html?id=${esc(h1.id)}'">
         <span class="hero__main-cat">${esc((h1.category || "actu").toLowerCase())}</span>
         <div class="hero__main-img-wrap">
           <img class="hero__main-img" src="${esc(h1.image)}" alt="" loading="eager"/>
@@ -74,7 +74,7 @@
   function sideItem(a) {
     if (!a) return "";
     return `
-      <article class="hero__side-item" onclick="window.open('${esc(a.url)}','_blank')">
+      <article class="hero__side-item" onclick="window.location.href='article.html?id=${esc(a.id)}'">
         <div class="hero__side-cat">${esc((a.category || "actu").toLowerCase())}</div>
         <h2 class="hero__side-title">${esc(a.title)}</h2>
         <p class="hero__side-sum">${esc(trunc(a.summary, 300))}</p>
@@ -89,7 +89,7 @@
   main.innerHTML = articles.slice(3, 3 + sizes.length).map((a, i) => {
     const size = sizes[i] || "m";
     return `
-      <article class="card card--${size}" onclick="window.open('${esc(a.url)}','_blank')">
+      <article class="card card--${size}" onclick="window.location.href='article.html?id=${esc(a.id)}'">
         <div class="card__img-wrap">
           <img class="card__img" src="${esc(a.image)}" alt="" loading="lazy"/>
         </div>
