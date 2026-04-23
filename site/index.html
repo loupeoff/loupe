@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>loupe — voir l'info autrement</title>
+<meta name="description" content="Loupe. Voir l'info autrement. Cinq infos chaque matin à 7h." />
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,500;0,700;0,800;1,400;1,500&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css" />
+<link rel="alternate" type="application/rss+xml" title="Loupe — Flux RSS" href="feed.xml" />
+</head>
+<body>
+
+<!-- ============ STATUS BAR ============ -->
+<div class="status">
+  <span class="status__item"><span class="dot dot--live"></span>live</span>
+  <span class="status__sep">/</span>
+  <span class="status__item" id="current-date">—</span>
+  <span class="status__sep">/</span>
+  <span class="status__item">ed. <span id="issue-num">—</span></span>
+  <span class="status__spacer"></span>
+  <span class="status__item status__item--mono">last_sync: <span id="last-update">—</span></span>
+</div>
+
+<!-- ============ HEADER ============ -->
+<header class="nav">
+  <a href="#" class="brand">
+    <span class="brand__name">loupe<span class="brand__cursor">_</span></span>
+    <span class="brand__tag">// voir l'info autrement</span>
+  </a>
+  <nav class="nav__links">
+    <a href="#" class="active">[index]</a>
+    <a href="#">politique</a>
+    <a href="#">monde</a>
+    <a href="#">société</a>
+    <a href="#">éco</a>
+    <a href="#">culture</a>
+    <a href="#">tech</a>
+    <a href="#">sport</a>
+  </nav>
+  <a href="#inscription" class="nav__cta">→ s'abonner</a>
+</header>
+
+<!-- ============ TICKER ============ -->
+<div class="ticker">
+  <span class="ticker__prompt">$ tail -f /live</span>
+  <div class="ticker__wrap">
+    <div class="ticker__track" id="ticker-track"></div>
+  </div>
+</div>
+
+<!-- ============ HERO ============ -->
+<section class="hero container" id="hero"></section>
+
+<!-- ============ FEED ============ -->
+<div class="feed-header container">
+  <h2 class="feed-header__title">// toute l'actualité</h2>
+  <div class="feed-header__meta">
+    <span id="article-count">—</span> articles · mis à jour toutes les heures
+  </div>
+</div>
+
+<main class="feed container" id="main-feed"></main>
+
+<!-- ============ NEWSLETTER ============ -->
+<section class="newsletter" id="inscription">
+  <div class="newsletter__inner">
+    <div class="newsletter__left">
+      <div class="newsletter__rubric">// newsletter</div>
+      <h2>
+        <span class="newsletter__line-1">cinq infos.</span>
+        <span class="newsletter__line-2">chaque matin.</span>
+        <span class="newsletter__line-3">à votre main.<span class="cursor-blink">_</span></span>
+      </h2>
+      <p class="newsletter__lede">
+        Un rendez-vous quotidien à 7h, conçu pour ne manquer l'essentiel.
+        Calibré selon ce qui vous importe vraiment.
+      </p>
+      <ul class="newsletter__perks">
+        <li><span class="perk-num">[01]</span><span>les infos qui comptent, pas les autres</span></li>
+        <li><span class="perk-num">[02]</span><span>un résumé en trois minutes. jamais plus</span></li>
+        <li><span class="perk-num">[03]</span><span>sur-mesure — vous choisissez vos rubriques</span></li>
+        <li><span class="perk-num">[04]</span><span>gratuit. sans spam. désabo en un clic</span></li>
+      </ul>
+    </div>
+
+    <form class="newsletter__form" id="signup-form">
+      <div class="form__head">
+        <span class="form__label">// subscribe.form</span>
+        <span class="form__status">ready</span>
+      </div>
+      <div class="field">
+        <label>&gt; prénom</label>
+        <input type="text" name="firstname" required placeholder="votre prénom" maxlength="40"/>
+      </div>
+      <div class="field">
+        <label>&gt; email</label>
+        <input type="email" name="email" required placeholder="vous@exemple.com" maxlength="120"/>
+      </div>
+      <div class="field">
+        <label>&gt; centres d'intérêt <span class="hint">[1+]</span></label>
+        <div class="chips">
+          <label class="chip"><input type="checkbox" name="interests" value="Politique"/><span>politique</span></label>
+          <label class="chip"><input type="checkbox" name="interests" value="International"/><span>international</span></label>
+          <label class="chip"><input type="checkbox" name="interests" value="Société"/><span>société</span></label>
+          <label class="chip"><input type="checkbox" name="interests" value="Économie"/><span>économie</span></label>
+          <label class="chip"><input type="checkbox" name="interests" value="Culture"/><span>culture</span></label>
+          <label class="chip"><input type="checkbox" name="interests" value="Tech"/><span>tech</span></label>
+          <label class="chip"><input type="checkbox" name="interests" value="Sport"/><span>sport</span></label>
+        </div>
+      </div>
+      <button type="submit" class="btn-submit">./submit.sh →</button>
+      <div class="newsletter__legal">
+        // en vous inscrivant, vous acceptez de recevoir l'email quotidien.<br/>
+        // données jamais revendues.
+      </div>
+      <div class="form-feedback" id="form-feedback"></div>
+    </form>
+  </div>
+</section>
+
+<!-- ============ FOOTER ============ -->
+<footer class="footer">
+  <div class="footer__top">
+    <div class="footer__brand">
+      <span class="brand__name">loupe<span class="brand__cursor">_</span></span>
+      <span class="brand__tag">// voir l'info autrement</span>
+    </div>
+    <div class="footer__meta">
+      <div>// publication indépendante</div>
+      <div>// édition continue</div>
+    </div>
+  </div>
+  <div class="footer__cols">
+    <div>
+      <h4>// rubriques</h4>
+      <a href="#">politique</a>
+      <a href="#">international</a>
+      <a href="#">société</a>
+      <a href="#">économie</a>
+      <a href="#">culture</a>
+      <a href="#">tech</a>
+      <a href="#">sport</a>
+    </div>
+    <div>
+      <h4>// la rédaction</h4>
+      <a href="#">à propos</a>
+      <a href="#">charte éditoriale</a>
+      <a href="#">nos sources</a>
+      <a href="#">nous contacter</a>
+    </div>
+    <div>
+      <h4>// suivre</h4>
+      <a href="#">newsletter</a>
+      <a href="feed.xml" class="rss-link">rss</a>
+      <a href="#">instagram</a>
+      <a href="#">x / twitter</a>
+    </div>
+  </div>
+  <div class="footer__bottom">
+    <span>© 2026 loupe_</span>
+    <span>mentions légales · cgu · confidentialité</span>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

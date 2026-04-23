@@ -1,0 +1,24 @@
+name = "loupe-api"
+main = "worker.js"
+compatibility_date = "2024-09-01"
+
+# KV namespace pour stocker les abonnés.
+# Crée-le avec : npx wrangler kv namespace create SUBSCRIBERS
+# Puis colle son ID ci-dessous :
+[[kv_namespaces]]
+binding = "SUBSCRIBERS"
+id = "REMPLACE_PAR_TON_KV_ID"
+
+# Cron : tous les jours à 7h heure de Paris (= 5h UTC en été, 6h en hiver).
+# On tire un peu plus tôt pour être certains d'être dans la fenêtre matinale.
+[triggers]
+crons = ["0 5 * * *"]
+
+# Variables à définir AVEC `npx wrangler secret put NOM`  :
+#   RESEND_API_KEY
+#   CRON_SECRET
+#
+# Variables publiques (à définir ici) :
+[vars]
+FROM_EMAIL = "Loupe <hello@tondomaine.com>"
+FEED_URL   = "https://TONPSEUDO.github.io/loupe/feed.json"
