@@ -144,43 +144,43 @@ def classify(a):
 # ============================================================
 # SUMMARIZE via Claude API
 # ============================================================
-
 def summarize_batch(articles, api_key):
     if not api_key:
         print("  ℹ Pas d'ANTHROPIC_API_KEY — résumés RSS conservés.")
         return
-    if not articles: return
+    if not articles:
+        return
     print(f"  → résumé de {len(articles)} articles via Claude Haiku…")
 
     items_text = "\n\n".join(
         f"[{i}] Titre : {a['title']}\nExtrait : {a['summary']}"
         for i, a in enumerate(articles)
     )
-   prompt = f"""Tu es rédacteur pour LOUPE, un média généraliste francophone.
-Pour CHAQUE article ci-dessous, écris un résumé développé de 300 à 400 mots
-(environ 5-6 paragraphes courts), en français, ton posé et factuel.
 
-Structure attendue :
-- 1er paragraphe : les faits principaux, qui, quoi, quand, où
-- 2e paragraphe : le contexte (pourquoi ça compte, arrière-plan)
-- 3e paragraphe : les enjeux, les implications, les réactions
-- 4e paragraphe : ce qui peut se passer ensuite, perspectives
-- Paragraphe de clôture court si pertinent
+    prompt = (
+        "Tu es rédacteur pour LOUPE, un média généraliste francophone.\n"
+        "Pour CHAQUE article ci-dessous, écris un résumé développé de 300 à 400 mots "
+        "(environ 5-6 paragraphes courts), en français, ton posé et factuel.\n\n"
+        "Structure attendue :\n"
+        "- 1er paragraphe : les faits principaux, qui, quoi, quand, où\n"
+        "- 2e paragraphe : le contexte (pourquoi ça compte, arrière-plan)\n"
+        "- 3e paragraphe : les enjeux, les implications, les réactions\n"
+        "- 4e paragraphe : ce qui peut se passer ensuite, perspectives\n"
+        "- Paragraphe de clôture court si pertinent\n\n"
+        "Règles strictes :\n"
+        "- Reformule ENTIEREMENT, ne reprends jamais plus de 3 mots consecutifs de l'extrait\n"
+        "- Pas de jugement editorial, neutre et factuel\n"
+        "- Pas de points d'exclamation\n"
+        "- Phrases actives, claires, pas de jargon\n"
+        "- Separe les paragraphes par deux retours a la ligne dans le JSON\n"
+        "- Si l'extrait est trop court, developpe en t'appuyant sur tes connaissances generales, "
+        "en restant factuel\n\n"
+        "Reponds UNIQUEMENT en JSON valide de cette forme exacte :\n"
+        '[{"i": 0, "summary": "..."}, {"i": 1, "summary": "..."}]\n'
+        "Pas de markdown, pas de texte avant ou apres.\n\n"
+        "Articles :\n" + items_text
+    )
 
-Règles strictes :
-- Reformule ENTIÈREMENT, ne reprends jamais plus de 3 mots consécutifs de l'extrait
-- Pas de jugement éditorial, neutre et factuel
-- Pas de points d'exclamation
-- Phrases actives, claires, pas de jargon
-- Utilise \\n\\n pour séparer les paragraphes dans le résumé
-- Si l'extrait est trop court pour produire 300 mots, développe en t'appuyant sur tes connaissances générales du sujet, mais en restant factuel
-
-Réponds UNIQUEMENT en JSON valide : [{{"i": 0, "summary": "..."}}, ...]
-Pas de markdown, pas de ```.
-
-Articles :
-{items_text}
-"""
     body = json.dumps({
         "model": "claude-haiku-4-5-20251001",
         "max_tokens": 12000,
@@ -189,28 +189,31 @@ Articles :
     req = Request(
         "https://api.anthropic.com/v1/messages",
         data=body,
-        headers={"Content-Type": "application/json",
-                 "x-api-key": api_key,
-                 "anthropic-version": "2023-06-01"},
+        headers={
+            "Content-Type": "application/json",
+            "x-api-key": api_key,
+            "anthropic-version": "2023-06-01",
+        },
         method="POST",
     )
     try:
-        with urlopen(req, timeout=60) as r:
+        with urlopen(req, timeout=120) as r:
             data = json.loads(r.read())
     except (URLError, HTTPError) as e:
         print(f"  ⚠ API error: {e}")
         return
     text = "".join(b.get("text", "") for b in data.get("content", []) if b.get("type") == "text").strip()
     text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text, flags=re.MULTILINE).strip()
-    try: summaries = json.loads(text)
+    try:
+        summaries = json.loads(text)
     except json.JSONDecodeError:
         print("  ⚠ JSON invalide renvoyé par Claude.")
         return
     for item in summaries:
-        i = item.get("i"); s = (item.get("summary") or "").strip()
+        i = item.get("i")
+        s = (item.get("summary") or "").strip()
         if isinstance(i, int) and 0 <= i < len(articles) and s:
             articles[i]["summary"] = s
-
 # ============================================================
 # RSS GENERATION
 # ============================================================
