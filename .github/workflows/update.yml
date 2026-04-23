@@ -2,7 +2,7 @@ name: Update feed and deploy
 
 on:
   schedule:
-    - cron: "5 * * * *"     # toutes les heures à min 5
+    - cron: "5 * * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -32,7 +32,7 @@ jobs:
           SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
         run: python script/aggregate.py
 
-     - name: Commit updated feed
+      - name: Commit updated feed
         run: |
           git config user.name  "loupe-bot"
           git config user.email "bot@loupe.local"
@@ -41,7 +41,6 @@ jobs:
             echo "Pas de changement."
           else
             git commit -m "feed: $(date -u +'%Y-%m-%d %H:%M UTC')"
-            # Tentatives avec rebase en cas de conflit (autre workflow en parallèle)
             for i in 1 2 3; do
               git pull --rebase origin main && git push && break
               echo "Tentative $i échouée, on réessaie dans 5s"
