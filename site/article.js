@@ -70,6 +70,3 @@ let feed;
     '</article>';
 
 })();
-
-
- 
