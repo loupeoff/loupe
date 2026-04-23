@@ -7,19 +7,9 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Thu, 23 Apr 2026 19:40:37 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Apr 2026 19:41:20 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
-  <item>
-    <title>Cérémonie des Flammes : razzia en vue pour Theodora et Hamza ? Suivez avec nous la 4e édition des récompenses dédiées au rap et aux cultures populaires</title>
-    <link>https://www.franceinfo.fr/culture/musique/direct-ceremonie-des-flammes-suivez-avec-nous-la-quatrieme-edition-des-recompenses-dediees-au-rap-et-aux-cultures-populaires_7959815.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/culture/musique/direct-ceremonie-des-flammes-suivez-avec-nous-la-quatrieme-edition-des-recompenses-dediees-au-rap-et-aux-cultures-populaires_7959815.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Thu, 23 Apr 2026 21:38:23 +0000</pubDate>
-    <category>Tech</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Portée par une ascension phénoménale, Theodora a de grandes chances de rafler plusieurs trophées, jeudi soir.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/KyES-u3D4-p0wFBg9pBDVDuYu_Y/0x0:1920x1080/432x243/filters:format(jpg)/2026/04/23/69ea751b1beae258664802.jpg" type="image/jpeg" length="0" />
-  </item>
   <item>
     <title>Le géant du numérique Meta va licencier 10 % de ses effectifs pour se concentrer sur l’intelligence artificielle</title>
     <link>https://www.liberation.fr/economie/economie-numerique/le-geant-du-numerique-meta-va-licencier-10-de-ses-effectifs-pour-se-concentrer-sur-lintelligence-artificielle-20260423_GUADIJ6NPVBIBFWOJB2HIL764M/</link>
@@ -119,6 +109,16 @@
     <source url="https://loupeoff.github.io/loupe">France Info</source>
     <description><![CDATA[Les faits se sont déroulés en fin d'après-midi dans le 11e arrondissement, selon une source policière à France Télévisions.]]></description>
     <enclosure url="https://www.franceinfo.fr/pictures/fgIkBoZ7BbXBOIgGDrJvfsVukww/0x0:1600x900/432x243/filters:format(jpg)/2026/04/23/69ea619df320d821938819.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Cérémonie des Flammes : razzia en vue pour Theodora et Hamza ? Suivez avec nous la 4e édition des récompenses dédiées au rap et aux cultures populaires</title>
+    <link>https://www.franceinfo.fr/culture/musique/direct-ceremonie-des-flammes-suivez-avec-nous-la-quatrieme-edition-des-recompenses-dediees-au-rap-et-aux-cultures-populaires_7959815.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/culture/musique/direct-ceremonie-des-flammes-suivez-avec-nous-la-quatrieme-edition-des-recompenses-dediees-au-rap-et-aux-cultures-populaires_7959815.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Thu, 23 Apr 2026 21:01:08 +0000</pubDate>
+    <category>Tech</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Portée par une ascension phénoménale, Theodora a de grandes chances de rafler plusieurs trophées, jeudi soir.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/u6qFGJoudNrbKQhD6OS4OQMT-QE/0x0:6963x3916/432x243/filters:format(jpg)/2026/04/23/69ea602e51af6807956987.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>C’est grâce aux battements cardiaques qu’il existe très peu de cancers du cœur, révèle une étude</title>
