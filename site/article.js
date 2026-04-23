@@ -30,7 +30,7 @@
       <div class="article-error">
         <h1>// article introuvable</h1>
         <p>pas d'identifiant dans l'url.</p>
-        <a href="index.html" class="back-link">→ retour à l'accueil</a>
+        <a href="index.html" class="back-link">&rarr; retour &agrave; l'accueil</a>
       </div>`;
     return;
   }
@@ -46,27 +46,3 @@
       <div class="article-error">
         <h1>// erreur</h1>
         <p>impossible de charger le flux.</p>
-        <a href="index.html" class="back-link">→ retour à l'accueil</a>
-      </div>`;
-    return;
-  }
-
-  const article = (feed.articles || []).find(a => a.id === id);
-
-  if (!article) {
-    root.innerHTML = `
-      <div class="article-error">
-        <h1>// article introuvable</h1>
-        <p>cet article n'est plus disponible (il a pu être remplacé par une actualité plus récente).</p>
-        <a href="index.html" class="back-link">→ retour à l'accueil</a>
-      </div>`;
-    return;
-  }
-
-  // === Titre de la page ===
-  document.title = `${article.title} — loupe_`;
-
-  // === Afficher l'article ===
-  const date = new Date(article.published_at);
-  const dateStr = date.toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" });
-  const timeStr = date.toLocaleTime
