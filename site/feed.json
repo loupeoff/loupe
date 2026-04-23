@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-04-23T19:14:54.001990+00:00",
+  "generated_at": "2026-04-23T19:26:22.667414+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Marseille : un homme armé d’un couteau abattu par la police municipale",
+      "url": "https://www.liberation.fr/societe/police-justice/marseille-un-homme-arme-dun-couteau-abattu-par-la-police-municipale-20260423_6HLOL23NMRDIHL5PNWDOVLNQWA/",
+      "summary": "Les faits ont eu lieu ce jeudi 23 avril en fin de journée dans le XIe arrondissement, lors d’un contrôle routier.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-04-23T19:21:23+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "0d2d3b36e5ad"
+    },
+    {
+      "title": "EN DIRECT - Guerre au Moyen-Orient : des explosions entendues à Téhéran, Israël dément attaquer l’Iran",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-ne-donne-pas-de-date-limite-a-liran-pour-negocier-20260423_XO4SM6IJANFTXF4E6I7JJXXCDU/",
+      "summary": "Le Liban et l’état hébreu doivent se retrouver à la Maison Blanche en fin de journée ce jeudi pour des pourparlers, au lendemain d’une frappe meurtrière de Tsahal à l’encontre de deux journalistes libanaises. Donald Trump a assuré participer aux discussions.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-04-23T19:17:32+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "3e3017703f9b"
+    },
+    {
+      "title": "Une victime frappée au visage, un agresseur criant \"C'est nous, la police\"... Ce que l'on sait des accusations de violences visant deux CRS à Nice",
+      "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/une-victime-frappee-au-visage-un-agresseur-criant-c-est-nous-la-police-ce-que-l-on-sait-des-accusations-de-violences-visant-deux-crs-a-nice_7959287.html#xtor=RSS-3-[lestitres]",
+      "summary": "Deux hommes ont été filmés frappant un jeune homme au sol, samedi. Ils sont aussi accusés d'avoir volé de l'argent et le permis de la victime. Deux policiers, qui n'étaient pas en service au moment des faits, ont été placés en garde à vue mercredi.",
+      "image": "https://www.franceinfo.fr/pictures/yQi5xqkeMdvI3tgaF39qcnu1h-Y/0x183:1013x753/432x243/filters:format(jpg)/2026/04/23/69ea0db7cddf6721331337.png",
+      "published_at": "2026-04-23T21:14:10+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "809b2068fef6"
+    },
     {
       "title": "Les mauvais comptes de François Durvye, le «monsieur business» du Rassemblement national",
       "url": "https://www.liberation.fr/politique/elections/les-mauvais-comptes-de-francois-durvye-le-monsieur-business-du-rassemblement-national-20260423_V4WNFLJLEFBOZJK75NAYON5U5E/",
@@ -11,16 +41,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "41c0bf7f206b"
-    },
-    {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : des explosions entendues à Téhéran, Israël dément attaquer l’Iran",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-ne-donne-pas-de-date-limite-a-liran-pour-negocier-20260423_XO4SM6IJANFTXF4E6I7JJXXCDU/",
-      "summary": "Le Liban et l’état hébreu doivent se retrouver à la Maison Blanche en fin de journée ce jeudi pour des pourparlers, au lendemain d’une frappe meurtrière de Tsahal à l’encontre de deux journalistes libanaises. Donald Trump a assuré participer aux discussions.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-04-23T19:08:14+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "3e3017703f9b"
     },
     {
       "title": "Passe d’armes diplomatique entre le Brésil et les Etats-Unis autour de l’ancien chef du renseignement de Jair Bolsonaro",
@@ -51,16 +71,6 @@
       "source": "France Info",
       "category": "Tech",
       "id": "de65032fab08"
-    },
-    {
-      "title": "Marseille : un homme armé d’un couteau abattu par la police municipale",
-      "url": "https://www.liberation.fr/societe/police-justice/marseille-un-homme-arme-dun-couteau-abattu-par-la-police-municipale-20260423_6HLOL23NMRDIHL5PNWDOVLNQWA/",
-      "summary": "Les faits ont eu lieu ce jeudi 23 avril en fin de journée dans le XIe arrondissement, lors d’un contrôle routier.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-04-23T18:58:36+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "0d2d3b36e5ad"
     },
     {
       "title": "C’est grâce aux battements cardiaques qu’il existe très peu de cancers du cœur, révèle une étude",
@@ -243,6 +253,16 @@
       "id": "f4a5d211c42d"
     },
     {
+      "title": "Viol sur une fillette de 3 ans : un animateur de centre périscolaire de Tours interpellé et mis en examen",
+      "url": "https://www.franceinfo.fr/france/centre-val-de-loire/viol-sur-une-fillette-de-3-ans-un-animateur-de-centre-periscolaire-de-tours-interpelle-et-mis-en-examen_7959809.html#xtor=RSS-3-[lestitres]",
+      "summary": "La procureure de la République de Tours a annoncé ce jeudi 23 avril qu'un homme de 37 ans, intervenant dans les écoles de Tours depuis plusieurs années, a été interpellé et mis en examen pour viol sur mineure de 15 ans par personne ayant autorité. Il se trouve actuellement en détention provisoire.",
+      "image": "https://www.franceinfo.fr/pictures/EEVrtO8iMT6lnDAc4uSmsi-GZP4/0x48:930x572/432x243/filters:format(jpg)/2026/04/23/69ea5cf6880ba706608870.jpeg",
+      "published_at": "2026-04-23T19:55:03+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "2b6c689db457"
+    },
+    {
       "title": "Surnommée la «Bardot de la danse», Claude Bessy, grande dame du ballet français, est morte à 93 ans",
       "url": "https://www.liberation.fr/culture/surnommee-la-bardot-de-la-danse-claude-bessy-grande-dame-du-ballet-francais-est-morte-a-93-ans-20260423_CXHXSXZVN5B6ZNSGEFCBTYNYFM/",
       "summary": "Elle a dirigé pendant plus de 30 ans l’Ecole de danse de l’Opéra de Paris. Durant son mandat (1972 - 2004), elle a formé les plus grandes étoiles françaises comme Patrick Dupond, Sylvie Guillem ou Marie-Claude Pietragalla.",
@@ -281,26 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "adde0366947c"
-    },
-    {
-      "title": "VIDEO Prêt de 90 milliards à l’Ukraine : Volodymyr Zelensky et l’UE appellent à une « mise en œuvre rapide »",
-      "url": "https://www.lemonde.fr/international/video/2026/04/23/pret-de-90-milliards-a-l-ukraine-volodymyr-zelensky-et-l-ue-appellent-a-une-mise-en-uvre-rapide_6682844_3210.html",
-      "summary": "Après le retrait du veto hongrois sur la question, l’UE a définitivement approuvé, jeudi 23 avril, le prêt de 90 milliards d’euros accordé à l’Ukraine.",
-      "image": "https://img.lemde.fr/2026/04/23/430/0/5157/2578/644/322/60/0/3a7e7be_ftp-1-6dmcnsfe3eli-5847337-01-06.jpg",
-      "published_at": "2026-04-23T19:35:39+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "5f05e16c75e3"
-    },
-    {
-      "title": "Aux Etats-Unis, les morts ou disparitions d'une dizaine de scientifiques, qu'aucun élément ne relie, alimentent des spéculations jusqu'à déclencher une enquête du FBI",
-      "url": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-les-morts-ou-disparitions-d-une-dizaine-de-scientifiques-qu-aucun-element-ne-relie-alimentent-des-speculations-jusqu-a-declencher-une-enquete-du-fbi_7959491.html#xtor=RSS-3-[lestitres]",
-      "summary": "Aucun lien n'a été établi entre ces affaires, dont certaines remontent à plusieurs années. Mais, dans le sillage d'internautes, des figures républicaines ont exprimé leur inquiétude sur une possible atteinte à la sécurité nationale. Donald Trump dit espérer qu'il s'agisse d'\"une coïncidence\".",
-      "image": "https://www.franceinfo.fr/pictures/3BIlQ8I9YPgpk5et89EPJvSy_Qw/0x80:1024x656/432x243/filters:format(jpg)/2026/04/23/69ea440760cb7577041000.jpg",
-      "published_at": "2026-04-23T19:23:52+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "761a15ea8f3e"
     }
   ]
 }
