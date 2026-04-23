@@ -156,11 +156,26 @@ def summarize_batch(articles, api_key):
         f"[{i}] Titre : {a['title']}\nExtrait : {a['summary']}"
         for i, a in enumerate(articles)
     )
-    prompt = f"""Tu es rédacteur pour LOUPE, un média digital type Brut.
-Pour CHAQUE article ci-dessous, écris un résumé en 1 phrase (20 à 30 mots),
-français, ton direct et punchy mais factuel. Ne copie PAS l'extrait : reformule entièrement.
+   prompt = f"""Tu es rédacteur pour LOUPE, un média généraliste francophone.
+Pour CHAQUE article ci-dessous, écris un résumé développé de 300 à 400 mots
+(environ 5-6 paragraphes courts), en français, ton posé et factuel.
 
-Réponds UNIQUEMENT en JSON : [{{"i": 0, "summary": "..."}}, ...]
+Structure attendue :
+- 1er paragraphe : les faits principaux, qui, quoi, quand, où
+- 2e paragraphe : le contexte (pourquoi ça compte, arrière-plan)
+- 3e paragraphe : les enjeux, les implications, les réactions
+- 4e paragraphe : ce qui peut se passer ensuite, perspectives
+- Paragraphe de clôture court si pertinent
+
+Règles strictes :
+- Reformule ENTIÈREMENT, ne reprends jamais plus de 3 mots consécutifs de l'extrait
+- Pas de jugement éditorial, neutre et factuel
+- Pas de points d'exclamation
+- Phrases actives, claires, pas de jargon
+- Utilise \\n\\n pour séparer les paragraphes dans le résumé
+- Si l'extrait est trop court pour produire 300 mots, développe en t'appuyant sur tes connaissances générales du sujet, mais en restant factuel
+
+Réponds UNIQUEMENT en JSON valide : [{{"i": 0, "summary": "..."}}, ...]
 Pas de markdown, pas de ```.
 
 Articles :
