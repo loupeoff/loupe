@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-04-23T16:56:45.401938+00:00",
+  "generated_at": "2026-04-23T17:01:11.492831+00:00",
   "article_count": 32,
   "articles": [
+    {
+      "title": "EN DIRECT - Guerre au Moyen-Orient : Israël attend le feu vert de Trump pour «ramener l’Iran à l’âge de pierre», assure un ministre de Nétanyahou",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-ne-donne-pas-de-date-limite-a-liran-pour-negocier-20260423_XO4SM6IJANFTXF4E6I7JJXXCDU/",
+      "summary": "Beyrouth et l’Etat hébreu doivent se retrouver à Washington en fin de journée pour des pourparlers, au lendemain d’une frappe meurtrière de Tsahal à l’encontre de deux journalistes libanaises.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-04-23T16:59:04+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "3e3017703f9b"
+    },
     {
       "title": "Guerre au Moyen-Orient : l'armée américaine annonce avoir abordé un pétrolier sanctionné lié à l'Iran dans l'océan Indien",
       "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-israel-et-le-liban-tiennent-une-nouvelle-session-de-pourparlers-a-washington_7958705.html#xtor=RSS-3-[lestitres]",
       "summary": "L'armée des Etats-Unis avait déjà annoncé mardi avoir intercepté un autre navire sous sanction lié à l'Iran, le \"M/T Tifani\".",
       "image": "https://www.franceinfo.fr/pictures/lsl8w8wANQ9TJay-U7wWaMToHC0/0x257:4300x2676/432x243/filters:format(jpg)/2026/04/23/69e9dca680553329158915.jpg",
-      "published_at": "2026-04-23T18:53:46+02:00",
+      "published_at": "2026-04-23T16:55:06+00:00",
       "source": "France Info",
       "category": "Société",
       "id": "4ec0af8bcc8e"
@@ -33,12 +43,12 @@
       "id": "2ac5f6b2f0ab"
     },
     {
-      "title": "Une prière improvisée de pèlerins juifs à Marrakech met la toile marocaine en ébullition",
+      "title": "Une prière improvisée de pèlerins juifs à Marrakech met les réseaux sociaux marocains en ébullition",
       "url": "https://www.lemonde.fr/afrique/article/2026/04/23/une-priere-improvisee-de-pelerins-juifs-a-marrakech-met-la-toile-marocaine-en-ebullition_6682838_3212.html",
       "summary": "Une trentaine de religieux en voyage au Maroc ont été filmés en train de prier en pleine rue, déclenchant une avalanche de réactions antisémites.",
       "image": "https://img.lemde.fr/2026/04/23/0/20/892/446/644/322/60/0/337b63e_upload-1-e6efbldqiu5v-capture-d-ecran-2026-04-23-184120.png",
-      "published_at": "2026-04-23T18:50:14+02:00",
-      "source": "Le Monde Inter",
+      "published_at": "2026-04-23T18:50:12+02:00",
+      "source": "Le Monde",
       "category": "Culture",
       "id": "6d2d5f9d7440"
     },
@@ -103,9 +113,9 @@
       "id": "bb6cc0f5f5b8"
     },
     {
-      "title": "Sébastien Lecornu annonce un projet de loi sur le logement et souhaite réautoriser la location des passoires énergétiques, sous conditions",
+      "title": "Passoires énergétiques : Sébastien Lecornu souhaite réautoriser leur location, sous conditions",
       "url": "https://www.lemonde.fr/politique/article/2026/04/23/sebastien-lecornu-annonce-un-projet-de-loi-logement-et-un-nouveau-programme-de-renouvellement-urbain_6682834_823448.html",
-      "summary": "Ce texte prévoit aussi le lancement d’une « troisième génération » de renouvellement urbain pour « la période 2030-2040 », a annoncé le premier ministre.",
+      "summary": "Ce texte prévoit aussi le lancement d’une « troisième génération » de renouvellement urbain pour la « période 2030-2040 », a annoncé le premier ministre.",
       "image": "https://img.lemde.fr/2026/04/23/516/0/5830/2915/644/322/60/0/ec3bacd_ftp-1-husf5a4cyg1f-5846671-01-06.jpg",
       "published_at": "2026-04-23T18:35:05+02:00",
       "source": "Le Monde",
@@ -131,16 +141,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "43f7bc38032d"
-    },
-    {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : Israël attend le feu vert de Trump pour «ramener l’Iran à l’âge de pierre», assure un ministre de Nétanyahou",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-ne-donne-pas-de-date-limite-a-liran-pour-negocier-20260423_XO4SM6IJANFTXF4E6I7JJXXCDU/",
-      "summary": "Beyrouth et l’Etat hébreu doivent se retrouver à Washington en fin de journée pour des pourparlers, au lendemain d’une frappe meurtrière de Tsahal à l’encontre de deux journalistes libanaises.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-04-23T16:28:13+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "3e3017703f9b"
     },
     {
       "title": "Emmanuel Macron assure quitter la politique après l’Elysée : «J’ai pas fait de politique avant et j’en ferai pas après»",
@@ -267,7 +267,7 @@
       "url": "https://www.lemonde.fr/politique/article/2026/04/23/la-cour-des-comptes-lance-une-nouvelle-salve-de-critiques-contre-les-niches-fiscales_6682826_823448.html",
       "summary": "Avec une facture d’environ 100 milliards d’euros, les quelque 470 niches en vigueur se développent au lieu de se résorber. Elles équivalent à 26 % des recettes fiscales. Cette ampleur « interroge la lisibilité même du système fiscal », juge la Cour des comptes dans un nouveau rapport.",
       "image": "https://img.lemde.fr/2025/05/26/447/0/5500/2750/644/322/60/0/291ca1b_sirius-fs-upload-1-pbede3wff5bg-1748238139387-2025-03-19t172835z-1361687899-rc2fgdah8sad-rtrmadp-3-france-economy.JPG",
-      "published_at": "2026-04-23T17:56:22+02:00",
+      "published_at": "2026-04-23T17:56:21+02:00",
       "source": "Le Monde",
       "category": "Économie",
       "id": "6946bb853ab0"
