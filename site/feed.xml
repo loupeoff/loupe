@@ -7,7 +7,7 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Thu, 23 Apr 2026 17:28:06 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Apr 2026 17:28:57 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
   <item>
@@ -19,6 +19,26 @@
     <source url="https://loupeoff.github.io/loupe">France Info</source>
     <description><![CDATA[Donald Trump a annoncé mardi une prolongation du cessez-le-feu entre les Etats-Unis et l'Iran, auquel Israël s'est plié.]]></description>
     <enclosure url="https://www.franceinfo.fr/pictures/v3R6ROPWAi58lN0o02fCtl1rPA0/0x0:4426x2489/432x243/filters:format(jpg)/2026/04/23/69ea541fe327d957141754.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Guerre au Moyen-Orient : la journaliste libanaise Amal Khalil visée et tuée par l’armée israélienne dans le sud du Liban</title>
+    <link>https://www.liberation.fr/international/moyen-orient/guerre-au-moyen-orient-la-journaliste-libanaise-amal-khalil-tuee-par-une-frappe-israelienne-20260423_P7VIGHKGYNEGFEIEOOYSCXJQGI/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/international/moyen-orient/guerre-au-moyen-orient-la-journaliste-libanaise-amal-khalil-tuee-par-une-frappe-israelienne-20260423_P7VIGHKGYNEGFEIEOOYSCXJQGI/</guid>
+    <pubDate>Thu, 23 Apr 2026 17:22:12 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Dans un communiqué, le ministère libanais de la Santé affirme que l’armée israélienne a, après plusieurs frappes, «poursuivi» Amal Khalil et sa collègue photographe Zeinab Faraj, blessée. Les autorités et les ONG de défense du droit des journalistes dénoncent un crime de guerre.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>EN DIRECT - Guerre au Moyen-Orient : Israël attend le feu vert de Trump pour «ramener l’Iran à l’âge de pierre», assure un ministre de Nétanyahou</title>
+    <link>https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-ne-donne-pas-de-date-limite-a-liran-pour-negocier-20260423_XO4SM6IJANFTXF4E6I7JJXXCDU/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-ne-donne-pas-de-date-limite-a-liran-pour-negocier-20260423_XO4SM6IJANFTXF4E6I7JJXXCDU/</guid>
+    <pubDate>Thu, 23 Apr 2026 17:20:40 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Beyrouth et l’Etat hébreu doivent se retrouver à Washington en fin de journée pour des pourparlers, au lendemain d’une frappe meurtrière de Tsahal à l’encontre de deux journalistes libanaises.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Le gouvernement de Donald Trump a reclassé le cannabis pour faciliter son usage médical</title>
@@ -49,16 +69,6 @@
     <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[Plusieurs syndicats appelaient à manifester, jeudi, contre l’arrêt annoncé de l’assemblage de voitures sur le site des Yvelines, en 2028. L’impact sur l’emploi pourrait s’étendre à plusieurs fournisseurs de l’usine.]]></description>
     <enclosure url="https://img.lemde.fr/2026/04/23/484/0/6000/3000/644/322/60/0/ec9c275_ftp-1-prvh18irsbqp-2026-04-23t122453z-1795586661-rc2xuka2fikv-rtrmadp-3-stellantis-europe.JPG" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>EN DIRECT - Guerre au Moyen-Orient : Israël attend le feu vert de Trump pour «ramener l’Iran à l’âge de pierre», assure un ministre de Nétanyahou</title>
-    <link>https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-ne-donne-pas-de-date-limite-a-liran-pour-negocier-20260423_XO4SM6IJANFTXF4E6I7JJXXCDU/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-ne-donne-pas-de-date-limite-a-liran-pour-negocier-20260423_XO4SM6IJANFTXF4E6I7JJXXCDU/</guid>
-    <pubDate>Thu, 23 Apr 2026 17:08:14 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Beyrouth et l’Etat hébreu doivent se retrouver à Washington en fin de journée pour des pourparlers, au lendemain d’une frappe meurtrière de Tsahal à l’encontre de deux journalistes libanaises.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Emmanuel Macron assure qu&apos;il ne fera plus de politique après l&apos;Elysée</title>
@@ -319,16 +329,6 @@
     <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[Les dirigeants ont ainsi salué l’adoption, plus tôt dans la journée, du prêt pour 2026 et 2027 et du 20e paquet de sanctions à la Russie, tout en exhortant les « pays tiers à contribuer à combler les lacunes restantes dans les finances ukrainiennes ».]]></description>
     <enclosure url="https://img.lemde.fr/2026/04/16/1038/0/7168/3584/644/322/60/0/75ca341_ftp-1-kiyjlaoipisy-7db19d83a8e144ca833907ab9942528d-0-30cc1a4df78a41a881d4eda316167bba.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>« La Foudre, un éclair de génie », sur France 5 : sur la piste des orages, source de vie et de catastrophes</title>
-    <link>https://www.lemonde.fr/culture/article/2026/04/23/la-foudre-un-eclair-de-genie-sur-france-5-sur-la-piste-des-orages-source-de-vie-et-de-catastrophes_6682830_3246.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/culture/article/2026/04/23/la-foudre-un-eclair-de-genie-sur-france-5-sur-la-piste-des-orages-source-de-vie-et-de-catastrophes_6682830_3246.html</guid>
-    <pubDate>Thu, 23 Apr 2026 18:00:19 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Un épisode spectaculaire et passionnant du magazine « Science grand format » se concentre sur ce phénomène longtemps considéré comme une manifestation divine.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/04/21/122/0/2048/1024/644/322/60/0/5723333_upload-1-qqpxygm9vlca-lafoudre2cunc389clairdegc389nie.jpg" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>

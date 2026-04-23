@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T17:28:06.007825+00:00",
+  "generated_at": "2026-04-23T17:28:57.456409+00:00",
   "article_count": 32,
   "articles": [
     {
@@ -11,6 +11,26 @@
       "source": "France Info",
       "category": "International",
       "id": "4ec0af8bcc8e"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : la journaliste libanaise Amal Khalil visée et tuée par l’armée israélienne dans le sud du Liban",
+      "url": "https://www.liberation.fr/international/moyen-orient/guerre-au-moyen-orient-la-journaliste-libanaise-amal-khalil-tuee-par-une-frappe-israelienne-20260423_P7VIGHKGYNEGFEIEOOYSCXJQGI/",
+      "summary": "Dans un communiqué, le ministère libanais de la Santé affirme que l’armée israélienne a, après plusieurs frappes, «poursuivi» Amal Khalil et sa collègue photographe Zeinab Faraj, blessée. Les autorités et les ONG de défense du droit des journalistes dénoncent un crime de guerre.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-04-23T17:22:12+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "8d8ba6bade35"
+    },
+    {
+      "title": "EN DIRECT - Guerre au Moyen-Orient : Israël attend le feu vert de Trump pour «ramener l’Iran à l’âge de pierre», assure un ministre de Nétanyahou",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-ne-donne-pas-de-date-limite-a-liran-pour-negocier-20260423_XO4SM6IJANFTXF4E6I7JJXXCDU/",
+      "summary": "Beyrouth et l’Etat hébreu doivent se retrouver à Washington en fin de journée pour des pourparlers, au lendemain d’une frappe meurtrière de Tsahal à l’encontre de deux journalistes libanaises.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-04-23T17:20:40+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "3e3017703f9b"
     },
     {
       "title": "Le gouvernement de Donald Trump a reclassé le cannabis pour faciliter son usage médical",
@@ -41,16 +61,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "e693509dd6e5"
-    },
-    {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : Israël attend le feu vert de Trump pour «ramener l’Iran à l’âge de pierre», assure un ministre de Nétanyahou",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-ne-donne-pas-de-date-limite-a-liran-pour-negocier-20260423_XO4SM6IJANFTXF4E6I7JJXXCDU/",
-      "summary": "Beyrouth et l’Etat hébreu doivent se retrouver à Washington en fin de journée pour des pourparlers, au lendemain d’une frappe meurtrière de Tsahal à l’encontre de deux journalistes libanaises.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-04-23T17:08:14+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "3e3017703f9b"
     },
     {
       "title": "Emmanuel Macron assure qu'il ne fera plus de politique après l'Elysée",
@@ -311,16 +321,6 @@
       "source": "Le Monde",
       "category": "International",
       "id": "0229e46f4407"
-    },
-    {
-      "title": "« La Foudre, un éclair de génie », sur France 5 : sur la piste des orages, source de vie et de catastrophes",
-      "url": "https://www.lemonde.fr/culture/article/2026/04/23/la-foudre-un-eclair-de-genie-sur-france-5-sur-la-piste-des-orages-source-de-vie-et-de-catastrophes_6682830_3246.html",
-      "summary": "Un épisode spectaculaire et passionnant du magazine « Science grand format » se concentre sur ce phénomène longtemps considéré comme une manifestation divine.",
-      "image": "https://img.lemde.fr/2026/04/21/122/0/2048/1024/644/322/60/0/5723333_upload-1-qqpxygm9vlca-lafoudre2cunc389clairdegc389nie.jpg",
-      "published_at": "2026-04-23T18:00:19+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "305eb46b51b3"
     }
   ]
 }
