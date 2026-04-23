@@ -45,7 +45,7 @@
 
 <!-- ============ TICKER ============ -->
 <div class="ticker">
-  <span class="ticker__prompt">$ tail -f /live</span>
+  <span class="ticker__prompt">/live</span>
   <div class="ticker__wrap">
     <div class="ticker__track" id="ticker-track"></div>
   </div>
