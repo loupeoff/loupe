@@ -7,14 +7,24 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Thu, 23 Apr 2026 16:47:11 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Apr 2026 16:49:37 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>Mort d’un lycéen lors d’un stage de 2de dans le Gard : le parquet ouvre une enquête et le gouvernement annonce des mesures</title>
+    <link>https://www.lemonde.fr/education/article/2026/04/23/mort-d-un-lyceen-lors-d-un-stage-de-2de-dans-le-gard-le-parquet-ouvre-une-enquete-et-le-gouvernement-annonce-des-mesures_6682837_1473685.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/education/article/2026/04/23/mort-d-un-lyceen-lors-d-un-stage-de-2de-dans-le-gard-le-parquet-ouvre-une-enquete-et-le-gouvernement-annonce-des-mesures_6682837_1473685.html</guid>
+    <pubDate>Thu, 23 Apr 2026 18:45:03 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Politique</source>
+    <description><![CDATA[A la suite de cet accident, les ministres du travail et de l’éducation ont annoncé jeudi le lancement d’une mission express pour « renforcer les conditions de sécurité » des stages en entreprise des élèves de 3e et de 2de.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/04/23/465/0/8192/4096/644/322/60/0/65b75f5_upload-1-o7578soxj5n3-000-a7rh4ej.jpg" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>Guerre au Moyen-Orient : l&apos;armée américaine annonce avoir abordé un pétrolier sanctionné lié à l&apos;Iran dans l&apos;océan Indien</title>
     <link>https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-israel-et-le-liban-tiennent-une-nouvelle-session-de-pourparlers-a-washington_7958705.html#xtor=RSS-3-[lestitres]</link>
     <guid isPermaLink="true">https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-israel-et-le-liban-tiennent-une-nouvelle-session-de-pourparlers-a-washington_7958705.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Thu, 23 Apr 2026 18:43:09 +0000</pubDate>
+    <pubDate>Thu, 23 Apr 2026 18:43:47 +0000</pubDate>
     <category>Société</category>
     <source url="https://loupeoff.github.io/loupe">France Info</source>
     <description><![CDATA[L'armée des Etats-Unis avait déjà annoncé mardi avoir intercepté un autre navire sous sanction lié à l'Iran, le "M/T Tifani".]]></description>
@@ -319,16 +329,6 @@
     <source url="https://loupeoff.github.io/loupe">Libération</source>
     <description><![CDATA[Agé de 22 ans, le suspect a été interpellé lundi 20 avril. Il lui est reproché d’avoir publié plusieurs bases de données piratées, notamment de fédérations sportives ou d’agents de l’Education nationale, sur des plateformes spécialisées dans la revente de données.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Lutte contre la fraude sociale : une croisade remplie d’arrière-pensées politiques</title>
-    <link>https://www.liberation.fr/politique/lutte-contre-la-fraude-sociale-une-croisade-remplie-darriere-pensees-politiques-20260423_I6YLNMJPRBFQ3NIWVPLG2WXXKU/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/politique/lutte-contre-la-fraude-sociale-une-croisade-remplie-darriere-pensees-politiques-20260423_I6YLNMJPRBFQ3NIWVPLG2WXXKU/</guid>
-    <pubDate>Thu, 23 Apr 2026 15:33:33 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Si les politiciens jugent plus porteur de tempêter contre des profiteurs du système social, au risque de nourrir les discours stigmatisants contre les populations par nature plus fragiles, c’est bien dans le domaine fiscal que les montants détectés et redressés sont les plus importants.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>

@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-04-23T16:47:11.731205+00:00",
+  "generated_at": "2026-04-23T16:49:37.965071+00:00",
   "article_count": 32,
   "articles": [
+    {
+      "title": "Mort d’un lycéen lors d’un stage de 2de dans le Gard : le parquet ouvre une enquête et le gouvernement annonce des mesures",
+      "url": "https://www.lemonde.fr/education/article/2026/04/23/mort-d-un-lyceen-lors-d-un-stage-de-2de-dans-le-gard-le-parquet-ouvre-une-enquete-et-le-gouvernement-annonce-des-mesures_6682837_1473685.html",
+      "summary": "A la suite de cet accident, les ministres du travail et de l’éducation ont annoncé jeudi le lancement d’une mission express pour « renforcer les conditions de sécurité » des stages en entreprise des élèves de 3e et de 2de.",
+      "image": "https://img.lemde.fr/2026/04/23/465/0/8192/4096/644/322/60/0/65b75f5_upload-1-o7578soxj5n3-000-a7rh4ej.jpg",
+      "published_at": "2026-04-23T18:45:03+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "a0053bbd32b9"
+    },
     {
       "title": "Guerre au Moyen-Orient : l'armée américaine annonce avoir abordé un pétrolier sanctionné lié à l'Iran dans l'océan Indien",
       "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-israel-et-le-liban-tiennent-une-nouvelle-session-de-pourparlers-a-washington_7958705.html#xtor=RSS-3-[lestitres]",
       "summary": "L'armée des Etats-Unis avait déjà annoncé mardi avoir intercepté un autre navire sous sanction lié à l'Iran, le \"M/T Tifani\".",
       "image": "https://www.franceinfo.fr/pictures/lsl8w8wANQ9TJay-U7wWaMToHC0/0x257:4300x2676/432x243/filters:format(jpg)/2026/04/23/69e9dca680553329158915.jpg",
-      "published_at": "2026-04-23T18:43:09+02:00",
+      "published_at": "2026-04-23T18:43:47+02:00",
       "source": "France Info",
       "category": "Société",
       "id": "4ec0af8bcc8e"
@@ -311,16 +321,6 @@
       "source": "Libération",
       "category": "Tech",
       "id": "b32c43e243cc"
-    },
-    {
-      "title": "Lutte contre la fraude sociale : une croisade remplie d’arrière-pensées politiques",
-      "url": "https://www.liberation.fr/politique/lutte-contre-la-fraude-sociale-une-croisade-remplie-darriere-pensees-politiques-20260423_I6YLNMJPRBFQ3NIWVPLG2WXXKU/",
-      "summary": "Si les politiciens jugent plus porteur de tempêter contre des profiteurs du système social, au risque de nourrir les discours stigmatisants contre les populations par nature plus fragiles, c’est bien dans le domaine fiscal que les montants détectés et redressés sont les plus importants.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-04-23T15:33:33+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "6eb9e26fd636"
     }
   ]
 }
