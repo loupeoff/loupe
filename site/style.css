@@ -242,9 +242,15 @@ input { font: inherit; }
 .hero__main-sum {
   font-size: 16px;
   font-weight: 400;
-  line-height: 1.55;
+  line-height: 1.65;
   color: var(--ink-soft);
   max-width: 740px;
+  white-space: pre-line;
+}
+.hero__main-sum,
+.card__sum,
+.hero__side-sum {
+  white-space: pre-line;
 }
 .hero__main-meta {
   margin-top: 18px;
