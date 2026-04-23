@@ -1,41 +1,71 @@
 {
-  "generated_at": "2026-04-23T20:15:52.573226+00:00",
+  "generated_at": "2026-04-23T23:32:27.000776+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Cérémonie des Flammes : déjà deux prix pour Theodora... Suivez avec nous la 4e édition des récompenses dédiées au rap et aux cultures populaires",
-      "url": "https://www.franceinfo.fr/culture/musique/direct-ceremonie-des-flammes-suivez-avec-nous-la-quatrieme-edition-des-recompenses-dediees-au-rap-et-aux-cultures-populaires_7959815.html#xtor=RSS-3-[lestitres]",
-      "summary": "Portée par une ascension phénoménale, Theodora a de grandes chances de rafler plusieurs trophées, jeudi soir.",
-      "image": "https://www.franceinfo.fr/pictures/KyES-u3D4-p0wFBg9pBDVDuYu_Y/0x0:1920x1080/432x243/filters:format(jpg)/2026/04/23/69ea751b1beae258664802.jpg",
-      "published_at": "2026-04-23T22:11:48+02:00",
+      "title": "Cérémonie des Flammes : Theodora sacrée artiste féminine de l'année, Gims récompensé chez les hommes",
+      "url": "https://www.franceinfo.fr/culture/musique/ceremonie-des-flammes-theodora-sacree-artiste-feminine-de-l-annee-gims-recompense-chez-les-hommes_7959986.html#xtor=RSS-3-[lestitres]",
+      "summary": "La rappeuse a par ailleurs reçu les trophées du meilleur clip, de la \"nouvelle pop\", de la meilleure cover de l'année et de l'album de l'année.",
+      "image": "https://www.franceinfo.fr/pictures/KA5BjaGlaflPPOnRXMuDCj1bRD0/0x0:1920x1080/432x243/filters:format(jpg)/2026/04/23/69ea943649859287099534.jpg",
+      "published_at": "2026-04-24T00:23:48+02:00",
       "source": "France Info",
-      "category": "Sport",
-      "id": "de65032fab08"
+      "category": "Culture",
+      "id": "30c5f57271b5"
     },
     {
-      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky et les dirigeants de l’UE demandent une « mise en œuvre rapide » du prêt de 90 milliards d’euros, définitivement validé jeudi",
+      "title": "Guerre au Moyen-Orient : prolongation du cessez-le-feu au Liban, explosions à Téhéran... Ce qu'il faut retenir de la journée du jeudi 23 avril",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-prolongation-du-cessez-le-feu-au-liban-explosions-a-teheran-ce-qu-il-faut-retenir-de-la-journee-du-jeudi-23-avril_7959944.html#xtor=RSS-3-[lestitres]",
+      "summary": "Donald Trump a annoncé une prolongation du cessez-le-feu entre Israël et le Liban, qui venait à expiration dimanche, de \"trois semaines\".",
+      "image": "https://www.franceinfo.fr/pictures/1LmPIa5cHi8OxLm_s98AsGPRyWY/0x692:7017x4639/432x243/filters:format(jpg)/2026/04/24/69ea9891a6164161857836.jpg",
+      "published_at": "2026-04-24T00:14:30+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "4dd1485382b0"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : Donald Trump annonce une prolongation du cessez-le-feu au Liban de «trois semaines»",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-ne-donne-pas-de-date-limite-a-liran-pour-negocier-20260423_XO4SM6IJANFTXF4E6I7JJXXCDU/",
+      "summary": "Le Liban et Israël devaient se retrouver à la Maison Blanche en fin de journée ce jeudi pour des pourparlers, au lendemain d’une frappe meurtrière de Tsahal à l’encontre de deux journalistes libanaises. Donald Trump a assuré participer aux discussions.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-04-23T21:45:06+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "3e3017703f9b"
+    },
+    {
+      "title": "Après sa chute, Victor Wembanyama «a l’air bien» et sera du voyage à Portland vendredi avec les San Antonio Spurs",
+      "url": "https://www.liberation.fr/sports/apres-sa-chute-victor-wembanyama-a-lair-bien-et-sera-du-voyage-a-portland-vendredi-avec-les-san-antonio-spurs-20260423_B422M4QZP5ACJN4LVJAIOYCCIM/",
+      "summary": "Le prodige français de 22 ans n’est pas assuré de jouer le match 3 du premier tour des play-offs de NBA. Il reste soumis au protocole commotion après que sa tête a violemment heurté le parquet mardi 21 avril.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-04-23T20:52:08+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "ffaa8fbfcb4e"
+    },
+    {
+      "title": "La Maison Blanche accuse la Chine de copier les intelligences artificielles américaines clandestinement et à grande échelle",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/la-maison-blanche-accuse-la-chine-de-copier-les-intelligences-artificielles-americaines-clandestinement-et-a-grande-echelle_7959935.html#xtor=RSS-3-[lestitres]",
+      "summary": "La \"distillation\" est une technique qui consiste à entraîner un modèle d'IA sur les réponses d'un modèle plus puissant pour en reproduire les capacités.",
+      "image": "https://www.franceinfo.fr/pictures/To-YuhvB5bGTrgwisQqIR3wDreY/0x311:6048x3713/432x243/filters:format(jpg)/2026/04/23/69ea85231001a517703003.jpg",
+      "published_at": "2026-04-23T22:46:54+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "6579ed002123"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : la Russie sera bien invitée au G20 en Floride, selon la Maison Blanche",
       "url": "https://www.lemonde.fr/international/live/2026/04/23/en-direct-guerre-en-ukraine-volodymyr-zelensky-et-les-dirigeants-de-l-ue-demandent-une-mise-en-uvre-rapide-du-pret-de-90-milliards-d-euros-definitivement-valide-jeudi_6681322_3210.html",
-      "summary": "Les dirigeants ont ainsi salué l’adoption, plus tôt dans la journée, du prêt pour 2026 et 2027 et du 20ᵉ paquet de sanctions à la Russie, tout en exhortant les « pays tiers à contribuer à combler les lacunes restantes dans les finances ukrainiennes ».",
-      "image": "https://img.lemde.fr/2026/04/16/1038/0/7168/3584/644/322/60/0/75ca341_ftp-1-kiyjlaoipisy-7db19d83a8e144ca833907ab9942528d-0-30cc1a4df78a41a881d4eda316167bba.jpg",
-      "published_at": "2026-04-23T22:02:15+02:00",
+      "summary": "Un haut responsable de la Maison Blanche a confirmé que la Russie serait conviée au sommet prévu en décembre en Floride, dans un complexe de golf appartenant à la famille Trump. Moscou ne s’est pas prononcé dans l’immédiat sur la présence en personne de Vladimir Poutine.",
+      "image": "https://img.lemde.fr/2026/04/23/0/0/4875/2437/644/322/60/0/25b00b2_ftp-1-g5xrbudsnhkx-5846386-01-06.jpg",
+      "published_at": "2026-04-23T22:02:11+02:00",
       "source": "Le Monde",
       "category": "International",
       "id": "0229e46f4407"
     },
     {
-      "title": "Guerre au Moyen-Orient : des explosions retentissent à Téhéran, le système de défense antiaérienne activé",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-israel-et-le-liban-tiennent-une-nouvelle-session-de-pourparlers-a-washington_7958705.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le cessez-le-feu en vigueur depuis deux semaines ne semble tenir qu'à un fil.",
-      "image": "https://www.franceinfo.fr/pictures/yIG0cj0uzbvdaJjWvI8ebrF6uWI/0x650:6240x4160/432x243/filters:format(jpg)/2026/04/23/69ea79e0a4922946110715.jpg",
-      "published_at": "2026-04-23T21:59:03+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "4ec0af8bcc8e"
-    },
-    {
-      "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump assure avoir « tout le temps nécessaire » concernant l’Iran ; le porte-avions USS « George-H.-W.-Bush » navigue à proximité du Moyen-Orient",
+      "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce une prolongation de « trois semaines » du cessez-le-feu au Liban",
       "url": "https://www.lemonde.fr/international/live/2026/04/23/en-direct-guerre-au-moyen-orient-donald-trump-assure-avoir-tout-le-temps-necessaire-concernant-l-iran-le-porte-avions-uss-george-hw-bush-navigue-a-proximite-du-moyen-orient_6681958_3210.html",
-      "summary": "Le président américain affirme être « probablement la personne la moins sous pression qui ait jamais occupé ce poste. Je dispose de tout le temps nécessaire, alors que l’Iran, lui, n’en a pas », écrit-il sur Truth Social, ajoutant que « le compte à rebours a commencé ».",
+      "summary": "Sur l’Iran, le président américain affirme être « probablement la personne la moins sous pression qui ait jamais occupé ce poste. Je dispose de tout le temps nécessaire, alors que l’Iran, lui, n’en a pas », écrit-il sur Truth Social, ajoutant que « le compte à rebours a commencé ».",
       "image": "https://img.lemde.fr/2026/04/21/431/0/5147/2573/644/322/60/0/e75fe71_ftp-1-1y3tggyzsohe-5831697-01-06.jpg",
       "published_at": "2026-04-23T21:47:54+02:00",
       "source": "Le Monde",
@@ -48,7 +78,7 @@
       "summary": "Le gouvernement a divisé par deux sa prévision de croissance pour 2026, à 0,5 %. La dépense publique reste le seul soutien réel à l’activité. Et les milieux patronaux critiquent l’action du gouvernement.",
       "image": "https://img.lemde.fr/2026/04/22/85/0/5068/2534/644/322/60/0/7d1fc8d_ftp-1-d0evzd0w2mvv-2026-04-22t133643z-713182754-rc2dukagiunm-rtrmadp-3-germany-economy.JPG",
       "published_at": "2026-04-23T21:47:15+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "d22ae02fcafb"
     },
@@ -91,16 +121,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "0d2d3b36e5ad"
-    },
-    {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : des explosions entendues à Téhéran, Israël dément attaquer l’Iran",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-ne-donne-pas-de-date-limite-a-liran-pour-negocier-20260423_XO4SM6IJANFTXF4E6I7JJXXCDU/",
-      "summary": "Le Liban et l’état hébreu doivent se retrouver à la Maison Blanche en fin de journée ce jeudi pour des pourparlers, au lendemain d’une frappe meurtrière de Tsahal à l’encontre de deux journalistes libanaises. Donald Trump a assuré participer aux discussions.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-04-23T19:17:32+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "3e3017703f9b"
     },
     {
       "title": "Disparition d'une mère de famille en Loire-Atlantique : \"C'est très difficile de ne pas savoir si elle est en vie\", confie sa sœur",
@@ -281,26 +301,6 @@
       "source": "Numerama",
       "category": "Politique",
       "id": "d11bdbec3bed"
-    },
-    {
-      "title": "« On a tous fait quelque chose d’extraordinaire » : Ils ont bâti une antenne radio pour téléphoner à Sophie Adenot dans l’ISS",
-      "url": "https://www.numerama.com/sciences/2237003-on-a-tous-fait-quelque-chose-dextraordinaire-ils-ont-bati-une-antenne-radio-pour-telephoner-a-sophie-adenot-dans-liss.html",
-      "summary": "Une vingtaine d'élèves du CP au lycée ont pu avoir un échange en direct avec l'astronaute française Sophie Adenot, à bord de l'ISS. Une prouesse technique que l'on doit à des radioamateurs mobilisés pour faire le lien avec la Station spatiale internationale grâce à une simple antenne.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-04-23T18:13:02+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "a3dacb39dc95"
-    },
-    {
-      "title": "Après le feu vert donné à un projet gazier américain, l'UE rappelle à la Bosnie ses engagements européens",
-      "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/apres-le-feu-vert-donne-a-un-projet-gazier-americain-l-ue-rappelle-a-la-bosnie-ses-engagements-europeens_7959728.html#xtor=RSS-3-[lestitres]",
-      "summary": "La Bosnie vient de donner son feu vert à la création du projet énergétique d'une entreprise appartenant à un proche de Donald Trump.",
-      "image": "https://www.franceinfo.fr/pictures/8mK5WW_y2xMlph2zmhvg8sb1eB8/0x0:5197x2923/432x243/filters:format(jpg)/2026/04/23/69ea5c87f3b2c283612495.jpg",
-      "published_at": "2026-04-23T20:12:21+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "dae6ca0d64cb"
     }
   ]
 }
