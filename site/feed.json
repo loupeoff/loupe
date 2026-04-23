@@ -1,26 +1,46 @@
 {
-  "generated_at": "2026-04-23T17:17:46.076685+00:00",
+  "generated_at": "2026-04-23T17:28:06.007825+00:00",
   "article_count": 32,
   "articles": [
     {
-      "title": "Emmanuel Macron assure quitter la politique après l’Elysée : «J’ai pas fait de politique avant et j’en ferai pas après»",
+      "title": "Guerre au Moyen-Orient : Israël attend le feu vert de Donald Trump pour \"ramener l'Iran à l'âge de pierre\", affirme son ministre de la Défense",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-israel-et-le-liban-tiennent-une-nouvelle-session-de-pourparlers-a-washington_7958705.html#xtor=RSS-3-[lestitres]",
+      "summary": "Donald Trump a annoncé mardi une prolongation du cessez-le-feu entre les Etats-Unis et l'Iran, auquel Israël s'est plié.",
+      "image": "https://www.franceinfo.fr/pictures/v3R6ROPWAi58lN0o02fCtl1rPA0/0x0:4426x2489/432x243/filters:format(jpg)/2026/04/23/69ea541fe327d957141754.jpg",
+      "published_at": "2026-04-23T17:22:39+00:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "4ec0af8bcc8e"
+    },
+    {
+      "title": "Le gouvernement de Donald Trump a reclassé le cannabis pour faciliter son usage médical",
+      "url": "https://www.franceinfo.fr/sante/drogue-addictions/cannabis/le-gouvernement-de-donald-trump-a-reclasse-le-cannabis-pour-faciliter-son-usage-medical_7959731.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette décision fait suite à un décret présidentiel signé le 18 décembre par Donald Trump, visant à encourager la recherche médicale sur le cannabis.",
+      "image": "https://www.franceinfo.fr/pictures/cCRYUQmlI0kfuAbyx_MCS2WREJY/0x0:6048x3402/432x243/filters:format(jpg)/2026/04/23/69ea4fe595280263309606.jpg",
+      "published_at": "2026-04-23T19:19:34+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "140053ec56c2"
+    },
+    {
+      "title": "Emmanuel Macron assure qu’il arrêtera la politique après avoir quitté Elysée : «J’ai pas fait de politique avant et j’en ferai pas après»",
       "url": "https://www.liberation.fr/politique/emmanuel-macron-assure-quitter-la-politique-apres-lelysee-jai-pas-fait-de-politique-avant-et-jen-ferai-pas-apres-20260423_4HMQLGOA4BBFPKFZUGV4RWPFDA/",
       "summary": "Le président français était interrogé ce jeudi par des élèves à l’école franco-chypriote de Nicosie, la capitale de Chypre où il effectuait une visite officielle.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-04-23T17:14:33+00:00",
+      "published_at": "2026-04-23T17:15:56+00:00",
       "source": "Libération",
       "category": "Politique",
       "id": "a0407bad604e"
     },
     {
-      "title": "Guerre au Moyen-Orient : l'armée américaine annonce avoir abordé un pétrolier sanctionné lié à l'Iran dans l'océan Indien",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-israel-et-le-liban-tiennent-une-nouvelle-session-de-pourparlers-a-washington_7958705.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'armée des Etats-Unis avait déjà annoncé mardi avoir intercepté un autre navire sous sanction lié à l'Iran, le \"M/T Tifani\".",
-      "image": "https://www.franceinfo.fr/pictures/lsl8w8wANQ9TJay-U7wWaMToHC0/0x257:4300x2676/432x243/filters:format(jpg)/2026/04/23/69e9dca680553329158915.jpg",
-      "published_at": "2026-04-23T19:13:08+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "4ec0af8bcc8e"
+      "title": "Chez Stellantis, à Poissy, peu de salariés en grève et des sous-traitants inquiets",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/23/chez-stellantis-a-poissy-peu-de-salaries-en-greve-et-des-sous-traitants-inquiets_6682843_3234.html",
+      "summary": "Plusieurs syndicats appelaient à manifester, jeudi, contre l’arrêt annoncé de l’assemblage de voitures sur le site des Yvelines, en 2028. L’impact sur l’emploi pourrait s’étendre à plusieurs fournisseurs de l’usine.",
+      "image": "https://img.lemde.fr/2026/04/23/484/0/6000/3000/644/322/60/0/ec9c275_ftp-1-prvh18irsbqp-2026-04-23t122453z-1795586661-rc2xuka2fikv-rtrmadp-3-stellantis-europe.JPG",
+      "published_at": "2026-04-23T19:09:48+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "e693509dd6e5"
     },
     {
       "title": "EN DIRECT - Guerre au Moyen-Orient : Israël attend le feu vert de Trump pour «ramener l’Iran à l’âge de pierre», assure un ministre de Nétanyahou",
@@ -91,16 +111,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "b64370fcfb5a"
-    },
-    {
-      "title": "Le gouvernement de Donald Trump a reclassé le cannabis pour faciliter son usage médical",
-      "url": "https://www.franceinfo.fr/sante/drogue-addictions/cannabis/le-gouvernement-de-donald-trump-a-reclasse-le-cannabis-pour-faciliter-son-usage-medical_7959731.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cette décision fait suite à un décret présidentiel signé le 18 décembre par Donald Trump, visant à encourager la recherche médicale sur le cannabis.",
-      "image": "https://www.franceinfo.fr/pictures/pxORPHZ_H4fik5ib98va8FOxRqE/0x311:6048x3713/432x243/filters:format(jpg)/2026/04/23/69ea4fe595280263309606.jpg",
-      "published_at": "2026-04-23T18:59:57+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "140053ec56c2"
     },
     {
       "title": "Sébastien Lecornu annonce un projet de loi logement et un troisième programme de renouvellement urbain",
@@ -311,16 +321,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "305eb46b51b3"
-    },
-    {
-      "title": "La loi sur l’homosexualité au Sénégal, un écran de fumée face à l’impuissance du tandem au pouvoir à Dakar",
-      "url": "https://www.lemonde.fr/international/article/2026/04/23/la-loi-sur-l-homosexualite-au-senegal-un-ecran-de-fumee-face-a-l-impuissance-du-tandem-au-pouvoir-a-dakar_6682829_3210.html",
-      "summary": "En criminalisant les « actes contre nature », le président Bassirou Diomaye Faye et son premier ministre, Ousmane Sonko, espèrent faire oublier les tensions sociales croissantes et les difficultés économiques persistantes.",
-      "image": "https://img.lemde.fr/2026/04/22/287/0/3454/1727/644/322/60/0/90d1c3e_upload-1-xce0yswnhyje-000-792y6z7.jpg",
-      "published_at": "2026-04-23T18:00:14+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "82b63923385d"
     }
   ]
 }
