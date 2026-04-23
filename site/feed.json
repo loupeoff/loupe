@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-04-23T19:10:58.725137+00:00",
+  "generated_at": "2026-04-23T19:12:44.759293+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Les mauvais comptes de François Durvye, le «monsieur business» du Rassemblement national",
+      "url": "https://www.liberation.fr/politique/elections/les-mauvais-comptes-de-francois-durvye-le-monsieur-business-du-rassemblement-national-20260423_V4WNFLJLEFBOZJK75NAYON5U5E/",
+      "summary": "Passé de relais officieux du parti auprès du patronat à «conseiller spécial» de Jordan Bardella, François Durvye a aussi été gestionnaire financier auprès du milliardaire identitaire Pierre-Edouard Stérin. Avec des résultats si peu convaincants que les affaires de ce dernier sont au plus mal.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-04-23T19:10:02+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "41c0bf7f206b"
+    },
+    {
+      "title": "EN DIRECT - Guerre au Moyen-Orient : des explosions entendues à Téhéran, Israël dément attaquer l’Iran",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-ne-donne-pas-de-date-limite-a-liran-pour-negocier-20260423_XO4SM6IJANFTXF4E6I7JJXXCDU/",
+      "summary": "Le Liban et l’état hébreu doivent se retrouver à la Maison Blanche en fin de journée ce jeudi pour des pourparlers, au lendemain d’une frappe meurtrière de Tsahal à l’encontre de deux journalistes libanaises. Donald Trump a assuré participer aux discussions.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-04-23T19:08:14+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "3e3017703f9b"
+    },
     {
       "title": "Passe d’armes diplomatique entre le Brésil et les Etats-Unis autour de l’ancien chef du renseignement de Jair Bolsonaro",
       "url": "https://www.lemonde.fr/international/article/2026/04/23/passe-d-armes-diplomatique-entre-le-bresil-et-les-etats-unis-autour-de-l-ancien-chef-du-renseignement-de-jair-bolsonaro_6682851_3210.html",
@@ -11,16 +31,6 @@
       "source": "Le Monde Inter",
       "category": "Sport",
       "id": "0c4bce5f4550"
-    },
-    {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : des explosions entendues à Téhéran, Israël dément attaquer l’Iran",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-ne-donne-pas-de-date-limite-a-liran-pour-negocier-20260423_XO4SM6IJANFTXF4E6I7JJXXCDU/",
-      "summary": "Le Liban et l’état hébreu doivent se retrouver à la Maison Blanche en fin de journée ce jeudi pour des pourparlers, au lendemain d’une frappe meurtrière de Tsahal à l’encontre de deux journalistes libanaises. Donald Trump a assuré participer aux discussions.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-04-23T19:04:19+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "3e3017703f9b"
     },
     {
       "title": "A Marseille, un homme muni d'une arme blanche abattu par la police municipale",
@@ -291,16 +301,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "761a15ea8f3e"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : la journaliste libanaise Amal Khalil visée et tuée par l’armée israélienne dans le sud du Liban",
-      "url": "https://www.liberation.fr/international/moyen-orient/guerre-au-moyen-orient-la-journaliste-libanaise-amal-khalil-tuee-par-une-frappe-israelienne-20260423_P7VIGHKGYNEGFEIEOOYSCXJQGI/",
-      "summary": "Dans un communiqué, le ministère libanais de la Santé affirme que l’armée israélienne a, après plusieurs frappes, «poursuivi» Amal Khalil et sa collègue photographe Zeinab Faraj, blessée. Les autorités et les ONG de défense du droit des journalistes dénoncent un crime de guerre.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-04-23T17:22:12+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "8d8ba6bade35"
     }
   ]
 }
