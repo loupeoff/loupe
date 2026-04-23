@@ -14,13 +14,18 @@
     dateEl.textContent = `${y}-${m}-${day}`;
   }
 
-  // Numéro d'édition = jour de l'année
-  const issueEl = document.getElementById("issue-num");
-  if (issueEl) {
-    const start = new Date(new Date().getFullYear(), 0, 0);
-    const diff = (new Date() - start) / (1000 * 60 * 60 * 24);
-    issueEl.textContent = String(Math.floor(diff)).padStart(3, "0");
+  // Heure en direct, mise à jour chaque seconde
+  function updateClock() {
+    const timeEl = document.getElementById("current-time");
+    if (!timeEl) return;
+    const d = new Date();
+    const h = String(d.getHours()).padStart(2, "0");
+    const m = String(d.getMinutes()).padStart(2, "0");
+    const s = String(d.getSeconds()).padStart(2, "0");
+    timeEl.textContent = `${h}:${m}:${s}`;
   }
+  updateClock();
+  setInterval(updateClock, 1000);
 
   // === Chargement du feed ===
   let feed;
@@ -32,11 +37,7 @@
     feed = demoFeed();
   }
 
-  // === Horodatage ===
-  const upd = document.getElementById("last-update");
-  upd.textContent = feed.generated_at
-    ? new Date(feed.generated_at).toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" })
-    : "demo";
+  // === Horodatage supprimé — l'horloge en direct remplace last_sync ===
 
   const articles = feed.articles || [];
   const countEl = document.getElementById("article-count");
