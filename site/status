@@ -20,10 +20,8 @@
   <span class="status__item"><span class="dot dot--live"></span>live</span>
   <span class="status__sep">/</span>
   <span class="status__item" id="current-date">—</span>
-  <span class="status__sep">/</span>
-  <span class="status__item">ed. <span id="issue-num">—</span></span>
   <span class="status__spacer"></span>
-  <span class="status__item status__item--mono">last_sync: <span id="last-update">—</span></span>
+  <span class="status__item status__item--mono" id="current-time">—</span>
 </div>
 
 <!-- ============ HEADER ============ -->
@@ -33,7 +31,7 @@
     <span class="brand__tag">// voir l'info autrement</span>
   </a>
   <nav class="nav__links">
-    <a href="#" class="active">[index]</a>
+    <a href="#" class="active">[à la une]</a>
     <a href="#">politique</a>
     <a href="#">monde</a>
     <a href="#">société</a>
