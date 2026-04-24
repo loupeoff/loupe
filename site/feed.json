@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-24T05:03:57.501214+00:00",
+  "generated_at": "2026-04-24T05:04:27.192852+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "En Europe centrale, la gauche en voie de disparition",
+      "url": "https://www.lemonde.fr/international/article/2026/04/24/en-europe-centrale-la-gauche-en-voie-de-disparition_6683012_3210.html",
+      "summary": "Les sociaux-démocrates n’ont plus de députés en Hongrie, en Bulgarie, en République tchèque, sont renvoyés dans l’opposition en Slovénie et plafonnent à moins de 10 % en Pologne. Souvent issus des anciens partis communistes, ils ont d’abord perdu les ouvriers au profit de formations plus nationalistes, puis les classes moyennes dans les années 2010.",
+      "image": "https://img.lemde.fr/2026/04/23/500/0/6000/3000/644/322/60/0/5d964de_upload-1-2jjnxg0rwv3y-2026-03-22t131129z-1786453953-rc2p9kam736a-rtrmadp-3-slovenia-election.JPG",
+      "published_at": "2026-04-24T07:00:17+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "f0911cd7854e"
+    },
     {
       "title": "«J’étais suivi en permanence» : des journalistes français sous pression à Hongkong",
       "url": "https://www.liberation.fr/international/asie-pacifique/jetais-suivi-en-permanence-des-journalistes-francais-sous-pression-a-hongkong-20260424_RF253SJQDJG2RF3FMPTRFMZJ4A/",
@@ -291,16 +301,6 @@
       "source": "Libération",
       "category": "Sport",
       "id": "60d624d7d6f9"
-    },
-    {
-      "title": "Le média en ligne « Brut », interlocuteur préféré de l’Elysée",
-      "url": "https://www.lemonde.fr/m-le-mag/article/2026/04/24/le-media-en-ligne-brut-interlocuteur-prefere-de-l-elysee_6682991_4500055.html",
-      "summary": "Si la proximité qui s’est établie entre Emmanuel Macron et le média aux millions d’abonnés sur les réseaux sociaux bouscule les traditions et interroge, les communicants du président l’assurent : elle n’est le résultat d’« aucune stratégie », pointant simplement une volonté du chef de l’Etat de s’appuyer sur de nouveaux canaux médiatiques pour toucher un public plus jeune.",
-      "image": "https://img.lemde.fr/2026/04/22/378/0/1244/622/644/322/60/0/373634d_upload-1-2yzv406vtbh0-web-img-762.jpg",
-      "published_at": "2026-04-24T05:00:15+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "4ed60bfcd2b1"
     }
   ]
 }

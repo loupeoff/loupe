@@ -7,9 +7,19 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Fri, 24 Apr 2026 05:03:57 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 24 Apr 2026 05:04:27 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>En Europe centrale, la gauche en voie de disparition</title>
+    <link>https://www.lemonde.fr/international/article/2026/04/24/en-europe-centrale-la-gauche-en-voie-de-disparition_6683012_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/04/24/en-europe-centrale-la-gauche-en-voie-de-disparition_6683012_3210.html</guid>
+    <pubDate>Fri, 24 Apr 2026 07:00:17 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[Les sociaux-démocrates n’ont plus de députés en Hongrie, en Bulgarie, en République tchèque, sont renvoyés dans l’opposition en Slovénie et plafonnent à moins de 10 % en Pologne. Souvent issus des anciens partis communistes, ils ont d’abord perdu les ouvriers au profit de formations plus nationalistes, puis les classes moyennes dans les années 2010.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/04/23/500/0/6000/3000/644/322/60/0/5d964de_upload-1-2jjnxg0rwv3y-2026-03-22t131129z-1786453953-rc2p9kam736a-rtrmadp-3-slovenia-election.JPG" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>«J’étais suivi en permanence» : des journalistes français sous pression à Hongkong</title>
     <link>https://www.liberation.fr/international/asie-pacifique/jetais-suivi-en-permanence-des-journalistes-francais-sous-pression-a-hongkong-20260424_RF253SJQDJG2RF3FMPTRFMZJ4A/</link>
@@ -299,16 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">Libération</source>
     <description><![CDATA[Une cinquantaine de pays se réunissent à Santa Marta, du 24 au 29 avril, pour tenter d’organiser une transition juste et ordonnée hors des hydrocarbures, premières responsables du réchauffement climatique.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Le média en ligne « Brut », interlocuteur préféré de l’Elysée</title>
-    <link>https://www.lemonde.fr/m-le-mag/article/2026/04/24/le-media-en-ligne-brut-interlocuteur-prefere-de-l-elysee_6682991_4500055.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/m-le-mag/article/2026/04/24/le-media-en-ligne-brut-interlocuteur-prefere-de-l-elysee_6682991_4500055.html</guid>
-    <pubDate>Fri, 24 Apr 2026 05:00:15 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Politique</source>
-    <description><![CDATA[Si la proximité qui s’est établie entre Emmanuel Macron et le média aux millions d’abonnés sur les réseaux sociaux bouscule les traditions et interroge, les communicants du président l’assurent : elle n’est le résultat d’« aucune stratégie », pointant simplement une volonté du chef de l’Etat de s’appuyer sur de nouveaux canaux médiatiques pour toucher un public plus jeune.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/04/22/378/0/1244/622/644/322/60/0/373634d_upload-1-2yzv406vtbh0-web-img-762.jpg" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>
