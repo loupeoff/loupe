@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-04-24T05:02:26.183658+00:00",
+  "generated_at": "2026-04-24T05:03:33.432747+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "«J’étais suivi en permanence» : des journalistes français sous pression à Hongkong",
+      "url": "https://www.liberation.fr/international/asie-pacifique/jetais-suivi-en-permanence-des-journalistes-francais-sous-pression-a-hongkong-20260424_RF253SJQDJG2RF3FMPTRFMZJ4A/",
+      "summary": "En plein tournage d’un documentaire sur Hongkong, une équipe de France Télévisions a été victime d’une vaste campagne d’intimidation chinoise. Une affaire qui marque «une escalade», selon Reporters sans frontières.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-04-24T05:00:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "e5d028ae83af"
+    },
+    {
+      "title": "La face cachée de la Fondation Brigitte-Bardot (3/3) : les juteux contrats avec le néofasciste Frédéric Chatillon",
+      "url": "https://www.liberation.fr/politique/la-face-cachee-de-la-fondation-brigitte-bardot-33-les-juteux-contrats-avec-le-neofasciste-frederic-chatillon-20260424_XHMI3UDMERFZVA3R5MLV25JO2I/",
+      "summary": "«Libération» a enquêté sur les zones d’ombre de la Fondation Brigitte-Bardot, fer de lance de la protection animale, laissée par l’actrice à sa mort, le 28 décembre 2025. Dans le troisième épisode : comment le prestataire du RN aux accointances néonazies reste un acteur clé de la structure, où ses sociétés multiplient les prestations lucratives, malgré sa condamnation et les alertes internes.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-04-24T05:00:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "aececa4eb1fe"
+    },
     {
       "title": "«Sublime(s)» au théâtre des Célestins : une mère face à son crime",
       "url": "https://www.liberation.fr/culture/sublimes-au-theatre-des-celestins-une-mere-face-a-son-crime-20260424_MW7GIOWVAJDIXHENQOAW3EPOHA/",
@@ -281,26 +301,6 @@
       "source": "Le Monde Politique",
       "category": "Politique",
       "id": "4ed60bfcd2b1"
-    },
-    {
-      "title": "Sortie des énergies fossiles : la Colombie se rêve fer de lance malgré sa dépendance",
-      "url": "https://www.liberation.fr/environnement/climat/sortie-des-energies-fossiles-la-colombie-se-reve-fer-de-lance-malgre-sa-dependance-20260424_RMFBLXFAGJALVGYY7SPOQ4LWNI/",
-      "summary": "Alors que le pays est un grand producteur de charbon et de pétrole, le Président, Gustavo Petro, voudrait en faire l’un des leaders mondiaux de la transition énergétique.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-04-24T02:50:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "7009fc1e1705"
-    },
-    {
-      "title": "Theodora triomphe lors des Flammes 2026",
-      "url": "https://www.lemonde.fr/culture/article/2026/04/24/theodora-triomphe-lors-des-flammes-2026_6682987_3246.html",
-      "summary": "Plus maîtrisée, mieux animée, la cérémonie, jeudi, a notamment sacré la chanteuse meilleure artiste féminine. Gims a obtenu le prix du meilleur artiste masculin et Hamza a décroché le meilleur morceau de l’année.",
-      "image": "https://img.lemde.fr/2026/04/23/0/0/4832/2416/644/322/60/0/394d632_ftp-1-haxe4hddj0or-5848321-01-06.jpg",
-      "published_at": "2026-04-24T04:00:03+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "d5ff8db090a2"
     }
   ]
 }
