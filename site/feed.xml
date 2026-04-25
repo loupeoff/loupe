@@ -7,9 +7,29 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Sat, 25 Apr 2026 21:55:45 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Apr 2026 23:59:08 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>Au Mali, les djihadistes font vaciller la junte en menant une attaque sans précédent</title>
+    <link>https://www.lemonde.fr/afrique/article/2026/04/26/au-mali-les-djihadistes-font-vaciller-la-junte-en-menant-une-attaque-sans-precedent_6683312_3212.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/afrique/article/2026/04/26/au-mali-les-djihadistes-font-vaciller-la-junte-en-menant-une-attaque-sans-precedent_6683312_3212.html</guid>
+    <pubDate>Sun, 26 Apr 2026 01:15:02 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[Samedi 25 avril, plusieurs villes, dont Bamako et Kati, où résident les généraux au pouvoir, ont été la cible d’un assaut coordonné entre les djihadistes du GSIM et les indépendantistes touaregs du FLA. Dans la soirée, la situation était sous contrôle des forces gouvernementales et de leur allié russe dans la capitale.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/04/25/338/0/2886/1443/644/322/60/0/8ef8cbb_ftp-1-oglx7kxcpip3-2026-04-25t113532z-749706044-rc26wkan78nt-rtrmadp-3-mali-security.JPG" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>EN DIRECT, guerre au Moyen-Orient : l’annulation du déplacement des émissaires américains au Pakistan pour négocier avec l’Iran ne signifie pas la reprise de la guerre, dit Donald Trump</title>
+    <link>https://www.lemonde.fr/international/live/2026/04/26/en-direct-guerre-au-moyen-orient-l-annulation-du-deplacement-des-emissaires-americains-au-pakistan-pour-negocier-avec-l-iran-ne-signifie-pas-la-reprise-de-la-guerre-dit-donald-trump_6681958_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/04/26/en-direct-guerre-au-moyen-orient-l-annulation-du-deplacement-des-emissaires-americains-au-pakistan-pour-negocier-avec-l-iran-ne-signifie-pas-la-reprise-de-la-guerre-dit-donald-trump_6681958_3210.html</guid>
+    <pubDate>Sun, 26 Apr 2026 00:11:54 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[Le président américain a estimé, samedi, qu’il n’était pas utile pour sa délégation de rejoindre Islamabad. Il a ajouté que les responsables iraniens pouvaient contacter Washington « à tout moment ».]]></description>
+    <enclosure url="https://img.lemde.fr/2026/04/12/198/0/5715/2857/644/322/60/0/bfed8e0_ftp-1-ibbsofnywh7d-2026-04-12t022502z-937643192-rc2dnka2gq6n-rtrmadp-3-iran-crisis-ceasefire-pakistan.JPG" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>Six nations 2026 : bousculées, les Françaises s&apos;imposent face à l&apos;Irlande et restent en course pour la victoire finale</title>
     <link>https://www.franceinfo.fr/sports/rugby/six-nations/six-nations-2026-bousculees-les-francaises-s-imposent-face-a-l-irlande-et-restent-en-course-pour-la-victoire-finale_7962137.html#xtor=RSS-3-[lestitres]</link>
@@ -67,7 +87,7 @@
     <pubDate>Sat, 25 Apr 2026 21:59:43 +0000</pubDate>
     <category>Politique</category>
     <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[A quelques semaines de l’élection présidentielle, « un engin explosif a été déclenché » sur une route de cette traditionnelle zone d’influence des groupes armés, a déclaré le gouverneur du Cauca.]]></description>
+    <description><![CDATA[A quelques semaines de l’élection présidentielle, « un engin explosif a été déclenché » sur une route de cette traditionnelle zone d’influence des groupes armés, a déclaré le gouverneur de cette région du sud-ouest de la Colombie.]]></description>
     <enclosure url="https://img.lemde.fr/2026/04/25/69/0/718/359/644/322/60/0/380f8d0_upload-1-ewomfnsatt0o-cauca.png" type="image/jpeg" length="0" />
   </item>
   <item>
@@ -146,7 +166,7 @@
     <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/04/25/les-venezueliens-dans-l-attente-des-retombees-de-l-ouverture-economique_6683275_3210.html</guid>
     <pubDate>Sat, 25 Apr 2026 20:30:14 +0000</pubDate>
     <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[L’assouplissement des sanctions américaines et la relance de l’activité pétrolière permettent l’injection de liquidités. Mais si un début de rétablissement est perceptible, les changements institutionnels et politiques restent flous.]]></description>
     <enclosure url="https://img.lemde.fr/2026/04/22/626/0/7520/3760/644/322/60/0/e0a725c_ftp-1-g15hwt6rls42-5837466-01-06.jpg" type="image/jpeg" length="0" />
   </item>
@@ -179,16 +199,6 @@
     <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
     <description><![CDATA[A la centrale de Tchernobyl, un test de sûreté mal préparé s’est conjugué à de graves défauts de conception pour mener à la catastrophe nucléaire. « Le Monde » plonge au cœur du réacteur, en 3D, pour comprendre les causes de l’accident.]]></description>
     <enclosure url="https://img.lemde.fr/2026/04/22/33/0/1920/960/644/322/60/0/b544f56_upload-1-p9lavqonjlux-vide-o-n-2-site.png" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce l’annulation du voyage au Pakistan des émissaires Steve Witkoff et Jared Kushner</title>
-    <link>https://www.lemonde.fr/international/live/2026/04/25/en-direct-guerre-au-moyen-orient-donald-trump-annonce-l-annulation-du-voyage-au-pakistan-des-emissaires-steve-witkoff-et-jared-kushner_6681958_3210.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/04/25/en-direct-guerre-au-moyen-orient-donald-trump-annonce-l-annulation-du-voyage-au-pakistan-des-emissaires-steve-witkoff-et-jared-kushner_6681958_3210.html</guid>
-    <pubDate>Sat, 25 Apr 2026 19:46:01 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[« Nous avons toutes les cartes. Ils peuvent nous appeler quand ils veulent, mais vous n’allez pas faire un vol de dix-huit heures pour rester assis à parler de rien », a déclaré le président américain, Donald Trump, samedi à la correspondante de Fox News à la Maison Blanche, Aishah Hasnie.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/04/12/198/0/5715/2857/644/322/60/0/bfed8e0_ftp-1-ibbsofnywh7d-2026-04-12t022502z-937643192-rc2dnka2gq6n-rtrmadp-3-iran-crisis-ceasefire-pakistan.JPG" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Adèle Haenel s&apos;estime &quot;chanceuse d&apos;avoir eu droit à la justice&quot; après la condamnation en appel de son agresseur Christophe Ruggia</title>
@@ -299,16 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">Libération</source>
     <description><![CDATA[Au cœur du vignoble du Bugey, près de Cerdon, le viticulteur Emerick Billon a imaginé quatre parcours de rando à travers les ceps, suivis d’un apéro dînatoire pour découvrir les vins du coin.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Migrants en Méditerranée : une réglementation italienne qui complique les opérations de sauvetage des ONG</title>
-    <link>https://www.franceinfo.fr/monde/europe/naufrage-a-lampedusa/migrants-en-mediterranee-une-reglementation-italienne-qui-compliquent-les-operations-de-sauvetage-des-ong_7962080.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/monde/europe/naufrage-a-lampedusa/migrants-en-mediterranee-une-reglementation-italienne-qui-compliquent-les-operations-de-sauvetage-des-ong_7962080.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sat, 25 Apr 2026 17:45:41 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Ces contraintes supplémentaires imposées aux navires humanitaires peuvent ralentir, voire entraver les opérations des bateaux, que ceux de SOS Méditerranée, venant en aide aux migrants.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/qz0ikjlVSOStvZPMpnV44x-xZ_M/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/04/24/69eb98c63bd68536339677.jpg" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>
