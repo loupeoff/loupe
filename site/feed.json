@@ -1,16 +1,136 @@
 {
-  "generated_at": "2026-04-25T17:25:33.117761+00:00",
+  "generated_at": "2026-04-25T19:57:40.505696+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "EN DIRECT - Guerre au Proche-Orient : Trump annule le voyage au Pakistan de ses émissaires Steve Witkoff et Jared Kushner",
+      "title": "Guerre au Moyen-Orient : Donald Trump annule le déplacement des émissaires américains après que la délégation iranienne a quitté Islamabad",
+      "url": "https://www.franceinfo.fr/monde/conflit-israel-iran/direct-guerre-au-moyen-orient-le-negociateur-iranien-au-pakistan-les-emissaires-americains-attendus-ce-samedi-pour-une-reprise-des-pourparlers_7963601.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le chef de la diplomatie iranienne, Abbas Araghchi, a rencontré des dirigeants pakistanais au sujet des pourparlers de paix, avant de repartir avant l'arrivée attendue de la délégation américaine. Donald Trump a donc annulé la visite au Pakistan de Steve Witkoff et Jared Kushner.",
+      "image": "https://www.franceinfo.fr/pictures/_-wunwXEdWF88PDG-IBybHrFHso/0x256:2998x1942/432x243/filters:format(jpg)/2026/04/25/69ecc72ace034842076617.jpg",
+      "published_at": "2026-04-25T21:29:48+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "fec4bf6c6462"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : le bilan des frappes russes sur Dnipro s’alourdit à huit morts",
+      "url": "https://www.lemonde.fr/international/live/2026/04/25/en-direct-guerre-en-ukraine-le-bilan-des-frappes-russes-sur-dnipro-s-alourdit-a-huit-morts_6681322_3210.html",
+      "summary": "Selon le média « Ukrainska Pravda », les attaques russes sur la ville de Dnipro ont également fait au moins 56 blessés.",
+      "image": "https://img.lemde.fr/2026/04/25/139/0/1280/640/644/322/60/0/f7a2ed2_ftp-1-qwx9j42i9shi-5862214-01-06.jpg",
+      "published_at": "2026-04-25T21:26:14+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "eaa6ab349bdb"
+    },
+    {
+      "title": "Ligue 1 : vainqueur d'Angers, le PSG se rapproche du titre, Lyon s'invite sur le podium",
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-1/ligue-1-lyon-s-impose-face-a-auxerre-et-fait-une-bonne-operation-dans-la-course-a-l-europe_7963976.html#xtor=RSS-3-[lestitres]",
+      "summary": "Sans ses titulaires habituels, le PSG s'est largement imposé face à Angers (3-0), samedi, lors de la 31e journée de Ligue 1.",
+      "image": "https://www.franceinfo.fr/pictures/y2U02P6qLnOfCPEQDrPNIte9a5Q/0x0:2000x1125/432x243/filters:format(jpg)/2026/04/25/69ed113e072b7858306251.png",
+      "published_at": "2026-04-25T21:14:27+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "b7147bb5eeaf"
+    },
+    {
+      "title": "Coupe de France de basket : Monaco sacré chez les hommes, Basket Landes couronné chez les femmes",
+      "url": "https://www.franceinfo.fr/sports/basket/coupe-de-france-de-basket-monaco-sacre-chez-les-hommes-basket-landes-couronne-chez-les-femmes_7964096.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les joueuses de Basket Landes ont remporté, samedi, leur 3e Coupe du France en cinq ans face à Villeneuve-d'Ascq (77-65) à Bercy.",
+      "image": "https://www.franceinfo.fr/pictures/ksbZiGiyET7u0uTA9_EDDqhOh3A/0x0:2000x1125/432x243/filters:format(jpg)/2026/04/25/69ed0e01904e6663697123.png",
+      "published_at": "2026-04-25T20:59:53+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "4b39ecdcaaa1"
+    },
+    {
+      "title": "Football : à trois jours d'affronter le PSG en Ligue des champions, le Bayern Munich impressionne avec une folle remontée à Mayence",
+      "url": "https://www.franceinfo.fr/sports/foot/bayern-munich/football-a-trois-jours-d-affronter-le-psg-en-ligue-des-champions-le-bayern-munich-impressionne-avec-une-folle-remontee-a-mayence_7964084.html#xtor=RSS-3-[lestitres]",
+      "summary": "Menés 3-0 à la pause, les Bavarois se sont imposés 4-3 face à Mayence, samedi, lors de la 31e journée de Bundesliga.",
+      "image": "https://www.franceinfo.fr/pictures/rAObcyuo_ivyZNHwQ5homqMwBiI/0x52:1024x628/432x243/filters:format(jpg)/2026/04/25/69ed0de38370c351817009.jpg",
+      "published_at": "2026-04-25T20:57:26+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "6af71f9d80cd"
+    },
+    {
+      "title": "Guerre au Liban : Benyamin Nétanyahou dénonce des violations du cessez-le-feu et ordonne des attaques contre le Hezbollah",
+      "url": "https://www.franceinfo.fr/monde/israel/guerre-au-liban-benyamin-netanyahou-denonce-des-violations-du-cessez-le-feu-et-ordonne-des-attaques-contre-le-hezbollah_7964180.html#xtor=RSS-3-[lestitres]",
+      "summary": "Israël et le mouvement islamiste s'accusent mutuellement de ne pas respecter l'accord, pourtant prolongé cette semaine.",
+      "image": "https://www.franceinfo.fr/pictures/JSqXne1ZnMuJLRFY5U_aCaTqnP4/0x0:6000x3375/432x243/filters:format(jpg)/2026/04/25/69ed05e2710db892892031.jpg",
+      "published_at": "2026-04-25T20:46:03+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "782c8e213088"
+    },
+    {
+      "title": "Augmentation des sinistres climatiques : \"Il faut pérenniser à tout prix notre système catastrophe naturelle\", selon le député Fabrice Barusseau",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/augmentation-des-sinistres-climatiques-il-faut-perenniser-a-tout-prix-notre-systeme-catastrophe-naturelle-selon-le-depute-fabrice-barusseau_7964177.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'élu du groupe socialistes et apparentés plaide pour une modulation des primes d'assurance alors que la Cour des comptes a alerté sur la viabilité du régime de catastrophes naturelles.",
+      "image": "https://www.franceinfo.fr/pictures/9BMbBP3jXvnY8cPPbMZyq5_O-yQ/0x0:4958x2788/432x243/filters:format(jpg)/2026/04/25/69ed0b72a5f3c614725603.jpg",
+      "published_at": "2026-04-25T20:44:34+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "0d27481a9489"
+    },
+    {
+      "title": "Guerre au Proche-Orient : Trump annule le voyage au Pakistan de ses émissaires Steve Witkoff et Jared Kushner",
       "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-proche-orient-la-delegation-americaine-attendue-a-islamabad-au-pakistan-20260425_SER3JH75SZBXPBGVKC4GGTDEGI/",
       "summary": "Le président américain a annulé le déplacement au Pakistan de ses envoyés spéciaux pour négocier avec l’Iran. «Personne ne sait qui est aux commandes» à Téhéran, a affirmé Donald Trump, qui précise toutefois que l’annulation du déplacement «ne signifie pas une reprise de la guerre».",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-04-25T17:17:37+00:00",
+      "published_at": "2026-04-25T18:41:40+00:00",
       "source": "Libération",
       "category": "Politique",
       "id": "4525b0bdfd7d"
+    },
+    {
+      "title": "Les Vénézuéliens dans l’attente des retombées de l’ouverture économique",
+      "url": "https://www.lemonde.fr/international/article/2026/04/25/les-venezueliens-dans-l-attente-des-retombees-de-l-ouverture-economique_6683275_3210.html",
+      "summary": "L’assouplissement des sanctions américaines et la relance de l’activité pétrolière permettent l’injection de liquidités. Mais si un début de rétablissement est perceptible, les changements institutionnels et politiques restent flous.",
+      "image": "https://img.lemde.fr/2026/04/22/626/0/7520/3760/644/322/60/0/e0a725c_ftp-1-g15hwt6rls42-5837466-01-06.jpg",
+      "published_at": "2026-04-25T20:30:14+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "7c48ebd295f5"
+    },
+    {
+      "title": "Les jihadistes du JNIM revendiquent des attaques dans plusieurs villes du Mali, où la situation reste confuse",
+      "url": "https://www.franceinfo.fr/monde/afrique/mali/des-combats-en-cours-pres-de-bamako-et-dans-l-interieur-du-mali-entre-armee-et-groupes-terroristes_7963859.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Des groupes armés terroristes, non encore identifiés, ont pris pour cibles tôt ce matin certains points et casernes de la capitale et de l'intérieur\" du Mali, affirme de son côté l'armée malienne.",
+      "image": "https://www.franceinfo.fr/pictures/Z8M0Vq9pUiUywuzjcQsNTyWvoPs/0x315:6057x3723/432x243/filters:format(jpg)/2026/04/25/69ecac1194df3990227053.jpg",
+      "published_at": "2026-04-25T20:27:07+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "b7ef311b6a74"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : des fidèles iraniens arrivent en Arabie saoudite pour le pèlerinage de La Mecque",
+      "url": "https://www.franceinfo.fr/monde/moyen-orient/guerre-au-moyen-orient-des-fideles-iraniens-arrivent-en-arabie-saoudite-pour-le-pelerinage-de-la-mecque_7964162.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les relations diplomatiques entre les deux pays sont pourtant mauvaises depuis le début de la guerre. Téhéran a mené de multiples attaques contre les monarchies du Golfe.",
+      "image": "https://www.franceinfo.fr/pictures/rCV4IvUlc21ntY1e15b9n7Lo58c/0x348:6000x3721/432x243/filters:format(jpg)/2026/04/25/69ecfef8b4605681013905.jpg",
+      "published_at": "2026-04-25T19:55:39+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "d99e074ea728"
+    },
+    {
+      "title": "VIDEO - 40 ans de Tchernobyl : que s’est-il passé dans le réacteur ?",
+      "url": "https://www.lemonde.fr/international/video/2026/04/25/tchernobyl-l-origine-d-une-catastrophe-atomique-plongee-en-3d-au-coeur-du-reacteur_6683273_3210.html",
+      "summary": "A la centrale de Tchernobyl, un test de sûreté mal préparé s’est conjugué à de graves défauts de conception pour mener à la catastrophe nucléaire. « Le Monde » plonge au cœur du réacteur, en 3D, pour comprendre les causes de l’accident.",
+      "image": "https://img.lemde.fr/2026/04/22/33/0/1920/960/644/322/60/0/b544f56_upload-1-p9lavqonjlux-vide-o-n-2-site.png",
+      "published_at": "2026-04-25T19:54:53+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "ed6a156ffd43"
+    },
+    {
+      "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce l’annulation du voyage au Pakistan des émissaires Steve Witkoff et Jared Kushner",
+      "url": "https://www.lemonde.fr/international/live/2026/04/25/en-direct-guerre-au-moyen-orient-donald-trump-annonce-l-annulation-du-voyage-au-pakistan-des-emissaires-steve-witkoff-et-jared-kushner_6681958_3210.html",
+      "summary": "« Nous avons toutes les cartes. Ils peuvent nous appeler quand ils veulent, mais vous n’allez pas faire un vol de dix-huit heures pour rester assis à parler de rien », a déclaré le président américain, Donald Trump, samedi à la correspondante de Fox News à la Maison Blanche, Aishah Hasnie.",
+      "image": "https://img.lemde.fr/2026/04/12/198/0/5715/2857/644/322/60/0/bfed8e0_ftp-1-ibbsofnywh7d-2026-04-12t022502z-937643192-rc2dnka2gq6n-rtrmadp-3-iran-crisis-ceasefire-pakistan.JPG",
+      "published_at": "2026-04-25T19:46:01+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "2b4d3fa94e3a"
     },
     {
       "title": "Adèle Haenel s'estime \"chanceuse d'avoir eu droit à la justice\" après la condamnation en appel de son agresseur Christophe Ruggia",
@@ -45,9 +165,9 @@
     {
       "title": "A Athènes, Emmanuel Macron pousse les entreprises françaises à investir en Grèce",
       "url": "https://www.lemonde.fr/economie/article/2026/04/25/a-athenes-emmanuel-macron-pousse-les-entreprises-francaises-a-investir-en-grece_6683272_3234.html",
-      "summary": "En visite dans la capitale grecque, le Président français était accompagné d’une délégation d’entrepreneurs français intéressés à investir dans un pays en pleine croissance",
+      "summary": "En visite dans la capitale grecque, le président français était accompagné d’une délégation d’entrepreneurs français intéressés par l’investissement dans un pays en pleine croissance.",
       "image": "https://img.lemde.fr/2026/04/25/847/0/7407/3703/644/322/60/0/1ee918d_ftp-1-dr3g9i6db9wz-5862812-01-06.jpg",
-      "published_at": "2026-04-25T18:51:15+02:00",
+      "published_at": "2026-04-25T18:51:11+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "08fcd72df75b"
@@ -73,26 +193,6 @@
       "id": "f6ed600fc0aa"
     },
     {
-      "title": "Guerre au Moyen-Orient : Donald Trump annule le déplacement des émissaires américains après que la délégation iranienne a quitté Islamabad",
-      "url": "https://www.franceinfo.fr/monde/conflit-israel-iran/direct-guerre-au-moyen-orient-le-negociateur-iranien-au-pakistan-les-emissaires-americains-attendus-ce-samedi-pour-une-reprise-des-pourparlers_7963601.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le chef de la diplomatie iranienne, Abbas Araghchi, a rencontré des dirigeants pakistanais au sujet des pourparlers de paix, avant de repartir avant l'arrivée attendue de la délégation américaine. Donald Trump a donc annulé la visite au Pakistan de Steve Witkoff et Jared Kushner.",
-      "image": "https://www.franceinfo.fr/pictures/_-wunwXEdWF88PDG-IBybHrFHso/0x256:2998x1942/432x243/filters:format(jpg)/2026/04/25/69ecc72ace034842076617.jpg",
-      "published_at": "2026-04-25T18:08:18+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "fec4bf6c6462"
-    },
-    {
-      "title": "Football : à trois jours d'affronter le PSG en Ligue des champions, le Bayern Munich impressionne avec une folle remontée à Mayence",
-      "url": "https://www.franceinfo.fr/sports/foot/bayern-munich/football-a-trois-jours-d-affronter-le-psg-en-ligue-des-champions-le-bayern-munich-impressionne-avec-une-folle-remontee-a-mayence_7964084.html#xtor=RSS-3-[lestitres]",
-      "summary": "Menés 3-0 à la pause, les Bavarois se sont imposés 4-3 face à Mayence, samedi, lors de la 31e journée de Bundesliga.",
-      "image": "https://www.franceinfo.fr/pictures/VKhhB1eip-WnpYG6wGayWvoFyBE/0x109:5815x3380/432x243/filters:format(jpg)/2026/04/25/69ece07655e1c289240117.jpg",
-      "published_at": "2026-04-25T18:01:18+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "6af71f9d80cd"
-    },
-    {
       "title": "Vincent Azoulay, helléniste : « Ce qui m’anime, c’est la question de la démocratie, de la fraternité, de l’autolimitation par le biais du théâtre, de la comédie, des rumeurs »",
       "url": "https://www.lemonde.fr/livres/article/2026/04/25/vincent-azoulay-helleniste-ce-qui-m-anime-c-est-la-question-de-la-democratie-de-la-fraternite-de-l-autolimitation-par-le-biais-du-theatre-de-la-comedie-des-rumeurs_6683270_3260.html",
       "summary": "Rencontre avec l’une des figures de proue de la nouvelle école française d’histoire antique, qui ne craint pas de faire des allers-retours entre passé et contemporain. Son nouveau livre, « Ostracisme ! Du bon usage de l’arbitraire en démocratie », l’atteste.",
@@ -101,16 +201,6 @@
       "source": "Le Monde",
       "category": "Culture",
       "id": "f58923077d66"
-    },
-    {
-      "title": "Série : « Half Man », sur HBO Max, deux garçons liés par-delà le bien et le mal",
-      "url": "https://www.lemonde.fr/culture/article/2026/04/25/serie-half-man-sur-hbo-max-deux-garcons-lies-par-dela-le-bien-et-le-mal_6683268_3246.html",
-      "summary": "Après « Mon petit renne », le réalisateur et acteur écossais Richard Gadd revient avec une série au réalisme très britannique qui explore, sur une durée de trente ans, les relations toxiques entre deux hommes.",
-      "image": "https://img.lemde.fr/2026/04/24/86/0/1920/960/644/322/60/0/9700c4d_upload-1-oyg8f38tzvck-jamie-bell-richard-gadd.jpg",
-      "published_at": "2026-04-25T18:00:09+02:00",
-      "source": "Le Monde",
-      "category": "Culture",
-      "id": "84943cca9c70"
     },
     {
       "title": "En Italie, peut-on vraiment redoubler à cause de son mauvais comportement ?",
@@ -211,96 +301,6 @@
       "source": "France Info",
       "category": "International",
       "id": "498eb61bd368"
-    },
-    {
-      "title": "Ligue 1 : Lyon s’impose face à Auxerre et fait une bonne opération dans la course à l’Europe",
-      "url": "https://www.franceinfo.fr/sports/foot/ligue-1/ligue-1-lyon-s-impose-face-a-auxerre-et-fait-une-bonne-operation-dans-la-course-a-l-europe_7963976.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'OL s'est imposé 3-2 face au 16e du championnat, samedi, dans le cadre de la 31e journée de Ligue 1 et met la pression sur Lille dans la lutte pour la 3e place.",
-      "image": "https://www.franceinfo.fr/pictures/7x3FRw8p-7dlRAsvTWHb7S9SEbM/0x0:1024x576/432x243/filters:format(jpg)/2026/04/25/69ecd69e805e5307059265.jpg",
-      "published_at": "2026-04-25T17:18:26+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "b7147bb5eeaf"
-    },
-    {
-      "title": "\"Il sera craint par tout le monde\" : Arthur Fils peut-il bousculer la hiérarchie à Roland-Garros ?",
-      "url": "https://www.franceinfo.fr/sports/tennis/il-sera-craint-par-tout-le-monde-arthur-fils-peut-il-bousculer-la-hierarchie-a-roland-garros_7953482.html#xtor=RSS-3-[lestitres]",
-      "summary": "De retour sur les courts après une longue convalescence, Arthur Fils a brillé sur terre battue en remportant l'ATP 500 de Barcelone. A l’approche de Roland-Garros, il suscite des attentes élevées.",
-      "image": "https://www.franceinfo.fr/pictures/AzY1OkL6cTQl9hB5TseqAWOL2Gc/0x0:1024x576/432x243/filters:format(jpg)/2026/04/21/69e74908f4208844323758.jpg",
-      "published_at": "2026-04-25T17:15:27+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "00dd14eafa85"
-    },
-    {
-      "title": "Frédéric Souillot réélu pour un deuxième mandat à la tête de Force ouvrière",
-      "url": "https://www.franceinfo.fr/economie/syndicats/frederic-souillot-a-ete-reelu-pour-un-deuxieme-mandat-a-la-tete-du-syndicat-fo_7964000.html#xtor=RSS-3-[lestitres]",
-      "summary": "Seul candidat à sa succession, il a notamment insisté sur la nécessité de rajeunir ses troupes de la centrale syndicale lors du 26e congrès organisé à Dijon (Côte-d'Or).",
-      "image": "https://www.franceinfo.fr/pictures/WMguqLhgC9Kp9tC6H93DQlsBtAw/0x625:6000x4000/432x243/filters:format(jpg)/2026/04/25/69ecd7d03e67c954572595.jpg",
-      "published_at": "2026-04-25T17:10:39+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "b62ff4229660"
-    },
-    {
-      "title": "Quels sont les pires films de zombies de l’histoire du cinéma ?",
-      "url": "https://www.numerama.com/pop-culture/2237457-quels-sont-les-pires-films-de-zombies-de-lhistoire-du-cinema.html",
-      "summary": "Faire une liste des pires films de zombies n’est pas une mince affaire, tant le genre regorge de longs-métrages allant du passable au franchement inregardable. Les morts-vivants occupent en effet une place centrale dans le cinéma de série B, voire Z, au point qu’il suffit de s’y pencher un instant pour en trouver un représentant qui a tout d'un navet.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-04-25T15:00:00+00:00",
-      "source": "Numerama",
-      "category": "Culture",
-      "id": "26d9a25bd0dc"
-    },
-    {
-      "title": "Mali : des combats en cours à Bamako, la ville de Kidal serait tombée aux mains des rebelles touareg",
-      "url": "https://www.liberation.fr/international/afrique/mali-des-combats-en-cours-a-bamako-et-dans-linterieur-du-pays-entre-des-soldats-et-des-groupes-terroristes-20260425_7DRAXPYMSFE5RHYXCZ6RORNVVE/",
-      "summary": "Selon l’armée malienne, des hommes armés ont pris pour cibles ce samedi 25 avril «certains points et casernes de la capitale et de l’intérieur» du pays. Les rebelles touareg revendiquent la prise de la ville stratégique de Kidal, dans le nord-est du Mali.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-04-25T14:57:26+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "1f94acbb5272"
-    },
-    {
-      "title": "Emmanuel Macron veut étaler le remboursement de la dette européenne de la période Covid et plaide pour de nouveaux emprunts communs",
-      "url": "https://www.lemonde.fr/international/article/2026/04/25/emmanuel-macron-veut-etaler-le-remboursement-de-la-dette-europeenne-de-la-periode-covid-et-plaide-pour-de-nouveaux-emprunts-communs_6683263_3210.html",
-      "summary": "Au second jour de sa visite en Grèce, le président de la République a également vanté la solidité de la clause d’assistance mutuelle de l’Union européenne en cas d’attaque.",
-      "image": "https://img.lemde.fr/2026/04/25/939/0/8460/4230/644/322/60/0/3b50474_ftp-1-dkdw6k0ywr5y-b62693caa9584e4ab172c1c598a815b0-0-b41dc56f323c4ad4a18e87fa09f13d20.jpg",
-      "published_at": "2026-04-25T16:46:26+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "c904c13fb766"
-    },
-    {
-      "title": "Kenya : l’industrie du thé noir, victime collatérale de la guerre au Moyen-Orient",
-      "url": "https://www.liberation.fr/international/afrique/kenya-lindustrie-du-the-noir-victime-collaterale-de-la-guerre-au-moyen-orient-20260425_YBTPBDIZEZG7PLB6AUOUCMNUZI/",
-      "summary": "Au moins 10 millions de kilos de thé sont bloqués dans le port de Mombasa, à cause de la hausse du prix du carburant et des perturbations au Moyen-Orient, qui empêchent le commerce avec l’Egypte, le Pakistan ou l‘Iran, clients traditionnels.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-04-25T14:46:00+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "c006300b781c"
-    },
-    {
-      "title": "\"J'étais terrorisée\" : une octogénaire française raconte son calvaire, après sa détention dans un centre pour migrants aux Etats-Unis",
-      "url": "https://www.franceinfo.fr/monde/usa/j-etais-terrorisee-une-octogenaire-francaise-raconte-son-calvaire-apres-sa-detention-dans-un-centre-pour-migrants-aux-etats-unis_7963952.html#xtor=RSS-3-[lestitres]",
-      "summary": "Marie-Thérèse Ross, 86 ans, a passé plus de deux semaines en détention car son visa n'était plus valable. De retour dans l'agglomération nantaise, elle s'est confiée auprès du quotidien \"Ouest-France\".",
-      "image": "https://www.franceinfo.fr/pictures/jovdoRsEcispPg49TtMdMi9kb2U/0x0:7041x3960/432x243/filters:format(jpg)/2026/04/25/69ecd20def3a9684422587.jpg",
-      "published_at": "2026-04-25T16:39:52+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "a3d71bed66be"
-    },
-    {
-      "title": "Pollutions au PFAS dans des eaux minérales en Ardèche et dans la Loire : \"On a besoin d'action politique pour arrêter ces contaminations\", plaide la directrice de Foodwatch France",
-      "url": "https://www.franceinfo.fr/environnement/pollution/pfas/pollutions-au-pfas-dans-des-eaux-minerales-en-ardeche-et-dans-la-loire-on-a-besoin-d-action-politique-pour-arreter-ces-contaminations-plaide-la-directrice-de-foodwatch-france_7963973.html#xtor=RSS-3-[lestitres]",
-      "summary": "Trois sources d'eau minérale dans la Loire et en Ardèche ont été fermées à cause d'une trop grande concentration de PFAS, des polluants \"éternels\".",
-      "image": "https://www.franceinfo.fr/pictures/q08b0CmWnhe9BNcL_9CTMId8imA/0x0:3990x2244/432x243/filters:format(jpg)/2026/04/25/69ecd177623da956477297.jpg",
-      "published_at": "2026-04-25T16:39:11+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "2a1ffb0c80c1"
     }
   ]
 }
