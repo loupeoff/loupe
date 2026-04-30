@@ -1,16 +1,106 @@
 {
-  "generated_at": "2026-04-29T20:43:51.684712+00:00",
+  "generated_at": "2026-04-30T00:10:10.963367+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Attentat à l’aéroport de Kaboul en 2021 : un Afghan, présumé membre de l’EI, condamné aux Etats-Unis pour complicité",
+      "url": "https://www.lemonde.fr/international/article/2026/04/30/attentat-a-l-aeroport-de-kaboul-en-2021-un-afghan-presume-membre-de-l-ei-condamne-aux-etats-unis-pour-complicite_6684395_3210.html",
+      "summary": "Mohammad Sharifullah risque jusqu’à 20 ans de prison pour avoir participé à cette attaque qui avait coûté la vie à 183 personnes, dont 13 soldats américains, au moment où les talibans reprenaient l’Afghanistan.",
+      "image": "https://img.lemde.fr/2021/08/27/770/0/4622/2311/644/322/60/0/e09def3_5522049-01-06.jpg",
+      "published_at": "2026-04-30T02:06:43+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "2d7254a4a6c7"
+    },
+    {
+      "title": "Donald Trump envisage de réduire le nombre de soldats américains stationnés en Allemagne",
+      "url": "https://www.lemonde.fr/international/article/2026/04/30/donald-trump-envisage-de-reduire-le-nombre-de-soldats-americains-stationnes-en-allemagne_6684362_3210.html",
+      "summary": "Cette annonce survient quelques jours après des critiques du chancelier allemand sur l’absence de stratégie américaine dans la guerre en Iran. Selon les médias allemands, 50 000 militaires américains se trouvent actuellement en poste outre-Rhin.",
+      "image": "https://img.lemde.fr/2026/04/29/988/0/8256/4128/644/322/60/0/81759a3_upload-1-aevqhcd80q9k-000-43er7vg.jpg",
+      "published_at": "2026-04-30T01:45:07+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "ad3c8994f50d"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Donald Trump dit avoir plaidé pour un cessez-le-feu, lors de sa conversation téléphonique avec Vladimir Poutine",
+      "url": "https://www.lemonde.fr/international/live/2026/04/30/en-direct-guerre-en-ukraine-donald-trump-dit-avoir-plaide-pour-un-cessez-le-feu-lors-de-sa-conversation-telephonique-avec-vladimir-poutine_6683420_3210.html",
+      "summary": "Le président américain a déclaré, mercredi, avoir eu un « très bon » échange avec son homologue russe. Selon le conseiller diplomatique du Kremlin, un cessez-le-feu aurait été envisagé le 9 mai, à l’occasion des célébrations du « jour de la victoire » en Russie.",
+      "image": "https://img.lemde.fr/2026/04/29/188/0/2251/1125/644/322/60/0/e58ee37_ftp-1-xrmmyfn8piyp-5896277-01-06.jpg",
+      "published_at": "2026-04-30T00:55:51+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "1c82c349ae3c"
+    },
+    {
+      "title": "James Comey, ancien directeur du FBI inculpé par le ministère de la justice, affirme n’avoir « toujours pas peur »",
+      "url": "https://www.lemonde.fr/international/article/2026/04/30/james-comey-ancien-directeur-du-fbi-inculpe-par-le-ministere-de-la-justice-affirme-n-avoir-toujours-pas-peur_6684329_3210.html",
+      "summary": "Cette cible récurrente de Donald Trump s’est présentée mercredi aux autorités fédérales. Il est accusé d’avoir menacé la vie du président américain après avoir posté un message sur les réseaux sociaux pouvant suggérer qu’il souhaitait le départ du locataire de la Maison Blanche.",
+      "image": "https://img.lemde.fr/2026/04/29/802/0/5392/2696/644/322/60/0/bff8aad_ftp-1-qphrhnvqzopj-49c345f013224bc89e73e0442640b2b8-0-74c6ed0c18c945fb8d01a9726abf6469.jpg",
+      "published_at": "2026-04-30T00:45:04+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "e7387f369dd3"
+    },
     {
       "title": "\"La Terre est là, magnifique\" : revivez l'interview de l'astronaute française Sophie Adenot dans le \"20 Heures\" de France 2",
       "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/direct-suivez-l-interview-exceptionnelle-de-l-astronaute-francaise-sophie-adenot-depuis-la-station-spatiale-internationale-dans-le-20-heures-de-france-2_7972493.html#xtor=RSS-3-[lestitres]",
       "summary": "La Française de 43 ans a accordé un entretien à Léa Salamé, mercredi 29 avril.",
       "image": "https://www.franceinfo.fr/pictures/_9tC1LYQA1pKunSPrgF4GC5Y9mA/0x0:1630x917/432x243/filters:format(jpg)/2026/04/29/69f24d857301e665132918.jpg",
-      "published_at": "2026-04-29T22:40:35+02:00",
+      "published_at": "2026-04-29T22:14:48+00:00",
       "source": "France Info",
       "category": "Société",
       "id": "d12bc4cebb1d"
+    },
+    {
+      "title": "Tennis : Arthur Fils écarte Jiri Lehecka et retrouvera Jannik Sinner en demi-finale du tournoi de Madrid",
+      "url": "https://www.franceinfo.fr/sports/tennis/tennis-arthur-fils-ecarte-jiri-lehecka-et-retrouvera-jannik-sinner-en-demi-finale-du-tournoi-de-madrid_7972673.html#xtor=RSS-3-[lestitres]",
+      "summary": "Très convaincant à nouveau, le Français a éliminé le Tchèque, 14e mondial, en deux sets et affrontera le n°1 mondial en demi-finale.",
+      "image": "https://www.franceinfo.fr/pictures/aTWDRc1Aj0xC3xmuLLPmNqLRpeI/0x0:6192x3483/432x243/filters:format(jpg)/2026/04/29/69f272dae0c9f406119573.jpg",
+      "published_at": "2026-04-29T23:50:40+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "7c282e4536aa"
+    },
+    {
+      "title": "Ligue des champions : l'Atlético de Madrid et Arsenal se neutralisent dans un match fermé en demi-finale aller",
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/ligue-des-champions-l-atletico-de-madrid-et-arsenal-se-neutralisent-dans-un-match-ferme-en-demi-finale-aller_7972664.html#xtor=RSS-3-[lestitres]",
+      "summary": "Viktor Gyökeres et Julian Alvarez ont tous les deux inscrit un but sur penalty, mercredi. Tout restera à faire dans une semaine, à Londres.",
+      "image": "https://www.franceinfo.fr/pictures/-ZD5ZqErVxqFwUHqkvVWbPgxGrs/0x0:3644x2049/432x243/filters:format(jpg)/2026/04/29/69f26a82b8ada815031962.jpg",
+      "published_at": "2026-04-29T23:46:34+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "055811108ac0"
+    },
+    {
+      "title": "Atlético de Madrid-Arsenal : le résumé du duel accroché et sans vainqueur en demi-finale aller de la Ligue des champions",
+      "url": "https://www.lemonde.fr/sport/article/2026/04/29/atletico-de-madrid-arsenal-le-resume-du-duel-accroche-et-sans-vainqueur-en-demi-finale-aller-de-la-ligue-des-champions_6684328_3242.html",
+      "summary": "Les Colchoneros et les Gunners ne sont pas parvenus à se départager, mercredi, au stade Metropolitano (1-1), lors d’un match marqué par deux penalties. Viktor Gyökeres a inscrit le premier, imité ensuite par Julian Alvarez. Le match retour aura lieu à Londres, mardi 5 mai.",
+      "image": "https://img.lemde.fr/2026/04/29/0/0/4486/2243/644/322/60/0/c8baa04_ftp-1-muomxydmewqq-5900563-01-06.jpg",
+      "published_at": "2026-04-29T23:39:56+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "a885ea6bbce2"
+    },
+    {
+      "title": "Procès de l’affaire libyenne : plutôt que de répondre à Guéant, Sarkozy contre-attaque avec de nouveaux éléments",
+      "url": "https://www.lemonde.fr/societe/article/2026/04/29/proces-de-l-affaire-libyenne-faute-de-repondre-a-gueant-sarkozy-contre-attaque-avec-de-nouveaux-elements_6684327_3224.html",
+      "summary": "Alors qu’était très attendue mercredi la réaction de l’ancien chef de l’Etat à la deuxième attestation livrée par son ancien collaborateur, ses avocats ont produit des chiffres tendant à prouver que sur les 6 millions d’euros envoyés par les Libyens, la moitié aurait été reversée au fils d’Abdallah Senoussi.",
+      "image": "https://img.lemde.fr/2026/04/29/308/0/3664/1832/644/322/60/0/ce4ff3e_ftp-1-ozktwmhlkkqj-2026-04-29t113543z-1317108218-rc2xyka2q1rr-rtrmadp-3-france-politics-sarkozy-trial.JPG",
+      "published_at": "2026-04-29T23:02:13+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "fc545395c44e"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : le chef du Pentagone, Pete Hegseth, sous le feu des critiques des députés démocrates",
+      "url": "https://www.franceinfo.fr/monde/usa/guerre-au-moyen-orient-le-chef-du-pentagone-pete-hegseth-sous-le-feu-des-critiques-des-deputes-democrates_7972694.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dans le cadre de cette audition parlementaire, le Pentagone a par ailleurs précisé que la guerre au Moyen-Orient avait déjà coûté 25 milliards de dollars.",
+      "image": "https://www.franceinfo.fr/pictures/fsCiHmfEB8AFt4ty_-klM_EBEoY/0x0:6000x3375/432x243/filters:format(jpg)/2026/04/29/69f26e4017027555462918.jpg",
+      "published_at": "2026-04-29T22:58:41+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "7b581b93554e"
     },
     {
       "title": "La délégation iranienne dénonce une \"insulte\" à l'aéroport de Toronto et annule sa présence au congrès de la Fifa",
@@ -73,16 +163,6 @@
       "id": "68ee0d6d28cc"
     },
     {
-      "title": "Un père de famille a été mis en examen pour viols et agressions sexuelles sur 34 jeunes enfants dans le Rhône",
-      "url": "https://www.franceinfo.fr/faits-divers/un-pere-de-famille-a-ete-mis-en-examen-pour-viols-et-agressions-sexuelles-sur-34-jeunes-enfants-dans-le-rhone_7972652.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les victimes sont toutes des petits garçons, âgés de 3 à 9 ans. Certains ont été filmés, notamment lors de soirées pyjamas au domicile familial de Lucenay, a appris mercredi franceinfo. Le suspect a reconnu les faits.",
-      "image": "https://www.franceinfo.fr/pictures/B-BkMKGcDwXHWkM6sLBlqvVcHT0/0x224:4314x2651/432x243/filters:format(jpg)/2026/04/29/69f25f1c1919d775309486.jpg",
-      "published_at": "2026-04-29T22:04:23+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "46b601ce9770"
-    },
-    {
       "title": "Superprofits pétroliers : l'ONG \"Reclaim Finance\" demande une taxation de TotalEnergies",
       "url": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/superprofits-petroliers-l-ong-reclaim-finance-demande-une-taxation-de-totalenergies_7972631.html#xtor=RSS-3-[lestitres]",
       "summary": "TotalEnergies a annoncé mercredi une hausse de 51 % de son bénéfice sur un an. L'ONG \"Reclaim Finance\" dénonce mercredi sur France Inter une redistribution des profits \"en direction des actionnaires\", et appelle à \"sortir de cette dépendance\" vis-à-vis de la multinationale.",
@@ -93,16 +173,6 @@
       "id": "cd8d76b0f04c"
     },
     {
-      "title": "Le directeur de l’Ecole alsacienne, licencié en février, annonce être réintégré sur décision du conseil de prud’hommes de Paris",
-      "url": "https://www.lemonde.fr/societe/article/2026/04/29/le-directeur-de-l-ecole-alsacienne-licencie-en-fevrier-annonce-etre-reintegre-sur-decision-du-conseil-de-prud-hommes-de-paris_6684325_3224.html",
-      "summary": "Dans un message à ses soutiens, mercredi 29 avril, Pierre de Panafieu a indiqué que les prud’hommes avaient « déclaré nul » son licenciement et demandé sa réintégration à la direction de la prestigieuse école privée laïque. Il dirigeait l’établissement parisien depuis vingt-cinq ans lorsqu’il a été remercié par le conseil d’administration.",
-      "image": "https://img.lemde.fr/2026/04/29/18/0/5000/2500/644/322/60/0/933275a_upload-1-p6ji7xoqrhqp-20260223lpa2190.jpg",
-      "published_at": "2026-04-29T21:54:33+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "25f01f93824c"
-    },
-    {
       "title": "A Dubaï, 276 membres d’un vaste réseau international de fraude financière arrêtés",
       "url": "https://www.lemonde.fr/international/article/2026/04/29/a-dubai-276-membres-d-un-vaste-reseau-international-de-fraude-financiere-arretes_6684324_3210.html",
       "summary": "L’opération a permis de démanteler neuf centres de fraude spécialisés dans les escroqueries aux investissements et aux monnaies virtuelles non réglementées.",
@@ -111,6 +181,16 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "4c8277e8c48d"
+    },
+    {
+      "title": "Rhône : un père de famille mis en examen pour viols et agressions sexuelles sur 34 enfants",
+      "url": "https://www.franceinfo.fr/faits-divers/rhone-un-pere-de-famille-mis-en-examen-pour-viols-et-agressions-sexuelles-sur-34-enfants_7972637.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les victimes sont toutes des petits garçons, âgés de 3 à 9 ans. Certains ont été filmés, notamment lors de soirées pyjamas au domicile familial de Lucenay, a appris mercredi franceinfo. Le suspect a reconnu les faits.",
+      "image": "https://www.franceinfo.fr/pictures/B-BkMKGcDwXHWkM6sLBlqvVcHT0/0x224:4314x2651/432x243/filters:format(jpg)/2026/04/29/69f25f1c1919d775309486.jpg",
+      "published_at": "2026-04-29T21:43:03+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "89b834f05a2c"
     },
     {
       "title": "Dans l’Oise, un enfant de 10 ans entre la vie et la mort, après avoir été mordu par des chiens",
@@ -165,7 +245,7 @@
     {
       "title": "Jerome Powell souligne l’importance d’avoir une Fed « affranchie des influences politiques »",
       "url": "https://www.lemonde.fr/economie/article/2026/04/29/jerome-powell-souligne-l-importance-d-avoir-une-fed-affranchie-des-influences-politiques_6684323_3234.html",
-      "summary": "« Je partirai quand je le jugerai approprié », a déclaré en conférence de presse le banquier central. Il en est président jusqu’au 15 mai mais peut rester au conseil des gouverneurs jusque fin janvier 2028.",
+      "summary": "« Je partirai quand je le jugerai approprié », a déclaré en conférence de presse le président de la Réserve fédérale américaine. S’il doit quitter son poste le 15 mai, il peut rester au conseil des gouverneurs de la banque centrale jusqu’à la fin janvier 2028.",
       "image": "https://img.lemde.fr/2026/04/29/413/0/4964/2482/644/322/60/0/8d8abe2_ftp-1-luwnhbuox7yw-2026-04-29t184708z-1110045819-rc26zkauknh4-rtrmadp-3-usa-fed.JPG",
       "published_at": "2026-04-29T21:12:27+02:00",
       "source": "Le Monde Inter",
@@ -186,7 +266,7 @@
       "title": "Dominique de Villepin a reçu en cadeau deux statuettes lorsqu’il était au Quai d’Orsay, selon l’émission « Complément d’enquête »",
       "url": "https://www.lemonde.fr/politique/article/2026/04/29/dominique-de-villepin-a-recu-en-cadeau-deux-statuettes-lorsqu-il-etait-au-quai-d-orsay-selon-l-emission-complement-d-enquete_6684322_823448.html",
       "summary": "Selon l’émission diffusée jeudi, Dominique de Villepin a reçu deux statuettes de Napoléon valant respectivement 50 000 et 75 000 euros, de la part de Robert Bourgi, lobbyiste et figure de la Françafrique. L’ancien ministre chiraquien assure qu’il n’aurait « jamais » accepté ces objets s’il avait connu « leur provenance » et se dit prêt à les rendre.",
-      "image": "https://img.lemde.fr/2026/04/29/338/0/5392/2696/644/322/60/0/3323116_upload-1-vedigsofbi4v-000-a4z36ug.jpg",
+      "image": "https://img.lemde.fr/2026/04/29/0/0/5392/2696/644/322/60/0/3323116_upload-1-vedigsofbi4v-000-a4z36ug.jpg",
       "published_at": "2026-04-29T20:58:10+02:00",
       "source": "Le Monde",
       "category": "Politique",
@@ -221,86 +301,6 @@
       "source": "Libération",
       "category": "Économie",
       "id": "7ba34179e499"
-    },
-    {
-      "title": "Le roi Charles III se recueille au Mémorial du 11-Septembre à New York",
-      "url": "https://www.lemonde.fr/international/article/2026/04/29/le-roi-charles-iii-se-recueille-au-memorial-du-11-septembre-a-new-york_6684320_3210.html",
-      "summary": "Cette visite d’Etat du couple royal doit aider à recoller les morceaux d’une « relation spéciale » fissurée par les désaccords politiques entre Donald Trump et le premier ministre travailliste, Keir Starmer, à propos de la guerre en Iran.",
-      "image": "https://img.lemde.fr/2026/04/29/752/0/6080/3040/644/322/60/0/5e03a60_ftp-1-eqkkm89xd1sa-5898573-01-06.jpg",
-      "published_at": "2026-04-29T20:33:15+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "61de67c23268"
-    },
-    {
-      "title": "\"C'est dix fois plus que les costumes de François Fillon\" : dans \"Complément d'enquête\", les révélations de Robert Bourgi sur des cadeaux qu'aurait reçus Dominique de Villepin",
-      "url": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-c-est-dix-fois-plus-que-les-costumes-de-m-fillon-dans-complement-d-enquete-les-revelations-de-robert-bourgi-sur-des-cadeaux-qu-aurait-recus-dominique-de-villepin_7972202.html#xtor=RSS-3-[lestitres]",
-      "summary": "Robert Bourgi, le sulfureux avocat qui fut le tombeur de François Fillon en 2017 dans l'affaire des costumes, affirme en exclusivité à \"Complément d'enquête\" que Dominique de Villepin aurait reçu pour 125 000 euros de cadeaux, notamment de la part d’un dictateur africain. L'intéressé a accepté de répondre à ces allégations.",
-      "image": "https://www.franceinfo.fr/pictures/vFZBgfI-DapUxoPbM-FxROaFy5w/0x0:1920x1080/432x243/filters:format(jpg)/2026/04/29/69f24944b0580176587678.jpg",
-      "published_at": "2026-04-29T20:28:56+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "b0b13dc9fae2"
-    },
-    {
-      "title": "Les défenseurs des vaccins se mobilisent face au risque de propagation des idées antivax",
-      "url": "https://www.lemonde.fr/planete/article/2026/04/29/les-defenseurs-des-vaccins-se-mobilisent-face-au-risque-de-propagation-des-idees-antivax_6684319_3244.html",
-      "summary": "Scientifiques et politiques défendent publiquement l’intérêt de la vaccination, redoutant une progression des idées antivax sous l’influence des Etats-Unis de Trump.",
-      "image": "https://img.lemde.fr/2026/04/29/236/0/2520/1260/644/322/60/0/3d8e4ee_upload-1-56dhfin7rxoq-000-33xj73w.jpg",
-      "published_at": "2026-04-29T20:28:34+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "56beb039ff4b"
-    },
-    {
-      "title": "Propos de Ruffin sur l’immigration : la mauvaise foi des insoumis",
-      "url": "https://www.liberation.fr/politique/propos-de-ruffin-sur-limmigration-la-mauvaise-foi-des-insoumis-20260429_A5NEPO5WVBAXJASOIW6RI4SQDM/",
-      "summary": "Depuis deux jours, le député de la Somme qui a redit être «hostile à l’immigration pour le travail» est attaqué par ses ex-camarades de LFI. Or plutôt que la dénonciation, le sujet mériterait, à gauche, de l’argumentation pour ne pas laisser cette question à l’extrême droite.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-04-29T18:25:13+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "eb2451c6850f"
-    },
-    {
-      "title": "PSG : touché à la cuisse droite face au Bayern Munich, Achraf Hakimi sera absent \"ces prochaines semaines\"",
-      "url": "https://www.franceinfo.fr/sports/foot/psg/psg-touche-a-la-cuisse-droite-face-au-bayern-munich-achraf-hakimi-sera-absent-plusieurs-semaines_7972529.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le club de la capitale l'a confirmé dans un communiqué, mercredi.",
-      "image": "https://www.franceinfo.fr/pictures/02YUUUHZtFnVlX1hehmXEEJY_mg/0x0:3543x1992/432x243/filters:format(jpg)/2026/04/29/69f2422d23f56447599972.jpg",
-      "published_at": "2026-04-29T20:18:54+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "63d5bdbbf158"
-    },
-    {
-      "title": "Procès du financement libyen : face aux attestations de Claude Guéant, Nicolas Sarkozy fait profil bas… et dégaine une clé USB",
-      "url": "https://www.liberation.fr/societe/police-justice/proces-du-financement-libyen-face-aux-attestations-de-claude-gueant-nicolas-sarkozy-fait-profil-bas-et-degaine-une-cle-usb-20260429_JT4XQ4VTHNAAXIKDSFX6L7ASKU/",
-      "summary": "Interrogé par la cour d’appel de Paris ce mercredi 29 avril, l’ancien chef de l’Etat a ménagé son ex-bras droit, qui a suggéré ces dernières semaines que Sarkozy a menti lors de son procès.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-04-29T18:03:39+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "4df39b879976"
-    },
-    {
-      "title": "« Kiln » : le jeu vidéo qui ne manque pas de pot",
-      "url": "https://www.lemonde.fr/pixels/article/2026/04/29/kiln-le-jeu-qui-ne-manque-pas-de-pot_6684316_4408996.html",
-      "summary": "Dans la nouvelle production des Américains de Double Fine, modelez votre héros sur un tour de potier avant de le jeter dans l’arène. Un concept original et plein d’humour mais qui, passé les premières heures de jeu, s’essouffle.",
-      "image": "https://img.lemde.fr/2026/04/29/60/0/1920/960/644/322/60/0/8fb4aff_upload-1-uf8ys3loaztb-ss-ff557f66d5845a398b6dcc9e0979ce9b1be39b16-1920x1080.jpg",
-      "published_at": "2026-04-29T20:00:10+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "baf93e207001"
-    },
-    {
-      "title": "Le Parlement sécurise le droit de visiter les prisons pour les députés et les sénateurs",
-      "url": "https://www.lemonde.fr/societe/article/2026/04/29/le-parlement-securise-le-droit-de-visiter-les-prisons-pour-les-deputes-et-les-senateurs_6684315_3224.html",
-      "summary": "Le texte, fruit d’un accord entre députés et sénateurs, a été approuvé à main levée au Sénat, au lendemain de son adoption par l’Assemblée nationale. Les parlementaires ont opté pour un droit générique à visiter tout lieu de privation de liberté plutôt que pour une liste détaillée des lieux concernés.",
-      "image": "https://img.lemde.fr/2026/04/13/633/0/7582/3791/644/322/60/0/91b0292_ftp-1-r1qj9qqg5aqd-5760883-01-06.jpg",
-      "published_at": "2026-04-29T19:57:47+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "ed833600530e"
     }
   ]
 }
