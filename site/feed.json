@@ -1,306 +1,306 @@
 {
-  "generated_at": "2026-05-01T12:07:23.427642+00:00",
+  "generated_at": "2026-05-01T16:15:09.949261+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Guerre au Moyen-Orient : les négociations au point mort, l'Iran rejette toute politique \"imposée\" sous la menace",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-la-defense-antiaerienne-est-brievement-entree-en-action-dans-le-ciel-de-teheran_7976153.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le chef du pouvoir judiciaire iranien, Gholamhossein Mohseni Ejei, a assuré vendredi que l'Iran restait néanmoins ouvert au dialogue avec les Etats-Unis.",
-      "image": "https://www.franceinfo.fr/pictures/4ya3AbSOM8mEltvhRREP4Sonom0/0x0:1024x576/432x243/filters:format(jpg)/2026/05/01/69f48de86f998176578986.jpg",
-      "published_at": "2026-05-01T14:03:19+02:00",
+      "title": "Donald Trump annonce un relèvement des droits de douane de 25% sur les véhicules importés depuis l'Union européenne",
+      "url": "https://www.franceinfo.fr/monde/usa/droits-de-douane/donald-trump-annonce-un-relevement-des-droits-de-douane-de-25-sur-les-vehicules-importes-depuis-l-union-europeenne_7976969.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette mesure entrera en vigueur la semaine prochaine, annonce le président américain dans un message posté sur les réseaux sociaux. Il accuse l'UE de ne pas respecter l'accord commercial qui avait été conclu avec Washington.",
+      "image": "https://www.franceinfo.fr/pictures/PU4z4b_vZvwDL44fvDxjCgf91fI/0x292:5616x3451/432x243/filters:format(jpg)/2026/05/01/69f4d047cf704727313463.jpg",
+      "published_at": "2026-05-01T18:12:24+02:00",
       "source": "France Info",
+      "category": "International",
+      "id": "91478a514690"
+    },
+    {
+      "title": "Inébranlable, le numéro 1 mondial Jannik Sinner surclasse Arthur Fils et se hisse en finale du Masters 1000 de Madrid",
+      "url": "https://www.franceinfo.fr/sports/tennis/inebranlable-le-numero-1-mondial-jannik-sinner-surclasse-arthur-fils-et-se-hisse-en-finale-du-masters-1000-de-madrid_7976819.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'Italien, numéro 1 mondial, invaincu sur terre cette saison, a dominé le Français, qui est apparu sans réelle solution, vendredi, à Madrid.",
+      "image": "https://www.franceinfo.fr/pictures/M-tkWckjU7fh_RLS7BRtPuyIOCs/0x0:4923x2769/432x243/filters:format(jpg)/2026/05/01/69f4c3f31a27e966435390.jpg",
+      "published_at": "2026-05-01T18:03:04+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "bd119578b7b9"
+    },
+    {
+      "title": "Le Français Dorian Godon prend sa revanche sur Tadej Pogacar en s'imposant au sprint sur la 3e étape du Tour de Romandie",
+      "url": "https://www.franceinfo.fr/sports/cyclisme/le-francais-dorian-godon-prend-sa-revanche-sur-tadej-pogacar-en-s-imposant-au-sprint-sur-la-3e-etape-du-tour-de-romandie_7976924.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le sprinteur tricolore d'INEOS Grenadier a été le plus fort, vendredi en Suisse, dans l'emballement final d'une troisième étape accidentée.",
+      "image": "https://www.franceinfo.fr/pictures/6n1ox8ThtNk2Spxy60HJD9sgEKQ/0x0:5515x3102/432x243/filters:format(jpg)/2026/05/01/69f4ccf3d1550328825560.jpg",
+      "published_at": "2026-05-01T18:01:54+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "8a964da13cb7"
+    },
+    {
+      "title": "Arthur Fils éliminé par Jannik Sinner en demi-finale du Masters 1000 de Madrid",
+      "url": "https://www.lemonde.fr/sport/article/2026/05/01/arthur-fils-elimine-par-jannik-sinner-en-demi-finale-du-masters-1000-de-madrid_6684737_3242.html",
+      "summary": "Le Français de 21 ans, qui avait rallié pour la première fois de sa carrière le dernier carré d’un tournoi de ce niveau, a été battu par le numéro 1 mondial italien, vendredi, en deux sets (2-6, 4-6).",
+      "image": "https://img.lemde.fr/2026/05/01/0/0/6000/3000/644/322/60/0/234eb02_ftp-1-gjz5j1tjhlwo-2026-05-01t152401z-827991003-up1em5116rzlh-rtrmadp-3-tennis-madrid.JPG",
+      "published_at": "2026-05-01T18:00:45+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "171cb2bbd8ef"
+    },
+    {
+      "title": "Incendie en Toscane : au moins 3 500 personnes évacuées autour de Pise et Lucques",
+      "url": "https://www.liberation.fr/international/europe/incendie-en-toscane-au-moins-3-500-personnes-evacuees-autour-de-pise-et-lucques-20260501_RYL5XFLYOBHIROXZLSIYNLAJUM/",
+      "summary": "Le feu qui s’est déclaré jeudi 30 avril dans les collines de la région italienne gagne en intensité, bien aidé par le vent, qui pousse les flammes vers la vallée et les habitations.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-05-01T16:00:35+00:00",
+      "source": "Libération",
       "category": "Société",
+      "id": "11eeff8f87ff"
+    },
+    {
+      "title": "Du pistolet au drone, l’obsession du cinéma pour les armes",
+      "url": "https://www.lemonde.fr/cinema/article/2026/05/01/du-pistolet-au-drone-l-obsession-du-cinema-pour-les-armes_6684736_3476.html",
+      "summary": "D’« Autant en emporte le vent » au « Chant du loup », en passant par « Apocalypse Now » ou « La Guerre des étoiles », les conflits armés ont beaucoup inspiré les réalisateurs. Avec les époques et les métamorphoses de la guerre, le cinéma, qui se saisit du sujet, a su modifier son récit.",
+      "image": "https://img.lemde.fr/2026/04/28/0/124/1352/676/644/322/60/0/16ada64_upload-1-nepadvmdqjxx-christophel-photo-bf-star-wars-episode-ii-l-attaque-des-clones-preview.jpg",
+      "published_at": "2026-05-01T18:00:30+02:00",
+      "source": "Le Monde Inter",
+      "category": "Culture",
+      "id": "01e386699d20"
+    },
+    {
+      "title": "Dans « Bubble Book, chronique d’un canapé », Sacha Lakic, son créateur, raconte ce divan rondement façonné",
+      "url": "https://www.lemonde.fr/m-styles/article/2026/05/01/dans-bubble-book-chronique-d-un-canape-sacha-lakic-son-createur-raconte-ce-divan-rondement-faconne_6684733_4497319.html",
+      "summary": "Le designer franco-serbe a conçu cette célèbre assise capitonnée pour Roche Bobois en 2014. Une bulle de confort et de douceur, inspirée du nuage.",
+      "image": "https://img.lemde.fr/2026/04/23/125/0/1500/750/644/322/60/0/58acd7c_ftp-1-lsn0d7vpfhth-426010-3468429.jpg",
+      "published_at": "2026-05-01T18:00:11+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "4edadc28752f"
+    },
+    {
+      "title": "« 1936, le Front populaire. Entre joie et colères », sur France.tv : à l’image, l’histoire l’emporte sur la violence",
+      "url": "https://www.lemonde.fr/culture/article/2026/05/01/1936-le-front-populaire-entre-joie-et-coleres-sur-france-tv-a-l-image-l-histoire-l-emporte-sur-la-violence_6684732_3246.html",
+      "summary": "Grâce à des fonds exceptionnels, Fabien Béziat et Hugues Nancy reviennent sur le mouvement qui porta Léon Blum au pouvoir, en donnant la parole aux descendants de celles et ceux qui l’ont vécu.",
+      "image": "https://img.lemde.fr/2026/04/30/2/0/1920/960/644/322/60/0/aaa5d14_upload-1-oeyltyzzzmol-19362clefrontpopulaire2centrejoieetcolc388re.png",
+      "published_at": "2026-05-01T18:00:07+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "15ce4bd31c7a"
+    },
+    {
+      "title": "Ils ont demandé à l’IA d’imaginer la dernière pièce de Molière",
+      "url": "https://www.numerama.com/tech/2237247-ils-ont-demande-a-lia-dimaginer-la-derniere-piece-de-moliere.html",
+      "summary": "Et si l’intelligence artificielle pouvait ressusciter le génie de Jean-Baptiste Poquelin ? À travers le projet Molière Ex Machina, des experts en IA et des universitaires ont entraîné des modèles de langage pour produire une pièce inédite, des costumes aux décors baroques. Après deux ans de développement, le résultat de cette expérimentation sera dévoilé à l'Opéra royal de Versailles les 5 et 6 ma",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-05-01T16:00:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "474ca55cb97a"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : l'impact de la guerre sur le transport maritime perturbe l'aide aux réfugiés, alerte l'ONU",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-la-defense-antiaerienne-est-brievement-entree-en-action-dans-le-ciel-de-teheran_7976153.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les tarifs d'expédition depuis l'Inde, le Pakistan et la Chine, trois des principaux pays fournisseurs d'aide d'urgence du Haut-Commissariat des Nations unies pour les réfugiés, ont bondi de près de 18%.",
+      "image": "https://www.franceinfo.fr/pictures/dXTPWKqifeyOLvnLMzDVVex_mRk/0x53:1024x629/432x243/filters:format(jpg)/2026/05/01/69f4cc6f3bcbc543867103.jpg",
+      "published_at": "2026-05-01T17:56:21+02:00",
+      "source": "France Info",
+      "category": "International",
       "id": "52d7df96b144"
     },
     {
-      "title": "1er-Mai : la secrétaire générale de la CGT, Sophie Binet, réclame \"un grand plan pour augmenter les salaires et bloquer les prix\"",
-      "url": "https://www.franceinfo.fr/decouverte/1er-mai/direct-1er-mai-plus-de-320-manifestations-prevues-en-france-laurent-nunez-pas-plus-inquiet-que-d-habitude_7976060.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Des millions de travailleurs et travailleuses sont obligés de choisir entre remplir le frigo et faire le plein\", a lancé la secrétaire générale de la CGT, Sophie Binet, dans la manifestation parisienne, vendredi.",
-      "image": "https://www.franceinfo.fr/pictures/sV719GtaI7iG4HjXWl1umSb344Y/0x0:1920x1080/432x243/filters:format(jpg)/2026/05/01/69f49398ba745329672549.jpg",
-      "published_at": "2026-05-01T13:52:35+02:00",
-      "source": "France Info",
+      "title": "«En colère» contre François Ruffin, Marine Tondelier « en a marre » d’attendre les socialistes",
+      "url": "https://www.liberation.fr/politique/marine-tondelier-en-colere-contre-francois-ruffin-qui-sest-dit-hostile-a-limmigration-de-travail-20260501_FO537PSVG5GKBHHELJUTXJ7KFA/",
+      "summary": "Très agacée, la patronne des Ecologistes a accusé ce vendredi 1er mai l’ancien insoumis de reprendre les thèmes de l’extrême droite en parlant «immigration» et estimé que les socialistes mettent « en danger » la gauche en procrastinant sur la primaire.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-05-01T15:49:15+00:00",
+      "source": "Libération",
       "category": "Société",
-      "id": "cba012200121"
+      "id": "5b8939572058"
     },
     {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran estime que les Etats-Unis n’ont «rien obtenu» avec ce conflit",
+      "title": "«Widow’s Bay», maudite soit l’île",
+      "url": "https://www.liberation.fr/culture/series/widows-bay-maudite-soit-lile-20260501_H6ID47P64FBWFG3TCEUG5GOGXU/",
+      "summary": "Katie Dippold propose une série horrifique et très second degré où Matthew Rhys, en maire loufoque et dépassé, tente d’attirer les touristes sur son bout de terre insulaire.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-05-01T15:49:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "97601ea295f4"
+    },
+    {
+      "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran a présenté une nouvelle proposition aux Etats-Unis via le Pakistan",
       "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-pret-a-ignorer-le-congres-sur-la-poursuite-du-conflit-20260501_XO33PR2TRFBFBKUFXMD5PWEJJY/",
-      "summary": "Le conflit entre l’Iran et les États-Unis entre dans son 60e jour ce vendredi 1er mai, date limite après laquelle Donald Trump doit théoriquement demander l’autorisation du Congrès pour poursuivre la guerre.",
+      "summary": "Le conflit entre l’Iran et les Etats-Unis entre dans son 60e jour ce vendredi 1er mai, date limite après laquelle Donald Trump doit théoriquement demander l’autorisation du Congrès pour poursuivre la guerre.",
       "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-05-01T11:41:01+00:00",
+      "published_at": "2026-05-01T15:40:43+00:00",
       "source": "Libération",
       "category": "International",
       "id": "73725d1a83b6"
     },
     {
-      "title": "1ᵉʳ-Mai : manifestation à Mâcon avant la « fête de la nation » du RN",
-      "url": "https://www.lemonde.fr/politique/article/2026/05/01/1-mai-a-macon-manifestation-avant-la-fete-de-la-nation-du-rn_6684711_823448.html",
-      "summary": "Alors qu’habituellement, moins de 300 personnes manifestent pour le 1ᵉʳ-Mai, ils étaient entre 1 800 (selon la police) et 3 000 (selon les organisateurs) pour dire « Non au RN ».",
-      "image": "https://img.lemde.fr/2026/05/01/688/0/8256/4128/644/322/60/0/5f19e5b_upload-1-cyyjo8rel9so-000-44784p6.jpg",
-      "published_at": "2026-05-01T13:36:08+02:00",
-      "source": "Le Monde Politique",
-      "category": "Société",
-      "id": "a95bcf125eb4"
-    },
-    {
-      "title": "Taxation des \"superprofits\" de TotalEnergies : ce que réclament les partis politiques après la publication des bénéfices du groupe pétrolier",
-      "url": "https://www.franceinfo.fr/politique/taxation-des-superprofits-de-totalenergies-ce-que-reclament-les-partis-politiques-apres-la-publication-des-benefices-du-groupe-petrolier_7976267.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les performances de TotalEnergies, en nette progression sur un an et portées par la hausse des prix de l'énergie, relancent le débat sur la taxation des profits exceptionnels dans la sphère politique.",
-      "image": "https://www.franceinfo.fr/pictures/n4K2607LpOfGx1xP3b-d243OX-Q/0x41:1024x616/432x243/filters:format(jpg)/2024/02/07/080-hl-bpolge-2099535-65c346a8868d2974310584.jpg",
-      "published_at": "2026-05-01T13:32:59+02:00",
+      "title": "En Ardèche, cinq personnes sont mortes après une sortie de route et la chute de leur voiture",
+      "url": "https://www.franceinfo.fr/faits-divers/accident/en-ardeche-au-moins-quatre-personnes-meurent-apres-une-sortie-de-route-et-une-chute-de-leur-voiture_7976834.html#xtor=RSS-3-[lestitres]",
+      "summary": "Une voiture est sortie de la route sur la commune de Sarras avant de chuter 20 mètres en contrebas et de s'embraser. inq personnes se trouvaient à l'intérieur et sont mortes.",
+      "image": "https://www.franceinfo.fr/pictures/ffedUvIhWNENHgeLGbQY5nVkGFM/0x212:1999x1333/432x243/filters:format(jpg)/2021/10/18/phpeUu4y1.jpg",
+      "published_at": "2026-05-01T17:38:09+02:00",
       "source": "France Info",
-      "category": "Politique",
-      "id": "cb17a6b9ad52"
-    },
-    {
-      "title": "La guerre au Moyen-Orient a déjà coûté \"un milliard d'euros\" à la France en opérations extérieures",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/info-franceinfo-la-guerre-au-moyen-orient-a-deja-coute-un-milliard-d-euros-a-la-france_7976525.html#xtor=RSS-3-[lestitres]",
-      "summary": "Deux mois après le début du conflit, ce montant comprend les patrouilles de Rafale, les équipages ou encore le kérosène utilisé par ces avions, a appris France Télévisions de source gouvernementale.",
-      "image": "https://www.franceinfo.fr/pictures/taWXKJKIVZSNAWw-1fU_G6NlPv8/0x269:5183x3185/432x243/filters:format(jpg)/2026/05/01/69f47ea44808e482984555.jpg",
-      "published_at": "2026-05-01T13:27:37+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "26449d00887f"
-    },
-    {
-      "title": "Ce film culte des années 90 avec Keanu Reeves va avoir une suite en série",
-      "url": "https://www.numerama.com/pop-culture/2245493-ce-film-culte-des-annees-90-avec-keanu-reeves-va-avoir-une-suite-en-serie.html",
-      "summary": "35 ans après avoir redéfini le film d'action et la culture surf, Point Break s'apprête à faire son grand retour. AMC vient d'officialiser la mise en chantier d'une série suite qui reprendra l'héritage des « Ex-Présidents » pour une nouvelle génération.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-05-01T11:20:19+00:00",
-      "source": "Numerama",
-      "category": "Culture",
-      "id": "599d28760050"
-    },
-    {
-      "title": "Les petites mains du trafic de drogue à Marseille : «On ne peut pas y entrer et y rester sans avoir soi-même subi de la violence»",
-      "url": "https://www.liberation.fr/societe/police-justice/les-petites-mains-du-trafic-de-drogue-a-marseille-on-ne-peut-pas-y-entrer-et-y-rester-sans-avoir-soi-meme-subi-de-la-violence-20260501_DIDABKHGBFH67ASSZEOMHVTZJQ/",
-      "summary": "La sociologue Khadidja Sahraoui-Chapuis rend compte, dans un livre, de vingt ans d’immersion auprès d’acteurs du narcotrafic dans les quartiers Nord de Marseille. Elle raconte le quotidien de ces jeunes hommes, qu’elle compare aux travailleurs précaires de l’économie légale.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-05-01T11:20:00+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "37fca4dd0c32"
-    },
-    {
-      "title": "Des dizaines de militants de \"la flottille pour Gaza\" débarqués en Crète",
-      "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/des-dizaines-de-militants-de-la-flottille-pour-gaza-debarques-en-crete_7976579.html#xtor=RSS-3-[lestitres]",
-      "summary": "La Grèce \"va veiller à leur retour en toute sécurité\", a promis le ministère des Affaires étrangères israélien, après l'interpellation d'environ 175 militants en mer par Israël.",
-      "image": "https://www.franceinfo.fr/pictures/301sS6m41VVBulrOBKkxB64d5w4/0x87:1024x663/432x243/filters:format(jpg)/2026/05/01/69f4884399d8b692928449.jpg",
-      "published_at": "2026-05-01T13:17:35+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "77c53bcbb501"
-    },
-    {
-      "title": "Cinq jours de «congé climatique» par an : Marine Tondelier propose la création d’un nouveau droit pour les salariés",
-      "url": "https://www.liberation.fr/politique/cinq-jours-de-conge-climatique-par-an-marine-tondelier-propose-la-creation-dun-nouveau-droit-pour-les-salaries-20260501_3YHIJ4XRFNCCDG3Y2QK7GDI27A/",
-      "summary": "Avec cette proposition, la cheffe de file des Ecologistes souhaite permettre aux salariés de rester chez eux sans perte de salaire lors d’événements météo extrêmes, comme une inondation ou un incendie. La mesure s’inspire du modèle espagnol.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-05-01T11:13:09+00:00",
-      "source": "Libération",
       "category": "Sport",
-      "id": "e7915fdb59b3"
+      "id": "0cb586d4a93f"
     },
     {
-      "title": "\"Plusieurs milliers de personnes\" rassemblées dans le Cher pour une rave-party sur un terrain militaire",
-      "url": "https://www.franceinfo.fr/faits-divers/cher-plusieurs-milliers-de-personnes-rassemblees-pour-une-rave-party-sur-un-terrain-militaire-indique-la-prefecture-qui-alerte-sur-un-potentiel-risque-d-explosion_7976354.html#xtor=RSS-3-[lestitres]",
-      "summary": "La préfecture alerte sur un potentiel \"risque d'explosion\". \"Jusqu'à 30 000 personnes\" sont attendues.",
-      "image": "https://www.franceinfo.fr/pictures/5ni2R2_rUpq4hBjjjt1UTl2SPUQ/0x224:4314x2651/432x243/filters:format(jpg)/2026/04/30/69f3b23bc409b892188312.jpg",
-      "published_at": "2026-05-01T13:09:09+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "b56cdc161d4f"
-    },
-    {
-      "title": "Dissolution de la Jeune Garde : pour Raphaël Arnault, \"le but c'est que l'antifascisme perdure bien au-delà\" de son mouvement",
-      "url": "https://www.franceinfo.fr/faits-divers/mort-de-quentin-militant-identitaire-agresse-a-lyon/dissolution-de-la-jeune-garde-pour-raphael-arnault-le-but-c-est-que-l-antifascisme-perdure-bien-au-dela-de-son-mouvement_7976609.html#xtor=RSS-3-[lestitres]",
-      "summary": "Certains membres de l'organisation antifasciste sont mis en examen pour \"homicide involontaire\" dans la mort du militant identitaire Quentin Deranque en février à Lyon.",
-      "image": "https://www.franceinfo.fr/pictures/72AnK_rbrgpU2Jgyxw-IsPUcIfA/0x323:6206x3812/432x243/filters:format(jpg)/2024/07/09/000-363d47z-668d7f8e8075b336456918.jpg",
-      "published_at": "2026-05-01T13:05:33+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "6133e719f872"
-    },
-    {
-      "title": "A Châteauroux, un cycliste meurt après une «altercation» avec un automobiliste qui a dégénéré",
-      "url": "https://www.liberation.fr/societe/police-justice/a-chateauroux-un-cycliste-meurt-apres-une-altercation-avec-un-automobiliste-qui-a-degenere-20260501_UT6AYSZ3KRGT3GVWYGJD3ZLCQ4/",
-      "summary": "Le conducteur de la voiture, un habitant de Déols, a été placé en garde à vue jeudi 30 avril après avoir traîné sur son capot puis éjecté «volontairement» l’homme avec lequel il avait eu un conflit. Une enquête a été ouverte.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-05-01T11:02:56+00:00",
+      "title": "Le Pentagone recrute sept entreprises d’IA pour des opérations classifiées, Anthropic écartée",
+      "url": "https://www.liberation.fr/economie/economie-numerique/le-pentagone-recrute-sept-entreprises-dia-pour-des-operations-classifiees-anthropic-ecartee-20260501_NVSA2JPQHNFLPHFLCRPKZO4B6I/",
+      "summary": "SpaceX, OpenAI, Google, Reflection, Nvidia, Microsoft et AWS vont travailler avec le ministère de la Défense tandis que la start-up, à l’origine du modèle Claude, a été écartée à la suite d’un litige avec l’administration Trump.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-05-01T15:37:09+00:00",
       "source": "Libération",
-      "category": "Sport",
-      "id": "b201c492596f"
+      "category": "Tech",
+      "id": "79a829b9baf4"
     },
     {
-      "title": "1er-Mai : Olivier Faure enfariné lors de la manifestation à Amiens",
-      "url": "https://www.franceinfo.fr/politique/ps/1er-mai-olivier-faure-enfarine-lors-de-la-manifestation-a-amiens_7976603.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le premier secrétaire du PS défilait notamment aux côtés du nouveau maire socialiste d'Amiens, Frédéric Fauvet.",
-      "image": "https://www.franceinfo.fr/pictures/6pSfRFdPYhf_isdsZgqlYV_lyD8/0x6:1178x669/432x243/filters:format(jpg)/2026/05/01/69f488203e98e631996880.jpg",
-      "published_at": "2026-05-01T13:02:48+02:00",
+      "title": "Le président ukrainien veut augmenter les salaires de l'armée, et favoriser la démobilisation des soldats \"mobilisés plus tôt\"",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-president-ukrainien-veut-augmenter-les-salaires-de-l-armee-et-favoriser-la-demobilisation-des-soldats-mobilises-plus-tot_7976843.html#xtor=RSS-3-[lestitres]",
+      "summary": "La législation actuelle ne permet la démobilisation qu'une fois la levée de la loi martiale, en vigueur depuis le début de l'invasion russe en février 2022.",
+      "image": "https://www.franceinfo.fr/pictures/qNDFiEzIhXfvPkbnkUbRKs4weys/0x93:1024x669/432x243/filters:format(jpg)/2026/05/01/69f4c7d74533e138886400.jpg",
+      "published_at": "2026-05-01T17:35:51+02:00",
       "source": "France Info",
       "category": "Politique",
-      "id": "a9bd6e5a6131"
+      "id": "e2642d96d55d"
     },
     {
-      "title": "La Suède durcit de façon rétroactive les conditions pour obtenir la naturalisation",
-      "url": "https://www.lemonde.fr/international/article/2026/05/01/la-suede-durcit-de-facon-retroactive-les-conditions-pour-obtenir-la-naturalisation_6684709_3210.html",
-      "summary": "Mercredi, le Parlement de Stockholm a décidé de réformer les règles pour obtenir la nationalité suédoise, le 6 juin, sans aucune clause transitoire, ce qui constitue une première en Europe. Plus de 100 000 personnes vont être affectées.",
-      "image": "https://img.lemde.fr/2026/04/30/568/0/5637/2818/644/322/60/0/bccc171_upload-1-lnmd9h68v23c-000-33yj2gb.jpg",
-      "published_at": "2026-05-01T13:00:10+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "0bed33e665a9"
-    },
-    {
-      "title": "« Au Mali, l’objectif des djihadistes n’est pas de prendre Bamako, mais de changer les personnes au pouvoir »",
-      "url": "https://www.lemonde.fr/afrique/article/2026/05/01/au-mali-l-objectif-des-djihadistes-n-est-pas-de-prendre-bamako-mais-de-changer-les-personnes-au-pouvoir_6684710_3212.html",
-      "summary": "Lancée le 25 avril, l’offensive du Groupe de soutien de l’islam et des musulmans, affilié à Al-Qaida, menace la capitale malienne, où un blocus des routes a été décrété. L’analyste Jean-Hervé Jezequel décrypte, dans un entretien au « Monde », les objectifs des djihadistes.",
-      "image": "https://img.lemde.fr/2026/04/30/171/0/2048/1024/644/322/60/0/850c85f_ftp-1-rog0t01xmdux-2026-04-30t235216z-339828184-rc2zzkaocdb0-rtrmadp-3-mali-security-camara-funeral.JPG",
-      "published_at": "2026-05-01T13:00:07+02:00",
+      "title": "1ᵉʳ-Mai : plus de 300 000 manifestants dans toute la France, dont 100 000 à Paris, selon la CGT",
+      "url": "https://www.lemonde.fr/economie-francaise/article/2026/05/01/1-mai-plus-de-300-000-manifestants-dans-toute-la-france-dont-100-000-a-paris-selon-la-cgt_6684672_1656969.html",
+      "summary": "A Toulouse, entre 5 500 personnes, selon la préfecture, et 12 000, d’après la CGT, ont manifesté dans la matinée. A Lyon, la préfecture a décompté 6 500 manifestants, à Marseille, 3 400. A Nantes, 4 000 personnes ont défilé, selon la police.",
+      "image": "https://img.lemde.fr/2026/05/01/911/0/7285/3642/644/322/60/0/555c535_upload-1-khgav551uukk-image0.jpeg",
+      "published_at": "2026-05-01T17:31:58+02:00",
       "source": "Le Monde",
-      "category": "Société",
-      "id": "b116dbdb2ceb"
-    },
-    {
-      "title": "Doppelganger : un outil inquiétant permettant de trouver des sosies de stars ou d’inconnus sur OnlyFans",
-      "url": "https://www.liberation.fr/lifestyle/hightech/doppelganger-un-outil-inquietant-permettant-de-trouver-des-sosies-de-stars-ou-dinconnus-sur-onlyfans-20260501_RI7NRUAZCNF3LC2TIQCCYM4EYY/",
-      "summary": "S’appuyant sur l’IA, une nouvelle fonctionnalité lancée par Presearch permet de faire correspondre des photos de célébrités, mais aussi de personnes lambdas, à des créateurs de porno sur la plateforme, faisant craindre des dérives éthiques et pédopornographiques.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-05-01T11:00:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "3f7a46efc397"
-    },
-    {
-      "title": "Une mesure «digne de l’ère soviétique» : au Royaume-Uni, la fin des sèche-linge traditionnels provoque une intense polémique",
-      "url": "https://www.liberation.fr/environnement/une-mesure-digne-de-lere-sovietique-au-royaume-uni-la-fin-des-seche-linge-traditionnels-provoque-une-intense-polemique-20260501_QDTZOFLUPRFAZLC4QODLMNX2KE/",
-      "summary": "Le gouvernement britannique s’apprête à prendre une mesure interdisant progressivement la vente des appareils classiques à condensation au profit de modèles plus sobres en énergie. L’opposition monte au créneau.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-05-01T10:40:59+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "070067a7c874"
-    },
-    {
-      "title": "La Biennale de Venise s'enfonce dans la crise sur la question du retour de la Russie",
-      "url": "https://www.franceinfo.fr/culture/arts-expos/art-contemporain/la-biennale-de-venise-s-enfonce-dans-la-crise-sur-la-question-du-retour-de-la-russie_7976480.html#xtor=RSS-3-[lestitres]",
-      "summary": "Dernier rebondissement en date à quelques jours du coup d'envoi : la démission du jury international.",
-      "image": "https://www.franceinfo.fr/pictures/42fJLZ6bVszsb4m45f2Sfz46S0Q/0x18:3832x2174/432x243/filters:format(jpg)/2026/05/01/69f480ebee376717571118.jpg",
-      "published_at": "2026-05-01T12:36:32+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "03984ff2efd0"
-    },
-    {
-      "title": "La fuite dans l’ISS est réparée, mais on ne sait toujours pas d’où elle vient",
-      "url": "https://www.numerama.com/sciences/2244821-la-fuite-dans-liss-est-reparee-mais-on-ne-sait-toujours-pas-dou-elle-vient.html",
-      "summary": "Près d'un an après avoir été réparée, la fuite à bord de la Station spatiale internationale (ISS) inquiète toujours. L'agence spatiale américaine ne sait toujours pas ce qui l'a provoquée, ni si elle se déclenchera à nouveau.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-05-01T10:31:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "3a5abda8e58b"
-    },
-    {
-      "title": "En Suède, la surenchère anti-immigration de la droite et de l’extrême droite fait réagir une part croissante de la population",
-      "url": "https://www.lemonde.fr/international/article/2026/05/01/en-suede-la-surenchere-anti-immigration-de-la-droite-et-de-l-extreme-droite-fait-reagir-une-part-croissante-de-la-population_6684708_3210.html",
-      "summary": "A quelques mois des élections législatives du 13 septembre, plusieurs réformes vont encore durcir les conditions d’accueil dans le royaume. Mineurs nés en Suède, personnes installées depuis des décennies et dont les enfants sont Suédois sont sous le coup de mesures d’expulsion.",
-      "image": "https://img.lemde.fr/2026/04/29/359/0/3183/1591/644/322/60/0/b7d3637_upload-1-gxjtkhrhv9r2-2026-03-06t133227z-2039382274-rc2yyjatqx84-rtrmadp-3-sweden-politics.JPG",
-      "published_at": "2026-05-01T12:30:06+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "799d28b5042d"
-    },
-    {
-      "title": "La Jungle, Ana Roxanne, Gabrielle Cavassa… Qu’est-ce qu’on écoute cette semaine ?",
-      "url": "https://www.liberation.fr/culture/musique/la-jungle-ana-roxanne-gabrielle-cavassa-quest-ce-quon-ecoute-cette-semaine-20260501_MXNB4TPL65DMDNYKNFCRGUJ3MQ/",
-      "summary": "Pop, rock, musiques électroniques… Chaque semaine, «Libé» vous aide à vous y retrouver dans l’actu des sorties musicales.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-05-01T10:29:03+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "fb2d3e8c0d3f"
-    },
-    {
-      "title": "Un automobiliste en garde à vue après la mort d'un cycliste près de Châteauroux",
-      "url": "https://www.franceinfo.fr/faits-divers/un-automobiliste-place-en-garde-a-vue-apres-la-mort-d-un-cycliste-pres-de-chateauroux_7976468.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le drame a eu lieu jeudi vers 17 heures. Les deux hommes ont eu une altercation verbale, a appris France 3 Centre-Val de Loire auprès du parquet.",
-      "image": "https://www.franceinfo.fr/pictures/ppIbWMyc56-HTnpGeWYvoA2AZBs/0x53:1024x629/432x243/filters:format(jpg)/2026/05/01/69f474b855339256117862.jpg",
-      "published_at": "2026-05-01T12:26:01+02:00",
-      "source": "France Info",
       "category": "Sport",
-      "id": "590eccddc062"
+      "id": "06524682c13a"
     },
     {
-      "title": "Que sait-on sur le maire de Tréogan, soupçonné de pratiques sectaires, de violences et de viol ?",
-      "url": "https://www.liberation.fr/societe/police-justice/que-sait-on-sur-le-maire-de-treogan-soupconne-de-pratiques-sectaires-de-violences-et-de-viol-20260501_P2JUTH2JLJDSJBOTDU3JBFETCM/",
-      "summary": "Interpellé à son domicile mardi 28 avril, le tout nouvel édile des Côtes-d’Armor, 27 ans, est accusé de violences sexuelles et d’abus sur personnes vulnérables. La justice le soupçonne d’être à la tête d’un groupe sectaire basé près de Toulon.",
+      "title": "Le Pentagone recrute sept entreprises d’IA pour des opérations classifiées ; Claude d’Anthropic écartée",
+      "url": "https://www.lemonde.fr/pixels/article/2026/05/01/le-pentagone-recrute-sept-entreprises-d-ia-pour-des-operations-classifiees-claude-d-anthropic-ecartee_6684731_4408996.html",
+      "summary": "Face à l’exclusion d’Anthropic, le Pentagone diversifie ses partenaires IA pour renforcer la sécurité nationale tout en cherchant à éviter toute dépendance technologique.",
+      "image": "https://img.lemde.fr/2026/04/24/498/0/4992/2496/644/322/60/0/b097baa_ftp-1-t3cnwfdqxjkn-2026-04-24t122211z-75704641-rc2ovkao5577-rtrmadp-3-iran-crisis-hegseth.JPG",
+      "published_at": "2026-05-01T17:30:25+02:00",
+      "source": "Le Monde",
+      "category": "Tech",
+      "id": "487b99aed117"
+    },
+    {
+      "title": "Mort de Maradona : le milieu argentin était «bipolaire» avec «un trouble narcissique», selon un psychologue jugé pour sa mort",
+      "url": "https://www.liberation.fr/sports/football/mort-de-maradona-le-milieu-argentin-etait-bipolaire-avec-un-trouble-narcissique-selon-un-psychologue-juge-pour-sa-mort-20260501_2MZYC6B7NRAL7P4JGN6H2NMMYE/",
+      "summary": "Au procès sur les circonstances du décès de Maradona, un psychologue a révélé jeudi 30 avril que la star souffrait de troubles psy en plus de ses addictions. Dans cette affaire, sept soignants sont poursuivis et risquent jusqu’à 25 ans de prison.",
       "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-05-01T10:21:20+00:00",
+      "published_at": "2026-05-01T15:27:44+00:00",
       "source": "Libération",
       "category": "Société",
-      "id": "0ebb6de6e459"
+      "id": "12d8babb1189"
     },
     {
-      "title": "En 2025, la rémunération des PDG dans le monde a augmenté 20 fois plus que celle des travailleurs",
-      "url": "https://www.franceinfo.fr/economie/entreprises/salaires-des-grands-patrons/en-2025-la-remuneration-des-pdg-dans-le-monde-a-augmente-20-fois-plus-que-celle-des-travailleurs_7976156.html#xtor=RSS-3-[lestitres]",
-      "summary": "La rémunération des dirigeants des grandes entreprises françaises a augmenté trois fois plus vite que celle des salariés en France en 2025, dénoncent vendredi Oxfam et la Confédération syndicale internationale (CSI).",
-      "image": "https://www.franceinfo.fr/pictures/icEZ08ufCLh0o9kKU5H0MxcIrmg/0x24:3999x2271/432x243/filters:format(jpg)/2024/06/19/maxstockworld351880-667281cdd615e000973807.jpg",
-      "published_at": "2026-05-01T12:20:49+02:00",
+      "title": "Free-party près de Bourges : environ 20 000 personnes sur un terrain militaire jugé « très dangereux » par la préfecture",
+      "url": "https://www.lemonde.fr/societe/article/2026/05/01/free-party-pres-de-bourges-environ-20-000-personnes-sur-un-terrain-militaire-juge-tres-dangereux-par-la-prefecture_6684699_3225.html",
+      "summary": "Les organisateurs du « teknival de Bourges » attendent jusqu’à 30 000 participants sur le Polygone, un champ de tir où se trouvent peut-être des munitions non explosées, selon le préfet du Cher.",
+      "image": "https://img.lemde.fr/2026/05/01/432/0/5184/2592/644/322/60/0/38b0b02_upload-1-g4w2ecowjnqg-000-33fj2cj.jpg",
+      "published_at": "2026-05-01T17:26:48+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "863bc9365315"
+    },
+    {
+      "title": "Festival de Pâques 2026 : pépite du piano français, le jeune et surdoué Gabriel Durliat prend ses habits de chef à Deauville",
+      "url": "https://www.franceinfo.fr/culture/musique/classique/festival-de-paques-2026-pepite-du-piano-francais-le-jeune-et-surdoue-gabriel-durliat-prend-ses-habits-de-chef-a-deauville_7976825.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le musicien dirige vendredi soir l'orchestre du Festival de Pâques lors du week-end de clôture de sa trentième édition.",
+      "image": "https://www.franceinfo.fr/pictures/s8h89pAM0T7NHnFLJ3cJi6YD9hc/0x0:3413x1919/432x243/filters:format(jpg)/2026/04/30/69f3730f082ef631387884.jpg",
+      "published_at": "2026-05-01T17:24:05+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "74655d6103ae"
+    },
+    {
+      "title": "\"Nous sommes prêts !\" : dans la manifestation du 1er-Mai, Jean-Luc Mélenchon met le cap sur la présidentielle 2027",
+      "url": "https://www.franceinfo.fr/politique/melenchon/nous-sommes-prets-dans-la-manifestation-du-1er-mai-jean-luc-melenchon-met-le-cap-sur-la-presidentielle-2027_7976822.html#xtor=RSS-3-[lestitres]",
+      "summary": "Alors que La France insoumise pourrait officialiser sa candidature dès dimanche, Jean-Luc Mélenchon a pris la parole vendredi, place de la République à Paris, pour haranguer des militants insoumis, impatients de se lancer dans la campagne présidentielle.",
+      "image": "https://www.franceinfo.fr/pictures/BILTYVtJx0ovwO_OBtvTJv62Q5Q/0x66:5052x2908/432x243/filters:format(jpg)/2026/05/01/69f4c36196d55616538751.jpg",
+      "published_at": "2026-05-01T17:20:54+02:00",
       "source": "France Info",
       "category": "Politique",
-      "id": "db7de65bb798"
+      "id": "3543d218b81d"
     },
     {
-      "title": "Marine Tondelier « en colère » contre les propos de François Ruffin sur l’immigration de travail, qui a « convoqué les sujets de l’extrême droite »",
-      "url": "https://www.lemonde.fr/politique/article/2026/05/01/marine-tondelier-en-colere-contre-la-position-de-francois-ruffin-sur-l-immigration-de-travail_6684706_823448.html",
-      "summary": "« La France ne doit pas faire appel à des médecins algériens, tunisiens ou roumains », avait estimé le député de la Somme, tout en précisant : « En attendant, les médecins algériens, tunisiens, roumains qui travaillent dans notre pays, ils doivent avoir des pleins droits, ils doivent se sentir pleinement reconnus. »",
-      "image": "https://img.lemde.fr/2026/04/23/478/0/5731/2865/644/322/60/0/f726369_ftp-1-y0ovbg2sx713-5845722-01-06.jpg",
-      "published_at": "2026-05-01T12:18:17+02:00",
-      "source": "Le Monde",
+      "title": "Sous le manteau avec Nicole Caligaris",
+      "url": "https://www.liberation.fr/culture/livres/sous-le-manteau-avec-nicole-caligaris-20260501_IZK5EQUJBNCTVA4VKSA2TURSCY/",
+      "summary": "Un homme, une femme et le 13 Novembre dans «le Gogol», avec pour décor, un bar aux premières heures matinales.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-05-01T15:20:00+00:00",
+      "source": "Libération",
       "category": "Sport",
-      "id": "7ccda6ef7e9e"
+      "id": "55dbbf0920dd"
     },
     {
-      "title": "Le rôle et l’utilité des centres d’art contemporain français, source de divergences épidermiques",
-      "url": "https://www.liberation.fr/culture/le-role-et-lutilite-des-centres-dart-contemporain-francais-source-de-divergences-epidermiques-20260501_PW3PHPXMO5F2REMQXNCZEAOJWQ/",
-      "summary": "Ce mois d’avril, faire l’état des lieux des centres d’art contemporains cause de sévères discordes. Les attaques ne viennent pas d’une droite populiste mais de l’intérieur même du champ de l’art, ce qui inquiète une partie de la profession.",
+      "title": "«Moomintroll : la chaleur de l’hiver» et «Life is Strange : Reunion» : deux jeux vidéos testés par «Libé»",
+      "url": "https://www.liberation.fr/culture/moomintroll-la-chaleur-de-lhiver-et-life-is-strange-reunion-deux-jeux-videos-testes-par-libe-20260501_V63YBQAGB5C53FHI4HCNEGTXPM/",
+      "summary": "Pour les jeunes gamers, plongée dans l’univers cotonneux et glacé d’un petit troll à tête d’hippopotame. Pour les grands, retrouvailles peu convaincantes des aventures de Max et Chloé, dix ans après le premier volet.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-05-01T15:20:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "9bb4d271519a"
+    },
+    {
+      "title": "1er-Mai : plus de 300 000 manifestations en France, dont environ 100 000 à Paris, selon la CGT",
+      "url": "https://www.franceinfo.fr/decouverte/1er-mai/direct-1er-mai-plus-de-320-manifestations-prevues-en-france-laurent-nunez-pas-plus-inquiet-que-d-habitude_7976060.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le ministère de l'Intérieur et la préfecture de Paris n'ont pas encore communiqué de chiffres.",
+      "image": "https://www.franceinfo.fr/pictures/1PrELYBtjKx2R_SVywKouKdDmeo/0x58:1024x634/432x243/filters:format(jpg)/2026/05/01/69f4c3fe4a5d8527308093.jpg",
+      "published_at": "2026-05-01T17:17:36+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "cba012200121"
+    },
+    {
+      "title": "Donald Trump rattrapé par la réalité, de l’impasse en Iran à ses revers judiciaires",
+      "url": "https://www.lemonde.fr/international/article/2026/05/01/donald-trump-rattrape-par-la-realite-de-l-impasse-en-iran-a-ses-revers-judiciaires_6684729_3210.html",
+      "summary": "A six mois des élections de mi-mandat, la dynamique politique se révèle plutôt négative pour le président américain.",
+      "image": "https://img.lemde.fr/2026/04/26/1159/0/8570/4285/644/322/60/0/82f9d93_ftp-1-tnrw2eq6yt45-926fa9de3cd8421cb23c1af5c1f531e7-1-7295660aaffb4f9db111cbf28fbb6fc0.jpg",
+      "published_at": "2026-05-01T17:17:05+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "e2ab0833ff37"
+    },
+    {
+      "title": "Le trio nord-irlandais Kneecap sort «Fenian» : «On reprend notre héritage en main»",
+      "url": "https://www.liberation.fr/culture/musique/le-trio-nord-irlandais-kneecap-sort-fenian-on-reprend-notre-heritage-en-main-20260501_EB3CSMGG35B4BGKN7E2MD67TWA/",
+      "summary": "Au cœur d’une tempête médiatique depuis deux ans pour leurs prises de position sur Gaza, les rappeurs gaéliques proposent un album impressionnant, qui s’écoute comme la synthèse incandescente et séditieuse de tout ce qu’incarne le groupe. Rencontre à Paris.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-05-01T10:17:51+00:00",
+      "published_at": "2026-05-01T15:16:04+00:00",
       "source": "Libération",
       "category": "Politique",
-      "id": "7a73bae5be43"
+      "id": "651e73e9cbc4"
     },
     {
-      "title": "« Il n’y a pas d’innocents à Gaza » : Channel 14, la chaîne de télévision israélienne accusée de discours génocidaires",
-      "url": "https://www.lemonde.fr/international/article/2026/05/01/il-n-y-a-pas-d-innocents-a-gaza-channel-14-la-chaine-de-television-israelienne-accusee-de-discours-genocidaires_6684704_3210.html",
-      "summary": "La chaîne, dont les audiences sont en constante progression, fait la part belle aux propos les plus violents, appelant notamment à « l’anéantissement » de l’enclave palestinienne. Trois ONG israéliennes ont effectué un relevé minutieux de ces prises de parole, auquel « Le Monde » a eu accès, et déposé un recours devant la Cour suprême.",
-      "image": "https://img.lemde.fr/2026/05/01/16/246/1550/775/644/322/60/0/f4fae6f_upload-1-uoxo6mhxe1jg-design-sans-titre-1.png",
-      "published_at": "2026-05-01T12:13:38+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "b5487824be1b"
-    },
-    {
-      "title": "Au Pays de Galles, les indépendantistes espèrent arriver en tête d’un scrutin pour la première fois de leur histoire",
-      "url": "https://www.lemonde.fr/international/article/2026/05/01/au-pays-de-galles-les-independantistes-esperent-arriver-en-tete-d-un-scrutin-pour-la-premiere-fois-de-leur-histoire_6684702_3210.html",
-      "summary": "Le 7 mai, des élections régionales et locales pourraient être marquées par une défaite du Parti travailliste. La formation du premier ministre, Keir Starmer, pourrait en particulier être devancée au Pays de Galles, où elle domine depuis un siècle. Les indépendantistes de Plaid Cymru et l’extrême droite de Reform UK espèrent tirer parti de ce recul.",
-      "image": "https://img.lemde.fr/2026/04/29/661/0/6837/3418/644/322/60/0/90a428d_upload-1-a81fobgzmxlm-abaca-brpaphotos20260409-157.jpg",
-      "published_at": "2026-05-01T11:30:10+02:00",
-      "source": "Le Monde Inter",
+      "title": "1ᵉʳ-Mai : Olivier Faure, le premier secrétaire du PS, enfariné à Amiens, reçoit le soutien de son parti",
+      "url": "https://www.lemonde.fr/politique/article/2026/05/01/1-mai-olivier-faure-le-premier-secretaire-du-ps-enfarine-a-amiens-recoit-le-soutien-de-son-parti_6684728_823448.html",
+      "summary": "Le leader socialiste a fait l’objet d’un jet de farine et de slogans hostiles lors du défilé du 1ᵉʳ-Mai à Amiens, comme le rapporte la presse locale.",
+      "image": "https://img.lemde.fr/2026/05/01/194/0/5573/2786/644/322/60/0/2a5006d_ftp-1-lu3rwosv1thu-5915204-01-06.jpg",
+      "published_at": "2026-05-01T17:15:55+02:00",
+      "source": "Le Monde Politique",
       "category": "Politique",
-      "id": "75c14cd4d129"
+      "id": "e24452b2cb5f"
     },
     {
-      "title": "A Chapeco, la « capitale des abattoirs » brésilienne, des ouvriers sous pression : « Les entreprises voudraient qu’on soit des robots »",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/01/a-chapeco-la-capitale-des-abattoirs-bresilienne-des-ouvriers-sous-pression-les-entreprises-voudraient-qu-on-soit-des-robots_6684703_3234.html",
-      "summary": "Pour faire face à la forte demande mondiale, que l’accord UE-Mercosur devrait encore renforcer, les abattoirs recrutent parmi les populations autochtones et les immigrés. Cadence infernale, travail dans le froid, machines défectueuses… Les employés font état de conditions de travail particulièrement pénibles.",
-      "image": "https://img.lemde.fr/2026/04/30/283/0/3400/1700/644/322/60/0/4c7a930_upload-1-jhpdf59gcjbw-ap25142732085928.jpg",
-      "published_at": "2026-05-01T11:30:08+02:00",
-      "source": "Le Monde Inter",
+      "title": "1er-Mai : Lecornu achète son pain dans une boulangerie de Haute-Loire, Marylise Léon dénonce une «politique spectacle»",
+      "url": "https://www.liberation.fr/politique/1er-mai-lecornu-achete-son-pain-dans-une-boulangerie-de-haute-loire-marylise-leon-denonce-une-politique-spectacle-20260501_V7HUQJ2NQVGBJK34YKL67KG5II/",
+      "summary": "Alors que le débat sur le travail le 1er-Mai bat son plein, le Premier ministre et Gabriel Attal sont allés visiter ce vendredi un commerce ouvert. A la mi-journée, trois boulangeries et deux fleuristes avaient été contrôlés par l’inspection du travail.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-05-01T15:03:47+00:00",
+      "source": "Libération",
       "category": "Politique",
-      "id": "20ea390ba4bd"
+      "id": "8e74e0fde750"
+    },
+    {
+      "title": "Free Party : 30 000 personnes attendues au «Teknival de Bourges» alors que le parlement étudie une loi pour pénaliser les «raves»",
+      "url": "https://www.liberation.fr/societe/police-justice/free-party-30-000-personnes-attendues-au-teknival-de-bourges-alors-que-le-parlement-etudie-une-loi-pour-penaliser-les-raves-20260501_FTPS7XKCJRGLBA4EOM7F3BKEII/",
+      "summary": "Des milliers de teufeurs affluent près de Bourges ce vendredi 1er mai. Une fête interdite au moment où la proposition de loi visant à réprimer plus durement les rave parties va être examinée au Sénat.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-05-01T15:00:28+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "a0f74ed37885"
     }
   ]
 }
