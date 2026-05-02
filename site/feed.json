@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T20:13:03.994206+00:00",
+  "generated_at": "2026-05-02T00:07:12.688067+00:00",
   "article_count": 30,
   "articles": [
     {
@@ -7,10 +7,140 @@
       "url": "https://www.franceinfo.fr/decouverte/1er-mai/direct-1er-mai-plus-de-320-manifestations-prevues-en-france-laurent-nunez-pas-plus-inquiet-que-d-habitude_7976060.html#xtor=RSS-3-[lestitres]",
       "summary": "A Paris, 24 000 personnes étaient réunies, selon le ministère de l'Intérieur, tandis qu'elles étaient 100 000 selon le syndicat.",
       "image": "https://www.franceinfo.fr/pictures/5bZQ55Djt2d5NaghCFY9mDX-FQE/0x285:5472x3363/432x243/filters:format(jpg)/2026/05/01/69f4e70a24817545986009.jpg",
-      "published_at": "2026-05-01T22:08:34+02:00",
+      "published_at": "2026-05-02T02:04:17+02:00",
       "source": "France Info",
       "category": "Société",
       "id": "cba012200121"
+    },
+    {
+      "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump contourne le Congrès sur l’Iran, affirmant que les hostilités sont « terminées »",
+      "url": "https://www.lemonde.fr/international/live/2026/05/02/en-direct-guerre-au-moyen-orient-donald-trump-declare-dans-une-lettre-au-congres-que-les-hostilites-contre-l-iran-sont-terminees_6684072_3210.html",
+      "summary": "Le président américain a annoncé vendredi qu’il se passait du feu vert du Congrès pour la guerre en Iran, alors qu’expirait la limite de soixante jours fixée par la loi pour obtenir une autorisation parlementaire au déclenchement des hostilités.",
+      "image": "https://img.lemde.fr/2026/05/01/88/0/7322/3661/644/322/60/0/1df9bb0_ftp-1-7aesjcqcsic0-5919463-01-06.jpg",
+      "published_at": "2026-05-02T00:50:59+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "b010b4732dc9"
+    },
+    {
+      "title": "Aux Etats-Unis, une cour d’appel fédérale suspend l’envoi postal de la pilule abortive",
+      "url": "https://www.lemonde.fr/international/article/2026/05/02/aux-etats-unis-une-cour-d-appel-federale-suspend-l-envoi-postal-de-la-pilule-abortive_6684757_3210.html",
+      "summary": "La décision de cette cour d’appel conservatrice suspendant l’acheminement postal de la mifépristone fait droit à une demande de l’Etat républicain de Louisiane.",
+      "image": "https://img.lemde.fr/2026/04/09/688/0/8251/4125/644/322/60/0/21b2f8b_ftp-1-nzr6ttgou5au-9b818d1aa7d14113b4376498db91ca9c-0-a803da0ad874423f9eebfb2bb4705460.jpg",
+      "published_at": "2026-05-02T00:35:39+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "cad33bc923fa"
+    },
+    {
+      "title": "Donald Trump affirme dans une lettre au Congrès américain que les \"hostilités\" contre l'Iran sont \"terminées\", avec le cessez-le-feu en vigueur",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-affirme-dans-une-lettre-au-congres-americain-que-les-hostilites-contre-l-iran-sont-terminees_7977212.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dans ce courrier adressé à des responsables, le président des Etats-Unis assure respecter le délai théorique des 60 jours, après lequel les parlementaires doivent donner leur aval à la force militaire.",
+      "image": "https://www.franceinfo.fr/pictures/KFA8DVrdhabBX7LPyU_ruvScsIo/0x260:5000x3073/432x243/filters:format(jpg)/2026/05/01/69f51dff2bc36047648360.jpg",
+      "published_at": "2026-05-02T00:27:33+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "207b25e9f60a"
+    },
+    {
+      "title": "Le Pentagone accélère son utilisation de l’intelligence artificielle en signant des contrats avec sept concurrents d’Anthropic",
+      "url": "https://www.lemonde.fr/international/article/2026/05/02/le-pentagone-accelere-son-utilisation-de-l-intelligence-artificielle-en-signant-des-contrats-avec-sept-concurrents-d-anthropic_6684756_3210.html",
+      "summary": "L’accord doit permettre l’émergence de nouvelles capacités, deux mois après le conflit entre le gouvernement américain et le créateur du modèle Claude, après que l’entreprise a souhaité empêcher le Pentagone de l’utiliser pour la surveillance de masse et l’usage sur les champs de bataille sans intervention humaine.",
+      "image": "https://img.lemde.fr/2026/05/01/384/0/6000/3000/644/322/60/0/948dbab_upload-1-0hlqbkhyz4gz-063-2265112745.jpg",
+      "published_at": "2026-05-02T00:01:42+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "447657df732f"
+    },
+    {
+      "title": "Soupçons de discriminations à l’aéroport de Roissy-Charles-de-Gaulle : SOS Racisme saisit le Défenseur des droits, le groupe ADP dément",
+      "url": "https://www.lemonde.fr/societe/article/2026/05/01/soupcons-de-discriminations-a-l-aeroport-de-roissy-charles-de-gaulle-sos-racisme-saisit-le-defenseur-des-droits-le-groupe-adp-dement_6684755_3224.html",
+      "summary": "L’association explique que de « nombreuses victimes » témoignent de leur « mise à l’écart » lors d’un tournage à Roissy, puis « de mesures de représailles » à leur encontre.",
+      "image": "https://img.lemde.fr/2026/05/01/213/0/1901/950/644/322/60/0/14d53d7_upload-1-fkl50r7ubhdk-000-a6qz7pz.jpg",
+      "published_at": "2026-05-01T23:52:12+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "9ea86f24effc"
+    },
+    {
+      "title": "La Prix Nobel de la Paix Narges Mohammadi a été hospitalisée après un malaise dans sa prison iranienne, selon son avocat",
+      "url": "https://www.franceinfo.fr/monde/iran/la-prix-nobel-de-la-paix-narges-mohammadi-a-ete-hospitalisee-apres-un-malaise-dans-sa-prison-iranienne-selon-son-avocat_7977191.html#xtor=RSS-3-[lestitres]",
+      "summary": "Son état de santé est jugé extrêmement préoccupant par sa fondation, depuis une crise cardiaque dont elle a été victime en mars. La militante est emprisonnée depuis le mois de décembre à la prison de Zandjan.",
+      "image": "https://www.franceinfo.fr/pictures/nBiRI7a9Mi_2cqpqTwkT9DPA9bk/0x0:4988x2805/432x243/filters:format(jpg)/2026/05/01/69f5151e170f9284187337.jpg",
+      "published_at": "2026-05-01T23:17:53+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "58383f86397e"
+    },
+    {
+      "title": "Loire-Atlantique : deux hommes meurent électrocutés, le mât de leur voilier a arraché une ligne électrique",
+      "url": "https://www.franceinfo.fr/faits-divers/loire-atlantique-deux-hommes-meurent-electrocutes-le-mat-de-leur-voilier-a-arrache-une-ligne-electrique_7977197.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le mât de leur petit voilier a arraché une ligne électrique de 20 000 volts, vendredi, à Saint-Gildas-des-Bois, selon ICI Loire Océan.",
+      "image": "https://www.franceinfo.fr/pictures/7bRndKBCZDdybltVNVlg9iFazwU/0x0:870x489/432x243/filters:format(jpg)/2024/12/30/logo-des-pompiers-677249fbc3d67530284624.jpg",
+      "published_at": "2026-05-01T23:11:42+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "6207bda96247"
+    },
+    {
+      "title": "Gérard Manset : «Ce siège vide, l’onirisme absolu»",
+      "url": "https://www.liberation.fr/culture/musique/gerard-manset-ce-siege-vide-lonirisme-absolu-20260501_BRHAUVEMRBHKHK2TXHWYIY6DMA/",
+      "summary": "Cette figure unique de la scène française, photographe, peintre, romancier ou musicien dit pourquoi il ne laisse à personne le soin d’imaginer la pochette de ses albums.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-05-01T21:07:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "b2c1c642a656"
+    },
+    {
+      "title": "\"On va signaler ces profils qui nous semblent à risque\" : la police aux frontières face à l’Islam radical",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/on-va-signaler-ces-profils-qui-nous-semblent-a-risque-la-police-aux-frontieres-face-a-l-islam-radical_7977077.html#xtor=RSS-3-[lestitres]",
+      "summary": "C’est une lutte au long cours que mènent depuis des années les services antiterroristes européens : celle contre la menace du terrorisme islamiste. La France est particulièrement visée. Comment le pays s’est-il adapté pour faire face et détecter les profils à risque ?",
+      "image": "https://www.franceinfo.fr/pictures/l5FVJ3HC0k-nDp4KHTO9iuqUw-c/0x0:1920x1080/432x243/filters:format(jpg)/2026/05/01/69f5114c3a55f665190022.jpg",
+      "published_at": "2026-05-01T22:48:57+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "db915afcc94b"
+    },
+    {
+      "title": "Cuba : à La Havane, un 1er mai combatif contre «les menaces irrationnelles de Washington»",
+      "url": "https://www.liberation.fr/international/amerique/cuba-a-la-havane-un-1er-mai-combatif-contre-les-menaces-irrationnelles-de-washington-20260501_ZDAJCX2O2BEVFDFRSDDALEBTKI/",
+      "summary": "Menacées par Donald Trump qui a annoncé ce vendredi le renforcement des sanctions contre l’île, les autorités cubaines ont tenté d’afficher leur solidité devant la foule réunie pour la traditionnelle fête des travailleurs.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-05-01T20:42:28+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "0bb6f999d2aa"
+    },
+    {
+      "title": "L'association SOS Racisme alerte la Défenseure des droits pour des soupçons de discrimination à l'aéroport de Roissy",
+      "url": "https://www.franceinfo.fr/societe/racisme/l-association-sos-racisme-alerte-la-defenseure-des-droits-pour-des-soupcons-de-discrimination-a-l-aeroport-de-roissy_7977167.html#xtor=RSS-3-[lestitres]",
+      "summary": "Elle affirme que des salariés noirs ont été volontairement écartés du champ des caméras lors d'un tournage, ce que dément le groupe ADP.",
+      "image": "https://www.franceinfo.fr/pictures/vKOc5Off7gwuqiIw4AQOOY-luAc/0x184:3543x2177/432x243/filters:format(jpg)/2026/05/01/69f50cae405f9094867291.jpg",
+      "published_at": "2026-05-01T22:29:20+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "56e61d053852"
+    },
+    {
+      "title": "En Iran, le secteur pétrolier sous pression, mais pas étouffé par le blocus américain",
+      "url": "https://www.lemonde.fr/international/article/2026/05/01/en-iran-le-secteur-petrolier-sous-pression-mais-pas-etouffe-par-le-blocus-americain_6684754_3210.html",
+      "summary": "Alors que Washington parie sur le blocus maritime pour empêcher les exportations de brut iranien et faire plier le régime, les capacités de stockage dont dispose l’Iran et les paiements différés de certaines livraisons devraient atténuer l’impact à court terme de ces mesures.",
+      "image": "https://img.lemde.fr/2026/04/28/1000/0/6000/3000/644/322/60/0/a8474d7_ftp-1-21fj7rdwzpqu-77c0ba0da6fe47c4b00ee823fdf7443b-1-55317d0ba8124f3292cae9633f32043f.jpg",
+      "published_at": "2026-05-01T22:17:44+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "d536a3761e64"
+    },
+    {
+      "title": "Détroit d'Ormuz : \"La situation se dégrade terriblement\" pour les 20 000 marins bloqués, selon la Fédération des officiers de la Marine marchande",
+      "url": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/detroit-d-ormuz-la-situation-se-degrade-terriblement-pour-les-20-000-marins-bloques-selon-la-federation-des-officiers-de-la-marine-marchande_7977158.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Ces marins sont rationnés en eau potable, en vivres, c'est une crime humanitaire\", alerte la Fédération des officiers de la Marine marchande CGT, vendredi sur franceinfo.",
+      "image": "https://www.franceinfo.fr/pictures/MzpJueTMm-WBKEuZIgmvBl-0qeM/0x53:1024x629/432x243/filters:format(jpg)/2026/05/01/69f50a150326a369233303.jpg",
+      "published_at": "2026-05-01T22:16:36+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "83c77c86786e"
     },
     {
       "title": "Les acteurs et les scénarios générés par IA ne sont pas éligibles aux Oscars, annonce l'Académie",
@@ -27,7 +157,7 @@
       "url": "https://www.lemonde.fr/culture/article/2026/05/01/oscars-les-acteurs-et-les-scenarios-generes-par-ia-ne-sont-pas-eligibles-annonce-l-academie_6684752_3246.html",
       "summary": "Face à la montée de l’intelligence artificielle, l’institution pose une limite claire pour préserver la place des artistes humains dans la course aux Oscars.",
       "image": "https://img.lemde.fr/2026/05/01/549/0/4839/2419/644/322/60/0/e2a2c33_upload-1-ri6vsddptmri-ap26075207344705.jpg",
-      "published_at": "2026-05-01T21:48:25+02:00",
+      "published_at": "2026-05-01T21:48:22+02:00",
       "source": "Le Monde",
       "category": "Tech",
       "id": "253fe2e3c238"
@@ -105,9 +235,9 @@
     {
       "title": "Rassemblement national : à Mâcon, Marine Le Pen et Jordan Bardella s’offrent un dernier pas de deux avant le couperet judiciaire",
       "url": "https://www.lemonde.fr/politique/article/2026/05/01/rassemblement-national-a-macon-marine-le-pen-et-jordan-bardella-s-offrent-un-dernier-pas-de-deux-avant-le-couperet-judiciaire_6684750_823448.html",
-      "summary": "Pour fêter le 1ᵉʳ-Mai et Jeanne d’Arc, le parti a organisé à Mâcon son dernier meeting avant l’arrêt de la Cour d’appel de Paris, le 7 juillet, qui scellera le sort judiciaire et politique de Marine Le Pen.",
+      "summary": "Pour fêter le 1ᵉʳ-Mai et Jeanne d’Arc, le parti a organisé à Mâcon son dernier meeting avant l’arrêt de la cour d’appel de Paris, le 7 juillet, qui scellera le sort judiciaire et politique de Marine Le Pen.",
       "image": "https://img.lemde.fr/2026/05/01/816/0/7768/3884/644/322/60/0/332b335_upload-1-qz4iephnfa4i-dsc-1200.jpg",
-      "published_at": "2026-05-01T20:32:49+02:00",
+      "published_at": "2026-05-01T20:32:47+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "f663a4a89a5d"
@@ -171,136 +301,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "e304b5744a03"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : Donald Trump annonce qu'il n'est \"pas satisfait\" d'une nouvelle offre de l'Iran pour relancer les négociations",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-la-defense-antiaerienne-est-brievement-entree-en-action-dans-le-ciel-de-teheran_7976153.html#xtor=RSS-3-[lestitres]",
-      "summary": "Plus tôt, l'agence officielle iranienne Irna avait annoncé que la République islamique avait \"transmis jeudi soir le texte de sa dernière proposition au Pakistan, médiateur dans les discussions avec les Etats-Unis\", sans plus de détails.",
-      "image": "https://www.franceinfo.fr/pictures/mWyUeO8Bz3iyvNNORGjSIcuYaT4/0x215:4135x2541/432x243/filters:format(jpg)/2026/05/01/69f4e916d4cab333743786.jpg",
-      "published_at": "2026-05-01T19:56:33+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "52d7df96b144"
-    },
-    {
-      "title": "1er-Mai : le syndicat CGT Travail d'Isère dénonce une \"pression indue\" après le coup de téléphone de Sébastien Lecornu à un boulanger contrôlé",
-      "url": "https://www.franceinfo.fr/decouverte/1er-mai/1er-mai-le-syndicat-cgt-travail-d-isere-denonce-une-pression-indue-apres-le-coup-de-telephone-de-sebastien-lecornu-a-un-boulanger-controle_7977053.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un boulanger isérois, contrôlé vendredi pour avoir ouvert sa boutique, a été appelé par le Premier ministre alors que le gouvernement souhaite autoriser les boulangers et fleuristes à travailler à l'occasion du 1er-Mai.",
-      "image": "https://www.franceinfo.fr/pictures/YDM5HUS39pzl8KQQYiBJrTVIKfE/0x0:1024x575/432x243/filters:format(jpg)/2026/01/19/lecornu-696dc7eacb0ec805230894.jpg",
-      "published_at": "2026-05-01T19:41:17+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "62185e2cc0f2"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce le renforcement de la défense aérienne, notamment pour Dnipro et Odessa",
-      "url": "https://www.lemonde.fr/international/live/2026/05/01/en-direct-guerre-en-ukraine-a-ternopil-visee-par-une-attaque-russe-d-ampleur-27-drones-ont-ete-detruits-par-la-defense-antiaerienne_6683420_3210.html",
-      "summary": "Le président ukrainien a réagi à l’attaque russe massive de drones menée en plein jour, avec « plus de 400 drones depuis ce matin, dont plus de 200 de type Shahed ».",
-      "image": "https://img.lemde.fr/2026/05/01/245/0/4099/2049/644/322/60/0/5bca6f7_ftp-1-aj5g9kpkaj48-2026-05-01t085908z-732418019-rc280la90yml-rtrmadp-3-ukraine-crisis-attack-odesa.JPG",
-      "published_at": "2026-05-01T19:39:17+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "52aa0fe2cdc4"
-    },
-    {
-      "title": "Transport maritime : les navires bientôt soumis à des restrictions sur les émissions de soufre dans l’Atlantique-Nord",
-      "url": "https://www.liberation.fr/environnement/pollution/transport-maritime-les-navires-bientot-soumis-a-des-restrictions-sur-les-emissions-de-soufre-dans-latlantique-nord-20260501_K3VS2QB4XJE7XFCDBLOE4WCLNU/",
-      "summary": "L’Organisation maritime internationale a annoncé ce vendredi 1er mai que les bateaux circulant dans une zone de l’Atlantique Nord devront réduire d’environ 80 % la teneur en soufre de leur carburant, dès 2027.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-05-01T17:38:51+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "963def8a4fbf"
-    },
-    {
-      "title": "Manifestation du 1er Mai : à Paris, «on nous prend déjà tout, on conservera cette journée»",
-      "url": "https://www.liberation.fr/economie/social/manifestation-du-1er-mai-a-paris-on-nous-prend-deja-tout-on-conservera-cette-journee-20260501_HQZZJINU3NELZOGCPWIXVGBO6Y/",
-      "summary": "Ce vendredi, selon la CGT, plus de 300 000 personnes ont manifesté dans toute la France dont 100 000 à Paris pour la journée internationale de la lutte pour les droits des travailleurs. La police établit les chiffres de 158 000 et 24 000 personnes.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-05-01T17:36:48+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "bcd2933f0ea7"
-    },
-    {
-      "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump laisse entendre qu’il se passera d’un feu vert du Congrès pour obtenir une autorisation parlementaire dans le conflit contre l’Iran",
-      "url": "https://www.lemonde.fr/international/live/2026/05/01/en-direct-guerre-au-moyen-orient-donald-trump-laisse-entendre-qu-il-se-passera-d-un-feu-vert-du-congres-pour-obtenir-une-autorisation-parlementaire-dans-le-conflit-contre-l-iran_6684072_3210.html",
-      "summary": "« Je ne pense pas que ce qu’ils demandent est constitutionnel. Ceux qui demandent ne sont pas des patriotes », a dit le président américain alors qu’expire la limite de soixante jours fixée dans la loi pour obtenir une autorisation parlementaire dans le conflit contre l’Iran.",
-      "image": "https://img.lemde.fr/2026/04/30/322/0/3440/1720/644/322/60/0/30dcfe4_ftp-1-h47uilllipvh-2026-04-30t185416z-852942339-rc2uzka4j4a3-rtrmadp-3-usa-trump.JPG",
-      "published_at": "2026-05-01T19:33:22+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "ae60a396b731"
-    },
-    {
-      "title": "Dans le Lot-et-Garonne, le corps d'une jeune femme découvert dans une allée, une enquête pour meurtre ouverte",
-      "url": "https://www.franceinfo.fr/faits-divers/dans-le-lot-et-garonne-le-corps-d-une-jeune-femme-decouvert-dans-une-allee-une-enquete-pour-meurtre-ouverte_7977041.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un homme d'une trentaine d'années a été interpellé et placé en garde à vue.",
-      "image": "https://www.franceinfo.fr/pictures/9bLDYBwiZUiPlXpeoLMk2CfF0oc/0x106:1024x682/432x243/filters:format(jpg)/2026/04/21/69e7a4c02afb5210457246.jpg",
-      "published_at": "2026-05-01T19:31:48+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "fa3c53b82d10"
-    },
-    {
-      "title": "Le RN a organisé son traditionnel meeting du 1er-Mai à Mâcon, avec Jordan Bardella et Marine Le Pen en têtes d'affiche",
-      "url": "https://www.franceinfo.fr/politique/front-national/le-rn-organise-son-traditionnel-meeting-du-1er-mai-a-macon-avec-jordan-bardella-et-marine-le-pen-en-tetes-d-affiche_7976993.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le parti n'a pas encore tranché entre les deux personnalités en vue de la présidentielle. Le sort de sa présidente d'honneur reste suspendu à une décision de justice.",
-      "image": "https://www.franceinfo.fr/pictures/9TqZfVfRSGgNB_bkqvqMa4nNa0A/0x35:1024x611/432x243/filters:format(jpg)/2026/05/01/69f4d51c09b7b727597683.jpg",
-      "published_at": "2026-05-01T19:29:07+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "24214a283c28"
-    },
-    {
-      "title": "\"J'ai travaillé les jours fériés toute ma vie, j'en ai perdu ma famille\" : dans le cortège parisien, la défense d'un 1er-Mai chômé",
-      "url": "https://www.franceinfo.fr/decouverte/1er-mai/reportage-j-ai-travaille-les-jours-feries-toute-ma-vie-j-en-ai-perdu-ma-famille-dans-le-cortege-parisien-la-defense-d-un-1er-mai-chome_7974422.html#xtor=RSS-3-[lestitres]",
-      "summary": "Alors que l'exécutif s'est saisi, ces dernières semaines, de la question du travail le 1er-Mai, les manifestants interrogés par franceinfo à Paris s'opposent à tout changement législatif.",
-      "image": "https://www.franceinfo.fr/pictures/7W8haWyyp3wg4X4vDqtun3JDZIU/0x58:1024x634/432x243/filters:format(jpg)/2026/05/01/69f4d0f0d1cf8101441604.jpg",
-      "published_at": "2026-05-01T19:21:30+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "d457bcf31312"
-    },
-    {
-      "title": "«Une revanche de classe croisée» : au RN, la ligne populiste de Le Pen brouillée par la stratégie droite-people de Bardella",
-      "url": "https://www.liberation.fr/politique/elections/une-revanche-de-classe-croisee-au-rn-la-ligne-populiste-de-le-pen-brouillee-par-la-strategie-droite-people-de-bardella-20260501_UOF7KBEOVRAZ7OUKV4NN4YS5EA/",
-      "summary": "Malgré les dénégations des deux têtes du RN en meeting à Mâcon ce vendredi, le parti peine à masquer ses divergences. Une illustration des tensions alors que deux lignes cohabitent dans l’attente de la décision concernant l’inéligibilité de sa patronne.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-05-01T17:20:59+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "81a4fcd6e956"
-    },
-    {
-      "title": "\"C'est pour nous dissuader de faire la fête\" : des participants à une rave-party occupent un terrain militaire dans le Cher, malgré l'alerte des autorités",
-      "url": "https://www.franceinfo.fr/faits-divers/reportage-c-est-pour-nous-dissuader-de-faire-la-fete-des-participants-a-une-rave-party-occupent-un-terrain-militaire-dans-le-cher-malgre-l-alerte-des-autorites_7976942.html#xtor=RSS-3-[lestitres]",
-      "summary": "Plus de 20 000 personnes sont rassemblées près de Bourges, sur un terrain militaire \"très dangereux en raison de munitions non explosées\" selon le préfet, même si les participants ne semblent pas conscients du danger.",
-      "image": "https://www.franceinfo.fr/pictures/HS6sZpDuIvor7R4LvpLxQRRKKls/0x513:5388x3544/432x243/filters:format(jpg)/2026/05/01/69f4dd64debbf729123679.jpg",
-      "published_at": "2026-05-01T19:18:23+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "0fb50c642a4f"
-    },
-    {
-      "title": "Ce que Coluche nous dit de la France de son époque",
-      "url": "https://www.lemonde.fr/idees/article/2026/05/01/ce-que-coluche-nous-dit-de-la-france-de-son-epoque_6684744_3232.html",
-      "summary": "A travers une nouvelle biographie consacrée au célèbre comique, le sociologue Jean-Louis Fabiani dresse le portrait du pays dans les années 1980.",
-      "image": "https://img.lemde.fr/2026/05/01/363/0/2682/1341/644/322/60/0/843b5ff_upload-1-v3lnuky2yrcm-000-app2002060514570.jpg",
-      "published_at": "2026-05-01T19:00:07+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "7a3d46c5800f"
-    },
-    {
-      "title": "Rave-party dans le Cher : une proposition de loi pour \"combler le vide juridique\", détaille une députée Horizons",
-      "url": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/rave-party-dans-le-cher-une-proposition-de-loi-pour-combler-le-vide-juridique-detaille-une-deputee-horizons_7977020.html#xtor=RSS-3-[lestitres]",
-      "summary": "Alors que plus de 20 000 personnes sont rassemblées près de Bourges, la définition actuelle d'un organisateur de rave-party \"est trop restrictive\" et pas adaptée à ce type d'évènement sans \"réelle hiérarchie\", estime Laetitia Saint-Paul, vendredi sur franceinfo.",
-      "image": "https://www.franceinfo.fr/pictures/KjvmsHAq7byHNMkxaMlqX2l-Sho/0x53:1024x629/432x243/filters:format(jpg)/2026/05/01/69f4daee8f0e4026677248.jpg",
-      "published_at": "2026-05-01T18:58:37+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "97cc1564a5ca"
     }
   ]
 }
