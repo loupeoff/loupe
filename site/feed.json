@@ -1,46 +1,196 @@
 {
-  "generated_at": "2026-05-06T20:54:10.301987+00:00",
+  "generated_at": "2026-05-06T23:37:48.818294+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "EN DIRECT - Bayern-PSG : grâce à Dembélé, Paris a un pied et demi en finale de la Ligue des champions",
+      "title": "La France déploie le porte-avions « Charles de Gaulle » en direction du golfe d’Aden et se tient prête à agir pour débloquer le détroit d’Ormuz",
+      "url": "https://www.lemonde.fr/international/article/2026/05/07/la-france-deploie-le-porte-avions-charles-de-gaulle-en-direction-du-golfe-d-aden-et-se-tient-prete-a-agir-pour-debloquer-le-detroit-d-ormuz_6686245_3210.html",
+      "summary": "La fermeture du couloir maritime par Téhéran depuis le déclenchement de la guerre des Etats-Unis et d’Israël contre l’Iran, le 28 février, a provoqué une envolée des cours du pétrole et a déstabilisé l’économie mondiale.",
+      "image": "https://img.lemde.fr/2026/05/06/269/0/2100/1050/644/322/60/0/0d5c027_ftp-1-ph0fcfykdh71-5959795-01-06.jpg",
+      "published_at": "2026-05-07T01:22:22+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "f57d69563594"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Moscou appelle les ambassades étrangères à Kiev à évacuer leur personnel en raison d’éventuels bombardements de représailles le 9 mai",
+      "url": "https://www.lemonde.fr/international/live/2026/05/07/en-direct-guerre-en-ukraine-moscou-appelle-les-ambassades-etrangeres-a-kiev-a-evacuer-leur-personnel-en-raison-d-eventuels-bombardements-de-represailles-le-9-mai_6684995_3210.html",
+      "summary": "Cet avertissement intervient quelques heures après que la Russie a annoncé mercredi la tenue d’essais de missiles capables de transporter des charges nucléaires sur le polygone de Koura, dans la péninsule du Kamtchatka en Extrême-Orient.",
+      "image": "https://img.lemde.fr/2026/05/06/399/0/5414/2707/644/322/60/0/993e7e6_ftp-1-izs8zw3gdfc3-2026-05-06t062238z-74369764-rc2g3la0plzg-rtrmadp-3-ukraine-crisis-attack-kharkiv.JPG",
+      "published_at": "2026-05-07T01:21:25+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "bbb9a43f15b8"
+    },
+    {
+      "title": "Anthropic, en difficulté pour satisfaire la demande de son modèle d’IA, loue le plus gros centre de données d’Elon Musk",
+      "url": "https://www.lemonde.fr/economie/article/2026/05/07/anthropic-en-difficulte-pour-satisfaire-la-demande-de-son-modele-d-ia-loue-le-plus-gros-centre-de-donnees-d-elon-musk_6686212_3234.html",
+      "summary": "Cet accord permettra sans délai à l’entreprise, rivale d’OpenAI, d’augmenter les quotas d’utilisation de son modèle Claude.",
+      "image": "https://img.lemde.fr/2026/04/24/375/0/4497/2248/644/322/60/0/b1104d2_ftp-1-xfg9h9jo1ygx-ca5de7832879436facd44e84343d7a1d-0-fba1576e8263423b896b7e91b7524591.jpg",
+      "published_at": "2026-05-07T01:16:21+02:00",
+      "source": "Le Monde",
+      "category": "Tech",
+      "id": "5307afbc4d99"
+    },
+    {
+      "title": "EN DIRECT, hantavirus sur un navire de croisière : l’évacuation des passagers devrait commencer lundi à partir des Canaries",
+      "url": "https://www.lemonde.fr/sante/live/2026/05/07/en-direct-hantavirus-sur-un-navire-de-croisiere-l-evacuation-des-passagers-devrait-commencer-lundi-a-partir-des-canaries_6686093_1651302.html",
+      "summary": "Le bateau MV « Hondius », qui a quitté le Cap-Vert mercredi, est attendu samedi aux Canaries, selon Madrid. Les passagers resteront sur le navire jusqu’à l’arrivée des avions qui les rapatrieront dans leurs pays.",
+      "image": "https://img.lemde.fr/2026/05/06/182/0/3402/1701/644/322/60/0/ee1bce1_ftp-1-dy8ua0isxogd-5956871-01-06.jpg",
+      "published_at": "2026-05-07T00:13:13+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "8bb6ccba09c2"
+    },
+    {
+      "title": "Le \"MV Hondius\", suspecté d'être un foyer d'hantavirus, est en route pour Tenerife, arrivée prévue \"dans trois jours\"",
+      "url": "https://www.franceinfo.fr/sante/le-mv-hondius-suspecte-d-etre-un-foyer-d-hantavirus-a-quitte-le-cap-vert-arrivee-prevue-a-tenerife-dans-trois-jours_7987703.html#xtor=RSS-3-[lestitres]",
+      "summary": "Immobilisé depuis dimanche, le bateau a quitté sa zone de mouillage au large du Cap-Vert, mercredi soir. L'évacuation des passagers démarrera lundi.",
+      "image": "https://www.franceinfo.fr/pictures/zXxWBR83-iwZR_o-ULcUmNrX7x8/0x86:3402x2000/432x243/filters:format(jpg)/2026/05/06/69fb0bc3c64e2252879881.jpg",
+      "published_at": "2026-05-07T00:00:21+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "1cb96f62e5d5"
+    },
+    {
+      "title": "Projet de loi d’urgence agricole : le texte adopté par les députés en commission",
+      "url": "https://www.lemonde.fr/planete/article/2026/05/06/projet-de-loi-d-urgence-agricole-le-texte-adopte-par-les-deputes-en-commission_6686179_3244.html",
+      "summary": "Le projet de loi, qui contient notamment des mesures sur le stockage de l’eau et l’élevage, sera débattu à partir du 19 mai dans l’hémicycle de l’Assemblée nationale.",
+      "image": "https://img.lemde.fr/2026/05/05/835/0/5000/2500/644/322/60/0/df6e47b_ftp-1-iapbudaw56ap-2026-05-05t141213z-414224126-rc223la559eo-rtrmadp-3-france-politics.JPG",
+      "published_at": "2026-05-06T23:56:02+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "1abc065c11e8"
+    },
+    {
+      "title": "Les \"frappes\" qui ont visé les Emirats arabes unis et \"plusieurs navires\" sont \"injustifiées\", déplore Emmanuel Macron auprès du président iranien",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/emmanuel-macron-condamne-aupres-du-president-iranien-les-frappes-injustifiees-qui-ont-vise-les-emirats-arabes-unis-et-plusieurs-navires_7987781.html#xtor=RSS-3-[lestitres]",
+      "summary": "Lors d'un nouvel entretien avec Massoud Pezeshkian, mercredi, le président français lui a dit sa \"vive préoccupation sur l'escalade en cours\".",
+      "image": "https://www.franceinfo.fr/pictures/lH_Nh6ZQTteuo2y9j9saJjoCTw8/0x53:1024x629/432x243/filters:format(jpg)/2026/05/06/69fb967d0c891028924427.jpg",
+      "published_at": "2026-05-06T23:52:00+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "981a68deb0f5"
+    },
+    {
+      "title": "\"Il faut un donneur compatible à 100% pour maximiser les chances de guérison\", le papa d'Elio, 4 ans, recherche un donneur pour sauver son fils atteint d'une leucémie rare",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/il-faut-un-donneur-compatible-a-100-pour-maximiser-les-chances-de-guerison-le-papa-d-elio-4-ans-recherche-un-donneur-pour-sauver-son-fils-atteint-d-une-leucemie-rare_7987823.html#xtor=RSS-3-[lestitres]",
+      "summary": "Thomas Papavoine, recherche un donneur pour sauver son fils, Elio, 4 ans, atteint d’une leucémie rare.",
+      "image": "https://www.franceinfo.fr/pictures/-sXracWZx3dV4kSOd0JWY8oc5EY/0x0:1920x1080/432x243/filters:format(jpg)/2026/05/06/69fba13546197677906735.jpg",
+      "published_at": "2026-05-06T23:46:15+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "3e3e43dfc8f3"
+    },
+    {
+      "title": "Hantavirus à bord d'un navire de croisière : \"On n'est pas du tout enfermés\", un passager raconte",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/hantavirus-a-bord-d-un-navire-de-croisiere-on-n-est-pas-du-tout-enfermes-un-passager-raconte_7987712.html#xtor=RSS-3-[lestitres]",
+      "summary": "C’est peut-être la fin du cauchemar pour le navire contaminé à l'hantavirus. Trois passagers malades ont été évacués jeudi 6 mai vers le Cap-Vert puis vers les Pays-Bas. Un Français serait parmi les cas contacts. Le navire de croisière pourrait accoster prochainement aux Canaries. Deux Français à bord témoignent.",
+      "image": "https://www.franceinfo.fr/pictures/3iomMJwySvrKVLFDd9xlwGVorQQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/05/06/69fb8c1cd2429455724437.jpg",
+      "published_at": "2026-05-06T23:44:53+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "228306a55760"
+    },
+    {
+      "title": "Bayern Munich-PSG : le résumé de la qualification haletante des Parisiens, finaliste de la Ligue des champions pour la seconde saison consécutive",
+      "url": "https://www.lemonde.fr/sport/article/2026/05/06/bayern-munich-psg-le-resume-de-la-qualification-haletante-des-parisiens-finaliste-de-la-ligue-des-champions-pour-la-seconde-saison-consecutive_6686178_3242.html",
+      "summary": "Repris en fin de rencontre en Bavière (1-1), le Paris Saint-Germain a pu profiter de son avantage décroché à l’aller (5-4) pour se qualifier en finale de la Ligue des champions. Les Parisiens y défendront leur titre face à Arsenal, le 30 mai à Budapest.",
+      "image": "https://img.lemde.fr/2026/05/06/458/0/3069/1534/644/322/60/0/fd023ec_ftp-1-6raggw4mqfk3-2026-05-06t211523z-1954675465-up1em561mopkf-rtrmadp-3-soccer-champions-fcb-psg.JPG",
+      "published_at": "2026-05-06T23:40:31+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "0778db076510"
+    },
+    {
+      "title": "André Cerdini, président du procès historique de Klaus Barbie, est mort à l'âge de 96 ans",
+      "url": "https://www.franceinfo.fr/faits-divers/justice-proces/andre-cerdini-president-du-proces-historique-de-klaus-barbie-est-mort-a-l-age-de-96-ans_7987871.html#xtor=RSS-3-[lestitres]",
+      "summary": "En juillet 1987, la justice a condamné celui qu'on surnommait le \"boucher de Lyon\" à la réclusion criminelle à perpétuité. Le procès, historique, avait duré huit semaines.",
+      "image": "https://www.franceinfo.fr/pictures/BsSTO57qomhHUBg927sB_OzkLFQ/0x56:1024x632/432x243/filters:format(jpg)/2026/05/06/69fbb36cd981c837041215.jpg",
+      "published_at": "2026-05-06T23:40:12+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "0f675b20548a"
+    },
+    {
+      "title": "Bayern Munich-PSG : les chiffres marquants de la qualification de Paris pour sa deuxième finale de Ligue des champions consécutive",
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/bayern-munich-psg-les-chiffres-marquants-de-la-qualification-de-paris-pour-sa-deuxieme-finale-de-ligue-des-champions-consecutive_7987595.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les joueurs de Luis Enrique se sont octroyé le droit de disputer une deuxième finale consécutive en C1, mercredi, en dominant le Bayern Munich sur l'ensemble de cette confrontation de légende (1-1 et 5-4).",
+      "image": "https://www.franceinfo.fr/pictures/F0zPAMQ2Sdknbq3RZRxyAusWwuQ/0x0:2317x1303/432x243/filters:format(jpg)/2026/05/06/69fb9ffe5193e967803718.jpg",
+      "published_at": "2026-05-06T23:31:46+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "9e8d0053140f"
+    },
+    {
+      "title": "Une collégienne de 14 ans tuée à l'arme blanche dans l'Aisne, un homme de 23 ans interpellé",
+      "url": "https://www.franceinfo.fr/faits-divers/une-collegienne-de-14-ans-tuee-a-l-arme-blanche-dans-l-aisne_7987511.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le drame est survenu à Fère-en-Tardenois. D'importants moyens ont été déployés pour retrouver l'auteur en fuite. Une enquête pour assassinat a été ouverte.",
+      "image": "https://www.franceinfo.fr/pictures/gpoijaybe-oraCXJOvCL3I9viTQ/6x0:1073x600/432x243/filters:format(jpg)/2026/05/06/69fb82aac038a249070416.jpg",
+      "published_at": "2026-05-06T23:28:11+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "1ba7fedd78a6"
+    },
+    {
+      "title": "Bayern-PSG : revivez la qualification des Parisiens pour la finale de la Ligue des champions",
       "url": "https://www.liberation.fr/sports/football/en-direct-bayern-psg-suivez-la-demi-finale-retour-de-ligue-des-champions-avec-lequipe-de-libe-20260506_E2DFVXGONBGHPBFHHNMY5QZSCU/",
-      "summary": "Les hommes de Luis Enrique, vainqueurs 5-4 à l’aller, se déplacent ce mercredi soir en Bavière pour un match retour au sommet contre Michael Olise et ses camarades. Qui rejoindra Arsenal en finale de la compétition ?",
+      "summary": "Les hommes de Luis Enrique, après un match aller dantesque, se sont qualifiés ce mercredi soir en Bavière lors d’un retour au sommet. Ils défieront Arsenal en finale le 30 mai.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-05-06T20:48:35+00:00",
+      "published_at": "2026-05-06T21:17:35+00:00",
       "source": "Libération",
       "category": "Sport",
       "id": "3431a268792c"
+    },
+    {
+      "title": "Ligue des champions : insubmersible, le PSG résiste au Bayern Munich et défendra son titre en finale contre Arsenal",
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/ligue-des-champions-insubmersible-le-psg-resiste-au-bayern-munich-et-defiera-arsenal-pour-sa-deuxieme-finale-consecutive_7987691.html#xtor=RSS-3-[lestitres]",
+      "summary": "Déjà vainqueur au match aller, l'équipe de Luis Enrique a résisté (1-1) au retour des Bavarois qui n'ont égalisé qu'en toute fin de partie, mercredi soir.",
+      "image": "https://www.franceinfo.fr/pictures/4Bl7CJckHp7huLpo0j1f2Q7XG3M/0x0:1024x576/432x243/filters:format(jpg)/2026/05/06/69fbb85f7b6b1942283102.jpg",
+      "published_at": "2026-05-06T23:16:36+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "ff45cbb1e6ff"
+    },
+    {
+      "title": "Ligue des champions : le Paris-SG en finale après un match Munich en son genre",
+      "url": "https://www.liberation.fr/sports/football/ligue-des-champions-le-paris-sg-en-finale-apres-un-match-munich-en-son-genre-20260506_UZ3JYOQQDBAJZPA5RDGXDOLJ6U/",
+      "summary": "Après le score fleuve à l’aller (5-4), Paris, qui a décroché un nul à l’Allianz Arena (1-1), a remporté sa demi-finale face au Bayern, au terme d’un match maîtrisé de bout en bout. Le Paris-SG, tenant du titre, s’offre une deuxième finale consécutive.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-05-06T21:15:53+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "ca25cd0c8c2e"
+    },
+    {
+      "title": "L'armée israélienne annonce ouvrir une enquête après qu'un soldat a été photographié mettant une cigarette dans la bouche d'une statue de la Vierge Marie au Liban",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-armee-israelienne-annonce-ouvrir-une-enquete-apres-qu-un-soldat-a-ete-photographie-en-train-de-mettre-une-cigarette-dans-la-bouche-d-une-statue-de-la-vierge-marie-au-liban_7987829.html#xtor=RSS-3-[lestitres]",
+      "summary": "Si le cliché a été diffusé en ligne mercredi, il aurait été pris \"il y a plusieurs semaines\", selon les premiers éléments dont dispose l'armée israélienne.",
+      "image": "https://www.franceinfo.fr/pictures/1waVdwznw2ysdk_IJJpM52U1QF0/0x53:1024x629/432x243/filters:format(jpg)/2026/05/06/69fba80dec14b341863115.jpg",
+      "published_at": "2026-05-06T22:59:24+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "9c7ebb81236b"
+    },
+    {
+      "title": "\"Forcément, il y aura des gens au bord de la route\" : Paul Seixas en route pour son premier au Tour de France",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/paul-seixas-annonce-sa-participation-au-tour-de-france_7987832.html#xtor=RSS-3-[lestitres]",
+      "summary": "Paul Seixas a confirmé qu'il participera bien au Tour de France. Le nouveau petit génie du cyclisme français s'est confié aux journalistes des sports de France Télévisions. Avant d'aller s'entraîner pendant trois semaines en Espagne, il dit son envie de gagner.",
+      "image": "https://www.franceinfo.fr/pictures/ApL7fR8Zh6LbmlJRpuSvIS4iYPU/0x0:1920x1080/432x243/filters:format(jpg)/2026/05/06/69fba62f7bd06688437920.jpg",
+      "published_at": "2026-05-06T22:50:54+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "1a12b7a19ebd"
     },
     {
       "title": "Sébastien Lecornu appelle ses troupes à « l’unité » après les frictions autour du 1er-Mai",
       "url": "https://www.lemonde.fr/politique/article/2026/05/06/sebastien-lecornu-appelle-ses-troupes-a-l-unite-apres-les-frictions-autour-du-1er-mai_6686176_823448.html",
       "summary": "Ministres et députés Renaissance, MoDem, Horizons, LR et Liot étaient conviés à Matignon en fin d’après-midi, une semaine après plusieurs polémiques au Parlement.",
       "image": "https://img.lemde.fr/2026/05/06/415/0/4983/2491/644/322/60/0/ebb6400_ftp-1-bpanecqhuvki-5958649-01-06.jpg",
-      "published_at": "2026-05-06T22:46:17+02:00",
-      "source": "Le Monde Politique",
+      "published_at": "2026-05-06T22:46:15+02:00",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "c4ba594e1fa7"
-    },
-    {
-      "title": "L'armée israélienne annonce ouvrir une enquête après qu'un soldat a été photographié en train de mettre une cigarette dans la bouche d'une statue de la Vierge Marie, au Liban",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-armee-israelienne-annonce-ouvrir-une-enquete-apres-qu-un-soldat-a-ete-photographie-en-train-de-mettre-une-cigarette-dans-la-bouche-d-une-statue-de-la-vierge-marie-au-liban_7987829.html#xtor=RSS-3-[lestitres]",
-      "summary": "Si le cliché a été diffusé en ligne mercredi, il aurait été pris \"il y a plusieurs semaines\", selon les premiers éléments dont dispose l'armée israélienne.",
-      "image": "https://www.franceinfo.fr/pictures/1waVdwznw2ysdk_IJJpM52U1QF0/0x53:1024x629/432x243/filters:format(jpg)/2026/05/06/69fba80dec14b341863115.jpg",
-      "published_at": "2026-05-06T22:45:31+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "9c7ebb81236b"
-    },
-    {
-      "title": "Bayern-PSG : Paris mène toujours mais les Bavarois poussent pour revenir... Suivez la demi-finale retour de Ligue des champions",
-      "url": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/direct-bayern-psg-avec-un-but-d-avance-les-parisiens-se-qualifieront-ils-pour-une-deuxieme-finale-consecutive-en-ligue-des-champions-suivez-le-match-avec-nous_7984622.html#xtor=RSS-3-[lestitres]",
-      "summary": "Lors de la demi-finale aller, les hommes de Luis Enrique se sont imposés de justesse (5-4) face au Bayern Munich, au terme d'un match complètement fou.",
-      "image": "https://www.franceinfo.fr/pictures/UQzAOiaGN6DuD8EM2LO8mlEXmzI/0x25:4689x2662/432x243/filters:format(jpg)/2026/05/06/69fba29e64d80556975282.jpg",
-      "published_at": "2026-05-06T22:44:06+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "dce51b8b9722"
     },
     {
       "title": "Quid du droit face aux tempêtes du siècle ?",
@@ -61,26 +211,6 @@
       "source": "Libération",
       "category": "Société",
       "id": "d13086102ad1"
-    },
-    {
-      "title": "Foyer d'hantavirus sur un navire de croisière : le \"MV Hondius\" est attendu à Tenerife \"dans trois jours\", l'évacuation des passagers ne devrait pas débuter avant lundi",
-      "url": "https://www.franceinfo.fr/sante/direct-hantavirus-sur-un-navire-de-croisiere-une-evacuation-medicale-par-le-cap-vert-est-en-cours-pour-trois-cas-suspects-annonce-l-oms_7986932.html#xtor=RSS-3-[lestitres]",
-      "summary": "Immobilisé depuis dimanche, le bateau a quitté sa zone de mouillage au large du Cap-Vert, mercredi soir.",
-      "image": "https://www.franceinfo.fr/pictures/8nLQ6PVEz6iPMTBEpYaVrLQNtqw/0x53:1024x629/432x243/filters:format(jpg)/2026/05/06/69fb9f9ae5aa3856866876.jpg",
-      "published_at": "2026-05-06T22:16:19+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "fe074a9f9eb7"
-    },
-    {
-      "title": "Le \"MV Hondius\", suspecté d'être un foyer d'hantavirus, a quitté le Cap-Vert, arrivée prévue à Tenerife \"dans trois jours\"",
-      "url": "https://www.franceinfo.fr/sante/le-mv-hondius-suspecte-d-etre-un-foyer-d-hantavirus-a-quitte-le-cap-vert-arrivee-prevue-a-tenerife-dans-trois-jours_7987703.html#xtor=RSS-3-[lestitres]",
-      "summary": "Immobilisé depuis dimanche, le bateau a quitté sa zone de mouillage au large du Cap-Vert, mercredi soir.",
-      "image": "https://www.franceinfo.fr/pictures/zXxWBR83-iwZR_o-ULcUmNrX7x8/0x86:3402x2000/432x243/filters:format(jpg)/2026/05/06/69fb0bc3c64e2252879881.jpg",
-      "published_at": "2026-05-06T22:05:33+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "1cb96f62e5d5"
     },
     {
       "title": "Secteur aérien : la compagnie AirAsia commande 150 Airbus A220-300, un «accord historique»",
@@ -108,19 +238,9 @@
       "summary": "« Nous avons eu de très bonnes discussions dans les dernières vingt-quatre heures, et il est très possible que nous passions un accord », a dit le président américain pendant un échange avec des journalistes dans le bureau Ovale.",
       "image": "https://img.lemde.fr/2026/05/06/115/0/2415/1207/644/322/60/0/ea2c00a_ftp-1-xpskwacnb43l-7c0a388402744fa8bc4da450fb3ee0d3-0-28ff2024829e42abbb6fe754ff9867ec.jpg",
       "published_at": "2026-05-06T21:50:58+02:00",
-      "source": "Le Monde",
+      "source": "Le Monde Inter",
       "category": "Politique",
       "id": "b5f905b7f525"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : Donald Trump juge un accord \"très possible\" avec l'Iran, après de \"très bonnes discussions\" dans les dernières 24 heures",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-donald-trump-suspend-son-operation-d-escorte-de-navires-dans-le-detroit-ormuz-dans-l-espoir-d-un-accord-avec-l-iran_7986434.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le président américain a également de nouveau affirmé que l'Iran avait accepté sa principale exigence, à savoir ne pas posséder d'arme nucléaire.",
-      "image": "https://www.franceinfo.fr/pictures/yQNUeqZn4nNT-DBoc1l4Nug4qjc/0x0:1024x576/432x243/filters:format(jpg)/2026/05/06/69fb2df9c62b5288451773.jpg",
-      "published_at": "2026-05-06T21:39:05+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "d905e79ee38e"
     },
     {
       "title": "Bally Bagayoko refuse d’accrocher le portrait de Macron dans son bureau malgré la demande du préfet",
@@ -153,16 +273,6 @@
       "id": "59aff0d75728"
     },
     {
-      "title": "André Cerdini, président du procès historique de Klaus Barbie, est mort à 96 ans",
-      "url": "https://www.lemonde.fr/disparitions/article/2026/05/06/andre-cerdini-president-du-proces-historique-de-klaus-barbie-est-mort-a-96-ans_6686175_3382.html",
-      "summary": "En juillet 1987, la justice se prononçait pour la première fois sur un crime contre l’humanité, condamnant Klaus Barbie, chef de la Gestapo lyonnaise durant la seconde guerre mondiale, à la réclusion criminelle à perpétuité.",
-      "image": "https://img.lemde.fr/2026/05/06/136/0/3600/1800/644/322/60/0/5b9f211_upload-1-iaamyynesjdv-000-arp1842510.jpg",
-      "published_at": "2026-05-06T21:14:18+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "fb792782fe74"
-    },
-    {
       "title": "Banquet du Canon français à Caen : le maire dénonce des \"comportements totalement inacceptables\"",
       "url": "https://www.franceinfo.fr/societe/banquet-du-canon-francais-a-caen-le-maire-denonce-des-comportements-totalement-inacceptables_7987760.html#xtor=RSS-3-[lestitres]",
       "summary": "\"J'attends évidemment les conclusions de l'enquête avant de réagir plus fortement\", précise Aristide Olivier, mercredi au micro d'ICI Normandie, rappelant qu'aucune plainte n'a été déposée à ce stade.",
@@ -191,116 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "ab5f09721f59"
-    },
-    {
-      "title": "Appel à la grève unitaire à la SNCF le 10 juin : « On en est à treize cas de suicide depuis quelques mois »",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/06/appel-a-la-greve-unitaire-a-la-sncf-le-10-juin-les-federations-cheminotes-declarent-l-etat-d-urgence-face-a-la-multiplication-des-drames_6686173_3234.html",
-      "summary": "L’appel à la grève unitaire souligne que les quatre syndicats « refusent » d’accompagner les transformations en cours et demandent leur « arrêt immédiat » ainsi que la réouverture de négociations salariales pour faire face à la facture énergétique et à l’inflation.",
-      "image": "https://img.lemde.fr/2026/05/06/266/0/6000/3000/644/322/60/0/61abdcb_ftp-1-wchkbww6zjmk-5961053-01-06.jpg",
-      "published_at": "2026-05-06T20:54:52+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "1acb8d0ff121"
-    },
-    {
-      "title": "«Vishing», «spoofing»… Les nouvelles arnaques aux appels téléphoniques grâce à l’IA",
-      "url": "https://www.liberation.fr/economie/economie-numerique/vishing-spoofing-les-nouvelles-arnaques-aux-appels-telephoniques-et-usurpations-didentite-20260506_PGDEPV7ONBFELAQK73SSHNRXYA/",
-      "summary": "Avec l’essor de l’intelligence artificielle, les escroqueries qui consistent à appeler les victimes sans parler afin de les laisser répondre et générer leurs voix grâce à des outils IA, dans l’optique d’arnaques ultérieures, comme l’usurpation d’identité.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-05-06T18:50:14+00:00",
-      "source": "Libération",
-      "category": "Tech",
-      "id": "dd7548432677"
-    },
-    {
-      "title": "Des médecins radiés pour motifs graves partent à l'étranger pour continuer à exercer, malgré des alertes européennes, révèle le \"20 Heures\" de France 2",
-      "url": "https://www.franceinfo.fr/sante/enquete-des-medecins-radies-pour-motifs-graves-partent-a-l-etranger-pour-continuer-a-exercer-malgre-des-alertes-europeennes-revele-le-20-heures-de-france-2_7987481.html#xtor=RSS-3-[lestitres]",
-      "summary": "Dans le cadre du projet #BadPractice, qui met en lumière des défaillances dans le domaine médical, \"L'Œil du 20 Heures\", en collaboration avec le consortium de journalistes OCCRP, \"Le Monde\" et le journal belge \"De Tijd\", révèle qu'un médecin français condamné pour agressions sexuelles et radié pour les mêmes raisons est parti s'installer en Belgique.",
-      "image": "https://www.franceinfo.fr/pictures/XU1K89ilM9y4KwMQPlYgsvJHuvc/5x0:1618x907/432x243/filters:format(jpg)/2026/05/06/69fb7e36a912b274118866.png",
-      "published_at": "2026-05-06T20:32:54+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "d3302e27561a"
-    },
-    {
-      "title": "Le chef de l'OMS \"ne pense pas\" que la situation liée au foyer d'hantavirus sur le \"MV Hondius\" soit similaire au début de la pandémie de Covid-19",
-      "url": "https://www.franceinfo.fr/sante/le-chef-de-l-oms-ne-pense-pas-que-la-situation-liee-au-foyer-d-hantavirus-sur-le-mv-hondius-soit-similaire-au-debut-de-la-pandemie-de-covid-19_7987655.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le bateau de croisière est bloqué depuis dimanche près du port de Praia, au Cap-Vert, en raison de fortes suspicions d'un foyer d'hantavirus, une grave infection qui peut provoquer un syndrome respiratoire aigu.",
-      "image": "https://www.franceinfo.fr/pictures/oFAvDQ-CZLYNI8Uah6YlDQX4sWI/0x53:1024x629/432x243/filters:format(jpg)/2026/05/06/69fb74b40c9ff066695570.jpg",
-      "published_at": "2026-05-06T20:31:04+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "2ca612001399"
-    },
-    {
-      "title": "Carburants : le plafonnement des prix de TotalEnergies agace les autres stations-service",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/06/carburants-le-plafonnement-des-prix-de-totalenergies-agace-les-autres-stations-service_6686172_3234.html",
-      "summary": "Le gouvernement estime que l’évolution des marges des distributeurs ne révèle pas d’abus, et appelle TotalEnergies à prolonger sa mesure sur les prix. Certains distributeurs dénoncent une concurrence déloyale.",
-      "image": "https://img.lemde.fr/2026/05/06/485/0/8162/4081/644/322/60/0/a7567fa_upload-1-pztfwi9umfab-000-a6gm8jj.jpg",
-      "published_at": "2026-05-06T20:22:48+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "aea41f124da8"
-    },
-    {
-      "title": "Fusillade à Washington : la guerre en Iran aurait poussé le tireur à passer à l’acte, selon un rapport des services américains",
-      "url": "https://www.liberation.fr/international/amerique/fusillade-a-washington-la-guerre-en-iran-aurait-pousse-le-tireur-a-passer-a-lacte-selon-un-rapport-des-services-americains-20260506_Z7TPAATNZNB3FMOATOBGPDAYKE/",
-      "summary": "Ces documents de la Sécurité intérieure, consultés par Reuters, font état de plusieurs publications du tireur Cole Allen en désaccord avec la politique de Donald Trump, notamment ses initiatives militaires au Moyen-Orient.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-05-06T18:17:27+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "fc4f8fef37fa"
-    },
-    {
-      "title": "Caterina Zanfi, la vie comme sujet",
-      "url": "https://www.liberation.fr/culture/livres/caterina-zanfi-la-vie-comme-sujet-20260506_VI5D5CC6IRCUHN4UOAX77QJNZ4/",
-      "summary": "La chercheuse montre comment la philosophie de la vie, courant né entre la fin du XIXe siècle et le début du XXe, éclaire aussi notre époque.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-05-06T18:15:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "b71558c74e31"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : Moscou appelle les ambassades étrangères à Kiev à évacuer leur personnel en raison d’éventuels bombardements de représailles le 9 mai",
-      "url": "https://www.lemonde.fr/international/live/2026/05/06/en-direct-guerre-en-ukraine-les-dernieres-informations_6684995_3210.html",
-      "summary": "Cet avertissement intervient quelques heures après que la Russie a annoncé mercredi la tenue d’essais de missiles capables de transporter des charges nucléaires sur le polygone de Koura, dans la péninsule du Kamtchatka en Extrême-Orient.",
-      "image": "https://img.lemde.fr/2026/05/06/399/0/5414/2707/644/322/60/0/993e7e6_ftp-1-izs8zw3gdfc3-2026-05-06t062238z-74369764-rc2g3la0plzg-rtrmadp-3-ukraine-crisis-attack-kharkiv.JPG",
-      "published_at": "2026-05-06T20:14:11+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "67fa3763ecbb"
-    },
-    {
-      "title": "Le lait contaminé mis hors de cause dans la mort d’un bébé à Angers en décembre",
-      "url": "https://www.lemonde.fr/sante/article/2026/05/06/le-lait-contamine-hors-de-cause-dans-la-mort-d-un-bebe-a-angers-en-decembre_6686171_1651302.html",
-      "summary": "Une enquête avait été ouverte en décembre pour rechercher les causes du décès d’une petite fille âgée de 27 jours, morte le 23 décembre 2025 au domicile familial.",
-      "image": "https://img.lemde.fr/2026/05/06/1000/0/6000/3000/644/322/60/0/a8c6e07_upload-1-voysnwjdcabm-000-94fz9we.jpg",
-      "published_at": "2026-05-06T20:13:33+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "75f124859e21"
-    },
-    {
-      "title": "Dans la bande de Gaza, six personnes ont été tuées dans des bombardements israéliens",
-      "url": "https://www.lemonde.fr/international/article/2026/05/06/dans-la-bande-de-gaza-cinq-personnes-ont-ete-tuees-dans-des-bombardements-israeliens_6686170_3210.html",
-      "summary": "Au moins 837 Palestiniens ont été tués depuis l’entrée en vigueur d’une fragile trêve en octobre 2025, selon le ministère de la santé gazaouie.",
-      "image": "https://img.lemde.fr/2026/05/06/1254/0/8640/4320/644/322/60/0/bbc3720_ftp-1-kiw0txvxfqh4-d5489ffd35b343e9958bacbab4368d59-0-1dd7728c1ec3490fa192326e4edf4d4f.jpg",
-      "published_at": "2026-05-06T20:09:53+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "4516f3bbaa2e"
-    },
-    {
-      "title": "Une collégienne de 14 ans tuée à l'arme blanche dans l'Aisne, un homme de 23 ans interpellé",
-      "url": "https://www.franceinfo.fr/faits-divers/une-collegienne-de-14-ans-tuee-a-l-arme-blanche-dans-l-aisne_7987511.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le drame est survenu à Fère-en-Tardenois. D'importants moyens ont été déployés pour retrouver l'auteur en fuite. Une enquête pour assassinat a été ouverte.",
-      "image": "https://www.franceinfo.fr/pictures/gpoijaybe-oraCXJOvCL3I9viTQ/6x0:1073x600/432x243/filters:format(jpg)/2026/05/06/69fb82aac038a249070416.jpg",
-      "published_at": "2026-05-06T20:04:30+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "1ba7fedd78a6"
     }
   ]
 }
