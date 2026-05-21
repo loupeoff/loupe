@@ -1,14 +1,284 @@
 {
-  "generated_at": "2026-05-21T19:29:34.415494+00:00",
+  "generated_at": "2026-05-21T23:38:02.009282+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Donald Trump annonce l’envoi de 5 000 militaires américains en Pologne",
+      "url": "https://www.lemonde.fr/international/live/2026/05/22/en-direct-guerre-en-ukraine-donald-trump-annonce-l-envoi-de-5-000-militaires-americains-en-pologne_6690053_3210.html",
+      "summary": "Le président américain a parlé de troupes « supplémentaires » sans que l’on sache immédiatement s’il s’agit bien de nouveaux effectifs ou s’il rétablit un déploiement de 4 000 militaires américains, qui avait été remis en question récemment par Washington.",
+      "image": "https://img.lemde.fr/2026/05/21/0/0/4078/2039/644/322/60/0/0bd806d_ftp-1-jbmwweyie1fp-b250f1f4b2e8443da3074015ad6d2b9e-0-349488956ff64882ab7ad27983e31658.jpg",
+      "published_at": "2026-05-22T01:20:01+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "a9ac8854ddd4"
+    },
+    {
+      "title": "L’arche monumentale voulue par Donald Trump validée par la commission des beaux-arts de Washington",
+      "url": "https://www.lemonde.fr/international/article/2026/05/22/l-arche-monumentale-voulue-par-donald-trump-validee-par-la-commission-des-beaux-arts-de-washington_6691946_3210.html",
+      "summary": "L’instance, dont le conseil d’administration a été entièrement remplacé par la Maison Blanche en 2025, a voté à l’unanimité pour la construction du monument de 76 mètres de haut, qui sera surmonté de grandes statues dorées.",
+      "image": "https://img.lemde.fr/2026/04/10/903/0/5420/2710/644/322/60/0/6cbcf8e_ftp-1-1dgnsnladqd2-8f7e0b8d980a4d1abbf96dc412db99b9-0-6e4ed135548d41719f5f0e1b38088ade.jpg",
+      "published_at": "2026-05-22T01:14:24+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "2cf50979acd8"
+    },
+    {
+      "title": "Stephen Colbert, cible de Donald Trump, tire sa révérence sur CBS",
+      "url": "https://www.lemonde.fr/international/article/2026/05/22/stephen-colbert-cible-de-trump-tire-sa-reverence-sur-cbs_6691945_3210.html",
+      "summary": "Après 33 ans d’antenne, l’émission « The Late Show » s’achève jeudi soir 21 mai. Si la chaîne CBS avait justifié cette fin comme purement financière, de nombreuses voix y ont vu la main du président américain, en guerre ouverte contre les médias qu’il juge lui être hostiles.",
+      "image": "https://img.lemde.fr/2026/05/21/124/0/2125/1062/644/322/60/0/917b48d_ftp-1-xzhcml3ddmpj-5096586-01-06.jpg",
+      "published_at": "2026-05-22T01:01:29+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "fdb392eabbba"
+    },
+    {
+      "title": "Une commission de trois juges se prononce contre l’expulsion du militant palestinien Ramy Shaath",
+      "url": "https://www.lemonde.fr/societe/article/2026/05/22/une-commission-de-trois-juges-se-prononce-contre-l-expulsion-du-militant-palestinien-ramy-shaath_6691944_3224.html",
+      "summary": "Dans leur avis consultatif, les magistrats estiment que les propos du cofondateur du collectif Urgence Palestine « ne constituent pas un trouble manifeste à l’ordre public », un revers pour le ministère de l’intérieur.",
+      "image": "https://img.lemde.fr/2026/05/21/492/0/7235/3617/644/322/60/0/24cdcbf_ftp-1-nfsyybitx9vl-fa351c1291c6447888f184b4826a4ef6-0-a51bdeb547dc4e4eb25acb149e715340.jpg",
+      "published_at": "2026-05-22T00:44:59+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "80b6b36a3fe0"
+    },
+    {
+      "title": "Donald Trump sabre des restrictions sur de puissants gaz à effet de serre",
+      "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-sabre-des-restrictions-sur-de-puissants-gaz-a-effet-de-serre_8019743.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette décision permet notamment à divers secteurs d'activité de garder des équipements utilisant des gaz à effet de serre fluorés HFC, qui devaient être progressivement mis hors service.",
+      "image": "https://www.franceinfo.fr/pictures/yaZ0spihO8KyZwbqkSqc2wdWmPk/0x0:1024x576/432x243/filters:format(jpg)/2026/05/22/6a0f82a237b60833058408.jpg",
+      "published_at": "2026-05-22T00:11:19+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "9fdd412e90db"
+    },
+    {
+      "title": "Crash du vol Rio-Paris : les raisons de la condamnation en appel d’Airbus et d’Air France",
+      "url": "https://www.lemonde.fr/economie/article/2026/05/22/crash-du-vol-rio-paris-les-raisons-de-la-condamnation-en-appel-d-airbus-et-d-air-france_6691943_3234.html",
+      "summary": "Les deux géants de l’aviation sont condamnés pour homicide volontaire dans l’accident du vol AF447, qui a tué 228 personnes le 1er juin 2009. Ils avaient été relaxés en première instance. L’un et l’autre contestent le verdict et se pourvoient en cassation.",
+      "image": "https://img.lemde.fr/2023/04/17/12/0/3504/1752/644/322/60/0/d2ad47e_de679cc1cc3545e4b1ac4605b22463f1-0-0b1deaf6a0654117af9e21189a4db06c.jpg",
+      "published_at": "2026-05-22T00:10:29+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "972f97b093d2"
+    },
+    {
+      "title": "Starship de 3e génération : suivez en direct le 12e vol de la fusée géante de SpaceX",
+      "url": "https://www.numerama.com/sciences/2255065-starship-de-3e-generation-suivez-en-direct-le-12e-vol-de-la-fusee-geante-de-spacex.html",
+      "summary": "Nouvelle architecture, tests thermiques extrêmes et manœuvres inédites : le Starship de SpaceX fait sa mue pour son 12e vol d'essai. Ne manquez pas le décollage de la fusée géante, à suivre en direct, dans la nuit du 21 au 22 mai 2026.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-05-21T22:07:45+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "3815744c46f5"
+    },
+    {
+      "title": "Incendie criminel à Décines-Charpieu, près de Lyon : quatre personnes placées en garde à vue",
+      "url": "https://www.lemonde.fr/societe/article/2026/05/22/incendie-criminel-a-decines-charpieu-pres-de-lyon-quatre-personnes-placees-en-garde-a-vue_6691942_3224.html",
+      "summary": "Deux jeunes majeurs et deux mineurs sont soupçonnés à des degrés divers dans l’enquête sur l’incendie d’un immeuble qui avait fait trois morts le 11 mai.",
+      "image": "https://img.lemde.fr/2026/05/11/1333/0/8000/4000/644/322/60/0/aa811f6_ftp-1-giqomddh7qra-5999427-01-06.jpg",
+      "published_at": "2026-05-22T00:03:29+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "dae9acd418b9"
+    },
+    {
+      "title": "Cannes 2026 : avec «Coward», Lukas Dhont joue à la gay guerre",
+      "url": "https://www.liberation.fr/culture/cinema/cannes-2026-avec-coward-lukas-dhont-joue-a-la-gay-guerre-20260522_COMX77BOXNBRZEN2NZPMS4XE5Y/",
+      "summary": "Chronique d’une idylle improbable derrière les lignes de front en 1916, le film du cinéaste belge, d’une beauté très appliquée, n’a pas grand-chose à dire sur l’amour ou sur la guerre.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-05-21T22:01:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "89ad19998b09"
+    },
+    {
+      "title": "Violences dans le périscolaire à Paris : trois personnes présentées à un juge après l’opération policière dans le 7ᵉ arrondissement",
+      "url": "https://www.lemonde.fr/societe/article/2026/05/21/violences-dans-le-periscolaire-a-paris-trois-personnes-presentees-a-un-juge-apres-l-operation-policiere-dans-le-7-arrondissement_6691941_3224.html",
+      "summary": "« Deux hommes et une femme, animateurs, âgés entre 30 et 51 ans (…) se voient reprocher des gestes à caractère sexuel », a précisé le parquet, qui annonce l’ouverture d’une information judiciaire.",
+      "image": "https://img.lemde.fr/2026/05/20/762/0/8640/4320/644/322/60/0/7c17184_ftp-1-9ykbkov4amrc-5090619-01-06.jpg",
+      "published_at": "2026-05-21T23:52:19+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "29d98f5ee9b2"
+    },
+    {
+      "title": "Huguette Bouchardeau, ex-candidate à la présidentielle et ancienne ministre de François Mitterrand, est morte à 90 ans",
+      "url": "https://www.franceinfo.fr/politique/huguette-bouchardeau-ex-candidate-a-la-presidentielle-et-ancienne-ministre-de-francois-mitterrand-est-morte-a-90-ans_8019227.html#xtor=RSS-3-[lestitres]",
+      "summary": "Née le 1er juin 1935 à Saint-Etienne (Loire) dans une famille modeste, elle était devenue, en 1979 la première femme à diriger une organisation politique en France, le Parti socialiste unifié (PSU).",
+      "image": "https://www.franceinfo.fr/pictures/Uh8RttsdM8sqTdrYmfjdmPsA5g0/0x0:1024x576/432x243/filters:format(jpg)/2026/05/21/6a0f7bfb88ffa339257681.jpg",
+      "published_at": "2026-05-21T23:43:19+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "cb9177022b9f"
+    },
+    {
+      "title": "\"Je suis comme un gamin\", confie l'artiste JR après avoir emballé le Pont-Neuf avec sa monumentale \"Caverne\" de toile",
+      "url": "https://www.franceinfo.fr/culture/arts-expos/art-contemporain/je-suis-comme-un-gamin-confie-l-artiste-jr-apres-avoir-emballe-le-pont-neuf-avec-sa-monumentale-caverne-de-toile_8019215.html#xtor=RSS-3-[lestitres]",
+      "summary": "Vous aviez aimé le Pont-Neuf empaqueté par Christo et Jeanne-Claude en 1985 ? Vous allez adorer le même transformé en caverne monumentale. C'est l'artiste JR qui signe cette œuvre spectaculaire de 120 mètres de long et près de 18 mètres de haut, sur le plus vieux pont de Paris, rendu méconnaissable ce jeudi 21 mai.",
+      "image": "https://www.franceinfo.fr/pictures/MHdmsW_vvBIuHzxkgSJntSq6Kfo/273x0:1340x600/432x243/filters:format(jpg)/2026/05/21/6a0f77f9e4d53620157124.jpg",
+      "published_at": "2026-05-21T23:24:13+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "5f8660cb23aa"
+    },
+    {
+      "title": "Double mixte, musique et enfin une victoire sur Novak Djokovic : Gaël Monfils enflamme Roland-Garros avant sa dernière danse",
+      "url": "https://www.lemonde.fr/sport/article/2026/05/21/double-mixte-musique-et-enfin-une-victoire-sur-novak-djokovic-gael-monfils-enflamme-roland-garros-avant-sa-derniere-danse_6691940_3242.html",
+      "summary": "Avant l’ultime tournoi de sa carrière, le Français de 39 ans avait réuni d’autres joueurs et 15 000 spectateurs sur le court Philippe-Chatrier, jeudi, à l’occasion d’une soirée d’exhibition intitulée « Gaël and Friends ». L’occasion de dire au revoir à sa manière.",
+      "image": "https://img.lemde.fr/2026/04/07/196/0/3173/1586/644/322/60/0/fd5be87_ftp-1-xdky7dpdlqor-2026-04-07t144403z-507092229-up1em4714xe5v-rtrmadp-3-tennis-montecarlo.JPG",
+      "published_at": "2026-05-21T23:19:15+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "e86abb45355b"
+    },
+    {
+      "title": "Huguette Bouchardeau, ancienne ministre de l’environnement, est morte à 90 ans",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/05/21/huguette-bouchardeau-ancienne-ministre-de-l-environnement-est-morte-a-90-ans_6691938_3382.html",
+      "summary": "Elle fut membre du gouvernement Fabius entre 1984 et 1986. Après avoir été élue députée puis maire, elle réorienta sa carrière en créant sa maison d’édition. Elle s’est éteinte lundi 18 mai, a annoncé, jeudi 21 mai, le Parti socialiste.",
+      "image": "https://img.lemde.fr/2026/02/09/1670/0/3543/1771/644/322/60/0/baedb46_upload-1-1vy6niid7oss-grk5504326.jpg",
+      "published_at": "2026-05-21T23:12:39+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "3ee21ad52070"
+    },
+    {
+      "title": "Supercalculateurs, ordinateurs quantiques… Dans les coulisses de Bull, fleuron de la haute technologie française",
+      "url": "https://www.franceinfo.fr/internet/supercalculateurs-ordinateurs-quantiques-dans-les-coulisses-de-bull-fleuron-de-la-haute-technologie-francaise_8019197.html#xtor=RSS-3-[lestitres]",
+      "summary": "À l'heure où la guerre fait rage entre les nations sur la révolution de l'IA, une entreprise française est particulièrement stratégique : il s'agit de Bull, qui fabrique des machines ultra-puissantes, des supercalculateurs. En exclusivité, ce fleuron de la haute technologie a accepté de nous ouvrir ses portes.",
+      "image": "https://www.franceinfo.fr/pictures/QNvOl2qu25Btpp1vq2sBA2kvORg/0x18:1290x744/432x243/filters:format(jpg)/2026/05/21/6a0f74a56845b391499335.jpg",
+      "published_at": "2026-05-21T23:10:12+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "a80c804c2026"
+    },
+    {
+      "title": "Violences dans le périscolaire à Paris : trois des 16 personnes placées en garde à vue vont être présentées à un juge d'instruction",
+      "url": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/violences-dans-le-periscolaire-a-paris-trois-des-16-personnes-placees-en-garde-a-vue-vont-etre-presentees-a-un-juge-d-instruction_8019209.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette décision s'inscrit dans le cadre de plusieurs enquêtes concernant les écoles Saint-Dominique, Rapp et La Rochefoucauld dans le 7e arrondissement de la capitale.",
+      "image": "https://www.franceinfo.fr/pictures/nqFk9HfxSQr8P2cHJj6ewejNKRg/0x0:4928x2772/432x243/filters:format(jpg)/2026/05/21/6a0f75263ccdf672302879.jpg",
+      "published_at": "2026-05-21T23:08:33+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "e14867548706"
+    },
+    {
+      "title": "Football : auteur d'un doublé, Cristiano Ronaldo s'offre un premier titre en Arabie saoudite",
+      "url": "https://www.franceinfo.fr/sports/foot/cristiano-ronaldo/football-auteur-d-un-double-cristiano-ronaldo-s-offre-un-premier-titre-en-arabie-saoudite_8019194.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Portugais a remporté le championnat d'Arabie saoudite avec son club d'Al Nassr, où évolue aussi Kingsley Coman, jeudi.",
+      "image": "https://www.franceinfo.fr/pictures/_M9seyqbpKFQ49k_wuhEu-igwUk/0x75:2100x1257/432x243/filters:format(jpg)/2026/05/21/6a0f6f01eaeb8916807186.jpg",
+      "published_at": "2026-05-21T23:06:06+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "78a586e42c28"
+    },
+    {
+      "title": "Emmanuel Macron soutient l'abrogation du Code noir et évoque la question sensible des réparations",
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron-soutient-l-abrogation-du-code-noir-et-evoque-la-question-sensible-des-reparations_8019170.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cet ensemble d'édits royaux, datant du XVIIe et XVIIIe siècles, organisait l'esclavage. Devenus caducs et sans effets juridiques, ils n'ont toutefois jamais été formellement abrogés.",
+      "image": "https://www.franceinfo.fr/pictures/EFRAe_h4YNQi8_4ujhUpJeDC10w/0x203:4590x2785/432x243/filters:format(jpg)/2026/05/21/6a0f6d9926ddb230421512.jpg",
+      "published_at": "2026-05-21T22:43:49+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "8dff0b04b1fa"
+    },
+    {
+      "title": "Grande distribution : des soupçons d'abus sur les marges",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/grande-distribution-des-soupcons-d-abus-sur-les-marges_8019167.html#xtor=RSS-3-[lestitres]",
+      "summary": "Un rapport parlementaire révèle que les grandes enseignes réalisent des marges abusives au détriment des agriculteurs et des consommateurs. Les distributeurs jugent ce rapport à charge et dénoncent un acharnement.",
+      "image": "https://www.franceinfo.fr/pictures/29nlZMy_yPEW4oekaxKYoVeVtsk/118x0:1580x822/432x243/filters:format(jpg)/2026/05/21/6a0f6b6aafcfb455288098.png",
+      "published_at": "2026-05-21T22:43:30+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "74f1b3851f60"
+    },
+    {
+      "title": "Etats-Unis : après un revers au Sénat sur le financement de ICE, Trump voit ses projets malmenés par sa majorité",
+      "url": "https://www.liberation.fr/international/amerique/etats-unis-apres-un-revers-au-senat-sur-le-financement-de-ice-trump-voit-ses-projets-malmenes-par-sa-majorite-20260521_WPCNWEW765HOXA4PEHYMP7DK6Y/",
+      "summary": "Le texte examiné au Sénat américain ce jeudi pour octroyer plus de 70 milliards de dollars à la police de l’immigration ne sera finalement pas soumis au vote. Les élus de la majorité refusent également de financer un fonds d’indemnisation pour les alliés de Trump.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-05-21T20:19:51+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "ccd9483332d8"
+    },
+    {
+      "title": "Des concerts de Jean-Luc Lahaye, mis en examen pour viol et agression sexuelle, dans des villes tenues par le RN suscitent la colère d'un collectif féministe",
+      "url": "https://www.franceinfo.fr/culture/musique/des-concerts-de-jean-luc-lahaye-mis-en-examen-pour-viol-et-agression-sexuelle-dans-des-villes-tenues-par-le-rn-suscitent-la-colere-d-un-collectif-feministe_8019140.html#xtor=RSS-3-[lestitres]",
+      "summary": "Un spectacle de l'ancienne vedette des années 1980 est prévu à Hénin-Beaumont le 29 mai au Théâtre de l'escapade, une salle culturelle reprise en main par la municipalité depuis début 2025. Un autre est annoncé dans la ville voisine de Billy-Montigny pour les festivités du 14-Juillet.",
+      "image": "https://www.franceinfo.fr/pictures/4-wzYvqGgI0HCgRI3i2ICl2stNU/0x240:4608x2832/432x243/filters:format(jpg)/2026/05/21/6a0f64c38fd18387474961.jpg",
+      "published_at": "2026-05-21T22:12:17+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "41ccc0305ef3"
+    },
+    {
+      "title": "Etats-Unis : Donald Trump lève des restrictions sur de puissants gaz à effet de serre",
+      "url": "https://www.lemonde.fr/planete/article/2026/05/21/etats-unis-donald-trump-leve-des-restrictions-sur-de-puissants-gaz-a-effet-de-serre_6691936_3244.html",
+      "summary": "Le président américain, climatosceptique revendiqué, a assuré que sa décision permettrait de faire baisser le coût de l’alimentation pour les Américains.",
+      "image": "https://img.lemde.fr/2026/05/21/0/0/4078/2039/644/322/60/0/0bd806d_ftp-1-jbmwweyie1fp-b250f1f4b2e8443da3074015ad6d2b9e-0-349488956ff64882ab7ad27983e31658.jpg",
+      "published_at": "2026-05-21T22:02:44+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "5aa68167261c"
+    },
+    {
+      "title": "Logements sociaux : inquiétudes autour du projet de loi qui redonne la main aux maires",
+      "url": "https://www.lemonde.fr/societe/article/2026/05/21/logements-sociaux-inquietudes-autour-du-projet-de-loi-qui-redonne-la-main-aux-maires_6691935_3224.html",
+      "summary": "Alors que le Conseil national pour l’habitat vient de rendre un avis favorable au texte gouvernemental, plusieurs acteurs du secteur alertent contre les risques d’une disposition du texte qui donnerait plus de pouvoir aux édiles dans l’attribution des HLM.",
+      "image": "https://img.lemde.fr/2026/05/21/126/0/5780/2890/644/322/60/0/216cf73_upload-1-8npw2st5syp2-000-a6cd8wu.jpg",
+      "published_at": "2026-05-21T21:54:37+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "4de4afbc9263"
+    },
+    {
+      "title": "La SNCF lance le processus d’ouverture du capital de sa filiale de fret ferroviaire",
+      "url": "https://www.lemonde.fr/economie/article/2026/05/21/la-sncf-lance-le-processus-d-ouverture-du-capital-de-sa-filiale-de-fret-ferroviaire_6691934_3234.html",
+      "summary": "Le groupe ferroviaire compte vendre jusqu’à 49 % du capital de Rail Logistics Europe, l’entité qui chapeaute toutes ses activités de fret. Un appel à manifestation d’intérêt est en cours et marque le début d’une opération prévue pour aboutir d’ici à un an.",
+      "image": "https://img.lemde.fr/2026/05/21/0/0/5324/2662/644/322/60/0/87e5eaf_upload-1-u1iuvwatxush-000-44hh7ke.jpg",
+      "published_at": "2026-05-21T21:53:06+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "250ae432ad80"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : l’instauration d’un péage dans le détroit «rendrait tout accord impossible», avertit Marco Rubio",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-pour-trump-la-situation-est-sur-le-fil-20260521_BQARCCNOUZG33PU6X7IN2KTBYA/",
+      "summary": "L’Iran a dit «examiner» une nouvelle proposition des États-Unis dans le cadre de la visite à Téhéran du ministre pakistanais. Le secrétaire d’Etat américain, Marco Rubio, espère que cela «fera avancer les choses».",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-05-21T19:50:32+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "3cb6a96de5a9"
+    },
+    {
+      "title": "Présidentielle 2027 : Edouard Philippe précise les contours de son plan de lutte contre le narcotrafic",
+      "url": "https://www.lemonde.fr/politique/article/2026/05/21/presidentielle-2027-edouard-philippe-precise-les-contours-de-son-plan-de-lutte-contre-le-narcotrafic_6691933_823448.html",
+      "summary": "« Il faut s’inspirer de la lutte contre le terrorisme pour le narcotrafic », a affirmé dans un entretien au « Parisien » l’ancien premier ministre, qui avait évoqué dès décembre la création d’un « état d’urgence narco ».",
+      "image": "https://img.lemde.fr/2026/05/19/0/0/7000/3500/644/322/60/0/c5baa00_ftp-1-4rzpvqowxave-5081616-01-06.jpg",
+      "published_at": "2026-05-21T21:45:51+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "a7626efe4c5e"
+    },
+    {
+      "title": "\"Il ne faut pas emmerder les Français\" : comment Sébastien Lecornu prépare les esprits à un conflit qui va durer au Moyen-Orient",
+      "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/il-ne-faut-pas-emmerder-les-francais-comment-sebastien-lecornu-prepare-les-esprits-a-un-conflit-qui-va-durer-au-moyen-orient_8018948.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Premier ministre s'est projeté dans le moyen terme, jeudi, en évoquant les conséquences de la guerre entre l'Iran et les Etats-Unis sur le budget 2027.",
+      "image": "https://www.franceinfo.fr/pictures/4xRPrbWgBNzJw5COkRo0HaRM41g/0x283:5451x3350/432x243/filters:format(jpg)/2026/05/21/6a0f3d1e4ddba537309633.jpg",
+      "published_at": "2026-05-21T21:29:42+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "60048305d42b"
+    },
     {
       "title": "Emmanuel Macron soutient l’abrogation du Code noir et évoque sa réflexion, « inachevée », sur d’éventuelles réparations",
       "url": "https://www.lemonde.fr/societe/article/2026/05/21/emmanuel-macron-soutient-l-abrogation-du-code-noir-et-evoque-sa-reflexion-inachevee-sur-d-eventuelles-reparations_6691932_3224.html",
       "summary": "A l’occasion du 25ᵉ anniversaire de la loi Taubira, qui reconnaît la traite et l’esclavage comme crime contre l’humanité, le président de la République a soutenu l’abrogation symbolique du texte juridique encadrant l’esclavage aux XVIIᵉ et XVIIIᵉ siècles.",
       "image": "https://img.lemde.fr/2026/05/21/1013/0/8640/4320/644/322/60/0/0d384db_ftp-1-ukooky473qb8-c53c4c6d63b9430d805417617042d49e-0-43dc004ce5c94fda80323740c2c2caf3.jpg",
-      "published_at": "2026-05-21T21:23:13+02:00",
-      "source": "Le Monde Inter",
+      "published_at": "2026-05-21T21:23:09+02:00",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "b218dd584942"
     },
@@ -25,282 +295,12 @@
     {
       "title": "Effondrement d’un immeuble à Fès, au Maroc : au moins neuf morts et plusieurs blessés, une enquête ouverte",
       "url": "https://www.lemonde.fr/afrique/article/2026/05/21/effondrement-d-un-immeuble-a-fes-au-maroc-au-moins-neuf-morts-et-plusieurs-blesses-une-enquete-ouverte_6691931_3212.html",
-      "summary": "Début décembre, l’effondrement de deux immeubles mitoyens, également à Fès, avait fait 22 morts, dans l’accident le plus meurtrier de ce type survenu au Maroc ces dernières années.",
+      "summary": "Au début de décembre, l’effondrement de deux immeubles mitoyens, également à Fès, avait fait 22 morts ; c’était le plus meurtrier des accidents de ce type survenus au Maroc ces dernières années.",
       "image": "https://img.lemde.fr/2026/05/21/551/0/6601/3300/644/322/60/0/3f5738a_ftp-1-ueuduirrlddz-5100586-01-06.jpg",
-      "published_at": "2026-05-21T21:22:28+02:00",
+      "published_at": "2026-05-21T21:22:27+02:00",
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "82bef9bc90c7"
-    },
-    {
-      "title": "«Le genre de politique qu’on s’attend à voir de Trump» : le Royaume-Uni fixe des règles d’accès aux espaces non mixtes pour les personnes trans",
-      "url": "https://www.liberation.fr/international/europe/le-genre-de-politique-quon-sattend-a-voir-de-trump-le-royaume-uni-fixe-des-regles-dacces-aux-espaces-non-mixtes-pour-les-personnes-trans-20260521_IYBSPCOUPZDJVFSVO2PYCZICHI/",
-      "summary": "Ce jugement, qui a suscité la colère et l’inquiétude des personnes transgenres, entérine qu’un espace doit être organisé sur la base du sexe biologique pour être classé comme non mixte. Et non sur le genre.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-05-21T19:21:53+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "58ec92fb0b83"
-    },
-    {
-      "title": "Accusations contre Patrick Bruel : quelles plaintes pour violences sexuelles visent actuellement le chanteur ?",
-      "url": "https://www.franceinfo.fr/culture/musique/patrick-bruel/affaire-de-violences-sexuelles/accusations-contre-patrick-bruel-quelles-plaintes-pour-violences-sexuelles-visent-actuellement-le-chanteur_8016926.html#xtor=RSS-3-[lestitres]",
-      "summary": "Au moins dix plaintes ont été déposées, redéposées ou sont réexaminées par la justice en France et en Belgique. Voici ce que l'on sait des faits dénoncés et des plaignantes.",
-      "image": "https://www.franceinfo.fr/pictures/KmU6sXwpBCzxSN7FyRZkWbenwbE/0x261:5013x3081/432x243/filters:format(jpg)/2026/05/21/6a0eca7e4bfc8056294598.jpg",
-      "published_at": "2026-05-21T21:19:11+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "651e0de493cb"
-    },
-    {
-      "title": "Mémoire de l’esclavage : Emmanuel Macron favorable à l’abrogation du «Code noir» mais prudent sur les réparations",
-      "url": "https://www.liberation.fr/politique/memoire-de-lesclavage-emmanuel-macron-favorable-a-labrogation-du-code-noir-mais-prudent-sur-les-reparations-20260521_GFGKI4YI3RALRHSPJCD76P7IBU/",
-      "summary": "A l’occasion d’une cérémonie organisée, ce jeudi 21 mai, à l’Elysée pour le vingt-cinquième anniversaire de la loi Taubira reconnaissant l’esclavage en tant que crime contre l’humanité, Emmanuel Macron a estimé qu’il «n’y a pas d’identité française ni dans le déni, ni dans l’effacement».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-05-21T19:16:21+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "322436788386"
-    },
-    {
-      "title": "Pour les prisonniers en Israël, une indignation à géographie variable",
-      "url": "https://www.liberation.fr/international/moyen-orient/pour-les-prisonniers-en-israel-une-indignation-a-geographie-variable-20260521_GNAXOSHTRRHTZEGP3TF3MSDJTA/",
-      "summary": "La mise en scène par un ministre suprémaciste israélien de l’humiliation des militants de la flotille de Gaza n’est pas inédite, mais concerne d’habitude des détenus palestiniens. Sans susciter autant de réactions diplomatiques.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-05-21T19:14:45+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "5b08ebfc4b02"
-    },
-    {
-      "title": "Au procès pour «harcèlement moral» de l’avocat Emmanuel Pierrat : «Ne cherchez-vous pas à vous faire passer pour une victime ?»",
-      "url": "https://www.liberation.fr/societe/police-justice/au-proces-pour-harcelement-moral-de-lavocat-emmanuel-pierrat-ne-cherchez-vous-pas-a-vous-faire-passer-pour-une-victime-20260521_4TUUZC75VRDCVEYQT43BEEAZAQ/",
-      "summary": "Au premier jour de son procès devant le tribunal correctionnel pour harcèlement moral envers 16 ex-collaborateurs et salariés, jeudi 21 mai, le célèbre conseil en propriété intellectuelle s’est d’abord montré sincère, avant de céder à une inversion des responsabilités.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-05-21T19:14:03+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "9e07c3996654"
-    },
-    {
-      "title": "Incendie criminel meurtrier près de Lyon sur fond de narcotrafic : deux mineurs et deux majeurs interpellés",
-      "url": "https://www.liberation.fr/societe/police-justice/incendie-criminel-meurtrier-pres-de-lyon-sur-fond-de-narcotrafic-deux-mineurs-et-deux-majeurs-interpelles-20260521_O6DICIGQJFBI7BJGSY644PJTNI/",
-      "summary": "Trois personnes sont mortes le 11 mai dernier lors d’un incendie criminel à Décines-Charpieu. Une enquête avait été ouverte notamment pour «homicide volontaire en bande organisée».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-05-21T19:12:16+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "ae95988f8d6c"
-    },
-    {
-      "title": "Bizarrerie, Lecornu invoque Pompidou… L’homme du tout-bagnole à pétrole",
-      "url": "https://www.liberation.fr/politique/bizarrerie-lecornu-invoque-pompidou-lhomme-du-tout-bagnole-a-petrole-20260521_MTV3U6AV5VGZVI4NEVTR5IGYMI/",
-      "summary": "Dans sa conférence de presse sur les mesures à prendre pour faire face aux conséquences de la guerre en Iran, le chef du gouvernement a fait (encore) référence à l’ancien président. En oubliant que sa politique est (aussi) responsable de la situation actuelle.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-05-21T19:06:30+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "415037e34912"
-    },
-    {
-      "title": "Cannes 2026 : «Mariage au goût d’orange», le beau clan séquence de Christophe Honoré",
-      "url": "https://www.liberation.fr/culture/cinema/cannes-2026-mariage-au-gout-dorange-le-beau-clan-sequence-de-christophe-honore-20260521_GPUC6767XNANBPUC6SLDUPN2MU/",
-      "summary": "Le cinéaste replonge le temps d’une noce dans l’histoire à peine fictionnalisée de sa famille maternelle, incarnée par une troupe virevoltante.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-05-21T19:03:10+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "486a3854c8ad"
-    },
-    {
-      "title": "Soutien aux «gros rouleurs» doublé, plafond de la «prime carburant employeur» augmenté… : les nouvelles mesures du gouvernement face à la flambée des carburants",
-      "url": "https://www.liberation.fr/economie/soutien-aux-gros-rouleurs-double-plafond-de-la-prime-carburant-employeur-augmente-les-nouvelles-mesures-du-gouvernement-face-a-la-flambee-des-carburants-20260521_NPR7C2DYJFF73KGPZEDACEUGW4/",
-      "summary": "Dans sa périlleuse mission visant à poursuivre et élargir les aides sans dégrader les comptes publics, Sébastien Lecornu a annoncé, ce jeudi 21 mai, un nouveau paquet de mesures destinées aux filières les plus exposées à la flambée des carburants.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-05-21T19:02:04+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "a96bbf8a0cf1"
-    },
-    {
-      "title": "Hausse du prix des carburants : \"Baisser les taxes est inefficace et inéquitable\", affirme le ministre de l'Economie, Roland Lescure, au \"20 Heures\" de France 2",
-      "url": "https://www.franceinfo.fr/economie/automobile/essence/direct-hausse-du-prix-des-carburants-un-nouveau-paquet-d-aides-pour-le-mois-de-juin-annonce-par-sebastien-lecornu-a-partir-de-17-heures_8016701.html#xtor=RSS-3-[lestitres]",
-      "summary": "Pour faire face à la crise, Sébastien Lecornu et plusieurs de ses ministres ont tenu une conférence de presse, jeudi, pour annoncer un \"nouveau paquet\" d'aides, dont un plafond de la prime carburant employeur doublé.",
-      "image": "https://www.franceinfo.fr/pictures/vx0OTjhdcn7e6AOtRzT73P2cvVA/149x10:1770x922/432x243/filters:format(jpg)/2026/05/21/6a0f57d2e1f1e665970128.jpg",
-      "published_at": "2026-05-21T21:01:40+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "4c5208d6a113"
-    },
-    {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : l’aide aux carburants pour les gros rouleurs va «passer de 50 à 100 euros», annonce le gouvernement",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-pour-trump-la-situation-est-sur-le-fil-20260521_BQARCCNOUZG33PU6X7IN2KTBYA/",
-      "summary": "En conférence de presse à Matignon ce jeudi après-midi, le Premier ministre Sébastien Lecornu a estimé que le conflit «va durer», et table sur un retour à la normale au plus tôt «entre l’été et l’automne».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-05-21T18:59:54+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "3cb6a96de5a9"
-    },
-    {
-      "title": "Festival de Cannes, jour 10 : Javier Bardem, Ken Loach et Mark Ruffalo, nouveaux futurs boycottés de Canal +",
-      "url": "https://www.liberation.fr/culture/cinema/en-direct-festival-de-cannes-jour-10-apres-le-choc-notre-salut-libe-pret-a-etre-ravi-par-los-javis-20260521_HDZGDMSS3FCA3OXJGCZHNZFRCA/",
-      "summary": "Critiques, reportages, portraits… Retrouvez toute l’actualité du Festival de Cannes 2026 au fil de la journée par nos envoyés spéciaux sur la Croisette.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-05-21T18:58:05+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "6ed6eda6de96"
-    },
-    {
-      "title": "La réforme de l’Ademe jugée « pas satisfaisante en termes de bonne administration » par le Conseil d’Etat",
-      "url": "https://www.lemonde.fr/planete/article/2026/05/21/la-reforme-de-l-ademe-jugee-pas-satisfaisante-en-termes-de-bonne-administration-par-le-conseil-d-etat_6691928_3244.html",
-      "summary": "Le projet de loi visant à réformer l’Agence de la transition écologique a suscité plusieurs réserves juridiques de la part du Conseil d’Etat, dont l’avis a été rendu public jeudi.",
-      "image": "https://img.lemde.fr/2026/05/21/157/0/2320/1160/644/322/60/0/9d07319_upload-1-dzqumnhfpgnq-000-a7vw8xg.jpg",
-      "published_at": "2026-05-21T20:53:38+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "24f3c6f6a13c"
-    },
-    {
-      "title": "\"Illisibles\", \"pas du tout satisfaits\", \"une blague\"… Les nouvelles aides annoncées par le gouvernement face aux prix des carburants ne convainquent pas",
-      "url": "https://www.franceinfo.fr/economie/automobile/essence/illisibles-pas-du-tout-satisfaits-une-blague-les-nouvelles-aides-annoncees-par-le-gouvernement-face-aux-prix-des-carburants-ne-convainquent-pas_8019035.html#xtor=RSS-3-[lestitres]",
-      "summary": "Dans la suite des annonces du Premier ministre jeudi pour faire face à la hausse des prix du carburant, professionnels et politiques ne s'y sont pas retrouvés, et aucun n'a mâché ses mots.",
-      "image": "https://www.franceinfo.fr/pictures/7Ao8mUkV03A1vhj2Rp6ehF2pISo/0x0:4207x2366/432x243/filters:format(jpg)/2026/04/23/69ea7d9b053be923210063.jpg",
-      "published_at": "2026-05-21T20:50:45+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "02d1d2c83b5e"
-    },
-    {
-      "title": "Patrick Bruel accusé de violences sexuelles : chacun doit répondre de ces actes, idole ou pas",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/patrick-bruel-accuse-de-violences-sexuelles-chacun-doit-repondre-de-ces-actes-idole-ou-pas-20260521_JRMG3GNG75CRPGXVSX75KA6A4Q/",
-      "summary": "L’accumulation des témoignages de viols et d’agressions sexuelles contre le chanteur confirme que le tsunami #Metoo a permis une libération de la parole dans tous les milieux. Et que nombre de propos tenus hier sont désormais absolument inaudibles aujourd’hui.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-05-21T18:46:55+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "dab538bebe3d"
-    },
-    {
-      "title": "«Même si j’apprécie l’artiste, il y a l’homme» : après les accusations visant Patrick Bruel, des fans pris de remords bradent leurs places",
-      "url": "https://www.liberation.fr/culture/musique/meme-si-japprecie-lartiste-il-y-a-lhomme-apres-les-accusations-visant-patrick-bruel-des-fans-pris-de-remords-bradent-leurs-places-20260521_3EVZFPYFO5AUBEBXIBGWAVRHEM/",
-      "summary": "Seule une annulation de sa tournée européenne, que le chanteur accusé de violences sexuelles n’envisage pas, aurait pu permettre aux déçus d’obtenir remboursement.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-05-21T18:43:28+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "5419cb9f76fb"
-    },
-    {
-      "title": "En Israël, le ministre Itamar Ben Gvir fait de l’outrance son carburant politique",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-israel-le-ministre-itamar-ben-gvir-fait-de-loutrance-son-carburant-politique-20260521_SOSJ4UCH5FGA5AH6QCXAI5LTOE/",
-      "summary": "L’élu star de l’extrême droite israélienne a transformé ses discours racistes en capital politique. Soutenu par le Premier ministre, Benyamin Nétanyahou, il est devenu l’un des hommes forts de son gouvernement.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-05-21T18:42:52+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "51febfe075a2"
-    },
-    {
-      "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump promet de récupérer l’uranium iranien hautement enrichi et de le détruire",
-      "url": "https://www.lemonde.fr/international/live/2026/05/21/en-direct-guerre-au-moyen-orient-donald-trump-promet-de-recuperer-l-uranium-iranien-hautement-enrichi-et-de-le-detruire_6691823_3210.html",
-      "summary": "« On va l’avoir », a promis, jeudi, le président américain, au sujet de ce stock lors d’une conférence de presse à la Maison Blanche. Selon l’agence Reuters, qui cite deux sources iraniennes de haut rang, le Guide suprême, Mojtaba Khamenei, a émis une directive interdisant le transfert à l’étranger de ce stock d’uranium enrichi à 60 %.",
-      "image": "https://img.lemde.fr/2026/05/21/99/0/5616/2808/644/322/60/0/74ea89a_ftp-1-rwg8mii9ihpb-2ce6682dc6f7403a8380ac0bff1143d4-0-849a5b9dbad94dd3a7571c949733d038.jpg",
-      "published_at": "2026-05-21T20:40:08+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "5bdbd8be1484"
-    },
-    {
-      "title": "VIDEO Prix du carburant : le gouvernement annonce de nouvelles aides",
-      "url": "https://www.lemonde.fr/economie/video/2026/05/21/prix-des-carburants-le-gouvernement-annonce-de-nouvelles-aides_6691927_3234.html",
-      "summary": "Le gouvernement a organisé une conférence de presse pour annoncer de nouvelles mesures en raison de la hausse des prix des carburants, conséquence de la guerre en Iran. Voici ce qu’il faut en retenir.",
-      "image": "https://img.lemde.fr/2026/05/21/375/0/4500/2250/644/322/60/0/755882e_ftp-1-95efs5rdnh5g-5102974-01-06.jpg",
-      "published_at": "2026-05-21T20:36:35+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "27feca16657e"
-    },
-    {
-      "title": "Cannes 2026 : dans «La Bola negra», Federico García Lorca pris homo",
-      "url": "https://www.liberation.fr/culture/cinema/cannes-2026-dans-la-bola-negra-federico-garcia-lorca-pris-homo-20260521_FZESE2B7J5A2DC33QODSFAIFIQ/",
-      "summary": "Coup de force à très gros budget, le film (très attendu) de Javier Ambrossi et Javier Calvo imagine la suite, à travers trois époques, d’un roman inachevé du poète qui sera tué par les fascistes. Et peine à trouver la grâce.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-05-21T18:34:00+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "d5488d968dc8"
-    },
-    {
-      "title": "\"Il ne faut pas emmerder les Français\" : comment Sébastien Lecornu prépare les esprits à un conflit qui va durer au Moyen-Orient",
-      "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/il-ne-faut-pas-emmerder-les-francais-comment-sebastien-lecornu-prepare-les-esprits-a-un-conflit-qui-va-durer-au-moyen-orient_8018948.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Premier ministre s'est projeté dans le moyen terme, jeudi, en évoquant les conséquences de la guerre entre l'Iran et les Etats-Unis sur le budget 2027.",
-      "image": "https://www.franceinfo.fr/pictures/4xRPrbWgBNzJw5COkRo0HaRM41g/0x283:5451x3350/432x243/filters:format(jpg)/2026/05/21/6a0f3d1e4ddba537309633.jpg",
-      "published_at": "2026-05-21T20:27:19+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "60048305d42b"
-    },
-    {
-      "title": "A Cannes, les intermittents étrangers alertent sur la «négation de leurs droits»",
-      "url": "https://www.liberation.fr/culture/cinema/a-cannes-les-intermittents-etrangers-alertent-sur-la-negation-de-leurs-droits-20260521_XJGKN3RKNVEBZM34FCUPXTKY44/",
-      "summary": "Non considérés comme des artistes, les techniciennes et techniciens du cinéma, sans qui les films ne pourraient se faire, se voient refuser le renouvellement de leurs titres de séjour. Sur la Croisette, ils tentent de visibiliser leur cause.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-05-21T18:22:39+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "4c27fafd8819"
-    },
-    {
-      "title": "France Inter : Nicolas Demorand, absent depuis sept mois de la matinale, revient pour une série de podcasts et prépare son retour",
-      "url": "https://www.liberation.fr/economie/medias/france-inter-nicolas-demorand-absent-depuis-sept-mois-de-la-matinale-revient-pour-une-serie-de-podcasts-et-prepare-son-retour-20260521_5WQX5A7OYNC2PPPB77HOSBEFEM/",
-      "summary": "Selon les informations de «Télérama», le retour du journaliste de 55 ans à la matinale de 7 heures n’est cependant pas à l’ordre du jour. Différents scénarios d’émissions pour la rentrée sont encore étudiés.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-05-21T18:20:45+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "35eac3d80640"
-    },
-    {
-      "title": "Carburants : ce qu’il faut retenir des annonces faites lors la conférence de presse de Sébastien Lecornu et de six ministres",
-      "url": "https://www.lemonde.fr/penurie-de-carburant/article/2026/05/21/carburants-ce-qu-il-faut-retenir-de-la-conference-de-presse-de-sebastien-lecornu-et-six-ministres-sur-les-consequences-de-la-crise-au-moyen-orient_6691926_6145475.html",
-      "summary": "Lors d’une conférence au format inhabituel, le gouvernement a annoncé 710 millions d’euros d’aides supplémentaires, dont une hausse du plafond des primes carburant défiscalisées versées par les employeurs, de 300 euros à 600 euros par an.",
-      "image": "https://img.lemde.fr/2026/05/21/465/0/5585/2792/644/322/60/0/a0e2039_ftp-1-qg28duu1z5r5-5103001-01-06.jpg",
-      "published_at": "2026-05-21T20:16:55+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "b29b433d616d"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine se félicite du bon déroulement des exercices nucléaires entamés mardi avec la Biélorussie",
-      "url": "https://www.lemonde.fr/international/live/2026/05/21/en-direct-guerre-en-ukraine-vladimir-poutine-se-felicite-du-bon-deroulement-des-exercices-nucleaires-entamees-mardi-avec-la-bielorussie_6690053_3210.html",
-      "summary": "« Il est crucial de continuer à améliorer la préparation au combat des forces nucléaires stratégiques et tactiques », a déclaré jeudi le président russe, à l’issue de manœuvres, au cours desquelles des vecteurs de l’arme atomique ont été testés.",
-      "image": "https://img.lemde.fr/2026/05/21/55/0/5186/2593/644/322/60/0/457d5da_ftp-1-5zssueehxdec-0d969f8f2e6c4bbcbacabb70f0486ee6-0-517cb60c63ce4bab9ad9d0c055867739.jpg",
-      "published_at": "2026-05-21T20:07:24+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "6220284aed60"
-    },
-    {
-      "title": "Prime carburant, soutien aux \"grands rouleurs\" et aux aides à domicile... Ce qu'il faut retenir des annonces du gouvernement sur la hausse des prix à la pompe",
-      "url": "https://www.franceinfo.fr/economie/automobile/essence/prime-carburant-soutien-aux-grands-rouleurs-et-aux-aides-a-domicile-ce-qu-il-faut-retenir-des-annonces-du-gouvernement-sur-la-hausse-des-prix-des-carburants_8018639.html#xtor=RSS-3-[lestitres]",
-      "summary": "Sébastien Lecornu et plusieurs de ses ministres ont dévoilé jeudi après-midi lors d'une conférence de presse un nouveau \"paquet\" d'aides pour les professions les plus touchées par la crise actuelle.",
-      "image": "https://www.franceinfo.fr/pictures/kt35sMlrF9YKiCKGTmjThjcfIAM/0x53:1024x629/432x243/filters:format(jpg)/2026/05/21/6a0f33e9bf73a980701701.jpg",
-      "published_at": "2026-05-21T20:02:23+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "937f076d9349"
-    },
-    {
-      "title": "En Inde, l’entrée en politique fracassante de Vijay, superstar du cinéma tamoul",
-      "url": "https://www.lemonde.fr/m-le-mag/article/2026/05/21/en-inde-l-entree-en-politique-fracassante-de-vijay-superstar-du-cinema-tamoul_6691925_4500055.html",
-      "summary": "L’acteur Joseph Vijay Chandrasekhar a créé la surprise en remportant les élections régionales dans le Tamil Nadu. L’homme de 51 ans s’est appuyé sur ses millions de fans et a joué la carte de l’alternance.",
-      "image": "https://img.lemde.fr/2026/05/19/184/0/1500/750/644/322/60/0/3d18e46_ftp-1-72ewgmrqbysu-429203-3472302.jpg",
-      "published_at": "2026-05-21T20:00:21+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "bca6babc5302"
     }
   ]
 }
