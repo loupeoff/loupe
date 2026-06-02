@@ -1,9 +1,89 @@
 {
-  "generated_at": "2026-06-02T21:55:18.257460+00:00",
+  "generated_at": "2026-06-02T23:55:28.308844+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Une date de sortie pour Silent Hill Townfall, la nouvelle vision horrifique de la licence culte",
+      "title": "Sept Etats démocrates attaquent en justice le « deal » entre TotalEnergies et Washington pour renoncer à l’éolien en mer",
+      "url": "https://www.lemonde.fr/international/article/2026/06/03/sept-etats-democrates-attaquent-en-justice-le-deal-entre-totalenergies-et-washington-pour-renoncer-a-l-eolien-en-mer_6696485_3210.html",
+      "summary": "La fronde est menée par sept Etats démocrates, dont celui de New York, et concerne un accord financier négocié entre l’administration Trump et le géant de l’énergie français, en échange de l’annulation de projets d’éoliennes en mer.",
+      "image": "https://img.lemde.fr/2026/03/23/407/0/7504/3752/644/322/60/0/870d47e_ftp-1-tr5ngh2ndp8g-5570053-01-06.jpg",
+      "published_at": "2026-06-03T01:47:13+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "38809f278796"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky craint une nouvelle frappe massive russe sur l’Ukraine, après les attaques qui ont fait 23 morts la nuit précédente",
+      "url": "https://www.lemonde.fr/international/live/2026/06/03/en-direct-guerre-en-ukraine-volodymyr-zelensky-craint-une-nouvelle-frappe-massive-russe-sur-l-ukraine-apres-les-attaques-qui-ont-fait-23-morts-la-nuit-precedente_6695365_3210.html",
+      "summary": "« Je vous en prie, soyez attentifs aux sirènes d’alerte aérienne », a insisté le président ukrainien dans une allocution vidéo diffusée mardi soir, se reposant sur des informations des services de renseignement.",
+      "image": "https://img.lemde.fr/2026/06/02/479/0/5183/2591/644/322/60/0/233ca85_ftp-1-014zlbc40npq-2026-06-02t082857z-843755721-rc2glla0nnns-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
+      "published_at": "2026-06-03T00:37:25+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "37e5a73d6832"
+    },
+    {
+      "title": "Meurtre d’un étudiant au Royaume-Uni : des manifestants s’en prennent à la police après la diffusion d’une vidéo suscitant l’indignation",
+      "url": "https://www.lemonde.fr/international/article/2026/06/03/meurtre-d-un-etudiant-au-royaume-uni-des-manifestants-s-en-prennent-a-la-police-apres-la-diffusion-d-une-video-suscitant-l-indignation_6696452_3210.html",
+      "summary": "La diffusion d’images montrant la police menotter un étudiant alors qu’il venait d’être poignardé suscite une vive émotion au Royaume-Uni. Mardi soir, des policiers ont été pris pour cible en marge d’une manifestation, à Southampton, au sud de l’Angleterre.",
+      "image": "https://img.lemde.fr/2026/06/02/100/0/4569/2284/644/322/60/0/7e5c418_ftp-1-e511m6kguoeh-2026-06-02t192716z-1725627454-rc2vllat8mmx-rtrmadp-3-britain-crime-stabbing-protest.JPG",
+      "published_at": "2026-06-03T00:34:28+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "c8bd67b3fb52"
+    },
+    {
+      "title": "God of War revient avec une nouvelle aventure centrée sur Laufey, la femme de Kratos",
+      "url": "https://www.numerama.com/pop-culture/2265799-god-of-war-revient-avec-une-nouvelle-aventure-centree-sur-laufey.html",
+      "summary": "Alors que l’odyssée de Kratos dans la mythologie nordique est arrivée à sa conclusion, le State of Play de ce mardi 2 juin 2026 a dévoilé le spin-off centré sur Laufey, l'épouse de Kratos et mère d'Atreus. Il s'intitule sobrement God of War Laufey.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-06-02T22:16:45+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "4c32f3fe36ac"
+    },
+    {
+      "title": "Connaissance de la famille, visé par une plainte pour viols depuis cet été… Ce que l'on sait de l'homme mis en examen après la disparition de Lyhanna, 11 ans, dans le Gers",
+      "url": "https://www.franceinfo.fr/faits-divers/connaissance-de-la-famille-casier-judiciaire-vierge-ce-que-l-on-sait-de-l-homme-mis-en-examen-apres-la-disparition-de-lyhanna-dans-le-gers_8040647.html#xtor=RSS-3-[lestitres]",
+      "summary": "Pendant sa garde à vue, l'individu de 41 ans a tenu des déclarations \"incohérentes et imprécises\", selon la procureure de la République. La collégienne de 11 ans est portée disparue depuis le 29 mai à Fleurance.",
+      "image": "https://www.franceinfo.fr/pictures/1Xw4m1r-nvx24DlH-ZJb78RmZd0/0x52:1024x628/432x243/filters:format(jpg)/2026/06/02/6a1e6d6c46d15551179478.jpg",
+      "published_at": "2026-06-03T00:16:16+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "88352f857b0c"
+    },
+    {
+      "title": "Donald Trump renonce à créer un fonds chargé d’indemniser ses partisans poursuivis sous l’administration Biden",
+      "url": "https://www.lemonde.fr/international/article/2026/06/03/donald-trump-renonce-a-creer-un-fonds-charge-d-indemniser-ses-partisans-poursuivis-sous-l-administration-biden_6696451_3210.html",
+      "summary": "Une juge fédérale avait provisoirement gelé, vendredi, ce fonds doté de près d’1,8 milliard de dollars. Les démocrates l’avaient qualifié de « caisse noire » destinée notamment aux émeutiers du 6 janvier 2021.",
+      "image": "https://img.lemde.fr/2026/06/02/850/0/8007/4003/644/322/60/0/54bb1d6_ftp-1-1y78ghmgpj36-5205714-01-06.jpg",
+      "published_at": "2026-06-03T00:12:15+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "83541a66f290"
+    },
+    {
+      "title": "Roland-Garros 2026 : Jakub Mensik remporte le choc de la nouvelle génération face à Joao Fonseca et rejoint Alexander Zverev en demies",
+      "url": "https://www.franceinfo.fr/roland-garros/roland-garros-2026-jakub-mensik-remporte-le-choc-de-la-nouvelle-generation-face-a-joao-fonseca-et-rejoint-alexander-zverev-en-demies_8041835.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Tchèque a dominé le Brésilien en trois sets accrochés, mardi soir, sur le court Philippe-Chatrier.",
+      "image": "https://www.franceinfo.fr/pictures/ON4RQwkDC-0rLKcWF0X7ZMhqWdo/0x0:1024x576/432x243/filters:format(jpg)/2026/06/02/6a1f4535d6c87993152725.jpg",
+      "published_at": "2026-06-03T00:10:21+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "e1c4eaaf517e"
+    },
+    {
+      "title": "Au Royaume-Uni, l'indignation monte autour de l'arrestation d'Henry Nowak, un étudiant poignardé à mort",
+      "url": "https://www.franceinfo.fr/monde/royaume-uni/au-royaume-uni-l-indignation-monte-autour-de-l-arrestation-d-henry-nowak-un-etudiant-poignarde-a-mort_8041952.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Premier ministre travailliste Keir Starmer a qualifié les images de l'arrestation du jeune homme d'\"atroces\", disant avoir eu \"la nausée en les regardant\".",
+      "image": "https://www.franceinfo.fr/pictures/TE2VgtHO-ifPLTq0-r7neRh4j1M/0x92:1024x668/432x243/filters:format(jpg)/2026/06/02/6a1f464207b39332014202.jpg",
+      "published_at": "2026-06-03T00:06:34+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "6258081f6368"
+    },
+    {
+      "title": "Trailer énigmatique et date de sortie pour Silent Hill Townfall, le prochain épisode de la saga",
       "url": "https://www.numerama.com/pop-culture/2265883-une-date-de-sortie-pour-silent-hill-townfall-la-nouvelle-vision-horrifique-de-la-licence-culte.html",
       "summary": "Konami a profité du State of Play pour redonner des nouvelles de Silent Hill: Townfall, un projet singulier de la franchise culte du survival horror. Développé par le studio Screen Burn Interactive et supervisé par Konami, ce nouvel opus s’annonce comme une réinterprétation plus minimaliste et expérimentale de l’univers Silent Hill.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
@@ -11,16 +91,6 @@
       "source": "Numerama",
       "category": "Politique",
       "id": "2babc4a04e34"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : les Etats-Unis disent avoir mis hors service un pétrolier qui tentait de violer leur blocus des ports iraniens",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-avant-une-reprise-des-negociations-sur-le-liban-les-affrontements-se-poursuivent-entre-l-armee-israelienne-et-le-hezbollah_8040527.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'équipage du \"Lexie\", un navire battant pavillon du Botswana, a \"ignoré\" les \"multiples\" mises en garde des forces américaines avant que celles-ci ne tirent un missile pour l'empêcher d'avancer, affirme le Commandement militaire américain pour le Moyen-Orient.",
-      "image": "https://www.franceinfo.fr/pictures/jdeM4f1-zRPW-3trMlWxB_x0YR0/0x40:1024x616/432x243/filters:format(jpg)/2026/06/02/6a1f4f0801c17265432433.jpg",
-      "published_at": "2026-06-02T23:46:22+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "afc1517ea44e"
     },
     {
       "title": "Polémique autour de Xenia Fedorova, chroniqueuse pro-Kremlin : des eurodéputés réclament des sanctions européennes",
@@ -35,22 +105,12 @@
     {
       "title": "Rayman Legends: Retold est un remake qui donne déjà sacrément envie",
       "url": "https://www.numerama.com/pop-culture/2265795-rayman-legends-retold-est-un-remake-qui-donne-sacrement-envie.html",
-      "summary": "Rayman fera enfin son grand retour non pas avec un nouvel épisode, mais avec un remake qui promet d'être aussi fun que l'original. Présenté lors du State of Play de ce 2 juin, Rayman Legends: Retold donne déjà sacrément envie.",
+      "summary": "Rayman fera enfin son grand retour non pas avec un nouvel épisode, mais avec un remake qui promet d'être aussi fun que l'original. Présenté lors du State of Play de ce 2 juin 2026, Rayman Legends: Retold donne déjà sacrément envie.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
       "published_at": "2026-06-02T21:19:07+00:00",
       "source": "Numerama",
       "category": "Sport",
       "id": "5236521ad863"
-    },
-    {
-      "title": "Roland-Garros 2026 : Jakub Mensik remporte le choc de la nouvelle génération face à Joao Fonseca et rejoint Alexander Zverev en demies",
-      "url": "https://www.franceinfo.fr/roland-garros/roland-garros-2026-jakub-mensik-remporte-le-choc-de-la-nouvelle-generation-face-a-joao-fonseca-et-rejoint-alexander-zverev-en-demies_8041835.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Tchèque a dominé le Brésilien en trois sets accrochés, mardi soir, sur le court Philippe-Chatrier.",
-      "image": "https://www.franceinfo.fr/pictures/ON4RQwkDC-0rLKcWF0X7ZMhqWdo/0x0:1024x576/432x243/filters:format(jpg)/2026/06/02/6a1f4535d6c87993152725.jpg",
-      "published_at": "2026-06-02T23:18:19+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "e1c4eaaf517e"
     },
     {
       "title": "EXCLUSIF. ncendie des Corbières : trois agents de l'ONF en garde à vue un an après le drame, l'enquête sur le méga feu relancée",
@@ -63,16 +123,6 @@
       "id": "8b00dd5cba81"
     },
     {
-      "title": "Au Royaume-Uni, l'indignation monte autour de l'arrestation d'Henry Nowak, un étudiant poignardé à mort",
-      "url": "https://www.franceinfo.fr/monde/royaume-uni/au-royaume-uni-l-indignation-monte-autour-de-l-arrestation-d-henry-nowak-un-etudiant-poignarde-a-mort_8041952.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Premier ministre travailliste Keir Starmer a qualifié les images de l'arrestation du jeune homme d'\"atroces\", disant avoir eu \"la nausée en les regardant\".",
-      "image": "https://www.franceinfo.fr/pictures/TE2VgtHO-ifPLTq0-r7neRh4j1M/0x92:1024x668/432x243/filters:format(jpg)/2026/06/02/6a1f464207b39332014202.jpg",
-      "published_at": "2026-06-02T23:09:31+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "6258081f6368"
-    },
-    {
       "title": "Casse du Louvre : les quatre suspects seront entendus cette semaine par un juge d'instruction",
       "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/casse-du-louvre-au-c-ur-du-gang-a-l-origine-du-vol-des-bijoux-de-la-couronne_8041823.html#xtor=RSS-3-[lestitres]",
       "summary": "\"Les versions diffèrent entre les différents mis en examen. Donc, a minima, il va falloir s'accorder et comprendre ce qu'il en est\", note Me Sarag Mouger-Poliak, avocate d'un suspect.",
@@ -81,6 +131,16 @@
       "source": "France Info",
       "category": "Sport",
       "id": "6dcda0d10734"
+    },
+    {
+      "title": "\"Tu es complètement cinglé\", \"Tout le monde te déteste\" : Trump s'emporte contre Benyamin Nétanyahou dans un appel téléphonique",
+      "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/tu-es-completement-cingle-tout-le-monde-te-deteste-trump-s-emporte-contre-benyamin-netanyahou-dans-un-appel-telephonique_8041901.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le président américain aurait, lundi 1er juin, vivement reproché au Premier ministre israélien l'intensification de l'opération au Liban. \"Tu es complètement cinglé\", lui aurait même lancé Donald Trump lors d'un appel téléphonique relayé par plusieurs médias américains.",
+      "image": "https://www.franceinfo.fr/pictures/zL5kNcPVeB4SYyexlFJ8QdW_t2c/0x159:1616x1068/432x243/filters:format(jpg)/2026/06/02/6a1f335ae7429953395084.png",
+      "published_at": "2026-06-02T22:53:31+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "1d0dc9b2b142"
     },
     {
       "title": "De la canicule à la grêle, le grand écart des températures",
@@ -123,9 +183,9 @@
       "id": "253d225bfb22"
     },
     {
-      "title": "EN DIRECT – Wolverine, God of War, Tomb Raider : suivez la présentation des futurs jeux PS5",
+      "title": "Wolverine, God of War, Tomb Raider… le résumé de toutes les annonces PS5",
       "url": "https://www.numerama.com/pop-culture/2264147-state-of-play-2026-comment-suivre-la-presentation-des-futurs-jeux-ps5.html",
-      "summary": "Sony donne le coup d'envoi des conférences de l'été 2026 avec une nouvelle édition du State of Play. Le programme s'annonce particulièrement copieux, puisque la présentation des futurs jeux PS5 durera plus d'une heure.",
+      "summary": "Sony a donné le coup d'envoi des conférences de l'été 2026 avec une nouvelle édition du State of Play. Le programme s'est avéré particulièrement copieux, avec plus d'une heure d'annonces et un one more thing incroyable.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
       "published_at": "2026-06-02T20:46:40+00:00",
       "source": "Numerama",
@@ -138,7 +198,7 @@
       "summary": "Jared Kushner prévoit de transformer l’île de Sazan – qui abritait autrefois une base militaire communiste secrète – en une destination touristique de luxe, un projet estimé à 1,4 milliard d’euros.",
       "image": "https://img.lemde.fr/2026/06/02/1120/0/6720/3360/644/322/60/0/8b67407_ftp-1-cohz7ekptsad-5207801-01-06.jpg",
       "published_at": "2026-06-02T22:45:28+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "International",
       "id": "ac6c3d8c1a8f"
     },
@@ -241,66 +301,6 @@
       "source": "Le Monde",
       "category": "Sport",
       "id": "2ff2f78162d6"
-    },
-    {
-      "title": "Disparition de Lyhanna : Jérôme B. était visé par une plainte pour viols sur mineure depuis l’été 2025",
-      "url": "https://www.liberation.fr/societe/police-justice/disparition-de-lyhanna-jerome-b-etait-vise-par-une-plainte-pour-viols-sur-mineure-depuis-lete-2025-20260602_4LWNZO7ECRCBFKF2TJXT3LYDHA/",
-      "summary": "Une mère de famille a déposé plainte en août dernier, dénonçant des faits de viols sur sa fille alors âgée de 10 ans, et attribués au principal suspect dans l’enlèvement de Lyhanna. Selon l’avocate du suspect, il n’a pas été entendu par la justice à ce stade dans ce dossier.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-06-02T19:25:09+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "d478e77bd241"
-    },
-    {
-      "title": "Le projet de loi d'urgence agricole adopté en première lecture à l'Assemblée",
-      "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/le-projet-de-loi-d-urgence-agricole-adopte-en-premiere-lecture-a-l-assemblee_8041736.html#xtor=RSS-3-[lestitres]",
-      "summary": "Troisième syndicat, la Confédération paysanne a regretté que l'Assemblée choisisse \"l'agro-industrie au détriment de la majorité\" des paysans.",
-      "image": "https://www.franceinfo.fr/pictures/FyjxRVmxyYCJeN_QZGRp6r5XH0g/0x106:1024x682/432x243/filters:format(jpg)/2026/06/02/6a1f2ba132d91339360491.jpg",
-      "published_at": "2026-06-02T21:18:41+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "a3222bea05dc"
-    },
-    {
-      "title": "Microsoft Build 2026 : modèles MAI sans OpenAI, agent Scout et puce Solara… le résumé de toutes les annonces",
-      "url": "https://www.numerama.com/tech/2264573-microsoft-build-2026-toutes-les-annonces-windows-copilot-ia.html",
-      "summary": "Le 2 juin, Microsoft a réuni les développeurs du monde entier à San Francisco pour sa grande conférence annuelle, la Microsoft Build 2026. Le géant du logiciel a dévoilé ses propres modèles d'IA, les MAI conçus sans OpenAI, son agent autonome Microsoft Scout et le projet Solara, une plateforme pour connecter n'importe quel objet à l'intelligence artificielle. Une keynote qui confirme l'ambition de",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-06-02T19:16:22+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "8c142b7c7089"
-    },
-    {
-      "title": "Ce que l’on sait de Jérôme B., mis en examen après la disparition de Lyhanna dans le Gers",
-      "url": "https://www.liberation.fr/societe/police-justice/ce-que-lon-sait-de-jerome-b-mis-en-examen-apres-la-disparition-de-lyhanna-dans-le-gers-20260602_HNPSGB5JVZAAVFQTBHRKM3LZIE/",
-      "summary": "La collégienne de 11 ans a été vue pour la dernière fois vendredi dans la voiture de l’homme de 41 ans, arrêté le lendemain.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-02T19:15:51+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "968db8ded5ae"
-    },
-    {
-      "title": "Santé mentale des jeunes : des souffrances psychiques persistantes, une « évolution contrastée »",
-      "url": "https://www.lemonde.fr/societe/article/2026/06/02/sante-mentale-des-jeunes-des-souffrances-psychiques-persistantes-une-evolution-contrastee_6696446_3224.html",
-      "summary": "L’agence Santé publique France a communiqué les résultats de deux enquêtes sur la santé mentale des écoliers d’une part, des collégiens et lycéens d’autre part, avec des indicateurs plus défavorables pour les jeunes filles. Le gouvernement promet un « coupe-file » pour les élèves en détresse repérés dans le cadre scolaire, censé leur permettre d’accéder plus rapidement aux soins.",
-      "image": "https://img.lemde.fr/2026/02/20/983/0/5315/2657/644/322/60/0/48b30aa_upload-1-czt0zr4htuew-camillegharbi-le-monde-dieppe-sante-mentale-des-ados-59.jpg",
-      "published_at": "2026-06-02T21:14:22+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "8639e90dc5a2"
-    },
-    {
-      "title": "Dans «Bait», Mark Jenkin face au tourisme de nasse",
-      "url": "https://www.liberation.fr/culture/cinema/dans-bait-mark-jenkin-face-au-tourisme-de-nasse-20260602_W5XVENDSGZA47K4Q27BTSJMRUU/",
-      "summary": "Autour de deux frères confrontés au déclin de la pêche dans leur village de Cornouailles et à l’invasion touristique, le cinéaste expérimental anglais dote son film d’une fabuleuse irréalité.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-02T19:14:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "831cad7b6588"
     }
   ]
 }
