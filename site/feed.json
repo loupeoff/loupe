@@ -1,306 +1,306 @@
 {
-  "generated_at": "2026-06-02T10:51:00.826361+00:00",
+  "generated_at": "2026-06-02T15:00:51.316827+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Grosse grêle, rafales jusqu’à 100 km/h, pluies intenses : alerte aux «violents orages» dans trois départements du Sud-Est ce mardi",
+      "title": "Le Var et les Alpes-Maritimes placés en vigilance orange aux orages mardi jusqu'à 18 heures",
+      "url": "https://www.franceinfo.fr/environnement/meteo/le-var-les-alpes-de-haute-provence-et-les-alpes-maritimes-places-en-vigilance-orange-aux-orages-mardi-apres-midi_8040932.html#xtor=RSS-3-[lestitres]",
+      "summary": "Une grande partie du reste de l'Hexagone est concernée par une vigilance jaune \"orages\", de l'Ille-et-Vilaine au Bas-Rhin et de la Somme aux Bouches-du-Rhône.",
+      "image": "https://www.franceinfo.fr/pictures/6X_U5FK9E-ocIiAOPlnQFafu_c4/0x53:1024x629/432x243/filters:format(jpg)/2026/06/02/6a1ea455009a2525556759.jpg",
+      "published_at": "2026-06-02T16:57:48+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "669c11b42408"
+    },
+    {
+      "title": "Le cas d’un dissident chinois débarqué sur le sol coréen met à l’épreuve les relations entre Pékin et Séoul",
+      "url": "https://www.liberation.fr/international/asie-pacifique/le-cas-dun-dissident-chinois-debarque-sur-le-sol-coreen-met-a-lepreuve-les-relations-entre-pekin-et-seoul-20260602_QQQVTXYZWRHCJOP2CTSF7J75NY/",
+      "summary": "Dong Guangping a rejoint la Corée du Sud le 25 mai après avoir traversé la mer Jaune en canot pneumatique. Une affaire délicate pour le gouvernement sud-coréen de centre-gauche, qui a fait de l’amélioration des relations avec Pékin une pierre angulaire de sa diplomatie.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-02T14:55:16+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "56f4bc5622bd"
+    },
+    {
+      "title": "«En nous», l’entrée dans la danse de Juliette Binoche",
+      "url": "https://www.liberation.fr/culture/en-nous-lentree-dans-la-danse-de-juliette-binoche-20260602_AHFMQD7S5NGORFREF4QMKSUK7I/",
+      "summary": "Le premier film réalisé par l’actrice retrace avec des archives la création du spectacle «IN-I», très médiatisé en 2007 lors d’une tournée mondiale, et qui la mettait en scène avec Akram Khan.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-02T14:53:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "256f7829b8c6"
+    },
+    {
+      "title": "Grosse grêle, rafales jusqu’à 100 km/h, pluies intenses : alerte aux «violents orages» dans le Sud-Est ce mardi",
       "url": "https://www.liberation.fr/environnement/climat/grosse-grele-rafales-jusqua-100-kmh-pluies-intenses-alerte-aux-violents-orages-dans-trois-departements-du-sud-est-ce-mardi-20260602_D57TJO6XZJH3XGFU53FQYUXNHY/",
-      "summary": "Les Alpes-de-Haute-Provence, le Var et les Alpes-Maritimes sont classés par Météo France en vigilance orange entre 15 heures et 18 heures. La menace pèse également sur la quasi-totalité du territoire en vigilance jaune, mais plus légèrement.",
+      "summary": "Le Var et les Alpes-Maritimes sont classés par Météo France en vigilance orange entre 15 heures et 18 heures. L’alerte a été levée dans l’après-midi pour les Alpes-de-Haute-Provence.",
       "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-06-02T10:47:55+00:00",
+      "published_at": "2026-06-02T14:51:48+00:00",
       "source": "Libération",
       "category": "Société",
       "id": "f773633ede8c"
     },
     {
-      "title": "Orages : trois départements du sud-est de l’Hexagone placés en vigilance orange",
-      "url": "https://www.lemonde.fr/planete/article/2026/06/02/orages-trois-departements-du-sud-est-de-l-hexagone-places-en-vigilance-orange_6696379_3244.html",
-      "summary": "« Des phénomènes localement violents » sont attendus en début d’après-midi avec parfois « des rafales de 80-100 km/h », prévient Météo-France mardi.",
-      "image": "https://img.lemde.fr/2025/06/26/282/0/3000/1500/644/322/60/0/64a8647_upload-1-ol256t2987ho-frame-10.jpg",
-      "published_at": "2026-06-02T12:41:02+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "144840d686b5"
-    },
-    {
-      "title": "Il fabrique un canon laser piloté par l’IA pour carboniser les moustiques de son salon",
-      "url": "https://www.numerama.com/tech/2264839-il-fabrique-un-canon-laser-pilote-par-lia-pour-carboniser-les-moustiques-de-son-salon.html",
-      "summary": "Face au fléau des moustiques, un ingénieur a troqué la traditionnelle tapette contre un projet étonnant : une tourelle laser automatisée et guidée par une intelligence artificielle pour pulvériser les insectes en plein vol. Une arme digne de la science-fiction, mais bien réelle.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-06-02T10:40:23+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "c560d964ac49"
-    },
-    {
-      "title": "Mireille, la nonagénaire filmée en train de danser avec des supporters du PSG, salue \"la joie\" et le \"cœur\" des jeunes fêtards",
-      "url": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/finale/mireille-la-nonagenaire-filmee-en-train-de-danser-avec-des-supporters-du-psg-salue-la-joie-et-le-c-ur-des-jeunes-fetards_8040857.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Pour mamie, allez, allez !\" La dame filmée en train de célébrer la victoire du club face à Arsenal en finale de la Ligue des champions s'est confiée à \"C à vous\".",
-      "image": "https://www.franceinfo.fr/pictures/zcqP7c1jWztEwQ04md2t9AjUuXs/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/02/6a1ea07a26df7287456891.jpg",
-      "published_at": "2026-06-02T12:35:18+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "346e6256aad0"
-    },
-    {
-      "title": "Une femme de 37 ans retrouvée morte en Moselle, son compagnon placé en garde à vue",
-      "url": "https://www.franceinfo.fr/faits-divers/une-femme-de-37-ans-retrouvee-morte-en-moselle-son-compagnon-place-en-garde-a-vue_8040992.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le compagnon de la victime, qui s'est présenté au commissariat, a avoué l'avoir étranglée.",
-      "image": "https://www.franceinfo.fr/pictures/uE8sEbPPsuMOR7PLLDJz1Od5oN0/0x53:1024x629/432x243/filters:format(jpg)/2026/06/02/6a1eab517786a496265326.jpg",
-      "published_at": "2026-06-02T12:29:35+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "d7312d3fbecf"
-    },
-    {
-      "title": "\"Ça me permet d'aller au travail sans avoir à chercher de place\" : ces villes baissent les tarifs des transports en commun et attirent de nouveaux usagers",
-      "url": "https://www.franceinfo.fr/economie/automobile/essence/reportage-j-ai-vu-qu-il-y-avait-une-offre-face-l-augmentation-du-prix-des-carburants-ces-villes-baissent-les-tarifs-des-transports-en-commun_8040602.html#xtor=RSS-3-[lestitres]",
-      "summary": "Plusieurs agglomérations, comme Lorient ou Laval, ont lancé des offres face l'augmentation du prix des carburants. Certains automobilistes semblent avoir franchi le pas.",
-      "image": "https://www.franceinfo.fr/pictures/3Orw2ODJsn9HtLH08qCc4Qb5fgc/0x2:1200x677/432x243/filters:format(jpg)/2026/06/02/6a1e66a43316b495811437.jpg",
-      "published_at": "2026-06-02T12:27:06+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "7ad7440e0060"
-    },
-    {
-      "title": "Le Var, les Alpes-de-Haute-Provence et les Alpes-Maritimes placés en vigilance orange aux orages mardi après-midi",
-      "url": "https://www.franceinfo.fr/environnement/meteo/le-var-les-alpes-de-haute-provence-et-les-alpes-maritimes-places-en-vigilance-orange-aux-orages-mardi-apres-midi_8040932.html#xtor=RSS-3-[lestitres]",
-      "summary": "Météo-France met en garde contre \"des phénomènes localement violents\" dans ces trois départements du sud-est de la France.",
-      "image": "https://www.franceinfo.fr/pictures/6X_U5FK9E-ocIiAOPlnQFafu_c4/0x53:1024x629/432x243/filters:format(jpg)/2026/06/02/6a1ea455009a2525556759.jpg",
-      "published_at": "2026-06-02T12:25:29+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "669c11b42408"
-    },
-    {
-      "title": "\"Il pourra accueillir plus de 100 000 sépultures\" : près de Kiev, le nouveau cimetière militaire national s'enlise dans une controverse",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-il-pourra-accueillir-plus-de-100-000-sepultures-pres-de-kiev-le-nouveau-cimetiere-militaire-national-s-enlise-dans-une-controverse_8040794.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le cimetière sera aussi un mémorial pour rendre hommage aux morts de la guerre. Il provoque une polémique à cause du manque de respect de l'environnement et des accusations de corruption.",
-      "image": "https://www.franceinfo.fr/pictures/Gdwell1ddaKDM0v1tMf2fUWjYz0/0x0:7276x4092/432x243/filters:format(jpg)/2026/06/02/6a1e91a134f61895099775.jpg",
-      "published_at": "2026-06-02T12:24:21+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "34738d11dbe9"
-    },
-    {
-      "title": "Guerre en Ukraine : une attaque russe fait au moins 18 morts et plus d'une centaine de blessés dans plusieurs villes du pays, dont Kiev",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-une-attaque-russe-fait-au-moins-neuf-morts-et-des-dizaines-de-blessees-dans-plusieurs-villes-du-pays-dont-kiev_8040632.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les négociations pour mettre fin à l'offensive à grande échelle sur l'Ukraine, qui a fait des centaines de milliers de morts et des millions de réfugiés en plus de quatre ans de conflit, sont au point mort.",
-      "image": "https://www.franceinfo.fr/pictures/QNvmT_KS5aFnPEetAbLkayUZWUo/0x53:1024x629/432x243/filters:format(jpg)/2026/06/02/6a1e6bb7f2f5b564273553.jpg",
-      "published_at": "2026-06-02T12:24:15+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "b9a8fe2a3f4a"
-    },
-    {
-      "title": "L’association HOP obtient un procès contre le fabricant d’imprimantes Epson",
-      "url": "https://www.lemonde.fr/pixels/article/2026/06/02/l-association-hop-obtient-un-proces-contre-le-fabricant-d-imprimantes-epson_6696377_4408996.html",
-      "summary": "Une première audience aura lieu à Nanterre le 2 juillet, huit ans après la plainte déposée par Halte à l’obsolescence programmée (HOP). L’association reproche notamment au constructeur de réduire à dessein la durée de vie de ses cartouches d’encre.",
-      "image": "https://img.lemde.fr/2018/01/17/202/0/2048/1024/644/322/60/0/60a5a37_28188-1hphwes.ejcj.jpg",
-      "published_at": "2026-06-02T12:15:30+02:00",
-      "source": "Le Monde",
+      "title": "Pensées suicidaires, dépression, troubles émotionnels… Deux nouvelles études dressent un panorama inquiétant de la santé mentale des enfants et adolescents",
+      "url": "https://www.liberation.fr/societe/sante/pensees-suicidaires-depression-troubles-emotionnels-deux-nouvelles-etudes-dressent-un-panorama-inquietant-de-la-sante-mentale-des-enfants-et-adolescents-20260602_DBFTX7HC6FBQTEQYYFJLVIKHB4/",
+      "summary": "Ces deux enquêtes, publiées par Santé publique France mardi 2 juin, confirment encore la dégradation de la santé mentale des jeunes.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-06-02T14:49:20+00:00",
+      "source": "Libération",
       "category": "Société",
-      "id": "2bca0e275fab"
+      "id": "c69c5de201f2"
     },
     {
-      "title": "Guerre au Moyen-Orient : un responsable militaire iranien juge \"inévitable\" une reprise du conflit avec les Etats-Unis",
+      "title": "Booba condamné à trois mois de prison avec sursis pour harcèlement en ligne et injures racistes contre la journaliste Linh-Lan Dao",
+      "url": "https://www.lemonde.fr/societe/article/2026/06/02/booba-condamne-a-trois-mois-de-prison-avec-sursis-pour-harcelement-en-ligne-et-injures-racistes-contre-la-journaliste-linh-lan-dao_6696404_3224.html",
+      "summary": "Le tribunal a reconnu le rôle de « chef de meute » du rappeur aux six millions d’abonnés, qui avait « jeté en pâture » la jeune femme en 2024, victime d’une campagne de cyberharcèlement raciste et sexiste. Il a fait appel de la décision.",
+      "image": "https://img.lemde.fr/2025/10/16/928/0/5568/2784/644/322/60/0/09cf60a_ftp-import-images-1-ercbft96daux-5179946-01-06.jpg",
+      "published_at": "2026-06-02T16:47:18+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "30f5590e3da0"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : Benyamin Nétanyahou affiche sa détermination à faire disparaître \"le régime de terreur\" iranien",
       "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-avant-une-reprise-des-negociations-sur-le-liban-les-affrontements-se-poursuivent-entre-l-armee-israelienne-et-le-hezbollah_8040527.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Les Etats-Unis exigent notre capitulation totale et la nation iranienne ne capitulera jamais\", a déclaré Mohammad Jafar Assadi, selon des propos rapportés par la télévision d'Etat.",
-      "image": "https://www.franceinfo.fr/pictures/t1RyMGMTVABoeoVJ5r0h2CMwlm4/0x35:1024x611/432x243/filters:format(jpg)/2026/06/02/6a1e976229fcc869703459.jpg",
-      "published_at": "2026-06-02T12:15:24+02:00",
+      "summary": "\"Ce régime ne nous menacera plus avec des armes nucléaires et des milliers de missiles meurtriers\", a affirmé le Premier ministre israélien.",
+      "image": "https://www.franceinfo.fr/pictures/UV4QzAn0jq6mUjUt0AIWMZVOwRA/0x216:4500x2748/432x243/filters:format(jpg)/2026/06/02/6a1ee8ed49f4f455498629.jpg",
+      "published_at": "2026-06-02T16:44:41+02:00",
       "source": "France Info",
-      "category": "Société",
+      "category": "Politique",
       "id": "afc1517ea44e"
     },
     {
-      "title": "Quand Wauquiez dément avoir dit ce qu’il a bien dit puis justifie de dire ce qu’il prétend ne pas avoir dit",
-      "url": "https://www.liberation.fr/politique/quand-wauquiez-dement-avoir-dit-ce-quil-a-bien-dit-puis-justifie-de-dire-ce-quil-pretend-ne-pas-avoir-dit-20260602_I5ERG4FGYFGEHDH744O2HQV4TA/",
-      "summary": "Le chef des députés LR nous offre un nouvel exemple de sa capacité légendaire à mentir puis à s’embourber dans son mensonge.",
+      "title": "Roland-Garros 2026 : Alexander Zverev s'échappe rapidement dans le 3e set face à Rafael Jodar... Suivez avec nous le quart de finale",
+      "url": "https://www.franceinfo.fr/roland-garros/directs/direct-rafael-jodar-alexander-zverev-la-pepite-espagnole-face-au-favori-allemand-suivez-avec-nous-le-quart-de-finale-de-roland-garros_8039888.html#xtor=RSS-3-[lestitres]",
+      "summary": "En l'absence de Carlos Alcaraz, et après l'élimination de Jannik Sinner, Alexander Zverev s'est transformé en favori porte d'Auteuil.",
+      "image": "https://www.franceinfo.fr/pictures/_2ipv2nIhsuxDXDnIDTJSGShCUc/0x0:1024x576/432x243/filters:format(jpg)/2026/06/02/6a1ee15048692388060236.jpg",
+      "published_at": "2026-06-02T16:44:26+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "412e8a002f14"
+    },
+    {
+      "title": "Violences sexuelles : défendre l’état de droit, ce n’est pas tolérer un état de fait, par Bernard Cazeneuve",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/violences-sexuelles-defendre-letat-de-droit-ce-nest-pas-tolerer-un-etat-de-fait-par-bernard-cazeneuve-20260602_AFLKUVQBZRFIDCLNLOWGN2PCNU/",
+      "summary": "Lutter contre les violences sexistes et sexuelles exige d’améliorer la réponse policière, judiciaire et éducative, plaide l’ancien Premier ministre, pour qui le respect de la présomption d’innocence n’équivaut pas à justifier l’«indifférence».",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-02T14:39:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "08569d9dc4b5"
+    },
+    {
+      "title": "Donald Trump nomme Bill Pulte, un fidèle, à la direction du renseignement américain",
+      "url": "https://www.lemonde.fr/international/article/2026/06/02/donald-trump-nomme-bill-pulte-un-fidele-a-la-direction-du-renseignement-americain_6696403_3210.html",
+      "summary": "Sans expérience dans le domaine de la sécurité nationale, Bill Pulte cumulera la direction de l’agence fédérale chargée du financement du logement et celle du renseignement national.",
+      "image": "https://img.lemde.fr/2026/06/02/33/0/5096/2548/644/322/60/0/c5e1c2b_ftp-1-p5t57h9hrkxr-8720956dc45a4c5abc2cdad863230331-0-ce9d93f8edf840bf83be62a433e0ab6f.jpg",
+      "published_at": "2026-06-02T16:37:07+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "1cfc8ec40408"
+    },
+    {
+      "title": "«Saccharine» de Natalie Erika James, un body horror la dalle au centre",
+      "url": "https://www.liberation.fr/culture/cinema/saccharine-de-natalie-erika-james-le-body-horror-devorant-dalle-au-centre-20260602_TM2JQQFLKVDFFIXBMGNWQXT6NY/",
+      "summary": "La cinéaste australo-américaine signe son meilleur long métrage en malmenant son héroïne en proie à des troubles alimentaires.",
       "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-06-02T10:10:41+00:00",
+      "published_at": "2026-06-02T14:37:00+00:00",
       "source": "Libération",
       "category": "Société",
-      "id": "6eeca87c3004"
+      "id": "9192b36940e8"
     },
     {
-      "title": "Une maire du Val-d’Oise fête la victoire du PSG en Ligue des champions avec un maillot floqué «Rédoine Faïd»",
-      "url": "https://www.liberation.fr/politique/une-maire-du-val-doise-fete-la-victoire-du-psg-en-ligue-des-champions-avec-un-maillot-floque-redoine-faid-20260602_THXG73ZPH5CFBG66PXM4SK45SA/",
-      "summary": "Karine Okonski a célébré, samedi 30 mai, le sacre de Paris en portant un maillot sans vérifier qu’était inscrit, à l’arrière, le nom du braqueur condamné à 25 ans de prison pour le meurtre de la policière Aurélie Fouquet.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-02T10:07:47+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "d08c30e2bf7a"
-    },
-    {
-      "title": "Netflix, Disney et Apple font condamner Spliiit, entreprise de partage d'abonnements",
-      "url": "https://www.franceinfo.fr/culture/netflix-disney-et-apple-font-condamner-spliiit-entreprise-de-partage-d-abonnements_8040983.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cette décision sur le fond intervient alors que Spliiit avait gagné en référé (une procédure d'urgence) contre Apple, Disney et Netflix en 2022.",
-      "image": "https://www.franceinfo.fr/pictures/ebRT4kgaV-HCiZAbkXNR3OpLvwo/0x64:640x424/432x243/filters:format(jpg)/2026/06/02/6a1ea934ed35c531138391.jpg",
-      "published_at": "2026-06-02T12:05:42+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "a65765cb03fe"
-    },
-    {
-      "title": "La petite fille de 3 ans, disparue depuis lundi dans le Gard, a été retrouvée en bonne santé",
-      "url": "https://www.franceinfo.fr/faits-divers/la-petite-fille-de-3-ans-disparue-depuis-lundi-dans-le-gard-a-ete-retrouvee-en-bonne-sante_8040896.html#xtor=RSS-3-[lestitres]",
-      "summary": "Ses parents étaient venus la chercher lundi dans un foyer d'accueil à Uzès alors qu'ils n'en avaient pas l'autorisation. Sa mère est en garde à vue et son père est toujours recherché.",
-      "image": "https://www.franceinfo.fr/pictures/mQS1aPyPQYhgy1C964nCTBoqD-4/0x0:4032x2268/432x243/filters:format(jpg)/2026/06/02/6a1e9e84875ef061094803.jpg",
-      "published_at": "2026-06-02T12:03:07+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "4100f7020f62"
-    },
-    {
-      "title": "\"Quand des critiques apparaissent légitimes, il faut les recevoir\", dit François Ruffin à propos de sa BD polémique",
-      "url": "https://www.franceinfo.fr/economie/medias/quand-des-critiques-apparaissent-legitimes-il-faut-les-recevoir-dit-francois-ruffin-a-propos-de-sa-bd-polemique_8041004.html#xtor=RSS-3-[lestitres]",
-      "summary": "François Ruffin reconnaît que des \"fautes\" peuvent être commises lorsqu'on s'expose en public \"quasiment tous les jours\", et dit regretter \"1 case sur 545\" dans la BD polémique \"Picardie Splendor\".",
-      "image": "https://www.franceinfo.fr/pictures/4uXNUBF-iX_p8HfdMrrxZhbz3M0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/06/02/6a1ea9840acd5979993708.jpg",
-      "published_at": "2026-06-02T12:00:20+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "3f99219eb489"
-    },
-    {
-      "title": "C’est l’histoire d’une rue : Cirque, du jardin secret de Pierre Cardin aux intrigues élyséennes",
-      "url": "https://www.lemonde.fr/m-styles/article/2026/06/02/c-est-l-histoire-d-une-rue-cirque-du-jardin-secret-de-pierre-cardin-aux-intrigues-elyseennes_6696375_4497319.html",
-      "summary": "Cette petite artère du 8ᵉ arrondissement de Paris, qui abrite encore un chemisier pour hommes ou un fabricant de haute horlogerie, représente une certaine idée du chic discret à la française.",
-      "image": "https://img.lemde.fr/2026/05/25/821/294/4430/2215/644/322/60/0/2c35686_upload-1-z6v7d2otyacp-12-boutique-pierre-cardin-arthur-gau-m-0888-retouche-arthur.jpg",
-      "published_at": "2026-06-02T12:00:13+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "1eeb69b249fd"
-    },
-    {
-      "title": "Véronique Gouverneur, la chimiste d’Oxford aux multiples découvertes qui révolutionnent l’industrie du fluor",
-      "url": "https://www.lemonde.fr/sciences/article/2026/06/02/veronique-gouverneur-la-chimiste-d-oxford-aux-multiples-decouvertes-qui-revolutionnent-l-industrie-du-fluor_6696373_1650684.html",
-      "summary": "La chercheuse belge, qui reçoit mardi 2 juin le Grand Prix scientifique 2026 de la Fondation Simone et Cino Del Duca, a toujours refusé de s’imposer des barrières. Arrivée en 1998 à l’université britannique d’Oxford, elle a depuis consacré sa vie au travail.",
-      "image": "https://img.lemde.fr/2026/06/01/218/0/5000/2500/644/322/60/0/791347a_upload-1-iiec06njqj0n-01-portrait-veronique-gouverneur-06.jpg",
-      "published_at": "2026-06-02T12:00:09+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "4e30f1f4f809"
-    },
-    {
-      "title": "Prix gonflés, royalties non reversés… L’éditeur de photos d’art YellowKorner assigné en justice par l’artiste Arno Elias",
-      "url": "https://www.liberation.fr/culture/photographie/prix-gonfles-royalties-non-reverses-lediteur-de-photos-yellowkorner-assigne-en-justice-par-lartiste-arno-elias-20260602_QCPTJQMY2BHG5GHKTN6YPLP5CU/",
-      "summary": "En 2017, l’ancien musicien, qui dénonce désormais «un système vicié où le flou est érigé en règle», confiait à l’entreprise française à la centaine de boutiques une série mettant en scène la «supermodel» Cara Delevingne, au service de la cause animale. Un litige à plusieurs millions d’euros.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-06-02T09:57:51+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "37ad20980bc1"
-    },
-    {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : Israël appelle à évacuer la ville libanaise de Nabatiyé",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : Benyamin Nétanyahou affirme qu’Israël œuvrera à faire disparaître «le régime de terreur» iranien",
       "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-negociations-dans-le-flou-des-tirs-entre-israel-et-le-hezbollah-libanais-20260602_72BAB54I3VFKNHSCPAZIENE6LI/",
-      "summary": "Donald Trump a assuré lundi soir qu’Israël et le Hezbollah lui ont promis l’apaisement au Liban, et affirmé par ailleurs que les négociations continuaient bel et bien avec Téhéran. Mais les affrontements se sont poursuivis.",
+      "summary": "Donald Trump a assuré lundi soir qu’Israël et le Hezbollah lui ont promis l’apaisement au Liban, et affirmé par ailleurs que les négociations continuaient bel et bien avec Téhéran. Mais les affrontements se poursuivent.",
       "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-06-02T09:52:54+00:00",
+      "published_at": "2026-06-02T14:36:15+00:00",
       "source": "Libération",
       "category": "International",
       "id": "84d814afcde5"
     },
     {
-      "title": "Revenus des agriculteurs, loups, pesticides... Ce que contient le projet de loi d'urgence agricole soumis au vote des députés ce mardi",
+      "title": "Etats-Unis : contestée par son propre camp, la «caisse noire» de Trump vacille",
+      "url": "https://www.liberation.fr/international/amerique/etats-unis-contestee-par-son-propre-camp-la-caisse-noire-de-trump-vacille-20260602_NMXN7T23OVDG5JYXTA46O6XDEU/",
+      "summary": "Entre conflit d’intérêts, bénéficiaires controversés et pression du Congrès, le projet de fonds d’indemnisation voulu par le président américain est devenu un fardeau politique jusque dans les rangs républicains. La Maison Blanche semble prête à y renoncer.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-02T14:34:41+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "ae684615d832"
+    },
+    {
+      "title": "Au congrès de la CGT, le bilan de Sophie Binet largement adopté",
+      "url": "https://www.liberation.fr/economie/social/au-congres-de-la-cgt-le-bilan-de-sophie-binet-largement-adopte-20260602_5HW4KMGEONAFHEIBAKXO63ZFU4/",
+      "summary": "Alors que le dernier bilan du syndicat avait été désavoué, les délégués, en congrès depuis lundi à Tours, ont adopté, ce mardi 2 juin, le rapport d’activité de la numéro 1, en passe d’être reconduite comme secrétaire générale.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-02T14:33:19+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "e5934632c025"
+    },
+    {
+      "title": "Coupe du monde 2026 : le Suisse Breel Embolo empêché de voyager aux Etats-Unis",
+      "url": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-le-suisse-breel-embolo-empeche-de-voyager-aux-etats-unis-20260602_YGDP6RS65VD4ZGCZUWD2CDS2HA/",
+      "summary": "L’avant-centre du Stade rennais n’a pas pu embarquer avec sa sélection vers l’Amérique, ce mardi 2 juin, faute d’autorisation des Etats-Unis. La raison de cet incident demeure inconnue, mais les Suisses espèrent récupérer leur joueur de manière imminente.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-02T14:30:18+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "9df090d2fe53"
+    },
+    {
+      "title": "« Face au RN, le secteur du lobbying doit se doter d’une doctrine minimale de responsabilité démocratique »",
+      "url": "https://www.lemonde.fr/idees/article/2026/06/02/face-au-rn-le-secteur-du-lobbying-doit-se-doter-d-une-doctrine-minimale-de-responsabilite-democratique_6696402_3232.html",
+      "summary": "Le lobbyiste Jordan Allouche s’inquiète, dans une tribune au « Monde », du rôle croissant que jouent les milieux d’affaires et patronaux dans la montée en puissance de l’extrême droite. Il appelle les cabinets de conseil en affaires publiques à refuser de participer à la normalisation du Rassemblement national.",
+      "image": "https://img.lemde.fr/2026/05/28/500/0/6000/3000/644/322/60/0/4524ba7_upload-1-dl3tlvd6bbjx-000-a8dz2qe.jpg",
+      "published_at": "2026-06-02T16:30:12+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "5ad3ff56a6fd"
+    },
+    {
+      "title": "Meilleurs mangas seinen : notre top 10 à lire absolument",
+      "url": "https://www.numerama.com/pop-culture/2231399-meilleurs-mangas-seinen-voila-les-incontournables-a-lire-une-fois-dans-sa-vie.html",
+      "summary": "Le monde du manga est immense, mais il se divise en trois grands piliers : le shônen pour les ados en quête d'action, le shôjo pour les histoires plus axées sur les émotions, et le seinen pour les adultes friands de récits complexes et matures. C'est précisément à cette dernière catégorie que nous nous intéressons aujourd'hui avec une sélection de nos meilleurs titres.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-02T14:30:00+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "9ec3d8227034"
+    },
+    {
+      "title": "Vent de panique chez Dashlane ? Voici ce qu’il s’est réellement passé chez le gestionnaire de mots de passe français",
+      "url": "https://www.numerama.com/cyberguerre/2265175-vent-de-panique-chez-dashlane-voici-ce-quil-sest-reellement-passe-chez-le-gestionnaire-de-mots-de-passe-francais.html",
+      "summary": "Le 31 mai 2026, des milliers d'utilisateurs de Dashlane ont reçu des mails de vérification qu'ils n'avaient jamais demandés. Certains se sont retrouvés bloqués hors de leur compte. L'entreprise française a depuis confirmé avoir subi une attaque par force brute, et reconnu que les coffres-forts chiffrés d'une vingtaine d'utilisateurs ont été copiés.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-06-02T14:27:01+00:00",
+      "source": "Numerama",
+      "category": "Économie",
+      "id": "57a46f05cd99"
+    },
+    {
+      "title": "«La Vallée aux échos» de Scott Alexander Howard : recours vers le futur",
+      "url": "https://www.liberation.fr/culture/livres/la-vallee-aux-echos-de-scott-alexander-howard-recours-vers-le-futur-20260602_TL4T2IHGSVGO5HKPW6ALG7LP7A/",
+      "summary": "Pour son premier roman, le philosophe canadien renouvelle le thème du voyage dans le temps en le mariant aux émois adolescents.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-02T14:23:46+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "df8068773237"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : des milliers de civils de l’oblast de Kharkiv sommés d’évacuer par les autorités locales en raison « de la situation sécuritaire et des tirs hostiles systématiques »",
+      "url": "https://www.lemonde.fr/international/live/2026/06/02/en-direct-guerre-en-ukraine-des-milliers-de-civils-de-l-oblast-de-kharkiv-sommes-d-evacuer-par-les-autorites-locales-en-raison-de-la-situation-securitaire-et-des-tirs-hostiles-systematiques_6695365_3210.html",
+      "summary": "L’ordre d’évacuation concerne sept localités du district de Bohodoukhiv, dans le nord-est de l’Ukraine, et quelque 7 000 personnes, dont plus de 1 700 enfants et 300 personnes à mobilité réduite.",
+      "image": "https://img.lemde.fr/2026/06/02/212/0/1280/640/644/322/60/0/064328e_ftp-1-fctpbkr6pha6-4b2e2d0bacfc4ab8b604af8e470bed4b-0-661e15cf49a6439fa7627c8afae66915.jpg",
+      "published_at": "2026-06-02T16:14:34+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "0481670f000d"
+    },
+    {
+      "title": "Pesticides, stockage de l'eau, loups, revenus : ce que contient le projet de loi d'urgence agricole, un texte explosif soumis au vote des députés",
       "url": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/rennes/ce-que-contient-le-projet-de-loi-d-urgence-agricole-soumis-au-vote-des-deputes-ce-mardi-3360979.html#xtor=RSS-3-[lestitres]",
       "summary": "Après presque deux semaines de débats, les députés doivent se prononcer, ce mardi 2 juin, sur le projet de loi d’urgence agricole. Parmi les sujets inflammables : les pesticides, les stockages d’eau, les agrandissements d'élevage, les tirs sur des loups.",
       "image": "https://www.franceinfo.fr/pictures/SKz9RAQWGn55V-MKk2PYWaY-erM/432x243/filters:format(jpg)/2026/06/02/6a1e81742d1d5716849973.jpg",
-      "published_at": "2026-06-02T11:47:08+02:00",
+      "published_at": "2026-06-02T16:07:11+02:00",
       "source": "France Info",
       "category": "Société",
       "id": "c4eb00a7e92c"
     },
     {
-      "title": "Seize ans de prison pour Félix Bingui, 500 000 euros d'amende... Ce qu'il faut savoir des réquisitions dans le procès du clan Yoda",
-      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/narcotrafic-six-ans-de-prison-requis-contre-felix-bingui-500-000-euros-d-amende-ce-qu-il-faut-savoir-des-requisitions-dans-le-proces-du-clan-yoda-3361006.html#xtor=RSS-3-[lestitres]",
-      "summary": "Félix Bingui, chef présumé du clan Yoda à Marseille, et ses acolytes sont jugés pour leur participation à un vaste réseau de trafic de drogue à Marseille. Pour \"Le Chat\", alias Félix Bingui, le procureur a demandé une peine de 16 ans de prison assortie d'une amende de 500 000 euros. Deux jours de plaidoiries sont prévus à partir de ce mardi 2 juin.",
-      "image": "https://www.franceinfo.fr/pictures/ir6Oq0bm7RcOgygqFVLZ7hpSjl0/432x243/filters:format(jpg)/2026/06/02/6a1e8ef168313874733858.jpg",
-      "published_at": "2026-06-02T11:44:55+02:00",
+      "title": "Auchan va céder 72 supermarchés à Intermarché, 17 sont toujours en quête de repreneur",
+      "url": "https://www.franceinfo.fr/economie/auchan-va-ceder-72-supermarches-a-intermarche-17-sont-toujours-en-quete-de-repreneur_8041325.html#xtor=RSS-3-[lestitres]",
+      "summary": "En janvier, le distributeur avait annoncé qu'il envisageait de vendre 91 supermarchés au groupement Mousquetaires, pour se concentrer sur ses hypermarchés.",
+      "image": "https://www.franceinfo.fr/pictures/7QpSBa_JjWEvILqMzkzDzPeR1-M/202x264:4949x2934/432x243/filters:format(jpg)/2026/06/02/6a1ee1cf703ef603786662.jpg",
+      "published_at": "2026-06-02T16:07:07+02:00",
       "source": "France Info",
-      "category": "Politique",
-      "id": "68858cd4ecc8"
+      "category": "Économie",
+      "id": "69323e6bb53b"
     },
     {
-      "title": "Le pétrolier de la \"flotte fantôme\" russe arraisonné par la France est arrivé en baie de Douarnenez, dans le Finistère",
-      "url": "https://france3-regions.franceinfo.fr/bretagne/finistere/quimper/flotte-fantome-le-petrolier-russe-arraisonne-par-la-france-est-arrive-en-baie-de-douarnenez-3361057.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le pétrolier en provenance de Russie, soupçonné d'arborer un faux pavillon et arraisonné dimanche par la France, est arrivé en baie de Douarnenez, dans le Finistère, ce mardi 2 juin 2026.",
-      "image": "https://www.franceinfo.fr/pictures/45lBdZYo51AU8p6LrUaOya0gbZo/432x243/filters:format(jpg)/2026/06/02/6a1e931e6e8d4747522164.jpg",
-      "published_at": "2026-06-02T11:43:11+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "d04bacbef1aa"
-    },
-    {
-      "title": "La saga complète débarque sur Netflix : pourquoi Rocky est bien plus qu’un film de boxe",
-      "url": "https://www.numerama.com/pop-culture/2264693-la-saga-complete-debarque-sur-netflix-pourquoi-rocky-est-bien-plus-quun-film-de-boxe.html",
-      "summary": "La plateforme de streaming Netflix enrichit son catalogue avec l’intégration des franchises Rocky et Creed. Disponibles depuis le 1er juin 2026, ces neuf longs-métrages retracent près de cinquante ans d'histoire de la boxe au cinéma. De l'ascension initiale de l'Étalon Italien à Philadelphie jusqu'au passage de témoin à la nouvelle génération incarnée par Michael B. Jordan, voici comment appréhend",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-06-02T09:34:59+00:00",
-      "source": "Numerama",
-      "category": "Culture",
-      "id": "f920b4a32597"
-    },
-    {
-      "title": "Pour Rivian, Apple CarPlay est de l’histoire ancienne et tout passera par la voix",
-      "url": "https://www.numerama.com/vroom/2264579-pour-rivian-apple-carplay-est-de-lhistoire-ancienne-et-tout-passera-par-la-voix.html",
-      "summary": "Le patron du logiciel chez Rivian donne un avis très tranché sur l'intégration d'Apple CarPlay. Pour lui, pas question d'avoir cette surcouche dans un modèle de la marque. À la place, les commandes vocales et les agents d'intelligence artificielle sont le futur de l'automobile.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-06-02T09:29:12+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "31afa7912948"
-    },
-    {
-      "title": "Quand la marine nationale publie des illustrations coloniales du régime de Vichy pour recruter des volontaires",
-      "url": "https://www.liberation.fr/politique/quand-la-marine-nationale-publie-des-illustrations-coloniales-du-regime-de-vichy-pour-recruter-des-volontaires-20260601_MOLLJNFLS5F5DFJFOINH7X3QGI/",
-      "summary": "Dans plusieurs publications sur son compte Instagram, la force armée a eu recours à des visuels diffusés dans les années 40 par le régime de Philippe Pétain pour appeler à la défense de l’empire.",
+      "title": "De footballeur le moins connu de la Coupe du monde à star des réseaux sociaux, la notoriété fulgurante du Néo-Zélandais Tim Payne",
+      "url": "https://www.liberation.fr/sports/football/de-footballeur-le-moins-connu-de-la-coupe-du-monde-a-star-des-reseaux-sociaux-la-notoriete-fulgurante-du-neo-zelandais-tim-payne-20260529_T7ICL6NTGZCIXPOX4S3UGXPFZI/",
+      "summary": "Un influenceur argentin a appelé à suivre massivement le joueur qui avait le moins de followers parmi tous ceux qui vont participer au Mondial cet été. Le résultat a été spectaculaire.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-02T09:28:40+00:00",
+      "published_at": "2026-06-02T14:02:06+00:00",
       "source": "Libération",
       "category": "Sport",
-      "id": "655440161c52"
+      "id": "6e958c4f4b92"
     },
     {
-      "title": "Malgré l’explosion dévastatrice de New Glenn, le patron de Blue Origin promet : « Nous revolerons avant la fin de l’année »",
-      "url": "https://www.numerama.com/sciences/2264571-malgre-lexplosion-devastatrice-de-new-glenn-le-patron-de-blue-origin-promet-nous-revolerons-avant-la-fin-de-lannee.html",
-      "summary": "Blue Origin et la Nasa sont à l'étape du constat des dégâts provoqués par l'explosion spectaculaire de la fusée New Glenn fin mai 2026. Selon Dave Limp, le patron de l'entreprise spatiale fondée par Jeff Bezos, il sera possible de reprendre les vols avant la fin de l'année.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-06-02T09:24:26+00:00",
-      "source": "Numerama",
-      "category": "Économie",
-      "id": "c0adca8cf203"
+      "title": "Boualem Sansal durcit le ton dans \"La Légende\", récit de captivité et charge féroce contre le régime algérien",
+      "url": "https://www.franceinfo.fr/culture/livres/roman/boualem-sansal-durcit-le-ton-dans-la-legende-recit-de-captivite-et-charge-feroce-contre-le-regime-algerien_8041187.html#xtor=RSS-3-[lestitres]",
+      "summary": "L’écrivain franco-algérien publie chez Grasset un livre acéré sur les mois passés dans les prisons algériennes et dans lequel il règle aussi ses comptes avec son ancien éditeur.",
+      "image": "https://www.franceinfo.fr/pictures/l6Zy3g-rLBJEdGoJMRaeuxi-pLY/0x0:7488x4212/432x243/filters:format(jpg)/2026/06/02/6a1ecb32f30a3788531402.jpg",
+      "published_at": "2026-06-02T15:57:56+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "b70e236d9fbe"
     },
     {
-      "title": "Spliiit : Netflix, Disney et Apple font condamner l’entreprise française qui permet de partager des abonnements",
-      "url": "https://www.lemonde.fr/pixels/article/2026/06/02/spliiit-netflix-disney-et-apple-font-condamner-l-entreprise-francaise-qui-permet-de-partager-des-abonnements_6696371_4408996.html",
-      "summary": "L’entreprise française a été condamnée pour « complicité de violation des conditions générales d’utilisation » des abonnements à Netflix, Disney et Apple, « concurrence déloyale » et « contrefaçon de marque ».",
-      "image": "https://img.lemde.fr/2025/12/02/482/0/5790/2895/644/322/60/0/f1f92cb_ftp-1-fwas3duj0syt-2025-12-02t213722z-620418890-rc2k8iaoynx7-rtrmadp-3-warner-bros-dis-m-a.JPG",
-      "published_at": "2026-06-02T11:23:17+02:00",
+      "title": "La France a connu en mai 2026 sa vague de chaleur la plus précoce depuis le début des relevés météorologiques",
+      "url": "https://www.lemonde.fr/climat/article/2026/06/02/la-france-a-connu-en-mai-2026-sa-vague-de-chaleur-la-plus-precoce-depuis-le-debut-des-releves-meteorologiques_6696396_1652612.html",
+      "summary": "Un dôme de chaleur installé sur l’ouest de l’Europe a provoqué entre le 21 et le 30 mai un épisode sans précédent pour ce mois de l’année, avec des records mensuels battus dans plus de la moitié des stations de mesure.",
+      "image": "https://img.lemde.fr/2026/05/29/519/0/6213/3106/644/322/60/0/06bae4e_ftp-1-xrav2h3xcnu0-2026-05-29t011120z-859476665-rc29ilad1za2-rtrmadp-3-europe-weather-france.JPG",
+      "published_at": "2026-06-02T15:47:53+02:00",
       "source": "Le Monde",
       "category": "Économie",
-      "id": "e51f3bc79924"
+      "id": "41030583fdc8"
     },
     {
-      "title": "L’ex-patron des stups, François Thierry, définitivement condamné pour «complicité de trafic de drogue»",
-      "url": "https://www.liberation.fr/societe/police-justice/lex-patron-des-stups-francois-thierry-definitivement-condamne-pour-complicite-de-trafic-de-drogue-20260602_IMFKMJBDMJBNXDBL6WL7EUITMI/",
-      "summary": "Contrairement à ce qu’avaient annoncé ses avocats à l’issue du jugement, le commissaire a finalement renoncé à faire appel, scellant ainsi sa culpabilité dans un des principaux scandales de la lutte antidrogue en France.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-02T09:18:24+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "1ac003425347"
-    },
-    {
-      "title": "Avec sa nouvelle idée de pré-primaire, le PS repousse les limites de la solférinologie",
-      "url": "https://www.liberation.fr/politique/avec-sa-nouvelle-idee-de-pre-primaire-le-ps-repousse-les-limites-de-la-solferinologie-20260602_EO2OZB4XKBFIBKXBJMAMVPUEEY/",
-      "summary": "Face à l’impasse dans laquelle il a embarqué la primaire de la gauche sans les mélenchonistes, le parti à la rose a planché sur une nouvelle hypothèse, au risque d’accentuer la confusion.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-02T09:17:29+00:00",
-      "source": "Libération",
+      "title": "Dix secondes pour quitter le terrain, interdiction de se cacher la bouche... De nouvelles règles d'arbitrage pour la Coupe du monde 2026",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/dix-secondes-pour-quitter-le-terrain-interdiction-de-se-cacher-la-bouche-de-nouvelles-regles-d-arbitrage-pour-la-coupe-du-monde-2026_8041040.html#xtor=RSS-3-[lestitres]",
+      "summary": "Pierluigi Collina, grand patron des arbitres de la Fifa, a détaillé dimanche l'ensemble des mesures qui vont être testées sur les pelouses à partir du 11 juin.",
+      "image": "https://www.franceinfo.fr/pictures/EGlOF9KxCUgoHLkTuQv69lNr08M/0x107:1024x683/432x243/filters:format(jpg)/2026/06/02/6a1ebeee13198822844598.jpg",
+      "published_at": "2026-06-02T15:46:08+02:00",
+      "source": "France Info",
       "category": "Politique",
-      "id": "1aa4546fc1a4"
+      "id": "59ffdf8f6f9f"
+    },
+    {
+      "title": "Ebola : l’OMS revoit à la baisse les cas suspects en RDC et en Ouganda, mais confirme la hausse des cas avérés",
+      "url": "https://www.lemonde.fr/afrique/article/2026/06/02/ebola-l-oms-revoit-a-la-baisse-les-cas-suspects-en-rdc-et-en-ouganda-mais-confirme-la-hausse-des-cas-averes_6696395_3212.html",
+      "summary": "La réouverture de l’aéroport de Bunia, en RDC, relance l’acheminement de l’aide humanitaire dans une région toujours sous tension",
+      "image": "https://img.lemde.fr/2026/05/29/689/0/6097/3048/644/322/60/0/0160664_ftp-1-mzj48arnjjnp-5169364-01-06.jpg",
+      "published_at": "2026-06-02T15:45:24+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "2644d909d928"
+    },
+    {
+      "title": "Unistellar baisse jusqu’à 700 € le prix de ses téléscopes connectés",
+      "url": "https://www.numerama.com/tech/2265089-unistellar-baisse-jusqua-700-e-le-prix-de-ses-telescopes-connectes.html",
+      "summary": "[Deal du jour] Il existe de nombreux télescopes pour observer le ciel, et ceux de la marque française Unistellar sont de qualité. Ils profitent en ce moment de réductions à l'arrivée de l'été.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-06-02T13:45:23+00:00",
+      "source": "Numerama",
+      "category": "Sport",
+      "id": "67f56d807617"
+    },
+    {
+      "title": "Attaques massives en Ukraine : les autorités ordonnent l'évacuation de 7 000 civils dans la région de Kharkiv",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-une-attaque-russe-fait-au-moins-neuf-morts-et-des-dizaines-de-blessees-dans-plusieurs-villes-du-pays-dont-kiev_8040632.html#xtor=RSS-3-[lestitres]",
+      "summary": "Une attaque russe dans la nuit de lundi à mardi a fait au moins 18 morts et plus d'une centaine de blessés dans plusieurs villes du pays, dont Kiev, la capitale.",
+      "image": "https://www.franceinfo.fr/pictures/Y1XYJUsIii4JUlNaHBjpi3g6gtI/0x52:4300x2470/432x243/filters:format(jpg)/2026/06/02/6a1ed5bf8809e395531843.jpg",
+      "published_at": "2026-06-02T15:42:28+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "b9a8fe2a3f4a"
+    },
+    {
+      "title": "«Bouchra», un bijou d’animation à fleur de poils",
+      "url": "https://www.liberation.fr/culture/cinema/bouchra-un-bijou-danimation-a-fleur-de-poils-20260602_5R2YJ35YSZFERP52ADNF6C4GOQ/",
+      "summary": "Formellement inventif, d’une grande force sensuelle et mélancolique, le film de Meriem Bennani et Orian Barki explore les souvenirs d’un coming out à la lumière d’une relation mère-fille, dans un univers d’animaux.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-06-02T13:39:31+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "24b4ddb7f880"
     }
   ]
 }
