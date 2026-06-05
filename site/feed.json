@@ -1,14 +1,234 @@
 {
-  "generated_at": "2026-06-05T19:02:13.938407+00:00",
+  "generated_at": "2026-06-05T20:51:37.491665+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "EN DIRECT – Summer Game Fest 2026 : suivez la grande conférence de jeux vidéo",
+      "url": "https://www.numerama.com/pop-culture/2267837-summer-game-fest-2026-comment-voir-la-grande-conference-de-jeux-video.html",
+      "summary": "Intercalée entre le State of Play de Sony et le Xbox Games Showcase de Microsoft, la conférence d'ouverture du Summer Game Fest 2026 promet du lourd. Rendez-vous ce vendredi 5 juin, à une heure tardive.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-06-05T20:43:45+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "447b88083d54"
+    },
+    {
+      "title": "Foot : l'équipe de France s'impose en Pologne et se relance pour la qualification directe à la Coupe du monde 2027",
+      "url": "https://www.franceinfo.fr/sports/foot/equipe-de-france/foot-l-equipe-de-france-s-impose-en-pologne-et-se-relance-pour-la-qualification-directe-a-la-coupe-du-monde-2027_8047097.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les Bleues ont retrouvé le chemin de la victoire face à la Pologne, vendredi soir, et ont repris la première place après la défaite des Néerlandaises.",
+      "image": "https://www.franceinfo.fr/pictures/PiFYx2kFj6F1yzT-SdErdp7txz4/0x0:2816x1584/432x243/filters:format(jpg)/2026/06/05/6a2309edd2165564565161.jpg",
+      "published_at": "2026-06-05T22:33:39+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "935090c030c0"
+    },
+    {
+      "title": "Quatre députés noirs LFI reçoivent un courrier raciste, une enquête ouverte",
+      "url": "https://www.franceinfo.fr/societe/racisme/quatre-deputes-noirs-lfi-recoivent-un-courrier-raciste-une-enquete-ouverte_8047241.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le courrier reçu par les élus insoumis comporte des cases détournées de \"Tintin au Congo\". Il cite nommément Danièle Obono, Aly Diouara, Carlos Martens Bilongo et Nadège Abomangoli.",
+      "image": "https://www.franceinfo.fr/pictures/DT52AvKhPHQLAa9z18zYyK8ajpE/0x0:1024x576/432x243/filters:format(jpg)/2026/06/05/6a233244270d4125638668.jpg",
+      "published_at": "2026-06-05T22:33:30+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "1c877bbf17e4"
+    },
+    {
+      "title": "Un mort et quatre blessés dans l'attaque d'un bateau de pêche turc en mer Noire",
+      "url": "https://www.franceinfo.fr/monde/turquie/un-mort-et-quatre-blesses-dans-l-attaque-d-un-bateau-de-peche-turc-en-mer-noire_8047208.html#xtor=RSS-3-[lestitres]",
+      "summary": "Fin mai, la Turquie avait mis en garde contre une \"escalade incontrôlée\" dans la région de la mer Noire après une attaque de drone contre un cargo turc. La marine ukrainienne avait pointé du doigt la Russie.",
+      "image": "https://www.franceinfo.fr/pictures/gHNRV1havZ-ytWuKHzU02pOvDuA/0x106:1024x682/432x243/filters:format(jpg)/2026/06/05/6a23300c87fbe796388609.jpg",
+      "published_at": "2026-06-05T22:23:27+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "5f5a453da300"
+    },
+    {
+      "title": "L'armée américaine dit avoir arraisonné un pétrolier sanctionné lié à l'Iran dans l'océan Indien",
+      "url": "https://www.franceinfo.fr/monde/iran/l-armee-americaine-dit-avoir-arraisonne-un-petrolier-sanctionne-lie-a-l-iran-dans-l-ocean-indien_8047229.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les Etats-Unis imposent depuis avril un blocus des ports iraniens, détournant des dizaines de navires.",
+      "image": "https://www.franceinfo.fr/pictures/4672E_f6u-Upv75j1DstL6_-TfI/0x87:1024x663/432x243/filters:format(jpg)/2026/06/05/6a232e61c1f4c779314734.jpg",
+      "published_at": "2026-06-05T22:15:50+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "db98d5066dea"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : «Ce n’est pas votre pays», rappelle le président libanais à l’Iran",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-le-hezbollah-rejette-laccord-de-cessez-le-feu-avec-israel-20260605_U6WKS6TDSZEWBLK6IFRAGE3TJA/",
+      "summary": "Le chef du Hezbollah, Naïm Qassem, a rejeté jeudi l’accord de cessez-le-feu au Liban annoncé la veille. En parallèle, les combats se poursuivent dans le sud du pays.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-05T20:13:16+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "7da7ba49b3ff"
+    },
+    {
+      "title": "«Procédure bâillon» ou «attaque préméditée» : Kamel Daoud et «le Figaro» jugés pour diffamation",
+      "url": "https://www.liberation.fr/societe/police-justice/procedure-baillon-ou-attaque-premeditee-kamel-daoud-et-le-figaro-juges-pour-diffamation-20260605_7KZ2KCKY7NAXDHXN6CUBZCUAUM/",
+      "summary": "Poursuivi par Saâda Arbane, une Algérienne l’accusant d’avoir volé son histoire pour «Houris», le livre prix Goncourt 2024, l’écrivain était jugé ce vendredi 5 juin pour une interview publiée en 2025 par le quotidien. La relaxe a été requise.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-06-05T20:06:43+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "1523f85513ac"
+    },
+    {
+      "title": "Canal + : un syndicat s’insurge contre la diffusion fin juin de l’adaptation du «Suicide français» d’Eric Zemmour sur une chaîne du groupe",
+      "url": "https://www.liberation.fr/economie/medias/canal-un-syndicat-sinsurge-contre-la-diffusion-fin-juin-de-ladaptation-du-suicide-francais-deric-zemmour-sur-une-chaine-du-groupe-20260605_LEP5YPLEKREQBGYWEPYHPPYSUQ/",
+      "summary": "Les quatre épisodes adaptés du best-seller du président de Reconquête, sont au menu les 23 et 30 juin de la chaîne Planète +, propriété de Vincent Bolloré. + Libres, organisation syndicale autonome accuse sa direction de faire la campagne du probable candidat à la présidentielle.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-05T20:01:14+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "c0e8d1cf36f6"
+    },
+    {
+      "title": "Affaire Lyhanna : Gérald Darmanin «présente ses excuses à la famille de la victime au nom de la Justice»",
+      "url": "https://www.liberation.fr/societe/police-justice/en-direct-affaire-lyhanna-les-resultats-de-lautopsie-attendus-le-ministere-de-la-justice-fait-un-constat-dechec-20260605_3V4GBSKTWFCFHG2YMIT3MPKOXI/",
+      "summary": "Le ministre de la Justice était l’invité du 20 heures de TF1 ce vendredi, après que l’autopsie a confirmé que le corps de l’enfant retrouvé jeudi était bien celui de la collégienne disparue.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-05T20:01:09+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "68d759738c5e"
+    },
+    {
+      "title": "Poutine refuse la proposition Zelensky d’une rencontre en tête-à-tête, «la partie russe choisit encore la guerre», dénonce le président ukrainien",
+      "url": "https://www.liberation.fr/international/europe/poutine-refuse-la-proposition-zelensky-dune-rencontre-en-tete-a-tete-la-partie-russe-choisit-encore-la-guerre-denonce-le-president-ukrainien-20260605_GEUIVOYXZZGAZDTJC3RN4NCOII/",
+      "summary": "Vladimir Poutine a rejeté ce vendredi l’idée d’une telle entrevue proposée jeudi par le président ukrainien. Le président russe la juge «sans intérêt» tant qu’un accord final n’aura pas été négocié pour mettre fin à la guerre en Ukraine.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-05T19:58:18+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "2dbf727d6045"
+    },
+    {
+      "title": "Un agent français au Mali condamné à 20 ans de prison, Paris dénonce des \"accusations sans fondement\"",
+      "url": "https://www.franceinfo.fr/monde/afrique/mali/un-agent-francais-au-mali-condamne-a-20-ans-de-prison-paris-denonce-des-accusations-sans-fondement_8047211.html#xtor=RSS-3-[lestitres]",
+      "summary": "Selon le ministère des Affaires étrangères, le Français \"fait l'objet d'une procédure judiciaire comprenant\" des accusations infondées et \"tous les moyens sont mis en œuvre pour trouver une issue rapide à ce dossier\".",
+      "image": "https://www.franceinfo.fr/pictures/LZ_TyJee3BDntRVp_BDICOpMGI0/0x569:5472x3645/432x243/filters:format(jpg)/2025/08/17/000-426d8wr-68a1832047009490100828.jpg",
+      "published_at": "2026-06-05T21:53:46+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "f4b5ad2b5fd4"
+    },
+    {
+      "title": "Le corps retrouvé dans le Gers identifié comme celui de Lyhanna, Gérald Darmanin \"présente ses excuses à la famille\"",
+      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/gerald-darmanin-presente-ses-excuses-a-la-famille-de-lyhanna-et-denonce-des-defaillances-judiciaires_8047157.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Je suis furieux de cette situation\", a dénoncé le ministre sur TF1, faisant valoir \"un immense échec\" dans le traitement pénal du suspect.",
+      "image": "https://www.franceinfo.fr/pictures/xqJRXq3DUa7Mcm_QQV1qsvMlAgg/432x243/filters:format(jpg)/2026/06/05/6a22fbbd42a50062875135.jpg",
+      "published_at": "2026-06-05T21:48:19+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "b30559b3e83d"
+    },
+    {
+      "title": "\"J'ai directement sauté dans l'eau\" : des jeunes sauvent un couple bloqué dans une voiture immergée dans une rivière",
+      "url": "https://www.franceinfo.fr/faits-divers/j-ai-directement-saute-dans-l-eau-des-jeunes-sauvent-un-couple-bloque-dans-une-voiture-immergee-dans-une-riviere_8047196.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dans le nord de la France, l’intervention héroïque de plusieurs jeunes à la suite d’un accident a permis de sauver un homme et une femme bloqués dans leur véhicule immobilisé dans une rivière.",
+      "image": "https://www.franceinfo.fr/pictures/Sg5udSATcbJ0sr2KSKSgWDwt1oo/91x0:1003x513/432x243/filters:format(jpg)/2026/06/05/6a23264b72b3e805065961.jpg",
+      "published_at": "2026-06-05T21:44:09+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "89fc7edc0fba"
+    },
+    {
+      "title": "\"Affaire Lyhanna, le choc et les questions\" : regardez le documentaire de franceinfo consacré à la disparition de la collégienne et aux failles dans le dossier",
+      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/direct-affaire-lyhanna-le-choc-et-les-questions-regardez-le-documentaire-de-franceinfo-consacre-a-la-disparition-de-la-collegienne-et-aux-failles-dans-le-dossier_8046029.html#xtor=RSS-3-[lestitres]",
+      "summary": "Franceinfo retrace le déroulement de l'affaire, de la disparition de la jeune collégienne dans le Gers à la découverte de son corps, en décortiquant le passé du père de famille mis en examen lundi pour enlèvement et séquestration.",
+      "image": "https://www.franceinfo.fr/pictures/ahmgyTo4OE8yAL7UTgmMWlOlIVo/432x243/filters:format(jpg)/2026/06/03/6a205e3fb5b59773492170.jpg",
+      "published_at": "2026-06-05T21:40:37+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "060888c29ec3"
+    },
+    {
+      "title": "Faux documents, soupçons de négligence… L’enquête se resserre après l’incendie de Crans-Montana",
+      "url": "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/faux-documents-soupcons-de-negligence-l-enquete-se-resserre-apres-l-incendie-de-crans-montana_8047184.html#xtor=RSS-3-[lestitres]",
+      "summary": "Plusieurs mois après l’incendie meurtrier de Crans-Montana, les propriétaires du bar Le Constellation ont été entendus le vendredi 5 juin. Entre soupçons de faux documents, mise en cause des normes de sécurité et émotion des familles de victimes, l’enquête judiciaire se resserre autour des responsabilités.",
+      "image": "https://www.franceinfo.fr/pictures/sEV7Ewm8GpVkt3PWXwsyuHy4u44/0x23:823x486/432x243/filters:format(jpg)/2026/06/05/6a23242b99e9f189402669.jpg",
+      "published_at": "2026-06-05T21:32:25+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "973ca941c8a1"
+    },
+    {
+      "title": "Guerre en Ukraine : Vladimir Poutine refuse l’invitation de Volodymyr Zelensky",
+      "url": "https://www.lemonde.fr/videos/video/2026/06/05/guerre-en-ukraine-vladimir-poutine-refuse-l-invitation-de-volodymyr-zelensky_6698029_1669088.html",
+      "summary": "Volodymyr Zelensky a envoyé une lettre à Vladimir Poutine lui proposant une rencontre pour mettre fin à la guerre en Ukraine.",
+      "image": "https://img.lemde.fr/2026/06/05/458/0/5500/2750/644/322/60/0/83aeba9_ftp-1-bsxshdvbzrqu-24da4df07eb648a8bfb999e98bf34162-0-15ce458bf1e24df191f1003b637639a7.jpg",
+      "published_at": "2026-06-05T21:30:46+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "c5a84c38cfd6"
+    },
+    {
+      "title": "Deux hommes soupçonnés d'avoir séquestré et torturé un adolescent de 16 ans interpellés à Nantes sur fond de narcotrafic",
+      "url": "https://www.franceinfo.fr/societe/drogue/deux-hommes-soupconnes-d-avoir-sequestre-et-torture-un-adolescent-de-16-ans-interpelles-a-nantes-sur-fond-de-narcotrafic_8047181.html#xtor=RSS-3-[lestitres]",
+      "summary": "La victime est un garçon originaire d'Angers, en fugue. Il a été découvert peu avant 2 heures du matin dans un lieu connu pour être un point de deal, blessé, atteint par balle à un mollet.",
+      "image": "https://www.franceinfo.fr/pictures/0jKWH5jZlpt-65Tpm3zufbS4mgU/0x104:5568x3236/432x243/filters:format(jpg)/2026/06/05/6a2322004a485378292534.jpg",
+      "published_at": "2026-06-05T21:23:17+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "e852751d9748"
+    },
+    {
+      "title": "Canal+ : un syndicat du groupe dit refuser de faire la « communication » d’Eric Zemmour en vue de 2027",
+      "url": "https://www.lemonde.fr/actualite-medias/article/2026/06/05/canal-un-syndicat-du-groupe-dit-refuser-de-faire-la-communication-d-eric-zemmour-en-vue-de-2027_6698026_3236.html",
+      "summary": "La diffusion sur une chaîne du groupe de l’adaptation du livre « Le Suicide français » d’Eric Zemmour, probable candidat à l’élection présidentielle, a suscité l’indignation du syndicat autonome + Libres.",
+      "image": "https://img.lemde.fr/2025/03/24/1129/0/2509/1254/644/322/60/0/0a827ac_ftp-import-images-1-vpkkqdmmsat3-5406738-01-06.jpg",
+      "published_at": "2026-06-05T21:15:15+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "48a79ddfd757"
+    },
+    {
+      "title": "Narcobanditisme : le clan Yoda condamné à Marseille",
+      "url": "https://www.lemonde.fr/societe/article/2026/06/05/narcobanditisme-le-clan-yoda-condamne-a-marseille_6698025_3224.html",
+      "summary": "Félix Bingui dit « le Chat », chef de l’équipe qui ambitionnait de dominer le commerce de stupéfiants à Marseille avant une confrontation qui lui sera fatale avec le groupe concurrent de la DZ Mafia, a été condamné à douze ans de prison.",
+      "image": "https://img.lemde.fr/2026/06/05/200/0/6768/3384/644/322/60/0/9776317_upload-1-wjuhdtqo06ea-000-b36j2x2.jpg",
+      "published_at": "2026-06-05T21:14:41+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "50c1fae43138"
+    },
+    {
+      "title": "Affaire Lyhanna : les leçons d’une tragédie",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/affaire-lyhanna-les-lecons-dune-tragedie-20260605_JQN54PRSXFDFRADTVECRIR2VDA/",
+      "summary": "La mort de l’enfant de 11 ans n’est malheureusement pas la première du genre. Mais cette affaire où les dysfonctionnements sont légion doit permettre une prise de conscience globale sur la protection de l’enfance.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-06-05T19:07:48+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "ebf77b44664e"
+    },
+    {
+      "title": "Mort de Lyhanna : malgré les «condoléances» de Lecornu et les «excuses» de Darmanin, l’exécutif accable l’institution judiciaire",
+      "url": "https://www.liberation.fr/politique/mort-de-lyhanna-malgre-les-condoleances-de-lecornu-et-les-excuses-de-darmanin-lexecutif-accable-linstitution-judiciaire-20260605_ALNN76WJG5HCXCWMAYFHDODZRE/",
+      "summary": "Depuis la disparition de la collégienne de 11 ans, le gouvernement pointe des responsabilités individuelles et défend le budget alloué à la justice pour mieux se couvrir.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-05T19:03:56+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "38d6907bff03"
+    },
+    {
+      "title": "Incendie de Crans-Montana : de nouvelles charges contre Jessica Moretti, soupçonnée d’avoir fourni une fausse facture concernant la mousse",
+      "url": "https://www.liberation.fr/societe/police-justice/incendie-de-crans-montana-de-nouvelles-charges-contre-jessica-moretti-soupconnee-davoir-fourni-une-fausse-facture-20260605_BLH5MQVSK5E3BDIYNN3HZPVKIA/",
+      "summary": "En marge d’une audition très attendue du couple de Français, la justice du canton du Valais a annoncé ce vendredi 5 juin que la cogérante du bar le Constellation était soupçonnée d’avoir présenté une fausse facture pour la mousse acoustique.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-05T19:00:40+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "5c0e2210440c"
+    },
     {
       "title": "Présidentielle 2027 : Sébastien Lecornu tiendra une conférence de presse la semaine prochaine sur les ingérences étrangères",
       "url": "https://www.lemonde.fr/politique/article/2026/06/05/presidentielle-2027-sebastien-lecornu-tiendra-une-conference-de-presse-la-semaine-prochaine-sur-les-ingerences-etrangeres_6698023_823448.html",
       "summary": "Elle sera précédée d’une réunion des forces politiques et parlementaires concernées. Le parquet de Paris avait ouvert à la fin mai une enquête sur la possible ingérence d’une entreprise israélienne aux dépens de candidats insoumis aux élections municipales.",
       "image": "https://img.lemde.fr/2026/06/05/1/0/2835/1417/644/322/60/0/eae3594_ftp-1-y1lyzxo0xkxg-5231526-01-06.jpg",
       "published_at": "2026-06-05T20:59:50+02:00",
-      "source": "Le Monde Politique",
+      "source": "Le Monde Inter",
       "category": "Politique",
       "id": "601830413cc3"
     },
@@ -21,16 +241,6 @@
       "source": "Libération",
       "category": "Économie",
       "id": "87ecff8336a2"
-    },
-    {
-      "title": "EN DIRECT - Affaire Lyhanna : Gérald Darmanin «présente ses excuses à la famille de la victime au nom de la Justice»",
-      "url": "https://www.liberation.fr/societe/police-justice/en-direct-affaire-lyhanna-les-resultats-de-lautopsie-attendus-le-ministere-de-la-justice-fait-un-constat-dechec-20260605_3V4GBSKTWFCFHG2YMIT3MPKOXI/",
-      "summary": "Le ministre de la Justice était l’invité du 20 heures de TF1 ce vendredi, après que l’autopsie a confirmé que le corps de l’enfant retrouvé jeudi était bien celui de la collégienne disparue.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-05T18:48:32+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "68d759738c5e"
     },
     {
       "title": "«On fait comme on peut pour se reconstruire ici» : en Arménie, les déplacés du Haut-Karabakh abandonnés et désabusés",
@@ -47,7 +257,7 @@
       "url": "https://www.lemonde.fr/societe/live/2026/06/05/en-direct-affaire-lyhanna-gerald-darmanin-presente-ses-excuses-a-la-famille-pour-les-defaillances-de-la-justice_6697909_3224.html",
       "summary": "Le corps retrouvé dans le Gers est bien celui de la fillette disparue, et les causes de la mort ne sont pas encore connues, a annoncé le procureur. Le ministre de la justice proposera des « sanctions » si les faits sont « confirmés »",
       "image": "https://img.lemde.fr/2026/06/05/49/0/5792/2896/644/322/60/0/aa263f7_ftp-1-z5unxsefoxhn-5235436-01-06.jpg",
-      "published_at": "2026-06-05T20:34:03+02:00",
+      "published_at": "2026-06-05T20:34:00+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "fb32da07e1f9"
@@ -63,7 +273,7 @@
       "id": "6a2d441142f3"
     },
     {
-      "title": "Dans le Gers, un territoire à vif après la confirmation de la mort de Lyhanna : «Je suis hors de moi, j’en ai chialé en l’apprenant»",
+      "title": "Le Gers, territoire à vif après la confirmation de la mort de Lyhanna : «Je suis hors de moi, j’en ai chialé en l’apprenant»",
       "url": "https://www.liberation.fr/societe/police-justice/dans-le-gers-un-territoire-a-vif-apres-la-confirmation-de-la-mort-de-lyhanna-je-suis-hors-de-moi-jen-ai-chiale-en-lapprenant-20260605_SI2KDXJAYBGANNSVSH5OA2W5SI/",
       "summary": "Ce vendredi 5 juin, les médecins légistes ont confirmé que le corps retrouvé dans un silo agricole était bien celui de l’enfant de 11 ans. A Montestruc-sur-Gers, où vivait le principal suspect, et à Fleurance, les habitants sont partagés entre sidération et colère contre l’institution judiciaire.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
@@ -91,216 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "49244696f886"
-    },
-    {
-      "title": "Foot : l'équipe de France s'impose en Pologne et se relance pour la qualification directe à la Coupe du monde 2027",
-      "url": "https://www.franceinfo.fr/sports/foot/equipe-de-france/foot-l-equipe-de-france-s-impose-en-pologne-et-se-relance-pour-la-qualification-directe-a-la-coupe-du-monde-2027_8047097.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les Bleues ont retrouvé le chemin de la victoire face à la Pologne, vendredi soir.",
-      "image": "https://www.franceinfo.fr/pictures/PiFYx2kFj6F1yzT-SdErdp7txz4/0x0:2816x1584/432x243/filters:format(jpg)/2026/06/05/6a2309edd2165564565161.jpg",
-      "published_at": "2026-06-05T20:02:08+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "935090c030c0"
-    },
-    {
-      "title": "Suspicion de crime homophobe à Metz : La France insoumise souhaite une minute de silence à l'Assemblée nationale pour la victime, Noahm",
-      "url": "https://www.franceinfo.fr/societe/homophobie/suspicion-de-crime-homophobe-a-metz-la-france-insoumise-souhaite-une-minute-de-silence-a-l-assemblee-nationale-pour-la-victime-noahm_8047130.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Il faut absolument qu'on montre une opposition très ferme [à ce crime] et cette minute de silence montrerait que la représentation nationale saisit l'enjeu\", explique vendredi à ICI Lorraine Charlotte Leduc, élue d'opposition insoumise à la municipalité de Metz.",
-      "image": "https://www.franceinfo.fr/pictures/mO267H6BJse_sRBzL79tDoP2Tjs/0x460:5000x3272/432x243/filters:format(jpg)/2026/06/05/6a230e4edac96579022870.jpg",
-      "published_at": "2026-06-05T20:00:01+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "188c3ddaf713"
-    },
-    {
-      "title": "Cape Fear sur Apple TV+ : on a vu le remake stressant des Nerfs à Vif avec Javier Bardem et Amy Adams",
-      "url": "https://www.numerama.com/pop-culture/2267917-cape-fear-sur-apple-tv-on-a-vu-le-remake-stressant-des-nerfs-a-vif-avec-javier-bardem-et-amy-adams.html",
-      "summary": "Attendue sur Apple TV+ le 5 juin, la série Cape Fear met en scène Javier Bardem dans le rôle de Max Cady, un détenu libéré de prison et bien décidé à se venger de son avocate. Ce remake du film Les Nerfs à Vif de Martin Scorsese était-il bien nécessaire ?",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-06-05T18:00:00+00:00",
-      "source": "Numerama",
-      "category": "Culture",
-      "id": "eb73a1978d27"
-    },
-    {
-      "title": "L'ex-prince Andrew sous-louait des cottages dans une résidence où lui ne payait pas de loyer",
-      "url": "https://www.franceinfo.fr/societe/familles-royales/l-ex-prince-andrew-sous-louait-des-cottages-dans-une-residence-ou-lui-ne-payait-pas-de-loyer_8047127.html#xtor=RSS-3-[lestitres]",
-      "summary": "Pour occuper un manoir de 30 pièces, Andrew avait initialement payé une prime d'un million de livres, et s'était engagé à dépenser 7,5 millions de livres en travaux, en échange d'un bail de 75 ans.",
-      "image": "https://www.franceinfo.fr/pictures/9SBFeDaaIzSVikSmSufpVH2cu_E/0x53:1024x629/432x243/filters:format(jpg)/2026/06/05/6a230e56c637a033851078.jpg",
-      "published_at": "2026-06-05T19:59:04+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "5dc935bcea15"
-    },
-    {
-      "title": "\"Pendant toute la journée, je n'ai pas pu manger\", a expliqué Matteo Arnaldi après avoir déclaré forfait pour la demi-finale de Roland-Garros",
-      "url": "https://www.franceinfo.fr/roland-garros/videos/video-pendant-toute-la-journee-je-n-ai-pas-pu-manger-a-explique-matteo-arnaldi-apres-avoir-declare-forfait-pour-la-demi-finale-de-roland-garros_8047115.html#xtor=RSS-3-[lestitres]",
-      "summary": "Trente minutes avant l'entrée théorique des joueurs pour la deuxième demi-finale masculine de Roland-Garros, Matteo Arnaldi a déclaré forfait, vendredi.",
-      "image": "https://www.franceinfo.fr/pictures/hH7F5SvqfG7gudbHaQo7SmuDk2E/0x0:1024x576/432x243/filters:format(jpg)/2026/06/05/6a230c1f6f8b1607180553.jpg",
-      "published_at": "2026-06-05T19:55:09+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "a9367fe64f93"
-    },
-    {
-      "title": "Mort de Lyhanna : des \"responsabilités\" sur d'éventuels dysfonctionnements \"ne peuvent être mentionnées\" ou sanctionnées \"à ce stade\", soulignent les procureurs",
-      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/mort-de-lyhanna-des-responsabilites-sur-d-eventuels-dysfonctionnement-ne-peuvent-etre-mentionnees-ou-sanctionnees-a-ce-stade-soulignent-les-procureurs_8047094.html#xtor=RSS-3-[lestitres]",
-      "summary": "La procureure d'Auch a été pointée du doigt par une source gouvernementale, qui a déploré qu'elle n'ait pas appliqué la circulaire pénale priorisant les enfants victimes.",
-      "image": "https://www.franceinfo.fr/pictures/w1CUfXAH5kHneoxTyIkyeYm7zZE/0x0:1022x575/432x243/filters:format(jpg)/2026/06/05/6a230be8da409031252490.jpg",
-      "published_at": "2026-06-05T19:52:09+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "a82f6f64f960"
-    },
-    {
-      "title": "Au Mali, un agent de la DGSE condamné à vingt ans de prison par la junte au pouvoir",
-      "url": "https://www.lemonde.fr/international/article/2026/06/05/au-mali-un-agent-de-la-dgse-condamne-a-vingt-ans-de-prison-par-la-junte-au-pouvoir_6698019_3210.html",
-      "summary": "Yann V., qui était dûment enregistré comme agent de la DGSE auprès des autorités maliennes, a été arrêté en août 2025 à Bamako, accusé d’avoir voulu orchestrer une « tentative de déstabilisation » contre la junte du général Assimi Goïta.",
-      "image": "https://img.lemde.fr/2026/06/05/693/0/6268/3134/644/322/60/0/ca091ce_upload-1-loebnbieecwv-000-63fu2zp.jpg",
-      "published_at": "2026-06-05T19:49:26+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "744e6243abda"
-    },
-    {
-      "title": "Incendie de Crans-Montana : la propriétaire du bar à nouveau inculpée, pour faux dans les titres",
-      "url": "https://www.lemonde.fr/international/article/2026/06/05/incendie-de-crans-montana-la-proprietaire-du-bar-a-nouveau-inculpee-pour-faux-dans-les-titres_6698018_3210.html",
-      "summary": "Le couple de Français propriétaires du bar Le Constellation était auditionné vendredi, et l’épouse s’est vu notifier d’un nouveau chef d’inculpation. En cause, d’après plusieurs avocats des parties civiles, une facture liée à la mousse insonorisante au plafond du sous-sol.",
-      "image": "https://img.lemde.fr/2026/06/05/416/0/5000/2500/644/322/60/0/70b8e72_ftp-1-iwgvr6noqsqg-5230647-01-06.jpg",
-      "published_at": "2026-06-05T19:47:49+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "c8fb20db7197"
-    },
-    {
-      "title": "«Je n’arrive ni à me déplacer, ni à manger, ni à boire» : Matteo Arnaldi contraint à l’abandon avant sa demi-finale à Roland-Garros",
-      "url": "https://www.liberation.fr/sports/tennis/je-narrive-ni-a-me-deplacer-ni-a-manger-ni-a-boire-matteo-arnaldi-contraint-a-labandon-avant-sa-demi-finale-a-roland-garros-20260605_VOBP6ST62NH4NAHRHNDHMN3PXI/",
-      "summary": "L’Italien, 104e mondial, n’a pas pu défendre ses chances vendredi, contraint de se retirer pour sa première à ce stade de la compétition en Grand Chelem. Son compatriote, Flavio Cobolli, en profite pour filer en finale contre Alexander Zverev.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-05T17:41:37+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "d26f937b1b58"
-    },
-    {
-      "title": "Chikungunya : comment la Guyane française veut éviter un scénario réunionnais",
-      "url": "https://www.lemonde.fr/planete/article/2026/06/05/chikungunya-comment-la-guyane-francaise-veut-eviter-un-scenario-reunionnais_6698017_3244.html",
-      "summary": "La Guyane est touchée par la première épidémie de chikungunya sur le territoire français depuis celle de La Réunion. En tirant parti de ce qui fut observé dans l’île de l’océan Indien, les autorités sanitaires prennent les devants et offrent gratuitement la vaccination pour aplanir la courbe.",
-      "image": "https://img.lemde.fr/2026/06/02/475/0/5702/2851/644/322/60/0/963b2cd_ftp-1-7k1vh2gbeci8-5201948-01-06.jpg",
-      "published_at": "2026-06-05T19:39:05+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "a809c86423cf"
-    },
-    {
-      "title": "Roland-Garros 2026 : Matteo Arnaldi déclare forfait avant sa demi-finale en raison d'un virus, Flavio Cobolli qualifié sans jouer pour défier Alexander Zverev en finale",
-      "url": "https://www.franceinfo.fr/roland-garros/roland-garros-2026-matteo-arnaldi-declare-forfait-avant-sa-demi-finale-en-raison-d-un-virus-flavio-cobolli-qualifie-sans-jouer-pour-defier-alexander-zverev-en-finale_8046986.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le 104e mondial, qui a profité de l'abandon de Matteo Berrettini en quarts de finale, ne disputera pas la demi-finale prévue contre son autre compatriote Flavio Cobolli, vendredi.",
-      "image": "https://www.franceinfo.fr/pictures/Xi1pFflF-mYHMzJ0tmnfYq0G4eo/0x53:1024x629/432x243/filters:format(jpg)/2026/06/05/6a22fb3480bb9661016533.jpg",
-      "published_at": "2026-06-05T19:38:13+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "3fdb7d6b233c"
-    },
-    {
-      "title": "Guerre en Ukraine : Vladimir Poutine ne voit \"pas l'intérêt\" de rencontrer Volodymyr Zelensky, au lendemain de la main tendue de son homologue ukrainien",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-drone-maritime-a-explose-dans-le-port-roumain-de-constanta-au-bord-de-la-mer-noire-sans-faire-de-blesses_8046110.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Je ne vois pas l'intérêt d'une rencontre. Cela n'a d'intérêt que pour la partie ukrainienne afin d'arrêter l'avancée de nos forces armées\", a déclaré le président russe.",
-      "image": "https://www.franceinfo.fr/pictures/L4EDyGzEMpTHNrhi-yP1gxeNRGU/0x0:2373x1334/432x243/filters:format(jpg)/2026/06/05/6a22edf59285e157698911.jpg",
-      "published_at": "2026-06-05T19:36:14+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "bebbdb2d3b59"
-    },
-    {
-      "title": "Une salariée de RTE menacée de licenciement pour le port d’un foulard sur son lieu de travail, selon la CGT",
-      "url": "https://www.liberation.fr/economie/social/une-salariee-de-rte-menacee-de-licenciement-pour-le-port-dun-foulard-sur-son-lieu-de-travail-selon-la-cgt-20260605_FIJEKNC5YJEWVG4YA6QEM5T6EQ/",
-      "summary": "La direction du gestionnaire des lignes à haute tension réfute toute «position idéologique» et assure que «l’obligation de neutralité» à laquelle est soumise une entreprise publique comme RTE, a été a été formalisée dans règlement intérieur.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-06-05T17:33:45+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "e024c1bb0743"
-    },
-    {
-      "title": "Patrick Drahi : après Paris, le Proche-Orient express",
-      "url": "https://www.liberation.fr/economie/patrick-drahi-apres-paris-le-proche-orient-express-20260605_MAAYUWQR65HGTNO5VGHFG6ME2Q/",
-      "summary": "Alors qu’il finalise la vente de SFR, le milliardaire semble avoir tiré un trait sur l’Europe, comme sur ses activités dans le secteur des télécoms. Installé à Tel-Aviv en Israël, il s’investit désormais économiquement dans la région.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-06-05T17:32:38+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "397529f7acf2"
-    },
-    {
-      "title": "Le jeu gagnant des joueurs de tennis sur les réseaux sociaux",
-      "url": "https://www.liberation.fr/sports/tennis/developper-sa-visibilite-en-ligne-est-devenu-indispensable-le-jeu-gagnant-des-joueurs-de-tennis-sur-les-reseaux-sociaux-20260605_Z5PPXXNYAFATVF4EXHM5YR4YRA/",
-      "summary": "Caroline Garcia, Gaël Monfils, Jannik Sinner, Aryna Sabalenka… Une bonne partie du circuit s’est lancée dans des concepts plus ou moins originaux sur les réseaux sociaux. Une façon de maîtriser leur image et de développer de juteux partenariats.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-05T17:27:24+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "d8b93df9e604"
-    },
-    {
-      "title": "Anthropic alerte sur la menace « d’IA capables de se fabriquer elles-mêmes » et appelle à une pause dans la course à l’intelligence artificielle",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/05/anthropic-alerte-sur-la-menace-d-ia-capables-de-se-fabriquer-elles-memes-et-appelle-a-une-pause-dans-la-course-a-l-intelligence-artificielle_6698015_3234.html",
-      "summary": "L’entreprise américaine dirigée par Dario Amodei publie un nouvel essai alertant sur les dangers de l’intelligence artificielle, pointant la possibilité, à terme, de modèles qui « s’auto-améliorent ».",
-      "image": "https://img.lemde.fr/2026/06/05/133/0/8012/4006/644/322/60/0/df8594c_upload-1-jxlhqf3msoz4-000-986d39r.jpg",
-      "published_at": "2026-06-05T19:26:24+02:00",
-      "source": "Le Monde",
-      "category": "Tech",
-      "id": "22ae7cc3c9e0"
-    },
-    {
-      "title": "Victoire du PSG : mamie Mireille et les «barbares», par Daniel Schneidermann",
-      "url": "https://www.liberation.fr/idees-et-debats/opinions/victoire-du-psg-mamie-mireille-et-les-barbares-par-daniel-schneidermann-20260606_O5N6T77EAZBEDCYRBV2POWIFYQ/",
-      "summary": "Retour sur les images relayées sur les réseaux sociaux de la nonagénaire exfiltrée gaiement loin des gaz lacrymo par un groupe de jeunes supporteurs, pendant que les chaînes de télévision chassaient le feu de poubelle.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-05T17:24:05+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "9d8910c52f0e"
-    },
-    {
-      "title": "Quels sont les 20 départements en zone d’alerte financière ?",
-      "url": "https://www.lemonde.fr/politique/article/2026/06/05/quels-sont-les-20-departements-en-zone-d-alerte-financiere_6698014_823448.html",
-      "summary": "La hausse des taxes sur l’immobilier a amélioré les comptes des départements en 2025. Une vingtaine d’entre eux restent sur la corde raide, selon les données de Bercy obtenues par « Le Monde ». La situation est particulièrement tendue pour la Gironde.",
-      "image": "https://img.lemde.fr/2026/06/05/464/0/5568/2784/644/322/60/0/a71f73e_upload-1-svfkhmembwnc-000-346u8pf.jpg",
-      "published_at": "2026-06-05T19:20:16+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "41988c8bbe53"
-    },
-    {
-      "title": "Roland-Garros 2026 : Flavio Cobolli rejoint Alexander Zverev en finale après le forfait de Matteo Arnaldi",
-      "url": "https://www.lemonde.fr/sport/article/2026/06/05/roland-garros-2026-flavio-cobolli-rejoint-alexander-zverev-en-finale-apres-le-forfait-de-matteo-arnaldi_6698013_3242.html",
-      "summary": "L’Italien, qui « souffre d’un virus », a été contraint de jeter l’éponge, vendredi, quelques minutes avant d’affronter son compatriote sur le court Philippe-Chatrier.",
-      "image": "https://img.lemde.fr/2026/06/03/48/0/2767/1383/644/322/60/0/7944556_ftp-1-meeddoh0j0d5-2026-06-03t205513z-594716517-up1em631ld0dd-rtrmadp-3-tennis-frenchopen.JPG",
-      "published_at": "2026-06-05T19:16:36+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "934041cc8d12"
-    },
-    {
-      "title": "Mort de Marjane Satrapi : Pénélope Bagieu raconte au « Monde » l’importance de « Persepolis » dans le monde de la BD",
-      "url": "https://www.lemonde.fr/videos/video/2026/06/05/mort-de-marjane-satrapi-penelope-bagieu-nous-parle-de-l-importance-de-persepolis-dans-le-monde-de-la-bd_6698012_1669088.html",
-      "summary": "Marjane Satrapi, l’autrice franco-iranienne de la BD et du film « Persepolis », est morte à 56 ans.",
-      "image": "https://img.lemde.fr/2007/05/24/50/0/600/300/644/322/60/0/ill_914143_cannes-persepolis.gif",
-      "published_at": "2026-06-05T19:16:32+02:00",
-      "source": "Le Monde",
-      "category": "Culture",
-      "id": "eced58ec39ce"
-    },
-    {
-      "title": "Martin Scorsese collabore avec une entreprise d’IA et défend son usage pour générer des storyboards",
-      "url": "https://www.liberation.fr/culture/cinema/martin-scorsese-collabore-avec-une-entreprise-dia-et-defend-son-usage-pour-generer-des-storyboards-20260605_JEBIMFABPJBQTNEZMFSN5ATCRM/",
-      "summary": "La start-up allemande Black Forest Labs a annoncé mardi 2 juin l’arrivée du cinéaste technophile comme conseiller, qui veut «repousser les limites de la créativité», générant des réactions courroucées dans la profession.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-06-05T17:09:55+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "66a562460bff"
     }
   ]
 }
