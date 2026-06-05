@@ -1,306 +1,306 @@
 {
-  "generated_at": "2026-06-05T04:40:41.865666+00:00",
+  "generated_at": "2026-06-05T08:49:30.030893+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Roumanie : un drone maritime explose dans le port roumain de Constanta",
+      "url": "https://www.liberation.fr/international/europe/roumanie-un-drone-maritime-explose-dans-le-port-roumain-de-constanta-20260605_NG6IRR4WQREN3HGQ737JUWL7EY/",
+      "summary": "Selon les premières informations, aucune personne n’aurait été blessée. Cette ville du sud-est du pays donne sur la mer Noire, où les forces ukrainiennes et russes s’affrontent.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-06-05T08:46:24+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "bd11521791d5"
+    },
+    {
+      "title": "Anthropic, l'un des fleurons de l'intelligence artificielle, suggère à ses rivaux une pause concertée afin que l'humanité s'adapte",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/la-start-up-americaine-anthropic-un-des-feurons-de-l-intelligence-artificielle-suggere-a-ses-rivaux-une-pause-concertee-du-developpement-de-cette-technologie-afin-que-l-humanite-s-adapte_8045825.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'entreprise américaine plaide pour la création d'un système de coordination mondiale, permettant aux acteurs du secteur de se mettre d'accord pour en ralentir ou suspendre le développement, sans craindre qu'un rival ne prenne les devants.",
+      "image": "https://www.franceinfo.fr/pictures/cQsomvOdVgH1SdH5E4-bGqEFYEk/0x11:1024x587/432x243/filters:format(jpg)/2026/06/05/6a2287809917c839497637.jpg",
+      "published_at": "2026-06-05T10:40:37+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "fb32e5289210"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : en dépit du cessez-le-feu, l'armée israélienne annonce des frappes imminentes sur plusieurs localités du sud du Liban",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-armee-israelienne-annonce-qu-elle-va-attaquer-trois-localites-libanaises-au-nord-du-fleuve-litani_8045990.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'armée israélienne a notamment appelé les habitants de trois villages du sud du Liban à évacuer : Arnaya (Arnaba), Aanqoun et Kfar Fila.",
+      "image": "https://www.franceinfo.fr/pictures/nVoeMiOStb2n4YLFqv7bf__r2Ms/0x5:1024x581/432x243/filters:format(jpg)/2026/06/05/6a227ac1de2a0844939177.jpg",
+      "published_at": "2026-06-05T10:38:38+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "4cc72b9db9db"
+    },
     {
       "title": "\"Plus jeunes et plus dangereux\" : l'alerte de la DGSI sur la menace masculiniste",
       "url": "https://www.franceinfo.fr/enquetes-franceinfo/enquete-plus-jeunes-et-plus-dangereux-l-alerte-de-la-dgsi-sur-la-menace-masculiniste_8045222.html#xtor=RSS-3-[lestitres]",
       "summary": "Une \"potentialité terroriste forte\", des profils radicalisés plus nombreux, plus jeunes et plus dangereux. La frange radicale de la mouvance masculiniste préoccupe la Direction générale de la sécurité intérieure.",
       "image": "https://www.franceinfo.fr/pictures/mtdTjmfpO9pLLy_snKPkGiXSRhM/0x9:2100x1191/432x243/filters:format(jpg)/2026/06/04/6a21b29a25112800649267.jpg",
-      "published_at": "2026-06-05T06:37:02+02:00",
+      "published_at": "2026-06-05T10:37:37+02:00",
       "source": "France Info",
       "category": "Sport",
       "id": "19e38e49bcdd"
     },
     {
-      "title": "EN DIRECT, guerre en Ukraine : un mort dans une frappe russe sur Kherson",
-      "url": "https://www.lemonde.fr/international/live/2026/06/05/en-direct-guerre-en-ukraine-un-mort-dans-une-frappe-russe-sur-kherson_6695365_3210.html",
-      "summary": "Ce bombardement, qui a tué un homme de 75 ans, intervient alors que le président ukrainien, Volodymyr Zelensky, a proposé, dans une lettre, des discussions directes à son homologue russe, Vladimir Poutine. Le Kremlin a répondu qu’une rencontre à Moscou était toujours possible.",
-      "image": "https://img.lemde.fr/2026/05/18/256/0/4300/2150/644/322/60/0/1dc3a3b_upload-1-hpi1bkirwkuj-oleshky-29.jpg",
-      "published_at": "2026-06-05T06:31:20+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "f969eadb88a7"
-    },
-    {
-      "title": "Sous la menace constante de l’armée israélienne, les hôpitaux du Sud-Liban paient un lourd tribut : «Cette guerre doit cesser aujourd’hui, pas demain»",
-      "url": "https://www.liberation.fr/international/sous-la-menace-constante-de-larmee-israelienne-les-hopitaux-du-sud-liban-paient-un-lourd-tribut-cette-guerre-doit-cesser-aujourdhui-pas-demain-20260605_WEVMKBCQ6NDIFC7TZJ7REZAA2A/",
-      "summary": "Après la frappe israélienne qui a endommagé, lundi, l’hôpital Jabal Amel à Tyr, le personnel des établissements de santé s’inquiètent des combats qui continuent de faire rage, sans signe de trêve.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-06-05T04:21:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "82cccc94850b"
-    },
-    {
-      "title": "À Aubusson, l'artiste contemporaine Hélène Delprat termine la tapisserie de Bayeux dans un atelier où règne le silence, le temps suspendu et une œuvre pour l'histoire",
-      "url": "https://www.franceinfo.fr/culture/arts-expos/art-contemporain/reportage-a-aubusson-l-artiste-contemporaine-helene-delprat-termine-la-tapisserie-de-bayeux-dans-un-atelier-ou-regne-le-silence-le-temps-suspendu-et-une-uvre-pour-l-histoire_8039441.html#xtor=RSS-3-[lestitres]",
-      "summary": "Au moment où les détails du voyage vers l'Angleterre de la tapisserie de Bayeux se précisent – avant qu'elle soit exposée au British Museum en juillet –, la pièce manquante de cette œuvre se prépare à Aubusson.",
-      "image": "https://www.franceinfo.fr/pictures/o6t_a7OH7QkEMX6G1hkkACf3xg4/0x0:1600x900/432x243/filters:format(jpg)/2026/06/02/6a1e9430d958d626277699.jpg",
-      "published_at": "2026-06-05T06:10:02+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "2dc89dc11cb0"
-    },
-    {
-      "title": "Disparition de Lyhanna : pourquoi le principal suspect n'avait-il pas encore été entendu dans l'enquête pour viols sur mineure qui le visait ?",
-      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/disparition-de-lyhanna-pourquoi-le-principal-suspect-n-avait-il-pas-encore-ete-entendu-dans-l-enquete-pour-viols-sur-mineure-qui-le-visait_8045030.html#xtor=RSS-3-[lestitres]",
-      "summary": "Alors qu'un corps a été retrouvé dans l'affaire de la disparition de Lyhanna, des questions surgissent sur le suivi de Jérôme Barella, déjà visé par une plainte pour des faits de viols entre septembre 2024 et mai 2025.",
-      "image": "https://www.franceinfo.fr/pictures/Rg4YwwGzZw6HMlmyjWlVSvJXB-M/0x105:1024x681/432x243/filters:format(jpg)/2026/06/04/6a21a057ca48c111146053.jpg",
-      "published_at": "2026-06-05T06:05:21+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "c6989ec99375"
-    },
-    {
-      "title": "Volodymyr Zelensky propose à Vladimir Poutine une rencontre directe pour mettre fin à la guerre en Ukraine",
-      "url": "https://www.lemonde.fr/international/article/2026/06/05/volodymyr-zelensky-propose-a-vladimir-poutine-une-rencontre-directe-pour-mettre-fin-a-la-guerre-en-ukraine_6697898_3210.html",
-      "summary": "Dans une lettre adressée directement à son homologue russe, le président ukrainien suggère l’ouverture de négociations directes dans un pays tiers, ainsi qu’un cessez-le-feu complet pendant ces pourparlers. Le Kremlin a répondu qu’une rencontre à Moscou était toujours possible.",
-      "image": "https://img.lemde.fr/2026/06/03/335/0/4028/2014/644/322/60/0/d59f94f_ftp-1-xgfrnqf18ulz-5215037-01-06.jpg",
-      "published_at": "2026-06-05T06:05:02+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "15b052ba05db"
-    },
-    {
-      "title": "De la disparition de Lyhanna à la découverte d'un corps d'enfant, l'insoutenable semaine de recherches et d'enquête dans le Gers",
-      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/recit-de-la-disparition-de-lyhanna-a-la-decouverte-d-un-corps-d-enfant-l-insoutenable-semaine-de-recherches-et-d-enquete-dans-le-gers_8044358.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un corps a été retrouvé jeudi dans une exploitation agricole du Gers, \"porteur de vêtements similaires\" à ceux que portait la collégienne de 11 ans au moment de sa disparition six jours plus tôt. Le profil du suspect arrêté, visé par au moins cinq procédures judiciaires de violences sexuelles sur des mineures, est au cœur des investigations.",
-      "image": "https://www.franceinfo.fr/pictures/REKJX4Ufru2oFFeSJ4AnMLVd_RM/0x78:1024x654/432x243/filters:format(jpg)/2026/06/03/6a205f754af88554495782.jpg",
-      "published_at": "2026-06-05T06:04:43+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "1bea5716a1b0"
-    },
-    {
-      "title": "\"S'ils ont vraiment besoin de soldats, je suis prêt\" : ces Iraniens de France qui ont signé la campagne \"Janfada\" lancée par Téhéran pour défendre leur pays",
-      "url": "https://www.franceinfo.fr/monde/iran/s-ils-ont-vraiment-besoin-de-soldats-je-suis-pret-ces-iraniens-de-france-qui-ont-signe-la-campagne-janfada-lancee-par-teheran-pour-defendre-leur-pays_7982450.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cet appel au volontariat a été initié par les autorités de Téhéran pour rassembler la société autour de la notion de \"sacrifice\". En France, certains ressortissants ont signé cet appel aux objectifs encore flous.",
-      "image": "https://www.franceinfo.fr/pictures/HZEgz6uknG5FT_zRHih-VF8FdNU/0x486:5184x3402/432x243/filters:format(jpg)/2026/06/04/6a21734190171603964512.jpg",
-      "published_at": "2026-06-05T06:03:55+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "07bbbbf3b2d4"
-    },
-    {
-      "title": "Après le refus de l’offre de rachat du milliardaire ultraconservateur Bill Ackman, Universal Music entre en zone de turbulences",
-      "url": "https://www.liberation.fr/economie/economie-numerique/apres-le-refus-de-loffre-de-rachat-du-milliardaire-ultraconservateur-bill-ackman-universal-music-entre-en-zone-de-turbulences-20260605_ZKVGFDEBJVCW3IEBWGS7IIUSBQ/",
-      "summary": "Quelques jours après s’être vu refuser sa proposition de rachat par le groupe Bolloré, le magnat américain a cédé les parts qu’il détenait dans le leader mondial de l’industrie musicale, plongeant la maison de disques dans l’inconnu.",
+      "title": "L’ex-top model Carré Otis porte plainte pour viols contre l’ancien directeur de l’agence Elite Europe",
+      "url": "https://www.liberation.fr/societe/lex-top-model-carre-otis-porte-plainte-pour-viols-contre-lancien-directeur-de-lagence-elite-europe-20260605_2PZGHOO7PFD5VJUXOYZ5SEJYA4/",
+      "summary": "L’avocat de l’association Innocence en danger, Mathias Darmon, assure que les faits sont prescrits mais espère pouvoir mobiliser d’autres victimes mineures au moment des faits.",
       "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-06-05T04:03:00+00:00",
+      "published_at": "2026-06-05T08:36:26+00:00",
       "source": "Libération",
       "category": "Économie",
-      "id": "c31b60ae5f68"
+      "id": "14be40d3129f"
     },
     {
-      "title": "Après trois ans de stagnation, les investissements climatiques frémissent en Europe en réaction à la guerre au Moyen-Orient",
-      "url": "https://www.lemonde.fr/planete/article/2026/06/05/apres-trois-ans-de-stagnation-les-investissements-climatiques-fremissent-en-europe-en-reaction-a-la-guerre-au-moyen-orient_6697893_3244.html",
-      "summary": "L’Institut pour l’économie du climat (I4CE) publie son état des lieux annuel des dépenses en faveur de la transition énergétique, qui révèle des résultats contrastés selon les secteurs en 2025. Le blocage du détroit d’Ormuz pourrait entraîner un rebond en 2026.",
-      "image": "https://img.lemde.fr/2026/06/04/282/0/3385/1692/644/322/60/0/705c9e0_upload-1-mumpgzipnvcq-000-63774zp.jpg",
-      "published_at": "2026-06-05T06:00:25+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "bcb305d9cbad"
-    },
-    {
-      "title": "Coupe du monde 2026 : « Le sport est entré dans une ère où il ne sert plus seulement à divertir ou à rassembler, mais aussi à influencer, peser, rivaliser »",
-      "url": "https://www.lemonde.fr/idees/article/2026/06/05/coupe-du-monde-2026-le-sport-est-entre-dans-une-ere-ou-il-ne-sert-plus-seulement-a-divertir-ou-a-rassembler-mais-aussi-a-influencer-peser-rivaliser_6697892_3232.html",
-      "summary": "Dans une tribune au « Monde », le directeur de l’Ecole de guerre économique, Christian Harbulot, et l’entrepreneur Michael Tapiro expliquent la manière dont le sport est devenu un outil géopolitique particulièrement efficace, mis au service de ceux qui le financent.",
-      "image": "https://img.lemde.fr/2026/06/01/125/0/1500/750/644/322/60/0/79e76bb_ftp-1-jv7v4by1hjeh-430409-3473891.jpg",
-      "published_at": "2026-06-05T06:00:24+02:00",
-      "source": "Le Monde Inter",
-      "category": "Sport",
-      "id": "0384abc233fa"
-    },
-    {
-      "title": "\"Il faut resserrer davantage les contrôles aux frontières\" : onze pays réclament des restrictions en matière de visas pour la Russie",
-      "url": "https://www.franceinfo.fr/monde/europe/il-faut-resserrer-davantage-les-controles-aux-frontieres-onze-pays-reclament-des-restrictions-en-matiere-de-visas-pour-la-russie_8044799.html#xtor=RSS-3-[lestitres]",
-      "summary": "En 2022, après l’invasion russe de l’Ukraine, l’Union européenne avait suspendu son accord facilitant l’obtention de visas pour les citoyens russes. La Commission européenne avait aussi interdit en novembre 2025 la délivrance de visas à multiples entrées. Aujourd'hui, une dizaine de pays européens réclament l’introduction de nouvelles mesures pour limiter le nombre des touristes russes en Europe. ",
-      "image": "https://www.franceinfo.fr/pictures/Ifh-JFdTxxulTq5SjMjOKRZvjTE/0x0:1440x810/432x243/filters:format(jpg)/2026/06/04/6a218419bd492981123907.jpg",
-      "published_at": "2026-06-05T06:00:03+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "6ad8c7a3829d"
-    },
-    {
-      "title": "La menace terroriste masculiniste en France",
-      "url": "https://www.franceinfo.fr/societe/justice/la-menace-terroriste-masculiniste-en-france_8044982.html#xtor=RSS-3-[lestitres]",
-      "summary": "En juillet 2025, près de Saint-Étienne, un jeune homme de 18 ans se dirige vers son lycée avec deux couteaux dans son sac pour s'en prendre à des jeunes femmes. Il est arrêté avant de passer à l’acte et mis en examen pour \"association de malfaiteurs terroriste criminelle\". Interrogé, il se revendique d’une mouvance masculiniste. Quel est ce courant qui affirme que les hommes seraient menacés par l",
-      "image": "https://www.franceinfo.fr/pictures/qVY8J_yyZqAhhHFU0Cc3nuZSOPQ/0x0:900x1600/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/06/04/6a2195d84c998220472163.jpg",
-      "published_at": "2026-06-05T06:00:03+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "e39473e3447a"
-    },
-    {
-      "title": "Roland-Garros 2026 : Jakub Mensik, du bord du précipice au dernier carré du tournoi",
-      "url": "https://www.franceinfo.fr/roland-garros/roland-garros-2026-jakub-mensik-du-bord-du-precipice-au-dernier-carre-du-tournoi_8043272.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Tchèque, dernier rescapé d'une \"Next Next Gen\" qui a brillé à Paris, s’est qualifié pour les demi-finales après un début de tournoi en forme de parcours du combattant.",
-      "image": "https://www.franceinfo.fr/pictures/cf3kOSLcUtfu-oRyfHr5BXtFhKg/0x16:3000x1703/432x243/filters:format(jpg)/2026/06/03/6a20428c7f3b0553545914.jpg",
-      "published_at": "2026-06-05T06:00:01+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "ef7f389cfe69"
-    },
-    {
-      "title": "«Désarmer l’IA» : les impasses coupables du pape",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/desarmer-lia-les-impasses-coupables-du-pape-20260605_MZLZMYG2XZFXZKRKA2VSU4VBAA/",
-      "summary": "Si l’encyclique de Léon XIV sur l’IA a le mérite de poser le débat sur le terrain civilisationnel, plusieurs manquements, notamment concernant l’école ou le travail en limitent la portée, déplore le philosophe Eric Sadin.",
+      "title": "EN DIRECT - Affaire Lyhanna : les résultats de l’autopsie attendus, le ministère de la Justice fait un «constat d’échec»",
+      "url": "https://www.liberation.fr/societe/police-justice/en-direct-affaire-lyhanna-les-resultats-de-lautopsie-attendus-le-ministere-de-la-justice-fait-un-constat-dechec-20260605_3V4GBSKTWFCFHG2YMIT3MPKOXI/",
+      "summary": "Un corps pouvant être celui de la collégienne de 11 ans disparue à Fleurance (Gers) a été retrouvé jeudi. Jérôme B., père de 41 ans d’une amie de Lyhanna, est mis en examen. Une réunion est prévue ce vendredi à Matignon.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-05T04:00:00+00:00",
+      "published_at": "2026-06-05T08:34:38+00:00",
       "source": "Libération",
       "category": "Politique",
-      "id": "136a8787955b"
+      "id": "68d759738c5e"
     },
     {
-      "title": "EN DIRECT, Moyen-Orient : huit morts dans une attaque israélienne sur le Liban, malgré l’annonce d’un cessez-le-feu ; un soldat israélien tué par un missile du Hezbollah",
-      "url": "https://www.lemonde.fr/international/live/2026/06/05/en-direct-moyen-orient-huit-morts-dans-une-attaque-israelienne-sur-le-liban-apres-l-annonce-du-cessez-le-feu-un-soldat-israelien-tue-par-un-missile-du-hezbollah_6697888_3210.html",
-      "summary": "Le chef du Hezbollah, Naïm Qassem, a rejeté l’accord de cessez-le-feu conditionnel au Liban annoncé mercredi à Washington, réclamant un retrait total des forces israéliennes et menaçant le nord d’Israël de nouvelles attaques.",
-      "image": "https://img.lemde.fr/2026/06/04/615/0/6000/3000/644/322/60/0/bb41e0c_ftp-1-eeldxb7i57ab-f9d02f00570e4b72aec1bdd88834da49-2-66a6ccb3ff17413a9e497e1ccb48b751.jpg",
-      "published_at": "2026-06-05T05:57:34+02:00",
+      "title": "Portal 2 est la plus grande source d’inspiration du réalisateur de Backrooms",
+      "url": "https://www.numerama.com/pop-culture/2267901-portal-2-est-la-plus-grande-source-dinspiration-du-realisateur-de-backrooms.html",
+      "summary": "Backrooms est sorti depuis quelques jours aux États-Unis et bat déjà des records, s’inscrivant comme l’un des films d’horreur les plus vus de l’année. Son réalisateur, Kane Parsons, revient sur ses inspirations, notamment du côté de l’écurie de Valve.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-06-05T08:33:54+00:00",
+      "source": "Numerama",
+      "category": "Culture",
+      "id": "928735d4d623"
+    },
+    {
+      "title": "Les Chinois rechignent à consommer, un problème pour l’économie mondiale",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/05/les-chinois-rechignent-a-consommer-un-probleme-pour-l-economie-mondiale_6697918_3234.html",
+      "summary": "La frilosité des 1,4 milliard de citoyens chinois à consommer s’est installée. La crise du secteur immobilier des années 2020, qui a englouti une bonne part de leurs économies, la surproduction industrielle qui freine les salaires et le faible niveau de couverture sociale se traduisent par une plus grande prudence dans les dépenses, et par un niveau d’épargne élevé.",
+      "image": "https://img.lemde.fr/2026/06/04/15/0/5066/2533/644/322/60/0/78b38b3_upload-1-aojqst6xzjpt-000-b4269z7.jpg",
+      "published_at": "2026-06-05T10:30:02+02:00",
       "source": "Le Monde Inter",
-      "category": "International",
-      "id": "fad6f4ca47f4"
+      "category": "Économie",
+      "id": "af95129173bc"
     },
     {
-      "title": "Présidentielle 2027 : à Saint-Denis, Jean-Luc Mélenchon mise sur une démonstration de force pour mettre la pression sur le reste de la gauche",
-      "url": "https://www.lemonde.fr/politique/article/2026/06/05/presidentielle-2027-a-saint-denis-jean-luc-melenchon-mise-sur-une-demonstration-de-force-pour-mettre-la-pression-sur-le-reste-de-la-gauche_6697854_823448.html",
-      "summary": "Le chef de file de La France insoumise tiendra, dimanche, un premier grand meeting de campagne dans la ville de Seine-Saint-Denis, conquise par sa formation aux municipales de mars avec l’élection de Bally Bagayoko.",
-      "image": "https://img.lemde.fr/2026/06/04/461/0/4252/2126/644/322/60/0/e928242_upload-1-dwz5eucnc5rk-meetingmelenchon-13.jpg",
-      "published_at": "2026-06-05T05:30:12+02:00",
+      "title": "Congrès de la CGT : Sophie Binet réélue et confortée dans sa stratégie",
+      "url": "https://www.lemonde.fr/politique/article/2026/06/05/congres-de-la-cgt-sophie-binet-reelue-et-confortee-dans-sa-strategie_6697917_823448.html",
+      "summary": "Malgré des critiques de certaines fédérations sur les choix politiques passés et sur l’intersyndicale, la feuille de route de la secrétaire générale, reconduite pour un deuxième mandat, a été validée.",
+      "image": "https://img.lemde.fr/2024/04/17/2295/0/4598/2299/644/322/60/0/2e67852_5221900-01-06.jpg",
+      "published_at": "2026-06-05T10:28:18+02:00",
       "source": "Le Monde Politique",
       "category": "Politique",
-      "id": "eaedb0e5f007"
+      "id": "d44555518940"
     },
     {
-      "title": "De la réticence au refus, ces cadres qui vivent mal l’injonction d’utiliser l’IA",
-      "url": "https://www.lemonde.fr/emploi/article/2026/06/05/de-la-reticence-au-refus-ces-cadres-qui-vivent-mal-l-injonction-d-utiliser-l-ia_6697853_1698637.html",
-      "summary": "Un cadre sur deux dit utiliser l’intelligence artificielle au moins une fois par semaine, selon l’Association pour l’emploi des cadres. Mais certains mettent en cause l’intérêt de l’IA ou son impact sur le travail et l’environnement, au point, parfois, de la refuser en bloc.",
-      "image": "https://img.lemde.fr/2026/06/04/221/0/2138/1069/644/322/60/0/c290f81_upload-1-7tsnbarlcr3o-image7.jpeg",
-      "published_at": "2026-06-05T05:30:11+02:00",
-      "source": "Le Monde",
-      "category": "Tech",
-      "id": "b8b2d498f04d"
-    },
-    {
-      "title": "Guerre en Ukraine : le jour où la Russie s’est tiré un missile Orechnik sur elle-même",
-      "url": "https://www.lemonde.fr/international/article/2026/06/05/guerre-en-ukraine-le-jour-ou-la-russie-s-est-tire-un-missile-orechnik-sur-elle-meme_6697855_3210.html",
-      "summary": "Le président russe, Vladimir Poutine, a prétendu, jeudi 4 juin, qu’un tir raté de cet armement balistique à portée intermédiaire sur une ville de l’est de l’Ukraine occupée par son armée, le 23 mai, était en réalité « expérimental ».",
-      "image": "https://img.lemde.fr/2026/06/04/166/0/2000/1000/644/322/60/0/92b0e59_upload-1-ygbzra1yai8m-000-b3vt4nv.jpg",
-      "published_at": "2026-06-05T05:30:06+02:00",
+      "title": "La France et l’Allemagne proposent aux Balkans un système de préadhésion graduelle à l’Union européenne",
+      "url": "https://www.lemonde.fr/international/article/2026/06/05/la-france-et-l-allemagne-proposent-aux-balkans-un-systeme-de-preadhesion-graduelle-a-l-union-europeenne_6697916_3210.html",
+      "summary": "Pour répondre à l’impatience grandissante de pays comme le Monténégro ou l’Ukraine face à la lenteur du processus d’intégration, Emmanuel Macron et Friedrich Merz tentent de relancer la dynamique d’élargissement.",
+      "image": "https://img.lemde.fr/2026/06/04/921/0/7639/3819/644/322/60/0/689f6da_ftp-1-4obhwjpda9ji-5225328-01-06.jpg",
+      "published_at": "2026-06-05T10:23:24+02:00",
       "source": "Le Monde Inter",
       "category": "International",
-      "id": "841cd145dced"
+      "id": "9d4df85eca63"
     },
     {
       "title": "\"Je ne vais pas tout remettre en cause\", prévient Didier Deschamps après la défaite de l'équipe de France contre la Côte d'Ivoire",
       "url": "https://www.franceinfo.fr/sports/foot/equipe-de-france/je-ne-vais-pas-tout-remettre-en-cause-previent-didier-deschamps-apres-la-defaite-de-l-equipe-de-france-contre-la-cote-d-ivoire_8045480.html#xtor=RSS-3-[lestitres]",
       "summary": "Le sélectionneur des Bleus s'est montré très calme et peu inquiet malgré le résultat, jeudi, à Nantes (1-2), à moins de deux semaines du début de la Coupe du monde (11 juin au 19 juillet).",
       "image": "https://www.franceinfo.fr/pictures/2uCDhwruv9NxP4b0Pj60u7q4kXA/0x0:4086x2298/432x243/filters:format(jpg)/2026/06/04/6a21f2f4c218c829990207.jpg",
-      "published_at": "2026-06-05T05:30:01+02:00",
+      "published_at": "2026-06-05T10:22:01+02:00",
       "source": "France Info",
       "category": "Politique",
       "id": "b71d8959c65b"
     },
     {
-      "title": "Supermalprodelica, Lispector, Wu-Lu... Qu’est-ce qu’on écoute cette semaine ?",
-      "url": "https://www.liberation.fr/culture/musique/supermalprodelica-lispector-wu-lu-quest-ce-quon-ecoute-cette-semaine-20260605_SVJG4R6QG5BLZG2VV6OBP2K46I/",
-      "summary": "Pop, rock, musiques électroniques… Chaque semaine, «Libé» vous aide à vous y retrouver dans l’actu des sorties musicales.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-06-05T03:22:00+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "91a94aecda10"
-    },
-    {
-      "title": "Disparition de Lyhanna : «Si on ne parle pas des auteurs, on continuera à avoir des enfants victimes»",
-      "url": "https://www.liberation.fr/societe/police-justice/disparition-de-lyhanna-si-on-ne-parle-pas-des-auteurs-on-continuera-a-avoir-des-enfants-victimes-20260605_FT25HSCX55FNZCLTW5URZZKAUU/",
-      "summary": "Alors qu’un corps a été découvert près du lieu de la disparition de la jeune Lyhanna ce jeudi 4 juin, l’association La Voix de l’enfant appelle à accélérer le traitement judiciaire des affaires et renforcer la prévention. Elle souhaite que le certificat d’honorabilité soit mis en œuvre en urgence dans tous les métiers en lien avec des enfants.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-05T03:10:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "407cf8f3167f"
-    },
-    {
-      "title": "Pour les 250 ans de l’indépendance des Etats-Unis, la fabuleuse histoire du Gratitude Train ressuscitée",
-      "url": "https://www.lemonde.fr/international/article/2026/06/05/pour-les-250-ans-de-l-independance-des-etats-unis-la-fabuleuse-histoire-du-gratitude-train-ressuscitee_6697820_3210.html",
-      "summary": "Un vieux wagon amiénois, restauré pour l’occasion, va faire revivre l’épopée du Train de la reconnaissance, qui, chargé de cadeaux, embarqua au Havre, le 14 janvier 1949, pour New York. Le récit d’une chaîne de solidarité autant picarde que transatlantique.",
-      "image": "https://img.lemde.fr/2026/06/03/1115/0/5656/2828/644/322/60/0/9f83018_upload-1-8rutavbhlztm-ll-gratitude-train-05.jpg",
-      "published_at": "2026-06-05T05:00:22+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "29876ec29397"
-    },
-    {
-      "title": "A Cuba, Washington étrangle Gaesa, le conglomérat économique de l’armée",
-      "url": "https://www.lemonde.fr/international/article/2026/06/05/a-cuba-washington-etrangle-gaesa-le-conglomerat-economique-de-l-armee_6697818_3210.html",
-      "summary": "L’administration Trump a contraint les entreprises étrangères opérant dans l’île avec la holding cubaine à cesser leurs activités au 5 juin en les menaçant de sanctions. Opaque et tentaculaire, Gaesa a étendu ses activités au tourisme, après avoir mis la main sur l’énergie, les télécommunications, les ports, les mines ou encore les banques.",
-      "image": "https://img.lemde.fr/2026/06/04/333/0/5000/2500/644/322/60/0/6072804_upload-1-rcso2fimdzsl-photocuba.jpg",
-      "published_at": "2026-06-05T05:00:17+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "7594ed932e22"
-    },
-    {
-      "title": "Au Liban, à l’intérieur de la « ligne jaune », la vie sous occupation israélienne dans le village de Kfar Chouba",
-      "url": "https://www.lemonde.fr/international/article/2026/06/05/au-liban-a-l-interieur-de-la-ligne-jaune-la-vie-sous-occupation-israelienne-dans-le-village-de-kfar-chouba_6697817_3210.html",
-      "summary": "Dans l’un des rares villages situé à l’intérieur de la « ligne jaune », une zone tampon occupée par l’armée israélienne, disparitions et restrictions de déplacements inquiètent et empoisonnent la vie des habitants.",
-      "image": "https://img.lemde.fr/2026/06/03/501/0/4000/2000/644/322/60/0/0327d31_upload-1-tdj3t4u81n6m-raf-liban-lignejaune-001.JPG",
-      "published_at": "2026-06-05T05:00:14+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "f3767bc80f10"
-    },
-    {
-      "title": "En Arménie, des élections législatives cruciales sous la pression de la Russie",
-      "url": "https://www.lemonde.fr/international/article/2026/06/05/en-armenie-des-elections-legislatives-cruciales-sous-la-pression-de-la-russie_6697819_3210.html",
-      "summary": "Irrité par le rapprochement de cette ex-république soviétique avec l’Union européenne, Moscou multiplie les intimidations et les mesures de rétorsion à l’approche du scrutin, le 7 juin. Le premier ministre, Nikol Pachinian, est donné favori.",
-      "image": "https://img.lemde.fr/2026/06/04/619/0/4500/2250/644/322/60/0/d8c63b2_upload-1-17ko15jddcki-armeniaelections-ericgrigorian23.jpg",
-      "published_at": "2026-06-05T05:00:11+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "c72ec4ee2aa8"
-    },
-    {
-      "title": "« Canon français et free-parties n’ont rien à voir mais on veut les interdire. C’est le signe que la France ne va pas fort »",
-      "url": "https://www.lemonde.fr/idees/article/2026/06/05/canon-francais-et-free-parties-n-ont-rien-a-voir-mais-on-veut-les-interdire-c-est-le-signe-que-la-france-ne-va-pas-fort_6697814_3232.html",
-      "summary": "A condition de respecter la loi et quelques règles de vie commune, les deux formats festifs devraient pouvoir exister, remarque, dans sa chronique, Michel Guerrin, rédacteur en chef au « Monde ».",
-      "image": "https://img.lemde.fr/2026/05/09/205/0/5808/2904/644/322/60/0/14bcc0a_ftp-1-t95a8n1kvnao-5986289-01-06.jpg",
-      "published_at": "2026-06-05T05:00:00+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "767b3567a949"
-    },
-    {
-      "title": "Nuit blanche 2026 : nos dix idées de sorties",
-      "url": "https://www.lemonde.fr/culture/article/2026/06/05/nuit-blanche-2026-nos-dix-idees-de-sorties_6697781_3246.html",
-      "summary": "La DJ Barbara Butch orchestre la 25ᵉ édition de la manifestation francilienne, samedi 6 juin, placée sous le signe de l’amour. Découvrez notre sélection.",
-      "image": "https://img.lemde.fr/2026/06/02/60/0/1536/768/644/322/60/0/ea296f2_upload-1-ps56msbgzeyy-mathias-kiss-liquid-mirror-2026-alice-heart-adagp-paris-2026.jpg",
-      "published_at": "2026-06-05T04:30:09+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "28d055a8e79c"
-    },
-    {
-      "title": "L’ancien Musée égyptien du Caire, un écrin qui luit encore",
-      "url": "https://www.lemonde.fr/afrique/article/2026/06/05/l-ancien-musee-egyptien-du-caire-un-ecrin-qui-luit-encore_6697748_3212.html",
-      "summary": "L’établissement historique, ouvert en 1902 en plein centre-ville, n’a pas fermé après l’inauguration, en 2025, du Grand musée égyptien, à côté des pyramides. Dépouillé notamment des vestiges du tombeau de Toutankhamon, il contient encore des pièces de grande valeur.",
-      "image": "https://img.lemde.fr/2026/06/05/520/0/6240/3120/644/322/60/0/1c4cf8d_upload-1-4eciy9dgs12p-000-9qw3ke.jpg",
-      "published_at": "2026-06-05T03:30:11+02:00",
-      "source": "Le Monde Inter",
-      "category": "Culture",
-      "id": "70acfdb2d9a4"
-    },
-    {
-      "title": "France-Côte d’Ivoire : défaits, les Bleus brutalement rappelés à l’ordre avant la Coupe du monde 2026",
-      "url": "https://www.lemonde.fr/sport/article/2026/06/05/france-cote-d-ivoire-defaits-les-bleus-brutalement-rappeles-a-l-ordre-avant-la-coupe-du-monde-2026_6697747_3242.html",
-      "summary": "Les coéquipiers de Kylian Mbappé, considérés comme des favoris pour le Mondial nord-américain, du 11 juin au 19 juillet, se sont inclinés face aux Eléphants, jeudi soir, à Nantes. Une défaite en forme de « piqûre de rappel », selon Didier Deschamps.",
-      "image": "https://img.lemde.fr/2026/06/04/273/0/4689/2344/644/322/60/0/997298d_ftp-1-4catkigyi7ad-d7440c8a9f6a4f9383e0e5241e7bf87a-0-81eb4b14589b41cb96451e4d69c294c1.jpg",
-      "published_at": "2026-06-05T03:30:10+02:00",
-      "source": "Le Monde",
+      "title": "Jeux d'hiver Alpes 2030 : le pôle glace transféré à Lyon, nouvelle certitude d'une carte des sites qui sera \"actée\" le 19 juin",
+      "url": "https://www.franceinfo.fr/les-jeux-olympiques/alpes-francaises-2030/jeux-d-hiver-alpes-2030-le-pole-glace-transfere-a-lyon-nouvelle-certitude-d-une-carte-des-sites-qui-sera-actee-le-19-juin_8046026.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le bureau exécutif a donné, jeudi, un mandat au comité organisateur pour poursuivre les négociations avec la métropole de Lyon afin de finaliser l'accueil des compétitions.",
+      "image": "https://www.franceinfo.fr/pictures/6ZhDnBs_4x8yhiboCXQx95Dwkxg/0x0:4865x2737/432x243/filters:format(jpg)/2026/06/05/6a2281e35d3c1637312990.jpg",
+      "published_at": "2026-06-05T10:18:46+02:00",
+      "source": "France Info",
       "category": "Sport",
-      "id": "cbfe6f10eaa1"
+      "id": "a2861aa3ce97"
+    },
+    {
+      "title": "L’Odyssée : ce site propose une expérience inédite pour comparer les différents formats d’image (IMAX, 35 mm, etc)",
+      "url": "https://www.numerama.com/pop-culture/2267889-lodyssee-ce-site-propose-une-experience-inedite-pour-comparer-les-differents-formats-dimage-imax-35-mm-etc.html",
+      "summary": "À l’approche de la sortie de son nouveau blockbuster, Christopher Nolan offre aux cinéphiles une expérience interactive inédite. Le site officiel de L'Odyssée intègre désormais un lecteur de bande-annonce d’un nouveau genre, permettant de basculer en temps réel d'un format d'affichage à un autre.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-05T08:16:29+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "2bfacc01c67e"
+    },
+    {
+      "title": "Surprise ! Le Tesla Model Y gagne une nouvelle couleur, mais sur une version bien spécifique",
+      "url": "https://www.numerama.com/vroom/2267885-surprise-le-tesla-model-y-gagne-une-nouvelle-couleur-mais-sur-une-version-bien-specifique.html",
+      "summary": "Tesla lance une nouvelle teinte pour son Model Y : le bleu Côtier. Celle-ci est uniquement disponible sur la version d'entrée de gamme Propulsion. De quoi se distinguer des couleurs basiques blanc, noir et gris.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-06-05T08:16:22+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "0df73345d068"
+    },
+    {
+      "title": "La Steam Machine sortira cet été, mais on ne connait toujours pas le prix",
+      "url": "https://www.numerama.com/tech/2267855-la-steam-machine-sortira-cet-ete-mais-on-ne-connait-toujours-pas-le-prix.html",
+      "summary": "Valve a enfin donné quelques précisions sur le lancement de la Steam Machine. Elle est donc attendue pour cet été, à un prix encore inconnu.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-06-05T08:15:11+00:00",
+      "source": "Numerama",
+      "category": "International",
+      "id": "3acae00a6549"
+    },
+    {
+      "title": "Souveraineté numérique : un réveil douloureux pour l’UE",
+      "url": "https://www.lemonde.fr/idees/article/2026/06/05/souverainete-numerique-un-reveil-douloureux-pour-l-ue_6697915_3232.html",
+      "summary": "La Commission européenne a dévoilé, le 3 juin, un paquet législatif pour pallier sa dépendance stratégique en matière technologique. Les défis sont immenses mais les Vingt-Sept ne peuvent plus tergiverser au moment où l’IA prend une importance grandissante à une vitesse stupéfiante.",
+      "image": "https://img.lemde.fr/2026/05/12/339/0/7551/3775/644/322/60/0/c7e860b_ftp-1-6y8b0mepn54c-7625c75df07e42d297c599f7002185b0-0-d288c7e88b9140ebb5134940aabb51e2.jpg",
+      "published_at": "2026-06-05T10:15:07+02:00",
+      "source": "Le Monde Inter",
+      "category": "Tech",
+      "id": "c105863f64e1"
+    },
+    {
+      "title": "La fusée lourde Falcon Heavy va revoler bien plus tôt qu’on ne le pense",
+      "url": "https://www.numerama.com/sciences/2267873-la-fusee-lourde-falcon-heavy-va-revoler-bien-plus-tot-quon-ne-le-pense.html",
+      "summary": "La rapidité avec laquelle la Nasa a achevé la conception du télescope Nancy Grace Roman bouscule un peu le calendrier à venir de SpaceX. La fusée lourde Falcon Heavy, qui vole rarement, retrouvera ainsi très rapidement le pas de tir.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-06-05T08:01:48+00:00",
+      "source": "Numerama",
+      "category": "Culture",
+      "id": "4facbff5495d"
+    },
+    {
+      "title": "Epidémie d’Ebola : la laborieuse mise en place de la riposte dans l’est de la RDC",
+      "url": "https://www.lemonde.fr/afrique/article/2026/06/05/epidemie-d-ebola-la-laborieuse-mise-en-place-de-la-riposte-dans-l-est-de-la-rdc_6697912_3212.html",
+      "summary": "Alors que les livraisons de matériel se multiplient et que les capacités de dépistage augmentent, de nombreux obstacles persistent, notamment sur le plan logistique et dans l’adhésion des populations.",
+      "image": "https://img.lemde.fr/2026/06/02/524/0/3600/1800/644/322/60/0/ba9b5ce_ftp-1-iwvspjvfn0z4-5205109-01-06.jpg",
+      "published_at": "2026-06-05T10:00:04+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "2918d2a4394b"
+    },
+    {
+      "title": "Du chocolat de Dubaï au Labubu, «la mode s’enracine dans l’ennui collectif»",
+      "url": "https://www.liberation.fr/lifestyle/mode/du-chocolat-de-dubai-au-labubu-la-mode-senracine-dans-lennui-collectif-20260605_VXNNRQECO5C4TP4XY2XUVGAREQ/",
+      "summary": "Dans son dernier ouvrage, Benjamin Simmenauer, philosophe et professeur à l’Institut français de la mode, se penche sur le cas du phénomène de mode.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-05T08:00:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "8a956494e12d"
+    },
+    {
+      "title": "Cette promotion ramène la PS5 quasiment à son prix de lancement de 2020",
+      "url": "https://www.numerama.com/tech/2264725-cette-promotion-ramene-la-ps5-quasiment-a-son-prix-de-lancement-de-2020.html",
+      "summary": "[Deal du jour] Après avoir subi une hausse de 150 €, la PlayStation 5 est devenue nettement moins abordable. Heureusement, il reste de rares opportunités qui valent le détour, à l'image de cette offre disponible chez ce site marchand.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-06-05T07:55:45+00:00",
+      "source": "Numerama",
+      "category": "Sport",
+      "id": "5b49825eb204"
+    },
+    {
+      "title": "De la disparition de Lyhanna à la découverte d'un corps d'enfant, l'insoutenable semaine de recherches et d'enquête dans le Gers",
+      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/recit-de-la-disparition-de-lyhanna-a-la-decouverte-d-un-corps-d-enfant-l-insoutenable-semaine-de-recherches-et-d-enquete-dans-le-gers_8044358.html#xtor=RSS-3-[lestitres]",
+      "summary": "Un corps a été retrouvé jeudi dans une exploitation agricole du Gers, \"porteur de vêtements similaires\" à ceux que portait la collégienne de 11 ans au moment de sa disparition six jours plus tôt. Le profil du suspect arrêté, visé par au moins cinq procédures judiciaires de violences sexuelles sur des mineures, est au cœur des investigations.",
+      "image": "https://www.franceinfo.fr/pictures/REKJX4Ufru2oFFeSJ4AnMLVd_RM/0x78:1024x654/432x243/filters:format(jpg)/2026/06/03/6a205f754af88554495782.jpg",
+      "published_at": "2026-06-05T09:55:16+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "1bea5716a1b0"
+    },
+    {
+      "title": "Présidentielle 2027 : à gauche, il y a le PS et LFI, les autres candidats \"n'ont pas de capacité à être au second tour\", estime François Hollande",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-a-gauche-il-y-a-le-ps-et-lfi-les-autres-candidats-n-ont-pas-de-capacite-a-etre-au-second-tour-estime-francois-hollande_8046035.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'ancien président est opposé à une primaire à gauche. \"Il eut fallu faire un programme commun\" avant que certains ne partent en campagne, souligne-t-il. Il espère qu'un candidat sera désigné avant décembre au PS. Il annoncera alors s'il est candidat.",
+      "image": "https://www.franceinfo.fr/pictures/NGATMA2WHIhUUrJNvu6v9JYq238/0x53:1024x629/432x243/filters:format(jpg)/2026/06/05/6a227e29b7708095011566.jpg",
+      "published_at": "2026-06-05T09:44:45+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "387018a05be4"
+    },
+    {
+      "title": "Donald Trump débloque 700 millions de dollars pour relancer le secteur charbon, malgré l'alerte des associations environnementales",
+      "url": "https://www.franceinfo.fr/monde/usa/donald-trump-debloque-700-millions-de-dollars-pour-relancer-le-secteur-charbon-malgre-l-alerte-des-associations-environnementales_8045963.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le président américain a annoncé un important investissement dans la production de charbon, pour construire notamment deux nouvelles centrales et un terminal pétrolier capable d'exporter du charbon.",
+      "image": "https://www.franceinfo.fr/pictures/yyQ-nsgQktpR6NHUdIQe4Fl89Nc/0x279:5363x3296/432x243/filters:format(jpg)/2026/06/05/6a2272f664c6f687373120.jpg",
+      "published_at": "2026-06-05T09:43:10+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a3b4de7c04e0"
+    },
+    {
+      "title": "Narcotrafic : ces commerces qui blanchissent l'argent de la drogue",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-drogue-ces-commerces-qui-blanchissent_8041268.html#xtor=RSS-3-[lestitres]",
+      "summary": "Fausses factures, achats en liquide, clients fictifs... Partout en France, certains commerces sont devenus des machines à blanchir l’argent de la drogue. \"Envoyé spécial\" a filmé plusieurs narcotrafiquants qui dévoilent comment ils utilisent ces petites structures.",
+      "image": "https://www.franceinfo.fr/pictures/c0x4jp24gM548_dduoFzxKfWdwY/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/04/6a21d87589fe8476202561.jpg",
+      "published_at": "2026-06-05T09:41:30+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "605a3dd38c6f"
+    },
+    {
+      "title": "Un musicien s’amuse à remixer des morceaux de rock en musiques de Doom",
+      "url": "https://www.numerama.com/pop-culture/2267857-un-musicien-samuse-a-remixer-des-morceaux-de-rock-en-musiques-de-doom.html",
+      "summary": "Quand on a une passion, on s’y consacre pleinement. Que ce soit le jardinage, la peinture de figurines Warhammer ou les reprises de chansons en version Doom.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-06-05T07:35:29+00:00",
+      "source": "Numerama",
+      "category": "Culture",
+      "id": "edde9cc28a02"
+    },
+    {
+      "title": "Affaire Lyhanna : il y a \"un constat d'échec collectif, il faut en tirer les conséquences\", déclare le porte-parole du ministère de la Justice",
+      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-vous-ne-pouvez-faire-qu-un-constat-d-echec-declare-le-porte-parole-du-ministere-de-la-justice_8045897.html#xtor=RSS-3-[lestitres]",
+      "summary": "Après la découverte d'un corps dans le Gers, les critiques s'intensifient sur les éventuelles failles judiciaires dans cette affaire. Le suspect a en effet fait l'objet de plusieurs plaintes sans être inquiété.",
+      "image": "https://www.franceinfo.fr/pictures/T5DYPJ56xjx-PyO3RHvQROiFDPA/0x0:1280x720/432x243/filters:format(jpg)/2026/06/05/6a225dd83e329382872492.jpg",
+      "published_at": "2026-06-05T09:33:01+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "523a14832f86"
+    },
+    {
+      "title": "Le débat sur l'IA dans le cinéma relancé par Martin Scorsese, qui veut s'en servir pour ses storyboards",
+      "url": "https://www.franceinfo.fr/culture/cinema/intelligence-artificielle-dans-le-cinema-le-debat-est-relance-avec-martin-scorsese-qui-veut-utiliser-l-ia-pour-ses-storyboards_8044445.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'annonce de Scorsese a déjà suscité une levée de boucliers. Franceinfo Culture a demandé son avis au cinéaste suisse Lionel Baier alors qu’à Hollywood plusieurs cinéastes, de Guillaume Del Toro à Steven Soderbergh en passant par James Cameron ou Steven Spielberg, ont déjà un avis tranché sur le sujet.",
+      "image": "https://www.franceinfo.fr/pictures/WBop1xHysb9SdQzhh5T32A3fJkw/0x64:1024x640/432x243/filters:format(jpg)/2026/06/04/6a214c2756231329184489.jpg",
+      "published_at": "2026-06-05T09:30:37+02:00",
+      "source": "France Info",
+      "category": "Tech",
+      "id": "23deea686056"
+    },
+    {
+      "title": "«Notre péché originel aura été de montrer qu’une autre école est possible» : à Grenoble, un établissement pour décrocheurs défend sa singularité",
+      "url": "https://www.liberation.fr/societe/education/notre-peche-originel-aura-ete-de-montrer-quune-autre-ecole-est-possible-a-grenoble-un-etablissement-pour-decrocheurs-defend-sa-singularite-20260605_E3WCHNSM2VH7TGUTMSNQZNAZLA/",
+      "summary": "Le collectif de défense du Collège-lycée élitaire pour tous, une structure unique spécialisée dans les élèves en décrochage scolaire, a tenu une conférence de presse jeudi 4 juin. En cause : l’annonce par le proviseur du lycée auquel il est rattaché d’un retour dans le droit commun à la rentrée prochaine.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-06-05T07:26:20+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "92d3c984af7e"
+    },
+    {
+      "title": "Régulation climatique européenne du transport aérien : la France pousse au statu quo",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/05/regulation-climatique-europeenne-du-transport-aerien-la-france-pousse-au-statu-quo_6697908_3234.html",
+      "summary": "Alors qu’une proposition de réforme du marché carbone européen doit être présentée mi-juillet, « Le Monde » a eu accès à des documents montrant que Paris tente de rallier un maximum d’Etats membres à sa position consistant à refuser tout élargissement du système actuel de taxation du CO₂.",
+      "image": "https://img.lemde.fr/2026/06/04/163/0/4264/2132/644/322/60/0/c9fb2e8_ftp-1-oizrwtpgsyrf-2026-06-04t085913z-163103680-rc2szkalymfu-rtrmadp-3-easyjet-m-a-castlelake-msc.JPG",
+      "published_at": "2026-06-05T09:20:21+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "05f158d1923f"
+    },
+    {
+      "title": "\"On a toujours fait preuve de créativité\" : Depuis vingt-cinq ans, le collectif Stand High Patrol propage en Europe sa vision du dub made in France",
+      "url": "https://www.franceinfo.fr/culture/musique/on-a-toujours-fait-preuve-de-creativite-depuis-vingt-cinq-ans-le-collectif-stand-high-patrol-propage-en-europe-sa-vision-du-dub-made-in-france_8043320.html#xtor=RSS-3-[lestitres]",
+      "summary": "Sous l'impulsion du producteur Mac Gyver, leur nouvel album \"Skanking & Jacking\" offre de nouvelles sonorités à mi-chemin entre le dub et la house.",
+      "image": "https://www.franceinfo.fr/pictures/P-S_fFHfrVKwo66vRTCkd7jy9-A/0x0:7728x4347/432x243/filters:format(jpg)/2026/06/03/6a204884deb09562617437.jpg",
+      "published_at": "2026-06-05T09:19:23+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "95a4888a304f"
     }
   ]
 }
