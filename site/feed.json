@@ -1,16 +1,96 @@
 {
-  "generated_at": "2026-06-06T18:15:13.892405+00:00",
+  "generated_at": "2026-06-06T20:16:47.059742+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Finale de Pro D2. Le RC Vannes s'impose face à Provence Rugby (18-14) et signe son retour dans le Top 14",
+      "title": "Le projet de loi contre l’antisémitisme et le racisme sera présenté le 1er juillet en conseil des ministres",
+      "url": "https://www.lemonde.fr/societe/article/2026/06/06/le-projet-de-loi-contre-l-antisemitisme-et-le-racisme-sera-presente-le-1er-juillet-en-conseil-des-ministres_6698419_3224.html",
+      "summary": "L’objectif est que le texte, qui prévoit notamment d’élargir le délit de négationnisme et d’introduire une peine d’inéligibilité pour certaines infractions, soit adopté avant la fin de l’année, selon la ministre déléguée chargée de la Lutte contre les discriminations.",
+      "image": "https://img.lemde.fr/2026/05/13/381/0/4580/2290/644/322/60/0/00b2b2a_ftp-1-fwyjhds2eb9g-2026-05-13t190855z-518501098-up1em5d1h6t24-rtrmadp-3-filmfestival-cannes.JPG",
+      "published_at": "2026-06-06T21:58:41+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "6f81cbd923b2"
+    },
+    {
+      "title": "«Wheels of Fire» de Cream, presque parfait",
+      "url": "https://www.liberation.fr/culture/musique/wheels-of-fire-de-cream-presque-parfait-20260606_OLNAV5P34REULC6FTA7V2DY66E/",
+      "summary": "Réédition, en version augmentée, du troisième album du trio britannique.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-06-06T19:46:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "9e24dad9d273"
+    },
+    {
+      "title": "\"On demande un petit coup de pouce pour qu'on puisse vivre dignement\" : les salariés de Decathlon en colère",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/on-demande-un-petit-coup-de-pouce-pour-qu-on-puisse-vivre-dignement-les-salaries-de-decathlon-en-colere_8048453.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les salariés de Decathlon attendent une réponse de leur direction après les bons résultats du groupe avec des bénéfices estimés à plus de 900 millions d'euros. Ils estiment que leurs conditions de travail et leur rémunération ne correspondent pas à la bonne santé de l'entreprise.",
+      "image": "https://www.franceinfo.fr/pictures/y5P4R4mWmSvEcmGjK3cjh5EhDls/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/06/6a246cf9c7384696906594.jpg",
+      "published_at": "2026-06-06T20:59:50+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "82b48cf16b06"
+    },
+    {
+      "title": "L’émotion de tout un pays après la mort de Lyhanna",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/l-emotion-de-tout-un-pays-apres-la-mort-de-lyhanna_8048444.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ils seront nombreux à se réunir dimanche 7 juin à Fleurance, dans le Gers, pour une marche en hommage à Lyhanna. Ses parents ne souhaitent aucune présence politique en dehors des maires locaux qui ont été à leurs côtés depuis le début des recherches. Une émotion qui s’est étendue au fil des jours.",
+      "image": "https://www.franceinfo.fr/pictures/sVXNyxkx0oxH1GyRgApZaS81QWY/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/06/6a24693f3e797327265626.jpg",
+      "published_at": "2026-06-06T20:47:36+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "016bd2745112"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : Israël affirme avoir frappé \"environ 150\" positions du Hezbollah dans le sud du Liban en 48 heures",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-l-iran-a-tire-7-missiles-sur-le-koweit-et-bahrein-plusieurs-d-entre-eux-ont-ete-interceptes-par-l-armee-americaine_8047715.html#xtor=RSS-3-[lestitres]",
+      "summary": "Plus tôt dans la journée, l'armée libanaise a annoncé que \"plusieurs\" de ses soldats avaient été tué dans un bombardement israélien.",
+      "image": "https://www.franceinfo.fr/pictures/1Mc6zd9hKzDzS91DaJt1B27euz8/0x53:1024x629/432x243/filters:format(jpg)/2026/06/06/6a246868029c3391682970.jpg",
+      "published_at": "2026-06-06T20:37:07+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "ca7416836a6e"
+    },
+    {
+      "title": "Mirra Andreeva, la consécration à Roland-Garros et un cap franchi pour une gagnante programmée ?",
+      "url": "https://www.franceinfo.fr/roland-garros/mirra-andreeva-la-consecration-a-roland-garros-et-un-cap-franchi-pour-une-gagnante-programmee_8048414.html#xtor=RSS-3-[lestitres]",
+      "summary": "À 19 ans, Mirra Andreeva a décroché, à Roland-Garros, le premier titre en Majeur de sa carrière.",
+      "image": "https://www.franceinfo.fr/pictures/YCpkJ9_Ray3xzMuFT8rOedulYho/0x39:1024x615/432x243/filters:format(jpg)/2026/06/06/6a24607774487865672033.jpg",
+      "published_at": "2026-06-06T20:33:46+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "48041337909a"
+    },
+    {
+      "title": "Finale de Pro D2. Le RC Vannes s'impose face au Provence Rugby (18-14) et signe son retour dans le Top 14",
       "url": "https://france3-regions.franceinfo.fr/bretagne/morbihan/vannes/direct-finale-de-pro-d2-ultra-dominant-en-saison-reguliere-le-rc-vannes-doit-s-imposer-face-a-provence-rugby-pour-acceder-au-top-14-3363850.html#xtor=RSS-3-[lestitres]",
-      "summary": "La victoire aura été dure à décrocher. Bien qu'il ait dominé au score tout au long du match, les joueurs du RC Vannes ont souvent souffert face à leurs adversaires du Provence Rugby lors de la finale de Pro D2, ce samedi 6 juin, sur la pelouse d'Ernest-Wallon, à Toulouse.",
+      "summary": "La victoire aura été difficile à décrocher. Bien qu’ils aient dominé le score tout au long du match, les joueurs du RC Vannes ont souvent été mis en difficulté par leurs adversaires de Provence Rugby lors de la finale de Pro D2, ce samedi 6 juin, sur la pelouse d’Ernest-Wallon à Toulouse.",
       "image": "https://www.franceinfo.fr/pictures/RURUZyFASNaFswcRz6iHTn1PBWM/432x243/filters:format(jpg)/2026/06/06/6a243d15700d4605710540.jpg",
-      "published_at": "2026-06-06T20:10:02+02:00",
+      "published_at": "2026-06-06T20:27:23+02:00",
       "source": "France Info",
       "category": "Sport",
       "id": "a34c9f5c6424"
+    },
+    {
+      "title": "Mort de Lyhanna : Bruno Retailleau, candidat LR à l'élection présidentielle, appelle à la création d'une \"cour disciplinaire de la magistrature\"",
+      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/mort-de-lyhanna-bruno-retailleau-candidat-lr-a-l-election-presidentielle-appelle-a-la-creation-d-une-cour-disciplinaire-de-la-magistrature_8005823.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le président du parti Les Républicains dénonce \"un naufrage de la justice\" dans la prise en charge des signalements contre Jérôme Barella, mis en cause dans la mort de Lyhanna.",
+      "image": "https://www.franceinfo.fr/pictures/HyEgsq3shiVoG27jvjX817wNtfc/0x66:1024x642/432x243/filters:format(jpg)/2026/06/06/6a2465c19df86112110790.jpg",
+      "published_at": "2026-06-06T20:25:38+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "64d96d5aad25"
+    },
+    {
+      "title": "Spider-Noir : 5 films à découvrir absolument pour rester dans l’ambiance sombre de la série Prime Video",
+      "url": "https://www.numerama.com/pop-culture/2268461-spider-noir-5-films-a-decouvrir-absolument-pour-rester-dans-lambiance-sombre-de-la-serie-prime-video.html",
+      "summary": "Avec son trench-coat flottant, son chapeau de feutre et son New York des années 1930 figé dans une Grande Dépression monochrome, le variant Spider-Noir a remis les codes du polar rétro au goût du jour. Mais avant d'être un tisseur de toile torturé, le « Film Noir » est un genre cinématographique légendaire qui a défini l'âge d'or d'Hollywood. Et justement, que regarder pour rester dans l'ambiance ",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-06-06T18:15:00+00:00",
+      "source": "Numerama",
+      "category": "Culture",
+      "id": "be484a00c814"
     },
     {
       "title": "Guerre au Moyen-Orient : l’armée israélienne affirme avoir frappé «environ 150» positions du Hezbollah au Sud-Liban",
@@ -31,6 +111,16 @@
       "source": "Le Monde",
       "category": "Sport",
       "id": "b98351e2c534"
+    },
+    {
+      "title": "La sélection de Neymar pour la Coupe du monde divise le Brésil : vrai atout pour le groupe ou simple « aimant à cash » ?",
+      "url": "https://www.lemonde.fr/sport/article/2026/06/06/la-selection-de-neymar-pour-la-coupe-du-monde-divise-le-bresil-vrai-atout-pour-le-groupe-ou-simple-aimant-a-cash_6698286_3242.html",
+      "summary": "Blessé au mollet, l’ancien prodige du FC Barcelone et du PSG ne disputera pas, samedi 6 juin, le dernier match de préparation de la Seleçao avant son entrée en lice dans le tournoi. De quoi relancer le débat sur la pertinence de sa convocation par Carlo Ancelotti.",
+      "image": "https://img.lemde.fr/2026/05/31/625/0/6671/3335/644/322/60/0/439f77e_ftp-1-xrgoygvegs7u-5193137-01-06.jpg",
+      "published_at": "2026-06-06T20:00:15+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "669a4f981062"
     },
     {
       "title": "Final four de hand : Metz se qualifie pour sa première finale en Ligue des champions, Brest, battu, jouera la 3e place",
@@ -93,11 +183,11 @@
       "id": "3355087ed336"
     },
     {
-      "title": "Ethiopie : Au moins 11 civils tués, les autorités accusent un groupe rebelle",
+      "title": "Ethiopie : au moins 11 civils tués dans la région Oromia, les autorités accusent un groupe rebelle",
       "url": "https://www.lemonde.fr/afrique/article/2026/06/06/ethiopie-au-moins-11-civils-tues-les-autorites-accusent-un-groupe-rebelle_6698219_3212.html",
       "summary": "Les faits se sont déroulés entre le 31 mai et le 3 juin dans la région Oromia, en Ethiopie centrale. Les autorités accusent l’Armée de libération oromo, un groupe classé comme organisation terroriste par Addis-Abeba, qui avait annoncé vouloir perturber les élections législatives du 1er juin.",
       "image": "https://img.lemde.fr/2016/10/10/446/0/3500/1750/644/322/60/0/2f2cd91_14159-zdfo23.jpg",
-      "published_at": "2026-06-06T19:22:44+02:00",
+      "published_at": "2026-06-06T19:22:40+02:00",
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "09b85f0fc305"
@@ -173,16 +263,6 @@
       "id": "df9392d9c43d"
     },
     {
-      "title": "Guerre au Moyen-Orient : au moins sept morts dans des frappes israéliennes sur la bande de Gaza",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-l-iran-a-tire-7-missiles-sur-le-koweit-et-bahrein-plusieurs-d-entre-eux-ont-ete-interceptes-par-l-armee-americaine_8047715.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les frappes ont visé des tentes de déplacés, faisant également 15 blessés. L'armée israélienne assure avoir visé des \"terroristes\".",
-      "image": "https://www.franceinfo.fr/pictures/fLaUSY2yuBAjrEySs5-pJsb1_no/0x25:1024x601/432x243/filters:format(jpg)/2026/06/06/6a24495da8519041680199.jpg",
-      "published_at": "2026-06-06T18:33:24+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "ca7416836a6e"
-    },
-    {
       "title": "Backrooms : voici 4 romans à lire sur les espaces liminaux",
       "url": "https://www.numerama.com/pop-culture/2267425-backrooms-voici-4-romans-a-lire-sur-les-espaces-liminaux.html",
       "summary": "Les liminal spaces, espaces liminaux dans la langue de Molière, existent depuis longtemps dans la littérature. Le phénomène des backrooms, dont le film de Kane Parsons débarque au cinéma chez nous le 17 juin 2026, n'a rien inventé, ou presque. Retour sur quelques œuvres qui méritent d'être découvertes si les backrooms vous donnent des frissons.",
@@ -193,24 +273,14 @@
       "id": "d946f6115942"
     },
     {
-      "title": "Dans la bande de Gaza, sept Palestiniens tués par des frappes israéliennes, selon la défense civile",
+      "title": "Dans la bande de Gaza, neuf Palestiniens tués par des frappes israéliennes, selon la défense civile",
       "url": "https://www.lemonde.fr/international/article/2026/06/06/dans-la-bande-de-gaza-sept-palestiniens-tues-par-des-frappes-israeliennes-selon-la-defense-civile_6698151_3210.html",
-      "summary": "Les frappes israéliennes sur la bande de Gaza ont fait sept morts samedi, dont un homme qui devait se marier le jour même. Au moins 951 Palestiniens ont été tués depuis le 10 octobre 2025 et l’entrée en vigueur d’un cessez-le-feu entre Israël et la Palestine, selon le ministère de la santé gazaouie.",
+      "summary": "Les frappes israéliennes dans la bande de Gaza ont fait neuf morts samedi, dont un homme qui devait se marier le jour même. Au moins 951 Palestiniens ont été tués depuis le 10 octobre 2025 et l’entrée en vigueur d’un cessez-le-feu, selon le ministère de la santé gazaouie.",
       "image": "https://img.lemde.fr/2026/06/06/613/0/6000/3000/644/322/60/0/04c84d5_ftp-1-sks0m9yhlams-5240618-01-06.jpg",
       "published_at": "2026-06-06T18:28:07+02:00",
       "source": "Le Monde Inter",
       "category": "International",
       "id": "42b51e5a25a7"
-    },
-    {
-      "title": "\"Bien davantage que l'épouse du président de la République\" : les réactions politiques après la mort de Bernadette Chirac",
-      "url": "https://www.franceinfo.fr/politique/bernadette-chirac/une-grande-dame-de-c-ur-une-femme-entiere-engagee-les-reactions-politiques-affluent-apres-la-mort-de-bernadette-chirac_8047922.html#xtor=RSS-3-[lestitres]",
-      "summary": "La veuve de l'ancien président Jacques Chirac est décédée vendredi 5 juin. Les personnalités politiques lui rendent hommage.",
-      "image": "https://www.franceinfo.fr/pictures/Fa8YhsxLaMJGxLLKjJFTvXkwJcw/0x255:4896x3009/432x243/filters:format(jpg)/2026/06/06/6a23fa1ecad36651013720.jpg",
-      "published_at": "2026-06-06T18:06:07+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "38b7de32024b"
     },
     {
       "title": "Mondial de foot : «On assiste à une instrumentalisation du sport pour faire reculer les droits humains»",
@@ -231,76 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "9c1500143316"
-    },
-    {
-      "title": "A Carpentras, la nouvelle mairie RN supprime les subventions au Planning familial en invoquant « redoubler de rigueur dans sa gestion financière »",
-      "url": "https://www.lemonde.fr/societe/article/2026/06/06/a-carpentras-la-nouvelle-mairie-rn-supprime-les-subventions-au-planning-familial-en-invoquant-redoubler-de-rigueur-dans-sa-gestion-financiere_6698149_3224.html",
-      "summary": "Sur son site Internet, la commune a justifié cette mesure en prétextant une « situation budgétaire calamiteuse, héritée de l’ancienne majorité ».",
-      "image": "https://img.lemde.fr/2026/06/06/559/0/8192/4096/644/322/60/0/3082bac_upload-1-qelhyeqoi0oy-20260317pvl7253.jpg",
-      "published_at": "2026-06-06T18:01:03+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "9a5456f955f1"
-    },
-    {
-      "title": "Municipales 2026 : dans un village de Haute-Loire, des élections trois mois après toutes les autres communes",
-      "url": "https://www.lemonde.fr/politique/article/2026/06/06/municipales-2026-dans-un-village-de-haute-loire-des-elections-trois-mois-apres-toutes-les-autres-communes_6698148_823448.html",
-      "summary": "Blassac s’était retrouvée sans candidat en mars. Elle a dû être administrée par une délégation spéciale nommée par la préfecture. L’élection, qui a lieu dimanche, réunit cette fois deux listes.",
-      "image": "https://img.lemde.fr/2026/01/06/250/0/3000/1500/644/322/60/0/7413969_upload-1-xu9q28ewr6iu-frame-1357.png",
-      "published_at": "2026-06-06T18:00:32+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "5bf2824d9c49"
-    },
-    {
-      "title": "Lectures croisées d’« Occidents », de Frédéric Martel, livre phénomène sur la bataille internationale des idées",
-      "url": "https://www.lemonde.fr/livres/article/2026/06/06/lectures-croisees-d-occidents-de-frederic-martel-livre-phenomene-sur-la-bataille-internationale-des-idees_6698145_3260.html",
-      "summary": "Le « Monde des livres » a demandé à trois actuels ou anciens correspondants du « Monde », en Chine, en Russie et en Amérique latine, d’évaluer cette enquête mondiale.",
-      "image": "https://img.lemde.fr/2026/06/03/530/0/7976/3988/644/322/60/0/883f9c7_upload-1-0b32p4oz4pmc-abacanewsroy-brxinhua20260424-481.jpg",
-      "published_at": "2026-06-06T18:00:12+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "691df06759aa"
-    },
-    {
-      "title": "En Corée du Sud, sur « l’île des amoureux », la photojournaliste Agnès Dherbeys capte les stigmates d’un massacre",
-      "url": "https://www.lemonde.fr/m-le-mag/article/2026/06/06/en-coree-du-sud-sur-l-ile-des-amoureux-la-photojournaliste-agnes-dherbeys-capte-les-stigmates-d-un-massacre_6698144_4500055.html",
-      "summary": "Aux prémices de la guerre froide, entre 1948 et 1949, de 14 000 à 30 000 personnes accusées de communisme ont été tuées par le gouvernement sud-coréen, proaméricain, sur l’île de Jeju. La photojournaliste Agnès Dherbeys est partie en janvier sur cette terre isolée, à la recherche des traces d’une tragédie longtemps tue.",
-      "image": "https://img.lemde.fr/2026/05/29/399/0/1184/592/644/322/60/0/6974bd0_ftp-1-rdfzz2nur8zd-430178-3472848.jpg",
-      "published_at": "2026-06-06T18:00:09+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "6d349910d43d"
-    },
-    {
-      "title": "Bana Jabri, l’immunologiste qui veut protéger les bébés des maladies génétiques en testant les futurs parents",
-      "url": "https://www.lemonde.fr/sciences/article/2026/06/06/bana-jabri-l-immunologiste-qui-veut-proteger-les-bebes-des-maladies-genetiques-en-testant-les-futurs-parents_6698143_1650684.html",
-      "summary": "A la tête de l’Institut Imagine, à Paris, depuis janvier 2025, la médecin chercheuse, qui a longtemps enseigné aux Etats-Unis, se mobilise pour que la prochaine loi sur la bioéthique autorise le dépistage préconceptionnel en population générale.",
-      "image": "https://img.lemde.fr/2026/06/03/246/0/2953/1476/644/322/60/0/a284918_upload-1-803gid1zl6bp-photo-bana-jabri.jpeg",
-      "published_at": "2026-06-06T18:00:07+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "32aea08ee93e"
-    },
-    {
-      "title": "António Lobo Antunes, les brumes du Tage",
-      "url": "https://www.liberation.fr/culture/livres/antonio-lobo-antunes-les-brumes-du-tage-20260606_ZW7HINKDYNAMFM7S27EJT4K3PI/",
-      "summary": "Un héros gay, dirigeant communiste clandestin, sous Salazar.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-06T16:00:01+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "a3796930e7ee"
-    },
-    {
-      "title": "«Et jamais ne reviens» : une chasse à l’homme dans le maquis corse",
-      "url": "https://www.liberation.fr/culture/livres/et-jamais-ne-reviens-une-chasse-a-lhomme-dans-le-maquis-corse-20260606_IWK3HEV7AVBSZK5CSKRC2N2CZQ/",
-      "summary": "Dans un premier polar haletant, Raphaël Monégier sonde la confrontation des identités et l’esprit de vengeance.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-06T16:00:01+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "2806071af770"
     }
   ]
 }
