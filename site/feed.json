@@ -1,23 +1,53 @@
 {
-  "generated_at": "2026-06-07T20:20:15.469802+00:00",
+  "generated_at": "2026-06-07T22:13:00.329034+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Crash d'un hélicoptère de la gendarmerie nationale en forêt d'Orléans : un gendarme est mort, deux autres en urgence absolue",
+      "title": "Le fossé entre l’intensification des pressions humaines et les efforts de protection de l’océan se creuse, alerte le baromètre «Starfish»",
+      "url": "https://www.liberation.fr/environnement/climat/le-fosse-entre-lintensification-des-pressions-humaines-et-les-efforts-de-protection-de-locean-se-creuse-alerte-le-barometre-starfish-20260607_CZS32BTQOJGCNHTTUISQC2UIEY/",
+      "summary": "Alors qu’un forum international consacré à l’exploration et la protection du grand bleu se tient à Paris ce lundi 8 juin, le deuxième baromètre de Mercator Océan alerte sur l’accélération de la dégradation de l’océan et sur le manque de réponse des décideurs.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-07T21:59:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "b3bbd77ec081"
+    },
+    {
+      "title": "Crash d'un hélicoptère de la gendarmerie nationale en forêt d'Orléans : un gendarme est mort, deux autres en urgence absolue.",
       "url": "https://france3-regions.franceinfo.fr/centre-val-de-loire/loiret/crash-d-un-helicoptere-de-la-gendarmerie-nationale-en-foret-d-orleans-a-bray-saint-aignan-3364294.html#xtor=RSS-3-[lestitres]",
-      "summary": "D'importants moyens de secours ont été mobilisés dimanche 7 juin en forêt domaniale d'Orléans, non loin de Sully-sur-Loire (Loiret), suite au crash d'un hélicoptère de la gendarmerie nationale. Le bilan fait état d'un mort sur les trois membres d'équipage.",
+      "summary": "D'importants moyens de secours ont été mobilisés dimanche 7 juin en forêt domaniale d'Orléans, non loin de Sully-sur-Loire (Loiret), suite au crash d'un hélicoptère de la gendarmerie nationale qui recherchait une personne portée disparue. Sur les trois membres d'équipage, le bilan fait état d'un mort, l'adjudant Dorian Larigaudrie. Deux gendarmes sont blessés en urgence absolue, selon la préfectur",
       "image": "https://www.franceinfo.fr/pictures/8k04dfFXkz_nGP1MOCVNLL81Li8/432x243/filters:format(jpg)/2026/06/07/6a25a9708cd35038393959.jpg",
-      "published_at": "2026-06-07T22:13:32+02:00",
+      "published_at": "2026-06-07T23:16:15+02:00",
       "source": "France Info",
       "category": "Sport",
       "id": "d8d4993d43d4"
+    },
+    {
+      "title": "Mort de Lyhanna : \"Cette affaire est un échec\" et \"un drame qui aurait pu être évité\", déplore le ministre de l'Intérieur Laurent Nuñez",
+      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/direct-mort-de-lyhanna-la-commune-de-fleurance-dans-le-gers-se-prepare-a-rendre-hommage-a-la-collegienne-de-11-ans-lors-d-une-marche-blanche_8048837.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Dans un dossier comme celui-ci, avec des éléments d'enquête assez accablants, on ne comprend pas que le suspect n'ait pas été entendu\", réagit le ministre de l'Intérieur sur France 2.",
+      "image": "https://www.franceinfo.fr/pictures/Px-uxxRyRA0gDVrKTRJRTL7IUyQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/07/6a25b474c7d98210433098.jpg",
+      "published_at": "2026-06-07T22:53:19+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a4598263ec6a"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : Israël ciblé par des missiles en provenance d'Iran, qui estime que l'Etat hébreu a franchi \"toutes les lignes rouges\"",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-armee-israelienne-annonce-frapper-la-banlieue-sud-de-beyrouth-en-reponse-aux-tirs-du-hezbollah-libanais_8049134.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'armée israélienne parle d'une \"grave erreur\" de l'Iran, tandis que Donald Trump a déclaré à la presse américaine qu'il allait demander à l'Etat hébreu de ne pas riposter.",
+      "image": "https://www.franceinfo.fr/pictures/QHNaAsv0LDgcyGw2KkSy5D93vJ4/0x350:6720x4130/432x243/filters:format(jpg)/2026/06/07/6a25cb1911b0f646391152.jpg",
+      "published_at": "2026-06-07T22:51:54+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "2844764db351"
     },
     {
       "title": "Crash d'un hélicoptère de la gendarmerie dans le Loiret : un gendarme est mort, deux autres sont en urgence absolue",
       "url": "https://www.franceinfo.fr/faits-divers/crash-d-un-helicoptere-de-la-gendarmerie-dans-le-loiret-un-gendarme-est-mort-deux-autres-sont-en-urgence-absolue_8049530.html#xtor=RSS-3-[lestitres]",
       "summary": "Un hélicoptère de la gendarmerie nationale s'est écrasé dimanche après-midi à Bray-Saint-Aignan, à côté de Sully-sur-Loire, et a fait un mort.",
       "image": "https://www.franceinfo.fr/pictures/1fU6cbIOeL5rgt5lOqOM0pyg19U/0x150:1600x1050/432x243/filters:format(jpg)/2026/06/07/6a25d0a8a80d6901877364.jpg",
-      "published_at": "2026-06-07T22:12:43+02:00",
+      "published_at": "2026-06-07T22:25:53+02:00",
       "source": "France Info",
       "category": "Société",
       "id": "e06961f17ee6"
@@ -27,10 +57,20 @@
       "url": "https://www.liberation.fr/societe/crash-dun-helicoptere-de-la-gendarmerie-dans-le-loiret-sans-doute-des-morts-20260607_TBDPVWBN65BIFPHHUNQ4QXDX6M/",
       "summary": "L’appareil survolait une zone à la recherche d’un adolescent.",
       "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-06-07T20:12:39+00:00",
+      "published_at": "2026-06-07T20:23:58+00:00",
       "source": "Libération",
       "category": "Société",
       "id": "dff395830d30"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : Israël annonce la fermeture des écoles lundi après des tirs de missiles iraniens, les premiers depuis le cessez-le-feu du 8 avril",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-etats-unis-abattent-des-drones-iraniens-israel-frappe-par-des-tirs-venus-du-liban-20260607_ZH6FB7MAHVB4BEMPYSDH4L6GL4/",
+      "summary": "Deux personnes ont été tuées ce dimanche par des frappes israéliennes dans la banlieue sud de la capitale libanaise. Selon l’armée israélienne, l’Iran a effectué des tirs de missiles vers son territoire.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-06-07T20:21:52+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "eaec40f130cd"
     },
     {
       "title": "Le 6 choses à retenir de la grande présentation de Gears of War: E-Day",
@@ -41,26 +81,6 @@
       "source": "Numerama",
       "category": "Tech",
       "id": "cf34883df217"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : Israël affirme être ciblé par des missiles en provenance d'Iran et annonce la fermeture des écoles dans tout le pays",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-armee-israelienne-annonce-frapper-la-banlieue-sud-de-beyrouth-en-reponse-aux-tirs-du-hezbollah-libanais_8049134.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'Iran a estimé dans la soirée que l'Etat hébreu \"avait franchi toutes les lignes rouges\" en frappant le Sud-Liban, fief du Hezbollah.",
-      "image": "https://www.franceinfo.fr/pictures/QHNaAsv0LDgcyGw2KkSy5D93vJ4/0x350:6720x4130/432x243/filters:format(jpg)/2026/06/07/6a25cb1911b0f646391152.jpg",
-      "published_at": "2026-06-07T21:49:08+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "2844764db351"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : Israël annonce la fermeture des écoles lundi après des tirs iraniens, les premiers depuis le cessez-le-feu du 8 avril",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-etats-unis-abattent-des-drones-iraniens-israel-frappe-par-des-tirs-venus-du-liban-20260607_ZH6FB7MAHVB4BEMPYSDH4L6GL4/",
-      "summary": "Deux personnes ont été tuées ce dimanche par des frappes israéliennes dans la banlieue sud de la capitale libanaise. Selon l’armée israélienne, l’Iran a effectué des tirs de missiles vers leur territoire.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-06-07T19:48:49+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "eaec40f130cd"
     },
     {
       "title": "Roland-Garros 2026 : Alexander Zverev remporte en cinq sets le premier tournoi du Grand Chelem de sa carrière en battant Flavio Cobolli en finale",
@@ -143,10 +163,10 @@
       "id": "0a9397d6112e"
     },
     {
-      "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+      "title": "EN DIRECT, guerre en Ukraine : la France, l’Allemagne et le Royaume-Uni soutiennent la proposition de Volodymyr Zelensky d’un « dialogue direct » entre Kiev et Moscou",
       "url": "https://www.lemonde.fr/international/live/2026/06/07/en-direct-guerre-en-ukraine-les-dernieres-informations_6698620_3210.html",
-      "summary": "Un dépôt de combustible nucléaire usé de Tchernobyl a été pris pour cible dimanche par les forces russes. Volodymyr Zelensky a rassuré sur l’absence de dépassement du niveau de radioactivité, précisant que les secouristes ukrainiens avaient maîtrisé l’incendie consécutif à l’impact.",
-      "image": "https://img.lemde.fr/2026/06/07/106/0/1280/640/644/322/60/0/249cab6_ftp-1-urf3n4ra0dry-2026-06-07t115707z-520321045-rc2zola6cpp7-rtrmadp-3-ukraine-crisis-nuclear.JPG",
+      "summary": "« La ligne de contact actuelle doit servir de point de départ aux négociations. Les frontières internationales ne doivent pas être modifiées par la force », ont également déclaré Emmanuel Macron, Friedrich Merz et Keir Starmer, dans un communiqué commun avec le président ukrainien. Les dirigeants français, allemand et ukrainien étaient reçus à Londres par le premier ministre britannique.",
+      "image": "https://img.lemde.fr/2026/06/07/80/0/4378/2189/644/322/60/0/5e6a970_ftp-1-7zo3scztbg39-5255451-01-06.jpg",
       "published_at": "2026-06-07T20:36:38+02:00",
       "source": "Le Monde",
       "category": "Politique",
@@ -211,16 +231,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "d19e5b5911b4"
-    },
-    {
-      "title": "Mort de Lyhanna : \"Cette affaire est un échec\" et \"un drame qui aurait pu être évité\", déplore le ministre de l'Intérieur Laurent Nuñez",
-      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/direct-mort-de-lyhanna-la-commune-de-fleurance-dans-le-gers-se-prepare-a-rendre-hommage-a-la-collegienne-de-11-ans-lors-d-une-marche-blanche_8048837.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Dans un dossier comme celui-ci, avec des éléments d'enquête assez accablants, on ne comprend pas que le suspect n'ait pas été entendu\", réagit le ministre de l'Intérieur sur France 2.",
-      "image": "https://www.franceinfo.fr/pictures/Px-uxxRyRA0gDVrKTRJRTL7IUyQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/07/6a25b474c7d98210433098.jpg",
-      "published_at": "2026-06-07T20:14:28+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "a4598263ec6a"
     },
     {
       "title": "Tennis : Serena Williams, de retour à la compétition en double, doit \"encore s'entraîner un peu plus\" pour pouvoir rejouer en simple",
@@ -291,16 +301,6 @@
       "source": "Le Monde",
       "category": "Sport",
       "id": "16388c268e4f"
-    },
-    {
-      "title": "L’armée israélienne ouvre une enquête après la mort d’un bébé palestinien tué par un de ses soldats en Cisjordanie",
-      "url": "https://www.lemonde.fr/international/article/2026/06/07/l-armee-israelienne-ouvre-une-enquete-apres-la-mort-d-un-bebe-palestinien-tue-par-un-de-ses-soldats-en-cisjordanie_6699157_3210.html",
-      "summary": "Selon les conclusions d’une enquête préliminaire, un soldat israélien a ouvert le feu, samedi à Hébron, sur la voiture à bord de laquelle se trouvait l’enfant, lorsqu’elle a accéléré en direction d’un détachement militaire.",
-      "image": "https://img.lemde.fr/2026/06/06/580/0/6967/3483/644/322/60/0/7b1502f_ftp-1-sx1ynhudf0w2-da09af38e1a6493ba570aebc309c2cef-1-53ad09774bce4768af62c19fc893925f.jpg",
-      "published_at": "2026-06-07T19:55:48+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "371dc1342752"
     }
   ]
 }
