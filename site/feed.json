@@ -1,26 +1,286 @@
 {
-  "generated_at": "2026-06-08T19:28:28.805695+00:00",
+  "generated_at": "2026-06-08T21:57:25.199379+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "France-Irlande du Nord : les Bleus veulent engranger de la confiance avant de s'envoler pour le Mondial... Suivez le dernier match de préparation à la Coupe du monde",
+      "title": "\"On n'a pas écouté la parole des victimes\" : après la mort de Lyhanna, des milliers de manifestants en colère interpellent la justice",
+      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/on-n-a-pas-ecoute-la-parole-des-victimes-apres-la-mort-de-lyhanna-des-milliers-de-manifestants-en-colere-interpellent-la-justice_8051093.html#xtor=RSS-3-[lestitres]",
+      "summary": "Auch, Marseille, La Rochelle, Saint-Brieuc… Des rassemblements ont eu lieu dans des dizaines de villes de France pour dénoncer les dysfonctionnements dans la prise en compte des plaintes concernant les enfants victimes de violences.",
+      "image": "https://www.franceinfo.fr/pictures/54WTF2adGb9K3aR1TggjNdtvdxM/0x283:5460x3355/432x243/filters:format(jpg)/2026/06/08/6a2723f321248316641235.jpg",
+      "published_at": "2026-06-08T23:53:56+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "fcae60f387c6"
+    },
+    {
+      "title": "Coupe du monde 2026 : un arbitre somalien, refoulé à son arrivée aux Etats-Unis, ne pourra pas officier lors du Mondial",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/masculine/coupe-du-monde-2026-un-arbitre-somalien-refoule-a-son-arrivee-aux-etats-unis_8050808.html#xtor=RSS-3-[lestitres]",
+      "summary": "Un arbitre somalien, qui devait officier pendant le Mondial et qui disposait d'un visa en règle, a été refoulé à son entrée aux Etats-Unis, lundi.",
+      "image": "https://www.franceinfo.fr/pictures/ncB8MN6v9fOSwaAsKERxtAtjxHI/0x0:1024x576/432x243/filters:format(jpg)/2026/06/08/6a26ed0754e33057927773.jpg",
+      "published_at": "2026-06-08T23:52:33+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "873ba4be5c1a"
+    },
+    {
+      "title": "Mort de Lyhanna : Sébastien Lecornu réunit plusieurs ministres sur la protection de l'enfance mardi matin, de \"nouvelles mesures concrètes\" à l'étude",
+      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/direct-mort-de-lyhanna-le-president-de-la-conference-nationale-des-procureurs-deplore-que-les-magistrats-soient-jetes-en-pature_8049935.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Premier ministre considère que l'affaire Lyhanna \"traduit en réalité un véritable fait de société et un drame qui suscite l’effroi à travers tout le pays\".",
+      "image": "https://www.franceinfo.fr/pictures/HAJjPT7Xe5AxegDUhrD4-aB43RU/0x29:5451x3095/432x243/filters:format(jpg)/2026/06/08/6a27199338975012313932.jpg",
+      "published_at": "2026-06-08T23:50:15+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "93b5070e8971"
+    },
+    {
+      "title": "Patrick Bruel visé par deux nouvelles plaintes pour viol pour des faits remontant aux années 2000",
+      "url": "https://www.franceinfo.fr/culture/musique/patrick-bruel/affaire-de-violences-sexuelles/patrick-bruel-vise-par-deux-nouvelles-plaintes-pour-viol-pour-des-faits-remontant-aux-annees-2000_8051147.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ces plaintes déposées fin mai et début juin émanent d'une ancienne Miss Alsace et d'une kinésithérapeute qui l'avait rencontré après son concert à Grenoble, en 2000.",
+      "image": "https://www.franceinfo.fr/pictures/BgNrLi_jL80Axd-6Ui9lKoSSthg/0x353:6789x4172/432x243/filters:format(jpg)/2026/06/08/6a27373b70b3b748501080.jpg",
+      "published_at": "2026-06-08T23:43:20+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "f15b5c6c7a64"
+    },
+    {
+      "title": "France-Irlande du Nord : le résumé de la victoire des Bleus, portés par le triplé de Michael Olise",
+      "url": "https://www.lemonde.fr/sport/article/2026/06/08/france-irlande-du-nord-le-resume-de-la-victoire-des-bleus-portes-par-le-triple-de-michael-olise_6699654_3242.html",
+      "summary": "Opposée à une sélection nord-irlandaise qui n’est pas qualifiée pour la Coupe du monde, l’équipe de France s’est un peu rassurée après sa défaite contre la Côte d’Ivoire, à une semaine de son premier match.",
+      "image": "https://img.lemde.fr/2026/06/08/221/0/2657/1328/644/322/60/0/e103211_ftp-1-sijkczxt1yod-5263755-01-06.jpg",
+      "published_at": "2026-06-08T23:34:25+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "4ed908a71b52"
+    },
+    {
+      "title": "Un triplé de Michael Olise permet à l'équipe de France de battre l'Irlande du Nord avant de décoller pour la Coupe du monde aux Etats-Unis",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/un-triple-de-michael-olise-permet-a-l-equipe-de-france-de-battre-l-irlande-du-nord-avant-de-decoller-pour-la-coupe-du-monde-aux-etats-unis_8051090.html#xtor=RSS-3-[lestitres]",
+      "summary": "Largement dominatrice, l'équipe de France s'est rassurée en remportant son dernier match de préparation avant le Mondial, lundi.",
+      "image": "https://www.franceinfo.fr/pictures/UtSnWlOJzg0jLYYPKPyW69sP3Hc/0x0:5722x3218/432x243/filters:format(jpg)/2026/06/08/6a272053d54e5030097728.jpg",
+      "published_at": "2026-06-08T23:28:17+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "fb7b379987a8"
+    },
+    {
+      "title": "Les frais de 100 000 dollars pour certains visas de travail imposés par Donald Trump sont illégaux, affirme un juge fédéral",
+      "url": "https://www.franceinfo.fr/monde/usa/un-juge-declare-illegal-les-frais-de-100-000-dollars-pour-certains-visas-de-travail-imposes-par-donald-trump_8051138.html#xtor=RSS-3-[lestitres]",
+      "summary": "Prise en septembre et confortée en décembre, la décision de Donald Trump concerne les visa H-1B, qui permet à des travailleurs étrangers aux qualifications précises de venir travailler aux Etats-Unis.",
+      "image": "https://www.franceinfo.fr/pictures/4ZQpIgs906xbV4th7OcdmlFeYSs/0x188:3600x2213/432x243/filters:format(jpg)/2026/06/08/6a27330661171674112258.jpg",
+      "published_at": "2026-06-08T23:26:34+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "c7ec1b6fb08a"
+    },
+    {
+      "title": "Portés par un triplé d’Olise, les Bleus vont s’envoler pour le Mondial (un peu) rassurés",
+      "url": "https://www.liberation.fr/sports/football/portes-par-un-triple-dolise-les-bleus-vont-senvoler-pour-le-mondial-un-peu-rassures-20260608_6HXKIOWAZZHGTI5HCGJBSSDCJI/",
+      "summary": "Les hommes de Didier Deschamps ont battu l’Irlande du Nord (3-1) ce lundi 8 juin à Lille. Leur dernier match de préparation avant de défier le Sénégal le 16 juin en Coupe du monde.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-06-08T21:25:44+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "69a8755be939"
+    },
+    {
+      "title": "Apple dévoile une version dopée à l’IA de Siri, son assistant personnel",
+      "url": "https://www.lemonde.fr/pixels/article/2026/06/08/apple-devoile-une-version-dopee-a-l-ia-de-siri-son-assistant-personnel_6699653_4408996.html",
+      "summary": "Le nouveau Siri reposera en partie sur Gemini, l’intelligence artificielle de Google. Il flottera par-dessus les applications du constructeur à la pomme et sera théoriquement capable de les piloter de façon coordonnée. La date de son lancement en Europe demeure toutefois inconnue.",
+      "image": "https://img.lemde.fr/2026/06/08/670/0/7341/3670/644/322/60/0/99aff76_ftp-1-qfaljvfyfhzw-5263027-01-06.jpg",
+      "published_at": "2026-06-08T23:24:29+02:00",
+      "source": "Le Monde",
+      "category": "Tech",
+      "id": "d0e7543bf3af"
+    },
+    {
+      "title": "Apple annonce Siri AI avec ses propres modèles et un entraînement Google : le vrai début de l’IA sur iPhone ?",
+      "url": "https://www.numerama.com/tech/2271171-apple-annonce-siri-ai-propulse-par-google-gemini-le-vrai-debut-de-lia-sur-iphone.html",
+      "summary": "Comme prévu, Siri va être totalement transformé. Rebaptisé Siri AI et propulsé par les modèles maison d'Apple conçus avec l'aide de Google, l'assistant vocal d'Apple devient un véritable chatbot intégré à iOS et macOS, capable de comprendre l'écran, d'agir dans les apps et de tenir des conversations bien plus naturelles, a annoncé Apple lors de la WWDC 2026.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-06-08T21:11:58+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "c70a91338b15"
+    },
+    {
+      "title": "Les Bleus s'imposent facilement contre l'Irlande du Nord avant de lancer leur quête aux Etats-Unis... Revivez le dernier match de préparation à la Coupe du monde",
       "url": "https://www.franceinfo.fr/sports/directs/direct-france-irlande-du-nord-les-bleus-veulent-engranger-de-la-confiance-avant-de-s-envoler-pour-le-mondial-suivez-le-dernier-match-de-preparation-a-la-coupe-du-monde_8048924.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les joueurs de Didier Deschamps disputent un dernier match de préparation en France, lundi, à Lille, face aux Nord-Irlandais, avant de s'envoler pour les Etats-Unis.",
-      "image": "https://www.franceinfo.fr/pictures/I5Lg5sKuP8UmV7Yyn0IKRzpFIOY/0x0:1024x576/432x243/filters:format(jpg)/2026/06/08/6a271727a3e7a171986702.jpg",
-      "published_at": "2026-06-08T21:25:57+02:00",
+      "summary": "Avec un triplé, Michael Olise a offert une belle victoire aux Bleus et à Didier Deschamps pour son dernier match comme sélectionneur sur le sol français (3-1), lundi.",
+      "image": "https://www.franceinfo.fr/pictures/NxkVvOTgkM12o_s_3Foe5uuQgf8/0x0:1024x576/432x243/filters:format(jpg)/2026/06/08/6a271fd53c92f000751957.jpg",
+      "published_at": "2026-06-08T23:05:29+02:00",
       "source": "France Info",
       "category": "Politique",
       "id": "79a66b800f64"
     },
     {
-      "title": "EN DIRECT - Affaire Lyhanna : le plus haut procureur de France appelle à «tout mettre à plat» face à une «catastrophe» et un «échec» de la justice",
+      "title": "Alerte autour de Miasma : le ver informatique qui se glisse dans Claude Code pour voler les secrets des développeurs",
+      "url": "https://www.numerama.com/cyberguerre/2270899-alerte-autour-de-miasma-le-ver-informatique-qui-se-glisse-dans-claude-code-pour-voler-les-secrets-des-developpeurs.html",
+      "summary": "Un groupe de cybercriminels a mené une série d'attaques coordonnées contre la chaîne d'approvisionnement logicielle, compromettant des dizaines de paquets et de dépôts de développement. Au coeur de leur campagne ? Un malware nommé Miasma qui injecte sa charge utile dans les outils que les développeurs utilisent chaque jour.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-06-08T20:41:52+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "e131fb34dc91"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky a eu une conversation téléphonique avec les émissaires américains Steve Witkoff et Jared Kushner",
+      "url": "https://www.lemonde.fr/international/live/2026/06/08/en-direct-guerre-en-ukraine-volodymyr-zelensky-a-eu-une-conversation-telephonique-avec-les-emissaires-americains-steve-witkoff-et-jared-kushner_6698620_3210.html",
+      "summary": "« Je suis reconnaissant de leur volonté de travailler de la manière la plus active possible, dans les semaines à venir, pour redonner un élan à la diplomatie visant à mettre fin à la guerre de la Russie contre l’Ukraine », a expliqué le président ukrainien sur ses réseaux sociaux, à la suite de cet appel.",
+      "image": "https://img.lemde.fr/2026/02/24/509/146/2130/1065/644/322/60/0/8949a64_ftp-1-rxcmtqg0gqmq-5283394-01-06.jpg",
+      "published_at": "2026-06-08T22:41:15+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "d7629c7f342d"
+    },
+    {
+      "title": "iOS 27 est officiel : toutes les nouveautés sur iPhone et la date de sortie",
+      "url": "https://www.numerama.com/tech/2262023-ios-27-siriai-nouveautes-date-de-sortie-iphone-compatibles.html",
+      "summary": "iOS 27 est officiel. La mise à jour des iPhone, dévoilée le 8 juin à la WWDC pour la dernière keynote de Tim Cook, marque le vrai virage d'Apple dans l'IA générative avec Siri AI, un assistant entièrement repensé conçu avec l'aide de Google. Au programme aussi : de l'édition photo par IA, un gros volet sécurité des enfants et un travail de fond sur la stabilité. Mauvaise nouvelle pour les Français",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-06-08T20:39:42+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "e25b68baad4e"
+    },
+    {
+      "title": "Berlin et Paris officialisent l’arrêt du projet franco-allemand d’avion de combat de nouvelle génération",
+      "url": "https://www.lemonde.fr/international/article/2026/06/08/berlin-et-paris-officialisent-l-arret-du-projet-franco-allemand-d-avion-de-combat-de-nouvelle-generation_6699652_3210.html",
+      "summary": "Malgré une volonté politique affichée par l’Allemagne et la France depuis 2017, Dassault et Airbus n’ont pas réussi à s’entendre. Les deux pays doivent recentrer leur coopération industrielle de défense « sur un petit nombre de projets réalistes et pertinents », précise Berlin.",
+      "image": "https://img.lemde.fr/2026/06/08/357/0/6000/3000/644/322/60/0/ca92f74_upload-1-gwqaoemdy8sx-2023-06-19t082314z-1827749520-rc28m1awakhr-rtrmadp-3-france-airshow.JPG",
+      "published_at": "2026-06-08T22:35:13+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "2e45ae89c6be"
+    },
+    {
+      "title": "Une joueuse de rugby de Dordogne, visée par une insulte raciste en plein match, va porter plainte",
+      "url": "https://www.franceinfo.fr/sports/rugby/une-joueuse-de-rugby-de-dordogne-visee-par-une-insulte-raciste-en-plein-match-va-porter-plainte_8051096.html#xtor=RSS-3-[lestitres]",
+      "summary": "Lors d'un match à l'extérieur samedi dans le Tarn-et-Garonne, une joueuse de l'US Bergerac assure avoir été insultée de \"putain de noire\" par son adversaire, indique lundi ICI Périgord.",
+      "image": "https://www.franceinfo.fr/pictures/w_V6uwBbGr9aTu51OHhBpLO1mWg/0x53:1024x629/432x243/filters:format(jpg)/2025/11/17/000-69dm7ke-691b3c263d5ab675610111.jpg",
+      "published_at": "2026-06-08T22:13:50+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "466f8a9a1c53"
+    },
+    {
+      "title": "Rassemblement pour Lyhanna : à Auch, «on est tous révoltés, on se demande qui va protéger nos enfants»",
+      "url": "https://www.liberation.fr/societe/rassemblement-pour-lyhanna-a-auch-on-est-tous-revoltes-on-se-demande-qui-va-proteger-nos-enfants-20260608_SX37JFS26FB5NGF3SSAI7SDMSI/",
+      "summary": "Plusieurs centaines de personnes se sont rassemblées devant le tribunal judiciaire de la ville gersoise, ce lundi 8 juin au soir, pour dénoncer les ratés de la justice dans le dossier du meurtre de la collégienne de 11 ans et interpeller les responsables politiques.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-08T20:08:07+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "ebc65a76cef3"
+    },
+    {
+      "title": "Plus de 4 000 euros de dons pour le Planning familial, privé de subventions par la mairie RN de Carpentras",
+      "url": "https://www.franceinfo.fr/politique/front-national/plus-de-4-000-euros-de-dons-pour-le-planning-familial-prive-de-subventions-par-la-mairie-rn-de-carpentras_8051087.html#xtor=RSS-3-[lestitres]",
+      "summary": "La cagnotte avait été lancée après la suppression d'une subvention de 3 000 euros décidée par la mairie, dirigée par le Rassemblement national, indique ICI Vaucluse, lundi.",
+      "image": "https://www.franceinfo.fr/pictures/vWN4uRrSlwcPbeDGGiUBP1tLmlY/0x53:1024x629/432x243/filters:format(jpg)/2024/02/22/planning-familial-65d71cc174359117594395.jpg",
+      "published_at": "2026-06-08T22:07:01+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "982615018c8b"
+    },
+    {
+      "title": "EN DIRECT - Affaire Lyhanna : Lecornu réunit des ministres mardi pour prendre de nouvelles mesures législatives",
       "url": "https://www.liberation.fr/societe/police-justice/en-direct-disparition-de-lyhanna-les-procureurs-generaux-attendus-a-la-chancellerie-pour-une-reunion-de-travail-20260608_FRWPRFJTTRCZFI4II7EC3T7GWA/",
       "summary": "La Préfecture de police de Paris a interdit la manifestation prévue devant le ministère, pour dénoncer les défaillances de la justice dans l’affaire Lyhanna.",
       "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-06-08T19:18:32+00:00",
+      "published_at": "2026-06-08T20:01:20+00:00",
       "source": "Libération",
       "category": "Société",
       "id": "cc1d29b37cd0"
+    },
+    {
+      "title": "Meurtre d'un homme homosexuel à Sorgues : les deux principaux accusés écopent de 22 ans de réclusion criminelle",
+      "url": "https://www.franceinfo.fr/faits-divers/meurtre-d-un-homme-homosexuel-a-sorgues-les-deux-principaux-accuses-ecopent-de-22-ans-de-reclusion-criminelle_8051075.html#xtor=RSS-3-[lestitres]",
+      "summary": "Mickaël, 30 ans, avait été retrouvé mort chez lui à Sorgues en mars 2023, tué par asphyxie. Cinq personnes ont été condamnées par la cour d'assises, rapporte lundi ICI Vaucluse.",
+      "image": "https://www.franceinfo.fr/pictures/ka-YjpoEWqBcHfieZMlZxy4pBp4/0x0:1200x675/432x243/filters:format(jpg)/2026/06/08/6a271eabd7e5c966177333.jpg",
+      "published_at": "2026-06-08T22:00:52+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "13e430d900ff"
+    },
+    {
+      "title": "Un couple de retraités présent sur le bateau contaminé à l'hantavirus raconte son isolement \"assez carcéral\"",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/on-a-droit-a-une-heure-de-sortie-par-jour-un-couple-de-retraites-present-sur-le-hondius-raconte-son-isolement_8051045.html#xtor=RSS-3-[lestitres]",
+      "summary": "Julia et Roland Seitre, deux retraités présents sur le \"MV Hondius\", navire où s'est déclaré le foyer d'hantavirus, sont confinés dans leur chambre de l'hôpital Bichat. Ils racontent à France 2 avoir saisi le juge des libertés pour pouvoir être renvoyés chez eux le plus vite possible.",
+      "image": "https://www.franceinfo.fr/pictures/rzVSt1Ycryd-YdqdsDBuDVvRGok/0x23:1277x742/432x243/filters:format(jpg)/2026/06/08/6a2717208e16f002992722.jpg",
+      "published_at": "2026-06-08T22:00:41+02:00",
+      "source": "France Info",
+      "category": "Tech",
+      "id": "0a2ad648284f"
+    },
+    {
+      "title": "L’ouest de Cuba, dont La Havane, secoué par un séisme de magnitude 6,1",
+      "url": "https://www.lemonde.fr/international/article/2026/06/08/l-ouest-de-cuba-dont-la-havane-secoue-par-un-seisme-de-magnitude-6-1_6699650_3210.html",
+      "summary": "Le tremblement de terre s’est produit à environ 100 kilomètres de l’extrémité occidentale de l’île, selon l’Institut géologique des Etats-Unis.",
+      "image": "https://img.lemde.fr/2026/06/08/663/0/7956/3978/644/322/60/0/4b5c70a_ftp-1-mmfqixkzdwm7-5263226-01-06.jpg",
+      "published_at": "2026-06-08T21:58:58+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "7c36d1330476"
+    },
+    {
+      "title": "Fifa : Michel Platini porte plainte contre le patron de la Fifa Infantino pour trafic d’influence et dénonciation calomnieuse",
+      "url": "https://www.liberation.fr/sports/football/fifa-michel-platini-porte-plainte-contre-le-patron-de-la-fifa-infantino-pour-trafic-dinfluence-et-denonciation-calomnieuse-20260608_YP37WUOANNDSTE7U6NGXSG43JI/",
+      "summary": "L’action en justice de l’ancien patron de l’UEFA, ouverte lundi 8 juin, cible également deux anciens responsables de la Fifa. Elle s’accompagne d’une constitution de partie civile et va «entraîner la désignation d’un juge d’instruction», précise l’ex-capitaine des Bleus.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-08T19:53:17+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "984297f36572"
+    },
+    {
+      "title": "Apple « abandonne » d’un coup cinq générations d’Apple Watch",
+      "url": "https://www.numerama.com/tech/2271299-apple-abandonne-dun-coup-cinq-generations-dapple-watch.html",
+      "summary": "Avec watchOS 27, Apple coupe le support de cinq générations d'Apple Watch d'un coup, dont la Series 9 sortie fin 2023 et la Ultra 1. Du jamais-vu chez la marque, et de quoi laisser des millions de montres récentes sur le bord de la route.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-06-08T19:52:31+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "3864a04c820c"
+    },
+    {
+      "title": "Une vidéo d'élèves en tenue militaire dans une maternelle de Seine-Saint-Denis fait polémique",
+      "url": "https://www.franceinfo.fr/faits-divers/une-video-d-eleves-en-tenue-militaire-dans-une-maternelle-de-seine-saint-denis-fait-polemique_8051054.html#xtor=RSS-3-[lestitres]",
+      "summary": "La polémique a enflé jusqu'à ce que le ministre de l'Éducation nationale prenne la parole au sujet de cette vidéo tronquée, tournée samedi lors d'un spectacle d'école à Montreuil, selon France Inter.",
+      "image": "https://www.franceinfo.fr/pictures/agD5-5kDCa1PqzgrDAcni9EKMGs/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/08/6a2719871864f827977766.png",
+      "published_at": "2026-06-08T21:47:56+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "8db8cd8c599c"
+    },
+    {
+      "title": "Coupe du monde 2026 : l’arbitre somalien Omar Abdulkadir Artan refoulé à son entrée aux Etats-Unis",
+      "url": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-larbitre-somalien-omar-abdulkadir-artan-refoule-a-son-entree-aux-etats-unis-20260608_GKGXHTMMWNBTRGR3ASTO5GV6UA/",
+      "summary": "L’homme en noir de 34 ans, meilleur arbitre africain en 2025, s’est vu refuser l’entrée aux Etats-Unis alors qu’il venait de débarquer à l’aéroport de Miami. La Somalie fait partie des pays pour lesquels Donald Trump a durci les conditions d’accès, y compris ses réfugiés.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-06-08T19:44:21+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "5145bb306c73"
+    },
+    {
+      "title": "EN DIRECT, guerre au Moyen-Orient : Israël rejette les conditions de l’Iran et « continuera d’agir » au Liban contre le Hezbollah",
+      "url": "https://www.lemonde.fr/international/live/2026/06/08/en-direct-guerre-au-moyen-orient-israel-rejette-les-conditions-de-l-iran-et-continuera-d-agir-au-liban-contre-le-hezbollah_6697888_3210.html",
+      "summary": "« Tsahal continuera d’agir au Liban contre l’organisation terroriste Hezbollah », a déclaré le ministre de la défense israélien, Israel Katz. Le premier ministre de l’Etat hébreu, Benyamin Nétanyahou, a assuré qu’Israël riposterait « avec force » à toute nouvelle attaque iranienne, exerçant son droit à se défendre « chaque fois que nécessaire ».",
+      "image": "https://img.lemde.fr/2026/06/08/431/0/5169/2584/644/322/60/0/edf3b30_ftp-1-1f1czmccygi3-5259710-01-06.jpg",
+      "published_at": "2026-06-08T21:31:29+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "24fdd58e06cf"
+    },
+    {
+      "title": "MaPrimeRénov’ : sept personnes condamnées pour avoir fraudé pour plus de 1,13 million d’euros en neuf mois",
+      "url": "https://www.lemonde.fr/societe/article/2026/06/08/maprimerenov-sept-personnes-condamnees-pour-avoir-fraude-pour-plus-de-1-13-million-d-euros-en-neuf-mois_6699648_3224.html",
+      "summary": "Les prévenus ont été condamnés à des peines allant de 10 000 à 400 000 euros d’amende pour une fraude visant à faire payer des audits énergétiques expéditifs, voire fictifs.",
+      "image": "https://img.lemde.fr/2026/06/08/500/0/6000/3000/644/322/60/0/a5f574e_upload-1-ey30bqfq6owq-000-84lt9nq.jpg",
+      "published_at": "2026-06-08T21:23:00+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "fd4f4e10a8e2"
     },
     {
       "title": "Apple dévoile macOS Golden Gate et promet qu’il va améliorer la stabilité des Mac",
@@ -41,266 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "9f6cf4ec8c94"
-    },
-    {
-      "title": "INFO FRANCETV. Guerre en Ukraine : le président ukrainien, Volodymyr Zelensky, officiellement invité au G7 à Evian-les-Bains",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/info-francetv-guerre-en-ukraine-le-president-ukrainien-volodymyr-zelensky-officiellement-invite-au-g7-a-evian-les-bains_8050931.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les dirigeants des sept puissances se réunissent en Haute-Savoie les 15, 16 et 17 juin. Une session sera organisée avec le président ukrainien pour \"travailler à l'unité derrière l'Ukraine\".",
-      "image": "https://www.franceinfo.fr/pictures/6_yk3GF05Bn1oSVXrW1mD_oE13I/0x0:3490x1963/432x243/filters:format(jpg)/2026/06/08/6a26fa8a098d9670346808.jpg",
-      "published_at": "2026-06-08T21:14:15+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "14d1116a8ac5"
-    },
-    {
-      "title": "«Quotidien» : Ambre Chalumeau et Maïa Mazaurette quittent l’émission de TMC après six années",
-      "url": "https://www.liberation.fr/economie/medias/quotidien-ambre-chalumeau-et-maia-mazaurette-quittent-lemission-de-tmc-apres-six-annees-20260608_HQVA3DQJABEOXGWUTA5FO2374Y/",
-      "summary": "Selon les informations du «Parisien», les deux chroniqueuses, arrivées en 2020, ne seront plus sur le plateau de Yann Barthès à la rentrée 2026.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-06-08T19:13:31+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "1d2838d21967"
-    },
-    {
-      "title": "Affaire Lyhanna : Gérald Darmanin sur une ligne de crête entre opinion et magistrats",
-      "url": "https://www.lemonde.fr/societe/article/2026/06/08/affaire-lyhanna-gerald-darmanin-sur-une-ligne-de-crete-entre-opinion-et-magistrats_6699647_3224.html",
-      "summary": "Après avoir réuni les procureurs généraux, le ministre a adouci ses propos envers la magistrature lundi lors d’une conférence de presse. Depuis la découverte du corps de la collégienne, sa communication sur les défaillances de l’institution, sans attendre les résultats de l’enquête administrative, avait braqué une partie de la profession.",
-      "image": "https://img.lemde.fr/2026/06/08/492/0/5905/2952/644/322/60/0/707d20e_ftp-1-t4ielytxdl1i-2026-06-08t101908z-1029248740-rc2mpla4mgbo-rtrmadp-3-france-crime.JPG",
-      "published_at": "2026-06-08T21:12:24+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "f5b3deab84c7"
-    },
-    {
-      "title": "\"C'est une catastrophe\" : Rémy Heitz, plus haut magistrat de France, appelle à \"tout mettre à plat\" après la mort de Lyhanna",
-      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/video-c-est-une-catastrophe-remy-heitz-plus-haut-magistrat-de-france-appelle-a-tout-mettre-a-plat-apres-la-mort-de-lyhanna_8050997.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le procureur général près la Cour de cassation était l'invité du \"20 Heures\" de Léa Salamé, sur France 2, lundi soir. \"Il faut avancer pour que plus jamais nous n'ayons ce type de malheur\", lance-t-il.",
-      "image": "https://www.franceinfo.fr/pictures/xiqnqNzI-AE3oHnreO8DFlThUdE/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/08/6a27101667472774299570.jpg",
-      "published_at": "2026-06-08T21:05:44+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "5cc71738a9f5"
-    },
-    {
-      "title": "Apple annonce Siri AI propulsé par Google Gemini : le vrai début de l’IA sur iPhone ?",
-      "url": "https://www.numerama.com/tech/2271171-apple-annonce-siri-ai-propulse-par-google-gemini-le-vrai-debut-de-lia-sur-iphone.html",
-      "summary": "Comme prévu Siri va être totalement transformé. Rebaptisé Siri AI et propulsé par une version maison de Gemini, l’assistant vocal d’Apple devient un véritable chatbot intégré à iOS et macOS, capable de comprendre l’écran, d’agir dans les apps et de tenir des conversations bien plus naturelles, a annoncé Apple lors de la WWDC 2026.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-06-08T18:53:42+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "c70a91338b15"
-    },
-    {
-      "title": "«Nous savons très bien que nos choix consistent à limiter le pire» : les magistrats réagissent à la charge de Gérald Darmanin sur l’affaire Lyhanna",
-      "url": "https://www.liberation.fr/societe/police-justice/nous-savons-tres-bien-que-nos-choix-consistent-a-limiter-le-pire-les-magistrats-reagissent-a-la-charge-de-gerald-darmanin-sur-laffaire-lyhanna-20260608_SAANNOTDNVDYHBJJCOMSWJYPBE/",
-      "summary": "Alors que les procureurs généraux étaient convoqués ce lundi 8 juin par le ministre de la Justice dans le sillage de l’affaire Lyhanna, des parquetiers rappellent leurs conditions de travail dégradées pour faire face au fléau des violences sur mineurs.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-06-08T18:49:17+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "d0364901c0ed"
-    },
-    {
-      "title": "Léon XIV s’inquiète du réarmement et en appelle au « courage » en faveur de la paix devant le Parlement espagnol",
-      "url": "https://www.lemonde.fr/international/article/2026/06/08/leon-xiv-s-inquiete-du-rearmement-et-en-appelle-au-courage-en-faveur-de-la-paix-devant-le-parlement-espagnol_6699645_3210.html",
-      "summary": "Le pape a promis « une réponse plus efficace » aux violences sexuelles dans l’Eglise après avoir rencontré des victimes à Madrid.",
-      "image": "https://img.lemde.fr/2026/06/08/491/0/5900/2950/644/322/60/0/ffc51ab_ftp-1-22djee50bt05-2026-06-08t100211z-524522344-rc2lplayef1v-rtrmadp-3-pope-spain.JPG",
-      "published_at": "2026-06-08T20:45:10+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "d77e48c6d24a"
-    },
-    {
-      "title": "Mort de Lyhanna : le rassemblement prévu lundi soir à Paris déplacé place Louis-Lépine, des tensions devant le ministère de la Justice",
-      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/direct-mort-de-lyhanna-le-president-de-la-conference-nationale-des-procureurs-deplore-que-les-magistrats-soient-jetes-en-pature_8049935.html#xtor=RSS-3-[lestitres]",
-      "summary": "Près de 200 rassemblements étaient prévus lundi soir dans toute la France.",
-      "image": "https://www.franceinfo.fr/pictures/ECiVnvG-RaRQnjY3FpnoiYLSnFU/0x625:6000x4000/432x243/filters:format(jpg)/2026/06/08/6a2700366fb0d570234832.jpg",
-      "published_at": "2026-06-08T20:32:22+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "93b5070e8971"
-    },
-    {
-      "title": "Siri AI, iOS 27, blocage UE… Le résumé de la WWDC 2026 d’Apple",
-      "url": "https://www.numerama.com/tech/2269641-wwdc-2026-toutes-les-annonces-apple-ios27-macos27-siri.html",
-      "summary": "Apple bascule dans l'ère de l'IA générative avec Siri AI, un assistant entièrement repensé conçu avec l'aide de Google. iOS 27, macOS Golden Gate et les autres mises à jour misent sur la stabilité, pendant que l'Europe se retrouve privée du nouveau Siri au lancement. On résume tout ce qu'il faut retenir.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-06-08T18:31:10+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "256a45d1e98b"
-    },
-    {
-      "title": "«L’Oligarque et le Marchand d’art», un documentaire entre œuvres mythiques et manœuvres économiques",
-      "url": "https://www.liberation.fr/culture/series/loligarque-et-le-marchand-dart-un-documentaire-entre-oeuvres-mythiques-et-manoeuvres-economiques-20260608_TKW7E46VUNEOFPLH2SNBEUAGRY/",
-      "summary": "En se plongeant dans la relation commerciale tumultueuse entre Dmitri Rybolovlev et Yves Bouvier, la série documentaire diffusée sur Arte souligne la folie d’un marché de l’art en surchauffe.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-06-08T18:31:00+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "4b2ad675c9b5"
-    },
-    {
-      "title": "La finalisation du rachat de l’espagnol MasOrange par Orange tombe à point nommé pour celui de SFR",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/08/la-finalisation-du-rachat-de-l-espagnol-masorange-par-orange-tombe-a-point-nomme-pour-celui-de-sfr_6699644_3234.html",
-      "summary": "Orange vient de mettre la main sur l’intégralité des parts de sa branche espagnole. Cette annonce, qui intervient juste après l’accord pour le rachat conjoint de SFR avec Bouygues Telecom et Free, pourrait favoriser l’examen de ce « deal » par l’Autorité de la concurrence, jugée plus accommodante que Bruxelles.",
-      "image": "https://img.lemde.fr/2026/06/08/302/0/3624/1812/644/322/60/0/0b3f948_upload-1-bwdkslmct87s-000-36za44x.jpg",
-      "published_at": "2026-06-08T20:25:49+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "2c5ca63ce526"
-    },
-    {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : Nétanyahou répond à «son ami Trump» et défend «le droit d’Israël à se défendre»",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-et-israel-reprennent-leurs-frappes-mutuelles-apres-deux-mois-de-cessez-le-feu-20260608_JBJKMBD4CBDPFBXG6RXAOOT7NQ/",
-      "summary": "L’Iran a annoncé ce lundi 8 juin la fin de son opération contre Israël, après une reprise de tirs dimanche. Mais il a aussi menacé de bombardements plus intenses en cas de poursuite des attaques contre le Liban.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-06-08T18:25:45+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "248f1326c59d"
-    },
-    {
-      "title": "Le Conseil d'orientation des retraites va revoir à la hausse sa prévision de déficit du système à long terme",
-      "url": "https://www.franceinfo.fr/economie/retraite/le-conseil-d-orientation-des-retraites-cor-va-revoir-a-la-hausse-sa-prevision-de-deficit-du-systeme-a-long-terme_8050964.html#xtor=RSS-3-[lestitres]",
-      "summary": "Afin de limiter la dégradation des comptes, l'instance propose de repousser progressivement l'âge légal de départ à la retraite, jusqu'à 67,6 ans en 2070.",
-      "image": "https://www.franceinfo.fr/pictures/JJqFS5d9puNBnZ-q8Clbj4nKH5o/0x590:7488x4802/432x243/filters:format(jpg)/2026/06/08/6a2706fd840a3962478516.jpg",
-      "published_at": "2026-06-08T20:25:33+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "9079994f6816"
-    },
-    {
-      "title": "Projet d'avion de combat européen : Friedrich Merz et Emmanuel Macron d'accord pour arrêter le programme Scaf, selon l'Allemagne",
-      "url": "https://www.franceinfo.fr/economie/aeronautique/projet-d-avion-de-combat-europeen-friedrich-merz-et-emmanuel-macron-d-accord-pour-arreter-le-programme-scaf-selon-l-allemagne_8050823.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le programme était bloqué depuis plusieurs mois en raison de tensions industrielles franco-allemandes entre Airbus et Dassault.",
-      "image": "https://www.franceinfo.fr/pictures/_XrM9HcEED1HHTFf6f7d1YyIAug/0x0:4538x2552/432x243/filters:format(jpg)/2026/06/08/6a26eefec2dac789046999.jpg",
-      "published_at": "2026-06-08T20:24:12+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "6fca371c9aa3"
-    },
-    {
-      "title": "Comment installer iOS 27 sur son iPhone et quand sortira la version finale ?",
-      "url": "https://www.numerama.com/tech/2269643-comment-installer-ios-27-sur-son-iphone-et-quand-sortira-la-version-finale.html",
-      "summary": "Apple vient d'annoncer iOS 27, la future mise à jour de l'iPhone qui sera disponible pour tous en septembre. Une mise à jour importante qui introduit plusieurs nouveautés comme le nouveau Siri en tant que chatbot IA. Il est déjà possible de l'installer en bêta, mais mieux vaut sans doute être prudent.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-06-08T18:23:51+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "9196bfa3d7ef"
-    },
-    {
-      "title": "Dans sa guerre contre le Hezbollah, le retour du «bourbier libanais» qui hante Israël",
-      "url": "https://www.liberation.fr/international/dans-sa-guerre-contre-le-hezbollah-le-retour-du-bourbier-libanais-qui-hante-israel-20260608_YDJIR3KJARAUZKZKMJ2GRI3XYU/",
-      "summary": "Dans le sud du pays, le mouvement armé rejoue la stratégie qui avait conduit au retrait israélien de 2000. Une guerre d’usure dont le coût, humain et politique, ne cesse de grimper.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-06-08T18:23:06+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "64240be395e7"
-    },
-    {
-      "title": "Le Conseil d’orientation des retraites va revoir à la hausse sa prévision de déficit du système à long terme",
-      "url": "https://www.liberation.fr/economie/le-conseil-dorientation-des-retraites-va-revoir-a-la-hausse-sa-prevision-de-deficit-du-systeme-a-long-terme-20260608_UMIKCIV4ONFVBGZBRN5JCNLLME/",
-      "summary": "Le déficit du système de retraites devrait être plus important que prévu à l’horizon 2070, en raison notamment du recul de la natalité, mais devrait rester stable à moyen terme, jusqu’en 2045.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-06-08T18:18:12+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "24a7c2738079"
-    },
-    {
-      "title": "Coupe du monde 2026 : où regarder les matchs en direct ou en replay",
-      "url": "https://www.numerama.com/pop-culture/2270237-coupe-du-monde-2026-ou-regarder-les-matchs-en-direct-ou-en-replay.html",
-      "summary": "Le 11 juin approche et vous cherchez sur quelle chaîne suivre la Coupe du monde 2026 et les matchs de l'équipe de France ? M6 diffuse une bonne partie des rencontres en clair, dont tous les matchs des Bleus, tandis que beIN Sports propose l'intégralité de la compétition sur abonnement. On vous explique tout, du match d'ouverture aux horaires.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-08T18:15:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "734249907eca"
-    },
-    {
-      "title": "Annonces de Darmanin après l’affaire Lyhanna : «Examiner 70 000 plaintes en un mois, ce n’est pas possible»",
-      "url": "https://www.liberation.fr/societe/police-justice/annonces-de-darmanin-apres-laffaire-lyhanna-examiner-70-000-plaintes-en-un-mois-ce-nest-pas-possible-20260608_FUNU5IATEFAFRL3OOKM6KTUYFU/",
-      "summary": "Le ministre de la Justice a demandé dimanche 7 juin aux juridictions de passer en revue les 70 000 dossiers ouverts concernant des violences sexuelles sur mineurs, d’ici le 14 juillet. Une demande «infaisable», selon la profession.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-08T18:13:13+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "f25de30b7980"
-    },
-    {
-      "title": "«Le premier acte d’une justice qui se met enfin en ordre de marche» : Patrick Bruel en garde à vue après des semaines de retentissement médiatique",
-      "url": "https://www.liberation.fr/societe/police-justice/le-premier-acte-dune-justice-qui-se-met-enfin-en-ordre-de-marche-patrick-bruel-en-garde-a-vue-apres-des-semaines-de-retentissement-mediatique-20260608_VYQRMAUSUJCFTDG7PPSERGSSOI/",
-      "summary": "L’artiste de 67 ans est auditionné depuis lundi matin par la police judiciaire parisienne sur des faits de violences sexuelles sur 13 victimes «à ce stade». Il est mis en cause par une trentaine de femmes au total et «d’autres plaintes pour viol» sont à venir.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-06-08T18:08:50+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "1eb6b154b647"
-    },
-    {
-      "title": "Défense européenne : le projet d’avion de combat franco-allemand Scaf se crashe",
-      "url": "https://www.liberation.fr/economie/defense-europeenne-le-projet-davion-de-combat-franco-allemand-scaf-se-crashe-20260608_2CYLQ4Y2JBGAVCASVFNEDNZQNY/",
-      "summary": "Emmanuel Macron et Friedrich Merz ont acté, ce lundi 8 juin, la fin du système de combat aérien du futur, après les tiraillements entre Dassault et Airbus. Un coup dur pour le réarmement européen.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-08T18:07:49+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "a72e3c1aea89"
-    },
-    {
-      "title": "Entre l’Iran et Israël, une trêve à l’ombre des missiles",
-      "url": "https://www.liberation.fr/international/entre-liran-et-israel-une-treve-a-lombre-des-missiles-20260608_AX6A6BTALRFBRFGW65LAXEYPSQ/",
-      "summary": "Tel-Aviv et Téhéran ont repris puis suspendu leurs frappes en quelques heures ce lundi 8 juin, illustrant l’extrême fragilité d’un cessez-le-feu aux contours flous, empoisonné par la question libanaise.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-06-08T18:00:54+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "9a1d3115b116"
-    },
-    {
-      "title": "NBA finales : pour la venue de Trump au match 3 entre les Spurs et les Knicks, la sécurité met les bouchées doubles",
-      "url": "https://www.liberation.fr/international/amerique/nba-finales-pour-la-venue-de-trump-au-match-3-entre-les-spurs-et-les-knicks-la-securite-met-les-bouchees-doubles-20260608_BVWBYDV73VHTHLBW4S5WERHF2E/",
-      "summary": "Le président américain, fan autoproclamé des Knicks de New York, sera dans les travées du Madison Square Garden ce lundi soir dans la métropole américaine, pour un match déjà décisif pour désigner le vainqueur du championnat américain de basket.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-08T17:59:21+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "5688b9a25513"
-    },
-    {
-      "title": "FIFA : Michel Platini porte à son tour plainte contre Gianni Infantino pour trafic d’influence et dénonciation calomnieuse",
-      "url": "https://www.lemonde.fr/societe/article/2026/06/08/fifa-michel-platini-porte-a-son-tour-plainte-contre-gianni-infantino-pour-trafic-d-influence-et-denonciation-calomnieuse_6699641_3224.html",
-      "summary": "L’ancienne légende des Bleus accuse l’actuel président de la FIFA et deux de ses anciens collaborateurs d’avoir brisé, en 2015, son ascension vers la présidence de l’instance qui régit le football mondial.",
-      "image": "https://img.lemde.fr/2025/03/04/416/0/5000/2500/644/322/60/0/fbcd735_sirius-fs-upload-1-auu46m4cba9j-1741103579517-000-36z63en.jpg",
-      "published_at": "2026-06-08T19:49:02+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "39a5b1a4c7ba"
-    },
-    {
-      "title": "Aires marines protégées, plan contre les déchets plastiques : les annonces du gouvernement pour l’océan jugées peu ambitieuses",
-      "url": "https://www.lemonde.fr/planete/article/2026/06/08/aires-marines-protegees-plan-contre-les-dechets-plastiques-les-annonces-du-gouvernement-pour-l-ocean-jugees-peu-ambitieuses_6699640_3244.html",
-      "summary": "La France, qui a organisé il y a un an le sommet mondial sur l’océan, entérine un accroissement des surfaces protégées. Mais, dans les faits, les mesures de conservation de la biodiversité ne sont pas renforcées.",
-      "image": "https://img.lemde.fr/2026/06/08/412/0/4947/2473/644/322/60/0/6f3fcd9_upload-1-ghu8klaun1ny-maxnewsspecialtwo428110.jpg",
-      "published_at": "2026-06-08T19:48:44+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "da524dadc87e"
-    },
-    {
-      "title": "La guerre est plus souvent un échec qu’une victoire, par Serge July",
-      "url": "https://www.liberation.fr/idees-et-debats/opinions/la-guerre-est-plus-souvent-un-echec-quune-victoire-par-serge-july-20260608_V2VDJZ7DGRANJA5OHPK7VH4QQM/",
-      "summary": "En misant sur des conflits surprise qui finalement s’embourbent, Poutine, Trump et Nétanyahou s’inscrivent dans la droite lignée de Napoléon III : celle des perdants.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-06-08T17:44:00+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "93cc676b4529"
     }
   ]
 }
