@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-06-08T21:57:25.199379+00:00",
+  "generated_at": "2026-06-08T23:17:58.783332+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "La « nouvelle France » de LFI « ne peut pas se construire sur la division », tacle le patron des socialistes, Olivier Faure",
+      "url": "https://www.lemonde.fr/politique/article/2026/06/09/la-nouvelle-france-de-lfi-ne-peut-pas-se-construire-sur-la-division-tacle-le-patron-des-socialistes-olivier-faure_6699720_823448.html",
+      "summary": "Le premier secrétaire du Parti socialiste a profité de la soirée de lancement de Noûs, le nouveau think tank du parti, pour répondre aux dernières critiques de Jean-Luc Mélenchon sur la composition des invités, dont l’ancien préfet de police de Paris, Didier Lallement.",
+      "image": "https://img.lemde.fr/2026/05/05/500/0/6000/3000/644/322/60/0/5de34a2_ftp-1-d33r0lvkordd-5953350-01-06.jpg",
+      "published_at": "2026-06-09T00:42:36+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "ebf0c78fe57d"
+    },
+    {
+      "title": "IA : le fondateur de ChatGPT, OpenAI, annonce qu'il a déposé son projet confidentiel d'entrée en Bourse",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/ia-le-fondateur-de-chatgpt-openai-annonce-qu-il-a-depose-son-projet-confidentiel-d-entree-en-bourse_8051153.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'annonce d'OpenAI, faite pour anticiper des fuites sur ce sujet sensible, intervient une semaine après celle de son rival Anthropic, créateur du modèle Claude.",
+      "image": "https://www.franceinfo.fr/pictures/krZfatPHPE8Tm0znhHA5hwFUzdg/0x328:5763x3570/432x243/filters:format(jpg)/2026/06/09/6a273c048f05f192878438.jpg",
+      "published_at": "2026-06-09T00:03:48+02:00",
+      "source": "France Info",
+      "category": "Tech",
+      "id": "365c476b51de"
+    },
     {
       "title": "\"On n'a pas écouté la parole des victimes\" : après la mort de Lyhanna, des milliers de manifestants en colère interpellent la justice",
       "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/on-n-a-pas-ecoute-la-parole-des-victimes-apres-la-mort-de-lyhanna-des-milliers-de-manifestants-en-colere-interpellent-la-justice_8051093.html#xtor=RSS-3-[lestitres]",
@@ -113,6 +133,16 @@
       "id": "79a66b800f64"
     },
     {
+      "title": "\"Affaire Lyhanna, le choc et les questions\" : regardez le documentaire de franceinfo sur la disparition de la collégienne et les dysfonctionnements de la justice",
+      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/replay-affaire-lyhanna-le-choc-et-les-questions-regardez-le-documentaire-de-franceinfo-sur-la-disparition-de-la-collegienne-et-les-dysfonctionnements-de-la-justice_8051114.html#xtor=RSS-3-[lestitres]",
+      "summary": "Franceinfo revient sur le déroulé de l'affaire Lyhanna, de la disparition de la collégienne aux répercutions politiques des révélations sur les errements de la justice.",
+      "image": "https://www.franceinfo.fr/pictures/HQtqYzHJ3j7Ah5lzlFdRWcmUq8M/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/08/6a272dc38551c596325113.jpg",
+      "published_at": "2026-06-08T23:03:42+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "34bc6ef47af1"
+    },
+    {
       "title": "Alerte autour de Miasma : le ver informatique qui se glisse dans Claude Code pour voler les secrets des développeurs",
       "url": "https://www.numerama.com/cyberguerre/2270899-alerte-autour-de-miasma-le-ver-informatique-qui-se-glisse-dans-claude-code-pour-voler-les-secrets-des-developpeurs.html",
       "summary": "Un groupe de cybercriminels a mené une série d'attaques coordonnées contre la chaîne d'approvisionnement logicielle, compromettant des dizaines de paquets et de dépôts de développement. Au coeur de leur campagne ? Un malware nommé Miasma qui injecte sa charge utile dans les outils que les développeurs utilisent chaque jour.",
@@ -147,20 +177,10 @@
       "url": "https://www.lemonde.fr/international/article/2026/06/08/berlin-et-paris-officialisent-l-arret-du-projet-franco-allemand-d-avion-de-combat-de-nouvelle-generation_6699652_3210.html",
       "summary": "Malgré une volonté politique affichée par l’Allemagne et la France depuis 2017, Dassault et Airbus n’ont pas réussi à s’entendre. Les deux pays doivent recentrer leur coopération industrielle de défense « sur un petit nombre de projets réalistes et pertinents », précise Berlin.",
       "image": "https://img.lemde.fr/2026/06/08/357/0/6000/3000/644/322/60/0/ca92f74_upload-1-gwqaoemdy8sx-2023-06-19t082314z-1827749520-rc28m1awakhr-rtrmadp-3-france-airshow.JPG",
-      "published_at": "2026-06-08T22:35:13+02:00",
+      "published_at": "2026-06-08T22:35:07+02:00",
       "source": "Le Monde",
       "category": "Économie",
       "id": "2e45ae89c6be"
-    },
-    {
-      "title": "Une joueuse de rugby de Dordogne, visée par une insulte raciste en plein match, va porter plainte",
-      "url": "https://www.franceinfo.fr/sports/rugby/une-joueuse-de-rugby-de-dordogne-visee-par-une-insulte-raciste-en-plein-match-va-porter-plainte_8051096.html#xtor=RSS-3-[lestitres]",
-      "summary": "Lors d'un match à l'extérieur samedi dans le Tarn-et-Garonne, une joueuse de l'US Bergerac assure avoir été insultée de \"putain de noire\" par son adversaire, indique lundi ICI Périgord.",
-      "image": "https://www.franceinfo.fr/pictures/w_V6uwBbGr9aTu51OHhBpLO1mWg/0x53:1024x629/432x243/filters:format(jpg)/2025/11/17/000-69dm7ke-691b3c263d5ab675610111.jpg",
-      "published_at": "2026-06-08T22:13:50+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "466f8a9a1c53"
     },
     {
       "title": "Rassemblement pour Lyhanna : à Auch, «on est tous révoltés, on se demande qui va protéger nos enfants»",
@@ -243,16 +263,6 @@
       "id": "3864a04c820c"
     },
     {
-      "title": "Une vidéo d'élèves en tenue militaire dans une maternelle de Seine-Saint-Denis fait polémique",
-      "url": "https://www.franceinfo.fr/faits-divers/une-video-d-eleves-en-tenue-militaire-dans-une-maternelle-de-seine-saint-denis-fait-polemique_8051054.html#xtor=RSS-3-[lestitres]",
-      "summary": "La polémique a enflé jusqu'à ce que le ministre de l'Éducation nationale prenne la parole au sujet de cette vidéo tronquée, tournée samedi lors d'un spectacle d'école à Montreuil, selon France Inter.",
-      "image": "https://www.franceinfo.fr/pictures/agD5-5kDCa1PqzgrDAcni9EKMGs/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/08/6a2719871864f827977766.png",
-      "published_at": "2026-06-08T21:47:56+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "8db8cd8c599c"
-    },
-    {
       "title": "Coupe du monde 2026 : l’arbitre somalien Omar Abdulkadir Artan refoulé à son entrée aux Etats-Unis",
       "url": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-larbitre-somalien-omar-abdulkadir-artan-refoule-a-son-entree-aux-etats-unis-20260608_GKGXHTMMWNBTRGR3ASTO5GV6UA/",
       "summary": "L’homme en noir de 34 ans, meilleur arbitre africain en 2025, s’est vu refuser l’entrée aux Etats-Unis alors qu’il venait de débarquer à l’aéroport de Miami. La Somalie fait partie des pays pour lesquels Donald Trump a durci les conditions d’accès, y compris ses réfugiés.",
@@ -291,16 +301,6 @@
       "source": "Numerama",
       "category": "Tech",
       "id": "70addc76df80"
-    },
-    {
-      "title": "Mondial 2026 : Donald Trump, l’obsédé du business, gâche déjà la fête",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/mondial-2026-donald-trump-lobsede-du-business-gache-deja-la-fete-20260608_DGR2JP62BREDNHWL6BKS7R543I/",
-      "summary": "Le président américain a réussi à s’approprier la compétition, qui débute jeudi 11 juin, substituant au sport et au plaisir collectif un individualisme dollaro-centré.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-08T19:15:25+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "9f6cf4ec8c94"
     }
   ]
 }

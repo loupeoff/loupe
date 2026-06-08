@@ -7,9 +7,29 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Mon, 08 Jun 2026 21:57:25 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 08 Jun 2026 23:17:58 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>La « nouvelle France » de LFI « ne peut pas se construire sur la division », tacle le patron des socialistes, Olivier Faure</title>
+    <link>https://www.lemonde.fr/politique/article/2026/06/09/la-nouvelle-france-de-lfi-ne-peut-pas-se-construire-sur-la-division-tacle-le-patron-des-socialistes-olivier-faure_6699720_823448.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/politique/article/2026/06/09/la-nouvelle-france-de-lfi-ne-peut-pas-se-construire-sur-la-division-tacle-le-patron-des-socialistes-olivier-faure_6699720_823448.html</guid>
+    <pubDate>Tue, 09 Jun 2026 00:42:36 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Politique</source>
+    <description><![CDATA[Le premier secrétaire du Parti socialiste a profité de la soirée de lancement de Noûs, le nouveau think tank du parti, pour répondre aux dernières critiques de Jean-Luc Mélenchon sur la composition des invités, dont l’ancien préfet de police de Paris, Didier Lallement.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/05/05/500/0/6000/3000/644/322/60/0/5de34a2_ftp-1-d33r0lvkordd-5953350-01-06.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>IA : le fondateur de ChatGPT, OpenAI, annonce qu&apos;il a déposé son projet confidentiel d&apos;entrée en Bourse</title>
+    <link>https://www.franceinfo.fr/internet/intelligence-artificielle/ia-le-fondateur-de-chatgpt-openai-annonce-qu-il-a-depose-son-projet-confidentiel-d-entree-en-bourse_8051153.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/internet/intelligence-artificielle/ia-le-fondateur-de-chatgpt-openai-annonce-qu-il-a-depose-son-projet-confidentiel-d-entree-en-bourse_8051153.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Tue, 09 Jun 2026 00:03:48 +0000</pubDate>
+    <category>Tech</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[L'annonce d'OpenAI, faite pour anticiper des fuites sur ce sujet sensible, intervient une semaine après celle de son rival Anthropic, créateur du modèle Claude.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/krZfatPHPE8Tm0znhHA5hwFUzdg/0x328:5763x3570/432x243/filters:format(jpg)/2026/06/09/6a273c048f05f192878438.jpg" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>&quot;On n&apos;a pas écouté la parole des victimes&quot; : après la mort de Lyhanna, des milliers de manifestants en colère interpellent la justice</title>
     <link>https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/on-n-a-pas-ecoute-la-parole-des-victimes-apres-la-mort-de-lyhanna-des-milliers-de-manifestants-en-colere-interpellent-la-justice_8051093.html#xtor=RSS-3-[lestitres]</link>
@@ -121,6 +141,16 @@
     <enclosure url="https://www.franceinfo.fr/pictures/NxkVvOTgkM12o_s_3Foe5uuQgf8/0x0:1024x576/432x243/filters:format(jpg)/2026/06/08/6a271fd53c92f000751957.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
+    <title>&quot;Affaire Lyhanna, le choc et les questions&quot; : regardez le documentaire de franceinfo sur la disparition de la collégienne et les dysfonctionnements de la justice</title>
+    <link>https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/replay-affaire-lyhanna-le-choc-et-les-questions-regardez-le-documentaire-de-franceinfo-sur-la-disparition-de-la-collegienne-et-les-dysfonctionnements-de-la-justice_8051114.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/replay-affaire-lyhanna-le-choc-et-les-questions-regardez-le-documentaire-de-franceinfo-sur-la-disparition-de-la-collegienne-et-les-dysfonctionnements-de-la-justice_8051114.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Mon, 08 Jun 2026 23:03:42 +0000</pubDate>
+    <category>Société</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Franceinfo revient sur le déroulé de l'affaire Lyhanna, de la disparition de la collégienne aux répercutions politiques des révélations sur les errements de la justice.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/HQtqYzHJ3j7Ah5lzlFdRWcmUq8M/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/08/6a272dc38551c596325113.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
     <title>Alerte autour de Miasma : le ver informatique qui se glisse dans Claude Code pour voler les secrets des développeurs</title>
     <link>https://www.numerama.com/cyberguerre/2270899-alerte-autour-de-miasma-le-ver-informatique-qui-se-glisse-dans-claude-code-pour-voler-les-secrets-des-developpeurs.html</link>
     <guid isPermaLink="true">https://www.numerama.com/cyberguerre/2270899-alerte-autour-de-miasma-le-ver-informatique-qui-se-glisse-dans-claude-code-pour-voler-les-secrets-des-developpeurs.html</guid>
@@ -154,21 +184,11 @@
     <title>Berlin et Paris officialisent l’arrêt du projet franco-allemand d’avion de combat de nouvelle génération</title>
     <link>https://www.lemonde.fr/international/article/2026/06/08/berlin-et-paris-officialisent-l-arret-du-projet-franco-allemand-d-avion-de-combat-de-nouvelle-generation_6699652_3210.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/06/08/berlin-et-paris-officialisent-l-arret-du-projet-franco-allemand-d-avion-de-combat-de-nouvelle-generation_6699652_3210.html</guid>
-    <pubDate>Mon, 08 Jun 2026 22:35:13 +0000</pubDate>
+    <pubDate>Mon, 08 Jun 2026 22:35:07 +0000</pubDate>
     <category>Économie</category>
     <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[Malgré une volonté politique affichée par l’Allemagne et la France depuis 2017, Dassault et Airbus n’ont pas réussi à s’entendre. Les deux pays doivent recentrer leur coopération industrielle de défense « sur un petit nombre de projets réalistes et pertinents », précise Berlin.]]></description>
     <enclosure url="https://img.lemde.fr/2026/06/08/357/0/6000/3000/644/322/60/0/ca92f74_upload-1-gwqaoemdy8sx-2023-06-19t082314z-1827749520-rc28m1awakhr-rtrmadp-3-france-airshow.JPG" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Une joueuse de rugby de Dordogne, visée par une insulte raciste en plein match, va porter plainte</title>
-    <link>https://www.franceinfo.fr/sports/rugby/une-joueuse-de-rugby-de-dordogne-visee-par-une-insulte-raciste-en-plein-match-va-porter-plainte_8051096.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/sports/rugby/une-joueuse-de-rugby-de-dordogne-visee-par-une-insulte-raciste-en-plein-match-va-porter-plainte_8051096.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Mon, 08 Jun 2026 22:13:50 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Lors d'un match à l'extérieur samedi dans le Tarn-et-Garonne, une joueuse de l'US Bergerac assure avoir été insultée de "putain de noire" par son adversaire, indique lundi ICI Périgord.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/w_V6uwBbGr9aTu51OHhBpLO1mWg/0x53:1024x629/432x243/filters:format(jpg)/2025/11/17/000-69dm7ke-691b3c263d5ab675610111.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Rassemblement pour Lyhanna : à Auch, «on est tous révoltés, on se demande qui va protéger nos enfants»</title>
@@ -251,16 +271,6 @@
     <enclosure url="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>Une vidéo d&apos;élèves en tenue militaire dans une maternelle de Seine-Saint-Denis fait polémique</title>
-    <link>https://www.franceinfo.fr/faits-divers/une-video-d-eleves-en-tenue-militaire-dans-une-maternelle-de-seine-saint-denis-fait-polemique_8051054.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/faits-divers/une-video-d-eleves-en-tenue-militaire-dans-une-maternelle-de-seine-saint-denis-fait-polemique_8051054.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Mon, 08 Jun 2026 21:47:56 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[La polémique a enflé jusqu'à ce que le ministre de l'Éducation nationale prenne la parole au sujet de cette vidéo tronquée, tournée samedi lors d'un spectacle d'école à Montreuil, selon France Inter.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/agD5-5kDCa1PqzgrDAcni9EKMGs/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/08/6a2719871864f827977766.png" type="image/jpeg" length="0" />
-  </item>
-  <item>
     <title>Coupe du monde 2026 : l’arbitre somalien Omar Abdulkadir Artan refoulé à son entrée aux Etats-Unis</title>
     <link>https://www.liberation.fr/sports/football/coupe-du-monde-2026-larbitre-somalien-omar-abdulkadir-artan-refoule-a-son-entree-aux-etats-unis-20260608_GKGXHTMMWNBTRGR3ASTO5GV6UA/</link>
     <guid isPermaLink="true">https://www.liberation.fr/sports/football/coupe-du-monde-2026-larbitre-somalien-omar-abdulkadir-artan-refoule-a-son-entree-aux-etats-unis-20260608_GKGXHTMMWNBTRGR3ASTO5GV6UA/</guid>
@@ -299,16 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">Numerama</source>
     <description><![CDATA[Présenté à la WWDC le 8 juin 2026, macOS Golden Gate succède à Tahoe avec un Liquid Glass retravaillé, des gains de stabilité et l'IA Siri AI. De quoi séduire — sauf que l'Europe ne verra ce nouveau Siri ni sur iPhone, ni sur iPad ni sur Mac, DMA oblige.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Mondial 2026 : Donald Trump, l’obsédé du business, gâche déjà la fête</title>
-    <link>https://www.liberation.fr/idees-et-debats/editorial/mondial-2026-donald-trump-lobsede-du-business-gache-deja-la-fete-20260608_DGR2JP62BREDNHWL6BKS7R543I/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/idees-et-debats/editorial/mondial-2026-donald-trump-lobsede-du-business-gache-deja-la-fete-20260608_DGR2JP62BREDNHWL6BKS7R543I/</guid>
-    <pubDate>Mon, 08 Jun 2026 19:15:25 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Le président américain a réussi à s’approprier la compétition, qui débute jeudi 11 juin, substituant au sport et au plaisir collectif un individualisme dollaro-centré.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>
