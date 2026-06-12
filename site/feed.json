@@ -1,43 +1,213 @@
 {
-  "generated_at": "2026-06-12T19:15:45.387665+00:00",
+  "generated_at": "2026-06-12T21:57:28.157856+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "EN DIRECT - Coupe du monde, jour 2 : le Canada affronte la Bosnie-Herzégovine pour son premier match à domicile",
+      "title": "Jean-Michel Aulas se met en retrait au conseil municipal de Lyon, après une plainte pour viol visant un de ses ex-conseillers",
+      "url": "https://www.franceinfo.fr/politique/jean-michel-aulas-se-met-en-retrait-au-conseil-municipal-de-lyon-apres-une-plainte-pour-viol-visant-un-de-ses-ex-conseillers_8058137.html#xtor=RSS-3-[lestitres]",
+      "summary": "Des membres du groupe Cœur lyonnais ont pris leur distance avec le candidat battu aux municipales, qui avait d'abord refusé de se retirer. Sa délégation à la Métropole lui a aussi été retirée.",
+      "image": "https://www.franceinfo.fr/pictures/qyjHXHJXwiMN5ykeAYFWROg0ED8/0x115:6114x3554/432x243/filters:format(jpg)/2026/06/12/6a2c40d329e75106934039.jpg",
+      "published_at": "2026-06-12T23:40:33+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "61cd1c5c115a"
+    },
+    {
+      "title": "Au Royaume-Uni, quatre militants propalestiniens écopent de prison ferme pour une action contre une entreprise d'armement israélienne",
+      "url": "https://www.franceinfo.fr/monde/royaume-uni/au-royaume-uni-quatre-militants-propalestiniens-ecopent-de-prison-ferme-pour-une-action-contre-une-entreprise-d-armement-israelienne_8058314.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le juge de la cour criminelle de Woolwich a évoqué \"un acte de terrorisme\" de la part des accusés, membres du groupe Palestine Action, interdit depuis juillet 2025.",
+      "image": "https://www.franceinfo.fr/pictures/1KbC8IepUV8FdIsgHh69a9E4fO0/0x138:1600x1038/432x243/filters:format(jpg)/2026/06/12/6a2c799e7f758452124453.jpg",
+      "published_at": "2026-06-12T23:28:46+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "91e630ba4d2c"
+    },
+    {
+      "title": "Coupe du monde, jour 2 : le Canada et la Bosnie se quittent sur un match nul (1-1)",
       "url": "https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-jour-2-depart-en-fanfare-pour-le-mexique-et-la-coree-du-sud-place-aux-ceremonies-americaine-et-canadienne-20260612_6OTI5A7SOVF5HBSXNXHNFAPQYE/",
       "summary": "Matchs, reportages, portraits… Retrouvez toute l’actualité de la Coupe du monde 2026 au fil de la journée par nos envoyés spéciaux en Amérique du Nord et nos journalistes sportifs.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-12T19:09:41+00:00",
+      "published_at": "2026-06-12T21:24:02+00:00",
       "source": "Libération",
       "category": "Sport",
       "id": "12be0e1253c4"
+    },
+    {
+      "title": "Hantavirus : les rongeurs capturés dans la province de Mendoza n'appartiennent pas à l'espèce potentiellement porteuse de la souche",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-les-rongeurs-captures-dans-la-province-de-mendoza-n-appartiennent-pas-a-l-espece-potentiellement-porteuse-de-la-souche_8058293.html#xtor=RSS-3-[lestitres]",
+      "summary": "La province de Mendoza n'a pas de circulation avérée de la souche \"Andes\" de l'hantavirus impliquée sur le \"MV Hondius\".",
+      "image": "https://www.franceinfo.fr/pictures/NPDYrMbu4nshZP-OxcZA6GUNqT8/0x0:2756x1550/432x243/filters:format(jpg)/2026/06/12/6a2c7491c6bc4861636392.jpg",
+      "published_at": "2026-06-12T23:08:45+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "74a5b1a5388e"
+    },
+    {
+      "title": "Vols d'éditions rares de Pouchkine en France : jusqu'à 8 ans de prison ferme requis contre six Géorgiens",
+      "url": "https://www.franceinfo.fr/culture/livres/vols-d-editions-rares-de-pouchkine-en-france-jusqu-a-8-ans-de-prison-ferme-requis-contre-six-georgiens_8058263.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les vols avaient eu lieu courant 2023 dans plusieurs bibliothèques prestigieuses de Paris et Lyon. Trois des six accusés comparaissent détenus.",
+      "image": "https://www.franceinfo.fr/pictures/aZcTqifBCUAynDEi4iR-CLIz8MY/0x0:1024x576/432x243/filters:format(jpg)/2026/06/12/6a2c68e523e66221515428.jpg",
+      "published_at": "2026-06-12T23:08:13+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "6833f3a9fb89"
+    },
+    {
+      "title": "La fortune d'Elon Musk franchit la barre des 1 000 milliards de dollars grâce à l'introduction en Bourse spectaculaire de SpaceX",
+      "url": "https://www.franceinfo.fr/internet/elon-musk/la-fortune-d-elon-musk-franchit-le-seuil-symbolique-de-1-000-milliards-de-dollars-grace-a-l-introduction-en-bourse-de-spacex_8058065.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'action de la société, dont il détient environ 42% du capital, a bondi de près de 20% au premier jour de sa cotation en Bourse, vendredi.",
+      "image": "https://www.franceinfo.fr/pictures/9gRtGODSjlvbcIo7hizDJpgy1oE/0x0:1024x576/432x243/filters:format(jpg)/2026/06/12/6a2c38aa53f69684542171.jpg",
+      "published_at": "2026-06-12T23:06:15+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "88aac65922ed"
+    },
+    {
+      "title": "Le Canada arrache le nul face à la Bosnie-Herzégovine et s'offre le premier point de son histoire en Coupe du monde",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/le-canada-arrache-le-nul-face-a-la-bosnie-herzegovine-et-s-offre-le-premier-point-de-son-histoire-en-coupe-du-monde_8058245.html#xtor=RSS-3-[lestitres]",
+      "summary": "Menés au score pendant plus d'une heure, les Canadiens ont égalisé en fin de match, vendredi, à Toronto.",
+      "image": "https://www.franceinfo.fr/pictures/bzXzvWvPd1OjQsYhENEZM0ZFXK8/0x0:3983x2240/432x243/filters:format(jpg)/2026/06/12/6a2c72a61fa5d684664623.jpg",
+      "published_at": "2026-06-12T23:05:36+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "4392e90ff10a"
+    },
+    {
+      "title": "Coupe du monde 2026 : William Saliba, Theo Hernandez et Aurélien Tchouameni absents de l'entraînement à quatre jours de France-Sénégal",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/masculine/coupe-du-monde-2026-william-saliba-theo-hernandez-et-aurelien-tchouameni-absents-de-l-entrainement-a-quatre-jours-de-france-senegal_8058224.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les deux défenseurs et le milieu ont été ménagés, vendredi, lors de la session ouverte au public.",
+      "image": "https://www.franceinfo.fr/pictures/g6A_jCCUxGyoTpD5wkEEJmWrmUI/0x148:4590x2731/432x243/filters:format(jpg)/2026/06/12/6a2c705c1848c448293715.jpg",
+      "published_at": "2026-06-12T22:55:07+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a48d05c1ff28"
+    },
+    {
+      "title": "Les Etats-Unis expulsent des migrants, dont des femmes iraniennes, en République centrafricaine",
+      "url": "https://www.lemonde.fr/afrique/article/2026/06/12/les-etats-unis-expulsent-des-migrants-dont-des-femmes-iraniennes-en-republique-centrafricaine_6701166_3212.html",
+      "summary": "Les Iraniennes bénéficiaient de mesures de protection en raison des risques de persécution dans leur pays. Elles sont arrivées à Bangui, vendredi 12 juin, alors que la République centrafricaine est considérée par Washington comme l’un des pays les plus dangereux au monde.",
+      "image": "https://img.lemde.fr/2026/06/12/469/0/3753/1876/644/322/60/0/d35e2f3_ftp-1-4xdzajg3jh41-02533fab159e462eb4f2dc656a6ff8ce-0-940b94eb535145928e60dc25ce244231.jpg",
+      "published_at": "2026-06-12T22:46:33+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "102db67ff5f1"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : un accord sur un texte de paix entre les Etats-Unis et l'Iran a été \"atteint\", selon le Pakistan",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-iran-affirme-ne-pas-avoir-tranche-l-accord-brandi-par-donald-trump-apres-l-annulation-de-frappes-americaines_8056865.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ce que les médias iraniens présentent comme un accord-cadre prévoirait notamment une \"cessation permanente et immédiate des hostilités\" y compris au Liban, et des négociations spécifiques 60 jours après la signature de l'accord.",
+      "image": "https://www.franceinfo.fr/pictures/rWLcw2EHIuQbRCrVhT27slnYMXs/0x0:5659x3183/432x243/filters:format(jpg)/2026/06/12/6a2c1220d84dd138777106.jpg",
+      "published_at": "2026-06-12T22:22:09+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "c0c27e35ae91"
+    },
+    {
+      "title": "Etats-Unis : une juge somme l’administration Trump de confirmer l’abandon de son fonds « anti-instrumentalisation » de la justice",
+      "url": "https://www.lemonde.fr/international/article/2026/06/12/etats-unis-une-juge-somme-l-administration-trump-de-confirmer-l-abandon-de-son-fonds-anti-instrumentalisation-de-la-justice_6701165_3210.html",
+      "summary": "Les démocrates ont dénoncé une « caisse noire » destinée à rétribuer les partisans de Donald Trump, y compris des personnes condamnées pour l’assaut du Capitole, sanctuaire de la démocratie américaine, le 6 janvier 2021.",
+      "image": "https://img.lemde.fr/2026/06/11/379/0/3184/1592/644/322/60/0/0699e65_ftp-1-pmz561oyoqny-2026-06-11t142740z-782432488-rc2mrlaijhlb-rtrmadp-3-usa-trump-migration-children.JPG",
+      "published_at": "2026-06-12T22:10:41+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "70bc5015bc24"
     },
     {
       "title": "\"Lyhanna, l'onde de choc\" : regardez le documentaire de franceinfo, qui revient sur la vague d'indignation après la mort de la collégienne de 11 ans",
       "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/direct-lyhanna-l-onde-de-choc-regardez-le-documentaire-de-franceinfo-qui-revient-sur-la-vague-d-indignation-apres-la-mort-de-la-collegienne-de-11-ans_8057672.html#xtor=RSS-3-[lestitres]",
       "summary": "Franceinfo retrace les deux semaines qui ont suivi la disparition de la jeune fille. La colère et la sidération ont traversé le pays en découvrant le profil de Jérôme Barella, suspect déjà visé par des plaintes mais jamais inquiété par la justice.",
       "image": "https://www.franceinfo.fr/pictures/ab3sn_MesA0mAp-Jzyma1qPbWZY/0x0:3543x1992/432x243/filters:format(jpg)/2026/06/11/6a2ac3e070624987991966.jpg",
-      "published_at": "2026-06-12T21:09:08+02:00",
+      "published_at": "2026-06-12T21:52:42+02:00",
       "source": "France Info",
       "category": "Société",
       "id": "bd1cb419d3af"
     },
     {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : l’accord en discussion avec l’Iran «inclut le Liban», selon un haut responsable américain",
+      "title": "Le pape Léon XIV contraint de retarder son retour après un incident d’avion aux Canaries",
+      "url": "https://www.lemonde.fr/international/article/2026/06/12/le-pape-leon-xiv-contraint-de-retarder-son-retour-apres-un-incident-d-avion-aux-canaries_6701164_3210.html",
+      "summary": "L’avion qui devait le ramener à Rome, vendredi, a subi un problème technique forçant le pape à retarder son départ et s’envoler à bord d’un Falcon mis à disposition par le roi Felipe VI.",
+      "image": "https://img.lemde.fr/2026/06/12/624/0/3744/1872/644/322/60/0/edcfdf4_ftp-1-v7snutsm4b9m-2026-06-12t170831z-1427064101-rc2hslaf25qh-rtrmadp-3-pope-spain-airplane.JPG",
+      "published_at": "2026-06-12T21:49:40+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "73c70ed2af0a"
+    },
+    {
+      "title": "Accord entre l’Iran et les Etats-Unis : «les signes positifs s’accumulent», affirme le ministre français des Affaires étrangères",
       "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-na-pas-encore-de-conclusion-definitive-sur-laccord-annonce-par-trump-20260612_IMUVVNVYIRDUVCPBTWIVXXZPN4/",
       "summary": "Le ministre iranien des Affaires étrangères appelle les médias «à ne pas spéculer sur le contenu d’un accord avant sa finalisation». Un peu plus tôt, le président américain a accusé Téhéran de faire circuler un faux texte dans la presse.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-12T19:05:26+00:00",
+      "published_at": "2026-06-12T19:48:15+00:00",
       "source": "Libération",
       "category": "Politique",
       "id": "cd868d2c6661"
+    },
+    {
+      "title": "Coupe du monde : poursuivi pour viols au Royaume-Uni, le ghanéen Thomas Partey indésirable au Canada",
+      "url": "https://www.liberation.fr/sports/football/coupe-du-monde-poursuivi-pour-viols-au-royaume-uni-le-ghaneen-thomas-partey-indesirable-au-canada-20260612_LAXNM2BHNZFMVEJ2NK67YU5UKI/",
+      "summary": "Le milieu de terrain de Villarreal, qui sera jugé en 2027 pour des viols, a vu son visa refusé par les autorités canadiennes. Il manquera le premier match des Black Stars contre le Panama.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-06-12T19:41:15+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "3231fcc7f165"
+    },
+    {
+      "title": "Mort de Lyhanna : Gabriel Attal veut une « culture de l’urgence » et un fichage des pédocriminels",
+      "url": "https://www.lemonde.fr/politique/article/2026/06/12/mort-de-lyhanna-gabriel-attal-veut-une-culture-de-l-urgence-et-un-fichage-des-pedocriminels_6701163_823448.html",
+      "summary": "Le président de Renaissance, Gabriel Attal, a décliné vendredi 12 juin dans « Le Figaro » toute une série de propositions pour faire face aux atteintes aux mineurs. « Ce qui a manqué, c’est une vraie réforme de notre système judiciaire », affirme-t-il.",
+      "image": "https://img.lemde.fr/2026/05/23/0/0/8000/4000/644/322/60/0/5ff986b_upload-1-aldldjyo4rs7-jmug260522033.jpg",
+      "published_at": "2026-06-12T21:33:03+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "0eb04f63cbc0"
+    },
+    {
+      "title": "Viol par soumission chimique : un homme en contact avec Dominique Pelicot écope de 15 ans de réclusion criminelle",
+      "url": "https://www.franceinfo.fr/societe/justice/viol-par-soumission-chimique-un-homme-en-contact-avec-dominique-pelicot-ecope-de-15-ans-de-reclusion-criminelle_8058221.html#xtor=RSS-3-[lestitres]",
+      "summary": "Un ancien garde du corps était jugé par la cour criminelle du Rhône pour avoir violé et drogué sa compagne \"déshumanisée, traitée comme un objet\", selon son avocate.",
+      "image": "https://www.franceinfo.fr/pictures/25LtGe4jKpwyM9dzRt6ZUF_izgg/0x349:6708x4123/432x243/filters:format(jpg)/2026/06/12/6a2c590e85a98485972796.jpg",
+      "published_at": "2026-06-12T21:23:04+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "5424893f619a"
+    },
+    {
+      "title": "L’UE va reprendre lundi les négociations sur l’adhésion de l’Ukraine",
+      "url": "https://www.liberation.fr/international/europe/lue-va-reprendre-lundi-les-negociations-sur-ladhesion-de-lukraine-20260612_TQMRFVXNCNFNRD5WMZM62LKP3U/",
+      "summary": "Le processus a été relancé après la défaite électorale du Hongrois Viktor Orbán, qui y avait mis son veto . Mais le processus est très long avant une éventuelle intégration.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-06-12T19:20:54+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "26fc0556c83b"
+    },
+    {
+      "title": "Un homme qui échangeait avec Dominique Pélicot condamné à 15 ans de réclusion pour avoir violé et drogué sa femme",
+      "url": "https://www.liberation.fr/societe/police-justice/un-homme-qui-echangeait-avec-dominique-pelicot-condamne-a-15-ans-de-reclusion-pour-avoir-viole-et-drogue-sa-femme-20260612_TV2BAXHHYBD5DKHUCBE723KPOI/",
+      "summary": "Un homme de 39 ans a été condamné ce vendredi 12 juin par la cour criminelle du Rhône, vidéos insoutenables à l’appui. Dominique Pelicot offrait ses conseils à l’accusé.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-06-12T19:16:50+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "c9b12c409be3"
+    },
+    {
+      "title": "\"On aurait pu éviter ce drame\" : aux obsèques de Lyhanna à Fleurance, un dernier hommage empreint de colère",
+      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/reportage-on-aurait-pu-eviter-ce-drame-aux-obseques-de-lyhanna-a-fleurance-un-dernier-hommage-empreint-de-colere_8058017.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les funérailles de la collégienne se sont déroulées vendredi dans le Gers, en présence de nombreux habitants venus soutenir la famille endeuillée.",
+      "image": "https://www.franceinfo.fr/pictures/k84Awq9trjLIBbDobL2DfAe_ufM/769x961:5316x3518/432x243/filters:format(jpg)/2026/06/12/6a2c45058ba9c855270654.jpg",
+      "published_at": "2026-06-12T21:01:57+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "2a14ba263043"
     },
     {
       "title": "Israël-Palestine : des représentants des « sociétés civiles » réunis à Paris demandent des sanctions contre la colonisation",
       "url": "https://www.lemonde.fr/international/article/2026/06/12/israel-palestine-des-representants-des-societes-civiles-reunis-a-paris-demandent-des-sanctions-contre-la-colonisation_6701161_3210.html",
       "summary": "Un an après l’Appel de Paris et la reconnaissance de l’Etat de Palestine par la France, restée sans effet concret, le Quai d’Orsay a rassemblé, le 12 juin, militants, ONG et plusieurs ministres des affaires étrangères. Leurs recommandations seront transmises au G7, qui s’ouvre le 15 juin à Evian.",
       "image": "https://img.lemde.fr/2026/06/12/42/0/7467/3733/644/322/60/0/fcb7a46_ftp-1-rp654gsw7jw9-5297209-01-06.jpg",
-      "published_at": "2026-06-12T21:00:27+02:00",
+      "published_at": "2026-06-12T21:00:26+02:00",
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "473c65d6c8f6"
@@ -123,184 +293,14 @@
       "id": "c0b2881f68e5"
     },
     {
-      "title": "Guerre au Moyen-Orient : un accord sur un texte de paix entre les Etats-Unis et l'Iran a été \"atteint\", selon le Pakistan",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-iran-affirme-ne-pas-avoir-tranche-l-accord-brandi-par-donald-trump-apres-l-annulation-de-frappes-americaines_8056865.html#xtor=RSS-3-[lestitres]",
-      "summary": "Ce que les médias iraniens présentent comme un accord-cadre prévoirait notamment une \"cessation permanente et immédiate des hostilités\" y compris au Liban, et des négociations spécifiques 60 jours après la signature de l'accord.",
-      "image": "https://www.franceinfo.fr/pictures/rWLcw2EHIuQbRCrVhT27slnYMXs/0x0:5659x3183/432x243/filters:format(jpg)/2026/06/12/6a2c1220d84dd138777106.jpg",
-      "published_at": "2026-06-12T20:25:21+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "c0c27e35ae91"
-    },
-    {
       "title": "Mort de Nahel : pourquoi la Cour de cassation a annulé la décision de ne pas retenir « l’intention homicide » du policier",
       "url": "https://www.lemonde.fr/societe/article/2026/06/12/mort-de-nahel-pourquoi-la-cour-de-cassation-a-annule-la-decision-de-ne-pas-retenir-l-intention-homicide-du-policier_6701157_3224.html",
       "summary": "Dans un arrêt attendu, la plus haute juridiction française a pris le contre-pied de la décision de la chambre de l’instruction de la cour d’appel de Versailles, qui va devoir à nouveau se pencher sur l’intention de tuer imputée au policier auteur du tir ayant entraîné la mort du jeune homme, ouvrant la voie à plusieurs jours d’émeutes.",
       "image": "https://img.lemde.fr/2026/06/12/544/0/6528/3264/644/322/60/0/a900598_upload-1-re8veywh7qst-000-33mn66z.jpg",
-      "published_at": "2026-06-12T20:20:54+02:00",
+      "published_at": "2026-06-12T20:20:49+02:00",
       "source": "Le Monde",
       "category": "Sport",
       "id": "cd0c73b92da0"
-    },
-    {
-      "title": "David Hockney, le don simple d’émerveiller",
-      "url": "https://www.liberation.fr/culture/arts/art-contemporain/david-hockney-le-don-simple-demerveiller-20260612_H7PRVCDFTRAJRCZJCYBL5INY3U/",
-      "summary": "L’insatiable peintre britannique, mort jeudi à 88 ans, laisse derrière lui une œuvre qui marche à l’optimisme, à la joie de vivre, à l’ivresse de peindre, sans cesse, à profusion.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-06-12T18:15:37+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "9036b884b568"
-    },
-    {
-      "title": "A Lyon, Jean-Michel Aulas amorce un retrait après des accusations de viol contre son communicant",
-      "url": "https://www.liberation.fr/politique/a-lyon-jean-michel-aulas-amorce-un-retrait-apres-des-accusations-de-viol-contre-son-communicant-20260612_W7DTLCERGZEHVGUDDXUJO3AJBE/",
-      "summary": "Depuis mercredi, l’ancien patron de l’Olympique lyonnais doit répondre aux accusations d’inaction face à un viol présumé au sein de son équipe de campagne. Il a annoncé vendredi se retirer de la tête de son groupe municipal, mais refuse de quitter son poste de premier vice-président à la métropole.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-12T18:15:27+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "ed9bba5ba4e8"
-    },
-    {
-      "title": "Coupe du monde 2026 : le Canada a refusé l'entrée au milieu de terrain ghanéen Thomas Partey, accusé de viol en Grande-Bretagne",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-le-canada-a-refuse-l-entree-au-milieu-de-terrain-ghaneen-thomas-partey-accuse-de-viol-en-grande-bretagne_8058167.html#xtor=RSS-3-[lestitres]",
-      "summary": "La Fifa a confirmé, vendredi, que le Canada avait rejeté le visa du joueur en raison des affaires pour lesquelles il est inculpé.",
-      "image": "https://www.franceinfo.fr/pictures/OhHH6RDn5QCqzbsQhzFHufaOYLQ/0x180:3473x2134/432x243/filters:format(jpg)/2026/06/12/6a2c4a805d474176451915.jpg",
-      "published_at": "2026-06-12T20:15:01+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "fba81ada7743"
-    },
-    {
-      "title": "«Un parti n’est pas une caserne, mais pas un self-service non plus» : les Ecologistes s’écharpent sur une motion présentée par Marine Tondelier",
-      "url": "https://www.liberation.fr/politique/elections/un-parti-nest-pas-une-caserne-mais-pas-un-self-service-non-plus-les-ecologistes-secharpent-sur-une-motion-presentee-par-marine-tondelier-20260612_3HXWIJ5WSFFJPIX7ZOP5IL5WC4/",
-      "summary": "Les militants sont appelés à voter sur une proposition visant à exclure tout adhérent se présentant contre un candidat investi par le parti, ou soutenant un autre candidat que celui du parti. Une démarche destinée à exclure Jadot et Rousseau dénoncent des opposants.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-12T18:04:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "08c69a8fd161"
-    },
-    {
-      "title": "\"Les JO à la maison, ça nous titille\"... Guillaume Cizeron et Laurence Fournier Beaudry annoncent poursuivre leur carrière ensemble",
-      "url": "https://www.franceinfo.fr/sports/sports-d-hiver/patinage-artistique/les-jo-a-la-maison-ca-nous-titille-guillaume-cizeron-et-laurence-fournier-beaudry-annoncent-poursuivre-leur-carriere-ensemble_8056166.html#xtor=RSS-3-[lestitres]",
-      "summary": "Sacrés champions d'Europe, du monde et olympiques en 2026, les patineurs français ont annoncé, vendredi dans l'émission \"Stade 2 La Quotidienne\", qu'ils allaient continuer la compétition.",
-      "image": "https://www.franceinfo.fr/pictures/waN4wiSrWbN_cLzJr0930SWu4eg/0x0:6758x3801/432x243/filters:format(jpg)/2026/06/11/6a2ade33e2aab072093509.jpg",
-      "published_at": "2026-06-12T20:00:36+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "d1ce90f83db4"
-    },
-    {
-      "title": "Mort de Lyhanna : ce que l’on sait des traces pédocriminelles de Jérôme Barella",
-      "url": "https://www.lemonde.fr/societe/article/2026/06/12/mort-de-lyhanna-ce-que-l-on-sait-des-traces-pedocriminelles-de-jerome-barella_6701156_3224.html",
-      "summary": "Dans l’attente des rapports de l’inspection générale de la gendarmerie nationale et de celle de la justice, « Le Monde » fait le point sur les informations consolidées et les questions toujours en suspens sur le parcours du suspect du meurtre de Lyhanna.",
-      "image": "https://img.lemde.fr/2026/06/10/482/0/4500/2250/644/322/60/0/e91c4d1_upload-1-439pm41f6hhp-mfache-06062026-le-monde-affaire-lyhanna-gers-france-046.jpg",
-      "published_at": "2026-06-12T20:00:01+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "65f923291eeb"
-    },
-    {
-      "title": "EN DIRECT, guerre au Moyen-Orient : la diplomatie iranienne confirme être « dans les dernières étapes de finalisation du texte du protocole d’accord »",
-      "url": "https://www.lemonde.fr/international/live/2026/06/12/en-direct-guerre-au-moyen-orient-la-diplomatie-iranienne-confirme-etre-dans-les-dernieres-etapes-de-finalisation-du-texte-du-protocole-d-accord_6701050_3210.html",
-      "summary": "Un haut responsable américain a quant à lui estimé à « 80 à 85 % », mais « pas 100 % », la probabilité qu’un accord soit signé avec l’Iran dans les « prochains jours ».",
-      "image": "https://img.lemde.fr/2026/06/11/417/0/5000/2500/644/322/60/0/2d0c9bc_upload-1-2zvx16mvppyc-000-97vk9tj.jpg",
-      "published_at": "2026-06-12T19:55:13+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "43b83b70af5d"
-    },
-    {
-      "title": "Affaire Lyhanna, rejet de sa réforme de la justice, appels à la démission : pour Darmanin, une semaine au fond du Sceau",
-      "url": "https://www.liberation.fr/politique/affaire-lyhanna-rejet-de-sa-reforme-de-la-justice-appels-a-la-demission-pour-darmanin-une-semaine-au-fond-du-sceau-20260612_3FPM6MC3TFBJZDCFCE37UBWWGI/",
-      "summary": "L’omniprésent ministre de la Justice vient de passer l’une des pires séquences de sa vie politique. Un camouflet qui plombe ses ambitions présidentielles.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-12T17:54:29+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "903d97924c9f"
-    },
-    {
-      "title": "Jean-Michel Aulas se met en retrait au conseil municipal de Lyon, après une plainte pour viol visant un de ses ex-conseillers",
-      "url": "https://www.franceinfo.fr/politique/jean-michel-aulas-se-met-en-retrait-au-conseil-municipal-de-lyon-apres-une-plainte-pour-viol-visant-un-de-ses-ex-conseillers_8058137.html#xtor=RSS-3-[lestitres]",
-      "summary": "Des membres du groupe Cœur lyonnais ont pris leur distance avec le candidat battu aux municipales, qui avait d'abord refusé de se retirer.",
-      "image": "https://www.franceinfo.fr/pictures/qyjHXHJXwiMN5ykeAYFWROg0ED8/0x115:6114x3554/432x243/filters:format(jpg)/2026/06/12/6a2c40d329e75106934039.jpg",
-      "published_at": "2026-06-12T19:52:18+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "61cd1c5c115a"
-    },
-    {
-      "title": "A Polytechnique, des étudiants perturbent la remise de diplômes et dénoncent l’emprise de certaines entreprises « qui participent aux ravages sociaux, écologiques et militaires en cours »",
-      "url": "https://www.lemonde.fr/campus/article/2026/06/12/a-polytechnique-des-etudiants-perturbent-la-remise-de-diplomes-et-denoncent-l-emprise-de-certaines-entreprises-privees_6701153_4401467.html",
-      "summary": "Un collectif d’élèves diplômés de la prestigieuse école d’ingénieurs a dénoncé sur scène, vendredi, une formation qu’ils jugent au service « des grandes entreprises dont les activités détruisent le vivant ou alimentent les logiques de guerre ».",
-      "image": "https://img.lemde.fr/2024/09/13/154/0/1801/900/644/322/60/0/3d638c7_1726227305738-mei-dia-29.png",
-      "published_at": "2026-06-12T19:50:06+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "44317a7a3cf6"
-    },
-    {
-      "title": "Mort du photographe Duane Michals, «storyteller» malicieux et subversif",
-      "url": "https://www.liberation.fr/culture/arts/art-contemporain/mort-du-photographe-duane-michals-storyteller-malicieux-et-subversif-20260612_YUUP2ZNHEFEI7F2VTUPQNLMVQA/",
-      "summary": "«Ecrivain de la photographie» autoproclamé, l’artiste américain aimait raconter des histoires avec des séquences d’images noir et blanc, en petit format, qu’il annotait de courts textes écrits à la main. Il est mort le 9 juin, à 94 ans.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-06-12T17:45:07+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "17e6a569b889"
-    },
-    {
-      "title": "Les adieux du monde politique à Bernadette Chirac",
-      "url": "https://www.lemonde.fr/politique/article/2026/06/12/les-adieux-du-monde-politique-a-bernadette-chirac_6701152_823448.html",
-      "summary": "Grands patrons, anciens ministres et premières dames ont rendu, le 12 juin à Paris, un dernier hommage à Bernadette Chirac, décédée à 93 ans.",
-      "image": "https://img.lemde.fr/2026/06/12/500/0/6000/3000/644/322/60/0/12f2e10_ftp-1-tenyswfj8d56-2026-06-12t151354z-1552835099-rc2eslaune3q-rtrmadp-3-france-politics-bernadette-chirac.JPG",
-      "published_at": "2026-06-12T19:37:58+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "4c82eb1abbc0"
-    },
-    {
-      "title": "Sebastian Veg : « En Chine, il n’existe plus d’espace pour la mise en cause personnelle des hauts dirigeants »",
-      "url": "https://www.lemonde.fr/international/article/2026/06/12/sebastian-veg-en-chine-il-n-existe-plus-d-espace-pour-la-mise-en-cause-personnelle-des-hauts-dirigeants_6701150_3210.html",
-      "summary": "Le sinologue, directeur d’études à l’Ecole des hautes études en sciences sociales explique, dans un entretien au « Monde », comment la sphère intellectuelle chinoise réagit et vit sous la censure.",
-      "image": "https://img.lemde.fr/2026/06/10/105/0/2154/1077/644/322/60/0/02c9bbb_upload-1-zqau5oqwlsno-hao-wang-card-game-2026-150x120cm-oil-and-acrylic-on-canvas.jpg",
-      "published_at": "2026-06-12T19:30:05+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "eda4ff1ce2ab"
-    },
-    {
-      "title": "La fortune d'Elon Musk franchit le seuil symbolique des 1 000 milliards de dollars grâce à l'introduction en Bourse de SpaceX",
-      "url": "https://www.franceinfo.fr/internet/elon-musk/la-fortune-d-elon-musk-franchit-le-seuil-symbolique-de-1-000-milliards-de-dollars-grace-a-l-introduction-en-bourse-de-spacex_8058065.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'action de la société, dont il détient environ 42% du capital, a bondi de plus de 20% au premier jour de sa cotation en Bourse, vendredi.",
-      "image": "https://www.franceinfo.fr/pictures/9gRtGODSjlvbcIo7hizDJpgy1oE/0x0:1024x576/432x243/filters:format(jpg)/2026/06/12/6a2c38aa53f69684542171.jpg",
-      "published_at": "2026-06-12T19:25:27+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "88aac65922ed"
-    },
-    {
-      "title": "Au Sri Lanka, la population fait les frais du conflit au Moyen-Orient : « Cette situation n’est plus tenable »",
-      "url": "https://www.lemonde.fr/international/article/2026/06/12/au-sri-lanka-la-population-fait-les-frais-du-conflit-au-moyen-orient-cette-situation-n-est-plus-tenable_6701149_3210.html",
-      "summary": "Dépendante des importations d’hydrocarbures, l’île subit de plein fouet le blocage du détroit d’Ormuz provoqué par la guerre entre les Etats-Unis, Israël et l’Iran. Rationnement du carburant, inflation, tourisme en berne… la fragile reprise amorcée après la crise de 2022 est désormais menacée.",
-      "image": "https://img.lemde.fr/2026/06/12/584/0/4000/2000/644/322/60/0/0a35a49_upload-1-xajjmsq5ptkg-tashiyademel-lemonde-srilanka35.jpg",
-      "published_at": "2026-06-12T19:20:13+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "bff5980d66b8"
-    },
-    {
-      "title": "«Plus de 300 000 images et 7 000 vidéos» : un informaticien bientôt jugé pour avoir mis en ligne des deepfakes sexuels",
-      "url": "https://www.liberation.fr/societe/police-justice/plus-de-300-000-images-et-7-000-videos-un-informaticien-bientot-juge-avoir-mis-en-ligne-des-deepfakes-sexuels-20260612_ATKZFXQEYRBZFEBAORVEXMZZXY/",
-      "summary": "Un homme de 47 ans comparaîtra le 7 juillet par le tribunal de Paris pour avoir administré un site qui proposait des centaines de milliers de fausses images à caractère sexuel, faisant 14 000 victimes présumées.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-12T17:16:40+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "5c9627ae9326"
     }
   ]
 }
