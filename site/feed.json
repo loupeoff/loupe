@@ -1,26 +1,116 @@
 {
-  "generated_at": "2026-06-13T20:22:13.597388+00:00",
+  "generated_at": "2026-06-13T22:13:30.203163+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Coupe du monde 2026 : la Suisse mène face au Qatar, avant le choc entre le Brésil et le Maroc",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-quatre-matchs-au-programme-de-la-nuit-dont-le-choc-bresil-maroc_8057522.html#xtor=RSS-3-[lestitres]",
-      "summary": "La rencontre entre la Suisse et le Qatar a débuté à 21 heures samedi. Le Maroc, demi-finaliste surprise de l'édition 2022, affrontera le Brésil, pays le plus titré avec cinq titres mondiaux, à partir de minuit.",
-      "image": "https://www.franceinfo.fr/pictures/sgNiV47RzaiUxRLVemBSPEdAlAg/0x53:1024x629/432x243/filters:format(jpg)/2026/06/13/6a2dbaae7d1c7022738144.jpg",
-      "published_at": "2026-06-13T22:16:48+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "77423aba8dcb"
+      "title": "« La guerre de l’IA a commencé » : le blocage du dernier modèle d’Anthropic par les Etats-Unis inquiète en France et en Europe",
+      "url": "https://www.lemonde.fr/pixels/article/2026/06/13/la-guerre-de-l-ia-a-commence-le-blocage-du-dernier-modele-d-anthropic-par-les-etats-unis-inquiete-en-france-et-en-europe_6702060_4408996.html",
+      "summary": "La start-up américaine a désactivé son dernier modèle d’IA, Mythos 5, à la demande de Washington. Une décision vue d’Europe comme l’illustration de la puissance américaine sur le secteur et de la volonté de contrôle de l’administration Trump.",
+      "image": "https://img.lemde.fr/2026/05/07/0/0/4497/2248/644/322/60/0/86faada_ftp-1-5ha0rxlvv5m6-dbafe8e9edd84075b5f162ee6163c37b-1-8dc72631950042c0a20049bdcd64aaac.jpg",
+      "published_at": "2026-06-13T23:45:17+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "ddb163096afb"
     },
     {
-      "title": "EN DIRECT - Coupe du monde, jour 3 : la Suisse mène logiquement face au Qatar",
+      "title": "Barrages de Top 14 : à l'issue d'un gros combat, le Racing 92 s'impose face à Pau et rejoint le Stade toulousain en demi-finales",
+      "url": "https://www.franceinfo.fr/sports/rugby/top-14/barrages-de-top-14-a-l-issue-d-un-gros-combat-le-racing-92-s-impose-face-a-pau-et-rejoint-le-stade-toulousain-en-demi-finales_8059481.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les Racingmen ont infligé à la Section paloise leur première défaite à domicile de la saison, samedi soir.",
+      "image": "https://www.franceinfo.fr/pictures/u10ipWRASx9K4LmczSu6mtK13pI/0x55:2886x1678/432x243/filters:format(jpg)/2026/06/13/6a2dc13faf56b239422513.jpg",
+      "published_at": "2026-06-13T23:39:13+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "75b115e41119"
+    },
+    {
+      "title": "EN DIRECT - Coupe du monde, jour 3 : face à la Suisse, mieux vaut Qatar que jamais",
       "url": "https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-jour-3-un-premier-choc-a-venir-avec-le-match-bresil-maroc-20260613_XTWTMXFIZVBYDPRB6IVD5KR454/",
       "summary": "Matchs, reportages, portraits… Retrouvez toute l’actualité de la Coupe du monde 2026 au fil de la journée par nos envoyés spéciaux en Amérique du Nord et nos journalistes sportifs.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-13T20:02:10+00:00",
+      "published_at": "2026-06-13T21:25:16+00:00",
       "source": "Libération",
       "category": "Sport",
       "id": "a8a404ac5c2e"
+    },
+    {
+      "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme que la signature d’un accord avec l’Iran est prévue pour dimanche",
+      "url": "https://www.lemonde.fr/international/live/2026/06/13/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-la-signature-d-un-accord-avec-l-iran-est-prevue-pour-dimanche_6701050_3210.html",
+      "summary": "Une fois l’accord signé, « le détroit d’Ormuz sera ouvert à tous », a ajouté le président américain, peu après que la diplomatie iranienne a écarté la possibilité d’une signature au cours des prochaines vingt-quatre heures.",
+      "image": "https://img.lemde.fr/2026/06/11/786/0/6000/3000/644/322/60/0/90de910_ftp-1-l1dj4t85k7rq-26c015068b7749e080637eba4e53939e-2-c04cb600bd92421e92be7c6a24ece7cc.jpg",
+      "published_at": "2026-06-13T23:24:57+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "83df17cadb83"
+    },
+    {
+      "title": "La Sécurité : «J’aime bien quand l’écriture est en mouvement»",
+      "url": "https://www.liberation.fr/culture/musique/la-securite-jaime-bien-quand-lecriture-est-en-mouvement-20260613_NPNWFO66IJDDBACYVFXIM3HKDQ/",
+      "summary": "Guitariste et chanteuse du groupe «art punk» québécois, Melissa Di Menna est aussi illustratrice. C’est elle qui a réalisé la pochette de leur deuxième album en s’inspirant, comme elle le raconte, de l’esthétique «do it yourself».",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-06-13T21:20:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "27101dac5cf1"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : Donald Trump affirme que la signature d'un accord avec l'Iran est \"prévue\" dimanche",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-les-etats-unis-disent-avoir-abattu-des-drones-iraniens-malgre-l-optimisme-affiche-pour-un-accord-de-paix_8058689.html#xtor=RSS-3-[lestitres]",
+      "summary": "Un peu plus tôt samedi, le porte-parole de la diplomatie iranienne, Esmaïl Baghaï, avait tablé plutôt sur une signature lors des \"prochains jours\", et non dimanche.",
+      "image": "https://www.franceinfo.fr/pictures/HPG6pq6-LNSiGbbFVmOdWrc5UNI/0x46:1024x622/432x243/filters:format(jpg)/2026/06/13/6a2d57dce2501766213108.jpg",
+      "published_at": "2026-06-13T23:16:28+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "2ccb4786643d"
+    },
+    {
+      "title": "Coupe du monde 2026 : le Qatar arrache un match nul historique face à la Suisse au bout du suspense",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-le-qatar-arrache-un-match-nul-historique-face-a-la-suisse-au-bout-du-suspense_8059463.html#xtor=RSS-3-[lestitres]",
+      "summary": "La Nati, pourtant largement dominatrice samedi soir à San Francisco, a été rejointe au bout du temps additionnel (1-1) par des Qatariens qui inscrivent le premier point de leur histoire dans un Mondial.",
+      "image": "https://www.franceinfo.fr/pictures/PKmvtD4fltu8tQEz95wLUPkGRUU/0x0:3094x1740/432x243/filters:format(jpg)/2026/06/13/6a2dc73350904471781082.jpg",
+      "published_at": "2026-06-13T23:13:40+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "a1b4034daf84"
+    },
+    {
+      "title": "A Aubervilliers, Glucksmann promet de «ramener la gauche au pouvoir» et lance le match avec Mélenchon",
+      "url": "https://www.liberation.fr/politique/a-aubervilliers-glucksmann-promet-de-ramener-la-gauche-au-pouvoir-et-lance-le-match-avec-melenchon-20260613_WB3TP2ULMRE3RBSOJBM6ZNLNXY/",
+      "summary": "L’aspirant candidat à la présidentielle, toujours non-officiellement déclaré, a réuni environ 4 000 personnes, et affiché ses soutiens lors d’un meeting en Seine-Saint-Denis samedi 13 juin.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-06-13T21:10:36+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "a981fc981af4"
+    },
+    {
+      "title": "Mexique : un maire assassiné par balle dans le sud du pays",
+      "url": "https://www.lemonde.fr/international/article/2026/06/13/mexique-un-maire-assassine-par-balle-dans-le-sud-du-pays_6702027_3210.html",
+      "summary": "La commune de 7 000 habitants dans laquelle Joel Bravo a été abattu par balle, samedi 13 juin, se trouve dans l’Etat d’Oaxaca, où les puissants cartels Jalisco Nueva Generación (CJNG) et Sinaloa se disputent les routes du trafic de drogue.",
+      "image": "https://img.lemde.fr/2026/06/13/584/0/7008/3504/644/322/60/0/bc9573a_ftp-1-y0sbxjws8zlp-2026-06-13t192014z-504426784-rc2mslasop7r-rtrmadp-3-mexico-violence-journalist.JPG",
+      "published_at": "2026-06-13T23:01:59+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "54fa68022b20"
+    },
+    {
+      "title": "Coupe du monde 2026 : \"J'ai retrouvé le plaisir, l'intensité et cette insouciance que j'avais un peu perdue\", confie Warren Zaïre-Emery",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/masculine/coupe-du-monde-2026-j-ai-retrouve-le-plaisir-l-intensite-et-cette-insouciance-que-j-avais-un-peu-perdue-confie-warren-zaire-emery_8059403.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le jeune milieu de 20 ans est revenu sur son retour au plus haut niveau après une année 2025 compliquée, et sur son rôle en équipe de France.",
+      "image": "https://www.franceinfo.fr/pictures/oUDuhgy5O9XnquQm7AgPIiZJP8o/0x0:4482x2521/432x243/filters:format(jpg)/2026/06/13/6a2da97292b7b600252366.jpg",
+      "published_at": "2026-06-13T22:37:45+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "13cede5f4d46"
+    },
+    {
+      "title": "EN DIRECT, Brésil-Maroc : qui va remporter le premier choc de la Coupe du monde 2026 ?",
+      "url": "https://www.lemonde.fr/sport/live/2026/06/13/en-direct-bresil-maroc-suivez-en-direct-le-match-de-la-coupe-du-monde-de-football_6702026_3242.html",
+      "summary": "C’est le match que tout le monde attend, ou presque, depuis le début de ce Mondial : la Seleçao, quintuple vainqueure du tournoi, affronte les Lions de l’Atlas, demi-finalistes de l’édition 2022 au Qatar.",
+      "image": "https://img.lemde.fr/2026/06/13/456/0/5920/2960/644/322/60/0/0a00275_ftp-1-cn0vrx86rlv9-2026-06-13t220156z-373110171-up1em6d1p76ac-rtrmadp-3-soccer-worldcup-bra-mar.JPG",
+      "published_at": "2026-06-13T22:00:09+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "8deeb87d9399"
     },
     {
       "title": "Italie : l’extrême droite a manifesté pour la « remigration » à Rome",
@@ -193,16 +283,6 @@
       "id": "45f2eef5476b"
     },
     {
-      "title": "Guerre au Moyen-Orient : Donald Trump affirme que la signature d'un accord avec l'Iran est \"prévue\" dimanche",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-les-etats-unis-disent-avoir-abattu-des-drones-iraniens-malgre-l-optimisme-affiche-pour-un-accord-de-paix_8058689.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un peu plus tôt samedi, le porte-parole de la diplomatie iranienne, Esmaïl Baghaï, avait tablé plutôt sur une signature lors des \"prochains jours\", et non dimanche.",
-      "image": "https://www.franceinfo.fr/pictures/HPG6pq6-LNSiGbbFVmOdWrc5UNI/0x46:1024x622/432x243/filters:format(jpg)/2026/06/13/6a2d57dce2501766213108.jpg",
-      "published_at": "2026-06-13T19:11:52+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "2ccb4786643d"
-    },
-    {
       "title": "Marche des fiertés : hommage et colère à Metz après la mort du jeune Noahm",
       "url": "https://france3-regions.franceinfo.fr/grand-est/moselle/metz/marche-des-fiertes-hommage-et-colere-apres-la-mort-de-noahm-3368317.html#xtor=RSS-3-[lestitres]",
       "summary": "À Metz (Moselle), la Marche des fiertés s'est déroulée, samedi 13 juin, dans un contexte de forte émotion après la mort de Noahm, un jeune homosexuel tué le 2 juin. Entre hommage, colère et revendications, des centaines de personnes dénoncent les violences LGBTQ+ et rendent un hommage collectif.",
@@ -221,86 +301,6 @@
       "source": "Libération",
       "category": "International",
       "id": "bc6920527b04"
-    },
-    {
-      "title": "Des milliers de personnes se sont rassemblés au Queer Culture Festival à Séoul",
-      "url": "https://www.lemonde.fr/international/video/2026/06/13/video-des-milliers-de-personnes-se-sont-rassemblees-au-queer-culture-festival-a-seoul_6701920_3210.html",
-      "summary": "Des milliers de personnes se sont réunies, samedi 13 juin à Séoul, pour célébrer la culture queer.",
-      "image": "https://img.lemde.fr/2026/06/13/710/0/6456/3228/644/322/60/0/b7ce169_ftp-1-br9hgigzrjs1-5304877-01-06.jpg",
-      "published_at": "2026-06-13T19:00:14+02:00",
-      "source": "Le Monde Inter",
-      "category": "Culture",
-      "id": "305df7f09537"
-    },
-    {
-      "title": "Affaire Lyhanna : les accusations de violences sexuelles visant la famille de Jérôme Barella, reflet des mécanismes ordinaires de l'inceste",
-      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-les-accusations-de-violences-sexuelles-visant-la-famille-de-jerome-barella-reflet-des-mecanismes-ordinaires-de-l-inceste_8057660.html#xtor=RSS-3-[lestitres]",
-      "summary": "En marge des poursuites judiciaires contre le suspect du meurtre de la collégienne de 11 ans, son frère et son père sont également mis en cause dans d'autres affaires de pédocriminalité ou de viols sur conjoint.",
-      "image": "https://www.franceinfo.fr/pictures/pgY1lbxozp93nKfL3w_aFaF4qTY/0x53:1024x629/432x243/filters:format(jpg)/2026/06/12/6a2c4c8c9c691977814776.jpg",
-      "published_at": "2026-06-13T18:59:33+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "5f6529144d53"
-    },
-    {
-      "title": "A Belfast, des milliers de manifestants \"s'opposent au racisme\" après les émeutes contre les personnes immigrées dans la ville",
-      "url": "https://www.franceinfo.fr/monde/royaume-uni/a-belfast-des-milliers-de-manifestants-s-opposent-au-racisme-apres-les-emeutes-contre-les-personnes-immigrees-dans-la-ville_8059304.html#xtor=RSS-3-[lestitres]",
-      "summary": "Des violences contre les personnes immigrées ont récemment éclaté dans la capitale nord-irlandaise, après une violente attaque au couteau pour laquelle un homme soudanais a été inculpé.",
-      "image": "https://www.franceinfo.fr/pictures/ivVTdpMIlNhlJMnWTlqFBL9YP-o/0x106:1024x682/432x243/filters:format(jpg)/2026/06/13/6a2d8830cd7c3578454502.jpg",
-      "published_at": "2026-06-13T18:58:26+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "e7ab29e9ad30"
-    },
-    {
-      "title": "Le Kennedy Center retire le nom de Donald Trump de sa façade",
-      "url": "https://www.lemonde.fr/international/article/2026/06/13/le-kennedy-center-retire-le-nom-de-donald-trump-de-sa-facade_6701598_3211.html",
-      "summary": "Le président républicain avait accolé en décembre son nom à celui de son lointain prédécesseur démocrate assassiné. Ce changement a été dénoncé par la famille du président Kennedy et par l’opposition démocrate, qui en conteste la légalité.",
-      "image": "https://img.lemde.fr/2026/06/13/25/0/3548/1774/644/322/60/0/fd24b4b_ftp-1-9nrii1hwr2qk-6b02811de1a8409d8bd15170b07bedea-0-20bc885b6a0a46a9b99c1d01be310311.jpg",
-      "published_at": "2026-06-13T18:40:55+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "479f6799ce2e"
-    },
-    {
-      "title": "Le grand collisionneur de hadrons (LHC) ferme ses portes jusqu’en 2030 : le colosse du CERN doit muter",
-      "url": "https://www.numerama.com/sciences/2270145-pourquoi-le-grand-collisionneur-de-hadrons-du-cern-ferme-pour-quatre-ans.html",
-      "summary": "Le Cern fermera son installation phare, le LHC, pour les quatre prochaines années. L'occasion de lancer de grands travaux pour améliorer encore les résultats scientifiques de ce tunnel gigantesque qui repousse les frontières de nos connaissances sur la physique.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-13T16:32:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "a63f05653ad4"
-    },
-    {
-      "title": "Un gendarme est mort et deux autres ont été blessés dans un accident de la route en Haute-Savoie, dans le cadre de la sécurisation du G7",
-      "url": "https://www.franceinfo.fr/monde/sommet-du-g7/un-gendarme-est-mort-et-deux-autres-ont-ete-blesses-dans-un-accident-de-la-route-en-haute-savoie-dans-le-cadre-de-la-securisation-du-g7_8059148.html#xtor=RSS-3-[lestitres]",
-      "summary": "Quelque 7 000 policiers, 6 000 gendarmes et 900 militaires sont déployés afin de garantir la sécurité du sommet du G7, qui débute lundi.",
-      "image": "https://www.franceinfo.fr/pictures/a4Rx02Bm80PrB0FoiroDuNnDvz0/0x106:1024x682/432x243/filters:format(jpg)/2026/06/13/6a2d6a75eb040609416059.jpg",
-      "published_at": "2026-06-13T18:26:11+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "b5919468ea85"
-    },
-    {
-      "title": "Mediapart accuse CNews d'avoir diffusé un entretien avec l'une de ses journalistes à son insu, dans un reportage sur l'affaire Patrick Bruel",
-      "url": "https://www.franceinfo.fr/culture/musique/patrick-bruel/affaire-de-violences-sexuelles/mediapart-accuse-cnews-d-avoir-diffuse-un-entretien-avec-l-une-de-ses-journalistes-a-son-insu-dans-un-reportage-sur-l-affaire-patrick-bruel_8059199.html#xtor=RSS-3-[lestitres]",
-      "summary": "Marine Turchi, journaliste de Mediapart à l'origine de ces révélations, avait accordé une interview au média RTL Belgique. Un entretien finalement diffusé sur CNews, \"sans [le] consentement\" du site d'investigation.",
-      "image": "https://www.franceinfo.fr/pictures/ARGAPAEJzx2zdOH5uBhMaTuoTVU/0x0:1024x576/432x243/filters:format(jpg)/2026/06/13/6a2d776768af7581879173.jpg",
-      "published_at": "2026-06-13T18:07:58+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "4c7fb9fa8ce0"
-    },
-    {
-      "title": "Donald Trump et Volodymyr Zelensky se retrouveront au G7 d’Evian",
-      "url": "https://www.liberation.fr/international/europe/donald-trump-et-volodymyr-zelensky-se-retrouveront-au-g7-devian-20260613_D62IKALLEFHRVDK6ODRJ7TI2TY/",
-      "summary": "Les présidents américain et ukrainien se verront en Haute-Savoie pour parler d’Ukraine, confirme la Maison Blanche.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-06-13T16:03:37+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "5712b5b623ba"
     }
   ]
 }
