@@ -1,16 +1,136 @@
 {
-  "generated_at": "2026-06-12T23:25:55.988388+00:00",
+  "generated_at": "2026-06-13T04:42:09.665564+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran propose de diluer ses stocks d’uranium enrichi",
-      "url": "https://www.lemonde.fr/international/live/2026/06/13/en-direct-guerre-au-moyen-orient-l-iran-propose-de-diluer-ses-stocks-d-uranium-enrichi_6701050_3210.html",
-      "summary": "Les Etats-Unis demandent la destruction de ces stocks dans le cadre de l’accord en discussion avec Téhéran. La dilution permettrait d’éloigner considérablement la menace d’un enrichissement visant à fabriquer une arme atomique.",
-      "image": "https://img.lemde.fr/2026/04/01/264/0/3165/1582/644/322/60/0/7b93417_ftp-1-u3y1r0ignnap-6bb9d6943c144f41b2e87017d9b00d63-0-0ee99bacc45d42af986b503b5e394ede.jpg",
-      "published_at": "2026-06-13T01:13:17+02:00",
+      "title": "Amazon fait chuter l’alternative ultra-fine à l’AirTag Ugreen à moins de 20 €",
+      "url": "https://www.numerama.com/tech/2275021-amazon-fait-chuter-lalternative-ultra-fine-a-lairtag-dugreen-a-moins-de-20-e.html",
+      "summary": "[Deal du jour] Pour protéger votre portefeuille sans l'encombrer, ce traceur d'Ugreen se pose en alternative idéale à l'AirTag grâce à son format carte de crédit. Pratique et compatible avec le réseau Apple Find My, il profite actuellement d'une bonne réduction sur Amazon.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-13T04:31:00+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "39acc0c9ee29"
+    },
+    {
+      "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine dit avoir intercepté des drones iraniens qui menaçaient des navires dans le détroit d’Ormuz",
+      "url": "https://www.lemonde.fr/international/live/2026/06/13/en-direct-guerre-au-moyen-orient-l-armee-americaine-dit-avoir-intercepte-des-drones-iraniens-qui-menacaient-des-navires-dans-le-detroit-d-ormuz_6701050_3210.html",
+      "summary": "« L’Iran a lancé plusieurs drones d’attaque dans le but de frapper des navires commerciaux transitant par le détroit d’Ormuz », a écrit sur X le Commandement américain pour le Moyen-Orient(Centcom). « Les forces américaines les ont tous abattus ces dernières heures, et le trafic maritime dans le détroit reste fluide », a-t-il ajouté.",
+      "image": "https://img.lemde.fr/2026/06/12/345/0/5500/2750/644/322/60/0/00a560a_ftp-1-rrkdodwxys2w-2026-06-12t082043z-1779541025-rc2jrlavmw8b-rtrmadp-3-iran-crisis-oman-hormuz.JPG",
+      "published_at": "2026-06-13T06:26:18+02:00",
       "source": "Le Monde",
+      "category": "Politique",
+      "id": "7edc37676fa9"
+    },
+    {
+      "title": "Mort de Lyhanna : la communication de crise de l’exécutif débordée par l’opération de sauvetage personnel de Gérald Darmanin",
+      "url": "https://www.lemonde.fr/politique/article/2026/06/13/mort-de-lyhanna-la-communication-de-crise-de-l-executif-debordee-par-l-operation-de-sauvetage-personnel-de-gerald-darmanin_6701321_823448.html",
+      "summary": "Emmanuel Macron et le gouvernement de Sébastien Lecornu peinent à surmonter les répercussions politiques du meurtre de la fillette de 11 ans, alors que le ministre de la justice tente de son côté de démontrer qu’il n’a aucune responsabilité dans les éventuelles négligences dans le traitement du suspect, Jérôme Barella.",
+      "image": "https://img.lemde.fr/2026/06/12/527/0/5315/2657/644/322/60/0/61e6786_upload-1-5ek6ef84f7la-camillegharbi-le-monde-rassemblement-lyhanna-9266.jpg",
+      "published_at": "2026-06-13T06:15:07+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "30f8d1f63a4a"
+    },
+    {
+      "title": "Coupe du monde 2026 : qui sont les 26 joueurs de l’équipe de France",
+      "url": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-qui-sont-les-26-joueurs-de-lequipe-de-france-20260613_6CCPP5B63JCLHPBKPQNJ7XUDFI/",
+      "summary": "Choisis par Didier Deschamps pour tenter d’arracher un troisième sacre planétaire, le capitaine Kylian Mbappé et ses 25 coéquipiers défendront les chances bleues. «Libé» fait les présentations.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-13T04:02:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "ef2f8ab6ddac"
+    },
+    {
+      "title": "Au Tchad, l’armée française prépare un retour à pas feutrés",
+      "url": "https://www.lemonde.fr/afrique/article/2026/06/13/au-tchad-l-armee-francaise-prepare-un-retour-a-pas-feutres_6701314_3212.html",
+      "summary": "Un an et demi après l’éviction brutale des soldats français basés au Tchad, Paris et N’Djamena avancent sur la reprise de leur coopération militaire bilatérale.",
+      "image": "https://img.lemde.fr/2026/06/12/0/0/7586/3793/644/322/60/0/2af1cf3_upload-1-wmmtmmgumljt-000-94gn2jp.jpg",
+      "published_at": "2026-06-13T06:00:30+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "b4d8236ab62c"
+    },
+    {
+      "title": "Sébastien Migné, entraîneur d’Haïti à la Coupe du monde : «Nos performances peuvent avoir une résonance très forte au pays»",
+      "url": "https://www.liberation.fr/sports/football/sebastien-migne-entraineur-dhaiti-a-la-coupe-du-monde-nos-performances-peuvent-avoir-une-resonance-tres-forte-au-pays-20260613_TDP6I6IPQZCCDLGWZIMHE5MULM/",
+      "summary": "Sans avoir jamais mis un pied dans le pays, le sélectionneur français a joué un rôle majeur pour inviter Haïti au Mondial. Il raconte cette équipe hétéroclite, qui n’a disputé aucun match à la maison et affronte l’Ecosse, ce 13 juin pour son entrée dans la compétition.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-06-13T03:44:00+00:00",
+      "source": "Libération",
       "category": "Sport",
-      "id": "ef5c0d797cec"
+      "id": "f7cd4080b446"
+    },
+    {
+      "title": "Au Royaume-Uni, la renaissance de Manchester, une réussite revendiquée par son maire, Andy Burnham, rival de Keir Starmer",
+      "url": "https://www.lemonde.fr/international/article/2026/06/13/au-royaume-uni-la-renaissance-de-manchester-une-reussite-revendiquee-par-son-maire-andy-burnham-rival-de-keir-starmer_6701308_3210.html",
+      "summary": "L’édile travailliste gouverne depuis 2017 la métropole anglaise qui, après un long déclin post-industriel, a renoué avec un dynamisme impulsé par ses derniers maires. Le 18 juin, Andy Burnham tentera de retrouver un siège de député lors d’une élection partielle difficile, afin d’essayer, ensuite, de remplacer Keir Starmer au poste de premier ministre.",
+      "image": "https://img.lemde.fr/2026/06/08/737/0/5906/2953/644/322/60/0/bd9ebd6_upload-1-yzkfx0ahdzgr-manchester-17.jpg",
+      "published_at": "2026-06-13T05:30:20+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "499cd93b86fb"
+    },
+    {
+      "title": "39 °C à Paris, plus de 40 °C dans le Sud : la France face à un nouvel épisode de chaleur « très intense et étendu »",
+      "url": "https://www.lemonde.fr/planete/article/2026/06/13/39-c-a-paris-plus-de-40-c-dans-le-sud-la-france-face-a-un-nouvel-episode-de-chaleur-tres-intense-et-etendu_6701307_3244.html",
+      "summary": "La moitié sud de l’Hexagone sera la première touchée ce week-end. A partir de mardi, la chaleur doit s’intensifier et remonter vers le nord. Les 40 °C pourraient être atteints ou dépassés, même si des incertitudes demeurent.",
+      "image": "https://img.lemde.fr/2026/05/28/804/0/7447/3723/644/322/60/0/b0ba908_upload-1-oiq32s5xtiqo-canicule-toulouse-myop-lebeuf-6293.jpg",
+      "published_at": "2026-06-13T05:30:06+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "30bede166b97"
+    },
+    {
+      "title": "Aux Etats-Unis, l’Eglise catholique fait le plein de jeunes recrues",
+      "url": "https://www.lemonde.fr/m-le-mag/article/2026/06/13/aux-etats-unis-l-eglise-catholique-fait-le-plein-de-jeunes-recrues_6701306_4500055.html",
+      "summary": "Les paroisses du pays attirent de nouveaux fidèles en mal de religion. Le culte catholique, pourtant minoritaire, n’est pas en reste. Comme à Washington, où l’une des églises, qui organise « happy hours » et « speed dating », séduit de nombreux adeptes issus de la « gen Z ».",
+      "image": "https://img.lemde.fr/2026/06/10/236/0/1890/945/644/322/60/0/c5edf41_ftp-1-batzupw6qzfr-431816-3474799.jpg",
+      "published_at": "2026-06-13T05:30:05+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "8524e7851a59"
+    },
+    {
+      "title": "Le sort en suspens des prisonniers de guerre non russes capturés par l’armée ukrainienne",
+      "url": "https://www.lemonde.fr/international/article/2026/06/13/le-sort-en-suspens-des-prisonniers-de-guerre-non-russes-captures-par-l-armee-ukrainienne_6701304_3210.html",
+      "summary": "Des centaines de combattants d’origine étrangère détenus en captivité en Ukraine se retrouvent dans les limbes juridiques, alors que Moscou ne souhaite pas les inclure dans les échanges de prisonniers.",
+      "image": "https://img.lemde.fr/2026/06/11/344/0/4134/2067/644/322/60/0/fd1d5a9_upload-1-f4zjtrncdvet-pows-camp-editorial-014.jpg",
+      "published_at": "2026-06-13T05:00:14+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "17ba0bf69256"
+    },
+    {
+      "title": "Le chef du gang Tren de Aragua a été tué dans une frappe américaine, annonce Donald Trump",
+      "url": "https://www.lemonde.fr/international/article/2026/06/13/le-chef-du-gang-tren-de-aragua-a-ete-tue-dans-une-frappe-americaine-annonce-donald-trump_6701301_3210.html",
+      "summary": "L’opération a été menée « en étroite coordination » avec le Venezuela, pays d’origine de cette organisation criminelle parmi les plus importantes d’Amérique latine. Le président américain n’a pas précisé le lieu de la frappe.",
+      "image": "https://img.lemde.fr/2026/06/13/0/0/2940/1470/644/322/60/0/03033fb_ftp-1-5xxlvt4gtf8y-5303409-01-06.jpg",
+      "published_at": "2026-06-13T04:50:24+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "429167a4df3a"
+    },
+    {
+      "title": "Anthropic « désactive brutalement » ses deux modèles d’IA les plus puissants, faute de pouvoir se conformer aux ordres de l’administration Trump",
+      "url": "https://www.lemonde.fr/pixels/article/2026/06/13/anthropic-desactive-brutalement-ses-deux-modeles-d-ia-les-plus-puissants-faute-de-pouvoir-se-conformer-aux-ordres-de-l-administration-trump_6701235_4408996.html",
+      "summary": "Invoquant des questions de « sécurité nationale », Washington exige que la start-up américaine d’intelligence artificielle restreigne l’accès de Claude Fable 5 et Mythos 5 aux seuls ressortissants américains. Une demande impossible à mettre en œuvre, selon Anthropic.",
+      "image": "https://img.lemde.fr/2026/06/11/120/0/6495/3247/644/322/60/0/8d1cd13_ftp-1-2rimdi4kdvm2-2026-06-11t101927z-101722906-rc2uoja6jwam-rtrmadp-3-ai-ipo-rivalry.JPG",
+      "published_at": "2026-06-13T04:13:56+02:00",
+      "source": "Le Monde",
+      "category": "Tech",
+      "id": "706ee1afe46b"
+    },
+    {
+      "title": "Le rôle « déterminant » d’Elon Musk dans l’amplification des discours xénophobes liés aux émeutes à Belfast",
+      "url": "https://www.lemonde.fr/international/article/2026/06/13/le-role-determinant-d-elon-musk-dans-l-amplification-des-discours-xenophobes-lies-aux-emeutes-a-belfast_6701202_3210.html",
+      "summary": "« En tant que propriétaire de X et utilisateur le plus suivi, [Elon] Musk dispose d’un pouvoir sans équivalent pour façonner ce que voient les internautes », relèvent les chercheurs de l’ONG Center for Countering Digital Hate. Le milliardaire avait appelé ses abonnés à protester et reposté des messages de leaders d’extrême droite.",
+      "image": "https://img.lemde.fr/2026/06/12/458/0/5500/2750/644/322/60/0/3e863fd_ftp-1-m9oeyp32fm09-2026-06-12t151918z-1906226523-rc2dslazylgw-rtrmadp-3-spacex-ipo.JPG",
+      "published_at": "2026-06-13T03:45:41+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "a07b5f7bea94"
     },
     {
       "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky se félicite de la reprise des négociations sur l’adhésion de Kiev à l’UE",
@@ -23,10 +143,10 @@
       "id": "def430ee5810"
     },
     {
-      "title": "EN DIRECT, Etats-Unis-Paraguay : suivez le match de la Coupe du monde 2026 de football",
+      "title": "Etats-Unis-Paraguay : la Team USA réussit son entrée en lice dans le Mondial en s’imposant avec la manière face aux Paraguayens",
       "url": "https://www.lemonde.fr/sport/live/2026/06/13/en-direct-etats-unis-paraguay-suivez-le-match-de-la-coupe-du-monde-2026-de-football_6701169_3242.html",
-      "summary": "Les Etats-Unis, qui coorganisent le Mondial avec le Canada et le Mexique, font leur entrée en lice dans la compétition, dans la nuit de vendredi à samedi, avec le statut de favoris, face au Paraguay.",
-      "image": "https://img.lemde.fr/2026/06/12/53/0/5871/2935/644/322/60/0/c08bb1b_ftp-1-7epglbgxc6ud-2026-06-12t014545z-1431656194-up1em6c04w63c-rtrmadp-3-soccer-worldcup-usa-pry-preview.JPG",
+      "summary": "Pour leur premier match dans la Coupe du monde, les Etats-Unis se sont facilement imposés, dans la nuit de vendredi à samedi, face au Paraguay (4-1). Une rencontre marquée par le doublé de l’attaquant Folarin Balogun.",
+      "image": "https://img.lemde.fr/2026/06/13/628/0/7539/3769/644/322/60/0/3fec229_ftp-1-4oyvo7jxmxay-5303499-01-06.jpg",
       "published_at": "2026-06-13T01:00:01+02:00",
       "source": "Le Monde",
       "category": "Sport",
@@ -35,10 +155,10 @@
     {
       "title": "Le « Trump Kennedy Center » doit redevenir simplement le Kennedy Center, maintient un juge fédéral à Washington",
       "url": "https://www.lemonde.fr/international/article/2026/06/13/le-trump-kennedy-center-doit-redevenir-simplement-le-kennedy-center-maintient-un-juge-federal-a-washington_6701168_3210.html",
-      "summary": "Le milliardaire républicain avait accolé en décembre 2025 son nom à celui de son lointain prédécesseur démocrate John F. Kennedy sur la façade de la salle de spectacles de Washington. Une initiative qu’un juge fédéral cherche à faire annuler.",
+      "summary": "Le magistrat a rejeté la demande de la salle de spectacle de Washington de surseoir à la décision supprimant le nom du milliardaire. Le juge a aussi suspendu la fermeture pour deux ans du Kennedy Center pour rénovation décidée par la direction des lieux, sous l’influence du président américain.",
       "image": "https://img.lemde.fr/2026/06/12/504/0/6048/3024/644/322/60/0/b2a20f9_ftp-1-gz5chqs1tbar-5299706-01-06.jpg",
       "published_at": "2026-06-13T00:42:00+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "International",
       "id": "29ffb48e9f5c"
     },
@@ -181,126 +301,6 @@
       "source": "France Info",
       "category": "Société",
       "id": "bd1cb419d3af"
-    },
-    {
-      "title": "Le pape Léon XIV contraint de retarder son retour après un incident d’avion aux Canaries",
-      "url": "https://www.lemonde.fr/international/article/2026/06/12/le-pape-leon-xiv-contraint-de-retarder-son-retour-apres-un-incident-d-avion-aux-canaries_6701164_3210.html",
-      "summary": "L’avion qui devait le ramener à Rome, vendredi, a subi un problème technique forçant le pape à retarder son départ et s’envoler à bord d’un Falcon mis à disposition par le roi Felipe VI.",
-      "image": "https://img.lemde.fr/2026/06/12/624/0/3744/1872/644/322/60/0/edcfdf4_ftp-1-v7snutsm4b9m-2026-06-12t170831z-1427064101-rc2hslaf25qh-rtrmadp-3-pope-spain-airplane.JPG",
-      "published_at": "2026-06-12T21:49:40+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "73c70ed2af0a"
-    },
-    {
-      "title": "Accord entre l’Iran et les Etats-Unis : «les signes positifs s’accumulent», affirme le ministre français des Affaires étrangères",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-na-pas-encore-de-conclusion-definitive-sur-laccord-annonce-par-trump-20260612_IMUVVNVYIRDUVCPBTWIVXXZPN4/",
-      "summary": "Le ministre iranien des Affaires étrangères appelle les médias «à ne pas spéculer sur le contenu d’un accord avant sa finalisation». Un peu plus tôt, le président américain a accusé Téhéran de faire circuler un faux texte dans la presse.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-12T19:48:15+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "cd868d2c6661"
-    },
-    {
-      "title": "Coupe du monde : poursuivi pour viols au Royaume-Uni, le ghanéen Thomas Partey indésirable au Canada",
-      "url": "https://www.liberation.fr/sports/football/coupe-du-monde-poursuivi-pour-viols-au-royaume-uni-le-ghaneen-thomas-partey-indesirable-au-canada-20260612_LAXNM2BHNZFMVEJ2NK67YU5UKI/",
-      "summary": "Le milieu de terrain de Villarreal, qui sera jugé en 2027 pour des viols, a vu son visa refusé par les autorités canadiennes. Il manquera le premier match des Black Stars contre le Panama.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-12T19:41:15+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "3231fcc7f165"
-    },
-    {
-      "title": "Mort de Lyhanna : Gabriel Attal veut une « culture de l’urgence » et un fichage des pédocriminels",
-      "url": "https://www.lemonde.fr/politique/article/2026/06/12/mort-de-lyhanna-gabriel-attal-veut-une-culture-de-l-urgence-et-un-fichage-des-pedocriminels_6701163_823448.html",
-      "summary": "Le président de Renaissance, Gabriel Attal, a décliné vendredi 12 juin dans « Le Figaro » toute une série de propositions pour faire face aux atteintes aux mineurs. « Ce qui a manqué, c’est une vraie réforme de notre système judiciaire », affirme-t-il.",
-      "image": "https://img.lemde.fr/2026/05/23/0/0/8000/4000/644/322/60/0/5ff986b_upload-1-aldldjyo4rs7-jmug260522033.jpg",
-      "published_at": "2026-06-12T21:33:03+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "0eb04f63cbc0"
-    },
-    {
-      "title": "Viol par soumission chimique : un homme en contact avec Dominique Pelicot écope de 15 ans de réclusion criminelle",
-      "url": "https://www.franceinfo.fr/societe/justice/viol-par-soumission-chimique-un-homme-en-contact-avec-dominique-pelicot-ecope-de-15-ans-de-reclusion-criminelle_8058221.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un ancien garde du corps était jugé par la cour criminelle du Rhône pour avoir violé et drogué sa compagne \"déshumanisée, traitée comme un objet\", selon son avocate.",
-      "image": "https://www.franceinfo.fr/pictures/25LtGe4jKpwyM9dzRt6ZUF_izgg/0x349:6708x4123/432x243/filters:format(jpg)/2026/06/12/6a2c590e85a98485972796.jpg",
-      "published_at": "2026-06-12T21:23:04+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "5424893f619a"
-    },
-    {
-      "title": "L’UE va reprendre lundi les négociations sur l’adhésion de l’Ukraine",
-      "url": "https://www.liberation.fr/international/europe/lue-va-reprendre-lundi-les-negociations-sur-ladhesion-de-lukraine-20260612_TQMRFVXNCNFNRD5WMZM62LKP3U/",
-      "summary": "Le processus a été relancé après la défaite électorale du Hongrois Viktor Orbán, qui y avait mis son veto . Mais le processus est très long avant une éventuelle intégration.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-06-12T19:20:54+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "26fc0556c83b"
-    },
-    {
-      "title": "Un homme qui échangeait avec Dominique Pélicot condamné à 15 ans de réclusion pour avoir violé et drogué sa femme",
-      "url": "https://www.liberation.fr/societe/police-justice/un-homme-qui-echangeait-avec-dominique-pelicot-condamne-a-15-ans-de-reclusion-pour-avoir-viole-et-drogue-sa-femme-20260612_TV2BAXHHYBD5DKHUCBE723KPOI/",
-      "summary": "Un homme de 39 ans a été condamné ce vendredi 12 juin par la cour criminelle du Rhône, vidéos insoutenables à l’appui. Dominique Pelicot offrait ses conseils à l’accusé.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-12T19:16:50+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "c9b12c409be3"
-    },
-    {
-      "title": "\"On aurait pu éviter ce drame\" : aux obsèques de Lyhanna à Fleurance, un dernier hommage empreint de colère",
-      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/reportage-on-aurait-pu-eviter-ce-drame-aux-obseques-de-lyhanna-a-fleurance-un-dernier-hommage-empreint-de-colere_8058017.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les funérailles de la collégienne se sont déroulées vendredi dans le Gers, en présence de nombreux habitants venus soutenir la famille endeuillée.",
-      "image": "https://www.franceinfo.fr/pictures/k84Awq9trjLIBbDobL2DfAe_ufM/769x961:5316x3518/432x243/filters:format(jpg)/2026/06/12/6a2c45058ba9c855270654.jpg",
-      "published_at": "2026-06-12T21:01:57+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "2a14ba263043"
-    },
-    {
-      "title": "Israël-Palestine : des représentants des « sociétés civiles » réunis à Paris demandent des sanctions contre la colonisation",
-      "url": "https://www.lemonde.fr/international/article/2026/06/12/israel-palestine-des-representants-des-societes-civiles-reunis-a-paris-demandent-des-sanctions-contre-la-colonisation_6701161_3210.html",
-      "summary": "Un an après l’Appel de Paris et la reconnaissance de l’Etat de Palestine par la France, restée sans effet concret, le Quai d’Orsay a rassemblé, le 12 juin, militants, ONG et plusieurs ministres des affaires étrangères. Leurs recommandations seront transmises au G7, qui s’ouvre le 15 juin à Evian.",
-      "image": "https://img.lemde.fr/2026/06/12/42/0/7467/3733/644/322/60/0/fcb7a46_ftp-1-rp654gsw7jw9-5297209-01-06.jpg",
-      "published_at": "2026-06-12T21:00:26+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "473c65d6c8f6"
-    },
-    {
-      "title": "Polytechnique : à la remise des diplômes, des élèves dénoncent les liens entre l’école et les grands groupes industriels",
-      "url": "https://www.liberation.fr/societe/education/polytechnique-a-la-remise-des-diplomes-des-eleves-denoncent-les-liens-entre-lecole-et-les-grands-groupes-industriels-20260612_MINNK7YCHRDLXPTXSLUUZ4KBUY/",
-      "summary": "En pleine cérémonie de remise des diplômes de la prestigieuse école militaire d’ingénieurs, un collectif d’élèves a critiqué une formation qui les «prépare trop souvent à servir des intérêts économiques» et ne prend pas suffisamment en compte les «ravages sociaux, écologiques et militaires».",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-06-12T18:56:26+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "ce9509436ed8"
-    },
-    {
-      "title": "L'Union européenne va reprendre les négociations sur l'adhésion de l'Ukraine après la levée du veto de la Hongrie",
-      "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/l-union-europeenne-va-reprendre-les-negociations-sur-l-adhesion-de-l-ukraine-apres-la-levee-du-veto-de-la-hongrie_8058161.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le premier des six chapitres de négociations, qui concernent également l'adhésion de la Moldavie à l'UE, sera rouvert lundi.",
-      "image": "https://www.franceinfo.fr/pictures/dXgQe9PxJtDFVzwoSByyoFN537c/0x0:1024x576/432x243/filters:format(jpg)/2026/06/12/6a2c4b40d3bb3266192680.jpg",
-      "published_at": "2026-06-12T20:51:45+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "48420d5c6b90"
-    },
-    {
-      "title": "Pédocriminalité : Gabriel Attal veut «aligner le traitement des pédocriminels sur celui des terroristes»",
-      "url": "https://www.liberation.fr/societe/police-justice/pedocriminalite-gabriel-attal-veut-aligner-le-traitement-des-pedocriminels-sur-celui-des-terroristes-20260612_PMMIH5QJC5A25JH7RJ36IXYF74/",
-      "summary": "Dans un entretien au «Figaro», le candidat à l’élection présidentielle propose de revoir en profondeur le traitement judiciaire des violences sexuelles sur mineurs, avec une chaîne pénale spécialisée et un durcissement des peines.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-12T18:51:33+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "b7743231a7a4"
     }
   ]
 }
