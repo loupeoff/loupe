@@ -1,26 +1,66 @@
 {
-  "generated_at": "2026-06-14T21:22:35.415233+00:00",
+  "generated_at": "2026-06-14T23:19:07.148783+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "EN DIRECT - Coupe du monde, jour 4 : les Pays-Bas mènent face au Japon",
+      "title": "Guerre au Moyen-Orient : Les Etats-Unis et l’Iran signeront un accord de paix à Genève en Suisse le 19 juin",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-assure-quun-accord-sera-signe-ce-dimanche-avec-liran-jour-de-son-anniversaire-20260614_GH5F2EVEKBHQ7C3C2ML4A6ER2Q/",
+      "summary": "Le médiateur pakistanais a annoncé ce dimanche soir qu’un accord a été conclu entre les Etats-Unis et l’Iran ainsi qu’un cessez-le-feu dans le conflit au Moyen-Orient, y compris au Liban.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-06-14T22:30:31+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "47850b95aaf9"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : un accord de paix a été conclu entre les Etats-Unis et l'Iran, annoncent Donald Trump et le médiateur pakistanais",
+      "url": "https://www.franceinfo.fr/monde/moyen-orient/guerre-au-moyen-orient-un-accord-de-paix-a-ete-conclu-entre-les-etats-unis-et-l-iran-annoncent-donald-trump-et-le-mediateur-pakistanais_8060504.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le président américain a affirmé dimanche que le détroit d'Ormuz allait rouvrir, tandis que Téhéran a confirmé \"la fin immédiate\" de la guerre, \"y compris au Liban\".",
+      "image": "https://www.franceinfo.fr/pictures/89j4IhIPjXebbPu2wWu8sxs9oRE/0x100:1024x676/432x243/filters:format(jpg)/2026/06/14/6a2f1deba7808126968939.jpg",
+      "published_at": "2026-06-15T00:25:00+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "08397f3261cc"
+    },
+    {
+      "title": "Coupe du monde 2026 : le Japon rattrape les Pays-Bas au terme d'un duel emballant, l'Allemagne déroule contre Curaçao",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/directs/coupe-du-monde-2026-a-la-veille-de-son-entree-dans-la-competition-l-equipe-d-iran-arrive-a-los-angeles-sur-fond-de-tensions-geopolitiques_8059889.html#xtor=RSS-3-[lestitres]",
+      "summary": "Après le premier but du territoire des Antilles néerlandaises en Coupe du monde, la Mannschaft a repris sa marche en avant pour se diriger tranquillement vers une victoire confortable (7-1).",
+      "image": "https://www.franceinfo.fr/pictures/NEk1KkDbskdGipGkimLevyPPNpw/0x345:4104x2654/432x243/filters:format(jpg)/2026/06/14/6a2f12987780e497157832.jpg",
+      "published_at": "2026-06-15T00:07:28+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "0140caf79401"
+    },
+    {
+      "title": "Coupe du monde, jour 4 : le Japon et les Pays-Bas se quittent sur un beau nul (2-2)",
       "url": "https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-jour-4-lequipe-iranienne-attendue-sur-le-sol-americain-avant-son-match-contre-la-nouvelle-zelande-lundi-20260614_FVSFHGYD55AS3IQVKNSKC3I4Z4/",
       "summary": "Matchs, reportages, portraits… Retrouvez toute l’actualité de la Coupe du monde 2026 au fil de la journée par nos envoyés spéciaux en Amérique du Nord et nos journalistes sportifs.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-14T21:15:21+00:00",
+      "published_at": "2026-06-14T22:00:36+00:00",
       "source": "Libération",
       "category": "Sport",
       "id": "1f26cd64b018"
     },
     {
-      "title": "Guerre au Moyen-Orient : Donald Trump assure qu’un accord avec l’Iran sera signé «dans quelques heures»",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-assure-quun-accord-sera-signe-ce-dimanche-avec-liran-jour-de-son-anniversaire-20260614_GH5F2EVEKBHQ7C3C2ML4A6ER2Q/",
-      "summary": "Le président américain espérait pouvoir signer un accord ce dimanche, jour de ses 80 ans. Mais la frappe mortelle d’Israël sur la banlieue sud de Beyrouth a contrecarré ses projets, Téhéran accusant les Etats-Unis de ne pas tenir ses engagements.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-06-14T21:08:42+00:00",
+      "title": "Donald Trump s’offre un accord avec l’Iran le jour de ses 80 ans",
+      "url": "https://www.liberation.fr/international/moyen-orient/donald-trump-soffre-un-accord-avec-liran-le-jour-de-ses-80-ans-20260614_NNZ7Z24VR5FHPCMEX2H2WSGBSU/",
+      "summary": "Le président américain a annoncé qu’un accord avait enfin été conclu avec Téhéran. Il s’accompagne d’un cessez-le-feu englobant le Liban et sera signé en Suisse le 19 juin.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-14T21:48:30+00:00",
       "source": "Libération",
-      "category": "International",
-      "id": "47850b95aaf9"
+      "category": "Politique",
+      "id": "dd5430bcdfbc"
+    },
+    {
+      "title": "EN DIRECT, Côte d’Ivoire-Equateur : après douze ans d’absence, les Elephants reviennent en Coupe du monde, suivez le match",
+      "url": "https://www.lemonde.fr/sport/live/2026/06/14/en-direct-cote-d-ivoire-equateur-suivez-le-match-de-la-coupe-du-monde-de-football_6702961_3242.html",
+      "summary": "Quelques jours après avoir dominé l’équipe de France à Nantes, les Elephants entrent dans le Mondial face aux Equatoriens, dimanche à Philadelphie, dans le groupe E.",
+      "image": "https://img.lemde.fr/2026/06/14/853/0/4920/2460/644/322/60/0/e7d5181_ftp-1-aqi51ghke0cr-2026-06-14t223721z-56558708-up1em6e1qu7he-rtrmadp-3-soccer-worldcup-civ-ecu.JPG",
+      "published_at": "2026-06-14T23:00:09+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "61beaa524e73"
     },
     {
       "title": "A la manifestation No-G7 de Genève, une \"convergence des luttes\" pour protester contre le sommet d'Evian",
@@ -33,21 +73,11 @@
       "id": "05a9c370e06e"
     },
     {
-      "title": "Coupe du monde 2026 : un duel prometteur entre les Pays-Bas et le Japon, l'Allemagne déroule face à Curaçao",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/directs/coupe-du-monde-2026-a-la-veille-de-son-entree-dans-la-competition-l-equipe-d-iran-arrive-a-los-angeles-sur-fond-de-tensions-geopolitiques_8059889.html#xtor=RSS-3-[lestitres]",
-      "summary": "Après le premier but du territoire des Antilles néerlandaises en Coupe du monde, la Mannschaft a repris sa marche en avant pour se diriger tranquillement vers une victoire confortable (7-1).",
-      "image": "https://www.franceinfo.fr/pictures/NEk1KkDbskdGipGkimLevyPPNpw/0x345:4104x2654/432x243/filters:format(jpg)/2026/06/14/6a2f12987780e497157832.jpg",
-      "published_at": "2026-06-14T22:48:08+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "0140caf79401"
-    },
-    {
       "title": "Equateur : une procureure assassinée à Manta, ville bastion du narcotrafic",
       "url": "https://www.lemonde.fr/international/article/2026/06/14/equateur-une-procureure-assassinee-a-manta-ville-bastion-du-narcotrafic_6702960_3210.html",
       "summary": "Gloria Bravo travaillait depuis 15 ans comme procureure de Manta, une ville portuaire de l’ouest de l’Equateur, et l’un des principaux bastions du groupe criminel Los Choneros.",
-      "image": "https://img.lemde.fr/2026/06/11/332/0/3984/1992/644/322/60/0/cb7ab23_ftp-1-2j5tlmtp3g2s-cbd2dfc4affb4ed98cc4f3790f3fc535-3-bc11aeb36a114f6db15ae5d4103165b4.jpg",
-      "published_at": "2026-06-14T22:30:37+02:00",
+      "image": "https://img.lemde.fr/2026/06/11/406/0/3984/1992/644/322/60/0/cb7ab23_ftp-1-2j5tlmtp3g2s-cbd2dfc4affb4ed98cc4f3790f3fc535-3-bc11aeb36a114f6db15ae5d4103165b4.jpg",
+      "published_at": "2026-06-14T22:30:34+02:00",
       "source": "Le Monde",
       "category": "Tech",
       "id": "5024d38e796b"
@@ -127,8 +157,8 @@
       "url": "https://www.lemonde.fr/international/article/2026/06/14/je-savais-qu-il-y-avait-un-helicoptere-mais-au-moment-ou-j-ai-saute-du-train-il-n-y-en-avait-pas-l-evasion-spectaculaire-d-un-deserteur-russe-embarrasse-la-justice-francaise_6702925_3210.html",
       "summary": "Réussir une évasion très risquée mais échouer devant l’écueil administratif pourrait ramener le jeune homme à son point de départ. Paris renvoie sa demande d’asile à Vilnius, d’ordinaire encline à rejeter les demandeurs russes.",
       "image": "https://img.lemde.fr/2026/06/14/367/0/1530/765/644/322/60/0/ec633f3_upload-1-90olswwif3ko-whatsapp-image-2026-06-13-at-13-45-48.jpeg",
-      "published_at": "2026-06-14T21:04:53+02:00",
-      "source": "Le Monde Inter",
+      "published_at": "2026-06-14T21:04:49+02:00",
+      "source": "Le Monde",
       "category": "Sport",
       "id": "0df5264915e2"
     },
@@ -193,10 +223,10 @@
       "id": "c4b63ab6e781"
     },
     {
-      "title": "EN DIRECT, guerre au Moyen-Orient : la diplomatie iranienne pointe la « responsabilité directe » des Etats-Unis dans les violations du cessez-le-feu au Liban",
+      "title": "EN DIRECT, guerre au Moyen-Orient : Trump déclare que l’accord de paix avec l’Iran est « désormais finalisé », le Pakistan annonce une signature le 19 juin à Genève",
       "url": "https://www.lemonde.fr/international/live/2026/06/14/en-direct-guerre-au-moyen-orient-l-iran-menace-israel-apres-l-attaque-sur-la-banlieue-sud-de-beyrouth-donald-trump-enerve-contre-netanyahou_6701050_3210.html",
-      "summary": "« Il ne devrait plus y avoir d’attaques israéliennes nulle part au Liban, mais il ne devrait pas non plus y avoir d’attaques de la part d’aucune autre partie, y compris le Hezbollah, contre Israël », a affirmé le président américain, dimanche.",
-      "image": "https://img.lemde.fr/2026/06/14/602/0/5712/2856/644/322/60/0/4ba8160_ftp-1-ga2zgzhv5s79-5314544-01-06.jpg",
+      "summary": "Le président américain a également annoncé la réouverture du détroit d’Ormuz ainsi que la levée « immédiate » du blocus naval américain. Le médiateur pakistanais a de son côté assuré que le cessez-le-feu concernait tout le Moyen-Orient, y compris le Liban.",
+      "image": "https://img.lemde.fr/2026/06/14/421/0/5431/2715/644/322/60/0/d06865a_ftp-1-h0nfzocvcnp5-5314342-01-06.jpg",
       "published_at": "2026-06-14T20:19:07+02:00",
       "source": "Le Monde",
       "category": "Politique",
@@ -263,16 +293,6 @@
       "id": "07b9ec7ecd87"
     },
     {
-      "title": "EN DIRECT, Pays-Bas - Japon : les Oranje ouvrent la marque et prennent l’avantage contre les Samuraï Blue dès l’entame de la seconde période",
-      "url": "https://www.lemonde.fr/sport/live/2026/06/14/en-direct-pays-bas-japon-suivez-le-match-de-la-coupe-du-monde-de-football_6702858_3242.html",
-      "summary": "Place au rythme, aux envolées footballistiques, à la technique. C’est ce qu’on espère en tout cas voir lors de ce duel entre un outsider du Mondial, les Pays-Bas, et une équipe du Japon qui peut surprendre.",
-      "image": "https://img.lemde.fr/2026/06/14/582/0/6985/3492/644/322/60/0/19f4f58_ftp-1-g36eriatldrj-bb6d89263351441db8b1b56ee625499f-0-5e34293e016d446b8008e11af5f253ac.jpg",
-      "published_at": "2026-06-14T20:00:08+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "67a02fef5017"
-    },
-    {
       "title": "Lewis Hamilton renoue avec la victoire au Grand Prix de Barcelone, son premier succès avec Ferrari",
       "url": "https://www.lemonde.fr/sport/article/2026/06/14/lewis-hamilton-renoue-avec-la-victoire-au-grand-prix-de-barcelone-son-premier-succes-avec-ferrari_6702824_3242.html",
       "summary": "Le septuple champion du monde britannique a remporté, dimanche, sa première victoire au volant d’une monoplace rouge, lors de la première course non remportée par une Mercedes cette saison.",
@@ -281,26 +301,6 @@
       "source": "Le Monde",
       "category": "Sport",
       "id": "41bc7a1efe14"
-    },
-    {
-      "title": "«Soulagés et heureux» : les Suisses rejettent l’initiative anti-immigration portée par l’extrême droite",
-      "url": "https://www.liberation.fr/international/europe/une-tendance-au-non-vers-un-rejet-dans-les-urnes-de-linitiative-anti-immigration-en-suisse-20260614_GHTYCJEJRFHIDGAATRULSW63XY/",
-      "summary": "Combattue par le gouvernement et les principaux partis, la proposition qui visait à limiter l’immigration afin d’empêcher que la population résidente permanente dépasse les 10 millions d’habitants d’ici à 2050 a été rejetée ce dimanche 14 juin par 54 % des électeurs.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-14T17:40:46+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "605bf3dbb04e"
-    },
-    {
-      "title": "Négociations de paix au Moyen-Orient, plafonnement des arrêts maladie, Coupe du Monde de foot… L’actu de ce week-end des 13 et 14 juin",
-      "url": "https://www.liberation.fr/international/europe/negociations-de-paix-au-moyen-orient-plafonnement-des-arrets-maladie-coupe-du-monde-de-foot-lactu-de-ce-week-end-des-13-et-14-juin-20260614_BCCZE5GAIVBH7F7FOOJL7WBOZM/",
-      "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée de ces samedi 13 juin et dimanche 14 juin.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-14T17:40:16+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "fcca4cca0a45"
     }
   ]
 }

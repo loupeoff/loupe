@@ -7,28 +7,68 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Sun, 14 Jun 2026 21:22:35 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 14 Jun 2026 23:19:07 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
   <item>
-    <title>EN DIRECT - Coupe du monde, jour 4 : les Pays-Bas mènent face au Japon</title>
+    <title>Guerre au Moyen-Orient : Les Etats-Unis et l’Iran signeront un accord de paix à Genève en Suisse le 19 juin</title>
+    <link>https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-assure-quun-accord-sera-signe-ce-dimanche-avec-liran-jour-de-son-anniversaire-20260614_GH5F2EVEKBHQ7C3C2ML4A6ER2Q/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-assure-quun-accord-sera-signe-ce-dimanche-avec-liran-jour-de-son-anniversaire-20260614_GH5F2EVEKBHQ7C3C2ML4A6ER2Q/</guid>
+    <pubDate>Sun, 14 Jun 2026 22:30:31 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Le médiateur pakistanais a annoncé ce dimanche soir qu’un accord a été conclu entre les Etats-Unis et l’Iran ainsi qu’un cessez-le-feu dans le conflit au Moyen-Orient, y compris au Liban.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Guerre au Moyen-Orient : un accord de paix a été conclu entre les Etats-Unis et l&apos;Iran, annoncent Donald Trump et le médiateur pakistanais</title>
+    <link>https://www.franceinfo.fr/monde/moyen-orient/guerre-au-moyen-orient-un-accord-de-paix-a-ete-conclu-entre-les-etats-unis-et-l-iran-annoncent-donald-trump-et-le-mediateur-pakistanais_8060504.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/monde/moyen-orient/guerre-au-moyen-orient-un-accord-de-paix-a-ete-conclu-entre-les-etats-unis-et-l-iran-annoncent-donald-trump-et-le-mediateur-pakistanais_8060504.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Mon, 15 Jun 2026 00:25:00 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Le président américain a affirmé dimanche que le détroit d'Ormuz allait rouvrir, tandis que Téhéran a confirmé "la fin immédiate" de la guerre, "y compris au Liban".]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/89j4IhIPjXebbPu2wWu8sxs9oRE/0x100:1024x676/432x243/filters:format(jpg)/2026/06/14/6a2f1deba7808126968939.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Coupe du monde 2026 : le Japon rattrape les Pays-Bas au terme d&apos;un duel emballant, l&apos;Allemagne déroule contre Curaçao</title>
+    <link>https://www.franceinfo.fr/coupe-du-monde/directs/coupe-du-monde-2026-a-la-veille-de-son-entree-dans-la-competition-l-equipe-d-iran-arrive-a-los-angeles-sur-fond-de-tensions-geopolitiques_8059889.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/coupe-du-monde/directs/coupe-du-monde-2026-a-la-veille-de-son-entree-dans-la-competition-l-equipe-d-iran-arrive-a-los-angeles-sur-fond-de-tensions-geopolitiques_8059889.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Mon, 15 Jun 2026 00:07:28 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Après le premier but du territoire des Antilles néerlandaises en Coupe du monde, la Mannschaft a repris sa marche en avant pour se diriger tranquillement vers une victoire confortable (7-1).]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/NEk1KkDbskdGipGkimLevyPPNpw/0x345:4104x2654/432x243/filters:format(jpg)/2026/06/14/6a2f12987780e497157832.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Coupe du monde, jour 4 : le Japon et les Pays-Bas se quittent sur un beau nul (2-2)</title>
     <link>https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-jour-4-lequipe-iranienne-attendue-sur-le-sol-americain-avant-son-match-contre-la-nouvelle-zelande-lundi-20260614_FVSFHGYD55AS3IQVKNSKC3I4Z4/</link>
     <guid isPermaLink="true">https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-jour-4-lequipe-iranienne-attendue-sur-le-sol-americain-avant-son-match-contre-la-nouvelle-zelande-lundi-20260614_FVSFHGYD55AS3IQVKNSKC3I4Z4/</guid>
-    <pubDate>Sun, 14 Jun 2026 21:15:21 +0000</pubDate>
+    <pubDate>Sun, 14 Jun 2026 22:00:36 +0000</pubDate>
     <category>Sport</category>
     <source url="https://loupeoff.github.io/loupe">Libération</source>
     <description><![CDATA[Matchs, reportages, portraits… Retrouvez toute l’actualité de la Coupe du monde 2026 au fil de la journée par nos envoyés spéciaux en Amérique du Nord et nos journalistes sportifs.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>Guerre au Moyen-Orient : Donald Trump assure qu’un accord avec l’Iran sera signé «dans quelques heures»</title>
-    <link>https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-assure-quun-accord-sera-signe-ce-dimanche-avec-liran-jour-de-son-anniversaire-20260614_GH5F2EVEKBHQ7C3C2ML4A6ER2Q/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-assure-quun-accord-sera-signe-ce-dimanche-avec-liran-jour-de-son-anniversaire-20260614_GH5F2EVEKBHQ7C3C2ML4A6ER2Q/</guid>
-    <pubDate>Sun, 14 Jun 2026 21:08:42 +0000</pubDate>
-    <category>International</category>
+    <title>Donald Trump s’offre un accord avec l’Iran le jour de ses 80 ans</title>
+    <link>https://www.liberation.fr/international/moyen-orient/donald-trump-soffre-un-accord-avec-liran-le-jour-de-ses-80-ans-20260614_NNZ7Z24VR5FHPCMEX2H2WSGBSU/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/international/moyen-orient/donald-trump-soffre-un-accord-avec-liran-le-jour-de-ses-80-ans-20260614_NNZ7Z24VR5FHPCMEX2H2WSGBSU/</guid>
+    <pubDate>Sun, 14 Jun 2026 21:48:30 +0000</pubDate>
+    <category>Politique</category>
     <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Le président américain espérait pouvoir signer un accord ce dimanche, jour de ses 80 ans. Mais la frappe mortelle d’Israël sur la banlieue sud de Beyrouth a contrecarré ses projets, Téhéran accusant les Etats-Unis de ne pas tenir ses engagements.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200" type="image/jpeg" length="0" />
+    <description><![CDATA[Le président américain a annoncé qu’un accord avait enfin été conclu avec Téhéran. Il s’accompagne d’un cessez-le-feu englobant le Liban et sera signé en Suisse le 19 juin.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>EN DIRECT, Côte d’Ivoire-Equateur : après douze ans d’absence, les Elephants reviennent en Coupe du monde, suivez le match</title>
+    <link>https://www.lemonde.fr/sport/live/2026/06/14/en-direct-cote-d-ivoire-equateur-suivez-le-match-de-la-coupe-du-monde-de-football_6702961_3242.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/sport/live/2026/06/14/en-direct-cote-d-ivoire-equateur-suivez-le-match-de-la-coupe-du-monde-de-football_6702961_3242.html</guid>
+    <pubDate>Sun, 14 Jun 2026 23:00:09 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[Quelques jours après avoir dominé l’équipe de France à Nantes, les Elephants entrent dans le Mondial face aux Equatoriens, dimanche à Philadelphie, dans le groupe E.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/06/14/853/0/4920/2460/644/322/60/0/e7d5181_ftp-1-aqi51ghke0cr-2026-06-14t223721z-56558708-up1em6e1qu7he-rtrmadp-3-soccer-worldcup-civ-ecu.JPG" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>A la manifestation No-G7 de Genève, une &quot;convergence des luttes&quot; pour protester contre le sommet d&apos;Evian</title>
@@ -41,24 +81,14 @@
     <enclosure url="https://www.franceinfo.fr/pictures/_oU-CnWUrjziALK3YhxyQas7LnI/0x0:7728x4347/432x243/filters:format(jpg)/2026/06/14/6a2ed8a468f33293386456.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>Coupe du monde 2026 : un duel prometteur entre les Pays-Bas et le Japon, l&apos;Allemagne déroule face à Curaçao</title>
-    <link>https://www.franceinfo.fr/coupe-du-monde/directs/coupe-du-monde-2026-a-la-veille-de-son-entree-dans-la-competition-l-equipe-d-iran-arrive-a-los-angeles-sur-fond-de-tensions-geopolitiques_8059889.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/coupe-du-monde/directs/coupe-du-monde-2026-a-la-veille-de-son-entree-dans-la-competition-l-equipe-d-iran-arrive-a-los-angeles-sur-fond-de-tensions-geopolitiques_8059889.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sun, 14 Jun 2026 22:48:08 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Après le premier but du territoire des Antilles néerlandaises en Coupe du monde, la Mannschaft a repris sa marche en avant pour se diriger tranquillement vers une victoire confortable (7-1).]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/NEk1KkDbskdGipGkimLevyPPNpw/0x345:4104x2654/432x243/filters:format(jpg)/2026/06/14/6a2f12987780e497157832.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
     <title>Equateur : une procureure assassinée à Manta, ville bastion du narcotrafic</title>
     <link>https://www.lemonde.fr/international/article/2026/06/14/equateur-une-procureure-assassinee-a-manta-ville-bastion-du-narcotrafic_6702960_3210.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/06/14/equateur-une-procureure-assassinee-a-manta-ville-bastion-du-narcotrafic_6702960_3210.html</guid>
-    <pubDate>Sun, 14 Jun 2026 22:30:37 +0000</pubDate>
+    <pubDate>Sun, 14 Jun 2026 22:30:34 +0000</pubDate>
     <category>Tech</category>
     <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[Gloria Bravo travaillait depuis 15 ans comme procureure de Manta, une ville portuaire de l’ouest de l’Equateur, et l’un des principaux bastions du groupe criminel Los Choneros.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/06/11/332/0/3984/1992/644/322/60/0/cb7ab23_ftp-1-2j5tlmtp3g2s-cbd2dfc4affb4ed98cc4f3790f3fc535-3-bc11aeb36a114f6db15ae5d4103165b4.jpg" type="image/jpeg" length="0" />
+    <enclosure url="https://img.lemde.fr/2026/06/11/406/0/3984/1992/644/322/60/0/cb7ab23_ftp-1-2j5tlmtp3g2s-cbd2dfc4affb4ed98cc4f3790f3fc535-3-bc11aeb36a114f6db15ae5d4103165b4.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Brésil : le chanteur américain Oliver Tree est mort à 32 ans dans la collision de deux hélicoptères à Rio</title>
@@ -134,9 +164,9 @@
     <title>« Je savais qu’il y avait un hélicoptère, mais au moment où j’ai sauté du train, il n’y en avait pas » : l’évasion spectaculaire d’un déserteur russe embarrasse la justice française</title>
     <link>https://www.lemonde.fr/international/article/2026/06/14/je-savais-qu-il-y-avait-un-helicoptere-mais-au-moment-ou-j-ai-saute-du-train-il-n-y-en-avait-pas-l-evasion-spectaculaire-d-un-deserteur-russe-embarrasse-la-justice-francaise_6702925_3210.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/06/14/je-savais-qu-il-y-avait-un-helicoptere-mais-au-moment-ou-j-ai-saute-du-train-il-n-y-en-avait-pas-l-evasion-spectaculaire-d-un-deserteur-russe-embarrasse-la-justice-francaise_6702925_3210.html</guid>
-    <pubDate>Sun, 14 Jun 2026 21:04:53 +0000</pubDate>
+    <pubDate>Sun, 14 Jun 2026 21:04:49 +0000</pubDate>
     <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[Réussir une évasion très risquée mais échouer devant l’écueil administratif pourrait ramener le jeune homme à son point de départ. Paris renvoie sa demande d’asile à Vilnius, d’ordinaire encline à rejeter les demandeurs russes.]]></description>
     <enclosure url="https://img.lemde.fr/2026/06/14/367/0/1530/765/644/322/60/0/ec633f3_upload-1-90olswwif3ko-whatsapp-image-2026-06-13-at-13-45-48.jpeg" type="image/jpeg" length="0" />
   </item>
@@ -201,14 +231,14 @@
     <enclosure url="https://img.lemde.fr/2026/06/02/1000/0/6000/3000/644/322/60/0/5f9f880_upload-1-d2tabmz5edag-delta-system-editorial-007.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>EN DIRECT, guerre au Moyen-Orient : la diplomatie iranienne pointe la « responsabilité directe » des Etats-Unis dans les violations du cessez-le-feu au Liban</title>
+    <title>EN DIRECT, guerre au Moyen-Orient : Trump déclare que l’accord de paix avec l’Iran est « désormais finalisé », le Pakistan annonce une signature le 19 juin à Genève</title>
     <link>https://www.lemonde.fr/international/live/2026/06/14/en-direct-guerre-au-moyen-orient-l-iran-menace-israel-apres-l-attaque-sur-la-banlieue-sud-de-beyrouth-donald-trump-enerve-contre-netanyahou_6701050_3210.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/06/14/en-direct-guerre-au-moyen-orient-l-iran-menace-israel-apres-l-attaque-sur-la-banlieue-sud-de-beyrouth-donald-trump-enerve-contre-netanyahou_6701050_3210.html</guid>
     <pubDate>Sun, 14 Jun 2026 20:19:07 +0000</pubDate>
     <category>Politique</category>
     <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[« Il ne devrait plus y avoir d’attaques israéliennes nulle part au Liban, mais il ne devrait pas non plus y avoir d’attaques de la part d’aucune autre partie, y compris le Hezbollah, contre Israël », a affirmé le président américain, dimanche.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/06/14/602/0/5712/2856/644/322/60/0/4ba8160_ftp-1-ga2zgzhv5s79-5314544-01-06.jpg" type="image/jpeg" length="0" />
+    <description><![CDATA[Le président américain a également annoncé la réouverture du détroit d’Ormuz ainsi que la levée « immédiate » du blocus naval américain. Le médiateur pakistanais a de son côté assuré que le cessez-le-feu concernait tout le Moyen-Orient, y compris le Liban.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/06/14/421/0/5431/2715/644/322/60/0/d06865a_ftp-1-h0nfzocvcnp5-5314342-01-06.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>DOCUMENT FRANCETV. En Ukraine, nos équipes se sont rendues au cœur de Dobropillia, ville assiégée par l&apos;armée russe et pilonnée sans répit</title>
@@ -271,16 +301,6 @@
     <enclosure url="https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/20323ff_upload-1-hdyaafygvbv8-frame-987.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>EN DIRECT, Pays-Bas - Japon : les Oranje ouvrent la marque et prennent l’avantage contre les Samuraï Blue dès l’entame de la seconde période</title>
-    <link>https://www.lemonde.fr/sport/live/2026/06/14/en-direct-pays-bas-japon-suivez-le-match-de-la-coupe-du-monde-de-football_6702858_3242.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/sport/live/2026/06/14/en-direct-pays-bas-japon-suivez-le-match-de-la-coupe-du-monde-de-football_6702858_3242.html</guid>
-    <pubDate>Sun, 14 Jun 2026 20:00:08 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Place au rythme, aux envolées footballistiques, à la technique. C’est ce qu’on espère en tout cas voir lors de ce duel entre un outsider du Mondial, les Pays-Bas, et une équipe du Japon qui peut surprendre.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/06/14/582/0/6985/3492/644/322/60/0/19f4f58_ftp-1-g36eriatldrj-bb6d89263351441db8b1b56ee625499f-0-5e34293e016d446b8008e11af5f253ac.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
     <title>Lewis Hamilton renoue avec la victoire au Grand Prix de Barcelone, son premier succès avec Ferrari</title>
     <link>https://www.lemonde.fr/sport/article/2026/06/14/lewis-hamilton-renoue-avec-la-victoire-au-grand-prix-de-barcelone-son-premier-succes-avec-ferrari_6702824_3242.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/sport/article/2026/06/14/lewis-hamilton-renoue-avec-la-victoire-au-grand-prix-de-barcelone-son-premier-succes-avec-ferrari_6702824_3242.html</guid>
@@ -289,26 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[Le septuple champion du monde britannique a remporté, dimanche, sa première victoire au volant d’une monoplace rouge, lors de la première course non remportée par une Mercedes cette saison.]]></description>
     <enclosure url="https://img.lemde.fr/2026/06/14/667/0/5147/2573/644/322/60/0/43adf8b_ftp-1-zdyxs0s1w4st-5315925-01-06.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>«Soulagés et heureux» : les Suisses rejettent l’initiative anti-immigration portée par l’extrême droite</title>
-    <link>https://www.liberation.fr/international/europe/une-tendance-au-non-vers-un-rejet-dans-les-urnes-de-linitiative-anti-immigration-en-suisse-20260614_GHTYCJEJRFHIDGAATRULSW63XY/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/international/europe/une-tendance-au-non-vers-un-rejet-dans-les-urnes-de-linitiative-anti-immigration-en-suisse-20260614_GHTYCJEJRFHIDGAATRULSW63XY/</guid>
-    <pubDate>Sun, 14 Jun 2026 17:40:46 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Combattue par le gouvernement et les principaux partis, la proposition qui visait à limiter l’immigration afin d’empêcher que la population résidente permanente dépasse les 10 millions d’habitants d’ici à 2050 a été rejetée ce dimanche 14 juin par 54 % des électeurs.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Négociations de paix au Moyen-Orient, plafonnement des arrêts maladie, Coupe du Monde de foot… L’actu de ce week-end des 13 et 14 juin</title>
-    <link>https://www.liberation.fr/international/europe/negociations-de-paix-au-moyen-orient-plafonnement-des-arrets-maladie-coupe-du-monde-de-foot-lactu-de-ce-week-end-des-13-et-14-juin-20260614_BCCZE5GAIVBH7F7FOOJL7WBOZM/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/international/europe/negociations-de-paix-au-moyen-orient-plafonnement-des-arrets-maladie-coupe-du-monde-de-foot-lactu-de-ce-week-end-des-13-et-14-juin-20260614_BCCZE5GAIVBH7F7FOOJL7WBOZM/</guid>
-    <pubDate>Sun, 14 Jun 2026 17:40:16 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[La rédaction de «Libération» récapitule les principales actualités de la journée de ces samedi 13 juin et dimanche 14 juin.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>
