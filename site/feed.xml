@@ -7,28 +7,288 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Sun, 14 Jun 2026 17:37:59 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 14 Jun 2026 19:49:09 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
   <item>
-    <title>Coupe du monde 2026 : sensation à Houston, Curaçao inscrit le premier but de son histoire dans la compétition face à l&apos;Allemagne</title>
-    <link>https://www.franceinfo.fr/coupe-du-monde/directs/coupe-du-monde-2026-a-la-veille-de-son-entree-dans-la-competition-l-equipe-d-iran-arrive-a-los-angeles-sur-fond-de-tensions-geopolitiques_8059889.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/coupe-du-monde/directs/coupe-du-monde-2026-a-la-veille-de-son-entree-dans-la-competition-l-equipe-d-iran-arrive-a-los-angeles-sur-fond-de-tensions-geopolitiques_8059889.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sun, 14 Jun 2026 19:33:30 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Le petit territoire des Antilles néerlandaises a profité des erreurs de la Mannschaft pour recoller au score (1-1), après 20 minutes de jeu.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/3yIxAVkT-gFauDUc1jnYc0qpWdo/0x0:1024x576/432x243/filters:format(jpg)/2026/06/14/6a2ee453b2e40516323060.jpg" type="image/jpeg" length="0" />
+    <title>Brésil : le chanteur américain Oliver Tree est mort à 32 ans dans la collision de deux hélicoptères à Rio</title>
+    <link>https://www.liberation.fr/international/amerique/bresil-le-chanteur-americain-oliver-tree-est-mort-a-32-ans-dans-la-collision-de-deux-helicopteres-a-rio-ce-dimanche-20260614_TGB7PKQI25FQDJYF63SOV4AYBU/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/international/amerique/bresil-le-chanteur-americain-oliver-tree-est-mort-a-32-ans-dans-la-collision-de-deux-helicopteres-a-rio-ce-dimanche-20260614_TGB7PKQI25FQDJYF63SOV4AYBU/</guid>
+    <pubDate>Sun, 14 Jun 2026 19:45:28 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[L’artiste, en tournée mondiale, était accompagné d’un producteur de musique brésilien, d’un réalisateur de clips argentin et le YouTuber argentin Gaspar Prim, connu sur Internet sous le nom de «Gaspi».]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>EN DIRECT - Coupe du monde, jour 4 : le petit Poucet Curaçao égalise face au géant allemand</title>
+    <title>Le crash d’un avion de parachutisme dans le Missouri, aux Etats-Unis, fait 12 morts</title>
+    <link>https://www.lemonde.fr/international/article/2026/06/14/le-crash-d-un-avion-de-parachutisme-dans-le-missouri-aux-etats-unis-fait-12-morts_6702959_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/06/14/le-crash-d-un-avion-de-parachutisme-dans-le-missouri-aux-etats-unis-fait-12-morts_6702959_3210.html</guid>
+    <pubDate>Sun, 14 Jun 2026 21:41:15 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[Le petit avion privé aurait décollé de Butler puis fait demi-tour avant de s’écraser à proximité de l’aéroport et d’une route. Tous ses passagers sont morts.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/06/14/183/0/2200/1100/644/322/60/0/5da4a5a_ftp-1-ke7hkfkdedzp-2026-06-14t190923z-1040069435-rc2ntlatcyjc-rtrmadp-3-usa-missouri-crash.JPG" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Donald Trump affirme que l&apos;accord avec l&apos;Iran sera signé &quot;dans quelques heures&quot;, malgré les frappes israéliennes sur le sud de Beyrouth</title>
+    <link>https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-affirme-que-l-accord-avec-l-iran-sera-signe-dans-quelques-heures-malgre-les-frappes-israeliennes-sur-le-sud-de-beyrouth_8060444.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-affirme-que-l-accord-avec-l-iran-sera-signe-dans-quelques-heures-malgre-les-frappes-israeliennes-sur-le-sud-de-beyrouth_8060444.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Sun, 14 Jun 2026 21:27:54 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Le président américain a estimé que le raid israélien, dimanche, avait retardé la signature d'un compromis entre les Etats-Unis et l'Iran.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/Hgzmw_KRMM4BYJja09RXFNUTRvk/0x0:1024x576/432x243/filters:format(jpg)/2026/06/14/6a2efa1441049902902289.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Gaza : des frappes israéliennes font au moins six morts, selon la défense civile</title>
+    <link>https://www.lemonde.fr/international/article/2026/06/14/gaza-des-frappes-israeliennes-font-au-moins-six-morts-selon-la-defense-civile_6702958_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/06/14/gaza-des-frappes-israeliennes-font-au-moins-six-morts-selon-la-defense-civile_6702958_3210.html</guid>
+    <pubDate>Sun, 14 Jun 2026 21:25:47 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[En dépit de la trêve conclue en octobre 2025, le territoire palestinien reste en proie à des violences quotidiennes, le Hamas et Israël s’accusant mutuellement de violer l’accord.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/06/14/664/0/7970/3985/644/322/60/0/677bb67_ftp-1-f7heps4upnzx-3039d53c934a44938a7fa52d7fdda96d-0-2d3e7caaffbb4163a9024f80b9ddc462.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Ne loupez pas la fin de l’éclipse solaire du 12 août 2026 en France, ou vous pourriez le regretter</title>
+    <link>https://www.numerama.com/sciences/2275173-ne-loupez-pas-la-fin-de-leclipse-solaire-du-12-aout-2026-en-france-ou-vous-pourriez-le-regretter.html</link>
+    <guid isPermaLink="true">https://www.numerama.com/sciences/2275173-ne-loupez-pas-la-fin-de-leclipse-solaire-du-12-aout-2026-en-france-ou-vous-pourriez-le-regretter.html</guid>
+    <pubDate>Sun, 14 Jun 2026 19:20:00 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">Numerama</source>
+    <description><![CDATA[Les Français se préparent à admirer l'éclipse solaire du 12 août 2026. Le jour J, il ne faudra pas commettre une erreur qui pourrait vous empêcher d'apprécier pleinement le spectacle. Surtout, regardez bien l'éclipse de Soleil jusqu'au bout (et n'oubliez pas vos lunettes certifiées, bien sûr).]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Au Brésil, la collision de deux hélicoptères à Rio de Janeiro fait au moins six morts, parmi lesquels le chanteur américain Oliver Tree</title>
+    <link>https://www.franceinfo.fr/monde/bresil/au-bresil-la-collision-de-deux-helicopteres-a-rio-de-janeiro-fait-au-moins-six-morts_8060237.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/monde/bresil/au-bresil-la-collision-de-deux-helicopteres-a-rio-de-janeiro-fait-au-moins-six-morts_8060237.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Sun, 14 Jun 2026 21:10:26 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[D'après les pompiers, aucun passager à bord n'a survécu à cette collision.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/xqUW603qoiW_FkL5OwDkEHwhHjQ/0x0:1024x576/432x243/filters:format(jpg)/2026/06/14/6a2ebf8cbfac9143043350.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Coupe du monde 2026 : l&apos;Allemagne doute puis déroule face à Curaçao, un duel prometteur à 22 heures entre les Pays-Bas et le Japon</title>
+    <link>https://www.franceinfo.fr/coupe-du-monde/directs/coupe-du-monde-2026-a-la-veille-de-son-entree-dans-la-competition-l-equipe-d-iran-arrive-a-los-angeles-sur-fond-de-tensions-geopolitiques_8059889.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/coupe-du-monde/directs/coupe-du-monde-2026-a-la-veille-de-son-entree-dans-la-competition-l-equipe-d-iran-arrive-a-los-angeles-sur-fond-de-tensions-geopolitiques_8059889.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Sun, 14 Jun 2026 21:07:09 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Après le premier but du territoire des Antilles néerlandaises en Coupe du monde, la Mannschaft a repris sa marche en avant pour se diriger tranquillement vers une victoire confortable (7-1).]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/N9TTCroqJp_sjgBAWUo51sWwepo/0x0:1024x576/432x243/filters:format(jpg)/2026/06/14/6a2ef0d1c98dd692352557.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Coupe du monde 2026 : large et logique succès de l&apos;Allemagne face à Curaçao, petit Poucet de la compétition</title>
+    <link>https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-large-et-logique-succes-de-l-allemagne-face-a-curacao-petit-poucet-de-la-competition_8060426.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-large-et-logique-succes-de-l-allemagne-face-a-curacao-petit-poucet-de-la-competition_8060426.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Sun, 14 Jun 2026 21:06:21 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Les Allemands ont étrillé les Curaciens (7-1), dimanche à Houston, pour leur entrée en lice dans la compétition.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/Los5_WX4OsL68DKPdjNTXJ_8tcE/0x372:7148x4393/432x243/filters:format(jpg)/2026/06/14/6a2ef4b6843fe782927945.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>EN DIRECT - Coupe du monde, jour 4 : face à l’Allemagne, Curaçao prend l’eau (7-1)</title>
     <link>https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-jour-4-lequipe-iranienne-attendue-sur-le-sol-americain-avant-son-match-contre-la-nouvelle-zelande-lundi-20260614_FVSFHGYD55AS3IQVKNSKC3I4Z4/</link>
     <guid isPermaLink="true">https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-jour-4-lequipe-iranienne-attendue-sur-le-sol-americain-avant-son-match-contre-la-nouvelle-zelande-lundi-20260614_FVSFHGYD55AS3IQVKNSKC3I4Z4/</guid>
-    <pubDate>Sun, 14 Jun 2026 17:28:12 +0000</pubDate>
+    <pubDate>Sun, 14 Jun 2026 19:05:57 +0000</pubDate>
     <category>Sport</category>
     <source url="https://loupeoff.github.io/loupe">Libération</source>
     <description><![CDATA[Matchs, reportages, portraits… Retrouvez toute l’actualité de la Coupe du monde 2026 au fil de la journée par nos envoyés spéciaux en Amérique du Nord et nos journalistes sportifs.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>« Je savais qu’il y avait un hélicoptère, mais au moment où j’ai sauté du train, il n’y en avait pas » : l’évasion spectaculaire d’un déserteur russe embarrasse la justice française</title>
+    <link>https://www.lemonde.fr/international/article/2026/06/14/je-savais-qu-il-y-avait-un-helicoptere-mais-au-moment-ou-j-ai-saute-du-train-il-n-y-en-avait-pas-l-evasion-spectaculaire-d-un-deserteur-russe-embarrasse-la-justice-francaise_6702925_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/06/14/je-savais-qu-il-y-avait-un-helicoptere-mais-au-moment-ou-j-ai-saute-du-train-il-n-y-en-avait-pas-l-evasion-spectaculaire-d-un-deserteur-russe-embarrasse-la-justice-francaise_6702925_3210.html</guid>
+    <pubDate>Sun, 14 Jun 2026 21:04:53 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[Réussir une évasion très risquée mais échouer devant l’écueil administratif pourrait ramener le jeune homme à son point de départ. Paris renvoie sa demande d’asile à Vilnius, d’ordinaire encline à rejeter les demandeurs russes.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/06/14/367/0/1530/765/644/322/60/0/ec633f3_upload-1-90olswwif3ko-whatsapp-image-2026-06-13-at-13-45-48.jpeg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>A Evian-les-Bains, les sujets du G7 éclipsés par la guerre entre les Etats-Unis et l’Iran</title>
+    <link>https://www.liberation.fr/international/a-evian-les-bains-les-sujets-du-g7-eclipses-par-la-guerre-entre-les-etats-unis-et-liran-20260614_IKHVMJKDABG7ZKYO2Q72WJKBDE/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/international/a-evian-les-bains-les-sujets-du-g7-eclipses-par-la-guerre-entre-les-etats-unis-et-liran-20260614_IKHVMJKDABG7ZKYO2Q72WJKBDE/</guid>
+    <pubDate>Sun, 14 Jun 2026 18:58:43 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[A la veille de l’ouverture de l’événement et de l’arrivée de Donald Trump en Haute-Savoie, le déroulé du programme du sommet était chancelant jusque dans les ultimes instants en raison de la crise au Moyen-Orient.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Après l&apos;affaire Lyhanna, le débat sur l&apos;accès aux fichiers judiciaires est relancé</title>
+    <link>https://www.franceinfo.fr/societe/pedocriminalite/apres-l-affaire-lyhanna-le-debat-sur-l-acces-aux-fichiers-judiciaires-est-relance_8060429.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/societe/pedocriminalite/apres-l-affaire-lyhanna-le-debat-sur-l-acces-aux-fichiers-judiciaires-est-relance_8060429.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Sun, 14 Jun 2026 20:50:43 +0000</pubDate>
+    <category>Société</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[L'affaire Lyhanna relance les interrogations sur le suivi des auteurs d'infractions sexuelles. Fichier unique, meilleure interconnexion des bases de données, accès élargi à certains employeurs ou responsables associatifs : plusieurs pistes sont avancées pour renforcer la surveillance des personnes signalées ou condamnées.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/Tv6RqhDqOFC_4SSvZkXYROl8MEE/0x3:831x471/432x243/filters:format(jpg)/2026/06/14/6a2ef7fd462a7896926980.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>De multiples affrontements entre des manifestants anti-G7 et la police à Genève, à la veille des débuts du sommet</title>
+    <link>https://www.franceinfo.fr/monde/sommet-du-g7/de-multiples-affrontements-entre-manifestants-anti-g7-et-police-a-geneve-a-la-veille-des-debuts-du-sommet_8060420.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/monde/sommet-du-g7/de-multiples-affrontements-entre-manifestants-anti-g7-et-police-a-geneve-a-la-veille-des-debuts-du-sommet_8060420.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Sun, 14 Jun 2026 20:39:24 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Plusieurs bâtiments ont été pris pour cible, notamment ceux du cabinet d'audit PricewaterhouseCoopers et du siège de l'Union internationale des télécommunications (UIT).]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/UXPrQJU1UhEt7yiJf-JeAfxOexM/0x51:1024x627/432x243/filters:format(jpg)/2026/06/14/6a2ef4e1ceaf0885405961.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>À Washington, le MMA s’invite dans les jardins présidentiels pour une soirée très controversée</title>
+    <link>https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/a-washington-le-mma-s-invite-dans-les-jardins-presidentiels-pour-une-soiree-tres-controversee_8060414.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/a-washington-le-mma-s-invite-dans-les-jardins-presidentiels-pour-une-soiree-tres-controversee_8060414.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Sun, 14 Jun 2026 20:33:45 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Les jardins de la Maison Blanche accueilleront dimanche 14 juin une cage de MMA pour un événement lié aux célébrations du 250e anniversaire des États-Unis. Donald Trump y assistera en personne, dans une mise en scène controversée mêlant spectacle sportif, symboles politiques et diplomatie internationale, alors que des critiques dénoncent un mélange des genres.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/dZuBfOtWxE6QJXdcrbyxbqxSqbw/0x17:828x483/432x243/filters:format(jpg)/2026/06/14/6a2ef3f0d587f038577061.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Un sommet du G7 sous très haute tension diplomatique à Évian-les-Bains</title>
+    <link>https://www.franceinfo.fr/monde/sommet-du-g7/un-sommet-du-gt-sous-tres-haute-tension-diplomatique-a-evian-les-bains_8060402.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/monde/sommet-du-g7/un-sommet-du-gt-sous-tres-haute-tension-diplomatique-a-evian-les-bains_8060402.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Sun, 14 Jun 2026 20:23:00 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Attente d’un accord entre les États-Unis et l’Iran au Proche-Orient, guerre en Ukraine, OTAN et menaces russes… Le sommet du G7 s’ouvrira sous haute tension diplomatique à Évian-les-Bains, lundi 15 juin. Près de 16 000 gendarmes et policiers sont mobilisés.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/cGQpcsA7U02JykGChs_Qz3y2DzA/0x89:1576x976/432x243/filters:format(jpg)/2026/06/14/6a2eeff129e1c650281048.png" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Encadrement de l’IA militaire : un chemin semé d’embûches discuté à Genève, en marge du G7</title>
+    <link>https://www.lemonde.fr/international/article/2026/06/14/encadrement-de-l-ia-militaire-un-chemin-seme-d-embuches-discute-a-geneve-en-marge-du-g7_6702891_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/06/14/encadrement-de-l-ia-militaire-un-chemin-seme-d-embuches-discute-a-geneve-en-marge-du-g7_6702891_3210.html</guid>
+    <pubDate>Sun, 14 Jun 2026 20:20:29 +0000</pubDate>
+    <category>Tech</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[Alors que les patrons de la tech mondiale se retrouvent à Evian du 15 au 17 juin, des négociations s’ouvrent simultanément sous l’égide de l’ONU pour tenter d’encadrer l’usage de l’intelligence artificielle dans les conflits armés.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/06/02/1000/0/6000/3000/644/322/60/0/5f9f880_upload-1-d2tabmz5edag-delta-system-editorial-007.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>EN DIRECT, guerre au Moyen-Orient : l’Iran menace Israël à la suite de l’attaque sur la banlieue sud de Beyrouth ; D. Trump « énervé » contre B. Nétanyahou</title>
+    <link>https://www.lemonde.fr/international/live/2026/06/14/en-direct-guerre-au-moyen-orient-l-iran-menace-israel-apres-l-attaque-sur-la-banlieue-sud-de-beyrouth-donald-trump-enerve-contre-netanyahou_6701050_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/06/14/en-direct-guerre-au-moyen-orient-l-iran-menace-israel-apres-l-attaque-sur-la-banlieue-sud-de-beyrouth-donald-trump-enerve-contre-netanyahou_6701050_3210.html</guid>
+    <pubDate>Sun, 14 Jun 2026 20:19:07 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[« Il ne devrait plus y avoir d’attaques israéliennes nulle part au Liban, mais il ne devrait pas non plus y avoir d’attaques de la part d’aucune autre partie, y compris le Hezbollah, contre Israël », a affirmé le président américain, dimanche.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/06/14/926/0/5837/2918/644/322/60/0/dccef3a_ftp-1-u1i6xzgvjgdc-5315209-01-06.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>DOCUMENT FRANCETV. En Ukraine, nos équipes se sont rendues au cœur de Dobropillia, ville assiégée par l&apos;armée russe et pilonnée sans répit</title>
+    <link>https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/document-francetv-en-ukraine-nos-equipes-se-sont-rendues-au-c-ur-de-dobropillia-ville-assiegee-par-l-armee-russe-et-pilonnee-sans-repit_8060381.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/document-francetv-en-ukraine-nos-equipes-se-sont-rendues-au-c-ur-de-dobropillia-ville-assiegee-par-l-armee-russe-et-pilonnee-sans-repit_8060381.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Sun, 14 Jun 2026 20:18:12 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Une équipe de France Télévisions a pu se rendre dans la ville ravagée de Dobropillia, dans l'est de l'Ukraine, aux côtés de l'armée de Kiev. Une cité subissant depuis cinq mois un siège des forces russes.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/sNlLnGqxQk0F3Oz2T5LbJLCaBx8/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/14/6a2eeeeb0ca95133992247.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Plateforme &quot;Classés sans suite&quot; : &quot;C&apos;est pour montrer le caractère hyper massif mais aussi systémique des violences&quot; sexuelles, explique sa créatrice Eve Simonet</title>
+    <link>https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/plateforme-classes-sans-suite-c-est-pour-montrer-le-caractere-hyper-massif-mais-aussi-systemique-des-violences-sexuelles-defend-sa-creatrice-eve-simonet_8060393.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/plateforme-classes-sans-suite-c-est-pour-montrer-le-caractere-hyper-massif-mais-aussi-systemique-des-violences-sexuelles-defend-sa-creatrice-eve-simonet_8060393.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Sun, 14 Jun 2026 20:08:49 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Les internautes qui se connectent sur la plateforme "Classés sans suite", peuvent venir témoigner "même si elles n'ont pas déposé plainte" alors "qu'elles ont été victimes".]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/skARU7kjPzXOGlUJeXsd60MsbCo/0x333:6400x3933/432x243/filters:format(jpg)/2026/06/14/6a2eeda61c28d361826093.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>G7 : le dernier tour de piste d’Emmanuel Macron auprès d’une Europe plus souveraine</title>
+    <link>https://www.liberation.fr/international/europe/g7-le-dernier-tour-de-piste-demmanuel-macron-aupres-dune-europe-plus-souveraine-20260614_VAZQLNXM7FA7JBXSSZZBDJ6MCE/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/international/europe/g7-le-dernier-tour-de-piste-demmanuel-macron-aupres-dune-europe-plus-souveraine-20260614_VAZQLNXM7FA7JBXSSZZBDJ6MCE/</guid>
+    <pubDate>Sun, 14 Jun 2026 18:08:07 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Sept ans après le sommet de Biarritz, le chef de l’Etat accueille à nouveau les grandes puissances dans un monde bouleversé. Emancipation vis-à-vis des Etats-Unis, mesures de protection contre la Chine : la guerre en Ukraine, le retour de Donald Trump et l’agressivité commerciale de Pékin ont forcé le président français à changer son projet pour l’Europe.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>EN DIRECT - Guerre au Moyen-Orient : Donald Trump assure qu’un accord avec l’Iran sera signé «dans quelques heures»</title>
+    <link>https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-assure-quun-accord-sera-signe-ce-dimanche-avec-liran-jour-de-son-anniversaire-20260614_GH5F2EVEKBHQ7C3C2ML4A6ER2Q/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-assure-quun-accord-sera-signe-ce-dimanche-avec-liran-jour-de-son-anniversaire-20260614_GH5F2EVEKBHQ7C3C2ML4A6ER2Q/</guid>
+    <pubDate>Sun, 14 Jun 2026 18:07:51 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Le président américain espère pouvoir signer un accord ce dimanche, jour de ses 80 ans. Mais la frappe mortelle d’Israël sur la banlieue sud de Beyrouth pourrait contrecarrer ses projets, Téhéran accusant les Etats-Unis de ne pas tenir ses engagements.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Remboursement des traitements anti-obésité : un remède miracle ?</title>
+    <link>https://www.liberation.fr/idees-et-debats/editorial/remboursement-des-traitements-anti-obesite-un-remede-miracle-20260614_BQQWZ67CPFEOTGVMOXVZEFSWI4/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/idees-et-debats/editorial/remboursement-des-traitements-anti-obesite-un-remede-miracle-20260614_BQQWZ67CPFEOTGVMOXVZEFSWI4/</guid>
+    <pubDate>Sun, 14 Jun 2026 18:07:29 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[A partir de ce lundi, environ un million de Français souffrant d’obésité sévère devraient se voir en partie rembourser leurs traitements. Une bonne nouvelle, mais il y a encore des progrès à faire.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>G7 d’Evian : plongez dans le bain grâce à l’envoyé spécial de «Libé»</title>
+    <link>https://www.liberation.fr/international/europe/g7-devian-plongez-dans-le-bain-grace-a-lenvoye-special-de-libe-20260614_UMALM3CSYBGHPNEIR3ZDSA57YY/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/international/europe/g7-devian-plongez-dans-le-bain-grace-a-lenvoye-special-de-libe-20260614_UMALM3CSYBGHPNEIR3ZDSA57YY/</guid>
+    <pubDate>Sun, 14 Jun 2026 18:05:48 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Que se passe-t-il quand Emmanuel Macron, Donald Trump et leurs amis des pays les plus riches de la planète se retrouvent dans une station thermale militarisée ? Pendant quatre jours, «Libération» vous embarque dans la «bulle» d’Evian pour un récit de l’intérieur.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Mort de Lyhanna : « Les solutions proposées par Gérald Darmanin ne sont pas à la hauteur du moment »</title>
+    <link>https://www.lemonde.fr/idees/article/2026/06/14/mort-de-lyhanna-les-solutions-proposees-par-gerald-darmanin-ne-sont-pas-a-la-hauteur-du-moment_6702857_3232.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/idees/article/2026/06/14/mort-de-lyhanna-les-solutions-proposees-par-gerald-darmanin-ne-sont-pas-a-la-hauteur-du-moment_6702857_3232.html</guid>
+    <pubDate>Sun, 14 Jun 2026 20:00:10 +0000</pubDate>
+    <category>Société</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[Un collectif de représentants du Syndicat de la magistrature regrette, dans une tribune au « Monde », que le garde des sceaux désigne à la hâte des responsables, alors que les défaillances dont souffre la justice pour prendre en charge les violences sexuelles sur les enfants sont connues de longue date.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/20323ff_upload-1-hdyaafygvbv8-frame-987.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Lewis Hamilton renoue avec la victoire au Grand Prix de Barcelone, son premier succès avec Ferrari</title>
+    <link>https://www.lemonde.fr/sport/article/2026/06/14/lewis-hamilton-renoue-avec-la-victoire-au-grand-prix-de-barcelone-son-premier-succes-avec-ferrari_6702824_3242.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/sport/article/2026/06/14/lewis-hamilton-renoue-avec-la-victoire-au-grand-prix-de-barcelone-son-premier-succes-avec-ferrari_6702824_3242.html</guid>
+    <pubDate>Sun, 14 Jun 2026 19:43:38 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[Le septuple champion du monde britannique a remporté, dimanche, sa première victoire au volant d’une monoplace rouge, lors de la première course non remportée par une Mercedes cette saison.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/06/14/667/0/5147/2573/644/322/60/0/43adf8b_ftp-1-zdyxs0s1w4st-5315925-01-06.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>«Soulagés et heureux» : les Suisses rejettent l’initiative anti-immigration portée par l’extrême droite</title>
+    <link>https://www.liberation.fr/international/europe/une-tendance-au-non-vers-un-rejet-dans-les-urnes-de-linitiative-anti-immigration-en-suisse-20260614_GHTYCJEJRFHIDGAATRULSW63XY/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/international/europe/une-tendance-au-non-vers-un-rejet-dans-les-urnes-de-linitiative-anti-immigration-en-suisse-20260614_GHTYCJEJRFHIDGAATRULSW63XY/</guid>
+    <pubDate>Sun, 14 Jun 2026 17:40:46 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Combattue par le gouvernement et les principaux partis, la proposition qui visait à limiter l’immigration afin d’empêcher que la population résidente permanente dépasse les 10 millions d’habitants d’ici à 2050 a été rejetée ce dimanche 14 juin par 54 % des électeurs.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Négociations de paix au Moyen-Orient, plafonnement des arrêts maladie, Coupe du Monde de foot… L’actu de ce week-end des 13 et 14 juin</title>
+    <link>https://www.liberation.fr/international/europe/negociations-de-paix-au-moyen-orient-plafonnement-des-arrets-maladie-coupe-du-monde-de-foot-lactu-de-ce-week-end-des-13-et-14-juin-20260614_BCCZE5GAIVBH7F7FOOJL7WBOZM/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/international/europe/negociations-de-paix-au-moyen-orient-plafonnement-des-arrets-maladie-coupe-du-monde-de-foot-lactu-de-ce-week-end-des-13-et-14-juin-20260614_BCCZE5GAIVBH7F7FOOJL7WBOZM/</guid>
+    <pubDate>Sun, 14 Jun 2026 17:40:16 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[La rédaction de «Libération» récapitule les principales actualités de la journée de ces samedi 13 juin et dimanche 14 juin.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Tournoi de Paris de sumo : Kotozakura s&apos;impose face au numéro 1 mondial</title>
+    <link>https://www.franceinfo.fr/sports/tournoi-de-paris-de-sumo-kotozakura-s-impose-face-au-numero-1-mondial_8060378.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/sports/tournoi-de-paris-de-sumo-kotozakura-s-impose-face-au-numero-1-mondial_8060378.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Sun, 14 Jun 2026 19:34:15 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Le rikishi japonais a été sacré, dimanche, en finale face au yokozuna Hoshoryu à l'Accor Arena de Bercy. La discipline faisait son retour à Paris pour la première fois depuis trente ans.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/DcXglxw-FBUmlGLS-fuLO0rTgjw/1535x0:2866x2367/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/06/14/6a2ee52861a3d321969379.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Au Nigeria, une attaque djihadiste cause 20 morts, selon un rapport de l’ONU</title>
@@ -36,7 +296,7 @@
     <guid isPermaLink="true">https://www.lemonde.fr/afrique/article/2026/06/14/au-nigeria-une-attaque-djihadiste-cause-20-morts-selon-un-rapport-de-l-onu_6702823_3212.html</guid>
     <pubDate>Sun, 14 Jun 2026 19:23:03 +0000</pubDate>
     <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[Les djihadistes du groupe Lakurawa ont mené un raid contre la communauté de Fesken Rafi dans le district d’Arewa, dans l’Etat de Kebbi, près de la frontière avec le Niger.]]></description>
     <enclosure url="https://img.lemde.fr/2026/06/12/435/0/5472/2736/644/322/60/0/caee0a1_ftp-1-dp3jyvefces2-5295951-01-06.jpg" type="image/jpeg" length="0" />
   </item>
@@ -49,266 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">Libération</source>
     <description><![CDATA[A la veille du début du sommet à Evian, des milliers de personnes ont manifesté ce dimanche 14 juin en Suisse à l’appel de la coalition No-G7, sous étroite surveillance des forces de l’ordre.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>En amont du G7, Trump échange au téléphone avec Poutine et Zelensky</title>
-    <link>https://www.liberation.fr/international/europe/en-amont-du-g7-trump-echange-au-telephone-avec-poutine-et-zelensky-20260614_3AHAIPDSTNBJ7FQEXU5CUEBZCM/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/international/europe/en-amont-du-g7-trump-echange-au-telephone-avec-poutine-et-zelensky-20260614_3AHAIPDSTNBJ7FQEXU5CUEBZCM/</guid>
-    <pubDate>Sun, 14 Jun 2026 17:16:23 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Les deux chefs d’Etat ont appelé le président des Etats-Unis ce dimanche 14 juin, à l’occasion de ses 80 ans. Avec le chef du Kremlin, il a été convenu d’une visite d’émissaires américains en Russie qui doit avoir lieu «bientôt».]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>A la manifestation No-G7 de Genève, une &quot;convergence des luttes&quot; pour protester contre le sommet d&apos;Evian</title>
-    <link>https://www.franceinfo.fr/monde/sommet-du-g7/reportage-a-la-manifestation-no-g7-de-geneve-une-convergence-des-luttes-pour-protester-contre-le-sommet-d-evian_8060303.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/monde/sommet-du-g7/reportage-a-la-manifestation-no-g7-de-geneve-une-convergence-des-luttes-pour-protester-contre-le-sommet-d-evian_8060303.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sun, 14 Jun 2026 19:09:56 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Plusieurs milliers de personnes ont défilé sous une chaleur écrasante, dimanche, à la veille de l'ouverture du G7 à Evian, de l'autre côté du lac Léman.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/_oU-CnWUrjziALK3YhxyQas7LnI/0x0:7728x4347/432x243/filters:format(jpg)/2026/06/14/6a2ed8a468f33293386456.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Suisse : l’initiative visant à plafonner le nombre d’habitants rejetée par plus de 54 % des votants</title>
-    <link>https://www.lemonde.fr/international/article/2026/06/14/suisse-l-initiative-visant-a-plafonner-le-nombre-d-habitants-rejetee-par-plus-de-54-des-votants_6702822_3210.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/06/14/suisse-l-initiative-visant-a-plafonner-le-nombre-d-habitants-rejetee-par-plus-de-54-des-votants_6702822_3210.html</guid>
-    <pubDate>Sun, 14 Jun 2026 19:07:17 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Cette initiative, portée par l’extrême droite, visait à limiter l’immigration afin d’empêcher que les résidents permanents soient plus de 10 millions avant 2050.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/06/14/889/0/5500/2750/644/322/60/0/2ce2f7d_ftp-1-o3cyqmsbw4dv-2026-06-14t115355z-1719108385-rc2ltla8gql1-rtrmadp-3-swiss-population.JPG" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>EN DIRECT, guerre en Ukraine : Vladimir Poutine et Donald Trump se sont mis d’accord pour que les émissaires américains se rendent « bientôt » en Russie, selon le Kremlin</title>
-    <link>https://www.lemonde.fr/international/live/2026/06/14/en-direct-guerre-en-ukraine-vladimir-poutine-et-donald-trump-se-sont-mis-d-accord-pour-que-les-emissaires-americains-se-rendent-bientot-en-russie-selon-le-kremlin_6702230_3210.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/06/14/en-direct-guerre-en-ukraine-vladimir-poutine-et-donald-trump-se-sont-mis-d-accord-pour-que-les-emissaires-americains-se-rendent-bientot-en-russie-selon-le-kremlin_6702230_3210.html</guid>
-    <pubDate>Sun, 14 Jun 2026 19:07:02 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
-    <description><![CDATA[Volodymyr Zelensky a affirmé pour sa part qu’il aborderait avec Donald Trump la guerre avec la Russie et des négociations de paix durant le G7 lundi à Evian.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/06/14/415/0/4028/2014/644/322/60/0/30797b2_upload-1-4wdecdffwd7z-000-b4w38zq.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Guerre au Moyen-Orient : Donald Trump assure qu&apos;un accord entre les Etats-Unis et l&apos;Iran sera signé &quot;dans quelques heures&quot;</title>
-    <link>https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-armee-israelienne-emet-des-ordres-d-evacuation-pour-une-trentaine-de-villages-du-sud-du-liban_8059850.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-armee-israelienne-emet-des-ordres-d-evacuation-pour-une-trentaine-de-villages-du-sud-du-liban_8059850.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sun, 14 Jun 2026 19:01:27 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Pour le président américain, le processus a été retardé par les frappes israéliennes sur le sud de Beyrouth (Liban), dimanche.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/rVtNXXjIYs82Ax5oaDo_0tHN_PE/0x0:1024x576/432x243/filters:format(jpg)/2026/06/14/6a2eddb3435e1645238729.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Sur les retraites, Le Pen fixe la ligne et renvoie Bardella à son statut de second</title>
-    <link>https://www.liberation.fr/politique/sur-les-retraites-le-pen-fixe-la-ligne-et-renvoie-bardella-a-son-statut-de-second-20260614_2JR3SXOC5FAKNEIJRUULXI6GPU/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/politique/sur-les-retraites-le-pen-fixe-la-ligne-et-renvoie-bardella-a-son-statut-de-second-20260614_2JR3SXOC5FAKNEIJRUULXI6GPU/</guid>
-    <pubDate>Sun, 14 Jun 2026 17:00:53 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Invitée ce dimanche midi sur France 3, la patronne du Rassemblement national a confirmé que son parti défendait toujours le retour à un âge de départ à 62 ans. Son héritier avait pourtant expliqué que «l’âge légal ne veut rien dire».]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Vague de chaleur ou canicule : des températures extrêmes en France pendant plusieurs jours dès lundi 15 juin</title>
-    <link>https://www.liberation.fr/environnement/climat/vague-de-chaleur-ou-canicule-des-temperatures-extremes-en-france-pendant-plusieurs-jours-des-lundi-15-juin-20260614_KTDFJPYP5JF55HP5VHSVHQSZ74/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/environnement/climat/vague-de-chaleur-ou-canicule-des-temperatures-extremes-en-france-pendant-plusieurs-jours-des-lundi-15-juin-20260614_KTDFJPYP5JF55HP5VHSVHQSZ74/</guid>
-    <pubDate>Sun, 14 Jun 2026 16:58:16 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Après l’épisode précoce de la fin mai, le pays va de nouveau devenir une fournaise, d’abord au Sud puis sur l’ensemble du territoire. A partir de mercredi, il fera plus chaud qu’à la fin du mois de mai mais il est encore trop tôt pour qualifier le phénomène.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Tennis de table : Félix Lebrun a désormais l’aval sur son frère Alexis en finale des championnats de France</title>
-    <link>https://www.liberation.fr/sports/ou-et-quand-voir-ce-dimanche-la-finale-des-freres-lebrun-ce-dimanche-aux-championnats-de-france-de-tennis-de-table-20260614_ZA3ZSVAJY5CLVPJ55QR75CCS3E/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/sports/ou-et-quand-voir-ce-dimanche-la-finale-des-freres-lebrun-ce-dimanche-aux-championnats-de-france-de-tennis-de-table-20260614_ZA3ZSVAJY5CLVPJ55QR75CCS3E/</guid>
-    <pubDate>Sun, 14 Jun 2026 16:55:56 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Le 4e duel fratricide au sommet ce dimanche 14 juin à Laval a encore tourné à l’avantage du cadet, 4e joueur mondial, qui obtient sa seconde couronne française d’affilée en gagnant 4 sets à 2. Côté femmes, Prithika Pavade a été sacrée pour la deuxième fois.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>EN DIRECT - Guerre au Moyen-Orient : Donald Trump assure qu’un accord avec l’Iran sera signé «dans quelques heures»</title>
-    <link>https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-assure-quun-accord-sera-signe-ce-dimanche-avec-liran-jour-de-son-anniversaire-20260614_GH5F2EVEKBHQ7C3C2ML4A6ER2Q/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-assure-quun-accord-sera-signe-ce-dimanche-avec-liran-jour-de-son-anniversaire-20260614_GH5F2EVEKBHQ7C3C2ML4A6ER2Q/</guid>
-    <pubDate>Sun, 14 Jun 2026 16:48:19 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Le président américain espère pouvoir signer un accord ce dimanche, jour de ses 80 ans. Mais la frappe mortelle d’Israël sur la banlieue sud de Beyrouth pourrait contrecarrer ses projets, Téhéran accusant les Etats-Unis de ne pas tenir ses engagements.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Iran : la nécessaire amnistie, par Fariba Adelkhah</title>
-    <link>https://www.liberation.fr/idees-et-debats/tribunes/iran-la-necessaire-amnistie-par-fariba-adelkhah-20260614_C3X5O2TTU5CGJGEYFYITS6U2DU/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/idees-et-debats/tribunes/iran-la-necessaire-amnistie-par-fariba-adelkhah-20260614_C3X5O2TTU5CGJGEYFYITS6U2DU/</guid>
-    <pubDate>Sun, 14 Jun 2026 16:47:36 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Après quarante-cinq ans d’exécutions, de tortures, d’emprisonnements, d’exils, la haine ronge chaque famille, chaque quartier. Il serait temps de dépasser différences et divergences, de tourner la page, plaide l’anthropologue franco-iranienne.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>En Suisse, plus de 54% des votants disent non à l&apos;initiative anti-immigration visant à limiter la population à 10 millions d&apos;habitants</title>
-    <link>https://www.franceinfo.fr/monde/europe/en-suisse-plus-de-54-des-votants-disent-non-a-l-initiative-anti-immigration-visant-a-limiter-la-population-a-10-millions-d-habitants_8060330.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/monde/europe/en-suisse-plus-de-54-des-votants-disent-non-a-l-initiative-anti-immigration-visant-a-limiter-la-population-a-10-millions-d-habitants_8060330.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sun, 14 Jun 2026 18:40:26 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[La proposition a été rejetée par une majorité de cantons dimanche. Les scores les plus élevés en faveur du non ont été enregistrés à Bâle-Ville (73,48%), Neuchâtel (67,26%) et Genève (65,42%).]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/NzpQkpOcbdZGwH-0wjrJ61kRDnk/0x73:1024x649/432x243/filters:format(jpg)/2026/06/14/6a2ed5c7aa2ab085290395.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>En Ukraine, de nouvelles mesures annoncées pour répondre à la crise des effectifs dans l’armée</title>
-    <link>https://www.lemonde.fr/international/article/2026/06/14/en-ukraine-de-nouvelles-mesures-annoncees-pour-repondre-a-la-crise-des-effectifs-dans-l-armee_6702756_3210.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/06/14/en-ukraine-de-nouvelles-mesures-annoncees-pour-repondre-a-la-crise-des-effectifs-dans-l-armee_6702756_3210.html</guid>
-    <pubDate>Sun, 14 Jun 2026 18:37:56 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
-    <description><![CDATA[Augmentation des soldes, rotations plus fréquentes, démarches facilitées pour changer d’unité : la présidence ukrainienne et le ministère de la défense viennent d’annoncer une réforme majeure pour enrayer les désertions et encourager les nouvelles recrues.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/06/14/627/0/4300/2150/644/322/60/0/5f9a8ca_upload-1-gohcxrlxnybf-sloviansk-kramatorsk-06.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>«Il se présentait comme un pseudo docteur» : un ancien dirigeant du FC Gueugnon accusé de pédocriminalité dans les années 80</title>
-    <link>https://www.liberation.fr/societe/police-justice/il-se-presentait-comme-un-pseudo-docteur-un-ancien-dirigeant-du-fc-gueugnon-accuse-de-pedocriminalite-dans-les-annees-80-20260614_WP7N3KLLAVFIXNZVVC6RHJPM5M/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/societe/police-justice/il-se-presentait-comme-un-pseudo-docteur-un-ancien-dirigeant-du-fc-gueugnon-accuse-de-pedocriminalite-dans-les-annees-80-20260614_WP7N3KLLAVFIXNZVVC6RHJPM5M/</guid>
-    <pubDate>Sun, 14 Jun 2026 16:35:01 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Selon une enquête du «Journal de Saône-et-Loire» (JSL), l’ex-dirigeant, aujourd’hui décédé, est accusé d’agressions sexuelles et de viols contre de très jeunes enfants qui s’entraînaient au club.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>&quot;Son comportement fait parler&quot; : pourquoi la santé de Donald Trump, qui fête ses 80 ans, est observée avec soin aux Etats-Unis</title>
-    <link>https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/son-comportement-fait-parler-pourquoi-la-sante-de-donald-trump-qui-fete-ses-80-ans-est-observee-avec-soin-aux-etats-unis_8052185.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/son-comportement-fait-parler-pourquoi-la-sante-de-donald-trump-qui-fete-ses-80-ans-est-observee-avec-soin-aux-etats-unis_8052185.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sun, 14 Jun 2026 18:30:08 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Depuis son retour à la Maison Blanche, les capacités physiques et intellectuelles du président américain sont l'objet de toutes les attentions (et de toutes les spéculations). Comme Joe Biden avant lui.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/VvlKpKF1uThOz1yhvWMvJy4KpiE/0x367:5616x3526/432x243/filters:format(jpg)/2026/06/10/6a2976ea4d981751076932.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>&quot;Vous avez été une inspiration pour beaucoup&quot; : en pleine Coupe du monde, le maire de New York rend hommage à l&apos;ancien joueur d&apos;Arsenal et de l&apos;OM Samir Nasri</title>
-    <link>https://www.franceinfo.fr/sports/vous-avez-ete-une-inspiration-pour-beaucoup-en-pleine-coupe-du-monde-le-maire-de-new-york-rend-hommage-a-l-ancien-joueur-d-arsenal-et-de-l-om-samir-nasri_8060198.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/sports/vous-avez-ete-une-inspiration-pour-beaucoup-en-pleine-coupe-du-monde-le-maire-de-new-york-rend-hommage-a-l-ancien-joueur-d-arsenal-et-de-l-om-samir-nasri_8060198.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sun, 14 Jun 2026 18:20:43 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Passionné de ballon rond, Zohran Mamdani, maire de New York, a rencontré Samir Nasri, à l'occasion d'un événement organisé en marge de la Coupe du monde.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/xQcTPRsLSkZ_Ly5Q4_sFjl5XQ4Y/0x0:5894x3315/432x243/filters:format(jpg)/2026/06/14/6a2ec96a9ff7a300592844.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>L’armée israélienne frappe la banlieue sud de Beyrouth sans avertissement</title>
-    <link>https://www.lemonde.fr/international/video/2026/06/14/video-l-armee-israelienne-frappe-la-banlieue-sud-de-beyrouth-sans-avertissement_6702755_3210.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/international/video/2026/06/14/video-l-armee-israelienne-frappe-la-banlieue-sud-de-beyrouth-sans-avertissement_6702755_3210.html</guid>
-    <pubDate>Sun, 14 Jun 2026 18:11:09 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
-    <description><![CDATA[Une frappe israélienne s’est abattue sur la banlieue sud de Beyrouth, à Ghobeiry, faisant trois morts et six blessés selon la défense civile libanaise.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/06/14/459/0/5500/2750/644/322/60/0/a52189f_ftp-1-u4z2pda2jbzc-2026-06-14t130058z-798846827-rc2otla741vl-rtrmadp-3-iran-crisis-israel-lebanon.JPG" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Intelligence artificielle, espace… Emmanuel Macron et Narendra Modi consolident leur &quot;partenariat stratégique&quot; avant le G7</title>
-    <link>https://www.franceinfo.fr/monde/sommet-du-g7/intelligence-artificielle-spatial-emmanuel-macron-et-narendra-modi-consolident-leur-partenariat-strategique-avant-le-g7_8060300.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/monde/sommet-du-g7/intelligence-artificielle-spatial-emmanuel-macron-et-narendra-modi-consolident-leur-partenariat-strategique-avant-le-g7_8060300.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sun, 14 Jun 2026 18:03:31 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[A la veille du G7, les dirigeants français et indien ont inauguré à Nice un salon de l'innovation et des technologies indiennes dimanche.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/7uLZNHyIssdB-T-GJGzpZqHIvcQ/0x140:1024x716/432x243/filters:format(jpg)/2026/06/14/6a2ecdee1e15e569681850.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Le remake d’un des JRPG les plus cultes de ces dernières années est déjà en précommande</title>
-    <link>https://www.numerama.com/pop-culture/2275197-le-remake-dun-des-jrpg-les-plus-cultes-de-ces-dernieres-annees-est-deja-en-precommande.html</link>
-    <guid isPermaLink="true">https://www.numerama.com/pop-culture/2275197-le-remake-dun-des-jrpg-les-plus-cultes-de-ces-dernieres-annees-est-deja-en-precommande.html</guid>
-    <pubDate>Sun, 14 Jun 2026 16:01:00 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Numerama</source>
-    <description><![CDATA[[Précommande] Alors que Persona 6 a timidement montré le bout de son nez lors du Xbox Showcase de ce 7 juin 2026, un autre épisode de la série est venu lui voler la vedette. Persona 4 s'offre un joli relooking dans sa version Revival, disponible en précommande.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Coupe du monde 2026 : en Côte d’Ivoire, l’amertume des supporteurs confrontés au prix exorbitant des billets et aux restrictions de visas</title>
-    <link>https://www.lemonde.fr/sport/article/2026/06/14/coupe-du-monde-2026-en-cote-d-ivoire-l-amertume-des-supporteurs-confrontes-au-prix-exorbitant-des-billets-et-aux-restrictions-de-visas_6702751_3242.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/sport/article/2026/06/14/coupe-du-monde-2026-en-cote-d-ivoire-l-amertume-des-supporteurs-confrontes-au-prix-exorbitant-des-billets-et-aux-restrictions-de-visas_6702751_3242.html</guid>
-    <pubDate>Sun, 14 Jun 2026 18:00:06 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
-    <description><![CDATA[De nombreux fans des Eléphants ont renoncé à effectuer le déplacement aux Etats-Unis, où leur équipe rencontre l’Equateur pour son premier match, dimanche, à Philadelphie.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/06/11/1226/0/7358/3679/644/322/60/0/fa9ea5d_upload-1-x2piobv7sqhg-000-88z39bz.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Leandro Erlich au Grand Palais : «L’art est l’aventure dans laquelle tu peux faillir sans que ce soit grave»</title>
-    <link>https://www.liberation.fr/culture/arts/art-contemporain/leandro-erlich-au-grand-palais-lart-est-laventure-dans-laquelle-tu-peux-faillir-sans-que-ce-soit-grave-20260614_BJYM3B3OAJFYLM2JVW26HLTVKE/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/culture/arts/art-contemporain/leandro-erlich-au-grand-palais-lart-est-laventure-dans-laquelle-tu-peux-faillir-sans-que-ce-soit-grave-20260614_BJYM3B3OAJFYLM2JVW26HLTVKE/</guid>
-    <pubDate>Sun, 14 Jun 2026 15:58:12 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Pour la première rétrospective dédiée à l’artiste argentin, dont l’univers se joue de nous pour mieux pointer nos biais perceptifs, quatorze de ses installations grandeur nature ont été rassemblées dans le musée parisien.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Le président du Somaliland, Abdirahman Mohamed Abdullahi, a réservé sa première visite d’Etat à Israël</title>
-    <link>https://www.lemonde.fr/afrique/article/2026/06/14/le-president-du-somaliland-abdirahman-mohamed-abdullahi-a-reserve-sa-premiere-visite-d-etat-a-israel_6702750_3212.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/afrique/article/2026/06/14/le-president-du-somaliland-abdirahman-mohamed-abdullahi-a-reserve-sa-premiere-visite-d-etat-a-israel_6702750_3212.html</guid>
-    <pubDate>Sun, 14 Jun 2026 17:57:19 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Le 26 décembre 2025, Israël a été le premier pays à reconnaître le Somaliland comme « Etat indépendant et souverain » depuis sa sécession de la Somalie, en 1991.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/06/14/428/0/5131/2565/644/322/60/0/52d2501_ftp-1-mkbseq2mt62a-dceaee2083854b47b68ba917bbf88e1f-0-f8a3edff6bca43daa73aedfb43bcb94d.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>« Les Barockeuses », sur Arte.tv : à la découverte ludique de huit musiciennes effacées de l’histoire</title>
-    <link>https://www.lemonde.fr/culture/article/2026/06/14/les-barockeuses-sur-arte-tv-a-la-decouverte-ludique-de-huit-musiciennes-effacees-de-l-histoire_6702749_3246.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/culture/article/2026/06/14/les-barockeuses-sur-arte-tv-a-la-decouverte-ludique-de-huit-musiciennes-effacees-de-l-histoire_6702749_3246.html</guid>
-    <pubDate>Sun, 14 Jun 2026 17:52:24 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Karine Chaunac et Mina Perrichon mêlent séquences d’animation et interprétations des œuvres évoquées pour remonter à l’époque baroque, qui a vu apparaître des femmes instrumentistes ou compositrices restées dans l’ombre.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/06/12/125/0/4000/2000/644/322/60/0/43a442e_upload-1-whxsqitabjww-les-barockeuses-13-bachibouzouk-les-poissons-volants.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Le remboursement des médicaments anti-obésité Wegovy et Mounjaro débute lundi en France</title>
-    <link>https://www.franceinfo.fr/sante/le-remboursement-des-medicaments-anti-obesite-wegovy-et-mounjaro-debute-lundi-en-france_8060201.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/sante/le-remboursement-des-medicaments-anti-obesite-wegovy-et-mounjaro-debute-lundi-en-france_8060201.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sun, 14 Jun 2026 17:51:27 +0000</pubDate>
-    <category>Économie</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[La prise en charge à 65% des médicaments doit être combinée à une alimentation moins calorique et à une augmentation de l'activité physique.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/PvZIEf6R6FgEogiwS9KRX6DUoho/0x106:1024x682/432x243/filters:format(jpg)/2026/06/14/6a2eb7eca3332839993016.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>G7 à Evian : des milliers de manifestants à Genève à l’appel de la coalition No-G7 ; des affrontements ont lieu autour de l’ONU</title>
-    <link>https://www.lemonde.fr/international/article/2026/06/14/g7-a-evian-des-milliers-de-manifestants-a-geneve-a-l-appel-de-la-coalition-no-g7-pour-une-riposte-face-au-fascisme-et-a-l-imperialisme_6702748_3210.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/06/14/g7-a-evian-des-milliers-de-manifestants-a-geneve-a-l-appel-de-la-coalition-no-g7-pour-une-riposte-face-au-fascisme-et-a-l-imperialisme_6702748_3210.html</guid>
-    <pubDate>Sun, 14 Jun 2026 17:49:17 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Les autorités suisses ont engagé un important dispositif pour contenir tout débordement et éviter une répétition du fiasco du G8 de 2003, qui se tenait dans la même station thermale française, lors duquel des groupes violents avaient provoqué émeutes, pillages et affrontements à Genève et à Lausanne.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/06/14/550/0/6599/3299/644/322/60/0/dded64b_ftp-1-w7xlaprep6pg-5315981-01-06.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Au Brésil, la collision de deux hélicoptères à Rio de Janeiro fait au moins six morts</title>
-    <link>https://www.franceinfo.fr/monde/bresil/au-bresil-la-collision-de-deux-helicopteres-a-rio-de-janeiro-fait-au-moins-six-morts_8060237.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/monde/bresil/au-bresil-la-collision-de-deux-helicopteres-a-rio-de-janeiro-fait-au-moins-six-morts_8060237.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sun, 14 Jun 2026 17:43:50 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[D'après les pompiers, aucun passager à bord n'a survécu à cette collision.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/xqUW603qoiW_FkL5OwDkEHwhHjQ/0x0:1024x576/432x243/filters:format(jpg)/2026/06/14/6a2ebf8cbfac9143043350.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>« La présidence du G7 constitue une occasion unique pour la France de faire de l’antibiorésistance une priorité stratégique de sécurité sanitaire »</title>
-    <link>https://www.lemonde.fr/sciences/article/2026/06/14/la-presidence-du-g7-constitue-une-occasion-unique-pour-la-france-de-faire-de-l-antibioresistance-une-priorite-strategique-de-securite-sanitaire_6702747_1650684.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/sciences/article/2026/06/14/la-presidence-du-g7-constitue-une-occasion-unique-pour-la-france-de-faire-de-l-antibioresistance-une-priorite-strategique-de-securite-sanitaire_6702747_1650684.html</guid>
-    <pubDate>Sun, 14 Jun 2026 17:30:08 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
-    <description><![CDATA[Alors que le G7 se réunit à Evian (Haute-Savoie) du 15 au 17 juin, une cinquantaine d’experts appellent, dans une tribune au « Monde », la France à s’emparer de cette menace contre les fondements de la médecine moderne.]]></description>
-    <enclosure url="https://img.lemde.fr/2023/03/29/359/0/4253/2126/644/322/60/0/2d85c17_1680106845701-le-monde-tribune-def-01.jpg" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>
