@@ -1,16 +1,66 @@
 {
-  "generated_at": "2026-06-15T21:14:12.855195+00:00",
+  "generated_at": "2026-06-15T23:54:25.816104+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Coupe du monde 2026 : la Belgique et l'Egypte se quittent sur un match nul, le Cap-Vert réalise un exploit en neutralisant l'Espagne",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-l-espagne-et-la-belgique-se-lancent-dans-la-competition-j-1-avant-l-entree-en-lice-des-bleus_8060258.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'Iran débute aussi son tournoi à Los Angeles, face à la Nouvelle-Zélande, dans un contexte géopolitique incertain.",
-      "image": "https://www.franceinfo.fr/pictures/m0l2FpbX81Dy3ng4P6V4Y8iSEbM/0x0:3795x2134/432x243/filters:format(jpg)/2026/06/15/6a305122511ce631807844.jpg",
-      "published_at": "2026-06-15T23:07:06+02:00",
+      "title": "Gavin Newsom, gouverneur de Californie, accuse Donald Trump de le viser avec des enquêtes",
+      "url": "https://www.lemonde.fr/international/article/2026/06/16/gavin-newsom-gouverneur-de-californie-accuse-donald-trump-de-le-viser-avec-des-enquetes_6703265_3210.html",
+      "summary": "Selon les médias américains, les investigations viseraient plus particulièrement l’épouse du gouverneur démocrate de Californie. Ce dernier envisage de se présenter à l’élection présidentielle de 2028.",
+      "image": "https://img.lemde.fr/2026/05/27/32/0/4000/2000/644/322/60/0/c5a667a_ftp-1-mnj2awew1gvf-2026-05-27t233300z-747366872-rc2gclaksu90-rtrmadp-3-usa-trump-weaponization-california.JPG",
+      "published_at": "2026-06-16T01:06:23+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "d5d1b250a46b"
+    },
+    {
+      "title": "Un bombardier B-52 s’écrase sur une base militaire américaine en Californie, huit personnes présumées mortes",
+      "url": "https://www.lemonde.fr/international/article/2026/06/16/huit-personnes-presumees-mortes-dans-le-crash-d-un-bombardier-b-52-en-californie_6703264_3210.html",
+      "summary": "L’accident s’est produit peu après le décollage sur la base aérienne d’Edwards « lors d’une mission d’essai de routine », ont fait savoir les autorités militaires locales.",
+      "image": "https://img.lemde.fr/2026/06/15/183/0/2200/1100/644/322/60/0/223d54f_ftp-1-guis9ptuwgf7-2026-06-15t212730z-326493480-rc2eulakqf65-rtrmadp-3-usa-crash.JPG",
+      "published_at": "2026-06-16T00:53:18+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "92fd9e6c3d9c"
+    },
+    {
+      "title": "Après l'accord entre l'Iran et les Etats-Unis, Benyamin Nétanyahou affirme que l'armée israélienne restera à Gaza, au Liban et en Syrie \"aussi longtemps que nécessaire\"",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/apres-l-accord-entre-l-iran-et-les-etats-unis-benyamin-netanyahou-affirme-que-l-armee-israelienne-restera-a-gaza-au-liban-et-en-syrie-aussi-longtemps-que-necessaire_8062493.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Le plus important, c'est que nous avons sauvé l'Etat d'Israël de la menace d'un anéantissement nucléaire\", a également déclaré le dirigeant lundi, au lendemain de la conclusion de cet accord.",
+      "image": "https://www.franceinfo.fr/pictures/DriUIMQLCAq53uF1JY1YQyox-E0/0x0:1024x576/432x243/filters:format(jpg)/2026/06/15/6a3074a1d19e0156911510.jpg",
+      "published_at": "2026-06-15T23:55:02+02:00",
       "source": "France Info",
-      "category": "Sport",
-      "id": "106eaaaf2e42"
+      "category": "International",
+      "id": "f050705728f3"
+    },
+    {
+      "title": "Arrivé au sommet du G7, Donald Trump minimise l'initiative multinationale portée par Paris et Londres pour sécuriser le détroit d'Ormuz",
+      "url": "https://www.franceinfo.fr/monde/sommet-du-g7/arrive-au-sommet-du-g7-donald-trump-minimise-l-initiative-multinationale-portee-par-paris-et-londres-pour-securiser-le-detroit-d-ormuz_8062481.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Je ne pense pas que nous aurons besoin de beaucoup d'aide\", a lancé le président américain lundi, lors d'un échange avec Emmanuel Macron.",
+      "image": "https://www.franceinfo.fr/pictures/8Dm3HsQxvem396ogYvxk15zxm-M/0x0:1024x576/432x243/filters:format(jpg)/2026/06/15/6a307272145ef432588886.jpg",
+      "published_at": "2026-06-15T23:45:46+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "dd975bab14f8"
+    },
+    {
+      "title": "En Ukraine, l'armée offre des contrats à durée déterminée pour attirer des volontaires",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-l-armee-offre-des-contrats-a-duree-determinee-pour-attirer-des-volontaires_8062457.html#xtor=RSS-3-[lestitres]",
+      "summary": "Avec des contrats de six, 10 ou 14 mois pour les combattants en première ligne, l'armée ukrainienne tente d'attirer des volontaires plutôt que de dépendre de la très impopulaire mobilisation.",
+      "image": "https://www.franceinfo.fr/pictures/nJKYsDMummPCBw0XN6PaSPfy2jE/0x106:1024x682/432x243/filters:format(jpg)/2026/06/15/6a306ba480167374975469.jpg",
+      "published_at": "2026-06-15T23:19:21+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "e9e0f461b495"
+    },
+    {
+      "title": "\"Tous nos sens sont mis à l'épreuve\" : à Paris, l'artiste JR présente sa \"caverne\", une œuvre monumentale sur le Pont-Neuf",
+      "url": "https://www.franceinfo.fr/culture/on-est-tellement-en-train-de-scroller-sur-nos-telephones-qu-il-faut-qu-il-y-ait-des-montagnes-geantes-qui-arrivent-au-milieu-de-paris-pour-que-d-un-coup-on-s-arrete-et-qu-on-apprenne-a-re-regarder-jr-presente-sa-nouvelle-uvre-au-pont-neuf-de-paris_8062439.html#xtor=RSS-3-[lestitres]",
+      "summary": "L’artiste JR était l’invité du journal de 20 h, lundi 15 septembre. Il présente actuellement sa nouvelle œuvre monumentale au Pont Neuf, à Paris, une installation immersive baptisée \"caverne\", pensée comme une expérience sensorielle au cœur de la capitale.",
+      "image": "https://www.franceinfo.fr/pictures/4akxpEIXDXYSLoRBsg8FR22yTBs/0x13:828x479/432x243/filters:format(jpg)/2026/06/15/6a3068be08b3e714560814.jpg",
+      "published_at": "2026-06-15T23:08:39+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "af13de74b9d9"
     },
     {
       "title": "La culture au secours de la planète",
@@ -31,6 +81,26 @@
       "source": "Libération",
       "category": "Sport",
       "id": "10fa4afb62c0"
+    },
+    {
+      "title": "Coupe du monde 2026 : la Belgique et l'Egypte se neutralisent après un bras de fer spectaculaire",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-la-belgique-et-l-egypte-se-neutralisent-apres-un-bras-de-fer-spectaculaire_8062403.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les Egyptiens de Mohamed Salah ont longtemps mené face à la Belgique avant d'être repris en seconde période, lundi.",
+      "image": "https://www.franceinfo.fr/pictures/qNvpnf7AoT_-pkUUOHlqQhwUHOI/0x0:1024x576/432x243/filters:format(jpg)/2026/06/15/6a305ac6c9354586189575.jpg",
+      "published_at": "2026-06-15T22:58:43+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "7b1f9682b8f7"
+    },
+    {
+      "title": "En Hongrie, les parlementaires inscrivent la limitation du mandat du Premier ministre dans la Constitution",
+      "url": "https://www.franceinfo.fr/monde/europe/en-hongrie-les-parlementaires-inscrivent-la-limitation-du-mandat-du-premier-ministre-dans-la-constitution_8062421.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette réforme est l'un des éléments centraux du programme de Peter Magyar, visant à \"rétablir l'État de droit\" en Hongrie.",
+      "image": "https://www.franceinfo.fr/pictures/6ogrXNPmGBpvJFbPI3CubfUM620/0x32:1024x608/432x243/filters:format(jpg)/2026/06/15/6a3066de7bdb9766438580.jpg",
+      "published_at": "2026-06-15T22:56:40+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "ddf630f85edb"
     },
     {
       "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky dit avoir proposé de rencontrer Vladimir Poutine aux Etats-Unis",
@@ -61,16 +131,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "30c5df94fb80"
-    },
-    {
-      "title": "Sommet du G7 : Emmanuel Macron accueille à Evian les chefs d'Etat et de gouvernement, réunis pour un dîner de travail lundi soir",
-      "url": "https://www.franceinfo.fr/monde/sommet-du-g7/direct-sommet-du-g7-donald-trump-attendu-a-evian-ou-les-discussions-porteront-notamment-sur-la-reouverture-du-detroit-d-ormuz_8060969.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les grandes puissances, réunies en sommet à Evian, évoquent dès lundi les \"conséquences\" de l'accord annoncé dimanche soir entre l'Iran et les Etats-Unis, qui doit permettre la fin de la guerre.",
-      "image": "https://www.franceinfo.fr/pictures/co0Pf6OUfrekIJuskqcNvJKxNrI/0x32:1024x608/432x243/filters:format(jpg)/2026/06/15/6a303bc1cf269483365084.jpg",
-      "published_at": "2026-06-15T22:08:07+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "03270d9f5876"
     },
     {
       "title": "Guerre au Moyen-Orient : malgré l’accord, l’armée israélienne restera à Gaza, au Liban et en Syrie «aussi longtemps que nécessaire», assure Nétanyahou",
@@ -173,16 +233,6 @@
       "id": "2c7ee398a943"
     },
     {
-      "title": "Accord de paix entre l'Iran et les Etats-Unis : Benyamin Nétanyahou affirme que l'armée israélienne restera au Liban, dans la bande de Gaza et en Syrie \"aussi longtemps que nécessaire\"",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-accord-de-paix-entre-entre-l-iran-et-les-etats-unis-une-etape-cruciale-vers-un-reglement-pacifique-du-conflit-reagit-l-onu_8060717.html#xtor=RSS-3-[lestitres]",
-      "summary": "Washington et Téhéran sont parvenus à un accord de paix sur tous les fronts, y compris au Liban, pour mettre fin à la guerre au Moyen-Orient démarrée le 28 février et permettre la réouverture du détroit d'Ormuz.",
-      "image": "https://www.franceinfo.fr/pictures/Jg0dAPz96aOvmygYO9KmhVClhvM/0x0:1024x576/432x243/filters:format(jpg)/2026/06/15/6a304b1c35057923942717.jpg",
-      "published_at": "2026-06-15T20:59:59+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "d67b882c4ba2"
-    },
-    {
       "title": "Mort de Lyhanna : de nouveaux rassemblements devant le ministère de la justice et les tribunaux ont eu lieu lundi soir",
       "url": "https://www.lemonde.fr/societe/article/2026/06/15/mort-de-lyhanna-de-nouveaux-rassemblements-devant-le-ministere-de-la-justice-et-les-tribunaux-ont-eu-lieu-lundi-soir_6703217_3225.html",
       "summary": "Les révélations concernant les signalements et les plaintes pour viols sur mineures qui visaient le suspect dans la mort de Lyhanna, collégienne de 11 ans, ont suscité une vive émotion et relancé le débat sur les défaillances judiciaires.",
@@ -211,16 +261,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "585ac292eb0c"
-    },
-    {
-      "title": "Donald Trump annonce une ouverture rapide du détroit d’Ormuz, Téhéran temporise sur le calendrier",
-      "url": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/donald-trump-annonce-une-ouverture-rapide-du-detroit-d-ormuz-teheran-temporise-sur-le-calendrier_8062319.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un cadre d’accord a été annoncé entre Washington et Téhéran sur le nucléaire et le détroit d’Ormuz, mais les divergences restent fortes sur ses modalités. Tandis que Donald Trump évoque une ouverture rapide, l’Iran parle d’un calendrier plus long et de conditions encore à définir.",
-      "image": "https://www.franceinfo.fr/pictures/JUrEE3b8j0_6DdU030x_6Wi7Ew0/0x30:808x485/432x243/filters:format(jpg)/2026/06/15/6a3049e5c425f662527989.jpg",
-      "published_at": "2026-06-15T20:55:01+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "897ccd8e1dae"
     },
     {
       "title": "Douze stands israéliens fermés au salon de la défense Eurosatory",
@@ -261,46 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "234ee5b42389"
-    },
-    {
-      "title": "La SNCF met en vente 100 000 billets de TGV Inoui à petits prix entre mardi et jeudi, pour des voyages en août",
-      "url": "https://www.franceinfo.fr/economie/transports/sncf/la-sncf-met-en-vente-100-000-billets-de-tgv-inoui-a-petits-prix-entre-mardi-et-jeudi-pour-des-voyages-en-aout_8062295.html#xtor=RSS-3-[lestitres]",
-      "summary": "SNCF Voyageurs annonce également de prochaines promotions à destination des jeunes passagers dès le 22 juin.",
-      "image": "https://www.franceinfo.fr/pictures/XpFICxLddpb0zb3RGfln48gaYuU/0x0:1024x576/432x243/filters:format(jpg)/2026/06/15/6a3044ee5cb0f795324834.jpg",
-      "published_at": "2026-06-15T20:48:12+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "81856cda3ce0"
-    },
-    {
-      "title": "Protocole d’accord au Moyen-Orient : Donald Trump, le dindon de sa force",
-      "url": "https://www.liberation.fr/international/moyen-orient/protocole-daccord-au-moyen-orient-donald-trump-le-dindon-de-sa-force-20260615_FC57MCHHY5DN5FUNKRVCG73JLI/",
-      "summary": "Donald Trump est arrivé à Evian pour le sommet du G7 en présentant son deal avec Téhéran comme une grande victoire. Aucun de ses buts de guerre n’est pourtant atteint et le régime iranien sort renforcé du conflit.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-06-15T18:48:04+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "2e407f29125a"
-    },
-    {
-      "title": "Avoir une « bonne conduite » devient une condition pour vivre en Suède",
-      "url": "https://www.lemonde.fr/international/article/2026/06/15/avoir-une-bonne-conduite-devient-une-condition-pour-vivre-en-suede_6703257_3210.html",
-      "summary": "Lundi, les députés ont adopté un projet de loi qui fait de la « conduite » des ressortissants étrangers une condition pour l’octroi d’un titre de séjour. La mesure est dénoncée par de nombreuses organisations, qui y voient une menace pour la liberté d’expression et de manifestation.",
-      "image": "https://img.lemde.fr/2026/06/15/85/0/1024/512/644/322/60/0/8ad5503_upload-1-hsskbkl88uif-000-34pm3bw-1.jpg",
-      "published_at": "2026-06-15T20:43:20+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "18aa14d27350"
-    },
-    {
-      "title": "Protocole d’accord entre l’Iran et les Etats-Unis : Trump, sa guerre et son fiasco",
-      "url": "https://www.liberation.fr/international/amerique/protocole-daccord-entre-liran-et-les-etats-unis-trump-sa-guerre-et-son-fiasco-20260615_WK6AP45CZBA5LJDDS5O246H3X4/",
-      "summary": "Le président américain est arrivé lundi à Evian pour le sommet du G7 en proclamant avoir transformé le Moyen-Orient, mais derrière la communication triomphante, le protocole d’accord conclu avec Téhéran laisse plus de questions que de certitudes.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-15T18:41:11+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "e3782bbcfbf7"
     }
   ]
 }
