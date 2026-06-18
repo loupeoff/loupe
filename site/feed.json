@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-06-17T22:49:15.583067+00:00",
+  "generated_at": "2026-06-18T00:22:18.342599+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Corse : les députés s’accordent sur les principes d’un statut d’autonomie",
+      "url": "https://www.lemonde.fr/societe/article/2026/06/18/corse-les-deputes-s-accordent-sur-les-principes-d-un-statut-d-autonomie_6704371_3224.html",
+      "summary": "Cet accord sur ce qui devrait justifier un « statut d’autonomie », qu’une loi constitutionnelle entend accorder à la Corse, permettrait des adaptations législatives et réglementaires spécifiques à l’île de Beauté.",
+      "image": "https://img.lemde.fr/2026/06/17/456/0/5472/2736/644/322/60/0/2c903ff_upload-1-abxil5as6j8d-000-34ll9a2.jpg",
+      "published_at": "2026-06-18T02:01:53+02:00",
+      "source": "Le Monde Politique",
+      "category": "Sport",
+      "id": "8d9998f24e7c"
+    },
+    {
+      "title": "Donald Trump et l'Iran ont signé l'accord visant à mettre fin à la guerre au Moyen-Orient",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-et-l-iran-ont-signe-l-accord-visant-a-mettre-fin-a-la-guerre-au-moyen-orient_8066654.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le président des Etats-Unis a signé un exemplaire de l'accord depuis le château de Versailles, où il dînait avec Emmanuel Macron mercredi soir, a appris franceinfo auprès de l'Elysée.",
+      "image": "https://www.franceinfo.fr/pictures/ajJxtzttAA_2ihCXr4HKYNCWCdY/0x0:1024x576/432x243/filters:format(jpg)/2026/06/18/6a331ed556a5f137876057.jpg",
+      "published_at": "2026-06-18T01:05:25+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "d814b2439665"
+    },
+    {
+      "title": "Moyen-Orient : les Etats-Unis et l’Iran ont signé le protocole d’accord pour mettre fin à la guerre, affirment les deux pays",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-moyen-orient-les-premiers-petroliers-iraniens-ont-franchi-le-detroit-dormuz-20260617_Y43LFTCPAJBPFJXKQTJRZ6AAFM/",
+      "summary": "Selon une information du média Axios, confirmée par l’AFP, les Etats-Unis et l’Iran ont entériné, dans la nuit de mercredi à jeudi, leur mémorandum d’accord pour mettre fin au conflit au Moyen-Orient. Le point de départ de deux mois de négociations, avec comme première étape la réouverture très attendue du détroit d’Ormuz.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-06-17T22:48:51+00:00",
+      "source": "Libération",
+      "category": "Tech",
+      "id": "e7e1031495c8"
+    },
     {
       "title": "Plus de 210 cas importés de chikungunya, dengue et Zika ont été recensés depuis début mai en France hexagonale",
       "url": "https://www.franceinfo.fr/sante/maladie/le-virus-zika/plus-de-210-cas-importes-de-chikungunya-dengue-et-zika-ont-ete-recenses-depuis-debut-mai-en-france-hexagonale_8066651.html#xtor=RSS-3-[lestitres]",
@@ -11,26 +41,6 @@
       "source": "France Info",
       "category": "Société",
       "id": "5e1b342a7e49"
-    },
-    {
-      "title": "Moyen-Orient : les Etats-Unis et l’Iran ont signé le protocole d’accord pour mettre fin à la guerre, affirment les deux pays",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-moyen-orient-les-premiers-petroliers-iraniens-ont-franchi-le-detroit-dormuz-20260617_Y43LFTCPAJBPFJXKQTJRZ6AAFM/",
-      "summary": "Selon une information du média Axios, confirmée par l’AFP, les Etats-Unis et l’Iran ont entériné, dans la nuit de mercredi à jeudi, leur mémorandum d’accord pour mettre fin au conflit au Moyen-Orient. Le point de départ de deux mois de négociations, avec comme première étape la réouverture très attendue du détroit d’Ormuz.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-06-17T22:33:36+00:00",
-      "source": "Libération",
-      "category": "Tech",
-      "id": "e7e1031495c8"
-    },
-    {
-      "title": "Donald Trump et l'Iran ont signé l'accord visant à mettre fin à la guerre au Moyen-Orient",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-et-l-iran-ont-signe-l-accord-visant-a-mettre-fin-a-la-guerre-au-moyen-orient_8066654.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le président des Etats-Unis a signé un exemplaire de l'accord depuis le château de Versailles, où il dînait avec Emmanuel Macron mercredi soir, a appris franceinfo auprès de l'Elysée.",
-      "image": "https://www.franceinfo.fr/pictures/ajJxtzttAA_2ihCXr4HKYNCWCdY/0x0:1024x576/432x243/filters:format(jpg)/2026/06/18/6a331ed556a5f137876057.jpg",
-      "published_at": "2026-06-18T00:26:03+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "d814b2439665"
     },
     {
       "title": "L'Angleterre vient à bout de la Croatie et fait forte impression pour ses débuts à la Coupe du monde 2026",
@@ -98,18 +108,18 @@
       "summary": "Après cinq mois d’audience, Diezani Alison-Madueke, ex-présidente de l’OPEP, « a été relaxée de six chefs d’accusation de corruption » par la justice britannique.",
       "image": "https://img.lemde.fr/2026/06/17/549/0/6586/3293/644/322/60/0/d3aeb74_ftp-1-95jj2hxbj4sn-5352306-01-06.jpg",
       "published_at": "2026-06-17T22:56:16+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "646bfc2b228c"
     },
     {
-      "title": "EN DIRECT, guerre au Moyen-Orient | Levée du blocus d’Ormuz, nucléaire, reconstruction de l’Iran : les principaux points du protocole d’accord entre les Etats-Unis et l’Iran dévoilés",
+      "title": "EN DIRECT, guerre au Moyen-Orient : les présidents iranien et américain ont signé le protocole d’accord pour mettre fin au conflit",
       "url": "https://www.lemonde.fr/international/live/2026/06/17/en-direct-guerre-au-moyen-orient-levee-du-blocus-d-ormuz-nucleaire-reconstruction-de-l-iran-les-principaux-points-du-protocole-d-accord-entre-les-etats-unis-et-l-iran-devoiles_6701050_3210.html",
-      "summary": "Alors que des responsables américains ont commencé à distiller les détails de l’accord entre les deux pays, le négociateur en chef iranien a déclaré que cet accord « acte l’échec des Etats-Unis » et que l’Iran rétablirait la circulation dans le détroit d’Ormuz « sans frais pendant 60 jours uniquement ».",
-      "image": "https://img.lemde.fr/2026/06/17/0/0/7949/3974/644/322/60/0/1bee834_ftp-1-feupk31kklrv-043f4cba508747658e6a05c918e24804-1-b7d548f2955d44ca90c6900201829bb3.jpg",
+      "summary": "Massoud Pezeshkian et Donald Trump ont paraphé à distance l’accord qui prévoit que les Etats-Unis suspendent, dès sa signature, leurs sanctions sur la vente de pétrole iranien. Washington s’engage également à lever l’ensemble des sanctions américaines contre Téhéran en cas de conclusion d’un accord définitif, au terme d’une période de négociations de soixante jours.",
+      "image": "https://img.lemde.fr/2026/06/17/691/0/4141/2070/644/322/60/0/a254136_ftp-1-zuwzl7rlyoq7-2026-06-17t234514z-317854240-rc2zvlal2lp1-rtrmadp-3-g7-summit-trump.JPG",
       "published_at": "2026-06-17T22:55:15+02:00",
       "source": "Le Monde",
-      "category": "Sport",
+      "category": "International",
       "id": "fa196cb2e084"
     },
     {
@@ -291,16 +301,6 @@
       "source": "Libération",
       "category": "International",
       "id": "a72583c41a6f"
-    },
-    {
-      "title": "Prison à perpétuité pour le tueur en série des plages de New York",
-      "url": "https://www.liberation.fr/international/amerique/prison-a-perpetuite-pour-le-tueur-en-serie-des-plages-de-new-york-20260617_PC72MGP3TVERDNXDSHHGCQODUQ/",
-      "summary": "Rex Heuermann a été reconnu coupable, mercredi 17 juin, de l’enlèvement, de la torture et du meurtre de sept femmes à Long Island en 1993 et 2010. Il avait également avoué un huitième meurtre pour lequel il n’avait jusque-là pas été inculpé.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-06-17T18:51:27+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "e16bbc7461ec"
     }
   ]
 }
