@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-06-19T21:15:44.927371+00:00",
+  "generated_at": "2026-06-19T23:07:32.519729+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Trump dévoile le nouvel Air Force One offert par le Qatar, sa « Maison Blanche volante »",
+      "url": "https://www.lemonde.fr/international/article/2026/06/20/trump-devoile-le-nouvel-air-force-one-offert-par-le-qatar-sa-maison-blanche-volante_6705055_3210.html",
+      "summary": "Ce Boeing qatari, plus grand et plus pompeux que son prédécesseur, a soulevé d’importantes questions éthiques et constitutionnelles, notamment sur les limites encadrant les cadeaux reçus par un président de la part de puissances étrangères.",
+      "image": "https://img.lemde.fr/2026/06/19/879/0/8256/4128/644/322/60/0/32bdb87_ftp-1-t9wnc4ywp6kd-5377155-01-06.jpg",
+      "published_at": "2026-06-20T00:54:01+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "714876761cf4"
+    },
+    {
+      "title": "Les Etats-Unis jugent « superficiel » le vaste plan de réforme économique annoncé par Cuba",
+      "url": "https://www.lemonde.fr/international/article/2026/06/20/washington-juge-superficiel-le-vaste-plan-de-reformes-economiques-annonce-par-cuba_6705022_3210.html",
+      "summary": "Au lendemain de l’adoption par l’Assemblée nationale cubaine de 176 mesures visant à modifier considérablement le modèle économique de l’île, le département d’Etat américain a dénoncé vendredi un « écran de fumée ».",
+      "image": "https://img.lemde.fr/2026/06/19/293/0/8256/4128/644/322/60/0/d8dc2f8_ftp-1-bccr0fsffzvm-5374772-01-06.jpg",
+      "published_at": "2026-06-20T00:19:11+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "56b4f786465d"
+    },
+    {
+      "title": "Au Royaume-Uni, une collision entre deux trains fait au moins un mort et des dizaines de blessés au nord de Londres",
+      "url": "https://www.franceinfo.fr/monde/royaume-uni/au-royaume-uni-deux-trains-impliques-dans-une-collision-au-nord-de-londres-selon-la-police-des-transports_8070704.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'incident a eu lieu dans la région de Bedford, à environ 90 kilomètres de la capitale britannique.",
+      "image": "https://www.franceinfo.fr/pictures/mBfH1ywKvkOvTmXlthIzp0kYtZY/0x73:1024x649/432x243/filters:format(jpg)/2026/06/19/6a358bd25ad2b757635819.jpg",
+      "published_at": "2026-06-20T00:10:38+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "a85bf6d515e3"
+    },
+    {
+      "title": "Coupe du monde 2026 : les Etats-Unis l'emportent face à l'Australie, avant la rencontre entre le Maroc et l'Ecosse",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-le-bresil-en-quete-d-une-premiere-victoire-face-a-haiti-les-etats-unis-visent-la-tete-du-groupe-c-contre-l-australie_8067656.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Maroc affronte l'Ecosse à minuit, tandis que le Brésil jouera contre Haïti à 2h30 du matin.",
+      "image": "https://www.franceinfo.fr/pictures/siyehx666V_jy0_EPxar1Yb50hM/0x0:1024x576/432x243/filters:format(jpg)/2026/06/18/6a33f559150b7637481345.jpg",
+      "published_at": "2026-06-20T00:02:58+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "7a332d287876"
+    },
+    {
+      "title": "Les Etats-Unis rejoignent le Mexique en seizièmes de finale… L’actu de la Coupe du monde ce vendredi 19 juin",
+      "url": "https://www.liberation.fr/sports/football/le-mexique-premier-qualifie-victoire-douce-amere-du-canada-la-suisse-prend-une-option-lactu-de-la-coupe-du-monde-ce-vendredi-19-juin-20260619_IGU6E56KH5CJTKHDPDS6DC6W2I/",
+      "summary": "L’essentiel des informations du jour sur le Mondial au Canada, aux Etats-Unis et au Mexique.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-06-19T21:22:26+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "b833cf7301e2"
+    },
+    {
+      "title": "Le crash d'un avion de tourisme fait deux morts à La Baule",
+      "url": "https://www.franceinfo.fr/faits-divers/accident/le-crash-d-un-avion-de-tourisme-fait-deux-morts-a-la-baule_8070803.html#xtor=RSS-3-[lestitres]",
+      "summary": "D'après le maire de la ville, Franck Louvrier, l'avion était parti de Rennes.",
+      "image": "https://www.franceinfo.fr/pictures/z-GZE-q1w4Ob1edjHekhMFRdm58/0x0:1024x576/432x243/filters:format(jpg)/2026/06/19/6a35af2a1c157344395866.jpg",
+      "published_at": "2026-06-19T23:12:09+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "d28b4a9e5928"
+    },
+    {
+      "title": "Les Etats-Unis s'imposent face à l'Australie et seront au rendez-vous des seizièmes de finale de leur Coupe du monde",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/les-etats-unis-s-imposent-face-a-l-australie-et-seront-au-rendez-vous-des-seiziemes-de-finale-de-leur-coupe-du-monde_8070797.html#xtor=RSS-3-[lestitres]",
+      "summary": "Après leur victoire éclatante face au Paraguay, les Américains ont battu les Australiens vendredi, à Seattle.",
+      "image": "https://www.franceinfo.fr/pictures/aulVB8huLGY-Qu9MJJHip9-rCfw/0x0:3500x1968/432x243/filters:format(jpg)/2026/06/19/6a35acd55a7e0551365632.jpg",
+      "published_at": "2026-06-19T23:06:55+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "5b6411a63e04"
+    },
+    {
+      "title": "Toulouse écrase le Racing 92 et rallie la finale du Top 14 pour décrocher un quatrième Brennus d'affilée",
+      "url": "https://www.franceinfo.fr/sports/rugby/top-14/toulouse-ecrase-le-racing-92-et-rallie-la-finale-du-top-14-pour-decrocher-un-quatrieme-brennus-d-affilee_8070740.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Stade toulousain n'a fait qu'une bouchée des Franciliens, et participera à sa cinquième finale en six saisons.",
+      "image": "https://www.franceinfo.fr/pictures/5kYBUyMngnEmMVYMB79hGOniHUs/0x0:6000x3375/432x243/filters:format(jpg)/2026/06/19/6a35a97fe9054541029883.jpg",
+      "published_at": "2026-06-19T23:03:14+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "63f3dbccbdb0"
+    },
     {
       "title": "«Un impact brutal» : deux trains entrent en collision près de Londres, un mort et plusieurs personnes blessées",
       "url": "https://www.liberation.fr/international/europe/un-impact-brutal-deux-trains-entrent-en-collision-pres-de-londres-le-bilan-encore-incertain-20260619_IAONNLCQRBCANL4ETCJLQFGRQY/",
@@ -15,7 +95,7 @@
     {
       "title": "Royaume-Uni : une collision de deux trains fait au moins un mort et de nombreux blessés au nord de Londres",
       "url": "https://www.lemonde.fr/international/article/2026/06/19/royaume-uni-une-collision-de-deux-trains-fait-au-moins-un-mort-et-de-nombreux-blesses-au-nord-de-londres_6705021_3210.html",
-      "summary": "La collision a eu lieu en fin d’après-midi, vers 17 h 15 (16 h 15 à Paris) au sud de Bedford, une ville commerçante située à environ 90 kilomètres de la capitale britannique.",
+      "summary": "L’accident a eu lieu en fin d’après-midi, vers 17 h 15 (16 h 15 à Paris) au sud de Bedford, une ville commerçante située à environ 90 kilomètres de la capitale britannique.",
       "image": "https://img.lemde.fr/2026/06/19/446/0/4252/2126/644/322/60/0/5b65801_ftp-1-s7rvo0mtol4e-0a4a49b4756f4d008ffaaa758263fbb3-0-1022472d26ba4ef0bc7a3055f019f4bf.jpg",
       "published_at": "2026-06-19T22:49:04+02:00",
       "source": "Le Monde",
@@ -23,17 +103,7 @@
       "id": "2f8547117851"
     },
     {
-      "title": "Au Royaume-Uni, une collision entre deux trains fait au moins un mort et plusieurs blessés au nord de Londres, selon la police",
-      "url": "https://www.franceinfo.fr/monde/royaume-uni/au-royaume-uni-deux-trains-impliques-dans-une-collision-au-nord-de-londres-selon-la-police-des-transports_8070704.html#xtor=RSS-3-[lestitres]",
-      "summary": "La police et les services de secours sont mobilisés sur place. L'incident a eu lieu dans la région de Bedford, à environ 90 kilomètres de la capitale britannique.",
-      "image": "https://www.franceinfo.fr/pictures/mBfH1ywKvkOvTmXlthIzp0kYtZY/0x73:1024x649/432x243/filters:format(jpg)/2026/06/19/6a358bd25ad2b757635819.jpg",
-      "published_at": "2026-06-19T22:49:02+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "a85bf6d515e3"
-    },
-    {
-      "title": "Val d'Isère préféré à Méribel, trois pôles pour les Paralympiques... La proposition de carte des sites des Jeux d'hiver Alpes 2030 validée par le Cojop",
+      "title": "Val d'Isère préféré à Méribel, trois pôles pour les Paralympiques... La carte des sites enfin arrêtée pour les Jeux d'hiver 2030",
       "url": "https://www.franceinfo.fr/les-jeux-olympiques/alpes-francaises-2030/val-d-isere-prefere-a-meribel-trois-poles-pour-les-paralympiques-la-proposition-de-carte-des-sites-des-jeux-d-hiver-alpes-2030-validee-par-le-cojop_8070773.html#xtor=RSS-3-[lestitres]",
       "summary": "A l'issue de son bureau exécutif vendredi, le comité organisateur a dévoilé sa proposition des sites de compétition.",
       "image": "https://www.franceinfo.fr/pictures/blcQ5cpz8n4fKrQ6L8y61Gi1NU8/0x58:4800x2758/432x243/filters:format(jpg)/2026/06/19/6a35a56580258644970268.jpg",
@@ -73,17 +143,17 @@
       "id": "9e261fe28672"
     },
     {
-      "title": "Frappes au Liban : Israël \"s'engage\" à respecter le cessez-le-feu, si le Hezbollah en fait autant",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-accord-entre-l-iran-et-les-etats-unis-la-suisse-annonce-le-report-des-pourparlers-entre-l-iran-et-les-etats-unis-apres-l-annulation-de-la-venue-du-vice-president-americain_8068682.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le département d'Etat américain a de son côté annoncé la reprise des négociations entre le Liban et Israël à Washington, du 23 au 25 juin.",
-      "image": "https://www.franceinfo.fr/pictures/Cs3NyjJxZndcZS5Mi4jwsE223KU/0x285:5472x3363/432x243/filters:format(jpg)/2026/06/19/6a3549ca9a11a354649507.jpg",
-      "published_at": "2026-06-19T22:11:45+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "73f244f71d32"
+      "title": "EN DIRECT, Ecosse-Maroc : les Lions de l’Atlas mènent à la pause, Ismael Saibari inscrit le but le plus rapide de la compétition",
+      "url": "https://www.lemonde.fr/sport/live/2026/06/19/en-direct-ecosse-maroc-suivez-le-match-de-la-coupe-du-monde-de-football_6705019_3242.html",
+      "summary": "Le Maroc dispute, vendredi, son deuxième match de poules contre l’Ecosse. L’occasion pour les Lions de l’Atlas de décrocher une première victoire dans cette Coupe du monde.",
+      "image": "https://img.lemde.fr/2026/06/19/739/0/5430/2715/644/322/60/0/0e59a86_ftp-1-cjtlgr9ih4z2-5378696-01-06.jpg",
+      "published_at": "2026-06-19T22:00:08+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "734eb73f0e50"
     },
     {
-      "title": "A quoi a ressemblé la canicule d’août 2003 à laquelle celle de juin 2026 est comparée ?",
+      "title": "En quoi la canicule d’août 2003 ressemble à celle de juin 2026 que nous sommes sur le point de traverser ?",
       "url": "https://www.liberation.fr/environnement/climat/a-quoi-a-ressemble-la-canicule-daout-2003-a-laquelle-celle-de-juin-2026-est-comparee-20260619_WF7RUO5URJGODH4P5MKAU63MAM/",
       "summary": "Il y a plus de 20 ans, l’épisode de deux semaines en plein été était inédit et avait surpris le pays alors que personne n’y était préparé, entraînant plus de 15 000 morts, notamment des personnes âgées.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
@@ -153,6 +223,16 @@
       "id": "5b52658ca9a3"
     },
     {
+      "title": "Frappes au Liban : l’accord de paix menacé par Israël",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/frappes-au-liban-l-accord-de-paix-menace-par-israel_8070743.html#xtor=RSS-3-[lestitres]",
+      "summary": "En quelques heures, le conflit au Liban a connu trois étapes : d'abord des frappes israéliennes meurtrières avec un bilan annoncé de 47 morts, puis une possible trêve avec le Hezbollah, un cessez-le-feu qui n'aura duré que quelques minutes avec un nouveau raid de Tsahal.",
+      "image": "https://www.franceinfo.fr/pictures/8PWxi_JxFxwj9_2ZNZxwNkzguKA/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/19/6a3598418d078870605621.jpg",
+      "published_at": "2026-06-19T21:31:21+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "58eb4450c2ae"
+    },
+    {
       "title": "Orages : deux personnes frappées par la foudre dans le Pas-de-Calais",
       "url": "https://www.franceinfo.fr/environnement/meteo/orages-deux-personnes-frappees-par-la-foudre-dans-le-pas-de-calais_8070749.html#xtor=RSS-3-[lestitres]",
       "summary": "Les deux victimes, âgées de 56 et 66 ans, ont été légèrement blessées.",
@@ -181,16 +261,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "cd95a16f05a1"
-    },
-    {
-      "title": "Coupe du monde 2026 : le coup d'envoi est donné pour la rencontre entre l'Australie et les Etats-Unis, qui visent la tête du groupe C",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-le-bresil-en-quete-d-une-premiere-victoire-face-a-haiti-les-etats-unis-visent-la-tete-du-groupe-c-contre-l-australie_8067656.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Maroc affronte l'Ecosse à minuit, tandis que le Brésil jouera contre Haïti à 2h30 du matin.",
-      "image": "https://www.franceinfo.fr/pictures/siyehx666V_jy0_EPxar1Yb50hM/0x0:1024x576/432x243/filters:format(jpg)/2026/06/18/6a33f559150b7637481345.jpg",
-      "published_at": "2026-06-19T21:13:25+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "7a332d287876"
     },
     {
       "title": "La France sait gérer la dissuasion nucléaire mais pas les épisodes caniculaires",
@@ -231,76 +301,6 @@
       "source": "Le Monde Inter",
       "category": "International",
       "id": "5cef78dab971"
-    },
-    {
-      "title": "Hôpitaux, écoles… Le système D pour se protéger des fortes chaleurs",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/hopitaux-ecoles-le-systeme-d-pour-se-proteger-des-fortes-chaleurs_8070698.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'épisode de canicule que connaît actuellement l'Hexagone pourrait être aussi intense que celui de 2003. Soixante départements sont en alerte orange samedi 20 juin. Une réalité qui met en exergue la fragilité des hôpitaux et des écoles forcés de s'adapter avec des mesures qui relèvent du système D.",
-      "image": "https://www.franceinfo.fr/pictures/PM1rEPgSAMHr61lhQzcoqVy9Ayg/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/19/6a358b5e203ee863304810.jpg",
-      "published_at": "2026-06-19T20:47:59+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "b49c1a407535"
-    },
-    {
-      "title": "En Pologne, Jordan Bardella se rêve en chef de l’union entre les droites et extrêmes droites européennes",
-      "url": "https://www.lemonde.fr/politique/article/2026/06/19/en-pologne-jordan-bardella-se-reve-en-chef-de-l-union-entre-les-droites-et-extreme-droites-europeennes_6705016_823448.html",
-      "summary": "En déplacement à Varsovie et près de la frontière biélorusse, les 18 et 19 juin, le président du RN a accéléré l’alliance avec les conservateurs et libéraux européens. Quitte à prendre ses distances avec la ligne eurosceptique et souverainiste imprimée par Marine Le Pen depuis deux décennies.",
-      "image": "https://img.lemde.fr/2026/06/19/91/0/7677/3838/644/322/60/0/15dffbe_ftp-1-tkr3tugk2lvg-5374422-01-06.jpg",
-      "published_at": "2026-06-19T20:45:19+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "2b7eabf0f4e1"
-    },
-    {
-      "title": "Attaques israéliennes : au Sud-Liban, les civils pris au piège d’une trêve introuvable",
-      "url": "https://www.liberation.fr/international/moyen-orient/attaques-israeliennes-au-sud-liban-les-civils-pris-au-piege-dune-treve-introuvable-20260619_OH4U3HAB2FHDLKDMF33OUUVMN4/",
-      "summary": "Rentrés chez eux après des semaines d’exil, des habitants de Nabatieh ont dû reprendre la route sous les bombardements israéliens en dépit d’un cessez-le-feu annoncé vendredi après-midi, mais inégalement respecté.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-19T18:44:32+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "3413c755343b"
-    },
-    {
-      "title": "La dernière trouvaille du télescope James Webb : une planète rose salée",
-      "url": "https://www.numerama.com/sciences/2280383-la-derniere-trouvaille-du-telescope-james-webb-une-planete-rose-salee.html",
-      "summary": "Le télescope spatial James Webb a observé un astre surprenant. Surnommé la Planète Rose, cet astre ne serait pas forcément une planète à proprement parler, mais en plus, du sel a été détecté dans son atmosphère.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-19T18:31:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "daaf1b27c413"
-    },
-    {
-      "title": "Acid Arab, la France en transe",
-      "url": "https://www.liberation.fr/culture/musique/acid-arab-la-france-en-transe-20260619_DKYSYOPURRDP3OH5PXV6OJK6HA/",
-      "summary": "Le groupe français enchevêtre ses influences traditionnelles et électroniques dans un album qui célèbre une nouvelle fois la fusion entre orient et occident.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-06-19T18:24:00+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "2ce519e82542"
-    },
-    {
-      "title": "Andy Burnham espère que sa victoire électorale va lui ouvrir la voie pour devenir premier ministre britannique",
-      "url": "https://www.lemonde.fr/international/article/2026/06/19/le-travailliste-andy-burnham-espere-que-sa-victoire-a-l-election-partielle-de-makerfield-va-lui-ouvrir-la-voie-vers-downing-street_6705014_3210.html",
-      "summary": "Le maire du Greater Manchester apparaît plus que jamais comme le successeur potentiel de Keir Starmer à la tête du Labour et du gouvernement.",
-      "image": "https://img.lemde.fr/2026/06/19/458/0/5500/2750/644/322/60/0/6afe2d5_ftp-1-1ft4m9a5tnnd-2026-06-19t103303z-1919480954-rc2ywlajvuk0-rtrmadp-3-britain-politics-makerfield.JPG",
-      "published_at": "2026-06-19T20:20:22+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "95b18f597025"
-    },
-    {
-      "title": "Rugby : le XV de France \"A\" domine et s'impose face au XV Angleterre au terme d'un match enlevé",
-      "url": "https://www.franceinfo.fr/sports/rugby/xv-de-france/rugby-le-xv-de-france-a-domine-et-s-impose-face-au-xv-angleterre-au-terme-d-un-match-enleve_8070671.html#xtor=RSS-3-[lestitres]",
-      "summary": "Dans un Crunch non-officiel, les Bleus ont disposé des Anglais vendredi à Vannes.",
-      "image": "https://www.franceinfo.fr/pictures/DLTlTaN6k0W4RmjBFCs9DUHHR0g/4x0:906x507/432x243/filters:format(jpg)/2026/06/19/6a3582b258274403589913.jpg",
-      "published_at": "2026-06-19T20:18:36+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "b764d784cc00"
     }
   ]
 }
