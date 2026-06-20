@@ -1,7 +1,147 @@
 {
-  "generated_at": "2026-06-20T16:26:24.312694+00:00",
+  "generated_at": "2026-06-20T18:20:16.225493+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Le détroit d’Ormuz revient au coeur du bras de fer entre Etats-Unis et Iran",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-malgre-le-cessez-le-feu-des-bombardements-israeliens-font-cinq-morts-dans-le-sud-du-liban-20260620_2R247JCD5BFZJOFPHAHDZRAKS4/",
+      "summary": "Malgré l’annonce d’un cessez-le-feu entre Israël et le Hezbollah, plus de 80 personnes ont perdu la vie en 24 heures.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-06-20T18:14:13+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "f7fa6b5a8bb5"
+    },
+    {
+      "title": "EN DIRECT, canicule : 26 millions de personnes concernées par la vigilance rouge déclarée pour 35 départements dimanche",
+      "url": "https://www.lemonde.fr/planete/live/2026/06/20/en-direct-canicule-26-millions-de-personnes-concernees-par-la-vigilance-rouge-declaree-pour-35-departements-dimanche_6704498_3244.html",
+      "summary": "Météo-France a placé 35 départements en vigilance rouge canicule pour la journée de dimanche, un chiffre record qui englobe 26 millions de Français, déjà assommés samedi par une chaleur appelée à s’aggraver.",
+      "image": "https://img.lemde.fr/2026/06/20/601/0/2398/1199/644/322/60/0/6aeff73_upload-1-9s8lwn7fswut-capture-d-e-cran-2026-06-20-a-16-18-13.png",
+      "published_at": "2026-06-20T20:09:47+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "b52dc687cc0e"
+    },
+    {
+      "title": "«D’ombres et de crocs» de François Pacaud : quand les ténèbres ressemblent à des bêtes féroces",
+      "url": "https://www.liberation.fr/culture/livres/dombres-et-de-crocs-de-francois-pacaud-quand-les-tenebres-ressemblent-a-des-betes-feroces-20260620_VHH62537JZH2TIARGCMNXNPTHE/",
+      "summary": "L’auteur creusois installé à Marseille livre un premier roman qui multiplie les voix et les indices pour mieux nous effrayer.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-06-20T18:00:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "d9f80befb65d"
+    },
+    {
+      "title": "EN DIRECT, guerre au Moyen-Orient : Israël et le Hezbollah s’accusent de violations du cessez-le-feu au Liban",
+      "url": "https://www.lemonde.fr/international/live/2026/06/20/en-direct-guerre-au-moyen-orient-israel-et-le-hezbollah-s-accusent-de-violations-du-cessez-le-feu-au-liban_6705272_3210.html",
+      "summary": "Les frappes israéliennes meurtrières et les affrontements entre forces israéliennes et le mouvement chiite se poursuivent dans le sud du Liban. En réaction, l’Iran a annoncé fermer le détroit d’Ormuz.",
+      "image": "https://img.lemde.fr/2026/06/20/500/0/6000/3000/644/322/60/0/c24d11d_ftp-1-nufyd6p7rrby-755526a6f40a465bbc1c94eb75556dff-0-8cc87acd3c4b4603a7f181d717977717.jpg",
+      "published_at": "2026-06-20T19:58:32+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "2f58a7812294"
+    },
+    {
+      "title": "En Bolivie, les images des blocages paralysant une partie du pays alors que le président a décrété l’Etat d’exception",
+      "url": "https://www.lemonde.fr/international/video/2026/06/20/en-bolivie-les-images-des-blocages-paralysant-une-partie-du-pays-alors-que-le-president-a-decrete-l-etat-d-exception_6705329_3210.html",
+      "summary": "Rodrigo Paz a décrété, samedi, l’état d’exception, qui pourrait permettre la mobilisation de l’armée afin de mettre fin aux barrages routiers.",
+      "image": "https://img.lemde.fr/2026/06/20/402/0/4819/2409/644/322/60/0/4f0f67c_ftp-1-8sdokasd6m3t-5384586-01-06.jpg",
+      "published_at": "2026-06-20T19:52:16+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "5eb28bd318b5"
+    },
+    {
+      "title": "Un train Ouigo évacué près de la gare de Toulouse Matabiau en raison d'un problème électrique lié à la chaleur",
+      "url": "https://www.franceinfo.fr/economie/transports/sncf/un-train-ouigo-evacue-pres-de-la-gare-de-toulouse-matabiau-en-raison-d-un-probleme-electrique_8071826.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le trafic ferroviaire a été interrompu dans la gare de Toulouse Matabiau, ce qui occasionne des retards de trains. Il va pouvoir reprendre progressivement, assure la SNCF à franceinfo.",
+      "image": "https://www.franceinfo.fr/pictures/IV2PQwl-5wKC-rR7GJ3L9fx1QvA/0x95:1024x671/432x243/filters:format(jpg)/2026/06/20/6a36c9d29129a647169116.jpg",
+      "published_at": "2026-06-20T19:39:52+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "902c278c7318"
+    },
+    {
+      "title": "«Faille Fox» sur CNews, une hallucination non pas d’IA, mais de Joseph Macé-Scaron",
+      "url": "https://www.liberation.fr/economie/medias/faille-fox-sur-cnews-une-hallucination-non-pas-dia-mais-de-joseph-mace-scaron-20260620_BXGQQZF2QFDRRPK4CHS7GEVPJY/",
+      "summary": "Le chroniqueur a assuré sur le plateau de l’Heure des Pros 2 que ce pare-feu avait détecté 500 failles sur des modèles d’intelligence artificielle. Sauf que ce logiciel n’existe pas. Contrairement à Firefox qui est un… navigateur. Pas très pro.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-06-20T17:38:16+00:00",
+      "source": "Libération",
+      "category": "Tech",
+      "id": "ca52b572a099"
+    },
+    {
+      "title": "Plus de 10 000 personnes réunies pour la Marche des fiertés, entre joie et combat permanent : \"Ici on célèbre la liberté\"",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/plus-de-10-000-personnes-reunies-pour-la-marche-des-fiertes-entre-joie-et-combat-permanent-ici-on-celebre-la-liberte-3372505.html#xtor=RSS-3-[lestitres]",
+      "summary": "La 33ème édition de la Marche des fiertés s'est élancée dans les rues de Montpellier ce samedi 20 juin 2026. Dans la foule, Alice Nkom, avocate, figure internationale de la lutte pour la dépénalisation de l'homosexualité. Mais aussi des milliers d'anonymes rassemblés pour la défense des droits des personnes LGBTQIA.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-20T19:30:35+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "08362997e154"
+    },
+    {
+      "title": "Canicule : \"Il faut que le système de santé tienne dans la durée\", prévient la ministre de la Santé",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-il-faut-limiter-absolument-l-alcool-pendant-la-fete-de-la-musique-previent-la-ministre-de-la-sante_8071775.html#xtor=RSS-3-[lestitres]",
+      "summary": "La consommation d'alcool a été interdite par le gouvernement samedi sur la voie publique pour la Fête de la musique dans les 35 départements en rouge canicule face au risque de \"surcharge\" des urgences.",
+      "image": "https://www.franceinfo.fr/pictures/G45zK0Uxcdf9_d28T0XRzFLkXSg/0x0:1280x720/432x243/filters:format(jpg)/2026/06/02/6a1e6cf8dd822030615284.jpg",
+      "published_at": "2026-06-20T19:18:11+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "9b64a7bfce71"
+    },
+    {
+      "title": "L’Iran annonce fermer de nouveau le détroit d’Ormuz en réaction aux attaques d’Israël au Liban",
+      "url": "https://www.lemonde.fr/international/article/2026/06/20/l-iran-annonce-fermer-de-nouveau-le-detroit-d-ormuz-en-reaction-aux-attaques-d-israel-au-liban_6705328_3210.html",
+      "summary": "Malgré une nouvelle annonce de cessez-le-feu vendredi, dans le cadre de l’accord américano-iranien, Israël et le Hezbollah s’accusent mutuellement de violer la trêve. De nouvelles frappes israéliennes sur le sud du Liban ont fait au moins 24 morts samedi, et 83 la veille.",
+      "image": "https://img.lemde.fr/2026/06/20/384/0/4608/2304/644/322/60/0/2170410_ftp-1-eenh7rqcxsr7-2026-06-20t084257z-509576632-rc2hxla3c8kl-rtrmadp-3-iran-crisis-lebanon-south-strikes.JPG",
+      "published_at": "2026-06-20T19:15:12+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "913bb0ffac01"
+    },
+    {
+      "title": "Canicule : 35 départements en vigilance rouge dimanche, l’alcool interdit sur la voie publique pendant la Fête de la musique",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-60-departements-en-vigilance-orange-pres-de-6-francais-sur-10-concernes-20260620_6HH2KFLD6ZACNLOXT5VGQBGROY/",
+      "summary": "La chaleur continue à s’étendre ce samedi avec 60 départements en vigilance orange, soit 41 millions de personnes, 5 millions de plus que vendredi. Dimanche, plus de la moitié d’entre eux basculeront en vigilance rouge.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-06-20T16:56:12+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "184502b60f8f"
+    },
+    {
+      "title": "Capcom recrée un lieu de Kyoto interdit et considéré comme un passage vers les morts dans Onimusha: Way of the Sword",
+      "url": "https://www.numerama.com/pop-culture/2279419-pour-son-prochain-jeu-capcom-recree-un-lieu-de-kyoto-interdit-et-considere-comme-un-passage-vers-les-morts.html",
+      "summary": "Les développeurs d’Onimusha: Way of the Sword ont obtenu l’aide de la ville de Kyoto pour intégrer un lieu légendaire au jeu, considéré comme une porte vers le monde des morts et fermé au public.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-06-20T16:32:00+00:00",
+      "source": "Numerama",
+      "category": "Sport",
+      "id": "36a02fb65e93"
+    },
+    {
+      "title": "La mort de Claude Guillemot, le discret et diplomate cofondateur d’Ubisoft",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/06/20/la-mort-de-claude-guillemot-le-discret-et-diplomate-cofondateur-d-ubisoft_6705325_3382.html",
+      "summary": "L’aîné de la fratrie Guillemot, qui avait cofondé le géant français du jeu vidéo avec ses quatre frères en 1986, a péri, vendredi 19 juin, dans un accident d’avion. Il avait 69 ans.",
+      "image": "https://img.lemde.fr/2026/06/20/225/0/2780/1390/644/322/60/0/b3bfc78_upload-1-ujf2dz44wy5c-sipa-00370438-000002.jpg",
+      "published_at": "2026-06-20T18:28:57+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "9ca74fbd87ee"
+    },
+    {
+      "title": "En meeting au Parc floral de Paris, Bruno Retailleau veut «remettre la France à l’endroit»",
+      "url": "https://www.liberation.fr/politique/elections/en-meeting-au-parc-floral-de-paris-bruno-retailleau-veut-remettre-la-france-a-lendroit-20260620_LLYTPHSC4VBXRF3OLR7XWVMCVA/",
+      "summary": "Le candidat LR a rassemblé ses soutiens ce samedi 20 juin avec en guest-star l’écrivain Boualem Sansal. Stagnant dans les sondages, l’ex-ministre espère marquer des points en chargeant un Macron qui a mis le pays «à l’envers» et en défendant un programme de droite dure.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-20T16:28:23+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "6d7162bc3334"
+    },
     {
       "title": "Le coup de froid entre Donald Trump et son alliée Georgia Meloni est parti pour durer",
       "url": "https://www.liberation.fr/international/europe/bisbilles-en-marge-du-g7-la-muflerie-de-trump-nepargne-meme-pas-son-alliee-meloni-20260619_JKFBVV2UQNDQBGOEMERSXRQWDM/",
@@ -73,16 +213,6 @@
       "id": "c12f51caa260"
     },
     {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran referme le détroit d’Ormuz en dénonçant la poursuite des frappes israéliennes au Liban",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-malgre-le-cessez-le-feu-des-bombardements-israeliens-font-cinq-morts-dans-le-sud-du-liban-20260620_2R247JCD5BFZJOFPHAHDZRAKS4/",
-      "summary": "Un cessez-le-feu est censé être entré en vigueur à 15 heures vendredi entre Israël et le Hezbollah. L’Etat hébreu avait auparavant bombardé massivement le sud du pays, faisant près de 80 morts en 24 heures.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-06-20T15:51:49+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "f7fa6b5a8bb5"
-    },
-    {
       "title": "Sur fond de guerre mémorielle, la Pologne retire sa plus haute distinction à Volodymyr Zelensky",
       "url": "https://www.liberation.fr/international/europe/sur-fond-de-guerre-memorielle-la-pologne-retire-sa-plus-haute-distinction-a-volodymyr-zelensky-20260620_FBP4YNKV2VDJ7OZG6HAGT7SW6Q/",
       "summary": "Le président polonais a annoncé le retrait de l’Ordre de l’aigle blanc à son homologue ukrainien. Une riposte à un décret donnant à une unité militaire le nom de l’UPA, organisation nationaliste responsable de massacres de civils polonais pendant la Seconde Guerre mondiale.",
@@ -113,12 +243,12 @@
       "id": "960eee315e7e"
     },
     {
-      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky déclare avoir renvoyé en Pologne la distinction qui lui a été retirée",
+      "title": "EN DIRECT, guerre en Ukraine : La Russie s’apprête à lancer une attaque massive contre l’Ukraine, prévient Volodymyr Zelensky",
       "url": "https://www.lemonde.fr/international/live/2026/06/20/en-direct-guerre-en-ukraine-volodymyr-zelensky-declare-avoir-renvoye-en-pologne-la-distinction-qui-lui-a-ete-retiree_6702230_3210.html",
-      "summary": "Le président polonais avait retiré l’ordre de l’Aigle blanc à son homologue ukrainien en raison de sa décision de baptiser une unité militaire du nom de l’Armée insurrectionnelle ukrainienne, une organisation nationaliste de la seconde guerre mondiale tenue pour responsable en Pologne de la mort de plus de 100 000 Polonais.",
-      "image": "https://img.lemde.fr/2026/06/20/811/0/1333/666/644/322/60/0/1d69d15_ftp-1-81jsm5ehdfhl-5384295-01-06.jpg",
+      "summary": "« Ce soir et dans les heures à venir, il est particulièrement important d’être ⁠très attentif aux alertes aériennes », a déclaré le président ukrainien dans son allocution vidéo du soir. « Les Russes se sont préparés à lancer ​une attaque massive. Veillez à votre sécurité », a-t-il ajouté.",
+      "image": "https://img.lemde.fr/2026/06/18/0/0/6511/3255/644/322/60/0/c38cfdf_ftp-1-kqo0yqwkgd8n-5360743-01-06.jpg",
       "published_at": "2026-06-20T17:26:57+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "c4db569a7340"
     },
@@ -131,16 +261,6 @@
       "source": "France Info",
       "category": "International",
       "id": "1a7a812a1de6"
-    },
-    {
-      "title": "EN DIRECT - Canicule : 35 départements en vigilance rouge dimanche, l’alcool interdit sur la voie publique pendant la Fête de la musique",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-60-departements-en-vigilance-orange-pres-de-6-francais-sur-10-concernes-20260620_6HH2KFLD6ZACNLOXT5VGQBGROY/",
-      "summary": "La chaleur continue à s’étendre ce samedi avec 60 départements en vigilance orange, soit 41 millions de personnes, 5 millions de plus que vendredi. Dimanche, plus de la moitié d’entre eux basculeront en vigilance rouge.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-06-20T15:20:32+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "184502b60f8f"
     },
     {
       "title": "Canicule : à Paris, les terrasses sont-elles concernées par l’interdiction d’alcool sur la voie publique ?",
@@ -163,16 +283,6 @@
       "id": "6c6e54d47998"
     },
     {
-      "title": "Températures, durée, impact sanitaire... Les critères retenus pour déclarer un département en vigilance rouge canicule",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/temperatures-duree-impact-sanitaire-les-criteres-retenus-pour-declarer-un-departement-en-vigilance-rouge-canicule_8070755.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le placement d'un département au plus haut niveau d'alerte n'a rien d'anodin. L'Hérault l'a été pour la première fois en 2019. D'autres ont suivi et la vague de chaleur de juin 2026 pourrait rejoindre la liste dès dimanche.",
-      "image": "https://www.franceinfo.fr/pictures/IVqRqdVr3gp85Y3bjLIKLiebytM/0x0:3784x2128/432x243/filters:format(jpg)/2026/06/19/6a35a82e4c4be885991078.jpg",
-      "published_at": "2026-06-20T17:05:32+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "fce54614cc76"
-    },
-    {
       "title": "Jérémy Doku prêt à quitter le Mondial pour la naissance de son enfant : la réaction d’un autre âge de France Pierron",
       "url": "https://www.liberation.fr/sports/football/jeremy-doku-pret-a-quitter-le-mondial-pour-la-naissance-de-son-enfant-la-reaction-dun-autre-age-de-france-pierron-20260620_XDPY3U7IYZBMRB47PA63VOLVTU/",
       "summary": "Au prétexte que la Coupe du monde est un moment exceptionnel et que l’homme ne «sert à rien» lors d’un accouchement, la journaliste de la chaîne l’Equipe a étrillé la star belge, qui entend déserter momentanément si sa compagne devait donner naissance à leur enfant. Irréel.",
@@ -191,116 +301,6 @@
       "source": "Numerama",
       "category": "Culture",
       "id": "4ee8a91b1cba"
-    },
-    {
-      "title": "Poitiers, Brive-la-Gaillarde, Argenteuil… La Fête de la musique annulée dans plusieurs communes en raison de la canicule",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/poitiers-brive-la-gaillarde-argenteuil-la-fete-de-la-musique-annulee-dans-plusieurs-communes-en-raison-de-la-canicule_8069378.html#xtor=RSS-3-[lestitres]",
-      "summary": "Même si aucune \"remise en cause\" nationale de la célébration musicale du 21 juin n'est prévue, plusieurs municipalités ont fait le choix de l'annuler vendredi, à l'image de Poitiers ou de Brive-la-Gaillarde.",
-      "image": "https://www.franceinfo.fr/pictures/aN8zeDgBoxkn1jFHpJrcnV9rEjo/0x53:1024x629/432x243/filters:format(jpg)/2021/06/20/php5WSJbT.jpg",
-      "published_at": "2026-06-20T17:00:56+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "1724472c700c"
-    },
-    {
-      "title": "EN DIRECT, Pays-Bas - Suède : suivez le match de la Coupe du monde de football",
-      "url": "https://www.lemonde.fr/sport/live/2026/06/20/en-direct-pays-bas-suede-suivez-le-match-de-la-coupe-du-monde-de-football_6705317_3242.html",
-      "summary": "Après leur match nul contre le Japon, les Pays-Bas tenteront de remporter leur première rencontre de ce Mondial, samedi. Ils affrontent les Suédois, vainqueurs faciles de la Tunisie.",
-      "image": "https://img.lemde.fr/2026/06/15/0/0/3610/1805/644/322/60/0/19a0d96_ftp-1-nkeyxvaah62x-8f72085a6c8d42b4b8d4691e2274b654-1-5dcf929168554048bf3253dd1e7fd137.jpg",
-      "published_at": "2026-06-20T17:00:10+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "d8ac0c37725b"
-    },
-    {
-      "title": "En Colombie, un second tour de l’élection présidentielle sous le signe de la polarisation",
-      "url": "https://www.lemonde.fr/international/article/2026/06/20/en-colombie-un-second-tour-de-l-election-presidentielle-sous-le-signe-de-la-polarisation_6705316_3210.html",
-      "summary": "Au terme d’une campagne agressive, les Colombiens doivent départager, dimanche 21 juin, le candidat de l’ultradroite, Abelardo de la Espriella, donné favori, et celui de la gauche, Ivan Cepeda, héritier du président sortant.",
-      "image": "https://img.lemde.fr/2026/06/18/960/0/5758/2879/644/322/60/0/1a5a8ba_ftp-1-acfqi2zvezt7-5363962-01-06.jpg",
-      "published_at": "2026-06-20T17:00:06+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "8bd41caff4a2"
-    },
-    {
-      "title": "\"La violence sur les enfants, c'est le génocide du XXIe siècle\", alerte le président de la commission d'enquête sur les violences à Bétharram",
-      "url": "https://www.franceinfo.fr/societe/education/affaire-de-violences-sexuelles-a-notre-dame-de-betharram/la-violence-sur-les-enfants-c-est-le-genocide-du-xxie-siecle-alerte-le-president-de-la-commission-d-enquete-sur-les-violences-a-betharram_8071670.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un rapport sur les mécanismes de violences à Notre-Dame-de-Bétharram et dans d'autres établissements de la congrégation religieuse a été rendu samedi, avec une commission composée de magistrats, psychologues et de juristes.",
-      "image": "https://www.franceinfo.fr/pictures/7JsHq0vWxoa5pq7D3e3XDay5j68/5x0:2779x1560/432x243/filters:format(jpg)/2025/02/27/betarram-67c0dbee901f4999229898.jpg",
-      "published_at": "2026-06-20T16:58:36+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "d614d5234f13"
-    },
-    {
-      "title": "La vigilance rouge canicule décrétée à partir de dimanche midi dans 35 départements, 45 départements seront en orange",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-60-departements-places-en-vigilance-orange-samedi-et-dimanche-jusqu-a-39-degres-attendus-localement_8071175.html#xtor=RSS-3-[lestitres]",
-      "summary": "Une chaleur exceptionnelle va s'installer durant plusieurs jours sur l'Hexagone. Par conséquent, des événements sportifs sont annulés et des mesures sont prises pour la Fête de la musique, comme l'interdiction de l'alcool \"sur la voie publique\" dans les départements en vigilance rouge.",
-      "image": "https://www.franceinfo.fr/pictures/kXYokAKyWpnWGqsfF7r97DqqCE4/0x53:1024x629/432x243/filters:format(jpg)/2026/06/20/6a36a1ff71e56520656946.jpg",
-      "published_at": "2026-06-20T16:54:55+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "68deb8f5ffba"
-    },
-    {
-      "title": "La consommation d'alcool interdite \"sur la voie publique\" pour la Fête de la musique dans les départements en vigilance rouge canicule",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-consommation-d-alcool-interdite-sur-la-voie-publique-pour-la-fete-de-la-musique-dans-les-departements-en-vigilance-rouge-canicule_8071646.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le gouvernement appelle \"à limiter et contrôler la consommation d'alcool afin de préserver les services de secours et de soins\".",
-      "image": "https://www.franceinfo.fr/pictures/1ZJ9zZjjbTyHZDUzDILz64JWpgw/0x53:1024x629/432x243/filters:format(jpg)/2026/06/20/6a36a8bd86e88661791471.jpg",
-      "published_at": "2026-06-20T16:53:31+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "549207685f8e"
-    },
-    {
-      "title": "Pourquoi les Londoniens viennent en masse à Paris pour la Fête de la musique ?",
-      "url": "https://www.liberation.fr/lifestyle/voyages/pourquoi-les-londoniens-viennent-en-masse-a-paris-pour-la-fete-de-la-musique-20260621_IJ5X4VRZSJFWRBG6WAPZMKFLM4/",
-      "summary": "Depuis quelques années, la célébration française du 21 juin, sans équivalent outre-Manche, est prisée des jeunes britanniques grâce au bouche-à-oreille et aux réseaux sociaux comme TikTok. «Libé» en a rencontrés plusieurs d’entre eux.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-06-20T14:41:43+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "1d2ff5486ca0"
-    },
-    {
-      "title": "«Depuis février, c’est l’enfer» : à Dubaï, les travailleurs immigrés paient la facture de la guerre en Iran",
-      "url": "https://www.liberation.fr/international/moyen-orient/depuis-fevrier-cest-lenfer-a-dubai-les-travailleurs-immigres-paient-la-facture-de-la-guerre-en-iran-20260620_72X2BPCCHVCRHMGAWF466EXA34/",
-      "summary": "L’accord conclu entre Washington et Téhéran ne change rien pour la main-d’œuvre asiatique de l’Emirat, qui voit les emplois disparaître avec les touristes. Une fois encore, les migrants du Golfe absorbent le choc d’une crise qu’ils n’ont pas choisie.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-06-20T14:35:54+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "c2fc3795b14d"
-    },
-    {
-      "title": "En Allemagne, la reconnaissance inachevée des victimes oubliées du nazisme",
-      "url": "https://www.liberation.fr/international/europe/en-allemagne-la-reconnaissance-inachevee-des-victimes-oubliees-du-nazisme-20260620_SVIMVR74GBFGPKILEVCRHQI4CM/",
-      "summary": "Berlin inaugure le 24 juin un mémorial dédié aux témoins de Jéhovah assassinés sous le Troisième Reich. Mais le vide mémoriel n’est pas encore comblé : les «asociaux» et les multirécidivistes cherchent encore leur place dans la culture du souvenir.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-20T14:34:37+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "26d3c7e155e9"
-    },
-    {
-      "title": "« La métamorphose de la New School for Social Research est une terrible allégorie de ce que subissent les universités dans les temps sombres où nous vivons »",
-      "url": "https://www.lemonde.fr/idees/article/2026/06/20/la-metamorphose-de-la-new-school-for-social-research-est-une-terrible-allegorie-de-ce-que-subissent-les-universites-dans-les-temps-sombres-ou-nous-vivons_6705315_3232.html",
-      "summary": "Dans une tribune au « Monde », un collectif d’universitaires américains et français s’inquiète des graves attaques que subit ce haut lieu de l’antifascisme intellectuel.",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/ab86f61_upload-1-a5cx556gox5e-frame-1013.jpg",
-      "published_at": "2026-06-20T16:30:02+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "7a3f21f5c15c"
-    },
-    {
-      "title": "«De 5 à 10 euros» à «30 à 50 euros» : le maire de Venise veut augmenter l’accès à la ville pour les touristes à la journée",
-      "url": "https://www.liberation.fr/international/europe/de-5-a-10-euros-a-30-a-50-euros-le-maire-de-venise-veut-augmenter-lacces-a-la-ville-pour-les-touristes-a-la-journee-20260620_D3SYYR4VTZC2DJLNE6FEUDQULM/",
-      "summary": "Récemment élu, Simone Venturini veut décourager les touristes de venir sur certaines périodes de l’année, pour épargner à la ville les nuisances du surtourisme.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-20T14:22:09+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "edf428753782"
     }
   ]
 }
