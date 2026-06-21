@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-06-21T21:22:54.330241+00:00",
+  "generated_at": "2026-06-21T23:24:30.902567+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Colombie : Abelardo de la Espriella, candidat de l’utradroite soutenu par Donald Trump, élu président",
+      "url": "https://www.lemonde.fr/international/article/2026/06/22/colombie-abelardo-de-la-espriella-candidat-de-l-utradroite-soutenu-par-donald-trump-elu-president_6706155_3210.html",
+      "summary": "Ce novice en politique de 47 ans a battu lors du second tour, dimanche, le candidat de gauche, Ivan Cepeda. Avocat et homme d’affaires, il prône une ligne dure face au crime organisé dans un pays marqué par une résurgence de la violence des groupes armés.",
+      "image": "https://img.lemde.fr/2026/06/21/964/0/6598/3299/644/322/60/0/4a754e0_ftp-1-voooq3hiz2ml-81424eda13364a3b82403a84e46f703c-1-c062cce1a3aa4440b1efef724a3fb32a.jpg",
+      "published_at": "2026-06-22T01:04:16+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "356a4ddbad4a"
+    },
+    {
+      "title": "Ramiro Valdés, figure historique de la révolution castriste à Cuba, est mort à 94 ans",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/06/22/ramiro-valdes-figure-historique-de-la-revolution-castriste-a-cuba-est-mort-a-94-ans_6706122_3382.html",
+      "summary": "Il fut le second de Che Guevara et a fondé les redoutables services de renseignement cubains. Personnage avare de mots, mais redouté et incontournable dans le système étatique, il occupa aussi le poste de ministre de l’intérieur pendant les épisodes de forte confrontation avec les Etats-Unis.",
+      "image": "https://img.lemde.fr/2026/06/21/450/0/2048/1024/644/322/60/0/04e7d1c_ftp-1-8jrcerjwkc5r-5396370-01-06.jpg",
+      "published_at": "2026-06-22T00:34:26+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "3f897183be3c"
+    },
+    {
+      "title": "EN DIRECT, guerre au Moyen-Orient : après un message menaçant de Donald Trump, la délégation iranienne quitte le lieu où se déroulaient les discussions en Suisse, mais maintient les pourparlers",
+      "url": "https://www.lemonde.fr/international/live/2026/06/22/en-direct-guerre-au-moyen-orient-apres-un-message-menacant-de-donald-trump-la-delegation-iranienne-quitte-le-lieu-ou-se-deroulaient-les-discussions-en-suisse-mais-maintient-les-pourparlers_6705272_3210.html",
+      "summary": "Un diplomate iranien proche des négociations a affirmé à l’AFP que son pays restait « engagé » dans les discussions avec Washington, alors que le président américain a enjoint plus tôt à Téhéran d’empêcher ses alliés au Liban, en référence au Hezbollah, de « causer des problèmes », sans quoi les Etats-Unis reprendraient leurs frappes sur l’Iran.",
+      "image": "https://img.lemde.fr/2026/06/21/521/0/6324/3162/644/322/60/0/63d166e_ftp-1-ola2r3ktxhbc-bdb74a7966ab4355abde2f6f2e52efd8-0-e19f570ca9004e2ab0a7ab9334002f2c.jpg",
+      "published_at": "2026-06-22T00:19:34+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "2c5729242e44"
+    },
     {
       "title": "L’Espagne se ressaisit, Belgique et Iran dos à dos, Renard n’a pas sauvé la Tunisie… L’actu de la Coupe du monde ce dimanche 21 juin",
       "url": "https://www.liberation.fr/sports/football/lallemagne-vainc-la-malediction-curacao-encore-en-vie-renard-na-pas-sauve-la-tunisie-lactu-de-la-coupe-du-monde-ce-dimanche-21-juin-20260621_QKCDLYRR2VGG3JFCYIFUC56ZFA/",
@@ -31,6 +61,16 @@
       "source": "France Info",
       "category": "International",
       "id": "bb85adbf129c"
+    },
+    {
+      "title": "Coupe du monde 2026 : « Mon objectif, c’est d’emmener la France le plus loin possible et de gagner le Mondial », affirme Kylian Mbappé",
+      "url": "https://www.lemonde.fr/sport/article/2026/06/21/coupe-du-monde-2026-mon-objectif-c-est-d-emmener-la-france-le-plus-loin-possible-et-de-gagner-le-mondial-affirme-kylian-mbappe_6706121_3242.html",
+      "summary": "Le capitaine des Bleus, qui est devenu le meilleur buteur des Tricolores, lors du premier match face au Sénégal, entend continuer à « écrire l’histoire », a-t-il déclaré, dimanche, à la veille du match face à l’Irak, à Philadelphie (Pennsylvanie).",
+      "image": "https://img.lemde.fr/2026/06/21/330/0/3961/1980/644/322/60/0/6c5ddef_ftp-1-9csppk8mfwcz-5397642-01-06.jpg",
+      "published_at": "2026-06-21T22:42:36+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "46b965f25531"
     },
     {
       "title": "L'Espagne se rassure en écrasant l'Arabie saoudite et se rapproche des seizièmes de finale de la Coupe du monde 2026",
@@ -183,16 +223,6 @@
       "id": "184502b60f8f"
     },
     {
-      "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran appelle les Etats-Unis à « peser leurs mots » après un message menaçant de Donald Trump",
-      "url": "https://www.lemonde.fr/international/live/2026/06/21/en-direct-guerre-au-moyen-orient-l-iran-appelle-les-etats-unis-a-peser-leurs-mots-apres-un-message-menacant-de-donald-trump_6705272_3210.html",
-      "summary": "Le président américain avait enjoint plus tôt à Téhéran d’empêcher ses alliés au Liban, en référence au Hezbollah, de « causer des problèmes », sans quoi les Etats-Unis reprendraient leurs frappes sur l’Iran. Des déclarations faites peu après l’ouverture des pourparlers, en Suisse, entre l’Iran et les Etats-Unis sous médiation pakistanaise et qatarie.",
-      "image": "https://img.lemde.fr/2026/06/20/165/1910/5797/2899/644/322/60/0/472bc6c_ftp-1-halxx7uzimsu-b462e83481b14a0e97eeffe9da682f7a-0-db8280036f774e2582bb93c7080b1a2d.jpg",
-      "published_at": "2026-06-21T19:54:25+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "98e44ec8ccac"
-    },
-    {
       "title": "Keir Starmer, en butte à des rumeurs de démission au Royaume-Uni, multiplie les consultations",
       "url": "https://www.lemonde.fr/international/article/2026/06/21/keir-starmer-en-butte-a-des-rumeurs-de-demission-au-royaume-uni-multiplie-les-consultations_6706118_3210.html",
       "summary": "Le ministre du commerce britannique, Peter Kyle, a déclaré, dimanche, que le premier ministre, miné par l’impopularité, « prenait le temps de réfléchir aux réalités politiques, aux défis et aux possibilités auxquels il est confronté ». Donald Trump a, lui, pris pour acquis une démission du dirigeant travailliste, et lui a souhaité « le meilleur ».",
@@ -263,26 +293,6 @@
       "id": "571670663614"
     },
     {
-      "title": "« Avec l’“affaire Etienne Klein”, les exigences d’intégrité scientifiques prennent le dessus sur la notoriété »",
-      "url": "https://www.lemonde.fr/idees/article/2026/06/21/avec-l-affaire-etienne-klein-les-exigences-d-integrite-scientifiques-prennent-le-dessus-sur-la-notoriete_6706115_3232.html",
-      "summary": "Dans une tribune au « Monde », le directeur de recherche au CNRS Olivier Leclerc réagit à la décision de l’université Paris Cité de retirer son doctorat au physicien en raison de la présence de nombreux passages plagiés.",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/eaef2a1_upload-1-rxhw2li2wx3u-frame-911.jpg",
-      "published_at": "2026-06-21T19:00:11+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "5792f07ceae5"
-    },
-    {
-      "title": "EN DIRECT, Belgique-Iran : réduits à dix, les Belges concèdent un nouveau match nul face à des Iraniens portés par les exploits de leur gardien",
-      "url": "https://www.lemonde.fr/sport/live/2026/06/21/en-direct-belgique-iran-suivez-le-match-de-la-coupe-du-monde-de-football_6706114_3242.html",
-      "summary": "Déjà tenus en échec par les Egyptiens lors de leur premier match, les Belges ont été incapables, dimanche, de vaincre des Iraniens très bien en place (0-0). La dernière journée de leur poule s’annonce passionnante.",
-      "image": "https://img.lemde.fr/2026/06/21/209/0/2505/1252/644/322/60/0/92c0fd5_ftp-1-s3coajdiwzrm-c41cacbba71949258697f5739a52a45c-1-152ed14261b24f9ebcd377af51014c12.jpg",
-      "published_at": "2026-06-21T19:00:07+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "e5a2aa2cab8c"
-    },
-    {
       "title": "Ce qu’il faut retenir de l’actualité du week-end des 20 et 21 juin",
       "url": "https://www.lemonde.fr/les-decodeurs/article/2026/06/21/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-20-et-21-juin_6706116_4355770.html",
       "summary": "Vous n’avez pas suivi l’actualité samedi 20 et dimanche 21 juin ? Voici ce qui s’est passé pendant ces quarante-huit dernières heures.",
@@ -291,16 +301,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "486b8e0d3969"
-    },
-    {
-      "title": "La SNCF recommande aux personnes \"vulnérables\" d'éviter de prendre le train pendant la canicule",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-sncf-recommande-aux-personnes-vulnerables-d-eviter-de-prendre-le-train-pendant-la-canicule_8072912.html#xtor=RSS-3-[lestitres]",
-      "summary": "La compagnie a annoncé la suppression de 71 Intercités depuis vendredi et jusqu'à lundi, en prévention de pannes de climatisation. Son PDG, Jean Castex, a ajouté que 3 500 agents surveillaient le réseau jour et nuit.",
-      "image": "https://www.franceinfo.fr/pictures/2AyPNc3cREHbGMXZyJH6Ln8PegI/0x433:4624x3034/432x243/filters:format(jpg)/2026/06/21/6a3813acc2a1b125163724.jpg",
-      "published_at": "2026-06-21T18:51:49+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "e7293c7d1443"
     }
   ]
 }
