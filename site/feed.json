@@ -1,9 +1,169 @@
 {
-  "generated_at": "2026-06-26T21:25:44.189741+00:00",
+  "generated_at": "2026-06-26T23:16:12.063007+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Mondial 2026 : les Bleus en terminent en beauté contre la Norvège avec un triplé de Dembélé",
+      "title": "Le Burkina Faso rompt avec la France, après l’adoption d’une résolution critique contre la junte au Parlement européen",
+      "url": "https://www.lemonde.fr/afrique/article/2026/06/27/le-burkina-faso-rompt-avec-la-france-apres-l-adoption-d-une-resolution-critique-contre-la-junte-au-parlement-europeen_6715923_3212.html",
+      "summary": "Le texte adopté le 18 juin par les députés à Bruxelles était porté par Christophe Gomart, directeur du renseignement militaire français jusqu’en 2017. Selon les informations du « Monde », les autorités burkinabées ont fixé à la France un délai de sept jours, à compter du 26 juin, pour fermer son ambassade à Ouagadougou.",
+      "image": "https://img.lemde.fr/2026/06/26/300/0/3600/1800/644/322/60/0/3bcb473_ftp-1-xvtwh7nfathz-5453825-01-06.jpg",
+      "published_at": "2026-06-27T01:08:40+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "dc9b80c59cec"
+    },
+    {
+      "title": "Mondial 2026 : face à la Norvège, la fureur d’Ousmane Dembélé",
+      "url": "https://www.liberation.fr/sports/football/mondial-2026-face-a-la-norvege-la-fureur-dousmane-dembele-20260627_TOJES7CRUFCURCMMRK7KMRFYKU/",
+      "summary": "Dans un élan de «seul contre tous», l’attaquant parisien a peut-être trouvé l’énergie d’exister plus fort que n’importe lequel de ses coéquipiers à Foxborough, vendredi. Puisse ce sentiment de révolte le porter loin.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-06-26T23:03:50+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "c1658b782f71"
+    },
+    {
+      "title": "En Afrique du Sud, 15 000 Malawites ont quitté le pays avant des manifestations anti-immigrés",
+      "url": "https://www.lemonde.fr/afrique/article/2026/06/27/afrique-du-sud-15-000-malawites-ont-quitte-le-pays-avant-des-manifestations-anti-immigres_6715922_3212.html",
+      "summary": "Des violences xénophobes sont redoutées lors de rassemblements prévus la semaine prochaine. Des groupes d’initiative citoyenne ont donné jusqu’au 30 juin aux ressortissants étrangers en situation irrégulière pour partir.",
+      "image": "https://img.lemde.fr/2026/06/26/657/0/4200/2100/644/322/60/0/25b8580_ftp-1-cp68vykwdebw-5451600-01-06.jpg",
+      "published_at": "2026-06-27T00:41:29+02:00",
+      "source": "Le Monde Inter",
+      "category": "Société",
+      "id": "3dd658422b9d"
+    },
+    {
+      "title": "Immeubles détruits, aéroport effondré et recherche des survivants... Le Venezuela sous le choc après un double séisme meurtrier",
+      "url": "https://www.franceinfo.fr/monde/venezuela/en-images-immeubles-detruits-aeroport-effondre-et-recherche-des-survivants-le-venezuela-sous-le-choc-apres-un-double-seisme-meurtrier_8079023.html#xtor=RSS-3-[lestitres]",
+      "summary": "Au moins 920 personnes ont été tuées dans une double secousse de magnitude 7,2 et 7,5 qui s'est produite mercredi, selon un bilan officiel encore provisoire.",
+      "image": "https://www.franceinfo.fr/pictures/h3NBu_0NLr-GE-uiQGjsK76m-nc/0x87:1024x663/432x243/filters:format(jpg)/2026/06/25/6a3d0bc15184f023000733.jpg",
+      "published_at": "2026-06-27T00:26:20+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "b51f26008b30"
+    },
+    {
+      "title": "Le double séisme au Venezuela a fait au moins 920 morts et 50 000 personnes portées disparues",
+      "url": "https://www.franceinfo.fr/monde/venezuela/le-double-seisme-au-venezuela-a-fait-au-moins-920-morts-et-50-000-personnes-portees-disparues_8081921.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le nombre de morts dans les séismes qui ont frappé le Venezuela est passé à 920 vendredi, a annoncé le président de l'Assemblée nationale, Jorge Rodriguez.",
+      "image": "https://www.franceinfo.fr/pictures/uJkhz4811uHaokLGkVuT9QO4p7A/0x53:1024x629/432x243/filters:format(jpg)/2026/06/27/6a3efad114d92596983542.jpg",
+      "published_at": "2026-06-27T00:20:47+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "2429869adc70"
+    },
+    {
+      "title": "\"Canicule, le grand basculement\" : regardez le documentaire de franceinfo dédié à l'épisode caniculaire exceptionnel que subit la France",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-le-grand-basculement-regardez-le-documentaire-de-franceinfo-dedie-a-l-episode-caniculaire-exceptionnel-que-subit-la-france_8080664.html#xtor=RSS-3-[lestitres]",
+      "summary": "Depuis une semaine, les températures battent des records dans l'Hexagone et vont jusqu'à mettre le pays à l'arrêt. Franceinfo interroge cette \"étrange défaite\" climatique face à un épisode pourtant prévisible.",
+      "image": "https://www.franceinfo.fr/pictures/681wY7k0M5PN04Z73jbIVJFXpRQ/0x312:6000x3687/432x243/filters:format(jpg)/2026/06/26/6a3e497d6c6de226482736.jpg",
+      "published_at": "2026-06-27T00:05:14+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "5611514ce953"
+    },
+    {
+      "title": "Fonderie de Bretagne, reprise par Europlasma, va demander son placement en redressement judiciaire",
+      "url": "https://www.franceinfo.fr/economie/industrie/fonderie-de-bretagne-reprise-par-europlasma-va-demander-son-placement-en-redressement-judiciaire_8081918.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le groupe basé dans les Landes avait repris en avril 2025 la Fonderie de Bretagne, qui produisait des pièces en fonte pour les suspensions et les échappements.",
+      "image": "https://www.franceinfo.fr/pictures/409JdvHynDdxVlt8CMYIg6KmbWo/0x53:1024x629/432x243/filters:format(jpg)/2026/06/27/6a3ef69c1c35a466712254.jpg",
+      "published_at": "2026-06-27T00:02:31+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "65ffd2a52405"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : Israël et le Liban ont signé un accord-cadre pour \"une paix et une sécurité durables\", annoncent les Etats-Unis",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-israel-et-le-liban-ont-signe-un-accord-cadre-pour-une-paix-et-une-securite-durables-annoncent-les-etats-unis_8081732.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Nous sommes heureux d'annoncer un accord-cadre entre le gouvernement souverain du Liban et le gouvernement d'Israël, avec la médiation et le soutien des Etats-Unis\", a déclaré vendredi Marco Rubio, chef de la diplomatie américaine.",
+      "image": "https://www.franceinfo.fr/pictures/mM1UlUzW3yAS8z89PDpbebaazx4/0x53:1024x629/432x243/filters:format(jpg)/2026/06/26/6a3ebf9ade840198173031.jpg",
+      "published_at": "2026-06-26T23:53:00+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "767f5970196d"
+    },
+    {
+      "title": "Grâce à un magnifique triplé d'Ousmane Dembélé, la France éteint la Norvège et termine première de son groupe de la Coupe du monde 2026",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/grace-a-un-magnifique-triple-d-ousmane-dembele-la-france-eteint-la-norvege-et-termine-premiere-de-son-groupe-de-la-coupe-du-monde-2026_8081804.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Ballon d'Or 2025 a inscrit un triplé face à la Norvège, vendredi, pour offrir la victoire aux Bleus, qui resteront à New York pour leur seizième de finale, mardi.",
+      "image": "https://www.franceinfo.fr/pictures/yOxMQ5QGVi-w0cimIqDU-6Ijics/0x0:3041x1710/432x243/filters:format(jpg)/2026/06/26/6a3ef4865069a727719722.jpg",
+      "published_at": "2026-06-26T23:52:29+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "fa03945deacc"
+    },
+    {
+      "title": "EDF annonce la cession de ses activités EDF Power Solutions aux Etats-Unis et au Canada au fonds d’investissement KKR",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/26/edf-annonce-la-cession-de-ses-activites-edf-power-solutions-aux-etats-unis-et-au-canada-au-fonds-d-investissement-kkr_6715920_3234.html",
+      "summary": "L’entreprise n’a pas précisé le montant de la transaction. EDF Power Solutions développe, construit et exploite principalement des centrales électriques renouvelables et des installations de stockage.",
+      "image": "https://img.lemde.fr/2026/06/26/459/0/5509/2754/644/322/60/0/f20f419_ftp-1-emy5wffxfpfs-5452209-01-06.jpg",
+      "published_at": "2026-06-26T23:45:01+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "67ff7379f2b3"
+    },
+    {
+      "title": "Le Burkina Faso annonce \"rompre ses relations diplomatiques\" avec la France",
+      "url": "https://www.franceinfo.fr/monde/afrique/burkina-faso/le-burkina-faso-annonce-rompre-ses-relations-diplomatiques-avec-la-france_8081822.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le pays accuse la France d'\"activisme incessant\" contre ses intérêts, après plusieurs années de fortes tensions entre les deux pays.",
+      "image": "https://www.franceinfo.fr/pictures/Hv-J4N0Rs5VyuikpF8Mv_geWWOg/0x53:1024x629/432x243/filters:format(jpg)/2026/06/26/6a3ed5ec40c2e249604571.jpg",
+      "published_at": "2026-06-26T23:42:14+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "9f6d853967db"
+    },
+    {
+      "title": "Le triplé de Dembélé illumine France-Norvège",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/le-triple-de-dembele-illumine-france-norvege_8081906.html#xtor=RSS-3-[lestitres]",
+      "summary": "4-1 ! Les Bleus ont découvert le stade de Boston et marqué les esprits, notamment grâce à un triplé d'Ousmane Dembélé contre la Norvège. Malgré l’absence de leur entraîneur Didier Deschamps, les Bleus ont été entraînés par Guy Stephan vers une victoire éclatante, les amenant à la tête du groupe I.",
+      "image": "https://www.franceinfo.fr/pictures/_Pzta9_cHQFEP1xv-6BdGAOgu9k/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/06/26/6a3ef1c9ba019299377026.jpg",
+      "published_at": "2026-06-26T23:41:03+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "fb04d0c91524"
+    },
+    {
+      "title": "Un homme meurt noyé dans le canal Saint-Martin à Paris",
+      "url": "https://www.franceinfo.fr/france/ile-de-france/paris/paris/un-homme-meurt-noye-dans-le-canal-saint-martin-a-paris_8081867.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cet homme, dont l'âge n'a pas été décliné, se trouvait \"en dehors de l'espace surveillé et des horaires d'ouverture de la baignade\", a écrit sur le réseau social X le maire de Paris Emmanuel Grégoire.",
+      "image": "https://www.franceinfo.fr/pictures/4UiVvGvGEn6TOXs-VBlP2IBj-UQ/0x53:1024x629/432x243/filters:format(jpg)/2026/06/26/6a3ef008a939e200282933.jpg",
+      "published_at": "2026-06-26T23:33:10+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "95af49bf54b0"
+    },
+    {
+      "title": "OpenAI reporte son introduction en Bourse, sur fond de chute de SpaceX",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/26/openai-reporte-son-introduction-en-bourse-sur-fond-de-chute-de-spacex_6715919_3234.html",
+      "summary": "La start-up américaine d’intelligence artificielle aurait repoussé son entrée à Wall Street à 2027, selon le « New York Times ». Comme Anthropic, la firme voit par ailleurs son développement entravé par les restrictions imposées par la Maison Blanche.",
+      "image": "https://img.lemde.fr/2026/06/26/294/0/6000/3000/644/322/60/0/add93d1_ftp-1-ltges4yfolfg-5450363-01-06.jpg",
+      "published_at": "2026-06-26T23:30:10+02:00",
+      "source": "Le Monde",
+      "category": "Tech",
+      "id": "fb303283ccf2"
+    },
+    {
+      "title": "Coupe du monde 2026 : le Sénégal bat facilement l'Irak et peut croire à une qualification en seizièmes de finale",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-le-senegal-bat-facilement-l-irak-et-peut-croire-a-une-qualification-en-seiziemes-de-finale_8081885.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les Lions de la Teranga, qui devaient absolument s'imposer pour maintenir un espoir de qualification, ont disposé sans trembler de l'Irak, qui termine dernier du groupe I.",
+      "image": "https://www.franceinfo.fr/pictures/kk7sBA0GtL94eQmxYVtWjxYI3p0/0x0:4775x2685/432x243/filters:format(jpg)/2026/06/26/6a3eea45f1bf3935728825.jpg",
+      "published_at": "2026-06-26T23:29:49+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "5f547da1e6f6"
+    },
+    {
+      "title": "Coupe du monde 2026 : Dembélé étincelant, Mbappé altruiste, le réveil de Maignan... Les notes des Bleus face à la Norvège",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-dembele-etincelant-mbappe-altruiste-le-reveil-de-maignan-les-notes-des-bleus-face-a-la-norvege_8081246.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Ballon d'or a éclaboussé le match face à la Norvège de son talent, inscrivant un triplé, vendredi, lors du succès tricolore (4-1).",
+      "image": "https://www.franceinfo.fr/pictures/qQAZdxqpkXX3lU-761o21Mdoc3I/0x0:1280x720/432x243/filters:format(jpg)/2026/06/26/6a3ee7bbeaa9c980858122.png",
+      "published_at": "2026-06-26T23:22:51+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "c3702fb75fc0"
+    },
+    {
+      "title": "Mondial 2026 : les Bleus terminent en beauté contre la Norvège avec un triplé de Dembélé",
       "url": "https://www.liberation.fr/sports/football/mondial-2026-les-bleus-en-terminent-en-beaute-contre-la-norvege-avec-un-triple-de-dembele-20260626_OIR5KCHEEJAENKAESPW3PEXMS4/",
       "summary": "C’était un match sans enjeu et pourtant il a été embelli, avec un ingrédient qu’on ne voit pas toujours en pareille situation : du plaisir à jouer. Le seizième de finale est pour mardi.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
@@ -35,32 +195,32 @@
     {
       "title": "Présidentielle 2027 : les militants socialistes approuvent largement le projet du parti",
       "url": "https://www.lemonde.fr/politique/article/2026/06/26/presidentielle-2027-les-militants-socialistes-approuvent-largement-le-projet-du-parti_6715917_823448.html",
-      "summary": "Le projet, rédigé sous l’égide de l’eurodéputée Chloé Ridel, nourri de contributions de citoyens, de parlementaires et d’élus, avait été présenté en avril, avant d’être amendé par les militants. Il a été approuvé à 83 %.",
+      "summary": "Le projet, rédigé sous l’égide de l’eurodéputée Chloé Ridel, nourri de contributions de citoyens, de parlementaires et d’élus, avait été présenté en avril, avant d’être amendé par les militants. Il a été adopté par 83 % des votants.",
       "image": "https://img.lemde.fr/2026/06/26/682/0/8182/4091/644/322/60/0/57450a2_ftp-1-0rupcxz9s04l-5449655-01-06.jpg",
-      "published_at": "2026-06-26T23:07:05+02:00",
+      "published_at": "2026-06-26T23:07:03+02:00",
       "source": "Le Monde Politique",
       "category": "Politique",
       "id": "5d232ff1c22d"
-    },
-    {
-      "title": "Grâce à un magnifique triplé d'Ousmane Dembélé, la France éteint la Norvège et termine première de son groupe de la Coupe du monde 2026",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/grace-a-un-magnifique-triple-d-ousmane-dembele-la-france-eteint-la-norvege-et-termine-premiere-de-son-groupe-de-la-coupe-du-monde-2026_8081804.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Ballon d'Or 2025 a inscrit un triplé face à la Norvège, vendredi, pour offrir la victoire aux Bleus, qui resteront à New York pour leur seizième de finale, mardi.",
-      "image": "https://www.franceinfo.fr/pictures/I_Is-ykXnEYJQaQsxyuoQfGBtCs/0x0:2087x1173/432x243/filters:format(jpg)/2026/06/26/6a3ee4bf07265793307362.jpg",
-      "published_at": "2026-06-26T23:02:04+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "fa03945deacc"
     },
     {
       "title": "Présidentielle 2027 : dans l’Indre, François Ruffin se lance à la conquête des parrainages des maires",
       "url": "https://www.lemonde.fr/politique/article/2026/06/26/presidentielle-2027-dans-l-indre-francois-ruffin-se-lance-a-la-conquete-des-parrainages-des-maires_6715915_823448.html",
       "summary": "Après Lyon, le député de la Somme a passé son « entretien d’embauche » auprès d’élus locaux afin de redynamiser sa campagne. S’il a été accueilli avec bienveillance, la question de la primaire et de la pertinence de sa candidature était néanmoins sur toutes les lèvres.",
       "image": "https://img.lemde.fr/2026/06/26/30/0/6000/3000/644/322/60/0/3892ca6_upload-1-fcrce8s8g7ba-cbi1320033.jpg",
-      "published_at": "2026-06-26T23:01:44+02:00",
-      "source": "Le Monde Politique",
+      "published_at": "2026-06-26T23:01:43+02:00",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "ec93a0d6e159"
+    },
+    {
+      "title": "Canicule : les artisans débordés face aux demandes d'isolation des logements",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-les-artisans-debordes-face-aux-demandes-d-isolation-des-logements_8081792.html#xtor=RSS-3-[lestitres]",
+      "summary": "De nombreux artisans peinent à répondre à toutes les demandes d’interventions. En France, 43% des logements ne sont pas équipés de volets, qui sont pourtant très utiles en temps de fortes chaleurs...",
+      "image": "https://www.franceinfo.fr/pictures/u11uIv9ZiiqPMoJjngH6PdSpNdM/56x0:1521x824/432x243/filters:format(jpg)/2026/06/26/6a3ecd5a8e630890820216.png",
+      "published_at": "2026-06-26T22:58:23+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "4309b7d978b7"
     },
     {
       "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que « la justice pour l’Ukraine signifie également la justice pour le peuple tatar de Crimée »",
@@ -87,20 +247,10 @@
       "url": "https://www.lemonde.fr/societe/article/2026/06/26/au-defi-de-la-canicule-les-urgences-de-metz-thionville-s-attendent-a-un-week-end-tendu-desormais-nous-recevons-des-victimes-directes-de-coups-de-chaleur_6715913_3224.html",
       "summary": "Depuis trois jours, les passages aux urgences du centre hospitalier régional Metz-Thionville ont augmenté de 20 % et les appels vers le centre de régulation de 40 %.",
       "image": "https://img.lemde.fr/2026/06/26/750/0/5000/2500/644/322/60/0/a013133_upload-1-6sq1umcsi44f-kzihnioglu-soc-metz-hopital-26062026-111.JPG",
-      "published_at": "2026-06-26T22:41:01+02:00",
+      "published_at": "2026-06-26T22:41:00+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "d6bbc6868b6a"
-    },
-    {
-      "title": "Lionel Messi, Kylian Mbappé... Suivez l'intense lutte pour le statut de meilleur buteur de la Coupe du monde 2026 et de toute l'histoire de la compétition",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/infographie-lionel-messi-kylian-mbappe-suivez-l-intense-lutte-pour-le-statut-de-meilleur-buteur-de-la-coupe-du-monde-2026-et-de-toute-l-histoire-de-la-competition_8075294.html#xtor=RSS-3-[lestitres]",
-      "summary": "Qui de Lionel Messi ou de Kylian Mbappé parviendra à prendre l'ascendant sur l'autre à l'issue de cette Coupe du monde 2026 ? A moins qu'un troisième homme ne décroche le statut de meilleur buteur de cette compétition ?",
-      "image": "https://www.franceinfo.fr/pictures/CDBVC-W21L3jiUFmABLscxRQdsk/0x49:3500x2018/432x243/filters:format(jpg)/2026/06/23/6a3a53e108051866463745.jpg",
-      "published_at": "2026-06-26T22:28:40+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "9a1c48342b86"
     },
     {
       "title": "Dans les Hauts-de-Seine, des élèves ont passé leur oral de français du bac dans un parking souterrain à cause de la canicule",
@@ -111,6 +261,16 @@
       "source": "France Info",
       "category": "Société",
       "id": "ceaef0247d89"
+    },
+    {
+      "title": "La Fonderie de Bretagne, reprise par Europlasma, va demander son placement en redressement judiciaire",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/26/la-fonderie-de-bretagne-reprise-par-europlasma-va-demander-son-placement-en-redressement-judiciaire_6715912_3234.html",
+      "summary": "Le groupe Europlasma avait repris en avril 2025 le site breton, a enregistré une perte nette de 35,6 millions d’euros en 2025, plus de deux fois supérieure à celle de l’exercice précédent.",
+      "image": "https://img.lemde.fr/2025/02/04/463/0/5556/2778/644/322/60/0/8a123fe_ftp-import-images-1-svzmqm6x0i3p-2025-02-04t151529z-1712785530-rc2qncae1wyu-rtrmadp-3-renault-france-fonderie-de-bretagne.JPG",
+      "published_at": "2026-06-26T22:06:42+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "222ff2f2a4e4"
     },
     {
       "title": "Enquête ouverte après des signalements sur des soupçons de trafic d’enfants sur Vinted",
@@ -141,166 +301,6 @@
       "source": "Libération",
       "category": "Sport",
       "id": "a157a92111df"
-    },
-    {
-      "title": "Alerte canicule : 62 arrêtés d'interdiction d'événements sportifs ont été pris en raison de la canicule, selon la ministre des Sports",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-les-deux-tiers-de-la-france-encore-frappes-par-la-vague-de-chaleur-vendredi-13-nouveaux-departements-retrogrades-en-vigilance-samedi-matin_8080301.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cette annonce fait partie du plan annoncé jeudi par le Premier ministre dans un courrier aux maires, a précisé Matignon vendredi.",
-      "image": "https://www.franceinfo.fr/pictures/Yzj58ZkiWi2jlSn3SFZtNq5uDwQ/0x53:1024x629/432x243/filters:format(jpg)/2026/06/26/6a3ed919427ef472632741.jpg",
-      "published_at": "2026-06-26T21:55:17+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "43d79df93b6c"
-    },
-    {
-      "title": "EN DIRECT, France-Norvège : les Bleus surclassent les Norvégiens grâce à un triplé de Dembélé et s’assurent la première place de leur groupe",
-      "url": "https://www.lemonde.fr/sport/live/2026/06/26/en-direct-france-norvege-les-bleus-devant-grace-a-un-triple-d-ousmane-dembele_6715879_3242.html",
-      "summary": "Kylian Mbappé et ses coéquipiers ont largement dominé, vendredi, les Lions norvégiens (4-1), qui se sont privés d’Erling Haaland. Les Bleus disputeront leur seizième de finale de la Coupe du monde, mardi à 23 heures.",
-      "image": "https://img.lemde.fr/2026/06/26/234/0/4296/2148/644/322/60/0/a28e27e_ftp-1-d1x8i0ygmvyf-39775cd22cf04b5d85022717e959eae8-0-5c71852dac8a4e808a7a8bf83b98b1df.jpg",
-      "published_at": "2026-06-26T21:52:37+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "614fbfc39716"
-    },
-    {
-      "title": "Le Burkina Faso annonce \"rompre ses relations diplomatiques\" avec la France",
-      "url": "https://www.franceinfo.fr/monde/afrique/burkina-faso/le-burkina-faso-annonce-rompre-ses-relations-diplomatiques-avec-la-france_8081822.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le pays accuse la France d'\"activisme incessant\" contre ses intérêts, après plusieurs années de fortes tensions entre les deux pays.",
-      "image": "https://www.franceinfo.fr/pictures/Hv-J4N0Rs5VyuikpF8Mv_geWWOg/0x53:1024x629/432x243/filters:format(jpg)/2026/06/26/6a3ed5ec40c2e249604571.jpg",
-      "published_at": "2026-06-26T21:43:13+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "9f6d853967db"
-    },
-    {
-      "title": "Le temps révolu des gentils contre les méchants, par Mathieu Lindon",
-      "url": "https://www.liberation.fr/idees-et-debats/opinions/le-temps-revolu-des-gentils-contre-les-mechants-par-mathieu-lindon-20260626_Z4NPUF7IE5HCPEC5IURL377FSQ/",
-      "summary": "Iran, Hamas, Nétanyahou, Trump, les braves gens ne courent pas les rues.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-26T19:32:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "9b3c956e50ff"
-    },
-    {
-      "title": "Gestion de la canicule : ce n’est que le reflet d’une absence de cap d’Emmanuel Macron",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/gestion-de-la-canicule-ce-nest-que-le-reflet-dune-absence-de-cap-demmanuel-macron-20260626_YGWHLL6W4JCDHFTVHHVMQBFUWI/",
-      "summary": "Il est normal que les Français demandent des comptes à leurs gouvernants quand la crise frappe. Il est moins normal que l’exécutif se défende mal, faute de conviction pour mener une politique de lutte contre le réchauffement climatique.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-26T19:26:31+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "c011a9e755e9"
-    },
-    {
-      "title": "La femme de Jérôme Barella, soupçonné du meurtre de Lyhanna, a déposé plainte pour viol et violences conjugales",
-      "url": "https://www.liberation.fr/societe/police-justice/la-femme-de-jerome-barella-soupconne-du-meurtre-de-lyhanna-a-depose-plainte-pour-viol-et-violences-conjugales-20260626_AKALHIILQNHO3K3XGP44FUJXOA/",
-      "summary": "La femme et mère de deux filles de Jérôme Barella, âgées de sept et 11 ans, a été entendue par les gendarmes le 18 juin.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-06-26T19:22:23+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "5996bf433b38"
-    },
-    {
-      "title": "Le Burkina Faso annonce rompre ses relations diplomatiques avec la France",
-      "url": "https://www.lemonde.fr/afrique/article/2026/06/26/le-burkina-faso-annonce-rompre-ses-relations-diplomatiques-avec-la-france_6715911_3212.html",
-      "summary": "Le régime militaire d’Ouagadougou accuse Paris d’« activisme incessant » contre ses intérêts, après plusieurs années de fortes tensions entre les deux pays.",
-      "image": "https://img.lemde.fr/2026/06/26/73/0/7962/3981/644/322/60/0/d4b635f_upload-1-f1evx6cjhlgs-000-468c99v.jpg",
-      "published_at": "2026-06-26T21:14:34+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "9f726d4033bf"
-    },
-    {
-      "title": "Donald Trump menace de droits de douane de 100% les pays européens mettant en place une taxe sur les services numériques",
-      "url": "https://www.franceinfo.fr/monde/usa/donald-trump-menace-de-droits-de-douane-de-100-les-pays-europeens-mettant-en-place-une-taxe-sur-les-services-numeriques_8081771.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'Union européenne a assuré vendredi qu'elle réagirait \"rapidement et avec détermination\" si Donald Trump venait à mettre ses nouvelles menaces de droits de douane à exécution.",
-      "image": "https://www.franceinfo.fr/pictures/sXfXZhQ4naQ9aaw60f63gT5UG8E/0x53:1024x629/432x243/filters:format(jpg)/2026/06/26/6a3ecebc65aa6255978202.jpg",
-      "published_at": "2026-06-26T21:11:37+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "b963e34b1444"
-    },
-    {
-      "title": "Les médias chinois muets des heures après le crash d’un avion biplace contre la plus haute tour de Pékin",
-      "url": "https://www.lemonde.fr/international/article/2026/06/26/les-medias-chinois-muets-des-heures-apres-le-crash-d-un-avion-biplace-contre-la-plus-haute-tour-de-pekin_6715910_3210.html",
-      "summary": "L’appareil a percuté l’immeuble en pleine heure de pointe, pour des raisons encore inconnues. Strictement contrôlée par l’Etat, la presse ne s’en était pas fait l’écho vendredi, alors que les locaux de la télévision nationale se situent tout près de la tour.",
-      "image": "https://img.lemde.fr/2026/06/26/143/0/2000/1000/644/322/60/0/ae0890a_ftp-1-dn5smfkbjd11-8cbfbd8282b341fe9d8a1d9fae82c62f-5-962cf511fb074d21801d365bfad6a1ac.jpg",
-      "published_at": "2026-06-26T21:04:24+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "8336382b9c34"
-    },
-    {
-      "title": "Inadaptation des bâtiments publics à la canicule : Etat et élus locaux se refilent la patate chaude",
-      "url": "https://www.liberation.fr/politique/inadaptation-des-batiments-publics-etat-et-elus-locaux-se-refilent-la-patate-chaude-20260626_LLY4CE2HG5GJPMSHMI7VZVCEI4/",
-      "summary": "Alors que des responsables nationaux comme le Premier ministre ont renvoyé à l’échelon local la responsabilité d’adapter le bâti aux canicules, les concernés jugent leurs moyens trop faibles pour faire face.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-26T18:59:24+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "9b7c8732ddaa"
-    },
-    {
-      "title": "Séismes au Venezuela : un nouveau bilan fait état de 920 morts, plus de 50 000 personnes sont portées disparues, annonce l'ONU",
-      "url": "https://www.franceinfo.fr/monde/venezuela/direct-seismes-au-venezuela-le-dernier-bilan-fait-etat-d-au-moins-589-morts-annonce-la-presidente-par-interim_8081084.html#xtor=RSS-3-[lestitres]",
-      "summary": "Des équipes de sauvetage venues d'une quinzaine de pays sont en cours de déploiement pour participer aux recherches de survivants.",
-      "image": "https://www.franceinfo.fr/pictures/3Hkdb4UXptI3--HmBHk-GR5GH7c/0x322:6192x3805/432x243/filters:format(jpg)/2026/06/26/6a3e73756dcdb846600055.jpg",
-      "published_at": "2026-06-26T20:55:27+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "89104f7dc8c3"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : Israël et le Liban ont signé un accord-cadre pour \"une paix et une sécurité durables\", annoncent les Etats-Unis",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-israel-et-le-liban-ont-signe-un-accord-cadre-pour-une-paix-et-une-securite-durables-annoncent-les-etats-unis_8081732.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Nous sommes heureux d'annoncer un accord-cadre entre le gouvernement souverain du Liban et le gouvernement d'Israël, avec la médiation et le soutien des Etats-Unis\", a déclaré vendredi Marco Rubio, chef de la diplomatie américaine.",
-      "image": "https://www.franceinfo.fr/pictures/mM1UlUzW3yAS8z89PDpbebaazx4/0x53:1024x629/432x243/filters:format(jpg)/2026/06/26/6a3ebf9ade840198173031.jpg",
-      "published_at": "2026-06-26T20:52:33+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "767f5970196d"
-    },
-    {
-      "title": "Détroit d'Ormuz : 115 navires et 2 500 marins ont été évacués depuis mardi, selon le chef de l'agence maritime de l'ONU",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/detroit-d-ormuz-115-navires-et-2-500-marins-ont-ete-evacues-depuis-mardi-selon-le-chef-de-l-agence-maritime-de-l-onu_8081585.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le plan prévoit l'évacuation d'un total de 11 000 marins à bord de 600 navires, qui étaient coincés dans le Golfe à cause de la guerre au Moyen-Orient. Mais l'opération a été suspendue jeudi après une attaque visant un navire.",
-      "image": "https://www.franceinfo.fr/pictures/5--Z4sHkusVxOhPyOH3EgmIm8Dk/0x312:6000x3687/432x243/filters:format(jpg)/2026/06/26/6a3eab63c837a589554788.jpg",
-      "published_at": "2026-06-26T20:51:14+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "2ccd69797c52"
-    },
-    {
-      "title": "Israël, le Liban et les Etats-Unis signent un accord-cadre",
-      "url": "https://www.liberation.fr/international/moyen-orient/israel-le-liban-et-les-etats-unis-signent-un-accord-cadre-20260626_65B5GJOGHJHQLBT3JWS6K5H4AU/",
-      "summary": "Le Premier ministre israélien a prévenu que les habitants qui avaient dû fuir des zones où l’armée de l’Etat hébreu est désormais déployée dans le sud du Liban ne pourront pas revenir chez eux, malgré la signature.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-26T18:48:34+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "260d397782a1"
-    },
-    {
-      "title": "Canicule dans les usines automobiles : «Les conditions de travail sont insupportables»",
-      "url": "https://www.liberation.fr/environnement/climat/canicule-dans-les-usines-automobiles-les-conditions-de-travail-sont-insupportables-20260626_IFWOVRVEZZCPBKGTXH5N6TDHGA/",
-      "summary": "De l’usine Renault de Cléon à celle de Stellantis à Mulhouse, les ouvriers travaillent dans les chaînes de fabrication malgré les fortes chaleurs. Les syndicats dénoncent des directions qui n’ont pas su prévoir.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-26T18:44:33+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "5ad8fcaf0e41"
-    },
-    {
-      "title": "Moyen-Orient : situation confuse au détroit d’Ormuz que des navires franchissent sans respecter la route fixée par l’Iran",
-      "url": "https://www.liberation.fr/international/moyen-orient/moyen-orient-situation-confuse-au-detroit-dormuz-que-des-navires-franchissent-sans-respecter-la-route-fixee-par-liran-20260626_3LZKTK66LZADXE7DEXR2BSHSKM/",
-      "summary": "Donald Trump a qualifié de «violation stupide» du cessez-le-feu le tir de quatre drones iraniens. L’ONU a suspendu son évacuation des bateaux bloqués.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-06-26T18:39:33+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "d26f1896fba6"
     }
   ]
 }
