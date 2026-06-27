@@ -1,7 +1,177 @@
 {
-  "generated_at": "2026-06-27T16:14:35.026443+00:00",
+  "generated_at": "2026-06-27T18:11:49.710165+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Canicule : 24 départements toujours en vigilance rouge dimanche",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-treize-departements-retrogrades-de-violents-orages-attendus-20260627_7WMDWMCEEJFWPLTKFU63OHT6YY/",
+      "summary": "Si la situation est devenue un peu plus supportable sur l’Ouest, l’Ile-de-France et plusieurs départements du centre et de l’Est resteront en vigilance rouge. De nombreux événements, comme Solidays ou la marche des fiertés parisienne, ont été annulés.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-06-27T17:59:28+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "2cda85dfed09"
+    },
+    {
+      "title": "Séismes au Venezuela : près de sept millions de personnes sont affectées par la catastrophe, estiment les Nations unies",
+      "url": "https://www.franceinfo.fr/monde/venezuela/pres-de-7-millions-de-personnes-sont-affectees-par-les-deux-seismes-qui-ont-frappe-le-venezuela-estiment-les-nations-unies_8082839.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les deux secousses dévastatrices qui se sont produites mercredi ont déjà fait près de 1 500 morts et plus de 50 000 disparus, selon un bilan encore très provisoire. Deux millions de personnes seraient affectées rien que dans la capitale, Caracas, alerte l'ONU.",
+      "image": "https://www.franceinfo.fr/pictures/0z3WnzjaKPzUe_Ge3vroSmWqQKk/0x53:1024x629/432x243/filters:format(jpg)/2026/06/27/6a3ff1b9e6e24845040813.jpg",
+      "published_at": "2026-06-27T19:57:18+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "320c9f53227e"
+    },
+    {
+      "title": "Allemagne, Danemark, République tchèque… Des records de température en Europe",
+      "url": "https://www.lemonde.fr/planete/article/2026/06/27/allemagne-danemark-republique-tcheque-des-records-de-temperature-en-europe_6716404_3244.html",
+      "summary": "Au moins 193 millions d’habitants en Europe, dont 75 millions en Allemagne, ont connu des températures supérieures à 35 °C à un moment de la journée samedi, selon les calculs de l’Agence France-Presse, en hausse par rapport à vendredi.",
+      "image": "https://img.lemde.fr/2026/06/27/909/0/7373/3686/644/322/60/0/6cae521_ftp-1-4ztay4rluv79-2026-06-27t144404z-196951508-rc2e2maggqrn-rtrmadp-3-europe-weather-germany.JPG",
+      "published_at": "2026-06-27T19:54:57+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "8196eea91719"
+    },
+    {
+      "title": "L'Australie va doubler les amendes infligées pour violation de l'interdiction des réseaux sociaux aux mineurs de moins de 16 ans",
+      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/l-australie-va-doubler-les-amendes-infligees-pour-violation-de-l-interdiction-des-reseaux-sociaux-aux-mineurs-de-moins-de-16-ans_8082674.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le gouvernement australien a annoncé que les plateformes qui contournent son interdiction historique des réseaux sociaux pour les moins de 16 ans devront désormais payer une amende de près de 60 millions d'euros.",
+      "image": "https://www.franceinfo.fr/pictures/SkTtwxAe1Gtyf4DJH-PRq3AOEjM/0x52:1024x628/432x243/filters:format(jpg)/2026/06/27/6a400cf9f1ad7501090682.jpg",
+      "published_at": "2026-06-27T19:50:34+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "ca5d75923315"
+    },
+    {
+      "title": "De l'Allemagne au Danemark, des records de températures historiques battus dans de nombreux pays d'Europe",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/de-l-allemagne-au-danemark-des-records-de-temperatures-historiques-battus-dans-de-nombreux-pays-d-europe_8082878.html#xtor=RSS-3-[lestitres]",
+      "summary": "Avec 41,5°C en République tchèque, 40,6°C en Allemagne, ou encore 37°C au Danemark, la canicule continue de faire tomber les records historiques de températures maximales chez nos voisins européens.",
+      "image": "https://www.franceinfo.fr/pictures/Ryy5rNx3baQnM_1203PRI8uFAkg/0x53:1024x629/432x243/filters:format(jpg)/2026/06/27/6a3ffa374b034633570197.jpg",
+      "published_at": "2026-06-27T19:32:18+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "a6f7a62daf3b"
+    },
+    {
+      "title": "Soixante-quatorze personnes sont mortes par noyade depuis le début de la canicule en France le 18 juin, annonce le ministre de l'Intérieur",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/soixante-quatorze-personnes-sont-mortes-par-noyade-depuis-le-debut-de-la-canicule-en-france-le-18-juin-annonce-le-ministre-de-l-interieur_8082926.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ces drames \"sont survenus en grande partie sur des plans d'eau non autorisés, non surveillés\", a précisé Laurent Nuñez dans un entretien au Parisien.",
+      "image": "https://www.franceinfo.fr/pictures/TdxuXLiV0V1PZQiU2ZkXSTmN5Ns/0x53:1024x629/432x243/filters:format(jpg)/2026/06/27/6a3ffc9f90318972114581.jpg",
+      "published_at": "2026-06-27T19:25:40+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "120e29e72c44"
+    },
+    {
+      "title": "L'ancien patineur Philippe Candeloro élu président de la fédération française des sports de glace",
+      "url": "https://www.franceinfo.fr/sports/sports-d-hiver/patinage-artistique/l-ancien-patineur-philippe-candeloro-elu-president-de-la-federation-francaise-des-sports-de-glace_8082953.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le double médaillé de bronze olympique a battu, samedi, au deuxième tour la présidente sortante de la FFSG, Gwenaëlle Noury.",
+      "image": "https://www.franceinfo.fr/pictures/sokz9_IvxOJVUfayqHRBNvUVpqo/0x726:4910x3488/432x243/filters:format(jpg)/2026/06/27/6a40055f4c775394984060.jpg",
+      "published_at": "2026-06-27T19:22:37+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "7d788255f032"
+    },
+    {
+      "title": "Canicule : augmentation de 51% des appels chez les sapeurs-pompiers, leur porte-parole appelle les entreprises à \"libérer les pompiers volontaires\"",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-augmentation-de-51-des-appels-chez-les-sapeurs-pompiers-leur-porte-parole-appelle-les-entreprises-a-liberer-les-pompiers-volontaires_8082962.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les pompiers sont particulièrement sollicités en cette période de canicule mais aussi en raison des risques de feux de forêt très élevés.",
+      "image": "https://www.franceinfo.fr/pictures/rapYrc5H98JaGM-L2n7N3lG0aW0/432x243/filters:format(jpg)/2026/06/27/6a4003dce1515122022389.jpg",
+      "published_at": "2026-06-27T19:21:05+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "f2a4e964736f"
+    },
+    {
+      "title": "Présidentielle : dix ans plus tard, François Hollande a plus d’un retour dans son sac",
+      "url": "https://www.liberation.fr/politique/presidentielle-dix-ans-plus-tard-francois-hollande-a-plus-dun-retour-dans-son-sac-20260627_BNTW5ZWKMRBWBNPQFQGYOEWCQQ/",
+      "summary": "Après avoir renoncé à se représenter en 2017, puis à concourir en 2022, l’ancien chef de l’Etat s’imagine en recours pour une gauche divisée. Il multiplie les rencontres et les apparitions, plus ou moins discrètes, dans l’attente d’un possible moment propice à la fin de l’année.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-27T16:56:44+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "afed98cb5a7a"
+    },
+    {
+      "title": "«Si on ne peut plus aller pêcher, on n’aura plus de travail ni d’argent» : en Thaïlande, un projet de «pont terrestre» inquiète les habitants",
+      "url": "https://www.liberation.fr/international/asie-pacifique/si-on-ne-peut-plus-aller-pecher-on-naura-plus-de-travail-ni-dargent-en-thailande-un-projet-de-pont-terrestre-inquiete-les-habitants-20260627_E5MEO2KI3VDC5JFSFQMIDIIFII/",
+      "summary": "Avec la crise du détroit d’Ormuz, le gouvernement thaïlandais tente de relancer son projet de «Land Bridge» destiné à éviter le détroit de Malacca. Habitants, pêcheurs et acteurs du tourisme s’inquiètent des conséquences d’un chantier aussi ambitieux qu’incertain.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-27T16:45:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "a8afc0c83ea6"
+    },
+    {
+      "title": "Course-poursuite dans l’espace, trouvaille étrange sur Pluton, sauvetage de Swift — le récap’ sciences de la semaine",
+      "url": "https://www.numerama.com/sciences/2286545-course-poursuite-dans-lespace-trouvaille-etrange-sur-pluton-sauvetage-de-swift-le-recap-sciences-de-la-semaine.html",
+      "summary": "Au menu scientifique de cette semaine caniculaire : une course poursuite spatiale, James Webb qui trouve quelque chose d'étrange sur Pluton, et sauvetage du télescope spatial Swift. C'est l'heure du récap' sciences de la semaine sur Numerama.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-06-27T16:44:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "4a2271ffbdde"
+    },
+    {
+      "title": "«Tous les homos détestent Bernard Arnault !» : malgré l’annulation à Paris, une Pride s’invite à la Samaritaine",
+      "url": "https://www.liberation.fr/societe/sexualite-et-genres/tous-les-homos-detestent-bernard-arnault-malgre-lannulation-une-pride-sinvite-a-la-samaritaine-20260627_4KATMPPE7RD4FC3LYUBDT7WXKI/",
+      "summary": "Une mobilisation sauvage a été organisée dans ce temple du luxe parisien, propriété du patron de LVMH, afin de rappeler que «l’écologie est une lutte sociale».",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-27T16:41:19+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "face8fcfab57"
+    },
+    {
+      "title": "La soirée de samedi du festival Garorock dans le Lot-et-Garonne annulée en raison des risques d'orages",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-soiree-de-samedi-du-festival-garorock-dans-le-lot-et-garonne-annulee-en-raison-des-risques-d-orages_8082923.html#xtor=RSS-3-[lestitres]",
+      "summary": "Des salles communales de Marmande ont été ouvertes pour acceuillir les festivaliers.",
+      "image": "https://www.franceinfo.fr/pictures/Fd6YDNQptXxzYSzMDlqrSEMJxYE/432x243/filters:format(jpg)/2026/06/27/6a3fd09f704fb711504080.jpg",
+      "published_at": "2026-06-27T18:40:18+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "5f5585a3a0d0"
+    },
+    {
+      "title": "Finale Toulouse-Montpellier : quatrième sacre consécutif pour les Toulousains ou nouveau titre surprise pour le MHR ? Suivez avec nous l'épilogue du Top 14",
+      "url": "https://www.franceinfo.fr/sports/rugby/top-14/direct-finale-toulouse-montpellier-quatrieme-sacre-consecutif-pour-les-toulousains-ou-nouveau-titre-surprise-pour-le-mhr-suivez-avec-nous-l-epilogue-du-top-14_8079731.html#xtor=RSS-3-[lestitres]",
+      "summary": "Alors que le Stade toulousain vise un quadruplé, Montpellier espère soulever, samedi, le deuxième bouclier de Brennus de son histoire.",
+      "image": "https://www.franceinfo.fr/pictures/u7_QyUaZh2sF7GxfWgoyjDsMckk/0x29:6048x3431/432x243/filters:format(jpg)/2026/06/26/6a3e34b8a1b45602430991.jpg",
+      "published_at": "2026-06-27T18:33:02+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "a555d7f8a1ae"
+    },
+    {
+      "title": "2025, l’année des jeux à deux… rebelote en 2026 : voici 5 incontournables de l’année",
+      "url": "https://www.numerama.com/pop-culture/2286729-2025-lannee-des-jeux-a-deux-rebelote-en-2026.html",
+      "summary": "2025 avait placé la barre très haut pour les jeux à deux. Les premières sorties de 2026 montrent que cette belle dynamique est loin de s’essouffler.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-27T16:30:00+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "30f27bd38638"
+    },
+    {
+      "title": "Coût de la canicule : une chaleur qui plombe l’économie",
+      "url": "https://www.liberation.fr/economie/cout-de-la-canicule-une-chaleur-qui-plombe-leconomie-20260627_T5EVZIRPTJDSRJ7RJCX7P67E3Y/",
+      "summary": "En freinant la productivité, la consommation et les recettes fiscales, la canicule risque de gripper la croissance et de peser sur les finances publiques.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-06-27T16:25:08+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "18e74a908378"
+    },
+    {
+      "title": "Canicule : les deux funérariums de Paris sont complets, avec une activité \"largement au-dessus de la moyenne\", annonce la Fédération nationale du funéraire",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-les-deux-funerariums-de-paris-sont-complets-avec-une-activite-largement-au-dessus-de-la-moyenne-annonce-la-federation-nationale-du-funeraire_8082905.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les décès sont en hausse à cause de la canicule. Pour l'instant, ils ne sont pas encore comptabilisés.",
+      "image": "https://www.franceinfo.fr/pictures/9blPIbzlhonYvL7kqg5WI6Se6a4/0x320:6156x3783/432x243/filters:format(jpg)/2026/06/27/6a3ff90625b09028387507.jpg",
+      "published_at": "2026-06-27T18:21:35+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "d36f1c64c277"
+    },
     {
       "title": "F1 : George Russell en pole position du GP d'Autriche, devant Charles Leclerc et Lewis Hamilton",
       "url": "https://www.franceinfo.fr/sports/auto-moto/formule-1/f1-george-russell-en-pole-position-du-gp-d-autriche-devant-charles-leclerc-et-lewis-hamilton_8082815.html#xtor=RSS-3-[lestitres]",
@@ -131,176 +301,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "d06c4a079548"
-    },
-    {
-      "title": "EN DIRECT - Canicule : 24 départements toujours en vigilance rouge dimanche",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-treize-departements-retrogrades-de-violents-orages-attendus-20260627_7WMDWMCEEJFWPLTKFU63OHT6YY/",
-      "summary": "Si la situation est devenue un peu plus supportable sur l’ouest de la France, 50 départements restent en vigilance rouge au moins jusqu’à ce samedi soir. De nombreux événements, comme Solidays ou la marche des fiertés parisienne, ont été annulés.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-27T15:12:24+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "2cda85dfed09"
-    },
-    {
-      "title": "Le gouvernement annonce la prolongation de la période des soldes d'été, entamée en pleine canicule",
-      "url": "https://www.franceinfo.fr/economie/commerce/le-gouvernement-annonce-la-prolongation-de-la-periode-des-soldes-d-ete-debutee-en-pleine-canicule_8082722.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les soldes d'été, qui ont commencé mercredi en pleine vague de chaleur exceptionnelle, se prolongeront finalement au-delà du 21 juillet, a fait savoir Matignon, sans préciser leur date de fin. Un moyen de rassurer les commerçants des centres-villes, inquiétés par une fréquentation en baisse à cause des fortes températures.",
-      "image": "https://www.franceinfo.fr/pictures/Yg3f0H5qqpezK5YhVgC5jntAK4I/0x52:1024x628/432x243/filters:format(jpg)/2026/06/27/6a3fe2c52271d182136424.jpg",
-      "published_at": "2026-06-27T17:06:49+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "34ce20dfab25"
-    },
-    {
-      "title": "Les intempéries pourraient multiplier par 11 les perturbations ferroviaires d’ici 2100",
-      "url": "https://www.numerama.com/sciences/2286363-les-intemperies-pourraient-multiplier-par-11-les-perturbations-ferroviaires-dici-2100.html",
-      "summary": "Les effets du dérèglement climatique pèsent sur les infrastructures ferroviaires. Face à des températures très élevées, les rails risquent même de se dilater, ce qui compromet la circulation des trains. Quel avenir pour le train dans ce contexte ? C'est la question que pose cet article de The Conversation.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-27T15:01:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "db4ee4fdf58e"
-    },
-    {
-      "title": "Aéronautique : depuis la « Toulouse » brésilienne, Embraer prend son envol",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/27/aeronautique-depuis-la-toulouse-bresilienne-embraer-prend-son-envol_6716390_3234.html",
-      "summary": "Symbole de la réussite du Brésil, le troisième constructeur mondial d’avions après Boeing et Airbus a mis en place des méthodes de production d’une efficacité redoutable, visibles dans l’usine installée sur les 500 hectares de son fief, à Sao José dos Campos.",
-      "image": "https://img.lemde.fr/2026/06/10/885/0/5500/2750/644/322/60/0/95a702b_ftp-1-uu2o6u4rmnei-2026-06-10t160106z-212389781-rc2fqla8b0zs-rtrmadp-3-embraer-outlook.JPG",
-      "published_at": "2026-06-27T17:00:15+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "2b706f6c4e83"
-    },
-    {
-      "title": "Coupe du monde 1982 : que s’est-il passé lors du « match de la honte » ?",
-      "url": "https://www.lemonde.fr/afrique/video/2026/06/27/coupe-du-monde-1982-que-s-est-il-passe-lors-du-match-de-la-honte_6716389_3212.html",
-      "summary": "Une rencontre opposant l’Autriche à la République fédérale d’Allemagne va se retrouver sous le feu des critiques.",
-      "image": "https://img.lemde.fr/2026/06/22/60/0/1920/960/644/322/60/0/5fcc00c_upload-1-6hvj6wkxlpkd-tile-4.jpg",
-      "published_at": "2026-06-27T17:00:11+02:00",
-      "source": "Le Monde Inter",
-      "category": "Sport",
-      "id": "78eb5aaa6045"
-    },
-    {
-      "title": "En Hongrie, première Pride de l’après-Orban, qui avait multiplié les politiques anti-LGBT+",
-      "url": "https://www.lemonde.fr/international/article/2026/06/27/en-hongrie-premiere-pride-de-l-apres-orban-qui-avait-multiplie-les-politiques-anti-lgbt_6716387_3210.html",
-      "summary": "Les organisateurs de la Pride avaient décidé de maintenir la marche malgré la chaleur écrasante, tout en conseillant aux personnes fragiles de ne pas venir. Les températures ont atteint les 38 degrés à Budapest.",
-      "image": "https://img.lemde.fr/2026/06/27/491/0/5900/2950/644/322/60/0/162ecf9_ftp-1-ja3rzakky4f1-2026-06-27t142849z-965989708-rc2e2mamv2rx-rtrmadp-3-hungary-lgbt-pride.JPG",
-      "published_at": "2026-06-27T16:55:54+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "184cb5a51790"
-    },
-    {
-      "title": "Cyclisme : la pépite Célia Géry sacrée championne de France sur route à 20 ans",
-      "url": "https://www.franceinfo.fr/sports/cyclisme/cyclisme-la-pepite-celia-gery-sacree-championne-de-france-sur-route-a-20-ans_8082725.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'étoile montante du cyclisme tricolore s'est extraite du groupe des favorites à 3,2 km de l'arrivée à la Tour-du-Pin, samedi.",
-      "image": "https://www.franceinfo.fr/pictures/yAc91LBc7NWDheT6mAoyPXoHquY/0x625:6000x4000/432x243/filters:format(jpg)/2026/06/27/6a3fda190be4d828662786.jpg",
-      "published_at": "2026-06-27T16:52:36+02:00",
-      "source": "France Info",
-      "category": "Tech",
-      "id": "99877e09906f"
-    },
-    {
-      "title": "Canicule : le gouvernement prolonge les soldes d’été pour soutenir les commerçants indépendants",
-      "url": "https://www.liberation.fr/politique/canicule-le-gouvernement-prolonge-les-soldes-dete-pour-soutenir-les-commercants-independants-20260627_5DBYP2SIARAHVHFIFJFTXP74RM/",
-      "summary": "Le Premier ministre, Sébastien Lecornu, offre une rallonge aux commerçants inquiets et pénalisés par les fortes températures, qui ont dissuadé beaucoup d’acheteurs de se rendre en magasin.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-27T14:51:37+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "42570ccd825a"
-    },
-    {
-      "title": "«Autotune» ou la confusion de l’enchantement",
-      "url": "https://www.liberation.fr/culture/livres/autotune-ou-la-confusion-de-lenchantement-20260627_NJERPPI4WVHWHLA3LVO5D3ANQE/",
-      "summary": "Entre chamailleries rhétoriques et explosions textuelles, Olivier Brossard poursuit ses explorations poétiques du côté d’un amour à trois : toi, moi et le flux sans fin qui se dévide.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-06-27T14:50:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "2da5ce421c55"
-    },
-    {
-      "title": "Beth Orton, spleen et idéal",
-      "url": "https://www.liberation.fr/culture/musique/beth-orton-spleen-et-ideal-20260627_IRY3HH5QEJDTLLSGZOTZV6ONJA/",
-      "summary": "La discrète Britannique, entre tension et retenue, livre un neuvième album poignant, mené par sa voix bouleversante.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-06-27T14:44:00+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "5b6b74ec1d79"
-    },
-    {
-      "title": "Canicule : la vague de chaleur \"recule\" mais la pression sur le système de santé va durer \"plusieurs jours\", prévient Matignon",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-meteo-france-maintient-37-departements-en-vigilance-rouge-la-fin-du-pic-se-precise-pour-dimanche-soir_8082254.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Premier ministre, Sébastien Lecornu, a assisté à une nouvelle réunion de la cellule interministérielle de crise samedi, alors que de nombreux départements sont toujours concernés par une vigilance rouge.",
-      "image": "https://www.franceinfo.fr/pictures/Ym0G6mZYx2xg1-D6Df4Aaw7VW0A/0x285:5472x3363/432x243/filters:format(jpg)/2026/06/27/6a3f88f7d836d075431108.jpg",
-      "published_at": "2026-06-27T16:42:30+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "719bf44ce586"
-    },
-    {
-      "title": "La vigilance rouge canicule maintenue dans 37 départements, une quarantaine en vigilance orange aux orages",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-vigilance-rouge-canicule-maintenue-dans-37-departements-d-autres-retrogradations-attendues-dans-la-journee_8082341.html#xtor=RSS-3-[lestitres]",
-      "summary": "La vigilance rouge canicule touche encore un gros quart nord-est du pays, tandis que la vigilance orange aux orages concerne une bande allant du Sud-Ouest au Nord.",
-      "image": "https://www.franceinfo.fr/pictures/eU4Eixjv-ew-3I9psR3o-dz0dcI/0x312:6000x3687/432x243/filters:format(jpg)/2026/06/27/6a3f818e718e2683310887.jpg",
-      "published_at": "2026-06-27T16:42:00+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "ab592db72a99"
-    },
-    {
-      "title": "En Chine, la collision d'un petit avion avec le plus haut gratte-ciel de Pékin fait un mort et 13 blessés",
-      "url": "https://www.franceinfo.fr/monde/chine/en-chine-la-collision-d-un-petit-avion-avec-le-plus-haut-gratte-ciel-de-pekin-fait-un-mort-et-13-blesses_8082680.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un petit aéronef s'est écrasé vendredi dans la tour Citic, ont annoncé samedi les autorités locales. Le pilote, seul à bord, est mort dans l'accident, qui a également fait 13 blessés.",
-      "image": "https://www.franceinfo.fr/pictures/TKa0ZuKrgrZpE5WCkThO16Ax2NA/0x0:1024x576/432x243/filters:format(jpg)/2026/06/27/6a3fd5bad796f027432139.jpg",
-      "published_at": "2026-06-27T16:39:57+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "5f7af61ab877"
-    },
-    {
-      "title": "Pour les soldes d’été, Cdiscount baisse le prix de ces deux superbes Lego fossiles de dinosaures",
-      "url": "https://www.numerama.com/pop-culture/2286273-pour-les-soldes-dete-cdiscount-baisse-le-prix-de-ces-deux-superbes-lego-fossiles-de-dinosaures.html",
-      "summary": "[Deal du jour] Pour les amateurs de paléontologie et de briques, le colossal Lego Les Fossiles de Dinosaures : le Tyrannosaurus Rex, ainsi que le Tricératops, baissent leur prix grâce à un code promo.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-27T14:30:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "6a5ea6e1e476"
-    },
-    {
-      "title": "Pourquoi le RN n’avait vraiment rien à faire à la panthéonisation de Marc Bloch",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/pourquoi-le-rn-navait-vraiment-rien-a-faire-a-la-pantheonisation-de-marc-bloch-20260627_I4RCNXPNVNB6BJ5A27MPFVLRYQ/",
-      "summary": "Le parti d’extrême droite n’avait pas à être invité à la cérémonie pour plusieurs raisons, explique un collectif d’historiens : il a des liens historiques avec Vichy, il n’a pas rompu avec ceux qui portent des paroles néonazies en France et en Europe, il manipule l’histoire tandis que Marc Bloch avait «chéri la vérité».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-27T14:20:54+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "0afe199a195c"
-    },
-    {
-      "title": "\"La chaleur s'évacue vers l'Est au cours du week-end\" : à quoi faut-il s'attendre avec l'arrivée des orages et la fin du pic de la canicule en France ?",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-chaleur-s-evacue-vers-l-est-au-cours-du-week-end-a-quoi-faut-il-s-attendre-avec-l-arrivee-des-orages-et-la-fin-du-pic-de-la-canicule-en-france_8082374.html#xtor=RSS-3-[lestitres]",
-      "summary": "La vigilance rouge doit être levée dimanche pour les derniers départements concernés. Des orages, parfois violents, vont rafraîchir les températures, notamment en début de semaine. Mais la tendance pourrait rapidement s'inverser.",
-      "image": "https://www.franceinfo.fr/pictures/BncsUarkax9Cn9gdLlnYhpgusa8/0x257:5000x3070/432x243/filters:format(jpg)/2026/06/27/6a3fae1e1a462974898099.jpg",
-      "published_at": "2026-06-27T16:17:34+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "8a18060a6469"
-    },
-    {
-      "title": "«Il n’y a pas à rougir de considérer un chien ou un chat comme un enfant»",
-      "url": "https://www.liberation.fr/lifestyle/hightech/il-ny-a-pas-a-rougir-de-considerer-un-chien-ou-un-chat-comme-un-enfant-20260627_Z6N35HSAMZHGDHTABKWXM5BZAE/",
-      "summary": "Un enfant ? Très peu pour eux. Ils préfèrent avoir un chien et… jouir d’une vie libre. Sur les réseaux sociaux, les «Dinkwad» ou «Dildo» revendiquent un véritable art de vivre. La chercheuse Emilie Dardenne analyse le phénomène.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-27T14:02:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "b94bcb60d98e"
     }
   ]
 }
