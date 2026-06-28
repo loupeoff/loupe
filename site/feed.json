@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-06-28T18:11:45.242938+00:00",
+  "generated_at": "2026-06-28T20:19:22.340385+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Coupe du monde 2026 : l'Afrique du Sud et le Canada se neutralisent dans le premier 16e de finale de la compétition",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-l-afrique-du-sud-defie-le-canada-a-21-heures-pour-le-premier-16e-de-finale_8083811.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'équipe de France poursuit sa préparation avant son match contre la Suède, mardi à 23 heures, alors qu'un choc entre les Pays-Bas et le Maroc se profile dans la nuit de lundi à mardi.",
+      "image": "https://www.franceinfo.fr/pictures/th_x8WWAFcQL0bMfUcbVxVwzsBQ/0x144:4500x2675/432x243/filters:format(jpg)/2026/06/28/6a4128e5ac4a5596171209.jpg",
+      "published_at": "2026-06-28T22:13:22+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "2e629ac0e575"
+    },
+    {
+      "title": "Séisme au Venezuela : le bilan s’alourdit à 1 450 morts",
+      "url": "https://www.lemonde.fr/planete/article/2026/06/28/seisme-au-venezuela-le-bilan-s-alourdit-a-1-450-morts_6716592_3244.html",
+      "summary": "Alors que les secours s’organisent difficilement, l’ampleur des dégâts matériels et humains continue de bouleverser la population vénézuélienne.",
+      "image": "https://img.lemde.fr/2026/06/28/669/0/8033/4016/644/322/60/0/69301a0_ftp-1-1hr6kin6qyfq-5474385-01-06.jpg",
+      "published_at": "2026-06-28T21:15:15+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "5ac80c27e0fc"
+    },
+    {
+      "title": "Après avoir essayé la Zeekr 7GT, je peux assurer que les premiums allemands sont dans la panade",
+      "url": "https://www.numerama.com/vroom/2282027-apres-avoir-essaye-la-zeekr-7gt-je-peux-assurer-que-les-premiums-allemands-sont-dans-la-panade.html",
+      "summary": "Une silhouette réussie, un confort et des performances abouties, sans oublier une présentation soignée, la nouvelle Zeekr 7GT s'annonce redoutable pour la concurrence premium. Voici mon avis après avoir pris le volant du break de chasse de 646 ch.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-06-28T19:15:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "b86701703d92"
+    },
+    {
+      "title": "Canicule : le Premier ministre Sébastien Lecornu va présider une nouvelle cellule interministérielle de crise lundi après-midi",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-la-vigilance-rouge-ne-concerne-plus-que-le-haut-et-le-bas-rhin-45-departements-toujours-en-orange-apres-une-nuit-d-orages_8083376.html#xtor=RSS-3-[lestitres]",
+      "summary": "Selon Matignon, le chef du gouvernement fera notamment \"un bilan et un retour d'expérience de l'épisode caniculaire qui s'achève\" dans l'Hexagone. Il évoquera aussi la \"préparation et l'anticipation d'éventuels nouveaux épisodes\".",
+      "image": "https://www.franceinfo.fr/pictures/EIyUb4mzi4iJyWuB4us9AwjO5K4/0x53:1024x629/432x243/filters:format(jpg)/2026/06/28/6a416b9414f59090343545.jpg",
+      "published_at": "2026-06-28T20:47:57+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "4983edb9c673"
+    },
+    {
+      "title": "En Nouvelle-Calédonie, les loyalistes gagnent du terrain aux élections provinciales, mais n'atteignent pas la majorité au Congrès",
+      "url": "https://www.franceinfo.fr/france/nouvelle-caledonie-iles-loyaute/en-nouvelle-caledonie-les-loyalistes-gagnent-du-terrain-aux-elections-provinciales-mais-n-atteignent-pas-la-majorite-au-congres_8084075.html#xtor=RSS-3-[lestitres]",
+      "summary": "La liste d'union Les Loyalistes-Le Rassemblement a obtenu 24 des 54 sièges au Congrès, contre 19 sous la précédente mandature, mais elle reste sous la majorité absolue de 28 sièges. De leur côté, les listes indépendantistes en totalisent 26, mais sont divisées en trois groupes. Place désormais aux tractations.",
+      "image": "https://www.franceinfo.fr/pictures/-uUwzfO8kmtHdkAw2-3rrjDX3zg/0x53:1024x629/432x243/filters:format(jpg)/2026/06/28/6a4166e195563776204138.jpg",
+      "published_at": "2026-06-28T20:27:34+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "294b752fff66"
+    },
     {
       "title": "Séismes meurtriers : le Venezuela, pays de malédictions",
       "url": "https://www.liberation.fr/idees-et-debats/editorial/seismes-meurtriers-le-venezuela-pays-de-maledictions-20260628_B22VZEOFYBCIVIGLKUOWB44DN4/",
@@ -45,7 +95,7 @@
     {
       "title": "Rugby : les Lionnes de Bordeaux remportent leur quatrième Brennus d'affilée en Elite 1 en s'offrant les Clermontoises",
       "url": "https://www.franceinfo.fr/sports/rugby/elite-1/rugby-les-lionnes-de-bordeaux-remportent-leur-quatrieme-brennus-d-affilee-en-elite-1-en-s-offrant-les-clermontoises_8083970.html#xtor=RSS-3-[lestitres]",
-      "summary": "Pourtant troisièmes de la phase régulière, les Bordelaises ont décroché leur quatrième titre dimanche, aux dépens de l'ASM.",
+      "summary": "Pourtant troisièmes de la phase régulière, les Bordelaises ont décroché leur quatrième titre dimanche, aux dépens de l'ASM Romagnat.",
       "image": "https://www.franceinfo.fr/pictures/rzhufNUGl0QqFmhMXobp3AEoHa0/0x305:5856x3599/432x243/filters:format(jpg)/2026/06/28/6a4159fbc3917937475863.jpg",
       "published_at": "2026-06-28T19:58:02+02:00",
       "source": "France Info",
@@ -133,13 +183,13 @@
       "id": "a8c708041843"
     },
     {
-      "title": "EN DIRECT, Afrique du Sud-Canada : suivez le seizième de finale de la Coupe du monde de football",
+      "title": "EN DIRECT, Afrique du Sud-Canada : des situations pour les deux équipes, mais toujours pas de but",
       "url": "https://www.lemonde.fr/sport/live/2026/06/28/en-direct-afrique-du-sud-canada-suivez-le-seizieme-de-finale-de-la-coupe-du-monde-de-football_6716585_3242.html",
       "summary": "Sud-Africains et Canadiens inaugurent les seizièmes de finale de ce Mondial 2026. C’est la première fois que ces deux nations se qualifient pour la phase à élimination directe.",
-      "image": "https://img.lemde.fr/2026/06/26/411/0/4938/2469/644/322/60/0/0c6efcb_ftp-1-kwvutcgtflpc-5455798-01-06.jpg",
+      "image": "https://img.lemde.fr/2026/06/28/396/0/4757/2378/644/322/60/0/1ad3bee_ftp-1-p29ykmu8tfz6-4e63d6211bc9474bb67f93dfda4dc315-0-cea857227a56491e9d162139dbefdd84.jpg",
       "published_at": "2026-06-28T19:00:03+02:00",
       "source": "Le Monde",
-      "category": "Sport",
+      "category": "Société",
       "id": "b2d7857da1fa"
     },
     {
@@ -161,16 +211,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "9c2b018eb643"
-    },
-    {
-      "title": "Coupe du monde 2026 : l'Afrique du Sud défie le Canada à 21 heures pour le premier 16e de finale",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-l-afrique-du-sud-defie-le-canada-a-21-heures-pour-le-premier-16e-de-finale_8083811.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'équipe de France poursuit sa préparation avant son match contre la Suède, mardi à 23 heures, alors qu'un choc entre les Pays-Bas et le Maroc se profile dans la nuit de lundi à mardi.",
-      "image": "https://www.franceinfo.fr/pictures/th_x8WWAFcQL0bMfUcbVxVwzsBQ/0x144:4500x2675/432x243/filters:format(jpg)/2026/06/28/6a4128e5ac4a5596171209.jpg",
-      "published_at": "2026-06-28T18:22:06+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "2e629ac0e575"
     },
     {
       "title": "Elections en Nouvelle-Calédonie : les loyalistes n’obtiennent pas la majorité absolue",
@@ -203,16 +243,6 @@
       "id": "60d80354b0f4"
     },
     {
-      "title": "Canicule : le Vaucluse placé en \"danger très élevé\" pour les feux de forêts à partir de lundi, sept autres départements du Sud-Est en risque \"élevé\"",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-la-vigilance-rouge-ne-concerne-plus-que-le-haut-et-le-bas-rhin-45-departements-toujours-en-orange-apres-une-nuit-d-orages_8083376.html#xtor=RSS-3-[lestitres]",
-      "summary": "La vigilance rouge canicule sera levée à 22 heures dans le Haut-Rhin et le Bas-Rhin, les deux derniers départements encore concernés par ce niveau d'alerte. Cinquante départements restent concernés par une vigilance orange canicule et/ou orages.",
-      "image": "https://www.franceinfo.fr/pictures/yVwG4l1dapoY2cmHTc5cEpd1VoM/0x53:1024x629/432x243/filters:format(jpg)/2026/06/28/6a41442d321e7476471385.jpg",
-      "published_at": "2026-06-28T18:15:17+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "4983edb9c673"
-    },
-    {
       "title": "Accord Israël-Liban : la peine perdue d’une paix de papier",
       "url": "https://www.liberation.fr/international/moyen-orient/accord-israel-liban-la-peine-perdue-dune-paix-de-papier-20260628_K36WPYHNJVCCVKOFLBIBDQAJ7U/",
       "summary": "Derrière l’affichage diplomatique d’un accord présenté comme historique, Beyrouth reste pris entre les exigences israéliennes, les calculs iraniens et les fragilités de son propre Etat. Au risque de voir resurgir de vieilles divisions.",
@@ -238,7 +268,7 @@
       "summary": "« America 250 » (7/13). Un siècle après sa création, le pays est composé de 38 Etats. Les divisions sur le traitement à réserver à la population noire persistent. L’esclavage a été aboli, au grand regret des démocrates. Si les républicains l’emportent à la présidentielle de 1876, c’est en échange de l’instauration de la ségrégation dans les Etats du Sud.",
       "image": "https://img.lemde.fr/2026/06/24/120/0/3840/1920/644/322/60/0/f31cf6b_upload-1-zk0gq5a3ozhv-capture-d-e-cran-2026-06-24-a-17-28-39-3.jpg",
       "published_at": "2026-06-28T18:00:09+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "908ee3e2df98"
     },
@@ -271,36 +301,6 @@
       "source": "Libération",
       "category": "Société",
       "id": "4d3954ca54b0"
-    },
-    {
-      "title": "L’ISS pourrait polluer l’océan. Mais on ne sait pas comment faire pour s’en débarrasser autrement",
-      "url": "https://www.numerama.com/sciences/2283733-ce-soir-liss-pourrait-polluer-locean-mais-on-ne-sait-pas-comment-faire-pour-sen-debarrasser-autrement.html",
-      "summary": "Les plans sur l'avenir de la Station spatiale internationale sont toujours incertains. L'ISS est censée partir à la retraite d'ici 2030 et finir dans l'océan Pacifique. Mais une telle opération pourrait avoir des conséquences sur l'écosystème marin. Alors, comment faire ?",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-28T15:31:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "1460a1a854d3"
-    },
-    {
-      "title": "En Crimée, Kyiv veut transformer la péninsule en piège russe",
-      "url": "https://www.liberation.fr/international/europe/en-crimee-kyiv-veut-transformer-la-peninsule-en-piege-russe-20260628_RCOYISNGPRBV5NSV6RG3PBPPXU/",
-      "summary": "En ciblant routes, ponts, dépôts et infrastructures énergétiques de la presqu’île, l’Ukraine veut rendre son occupation intenable pour Moscou. Les autorités prorusses y ont déclaré l’état d’urgence vendredi 26 juin.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-06-28T15:19:18+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "23f36cdbded0"
-    },
-    {
-      "title": "Fin de la canicule, élections en Nouvelle-Calédonie, 16e de finale de la Coupe du monde… L’actu de ce week-end des 27 et 28 juin",
-      "url": "https://www.liberation.fr/international/europe/fin-de-la-canicule-elections-en-nouvelle-caledonie-16e-de-finale-de-la-coupe-du-monde-lactu-de-ce-week-end-des-27-et-28-juin-20260628_J3XZWVJHIBAAZPDDC3FWRD3DUY/",
-      "summary": "La rédaction de «Libération» récapitule les principales actualités des samedi 27 et dimanche 28 juin 2026.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-28T15:18:15+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "92fd85cd1728"
     }
   ]
 }
