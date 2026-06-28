@@ -1,306 +1,306 @@
 {
-  "generated_at": "2026-06-28T05:23:59.282493+00:00",
+  "generated_at": "2026-06-28T09:25:12.278155+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "«Toute la côte est concernée» : face au durcissement des contrôles en France, les exilés traversent la Manche depuis la Belgique",
-      "url": "https://www.liberation.fr/societe/immigration/toute-la-cote-est-concernee-face-au-durcissement-des-controles-en-france-les-exiles-traversent-la-manche-depuis-la-belgique-20260628_WSDKSF63RZDRDBR5ACEYUMCQ6E/",
-      "summary": "Ces derniers mois, la côte belge s’impose comme une nouvelle voie pour rejoindre le Royaume-Uni. Une évolution qui inquiète les autorités locales et accroît les risques pour les exilés.",
+      "title": "Canicule : le ministre de l'Intérieur annonce \"122 000 interventions\" des secours pendant la vague de chaleur",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-la-vigilance-rouge-ne-concerne-plus-que-le-haut-et-le-bas-rhin-45-departements-toujours-en-orange-apres-une-nuit-d-orages_8083376.html#xtor=RSS-3-[lestitres]",
+      "summary": "Laurent Nuñez s'est exprimé lors d'un déplacement à la caserne de pompiers de Boursault, dans le 17e arrondissement de Paris.",
+      "image": "https://www.franceinfo.fr/pictures/mmO480-MkT1byXOgKBxUmRe4irM/0x573:5500x3667/432x243/filters:format(jpg)/2026/06/28/6a40bff75ba26503855487.jpg",
+      "published_at": "2026-06-28T11:16:40+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "4983edb9c673"
+    },
+    {
+      "title": "Élections provinciales 2026 en Nouvelle-Calédonie : résultats, taux de participation, réactions... Suivez notre direct sur NC la 1ère",
+      "url": "https://la1ere.franceinfo.fr/nouvellecaledonie/direct-elections-provinciales-2026-en-nouvelle-caledonie-resultats-taux-de-participation-reactions-suivez-la-soiree-electorale-sur-nc-la-1ere-1714798.html#xtor=RSS-3-[lestitres]",
+      "summary": "192 584 électeurs étaient appelés aux urnes pour le scrutin des provinciales en Nouvelle-Calédonie, ce dimanche 28 juin. Et le taux de participation provisoire est très faible pour l'heure. Il s'élève à 58,86% en début de soirée. Province Sud, province Nord, province des Îles : quelles listes arrivent en tête ?",
+      "image": "https://www.franceinfo.fr/pictures/P-CiUfrnbmpM7NdUj24ClBnNvnU/432x243/filters:format(jpg)/2026/06/28/6a40b88ab93ca765773312.jpg",
+      "published_at": "2026-06-28T11:08:41+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "4cbbef023f43"
+    },
+    {
+      "title": "Ouganda : le principal groupe de médias indépendant dit être « assiégé » et fermé par l’armée",
+      "url": "https://www.lemonde.fr/international/article/2026/06/28/ouganda-le-principal-groupe-de-medias-independant-dit-etre-assiege-et-ferme-par-l-armee_6716556_3210.html",
+      "summary": "Le chef de l’armée, Muhoozi Kainerugaba, qui est aussi le fils du président, Yoweri Museveni, 81 ans, a affirmé depuis ces derniers mois son emprise croissante sur le pays, en ordonnant l’arrestation de responsables politiques et de militants, et désormais la fermeture de médias.",
+      "image": "https://img.lemde.fr/2026/06/28/340/0/4084/2042/644/322/60/0/993de0d_ftp-1-lzrrvhovh6rr-5470564-01-06.jpg",
+      "published_at": "2026-06-28T11:07:32+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "17618cd61c1f"
+    },
+    {
+      "title": "EN DIRECT, canicule : un premier bilan recense 1 000 décès de plus que lors des mois précédents depuis le 24 juin, dit Santé publique France",
+      "url": "https://www.lemonde.fr/planete/live/2026/06/28/en-direct-canicule-un-premier-bilan-recense-1-000-deces-de-plus-que-lors-des-mois-precedents-depuis-le-24-juin-dit-sante-publique-france_6710159_3244.html",
+      "summary": "D’après le dernier bulletin de Météo-France, deux départements restent en vigilance rouge dimanche, le Haut-Rhin et le Bas-Rhin. Ils devraient passer en vigilance orange ce soir à partir de 22 heures.",
+      "image": "https://img.lemde.fr/2026/06/26/487/0/5839/2919/644/322/60/0/7ff0000_ftp-1-hztcqav3ubx4-2026-06-26t094559z-1720242886-rc2k1magsh6l-rtrmadp-3-europe-weather-france-hospital.JPG",
+      "published_at": "2026-06-28T11:01:47+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "9f0f6cee70f7"
+    },
+    {
+      "title": "EN DIRECT - Canicule : «Probablement pas la même surmortalité que 2003», selon la ministre de la Santé",
+      "url": "https://www.liberation.fr/environnement/en-direct-canicule-les-autorites-sanitaires-ont-deja-recense-environ-1-000-deces-de-plus-que-la-normale-depuis-mercredi-20260628_7KW4YGO4HJBGJLBLDZHHDP4GJM/",
+      "summary": "La chaleur commence à refluer : il n’y a plus que deux départements en vigilance rouge ce dimanche, en Alsace. Mais son impact à retardement sur les organismes maintient les hôpitaux sous forte tension et fait craindre une forte surmortalité.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-28T05:02:00+00:00",
+      "published_at": "2026-06-28T08:56:52+00:00",
       "source": "Libération",
       "category": "Politique",
-      "id": "871a46a7c316"
+      "id": "7b99cc2d84ef"
     },
     {
-      "title": "« Le Golfe est-il Persique ou Arabique ? Ou bien les deux ? »",
-      "url": "https://www.lemonde.fr/un-si-proche-orient/article/2026/06/28/le-golfe-est-il-persique-ou-arabique-ou-bien-les-deux_6716537_6116995.html",
-      "summary": "La dénomination historique de « golfe Persique » a pu être contestée par des régimes arabes, mais Donald Trump a renoncé, en 2025, à la remplacer par « golfe Arabique ».",
-      "image": "https://img.lemde.fr/2026/06/27/129/0/740/370/644/322/60/0/0865ae4_upload-1-39hzh03g8tqp-capture-d-ecran-du-2026-06-27-13-25-45.png",
-      "published_at": "2026-06-28T07:00:14+02:00",
+      "title": "EN DIRECT, guerre en Ukraine : Kiev revendique deux nouvelles attaques sur des raffineries en Russie",
+      "url": "https://www.lemonde.fr/international/live/2026/06/28/en-direct-guerre-en-ukraine-kiev-revendique-deux-nouvelles-attaques-sur-des-raffineries-en-russie_6716525_3210.html",
+      "summary": "Le président ukrainien, Volodymyr Zelensky, a affirmé que l’armée ukrainienne avait frappé pendant la nuit deux raffineries de pétrole en Russie, à Slaviansk, dans la région russe de Krasnodar, et dans la région de Iaroslavl, à près de 700 kilomètres de la frontière.",
+      "image": "https://img.lemde.fr/2026/06/18/326/0/3724/1862/644/322/60/0/e2bce57_ftp-1-lidusafnfem9-2026-06-18t095918z-1793287518-rc28wla158fs-rtrmadp-3-ukraine-crisis-attack-moscow.JPG",
+      "published_at": "2026-06-28T10:53:37+02:00",
       "source": "Le Monde Inter",
       "category": "International",
-      "id": "0ef82710ede8"
+      "id": "787879e72217"
     },
     {
-      "title": "«Là, le but c’est d’être capable d’arriver sur une cible précise» : en Alsace, un bac pro avec option drone unique en France",
-      "url": "https://www.liberation.fr/societe/education/la-le-but-cest-detre-capable-darriver-sur-une-cible-precise-en-alsace-un-bac-pro-avec-option-drone-unique-en-france-20260628_SCOE2AUWSBAKNLRMI2R2V3FE3E/",
-      "summary": "A Sainte-Marie-aux-Mines (Haut-Rhin), niché au pied des Vosges, onze élèves de terminale sont les premiers à suivre cette spécialisation dans le cadre du bac professionnel «Ciel» pour cybersécurité, informatique et réseaux, électronique.",
+      "title": "Ces supportrices qui n'existent pas : comment l'IA hypersexualise le Mondial 2026",
+      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/ces-supportrices-qui-n-existent-pas-comment-l-ia-hypersexualise-le-mondial-2026_8081333.html#xtor=RSS-3-[lestitres]",
+      "summary": "Depuis le début de la Coupe du monde, les réseaux sociaux débordent de vidéos de supportrices \"au visage parfait\" filmées dans les tribunes. La plupart n'existent pas, elles sont fabriquées par intelligence artificielle, dans un but souvent très lucratif.",
+      "image": "https://www.franceinfo.fr/pictures/2R7g8cUZUgBwuZWreRK_c4RdzAY/0x7:599x343/432x243/filters:format(jpg)/2026/06/26/6a3e93ba04b75250902650.png",
+      "published_at": "2026-06-28T10:52:49+02:00",
+      "source": "France Info",
+      "category": "Tech",
+      "id": "21bf5ad73fa6"
+    },
+    {
+      "title": "Coupe du monde 2026 : quelles équipes ont brillé lors de la phase de groupes et lesquelles ont déçu ?",
+      "url": "https://www.lemonde.fr/sport/article/2026/06/28/coupe-du-monde-2026-quelles-equipes-ont-brille-lors-de-la-phase-de-groupes-et-lesquelles-ont-decu_6716554_3242.html",
+      "summary": "On connaît désormais le nom des 32 sélections qualifiées pour les seizièmes de finale du Mondial 2026. Entre le Cap-Vert, invité surprise, le carton plein de la France et la désillusion de l’Uruguay, voici tout ce qu’il faut retenir de la phase de groupes.",
+      "image": "https://img.lemde.fr/2026/06/27/928/0/5418/2709/644/322/60/0/b7f93e9_ftp-1-7xdezdkbbb2a-5458333-01-06.jpg",
+      "published_at": "2026-06-28T10:47:42+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "32c947d6b119"
+    },
+    {
+      "title": "Foudre, vent, grêle... Après la canicule, d'impressionnants orages ont traversé la France samedi soir",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/en-images-foudre-vent-grele-apres-la-canicule-d-impressionnants-orages-ont-traverse-la-france-samedi-soir_8083475.html#xtor=RSS-3-[lestitres]",
+      "summary": "Quatorze départements passeront en vigilance orange orage ce dimanche dans l'après-midi, de l'Auvergne aux Pyrénées-Atlantiques.",
+      "image": "https://www.franceinfo.fr/pictures/DmNEzSugLDcykPohOSMhyxMmT7A/0x625:6000x4000/432x243/filters:format(jpg)/2026/06/28/6a40d6a70c5f8411325454.jpg",
+      "published_at": "2026-06-28T10:37:24+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "3367d1b50ace"
+    },
+    {
+      "title": "Les Bleus face à la Suède, un choc Portugal-Croatie, l'Argentine pour le Cap-Vert... Découvrez le tableau final de la Coupe du monde 2026",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/la-surprise-cap-verdienne-les-favoris-au-rendez-vous-decouvrez-le-tableau-final-de-la-coupe-du-monde_8082434.html#xtor=RSS-3-[lestitres]",
+      "summary": "La phase de poules du Mondial a pris fin dans la nuit de samedi à dimanche avec le dénouement des groupes J, L et K.",
+      "image": "https://www.franceinfo.fr/pictures/NingWLOWqb_C1FyTJRrNx1k95aw/0x0:4018x2260/432x243/filters:format(jpg)/2026/06/27/6a40229671f75859359992.jpg",
+      "published_at": "2026-06-28T10:32:27+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "650e8a616066"
+    },
+    {
+      "title": "Qualification à l’arrache de l’Algérie, nouveau but de Messi, début des seizièmes… L’actu de la Coupe du monde ce dimanche 28 juin",
+      "url": "https://www.liberation.fr/international/moyen-orient/qualification-a-larrache-de-lalgerie-nouveau-but-de-messi-debut-des-seiziemes-lactu-de-la-coupe-du-monde-ce-dimanche-28-juin-20260628_QIEVKJ6TRZHI7AYXU3PEXYL4ME/",
+      "summary": "L’essentiel des informations du jour sur le Mondial au Canada, aux Etats-Unis et au Mexique.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-06-28T08:27:45+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "f2d5483fbbde"
+    },
+    {
+      "title": "EN DIRECT - Guerre au Moyen-Orient : nouvel échange de frappes entre les Etats-Unis et l’Iran, que Trump menace d’anéantir",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-nouvel-echange-de-frappes-entre-les-etats-unis-et-liran-que-trump-menace-daneantir-20260628_IHDZQQXEJJBKJJCVRBBYPAYBSQ/",
+      "summary": "Alors que le ton monte à nouveau entre Téhéran et Washington, des missiles et drones iraniens ont de nouveau été lancés contre le Koweït et Bahreïn ce dimanche.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-06-28T08:17:28+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "165aa328722a"
+    },
+    {
+      "title": "Mortalité due à la canicule, dépenses de santé... L'interview de Philippe Juvin dans le \"8h30 franceinfo\"",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mortalite-due-a-la-canicule-depenses-de-sante-l-interview-de-philippe-juvin-dans-le-8h30-franceinfo_8020862.html#xtor=RSS-3-[lestitres]",
+      "summary": "Philippe Juvin, député Les Républicains des Hauts-de-Seine, chef des urgences de l'hôpital européen Georges-Pompidou à Paris, était l’invité du \"8h30 franceinfo\", dimanche 28 juin.",
+      "image": "https://www.franceinfo.fr/pictures/uMKVHg-Z8Ud3Ld3mGTgfIh5lGS8/218x0:1034x459/432x243/filters:format(jpg)/2026/06/28/6a40c3c80ec72751839138.jpg",
+      "published_at": "2026-06-28T10:15:07+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "9d2344194ebc"
+    },
+    {
+      "title": "Au Venezuela, un garçon de 11 ans retrouvé vivant, trois jours après les séismes",
+      "url": "https://www.franceinfo.fr/monde/venezuela/au-venezuela-un-garcon-de-11-ans-retrouve-vivant-trois-jours-apres-les-seismes_8083499.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les secousses de magnitude 7,2 et 7,5 qui ont frappé le nord du pays mercredi ont particulièrement touché La Guaira.",
+      "image": "https://www.franceinfo.fr/pictures/e4FBEpcVr_g_p2rfdiS_iyJxuig/0x367:3510x2342/432x243/filters:format(jpg)/2026/06/28/6a40d6e755fc4013186729.jpg",
+      "published_at": "2026-06-28T10:12:06+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "37ab417b7640"
+    },
+    {
+      "title": "Nouvelle-Calédonie : les électeurs votent dimanche pour des provinciales à hauts enjeux",
+      "url": "https://www.lemonde.fr/politique/article/2026/06/28/nouvelle-caledonie-les-electeurs-votent-dimanche-pour-des-provinciales-a-hauts-enjeux_6716553_823448.html",
+      "summary": "Quelque 192 500 électeurs ont été appelés à renouveler les assemblées des trois provinces, dont la province Sud, qui concentre près de 75 % de la population et l’essentiel de l’activité économique.",
+      "image": "https://img.lemde.fr/2026/06/27/694/0/7122/3561/644/322/60/0/28ca1d3_ftp-1-8akhryyzunmn-5465505-01-06.jpg",
+      "published_at": "2026-06-28T10:09:22+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "ffafc9ad7ce0"
+    },
+    {
+      "title": "Le maintien de la flotte de Canadair, enjeu-clé de la lutte contre les feux de forêt : « Une fois encore, on va devoir s’adapter, en espérant que tout ira bien ! »",
+      "url": "https://www.lemonde.fr/planete/article/2026/06/28/le-maintien-de-la-flotte-de-canadair-enjeu-cle-de-la-lutte-contre-les-feux-de-foret-une-fois-encore-on-va-devoir-s-adapter-en-esperant-que-tout-ira-bien_6716552_3244.html",
+      "summary": "Bien que la direction de la sécurité civile se réjouisse de la disponibilité, au 24 juin, de 20 de leurs 23 avions, les pilotes regrettent que des Canadair aient manqué à l’appel au moment de la préparation de la saison des feux.",
+      "image": "https://img.lemde.fr/2026/06/26/373/0/8256/4128/644/322/60/0/4e3306e_upload-1-uutkekdjolvd-000-b4yh8y6.jpg",
+      "published_at": "2026-06-28T10:05:02+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "c53453825d0a"
+    },
+    {
+      "title": "Des astronomes ont découvert une planète parcourue par des nuages de roches",
+      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/des-astronomes-ont-decouvert-une-planete-parcourue-par-des-nuages-de-roches_8076422.html#xtor=RSS-3-[lestitres]",
+      "summary": "Après le soleil de plomb qui a fait notre quotidien, cette semaine, des astronomes de la NASA ont découvert un étrange cycle nuageux fait de pierres, dans une planète très, très lointaine.",
+      "image": "https://www.franceinfo.fr/pictures/Rhikdt_Sgpc2al_PU8QcIEvZrbQ/0x0:2309x1299/432x243/filters:format(jpg)/2026/06/24/6a3c0568f3335071482398.jpg",
+      "published_at": "2026-06-28T10:00:04+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "39769583b2c9"
+    },
+    {
+      "title": "\"Il n'était pas question de rater Léon Marchand\" : à Saint-Etienne, le Chaudron a changé d'adresse pour le retour de l'enfant prodigue",
+      "url": "https://www.franceinfo.fr/sports/natation/leon-marchand/reportage-il-n-etait-pas-question-de-rater-leon-marchand-a-saint-etienne-le-chaudron-a-change-d-adresse-pour-le-retour-de-l-enfant-prodigue_8082770.html#xtor=RSS-3-[lestitres]",
+      "summary": "Léon Marchand a fait son retour en compétition dans l'Hexagone pour la première fois depuis les JO 2024 aux championnats de France, samedi à Saint-Etienne. À cette occasion, il a signé la 5e meilleure performance de l'histoire sur le 400 m 4 nages.",
+      "image": "https://www.franceinfo.fr/pictures/3MOiCXrEY_ABtnc0R_1dBExRn3s/0x348:5338x3351/432x243/filters:format(jpg)/2026/06/27/6a3ffbcf973cb865281797.jpg",
+      "published_at": "2026-06-28T09:39:45+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "973fa1ec8214"
+    },
+    {
+      "title": "A Nantes, un jeune homme tué par balle pendant la nuit de samedi à dimanche, le cinquième en deux mois",
+      "url": "https://www.lemonde.fr/societe/article/2026/06/28/a-nantes-un-jeune-homme-tue-par-balle-pendant-la-nuit-de-samedi-a-dimanche-le-cinquieme-en-deux-mois_6716549_3224.html",
+      "summary": "Dimanche, vers 4 h 30, les pompiers sont intervenus dans le nord de la ville pour prendre en charge un homme de 19 ans en arrêt cardiorespiratoire à la suite d’une « agression » par arme à feu. Les circonstances de cet homicide restent pour l’heure indéterminées.",
+      "image": "https://img.lemde.fr/2024/10/24/187/0/2250/1125/644/322/60/0/d05c97a_1729786778834-frame-161.jpg",
+      "published_at": "2026-06-28T09:35:48+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "b89f243bef58"
+    },
+    {
+      "title": "A Budapest, des dizaines de milliers de personnes ont défilé pour la première marche des fiertés de l'après Viktor Orban, sous la canicule",
+      "url": "https://www.franceinfo.fr/societe/lgbt/a-budapest-des-dizaines-de-milliers-de-personnes-ont-defile-pour-la-premiere-marche-des-fiertes-de-l-apres-viktor-orban-sous-la-canicule_8083454.html#xtor=RSS-3-[lestitres]",
+      "summary": "La victoire électorale de Peter Magyar, qui a mis fin à 16 ans de gouvernement Orban, a suscité un immense soulagement au sein de la communauté LGBT+ du pays.",
+      "image": "https://www.franceinfo.fr/pictures/xStrfD3W2xOMI5iyFlw4qLuavS0/0x315:4000x2565/432x243/filters:format(jpg)/2026/06/28/6a40cdbd704a4347933964.jpg",
+      "published_at": "2026-06-28T09:32:20+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "cf49bd914eab"
+    },
+    {
+      "title": "Finale du Top 14 : Toulouse reste sur le trône du rugby français",
+      "url": "https://www.liberation.fr/sports/rugby/finale-du-top-14-toulouse-reste-sur-le-trone-du-rugby-francais-20260628_RJNKLQX52ZF35BACJHJ5WCZBAM/",
+      "summary": "Vainqueur de Montpellier, 28-20, samedi 27 juin au Stade de France, le club enchaîne un quatrième titre consécutif, synonyme de domination écrasante à l’échelle nationale.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-06-28T07:27:32+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "475996d71e24"
+    },
+    {
+      "title": "Polars et thrillers : les dix indispensables romans noirs français à lire à l’ombre cet été 2026",
+      "url": "https://www.franceinfo.fr/culture/livres/polars-et-thrillers-les-dix-indispensables-romans-noirs-francais-a-lire-a-l-ombre-cet-ete-2026_8063015.html#xtor=RSS-3-[lestitres]",
+      "summary": "De \"La colline\" de Mathilde Beaussault au \"14 juillet\" de Benjamin Dierstein, en passant par le \"Dernier sanglot\" de Danielle Thiery ou encore \"L'Autre moi\" de Franck Thilliez, voici le choix de la rédaction de Franceinfo Culture pour le premier semestre 2026.",
+      "image": "https://www.franceinfo.fr/pictures/7We2AW9YhoCv3RHOSj_tL41m4oQ/144x793:2540x2142/432x243/filters:format(jpg)/2026/06/16/6a3115fe03885734197174.jpg",
+      "published_at": "2026-06-28T09:16:44+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "7b7b0e2090a9"
+    },
+    {
+      "title": "Israël, qui affirme avoir tué plusieurs « terroristes » en Syrie, veut maintenir sa présence sur le plateau du Golan",
+      "url": "https://www.lemonde.fr/international/article/2026/06/28/israel-qui-affirme-avoir-tue-plusieurs-terroristes-en-syrie-veut-maintenir-sa-presence-sur-le-plateau-du-golan_6716547_3210.html",
+      "summary": "L’Etat hébreu a mené, depuis l’arrivée au pouvoir en Syrie de nouvelles autorités islamistes, des incursions répétées en territoire syrien, ainsi que des bombardements, et a déclaré vouloir une zone démilitarisée dans le sud du pays.",
+      "image": "https://img.lemde.fr/2026/05/01/675/0/6504/3252/644/322/60/0/9a8932f_ftp-1-mykxulaculuy-5915924-01-06.jpg",
+      "published_at": "2026-06-28T09:15:31+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "0b1d8183af6d"
+    },
+    {
+      "title": "« Les administrations ne savent jamais dans quelle case me mettre, étudiante ou mère » : quand l’université ignore la parentalité",
+      "url": "https://www.lemonde.fr/campus/article/2026/06/28/les-administrations-ne-savent-jamais-dans-quelle-case-me-mettre-etudiante-ou-mere-quand-l-universite-ignore-la-parentalite_6716546_4401467.html",
+      "summary": "Minoritaires dans les universités, des étudiantes enceintes ou mères composent avec charge mentale, contraintes matérielles et arrangements administratifs, dans un cadre encore peu adapté.",
+      "image": "https://img.lemde.fr/2026/06/26/344/0/4175/2087/644/322/60/0/ea32f8f_upload-1-ei9qaadlxf2m-lemonde2.jpg",
+      "published_at": "2026-06-28T09:00:16+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "bbe02b4569d1"
+    },
+    {
+      "title": "La vigilance rouge canicule ne concerne plus que le Haut et le Bas-Rhin, 45 départements toujours en orange après une nuit d'orages",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-vigilance-rouge-canicule-ne-concerne-plus-que-le-haut-et-le-bas-rhin-45-departements-toujours-en-orange-apres-une-nuit-d-orages_8083445.html#xtor=RSS-3-[lestitres]",
+      "summary": "La baisse des températures s'est accompagnée samedi soir de forts orages sur plusieurs régions.",
+      "image": "https://www.franceinfo.fr/pictures/9-T2-QWdKwXpIGR3k9mO0ySW5bo/0x512:6000x3887/432x243/filters:format(jpg)/2026/06/28/6a40afa596c63510213119.jpg",
+      "published_at": "2026-06-28T08:59:00+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "4bf51b5da65a"
+    },
+    {
+      "title": "En Russie, une attaque ukrainienne fait un mort et provoque un incendie dans une raffinerie",
+      "url": "https://www.franceinfo.fr/monde/russie/en-russie-une-attaque-ukrainienne-fait-un-mort-et-provoque-un-incendie-dans-une-raffinerie_8083442.html#xtor=RSS-3-[lestitres]",
+      "summary": "La raffinerie de Slaviansk-sur-Kouban est l'une des plus grandes du sud de la Russie et a déjà été touchée par des frappes.",
+      "image": "https://www.franceinfo.fr/pictures/6cO0X-sTpOSU7TedagSOnkdxl2k/0x206:3965x2436/432x243/filters:format(jpg)/2026/06/28/6a40c24430877782415828.jpg",
+      "published_at": "2026-06-28T08:46:52+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "203a2ec9b1bd"
+    },
+    {
+      "title": "\"Raviver l’âme de la révolution\" : un an et demi après la chute du régime, la contestation grandit en Syrie lors du procès de figures du clan Assad",
+      "url": "https://www.franceinfo.fr/monde/revolte-en-syrie/il-faut-raviver-l-ame-de-la-revolution-un-an-et-demi-apres-la-chute-du-regime-la-contestation-grandit-en-syrie-pendant-le-proces-de-figures-du-clan-assad_8082932.html#xtor=RSS-3-[lestitres]",
+      "summary": "Des milliers de Syriens sont descendus dans les rues pour réclamer notamment une accélération des poursuites contre les responsables des crimes de l’ancien régime.",
+      "image": "https://www.franceinfo.fr/pictures/-h3vGgXx_kYC0mwydSaGQqHwXw8/0x0:1023x575/432x243/filters:format(jpg)/2026/02/08/000-88zr7td-6988301247474224487555.jpg",
+      "published_at": "2026-06-28T08:40:42+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "e62f52262306"
+    },
+    {
+      "title": "Mon proprio impitoyable : «A chacune de ses notifications, j’ai des sueurs froides»",
+      "url": "https://www.liberation.fr/lifestyle/argent-boulot/mon-proprio-impitoyable-a-chacune-de-ses-notifications-jai-des-sueurs-froides-20260628_JYYZWHNTNJDQHAHKPV7XGC7Z4Q/",
+      "summary": "Trouver un logement peut s‘avérer difficile. Mais les relations avec le propriétaire le sont parfois plus. Dans le septième épisode de notre série, Emilie et ses colocataires ont dû avoir recours aux archives de Google Street View pour se défendre d’accusations mensongères.",
       "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-06-28T04:37:00+00:00",
+      "published_at": "2026-06-28T06:32:00+00:00",
       "source": "Libération",
       "category": "Tech",
-      "id": "c83eed3702c3"
+      "id": "b5b4af5cbeea"
     },
     {
-      "title": "« J’attends une heure que ça fasse effet, et je dors ensuite pendant dix heures » : aux Etats-Unis, le cannabis consommé par de plus en plus de seniors",
-      "url": "https://www.lemonde.fr/intimites/article/2026/06/28/j-attends-une-heure-que-ca-fasse-effet-et-je-dors-ensuite-pendant-dix-heures-aux-etats-unis-le-cannabis-consomme-par-de-plus-en-plus-de-seniors_6716535_6190330.html",
-      "summary": "« Cartes vermeil ». Une fois par mois, un de nos journalistes raconte comment on vieillit hors de nos frontières. Outre-Atlantique, la consommation de cannabis augmente chez les plus de 65 ans, qui y ont recours pour des raisons médicales et/ou récréatives.",
-      "image": "https://img.lemde.fr/2026/06/22/1875/0/4500/2250/644/322/60/0/0073398_upload-1-ss6nsbhaass5-nicholas-albrecht-le-monde-weed-seniors-036.jpg",
-      "published_at": "2026-06-28T06:30:04+02:00",
-      "source": "Le Monde Inter",
+      "title": "Câbles brûlants, écrans illisibles et humains en surchauffe : les limites des stations de recharge face aux fortes températures",
+      "url": "https://www.numerama.com/vroom/2285751-cables-brulants-ecrans-illisibles-et-humains-en-surchauffe-les-limites-des-stations-de-recharge-face-aux-fortes-temperatures.html",
+      "summary": "La canicule transforme chaque recharge en petite épreuve. Et si le vrai problème des bornes n’était plus la puissance… mais l’endroit où l'on attend ? C'est un édito pour la newsletter Watt Else du 25 juin 2026 un peu coup de gueule.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-28T06:26:00+00:00",
+      "source": "Numerama",
       "category": "Politique",
-      "id": "e37aa7a5a9fa"
+      "id": "3202ac26b876"
     },
     {
-      "title": "Vladimir Poutine ou la solitude de l’« Homo sovieticus »",
-      "url": "https://www.lemonde.fr/international/article/2026/06/28/vladimir-poutine-ou-la-solitude-de-l-homo-sovieticus_6716532_3210.html",
-      "summary": "Entre déni de réalité, désir de revanche et communication calibrée, le président russe tente de se poser en maître du jeu. Mais, après plus de quatre ans de guerre en Ukraine, ces vieilles ficelles héritées du passé soviétique montrent leurs limites, et l’homme fort du Kremlin est en perte de crédibilité.",
-      "image": "https://img.lemde.fr/2026/06/22/500/0/6000/3000/644/322/60/0/8a5368f_upload-1-rztcakfyvjwj-015.JPG",
-      "published_at": "2026-06-28T06:00:23+02:00",
-      "source": "Le Monde Inter",
+      "title": "Guerre au Moyen-Orient : les Etats-Unis et l'Iran échangent de nouvelles frappes dans la nuit, Téhéran promet une \"riposte implacable\" en cas de nouvelle agression",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-et-l-iran-echangent-de-nouvelles-frappes-dans-la-nuit-teheran-promet-une-riposte-implacable-en-cas-de-nouvelle-agression_8083397.html#xtor=RSS-3-[lestitres]",
+      "summary": "Téhéran et Washington avaient déjà échangé des tirs pour la première fois depuis l'accord du 17 juin, dans la nuit de vendredi à samedi.",
+      "image": "https://www.franceinfo.fr/pictures/i0MuKo6u_bB9FP9iOFrCmOZKHHQ/0x236:4540x2790/432x243/filters:format(jpg)/2026/06/28/6a40b65aebb86398097841.jpg",
+      "published_at": "2026-06-28T08:12:44+02:00",
+      "source": "France Info",
       "category": "International",
-      "id": "c471ea36171b"
-    },
-    {
-      "title": "Feux de forêt : les pompiers se préparent à une saison de tous les dangers, en misant sur la formation et sur de nouvelles technologies",
-      "url": "https://www.lemonde.fr/planete/article/2026/06/28/feux-de-foret-les-pompiers-se-preparent-a-une-saison-de-tous-les-dangers-en-misant-sur-la-formation-et-sur-de-nouvelles-technologies_6716531_3244.html",
-      "summary": "Selon le classement national 2026, des massifs forestiers sont exposés au risque d’incendie dans 52 départements. Les sapeurs-pompiers ont tiré des enseignements des grands feux de 2025 et ont musclé leurs stratégies de réponse.",
-      "image": "https://img.lemde.fr/2026/06/26/976/0/5852/2926/644/322/60/0/cf4ff90_upload-1-qjhcckgxm3y3-000-68by6nq.jpg",
-      "published_at": "2026-06-28T06:00:22+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "cd362e44cc32"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : au moins deux blessés dans une attaque russe contre Kiev, selon l’administration militaire locale",
-      "url": "https://www.lemonde.fr/international/live/2026/06/28/en-direct-guerre-en-ukraine-au-moins-deux-blesses-dans-une-attaque-russe-contre-kiev-selon-l-administration-militaire-locale_6716525_3210.html",
-      "summary": "L’armée ukrainienne a annoncé, aux premières heures, dimanche, une attaque aérienne russe visant la capitale ukrainienne, où il y aurait eu au moins deux blessés, selon le chef de l’administration militaire de la ville, Tymour Tkatchenko.",
-      "image": "https://img.lemde.fr/2026/06/27/163/0/1600/800/644/322/60/0/4294d28_ftp-1-tc7p15j5rsup-5461501-01-06.jpg",
-      "published_at": "2026-06-28T05:48:06+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "d3daba3e11a4"
-    },
-    {
-      "title": "En cartes : comment la pression américaine enferme Cuba dans l’impasse économique",
-      "url": "https://www.lemonde.fr/international/visuel/2026/06/28/en-cartes-comment-la-pression-americaine-enferme-cuba-dans-l-impasse-economique_6716523_3210.html",
-      "summary": "Alors que Washington resserre l’étau et que le modèle économique cubain s’enlise dans la crise, l’île redevient un foyer majeur de tensions dans la région. Entre blocus de facto, finances exsangues et colère sociale, Cuba traverse l’une des périodes les plus explosives et incertaines de son histoire.",
-      "image": "https://img.lemde.fr/2026/06/26/199/0/2341/1170/644/322/60/0/248088d_upload-1-2hr5hjcdqasn-2606-cuba-media-appel-3.png",
-      "published_at": "2026-06-28T05:30:13+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "db76083b0cab"
-    },
-    {
-      "title": "D’« oiseau » à « trou » : l’abécédaire du quotidien vécu par des soldats russes sur le front",
-      "url": "https://www.lemonde.fr/international/article/2026/06/28/d-oiseau-a-trou-l-abecedaire-du-quotidien-vecu-par-des-soldats-russes-sur-le-front_6716521_3210.html",
-      "summary": "De quelque 7 000 lettres récupérées depuis le site du commissaire russe aux droits humains, l’anthropologue Alexandra Arkhipova a tiré un « dictionnaire ethnographique de la guerre », publié en russe sur le site d’« Echo », un média indépendant en exil. « Le Monde » a retenu cinq mots qui caractérisent les sévices subis par les militaires.",
-      "image": "https://img.lemde.fr/2026/06/26/694/0/4252/2126/644/322/60/0/0466269_upload-1-euila84knus6-le-monde.jpg",
-      "published_at": "2026-06-28T05:30:11+02:00",
-      "source": "Le Monde Inter",
-      "category": "Tech",
-      "id": "37100e7d5bf7"
-    },
-    {
-      "title": "Aide à mourir : à l’Assemblée nationale, la troisième lecture de la proposition de loi aboutit à un texte « sécurisé », selon ses partisans",
-      "url": "https://www.lemonde.fr/societe/article/2026/06/28/aide-a-mourir-a-l-assemblee-nationale-la-troisieme-lecture-de-la-proposition-de-loi-aboutit-a-un-texte-securise-selon-ses-partisans_6716520_3224.html",
-      "summary": "Après une semaine de débats, les députés ont achevé l’examen du texte, samedi, avant un vote solennel, mardi 30 juin. Ils ne pourront plus le modifier lors de la lecture définitive, après son passage au Sénat.",
-      "image": "https://img.lemde.fr/2026/06/26/133/0/8000/4000/644/322/60/0/ce2af81_upload-1-mjfk1at0z4sm-jmug260626055.jpg",
-      "published_at": "2026-06-28T05:29:37+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "396fa94dcab5"
-    },
-    {
-      "title": "Comment le dites-vous ? Ces mots du français à la prononciation variable",
-      "url": "https://www.lemonde.fr/la-matinale/article/2026/06/28/comment-le-dites-vous-ces-mots-du-francais-a-la-prononciation-variable_6716516_4866763.html",
-      "summary": "Le dernier dimanche de chaque mois, le service Correction du « Monde » propose sa sélection de curiosités, de trésors et de perles du français. Place, cette fois, à des mots dont la prononciation nous fait hésiter… et parfois trébucher.",
-      "image": "https://img.lemde.fr/2025/10/23/250/0/3000/1500/644/322/60/0/c2a2673_upload-1-ydrg0cezueyo-visuel-liste-matinale-correction.jpg",
-      "published_at": "2026-06-28T05:00:19+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "77a763d16c51"
-    },
-    {
-      "title": "« “Ne me tuez pas”, criait-il à son commandant » : dans leurs lettres, les soldats russes confrontent Vladimir Poutine aux réalités du front",
-      "url": "https://www.lemonde.fr/international/article/2026/06/28/ne-me-tuez-pas-criait-il-a-son-commandant-dans-leurs-lettres-les-soldats-russes-confrontent-vladimir-poutine-aux-realites-du-front_6716517_3210.html",
-      "summary": "Les autorités du Kremlin, conscientes des critiques des militaires et de leur famille face à la guerre en Ukraine, ont ouvert une plateforme les invitant à déposer leurs plaintes. Profitant d’une faille de sécurité, un média russe en exil a pu analyser près de 7 000 de ces écrits.",
-      "image": "https://img.lemde.fr/2026/06/25/893/0/4000/2000/644/322/60/0/68f1786_upload-1-on67o7s23kgh-008.JPG",
-      "published_at": "2026-06-28T05:00:13+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "7157814d0eb6"
-    },
-    {
-      "title": "« La canicule qui s’achève montre sans l’ombre d’un doute que, sans mesures fortes d’atténuation, l’adaptation sera impossible »",
-      "url": "https://www.lemonde.fr/planete/article/2026/06/28/la-canicule-qui-s-acheve-montre-sans-l-ombre-d-un-doute-que-sans-mesures-fortes-d-attenuation-l-adaptation-sera-impossible_6716515_3244.html",
-      "summary": "Les mesures de lutte contre le réchauffement ne sont pas de simples ajustements techniques. Or sur les politiques menées pour ralentir ou entraver la poursuite du réchauffement, les critiques de l’action conduite depuis dix ans s’accumulent, observe Stéphane Foucart, journaliste au service « Planète », dans sa chronique.",
-      "image": "https://img.lemde.fr/2026/06/26/954/0/5000/2500/644/322/60/0/b872328_upload-1-bx5mm9sgafkp-kzihnioglu-soc-metz-hopital-26062026-103.JPG",
-      "published_at": "2026-06-28T05:00:07+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "c4c22ccc7d17"
-    },
-    {
-      "title": "Adolescent battu à mort à Narbonne : Laurent Nuñez dénonce « une exploitation de l’extrême droite »",
-      "url": "https://www.lemonde.fr/societe/article/2026/06/28/adolescent-tabasse-a-mort-a-narbonne-laurent-nunez-denonce-une-exploitation-de-l-extreme-droite_6716480_3224.html",
-      "summary": "Louis, un jeune homme de 17 ans, a été roué de coups lors d’un guet-apens filmé et diffusé sur les réseaux sociaux. Il avait été découvert inanimé le 20 juin sur un chantier.",
-      "image": "https://img.lemde.fr/2026/06/09/666/0/8000/4000/644/322/60/0/b0327f8_upload-1-6k1shzk0vwjw-jmug260609022.jpg",
-      "published_at": "2026-06-28T02:54:05+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "07c1103a6199"
-    },
-    {
-      "title": "Coupe du monde 2026 : l’Angleterre sauve les meubles en battant le Panama mais ne rassure pas pour la suite",
-      "url": "https://www.lemonde.fr/sport/article/2026/06/28/coupe-du-monde-2026-l-angleterre-sauve-les-meubles-en-battant-le-panama-mais-ne-rassure-pas-pour-la-suite_6716479_3242.html",
-      "summary": "Les Three Lions ont peiné face à la défense adverse, même si Harry Kane a confirmé sa grande forme dans le tournoi. Premier de leur groupe, ils évitent un tableau compliqué en 16ᵉˢ et 8ᵉˢ de finale.",
-      "image": "https://img.lemde.fr/2026/06/27/181/0/3454/1727/644/322/60/0/d0a91b6_ftp-1-wiar84frh4ar-5466596-01-06.jpg",
-      "published_at": "2026-06-28T02:51:31+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "a34d974470ba"
-    },
-    {
-      "title": "Les Etats-Unis bombardent à nouveau l’Iran, les gardiens de la révolution disent frapper le Koweït et Bahreïn en représailles",
-      "url": "https://www.lemonde.fr/international/article/2026/06/28/les-etats-unis-bombardent-a-nouveau-l-iran-en-reponse-a-l-attaque-d-un-petrolier-pres-du-detroit-d-ormuz_6716478_3210.html",
-      "summary": "L’armée américaine affirme avoir ciblé des infrastructures stratégiques iraniennes, samedi, faisant craindre une nouvelle escalade régionale.",
-      "image": "https://img.lemde.fr/2026/06/26/528/0/5546/2773/644/322/60/0/23e37e9_ftp-1-yv9t6rkfpgt7-2026-06-26t190130z-1184252756-rc2v1ma5cz42-rtrmadp-3-usa-trump.JPG",
-      "published_at": "2026-06-28T02:26:33+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "861f7717890f"
-    },
-    {
-      "title": "Donald Trump nomme un ancien policier et ancien marine à la tête de l’ICE, la police de l’immigration",
-      "url": "https://www.lemonde.fr/international/article/2026/06/28/donand-trump-nomme-un-ancien-policier-et-ancien-marine-a-la-tete-de-l-ice-la-police-de-l-immigration_6716477_3210.html",
-      "summary": "La nomination de Lance Schroyer doit être théoriquement être validée par le Sénat, mais l’agence fédérale, vivement critiquée pour ses méthodes brutales, enchaîne les directeurs par intérim depuis plus d’une décennie.",
-      "image": "https://img.lemde.fr/2026/06/27/536/0/1638/819/644/322/60/0/3a63b34_ftp-1-10shjx9hrukc-2026-06-27t201855z-1180175876-rc2k2mahb573-rtrmadp-3-usa-trump-ice.JPG",
-      "published_at": "2026-06-28T02:06:49+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "1577fa756fc3"
-    },
-    {
-      "title": "Le Stade toulousain, citadelle imprenable du rugby français, s’offre un quadruplé historique en Top 14 sous l’orage",
-      "url": "https://www.lemonde.fr/sport/article/2026/06/28/le-stade-toulousain-citadelle-imprenable-du-rugby-francais-s-offre-un-quadruple-historique-en-top-14-sous-l-orage_6716476_3242.html",
-      "summary": "Les joueurs d’Ugo Mola ont remporté la finale du championnat de France de rugby, samedi au Stade de France, en venant à bout de la fougue des Montpelliérains et des éléments (28-20).",
-      "image": "https://img.lemde.fr/2026/06/27/1000/0/6000/3000/644/322/60/0/6f68bff_ftp-1-rco4lc1ixeji-5465231-01-06.jpg",
-      "published_at": "2026-06-28T02:04:42+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "893e18220f45"
-    },
-    {
-      "title": "Algérie - Autriche : les Fennecs et les Autrichiens se qualifient pour les seizièmes de finale après un match nul haletant",
-      "url": "https://www.lemonde.fr/sport/live/2026/06/28/en-direct-algerie-autriche-suivez-le-match-de-la-derniere-journee-du-groupe-j-de-la-coupe-du-monde-de-football_6716475_3242.html",
-      "summary": "Tenante du titre, l’Argentine était déjà assurée de terminer première du groupe J. Au terme d’une rencontre riche en rebondissements, l’Algérie et l’Autriche ont pris chacun un point, synonyme de qualification pour la phase à élimination directe.",
-      "image": "https://img.lemde.fr/2026/06/28/25/0/1918/959/644/322/60/0/99e0622_ftp-1-zsq3g2exgund-2026-06-28t042507z-93408881-up1em6s0bj8qa-rtrmadp-3-soccer-worldcup-dza-aut.JPG",
-      "published_at": "2026-06-28T02:00:04+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "6f5841a3f272"
-    },
-    {
-      "title": "EN DIRECT, canicule : plus que deux départements encore en vigilance rouge dimanche matin ; de violents orages dans la nuit",
-      "url": "https://www.lemonde.fr/planete/live/2026/06/28/en-direct-canicule-plus-que-deux-departements-encore-en-vigilance-rouge-dimanche-matin-de-violents-orages-dans-la-nuit_6710159_3244.html",
-      "summary": "A partir de 6 heures, Paris, toute l’Île-de-France ainsi que quatorze autres départements quitteront la vigilance rouge pour passer en orange. Les deux derniers départements encore concernés par l’alerte maximale sont le Bas-Rhin et le Haut-Rhin.",
-      "image": "https://img.lemde.fr/2026/06/27/570/0/6827/3413/644/322/60/0/7fb4dfb_ftp-1-fkccxsxz5isy-2026-06-27t233034z-915040897-rc2k2madgyck-rtrmadp-3-europe-weather-france.JPG",
-      "published_at": "2026-06-28T01:58:37+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "010f8b8555d8"
-    },
-    {
-      "title": "L’Assemblée nationale fait un pas de plus vers la création d’un droit à l’aide à mourir",
-      "url": "https://www.lemonde.fr/societe/article/2026/06/28/l-assemblee-nationale-fait-un-pas-de-plus-vers-la-creation-d-un-droit-a-l-aide-a-mourir_6716474_3224.html",
-      "summary": "Après une semaine de débats et l’examen de plus de 1 800 amendements, les députés ont verrouillé les derniers équilibres du texte sur la fin de vie, avant un vote solennel prévu mardi dans l’Hémicycle.",
-      "image": "https://img.lemde.fr/2026/06/26/0/0/8000/4000/644/322/60/0/8acc1c5_upload-1-ubr8op4vr4fm-jmug260626045.jpg",
-      "published_at": "2026-06-28T01:07:09+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "cb0100b61616"
-    },
-    {
-      "title": "Top 14 : revivez la folle finale entre Toulouse et Montpellier, interrompue par l'orage, et le quatrième sacre consécutif des Toulousains",
-      "url": "https://www.franceinfo.fr/sports/rugby/top-14/direct-finale-toulouse-montpellier-quatrieme-sacre-consecutif-pour-les-toulousains-ou-nouveau-titre-surprise-pour-le-mhr-suivez-avec-nous-l-epilogue-du-top-14_8079731.html#xtor=RSS-3-[lestitres]",
-      "summary": "Montpellier espérait soulever, samedi au Stade de France, le deuxième bouclier de Brennus de son histoire mais a craqué face au Stade toulousain, désormais quadruple champion de France en titre.",
-      "image": "https://www.franceinfo.fr/pictures/KswbUqpgy7nmCsm0r2sl0BBDm5c/0x175:3369x2071/432x243/filters:format(jpg)/2026/06/27/6a403bd673ff3033435642.jpg",
-      "published_at": "2026-06-27T23:20:46+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "a555d7f8a1ae"
-    },
-    {
-      "title": "Malgré une interruption due à l'orage, le Stade toulousain remporte son quatrième titre de rang en Top 14 en battant Montpellier",
-      "url": "https://www.franceinfo.fr/sports/rugby/top-14/malgre-l-interruption-due-a-l-orage-le-stade-toulousain-remporte-son-quatrieme-titre-de-rang-en-top-14-en-battant-montpellier20_8083067.html#xtor=RSS-3-[lestitres]",
-      "summary": "Pour la quatrième année de suite, les Toulousains ramènent le bouclier de Brennus chez eux, au terme d'une rencontre dantesque samedi soir, entre réveil de Montpellier et interruption due à l'orage. Ils se sont imposés 28 à 20.",
-      "image": "https://www.franceinfo.fr/pictures/iyGdUZ4o54mS57ARnqRqX28psn0/0x0:4600x2587/432x243/filters:format(jpg)/2026/06/27/6a403b1f6fe81449593210.jpg",
-      "published_at": "2026-06-27T23:17:43+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "0e25118116d2"
-    },
-    {
-      "title": "Toulouse-Montpellier : la finale de Top 14 interrompue par l'orage à la 59e minute",
-      "url": "https://www.franceinfo.fr/sports/rugby/top-14/toulouse-montpellier-la-finale-de-top-14-interrompue-par-l-orage-a-la-59e-minute_8083094.html#xtor=RSS-3-[lestitres]",
-      "summary": "Alors que le Stade toulousain se dirigeait vers un quatrième titre national de suite, l'orage est venu jouer les trouble-fêtes à vingt minutes de la fin du match au stade de France, samedi soir.",
-      "image": "https://www.franceinfo.fr/pictures/1RwUmGeOnj2cG5aXBrPxn60Kv7I/432x243/filters:format(jpg)/2026/06/27/6a400aa9b1b02829943745.jpg",
-      "published_at": "2026-06-27T22:53:42+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "caeb5a72c680"
-    },
-    {
-      "title": "Annecy 2026 : le festival du film d’animation récompense le long-métrage singapourien « La Violoniste »",
-      "url": "https://www.lemonde.fr/culture/article/2026/06/27/annecy-2026-le-festival-du-film-d-animation-recompense-le-film-singapourien-la-violoniste_6716408_3246.html",
-      "summary": "Le jury avait à départager des œuvres particulièrement poignantes et souvent symboliques d’un monde en mutation.",
-      "image": "https://img.lemde.fr/2026/06/27/60/0/1920/960/644/322/60/0/537cad6_upload-1-fejjuxzsgp6w-55236008999-eff9171516-o.jpg",
-      "published_at": "2026-06-27T22:08:52+02:00",
-      "source": "Le Monde",
-      "category": "Culture",
-      "id": "13f19f3bd4a4"
-    },
-    {
-      "title": "Caroline Proust : «Je ne vais certainement pas m’infliger d’aller voir un groupe que je déteste»",
-      "url": "https://www.liberation.fr/culture/musique/caroline-proust-je-ne-vais-certainement-pas-minfliger-daller-voir-un-groupe-que-je-deteste-20260627_PIXFBPDLFRFE5FU7225H7MINTU/",
-      "summary": "",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-06-27T19:43:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "73a2c0944dec"
-    },
-    {
-      "title": "Le ministre de l'Intérieur dénonce \"une exploitation de l'extrême droite\" après la mort de Louis, un ado tabassé à mort à Narbonne",
-      "url": "https://www.franceinfo.fr/faits-divers/le-ministre-de-l-interieur-denonce-une-exploitation-de-l-extreme-droite-apres-la-mort-de-louis-un-ado-tabasse-a-mort-a-narbonne_8083019.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un jeune de 17 ans confié à l'aide sociale à l'enfance est décédé après avoir été battu à mort à Narbonne lors d'un guet-apens. Cinq jeunes hommes âgés de 16 à 20 ans ont été mis en examen pour assassinat dans cette affaire.",
-      "image": "https://www.franceinfo.fr/pictures/n4WTZrIPZrBHWYu2wzUyvM3YlUk/0x53:1024x629/432x243/filters:format(jpg)/2026/06/27/6a401d336b386283960235.jpg",
-      "published_at": "2026-06-27T21:02:15+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "450cd9aabdcc"
-    },
-    {
-      "title": "Guerre en Ukraine : l’Ukraine frappe à nouveau une station de pompage de pétrole près de Moscou. Retrouvez les informations du 22 au 27 juin",
-      "url": "https://www.lemonde.fr/international/live/2026/06/27/en-direct-guerre-en-ukraine-l-ukraine-frappe-a-nouveau-une-station-de-pompage-de-petrole-pres-de-moscou_6706390_3210.html",
-      "summary": "Les forces ukrainiennes ont frappé samedi, pour la deuxième fois au cours du mois de juin, la station de pompage de pétrole de Vtorovo, située dans l’oblast russe de Vladimir, à environ 700 kilomètres de la frontière orientale de l’Ukraine, ont annoncé les services de sécurité ukrainiens (SBU).",
-      "image": "https://img.lemde.fr/2026/06/18/114/0/3588/1794/644/322/60/0/8f89e5f_ftp-1-rcg3qicvn0zn-2026-06-18t060450z-1074630815-rc26wlab5l2t-rtrmadp-3-ukraine-crisis-attack-moscow.JPG",
-      "published_at": "2026-06-27T21:01:46+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "b7639ff30068"
-    },
-    {
-      "title": "L'Assemblée fait un pas de plus vers la création d'un droit à l'aide à mourir, avant un vote mardi",
-      "url": "https://www.franceinfo.fr/societe/euthanasie/l-assemblee-fait-un-pas-de-plus-vers-la-creation-d-un-droit-a-l-aide-a-mourir-avant-un-vote-mardi_8082974.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le troisième examen de la proposition de loi visant à créer un droit à l'aide à mourir a pris fin samedi à l'Assemblée nationale, avant un vote prévu mardi dans l'hémicycle.",
-      "image": "https://www.franceinfo.fr/pictures/zL2rdxQSzo-FH5Hyah3r6gjmm64/0x53:1024x629/432x243/filters:format(jpg)/2026/06/27/6a4017d0aaeb6686721669.jpg",
-      "published_at": "2026-06-27T20:36:57+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "b47121945b55"
-    },
-    {
-      "title": "Falaise effondrée à Biarritz : les recherches pour retrouver le plongeur disparu définitivement arrêtées, annonce la municipalité",
-      "url": "https://www.franceinfo.fr/faits-divers/falaise-effondree-a-biarritz-les-recherches-pour-retrouver-le-plongeur-disparu-definitivement-arretees-annonce-la-municipalite_8083028.html#xtor=RSS-3-[lestitres]",
-      "summary": "Il y a deux jours, ce sont les pompiers qui avaient arrêtés les recherches. La mairie avait pris le relais.",
-      "image": "https://www.franceinfo.fr/pictures/5vw6FPCAZBMfwCPyz2KgHyjPAvE/0x53:1024x629/432x243/filters:format(jpg)/2026/06/26/6a3e4251eb858603148952.jpg",
-      "published_at": "2026-06-27T20:33:18+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "299b94fc91e7"
+      "id": "60d80354b0f4"
     }
   ]
 }
