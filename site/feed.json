@@ -1,26 +1,296 @@
 {
-  "generated_at": "2026-06-28T14:07:16.578344+00:00",
+  "generated_at": "2026-06-28T16:20:22.799166+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "EN DIRECT - Canicule : plus de 1 300 décès imputables à la chaleur en Europe, selon l’OMS",
+      "title": "En moyenne montagne, les artistes sur la piste d’un après-ski",
+      "url": "https://www.liberation.fr/culture/en-moyenne-montagne-les-artistes-sur-la-piste-dun-apres-ski-20260628_7B4ZBETFHZDHPAAELBTJXMFZCY/",
+      "summary": "Sur les pentes du massif de Belledonne, l’association Scènes obliques interroge le rôle que la culture peut jouer dans la transition d’un territoire bouleversé par le réchauffement climatique. Un projet mené en grande proximité avec les habitants et des chercheurs en sciences sociales.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-06-28T16:18:00+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "600fc2e47326"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : l'Iran prévient que toute ingérence dans sa gestion du détroit d'Ormuz risque \"d'accroître les tensions\"",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-et-l-iran-echangent-de-nouvelles-frappes-dans-la-nuit-teheran-promet-une-riposte-implacable-en-cas-de-nouvelle-agression_8083397.html#xtor=RSS-3-[lestitres]",
+      "summary": "Téhéran et Washington ont de nouveau échangé des tirs dans la nuit de samedi à dimanche.",
+      "image": "https://www.franceinfo.fr/pictures/Q9noR5W5oKPzt2DccFD-Pufztlw/0x25:4685x2660/432x243/filters:format(jpg)/2026/06/28/6a40f31a62d15753878531.jpg",
+      "published_at": "2026-06-28T18:15:51+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "60d80354b0f4"
+    },
+    {
+      "title": "Canicule : le Vaucluse placé en \"danger très élevé\" pour les feux de forêts à partir de lundi, sept autres départements du Sud-Est en risque \"élevé\"",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-la-vigilance-rouge-ne-concerne-plus-que-le-haut-et-le-bas-rhin-45-departements-toujours-en-orange-apres-une-nuit-d-orages_8083376.html#xtor=RSS-3-[lestitres]",
+      "summary": "La vigilance rouge canicule sera levée à 22 heures dans le Haut-Rhin et le Bas-Rhin, les deux derniers départements encore concernés par ce niveau d'alerte. Cinquante départements restent concernés par une vigilance orange canicule et/ou orages.",
+      "image": "https://www.franceinfo.fr/pictures/yVwG4l1dapoY2cmHTc5cEpd1VoM/0x53:1024x629/432x243/filters:format(jpg)/2026/06/28/6a41442d321e7476471385.jpg",
+      "published_at": "2026-06-28T18:15:17+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "4983edb9c673"
+    },
+    {
+      "title": "Accord Israël-Liban : la peine perdue d’une paix de papier",
+      "url": "https://www.liberation.fr/international/moyen-orient/accord-israel-liban-la-peine-perdue-dune-paix-de-papier-20260628_K36WPYHNJVCCVKOFLBIBDQAJ7U/",
+      "summary": "Derrière l’affichage diplomatique d’un accord présenté comme historique, Beyrouth reste pris entre les exigences israéliennes, les calculs iraniens et les fragilités de son propre Etat. Au risque de voir resurgir de vieilles divisions.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-06-28T16:01:25+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "5978fe15b310"
+    },
+    {
+      "title": "Terminator, Rambo, Mission Impossible : le public est-il prêt à voir de nouveaux acteurs dans les rôles cultes ?",
+      "url": "https://www.numerama.com/pop-culture/2286341-terminator-rambo-mission-impossible-le-public-est-il-pret-a-voir-de-nouveaux-acteurs-dans-les-roles-cultes.html",
+      "summary": "À l’ère des reboots systématiques et du recyclage des franchises à Hollywood, une question cruciale secoue l’industrie du cinéma : le spectateur peut-il accepter qu’un nouveau visage s'approprie une icône du septième art ? Si James Bond ou Batman ont prouvé leur nature interchangeable, des figures comme Rambo, le Terminator ou Ethan Hunt semblent viscéralement soudées à la chair de leurs interprèt",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-06-28T16:01:00+00:00",
+      "source": "Numerama",
+      "category": "Économie",
+      "id": "ff8934739cf6"
+    },
+    {
+      "title": "250 ans d’indépendance américaine : l’abandon de la démocratie multiraciale",
+      "url": "https://www.lemonde.fr/international/article/2026/06/28/250-ans-d-independance-americaine-l-abandon-de-la-democratie-multiraciale_6716579_3210.html",
+      "summary": "« America 250 » (7/13). Un siècle après sa création, le pays est composé de 38 Etats. Les divisions sur le traitement à réserver à la population noire persistent. L’esclavage a été aboli, au grand regret des démocrates. Si les républicains l’emportent à la présidentielle de 1876, c’est en échange de l’instauration de la ségrégation dans les Etats du Sud.",
+      "image": "https://img.lemde.fr/2026/06/24/120/0/3840/1920/644/322/60/0/f31cf6b_upload-1-zk0gq5a3ozhv-capture-d-e-cran-2026-06-24-a-17-28-39-3.jpg",
+      "published_at": "2026-06-28T18:00:09+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "908ee3e2df98"
+    },
+    {
+      "title": "De retour sur le circuit, Serena Williams \"déteste\" les règles antidopage mais les juge \"nécessaires\"",
+      "url": "https://www.franceinfo.fr/sports/tennis/serena-williams/de-retour-sur-le-circuit-serena-williams-deteste-les-regles-antidopage-mais-les-juge-necessaires_8083928.html#xtor=RSS-3-[lestitres]",
+      "summary": "À deux jours de son retour à Wimbledon, la légende américaine est revenue, dimanche, sur les règles antidopages qu'elles trouvent épuisantes.",
+      "image": "https://www.franceinfo.fr/pictures/SUx25egzBLbMh3NyueVGRtvQ5Qw/0x0:7198x4048/432x243/filters:format(jpg)/2026/06/28/6a413ea1a61f2760220682.jpg",
+      "published_at": "2026-06-28T17:42:31+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "ff77f61d74c3"
+    },
+    {
+      "title": "Jean-Luc Mélenchon a toujours la lutte contre l’impérialisme sélective",
+      "url": "https://www.liberation.fr/politique/jean-luc-melenchon-a-toujours-la-lutte-contre-limperialisme-selective-20260628_HC36ZRXBWNHDDPASHV4KHY7N6I/",
+      "summary": "Samedi, le candidat insoumis a réaffirmé son indulgence vis-à-vis des dictatures russe et chinoise, inexplicablement aveugle à leurs monstrueux méfaits. Pourquoi ?",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-06-28T15:42:00+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "4d3954ca54b0"
+    },
+    {
+      "title": "Crash d'un avion près de Nancy : le ministre de l'Intérieur, Laurent Nunez, est présent sur les lieux de l'accident à Tomblaine",
+      "url": "https://www.franceinfo.fr/faits-divers/accident/crash-d-un-avion-pres-de-nancy/direct-crash-d-un-avion-pres-de-nancy-l-appareil-est-tombe-a-pic-alors-qu-il-etait-en-phase-ascensionnelle-selon-le-maire-de-tomblaine_8083790.html#xtor=RSS-3-[lestitres]",
+      "summary": "Un avion de tourisme s'est écrasé dimanche en fin de matinée à Tomblaine, en Meurthe-et-Moselle. Onze personnes étaient à bord : le pilote ainsi que cinq moniteurs et cinq élèves, dans le cadre d'un baptême de saut en parachute. Aucune n'a survécu, a annoncé le préfet du département.",
+      "image": "https://www.franceinfo.fr/pictures/ZZC_iLg4J2miG9VJ8RrYWmgqW9A/0x365:7009x4308/432x243/filters:format(jpg)/2026/06/28/6a41187daac52398885967.jpg",
+      "published_at": "2026-06-28T17:31:55+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "5076d5c1bad7"
+    },
+    {
+      "title": "L’ISS pourrait polluer l’océan. Mais on ne sait pas comment faire pour s’en débarrasser autrement",
+      "url": "https://www.numerama.com/sciences/2283733-ce-soir-liss-pourrait-polluer-locean-mais-on-ne-sait-pas-comment-faire-pour-sen-debarrasser-autrement.html",
+      "summary": "Les plans sur l'avenir de la Station spatiale internationale sont toujours incertains. L'ISS est censée partir à la retraite d'ici 2030 et finir dans l'océan Pacifique. Mais une telle opération pourrait avoir des conséquences sur l'écosystème marin. Alors, comment faire ?",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-28T15:31:00+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "1460a1a854d3"
+    },
+    {
+      "title": "Antoine Dupont et Romain Ntamack renforcent le XV de France pour le nouveau Championnat des nations",
+      "url": "https://www.lemonde.fr/sport/article/2026/06/28/antoine-dupont-et-romain-ntamack-renforcent-le-xv-de-france-pour-le-nouveau-championnat-des-nations_6716577_3242.html",
+      "summary": "De nouveau sacrés champions de France avec le Stade toulousain, samedi, les deux joueurs, accompagnés de quatre coéquipiers de club et de trois Montpellierains, rejoignent l’équipe pour cette nouvelle compétition, mais manqueront le choc initial face aux All Blacks.",
+      "image": "https://img.lemde.fr/2026/06/28/112/0/3702/1851/644/322/60/0/a17d3c8_upload-1-hm89u3irbs4h-000-a3ax43b.jpg",
+      "published_at": "2026-06-28T17:25:12+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "4481f805cc18"
+    },
+    {
+      "title": "En Crimée, Kyiv veut transformer la péninsule en piège russe",
+      "url": "https://www.liberation.fr/international/europe/en-crimee-kyiv-veut-transformer-la-peninsule-en-piege-russe-20260628_RCOYISNGPRBV5NSV6RG3PBPPXU/",
+      "summary": "En ciblant routes, ponts, dépôts et infrastructures énergétiques de la presqu’île, l’Ukraine veut rendre son occupation intenable pour Moscou. Les autorités prorusses y ont déclaré l’état d’urgence vendredi 26 juin.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-06-28T15:19:18+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "23f36cdbded0"
+    },
+    {
+      "title": "Fin de la canicule, élections en Nouvelle-Calédonie, 16e de finale de la Coupe du monde… L’actu de ce week-end des 27 et 28 juin",
+      "url": "https://www.liberation.fr/international/europe/fin-de-la-canicule-elections-en-nouvelle-caledonie-16e-de-finale-de-la-coupe-du-monde-lactu-de-ce-week-end-des-27-et-28-juin-20260628_J3XZWVJHIBAAZPDDC3FWRD3DUY/",
+      "summary": "La rédaction de «Libération» récapitule les principales actualités des samedi 27 et dimanche 28 juin 2026.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-28T15:18:15+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "92fd85cd1728"
+    },
+    {
+      "title": "Le crash d’un avion de parachutisme près de l’aéroport de Nancy fait 11 morts",
+      "url": "https://www.liberation.fr/societe/le-crash-dun-avion-de-tourisme-en-meurthe-et-moselle-fait-11-morts-20260628_5WEZM33NYVALNOYNLSY3OF7QA4/",
+      "summary": "L’appareil transportait ce dimanche 28 juin un groupe de personnes pour un baptême de parachutisme. «Il n’y a pas de victimes collatérales», selon le préfet de Meurthe-et-Moselle. La cause de l’accident est inconnue à cette heure.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-06-28T15:15:03+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "6127d1a18a81"
+    },
+    {
+      "title": "Le prochain président de la République devra \"rendre le pouvoir aux Français\" pour être \"crédible\", juge Jean-Noël Barrot",
+      "url": "https://www.franceinfo.fr/politique/le-prochain-president-devra-rendre-le-pouvoir-aux-francais-pour-etre-credible-juge-jean-noel-barrot_8083823.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le ministre des Affaires étrangères et vice-président du MoDem a évoqué dimanche la prochaine échéance présidentielle.",
+      "image": "https://www.franceinfo.fr/pictures/gqJZiWL8YfXOimSqoO0ryH4WXNk/0x53:1024x629/432x243/filters:format(jpg)/2026/06/28/6a41272eb614c499285539.jpg",
+      "published_at": "2026-06-28T17:10:20+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "9bf9c576c928"
+    },
+    {
+      "title": "EN DIRECT - Canicule : plus aucun département en vigilance rouge lundi",
       "url": "https://www.liberation.fr/environnement/en-direct-canicule-les-autorites-sanitaires-ont-deja-recense-environ-1-000-deces-de-plus-que-la-normale-depuis-mercredi-20260628_7KW4YGO4HJBGJLBLDZHHDP4GJM/",
       "summary": "La chaleur commence à refluer : il n’y a plus que deux départements en vigilance rouge ce dimanche, en Alsace. Mais son impact à retardement sur les organismes maintient les hôpitaux sous forte tension et fait craindre une forte surmortalité.",
       "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-06-28T14:03:50+00:00",
+      "published_at": "2026-06-28T15:05:46+00:00",
       "source": "Libération",
       "category": "Économie",
       "id": "7b99cc2d84ef"
     },
     {
-      "title": "Le prochain président devra \"rendre le pouvoir aux Français\" pour être \"crédible\", juge Jean-Noël Barrot",
-      "url": "https://www.franceinfo.fr/politique/le-prochain-president-devra-rendre-le-pouvoir-aux-francais-pour-etre-credible-juge-jean-noel-barrot_8083823.html#xtor=RSS-3-[lestitres]",
-      "summary": "Pas candidat à l'élection présidentielle de 2027, le ministre des Affaires étrangères et vice-président du Modem a évoqué dimanche ses priorités pour la France en 2027",
-      "image": "https://www.franceinfo.fr/pictures/gqJZiWL8YfXOimSqoO0ryH4WXNk/0x53:1024x629/432x243/filters:format(jpg)/2026/06/28/6a41272eb614c499285539.jpg",
-      "published_at": "2026-06-28T16:02:05+02:00",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran bombarde à nouveau ses voisins du Golfe après des frappes des Etats-Unis",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-nouvel-echange-de-frappes-entre-les-etats-unis-et-liran-que-trump-menace-daneantir-20260628_IHDZQQXEJJBKJJCVRBBYPAYBSQ/",
+      "summary": "Alors que le ton monte à nouveau entre Téhéran et Washington, des missiles et drones iraniens ont de nouveau été lancés contre le Koweït et Bahreïn ce dimanche.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-06-28T15:05:12+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "165aa328722a"
+    },
+    {
+      "title": "Romain Grégoire sacré champion de France de cyclisme sur route pour la première fois de sa carrière",
+      "url": "https://www.franceinfo.fr/sports/cyclisme/cyclisme-romain-gregoire-sacre-champion-de-france-pour-la-premiere-fois-de-sa-carriere_8083808.html#xtor=RSS-3-[lestitres]",
+      "summary": "Vice-champion de France en 2025, le natif de Besançon avait fait de ce titre de champion de France l'objectif majeur de sa saison, dimanche.",
+      "image": "https://www.franceinfo.fr/pictures/tMwlIMOfJBCoNT1jxBvNLWYH0zs/432x243/filters:format(jpg)/2026/06/28/6a413ec9db338089461147.jpg",
+      "published_at": "2026-06-28T17:03:14+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "19c69a6a99ea"
+    },
+    {
+      "title": "Le centre pénitentiaire de Guyane au cœur de la lutte contre l’expansion des factions armées brésiliennes",
+      "url": "https://www.lemonde.fr/politique/article/2026/06/28/le-centre-penitentiaire-de-guyane-au-c-ur-de-la-lutte-contre-l-expansion-des-factions-armees-bresiliennes_6716576_823448.html",
+      "summary": "Afin de limiter l’emprise grandissante de ces organisations criminelles sur le territoire guyanais, le garde des sceaux Gérald Darmanin avait promis de transférer dans leur pays d’origine les détenus étrangers affiliés aux groupes mafieux. Mais cette stratégie se heurte pour l’instant au refus du Brésil.",
+      "image": "https://img.lemde.fr/2026/06/27/1271/0/7677/3838/644/322/60/0/bcdf1d0_upload-1-t0pqjdvwn92x-gettyimages-2283137894.jpg",
+      "published_at": "2026-06-28T17:00:25+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "9ec4b49df354"
+    },
+    {
+      "title": "Comment l’IA et le boom des data centers profitent à des industriels français de l’économie traditionnelle",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/28/comment-l-ia-et-le-boom-des-data-centers-profitent-a-des-industriels-francais-de-l-economie-traditionnelle_6716573_3234.html",
+      "summary": "Les besoins générés par les centres de données sont considérables et dopent l’activité de groupes a priori éloignés de la tech, comme Valeo et Schneider Electric.",
+      "image": "https://img.lemde.fr/2026/06/04/33/0/5500/2750/644/322/60/0/b3de2e0_ftp-1-efylf8rqsymj-2026-06-04t144614z-1195199212-rc2ymlaqaj0e-rtrmadp-3-france-datacenters-equinix.JPG",
+      "published_at": "2026-06-28T17:00:05+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "598b43de23ea"
+    },
+    {
+      "title": "« Le drame de la mort de Lyhanna doit être l’occasion d’un sursaut collectif » : l’appel de la Conférence nationale des procureurs généraux",
+      "url": "https://www.lemonde.fr/idees/article/2026/06/28/le-drame-de-la-mort-de-lyhanna-doit-etre-l-occasion-d-un-sursaut-collectif-l-appel-de-la-conference-nationale-des-procureurs-generaux_6716574_3232.html",
+      "summary": "Dans une tribune au « Monde », le bureau de la Conférence nationale des procureurs généraux plaide pour la mise en place d’« Assises des violences sur mineurs », capables d’établir une stratégie nationale afin que la réponse publique soit à la hauteur de l’évolution de cette criminalité.",
+      "image": "https://img.lemde.fr/2026/06/08/444/0/5315/2657/644/322/60/0/2fea88f_upload-1-zhyluzz3rdwg-camillegharbi-le-monde-rassemblement-lyhanna-9183.jpg",
+      "published_at": "2026-06-28T17:00:05+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "340f9e3e9bd5"
+    },
+    {
+      "title": "Coupe du monde 2026 : « Neuf équipes africaines qualifiées sur dix, c’est remarquable », salue l’ancien gardien camerounais Joseph-Antoine Bell",
+      "url": "https://www.lemonde.fr/sport/article/2026/06/28/coupe-du-monde-2026-neuf-equipes-africaines-qualifiees-sur-dix-c-est-remarquable-salue-l-ancien-gardien-camerounais-joseph-antoine-bell_6716575_3242.html",
+      "summary": "Alors que l’Afrique du Sud défie dimanche le Canada en seizièmes de finale, le bilan des équipes africaines engagées dans le Mondial 2026 est très positif, selon Joseph-Antoine Bell. Revue d’effectifs, de la surprise du Cap-Vert à la confirmation du Maroc, en passant par la déception tunisienne.",
+      "image": "https://img.lemde.fr/2026/06/21/135/0/5239/2619/644/322/60/0/0a0d376_ftp-1-srcbjlzt2c53-5400492-01-06.jpg",
+      "published_at": "2026-06-28T17:00:05+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "61c11b98427d"
+    },
+    {
+      "title": "Fin de la vigilance rouge canicule à 22 heures dans les deux départements encore concernés, de nombreux départements toujours en alerte orange pour canicule ou orages",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-vigilance-rouge-canicule-ne-concerne-plus-que-le-haut-et-le-bas-rhin-45-departements-toujours-en-orange-apres-une-nuit-d-orages_8083445.html#xtor=RSS-3-[lestitres]",
+      "summary": "La baisse des températures s'est accompagnée samedi soir de forts orages sur plusieurs régions.",
+      "image": "https://www.franceinfo.fr/pictures/9-T2-QWdKwXpIGR3k9mO0ySW5bo/0x512:6000x3887/432x243/filters:format(jpg)/2026/06/28/6a40afa596c63510213119.jpg",
+      "published_at": "2026-06-28T16:59:46+02:00",
       "source": "France Info",
       "category": "Politique",
-      "id": "9bf9c576c928"
+      "id": "4bf51b5da65a"
+    },
+    {
+      "title": "Crash d’avion près de Nancy : les principaux accidents d’appareils légers en France depuis trente ans",
+      "url": "https://www.liberation.fr/societe/crash-davion-pres-de-nancy-les-principaux-accidents-dappareils-legers-en-france-depuis-trente-ans-20260628_AQZELWZWEVBTPN5ZSHTQQKOBCY/",
+      "summary": "Le drame qui a fait onze morts ce dimanche près de Nancy lors d’un baptême de parachutisme est l’un des plus graves qu’a connu la France dans son histoire récente.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-06-28T14:59:04+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "5fd608594e84"
+    },
+    {
+      "title": "Présidentielle 2027 : Jean-Noël Barrot appelle à « rendre le pouvoir aux Français » face au RN et à LFI",
+      "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/06/28/presidentielle-2027-jean-noel-barrot-appelle-a-rendre-le-pouvoir-aux-francais-face-au-rn-et-a-lfi_6716572_6205049.html",
+      "summary": "Le ministre des affaires étrangères propose des réformes majeures, dont un référendum sur la décentralisation et le service civique obligatoire, pour revitaliser la démocratie française.",
+      "image": "https://img.lemde.fr/2026/05/26/451/0/5442/2721/644/322/60/0/05836f8_ftp-1-idhgjj7p6elq-2026-05-26t081640z-2035114260-rc2wgla6i1gp-rtrmadp-3-france-politics.JPG",
+      "published_at": "2026-06-28T16:51:34+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "fdfedcc87647"
+    },
+    {
+      "title": "Coupe du monde 2026 : l'Afrique du Sud défie le Canada à 21 heures pour le premier 16e de finale",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-l-afrique-du-sud-defie-le-canada-a-21-heures-pour-le-premier-16e-de-finale_8083811.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'équipe de France poursuit sa préparation avant son match contre la Suède, mardi à 23 heures, alors qu'un choc entre le Pays-Bas et le Maroc se profile dans la nuit de lundi à mardi.",
+      "image": "https://www.franceinfo.fr/pictures/th_x8WWAFcQL0bMfUcbVxVwzsBQ/0x144:4500x2675/432x243/filters:format(jpg)/2026/06/28/6a4128e5ac4a5596171209.jpg",
+      "published_at": "2026-06-28T16:43:23+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "2e629ac0e575"
+    },
+    {
+      "title": "La Nintendo 64 fête ses 30 ans, et pourtant elle ne suscite que trop peu de nostalgie",
+      "url": "https://www.numerama.com/pop-culture/2282459-la-nintendo-64-fete-ses-30-ans-et-pourtant-elle-ne-suscite-que-trop-peu-de-nostalgie.html",
+      "summary": "Lorsque l'on pense retrogaming et Nintendo, on a tout de suite en tête l'époque dorée des bonnes vieilles cartouches grises distribuées dans des boîtes en carton d'une grande fragilité. Un descriptif qui correspond à la NES, la Super Nintendo, la Game Boy… mais aussi la Nintendo 64. Et pourtant, c'est rarement son souvenir qui suscite de la nostalgie chez les joueurs, exception faite de deux ou tr",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-06-28T14:17:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "2d9ec01aac5b"
+    },
+    {
+      "title": "D’autres canicules arrivent, notre exigence d’électeur doit s’intensifier",
+      "url": "https://www.liberation.fr/politique/dautres-canicules-arrivent-notre-exigence-delecteur-doit-sintensifier-20260628_IGIKBNGORVARNOMAAZLDCO3B7M/",
+      "summary": "Ceux qui ne font pas de ce défi la matrice de leur proposition politique doivent être sanctionnés pour leur incompétence, qui nous met tous en danger. On forme le vœu qu’un maximum de citoyens n’aient pas une mémoire de poisson rouge ou pire, de poisson rouge déshydraté.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-06-28T14:11:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "80ceef185db9"
+    },
+    {
+      "title": "Jean-Luc Mélenchon et LFI veulent \"restructurer les régions autour des fleuves\" : pour quoi faire et pourquoi ce n'est pas si simple",
+      "url": "https://www.franceinfo.fr/environnement/actions-ecologiques/jean-luc-melenchon-et-lfi-veulent-restructurer-les-regions-autour-des-fleuves-pour-quoi-faire-et-pourquoi-ce-n-est-pas-si-simple_8083088.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dans le cadre de la campagne pour l’élection présidentielle, La France insoumise propose de remplacer les régions de 2015 par des \"écorégions\" qui suivraient les contours des bassins hydrographiques. Ce projet, toujours en construction, interroge sur les contraintes que la forme des régions actuelles engendre pour la planification écologique.",
+      "image": "https://www.franceinfo.fr/pictures/FUGm_69ehhWz0tcWiJ1dPMOoii0/0x0:3860x2171/432x243/filters:format(jpg)/2026/06/27/6a40383a403a0168859050.jpg",
+      "published_at": "2026-06-28T16:09:05+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "06170f443121"
     },
     {
       "title": "«Choisir ce à quoi on renonce» : Bercy prépare la facture des crises et de nouvelles économies",
@@ -31,276 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "4929d5c2f176"
-    },
-    {
-      "title": "«Je vis avec une famille de traumatisés» : six mois après l’incendie de Crans-Montana, les vies bouleversées de Leïla, David et Mayeul",
-      "url": "https://www.liberation.fr/societe/police-justice/je-vis-avec-une-famille-de-traumatises-six-mois-apres-lincendie-de-crans-montana-les-vies-bouleversees-de-leila-david-et-mayeul-20260628_O4QV2PRHLZEH3M6DZF73OWGFZE/",
-      "summary": "Ils étaient sur les lieux du drame, dans la station de ski, ce 1er janvier, quand les flammes ont ravagé le Constellation, faisant 41 morts et 115 blessés : une mère de deux victimes, le chef des pompiers de la ville et un étudiant français, brûlé dans le bar. Ils se livrent à «Libération».",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-06-28T13:56:35+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "5fea91a00884"
-    },
-    {
-      "title": "BD érotique : cinq choses à savoir sur un genre qui se renouvelle grâce aux femmes",
-      "url": "https://www.franceinfo.fr/culture/livres/bd-erotique-cinq-choses-a-savoir-sur-un-genre-qui-se-renouvelle-grace-aux-femmes_8081216.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le dessin érotique est devenu le terrain de jeu des autrices et des illustratrices. Leur présence est le fait d'une évolution de la société mais reflète aussi une démarche philosophique et esthétique qui diffère de celle de leurs alter ego masculins.",
-      "image": "https://www.franceinfo.fr/pictures/21Kbjh2yADWHYruem-VRYHEzePw/0x75:1200x750/432x243/filters:format(jpg)/2026/06/28/6a404abe683d0716343546.jpg",
-      "published_at": "2026-06-28T15:39:13+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "2b6ac6534a57"
-    },
-    {
-      "title": "Félicité Herzog, fracas de conscience",
-      "url": "https://www.liberation.fr/portraits/felicite-herzog-fracas-de-conscience-20260628_WS7TM4UWBVA2PKAUCL25S5FCJU/",
-      "summary": "La femme d’affaires et écrivaine, ex-fidèle de Bolloré, a lancé l’idée d’une clause de conscience dans l’édition et vient de créer un parti politique.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-28T13:38:53+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "2fb06fc684d4"
-    },
-    {
-      "title": "Crash d'un avion près de Nancy : l'appareil \"est tombé à pic\" alors qu'il était \"en phase ascensionnelle\", selon le maire de Tomblaine",
-      "url": "https://www.franceinfo.fr/faits-divers/accident/crash-d-un-avion-pres-de-nancy/direct-crash-d-un-avion-pres-de-nancy-l-appareil-est-tombe-a-pic-alors-qu-il-etait-en-phase-ascensionnelle-selon-le-maire-de-tomblaine_8083790.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un avion de tourisme s'est écrasé dimanche en fin de matinée à Tomblaine, en Meurthe-et-Moselle. Onze personnes étaient à bord : le pilote ainsi que cinq moniteurs et cinq élèves, dans le cadre d'un baptême de saut en parachute. Aucune n'a survécu, a annoncé le préfet du département.",
-      "image": "https://www.franceinfo.fr/pictures/ZZC_iLg4J2miG9VJ8RrYWmgqW9A/0x365:7009x4308/432x243/filters:format(jpg)/2026/06/28/6a41187daac52398885967.jpg",
-      "published_at": "2026-06-28T15:37:38+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "5076d5c1bad7"
-    },
-    {
-      "title": "Élections provinciales 2026 en Nouvelle-Calédonie : le scrutin change le visage du Congrès. 24 des 54 sièges reviennent aux élus Loyalistes et Rassemblement",
-      "url": "https://la1ere.franceinfo.fr/nouvellecaledonie/direct-elections-provinciales-2026-en-nouvelle-caledonie-resultats-taux-de-participation-reactions-suivez-la-soiree-electorale-sur-nc-la-1ere-1714798.html#xtor=RSS-3-[lestitres]",
-      "summary": "192 584 électeurs étaient appelés aux urnes pour le scrutin des provinciales en Nouvelle-Calédonie, ce 28 juin. Au terme du scrutin, Sonia Backès conserve la province Sud; dans le Nord, Pascal Sawa et Paul Néaoutyine font un score serré; Mickaël Forrest et Omayra Naisseline obtiennent le même nombre de sièges pour la province des Îles Loyauté.",
-      "image": "https://www.franceinfo.fr/pictures/P-CiUfrnbmpM7NdUj24ClBnNvnU/432x243/filters:format(jpg)/2026/06/28/6a40b88ab93ca765773312.jpg",
-      "published_at": "2026-06-28T15:34:30+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "4cbbef023f43"
-    },
-    {
-      "title": "Toitures soufflées, 24 000 foyers privés d'électricité… La grêle et le vent ont fait d’impressionnants dégâts dans le Nord",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/24-000-foyers-prives-d-electricite-toitures-soufflees-la-grele-et-le-vent-ont-fait-d-impressionnants-degats-dans-le-nord_8083733.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les orages ont laissé des traces dans le département du Nord. Deux personnes ont été blessées. Au total, les pompiers ont dû intervenir plus de 400 fois dans la nuit du samedi 27 au dimanche 28 juin.",
-      "image": "https://www.franceinfo.fr/pictures/uV8QaesPa1iyHrVeNo0yn9-gNv0/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/28/6a410b5af3e88472618919.jpg",
-      "published_at": "2026-06-28T15:32:47+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "e2ef751678f1"
-    },
-    {
-      "title": "« Let him cook », « cooked » : que veulent dire ces expressions qu’on croise sur le net?",
-      "url": "https://www.numerama.com/tech/2285581-let-him-cook-cooked-que-veulent-dire-ces-expressions.html",
-      "summary": "« Let him cook », « I’m cooked » : derrière ces expressions très culinaires se cachent deux façons opposées de commenter une situation. L’une laisse espérer un coup de génie, l’autre actera qu’il n’y a plus grand-chose à sauver.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-28T13:30:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "1ad2ad7dacf7"
-    },
-    {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran bombarde à nouveau ses voisins du Golfe après des frappes des Etats-Unis",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-nouvel-echange-de-frappes-entre-les-etats-unis-et-liran-que-trump-menace-daneantir-20260628_IHDZQQXEJJBKJJCVRBBYPAYBSQ/",
-      "summary": "Alors que le ton monte à nouveau entre Téhéran et Washington, des missiles et drones iraniens ont de nouveau été lancés contre le Koweït et Bahreïn ce dimanche.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-06-28T13:13:51+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "165aa328722a"
-    },
-    {
-      "title": "De «la Bataille de Gaulle» à «Backrooms», les recommandations de «Libération» pour la Fête du cinéma",
-      "url": "https://www.liberation.fr/culture/cinema/de-la-bataille-de-gaulle-a-backrooms-les-recommandations-de-liberation-pour-la-fete-du-cinema-20260628_6GGWWQHRPFD7ZAW5P5N733LTWY/",
-      "summary": "Avec la place à 5 euros de ce dimanche 28 juin jusqu’au mercredi 1er juillet, les salles obscures espèrent prolonger l’état de grâce lié à la canicule. Petit rappel de nos favoris du moment à l’affiche.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-06-28T13:03:46+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "2079594832fb"
-    },
-    {
-      "title": "Canicule : \"Il y a eu 122 000 interventions\" des secours pendant la vague de chaleur, annonce le ministre de l'Intérieur",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-la-vigilance-rouge-ne-concerne-plus-que-le-haut-et-le-bas-rhin-45-departements-toujours-en-orange-apres-une-nuit-d-orages_8083376.html#xtor=RSS-3-[lestitres]",
-      "summary": "Laurent Nuñez s'est exprimé dimanche lors d'un déplacement dans une caserne de pompiers parisienne. La ministre de la Santé a de son côté estimé que cet épisode caniculaire ne provoquera \"probablement pas la même surmortalité qu'en 2003\".",
-      "image": "https://www.franceinfo.fr/pictures/mmO480-MkT1byXOgKBxUmRe4irM/0x573:5500x3667/432x243/filters:format(jpg)/2026/06/28/6a40bff75ba26503855487.jpg",
-      "published_at": "2026-06-28T15:01:36+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "4983edb9c673"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine promet d’« assurer » la sécurité de la Russie, alors que les attaques ukrainiennes se multiplient",
-      "url": "https://www.lemonde.fr/international/live/2026/06/28/en-direct-guerre-en-ukraine-les-dernieres-informations-au-28-juin-2026_6716525_3210.html",
-      "summary": "« Nous voyons les problèmes. Nous les reconnaissons et nous y répondons. Mais nous assurerons sans aucun doute la sécurité du pays et de nos citoyens », a affirmé M. Poutine lors d’un congrès de son parti, Russie unie.",
-      "image": "https://img.lemde.fr/2026/06/27/415/0/4945/2472/644/322/60/0/726dd90_ftp-1-ykqd3efgfmdr-5459739-01-06.jpg",
-      "published_at": "2026-06-28T15:00:37+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "cd472f6036df"
-    },
-    {
-      "title": "EN DIRECT, canicule : plus de 1 300 morts imputables à la canicule en Europe, « le continent qui se réchauffe le plus rapidement sur terre », dit l’OMS",
-      "url": "https://www.lemonde.fr/planete/live/2026/06/28/en-direct-canicule-plus-de-1-300-morts-imputables-a-la-canicule-en-europe-selon-l-oms_6710159_3244.html",
-      "summary": "Ces morts ont été provoqués par les « températures élevées ont été enregistrés en Europe depuis le 21 juin », selon le directeur général de l’Organisation mondiale de la santé : « Le stress thermique est souvent qualifié de » tueur silencieux « – et les logements, lieux de travail et écoles européens n’ont pas été conçus pour supporter de telles températures ».",
-      "image": "https://img.lemde.fr/2026/06/28/291/0/3500/1750/644/322/60/0/74e1b92_ftp-1-zokuybbzzd85-bc827c14903842e7894615de77b4d867-0-00aea8d10f28474d8b98faecac210a6f.jpg",
-      "published_at": "2026-06-28T14:54:33+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "410779619159"
-    },
-    {
-      "title": "Le crash d’un avion de parachutisme près de l’aéroport de Nancy fait 11 morts",
-      "url": "https://www.liberation.fr/societe/le-crash-dun-avion-de-tourisme-en-meurthe-et-moselle-fait-11-morts-20260628_5WEZM33NYVALNOYNLSY3OF7QA4/",
-      "summary": "L’appareil transportait un groupe de personnes pour un baptême de parachutisme ce dimanche 28 juin. «Il n’y a pas de victimes collatérales», selon le préfet de Meurthe-et-Moselle. La cause de l’accident est inconnue à cette heure.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-06-28T12:43:14+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "6127d1a18a81"
-    },
-    {
-      "title": "Records de buts, Cap-Vert, visas, pauses fraîcheur : les tops et les flops de la phase de poules du Mondial 2026",
-      "url": "https://www.liberation.fr/sports/football/records-de-buts-cap-vert-visas-pauses-fraicheur-les-tops-et-les-flops-de-la-phase-de-poules-du-mondial-2026-20260628_ENACS4YAR5HMJNTLLZCE2WTCX4/",
-      "summary": "La Coupe du monde entre ce dimanche 28 juin dans une nouvelle phase, celle des seizièmes de finale, l’occasion de jeter un premier coup d’œil dans le rétro sur les moments marquants de la compétition, sur le terrain comme en dehors.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-28T12:39:54+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "6b4eb01af6e7"
-    },
-    {
-      "title": "Crash d'avion en Meurthe-et-Moselle : le maire de Nancy fait part de sa \"stupeur\" et son \"immense émotion\"",
-      "url": "https://www.franceinfo.fr/faits-divers/crash-d-avion-en-meurthe-et-moselle-le-maire-de-nancy-fait-part-de-sa-stupeur-et-son-immense-emotion_8083772.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le maire précise qu'il n'y a aucune victime collatérale mais en revanche, des personnes choquées qui ont assisté à la scène, notamment des proches des passagers de l'avion. Elles sont prises en charge par les secours.",
-      "image": "https://www.franceinfo.fr/pictures/ggq8ftQuhg7661arz01HRKogX7Q/0x255:4926x3026/432x243/filters:format(jpg)/2026/06/28/6a41140eef1a6407512848.jpg",
-      "published_at": "2026-06-28T14:32:23+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "0ff151f2696e"
-    },
-    {
-      "title": "\"Environ 1 000 décès supplémentaires depuis mercredi\" : quatre questions sur la surmortalité liée à la canicule en France",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/environ-1-000-deces-supplementaires-depuis-mercredi-quatre-questions-sur-la-surmortalite-liee-a-la-canicule-en-france_8083529.html#xtor=RSS-3-[lestitres]",
-      "summary": "Santé publique France a publié un premier bilan humain de l'épisode caniculaire qui s'achève. Mais ces données chiffrées sont pour l'heure \"partielles\" et \"sous-estiment le nombre total de décès\", prévient l'agence nationale de santé publique.",
-      "image": "https://www.franceinfo.fr/pictures/Hfpb7QMcbRMUFqnEVbqnqo2nLgA/0x520:5000x3333/432x243/filters:format(jpg)/2026/06/28/6a40f2df6d949910248371.jpg",
-      "published_at": "2026-06-28T14:30:43+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "a8321eb7b1e2"
-    },
-    {
-      "title": "Ugo Humbert s'incline en finale de l'ATP 250 d'Eastbourne face à Zizou Berg, adversaire qu'il retrouvera dans deux jours à Wimbledon",
-      "url": "https://www.franceinfo.fr/sports/tennis/ugo-humbert-s-incline-en-finale-de-l-atp-250-d-eastbourne-face-a-zizou-berg-adversaire-qu-il-retrouvera-dans-deux-jours-a-wimbledon_8083742.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Français a été battu par le Belge en trois sets (3-6, 6-1,6-4), dimanche, au terme d'une finale disputée sur deux jours à cause de la pluie.",
-      "image": "https://www.franceinfo.fr/pictures/MUb-PIwt6yIPn4mqW8rfUw5gjoI/0x0:6000x3375/432x243/filters:format(jpg)/2026/06/28/6a4111b5ed873445784799.jpg",
-      "published_at": "2026-06-28T14:24:38+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "c9eff0e51c20"
-    },
-    {
-      "title": "Séismes au Venezuela : la tragédie dans la tragédie",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/seismes-au-venezuela-la-tragedie-dans-la-tragedie-20260628_ESGI3ASR6FDR3IBMQKNISQYER4/",
-      "summary": "La catastrophe a frappé un Etat failli qui s’est appliqué à détruire méthodiquement les institutions et à laisser pourrir les infrastructures, pointe la journaliste franco-vénézuélienne Saraï Suarez.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-28T12:21:23+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "ebd6e69b85c1"
-    },
-    {
-      "title": "Les étudiants non européens et non boursiers seront privés d'APL à partir du 1er juillet",
-      "url": "https://www.franceinfo.fr/economie/budget/les-etudiants-non-europeens-non-boursiers-seront-prives-d-apl-a-partir-du-1er-juillet_8083700.html#xtor=RSS-3-[lestitres]",
-      "summary": "La mesure avait été adoptée par les députés dans le cadre de la loi de finances pour 2026.",
-      "image": "https://www.franceinfo.fr/pictures/LZZ6ASQG2rWiwtarUGrFS8fFEwA/0x606:5823x3882/432x243/filters:format(jpg)/2026/06/28/6a410cafc7997467538075.jpg",
-      "published_at": "2026-06-28T14:14:08+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "6c6745937a14"
-    },
-    {
-      "title": "Poêles à bois, chauffe-eau solaire, systèmes de ventilation... Le gouvernement va réduire la liste des travaux éligibles à MaPrimeRénov'",
-      "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/poeles-a-bois-chauffe-eau-solaire-systemes-de-ventilation-le-gouvernement-va-reduire-la-liste-des-travaux-eligibles-a-maprimerenov_8083676.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les modifications concernent les aides à la rénovation dites \"par geste\", c'est-à-dire des travaux isolés.",
-      "image": "https://www.franceinfo.fr/pictures/S8TXpJLZnpNb_z8CMC-wKWJKeKk/0x0:2862x1610/432x243/filters:format(jpg)/2026/06/28/6a40fd0c60e6c888589967.jpg",
-      "published_at": "2026-06-28T14:10:35+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "5ba4c0340a93"
-    },
-    {
-      "title": "Qu’est-ce qui est mieux qu’une borne d’arcade ? Une borne d’arcade Star Wars en promo de 230 €",
-      "url": "https://www.numerama.com/pop-culture/2286379-quest-ce-qui-est-mieux-quune-borne-darcade-une-borne-darcade-star-wars-en-promo-de-230-e.html",
-      "summary": "[Deal du jour] Les fans de rétrogaming et de l'univers créé par George Lucas ont de quoi se réjouir. La borne d'arcade Star Wars d'Arcade1Up, fidèle reproduction du meuble d'Atari de l'époque, s'affiche aujourd'hui à 499,99 € au lieu de 729,90 € chez Joybuy.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-28T12:05:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "ea801e6d0b6c"
-    },
-    {
-      "title": "La Grèce tente de réguler la privatisation des plages pour lutter contre le surtourisme",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/28/la-grece-tente-de-reguler-la-privatisation-des-plages-pour-lutter-contre-le-surtourisme_6716566_3234.html",
-      "summary": "Le gouvernement grec a interdit l’exploitation commerciale de 251 plages à travers le pays. Transats payants, « beach bars », petites cantines sont désormais interdits.",
-      "image": "https://img.lemde.fr/2026/06/12/684/0/8192/4096/644/322/60/0/ff60b8a_upload-1-ltnzn80v5ny4-2026-02-08t140113z-947802823-rc2ohjajgjln-rtrmadp-3-greece-weather.JPG",
-      "published_at": "2026-06-28T14:00:09+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "2eac32157921"
-    },
-    {
-      "title": "Nantes : un jeune homme de 19 ans tué par balle, le cinquième homicide en deux mois dans la ville",
-      "url": "https://www.liberation.fr/societe/police-justice/nantes-un-jeune-homme-de-19-ans-tue-par-balle-le-cinquieme-homicide-en-deux-mois-dans-la-ville-20260628_BAZOMO2ZSBH33HWFKBIEFIHZ3E/",
-      "summary": "La victime a été prise pour cible ce dimanche 28 juin au petit matin dans le nord de Nantes, non loin du stade de la Beaujoire. Le parquet n’a pour l’heure pas communiqué sur un éventuel lien avec le narcotrafic.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-28T11:46:42+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "d198eff471d7"
-    },
-    {
-      "title": "Crash d’avion en Meurthe-et-Moselle : l’engin transportait un groupe pour un baptême de parachutisme, 11 personnes tuées",
-      "url": "https://www.lemonde.fr/societe/article/2026/06/28/un-avion-civil-s-ecrase-en-meurthe-et-moselle-onze-morts_6716564_3224.html",
-      "summary": "L’avion s’est écrasé à Tomblaine, près de Nancy, dans la matinée. Les victimes sont cinq moniteurs, cinq élèves et le pilote ; « il n’y a pas de victimes collatérales », selon le préfet. Le ministre de l’intérieur, Laurent Nuñez, est attendu sur place.",
-      "image": "https://img.lemde.fr/2026/06/28/584/0/7009/3504/644/322/60/0/4f173d2_upload-1-z5jqupejkgnf-demaxnewsspecialtwo649838.jpg",
-      "published_at": "2026-06-28T13:42:58+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "57809980018e"
-    },
-    {
-      "title": "Israël reconnaît le génocide arménien, une décision historique qui ravive les tensions avec la Turquie",
-      "url": "https://www.lemonde.fr/international/article/2026/06/28/israel-reconnait-le-genocide-armenien-une-decision-historique-qui-ravive-les-tensions-avec-la-turquie_6716563_3210.html",
-      "summary": "Le président turc, Recep Tayyip Erdogan, s’est imposé comme l’un des plus virulents critiques de la guerre à Gaza, déclenchée en représailles à l’attaque du Hamas sur le sol israélien le 7 octobre 2023.",
-      "image": "https://img.lemde.fr/2024/12/05/342/0/4103/2051/644/322/60/0/dc1a326_c26ace0b1cba4abcbb32df2ea9cb2f71-0-918fb26d42a8462c821737eb93b4f992.jpg",
-      "published_at": "2026-06-28T13:37:57+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "ba93ef85e8cb"
-    },
-    {
-      "title": "La canicule est un krach «écolonomique»",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/la-canicule-est-un-krach-ecolonomique-20260628_JBPNKF4BF5EJTBVAWAXFIXHZVQ/",
-      "summary": "La canicule est un rappel à l’ordre. Pour l’économiste Timothée Parrique, l’environnement n’est pas une variable d’ajustement au service de la croissance. C’est l’inverse. C’est l’économie qu’il faut remettre à sa juste place, à l’intérieur des limites de la biosphère.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-06-28T11:36:00+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "a9a76e69ea77"
-    },
-    {
-      "title": "Aide à mourir : en dernière ligne droite, les députés renoncent au délit d’entrave",
-      "url": "https://www.liberation.fr/societe/sante/aide-a-mourir-en-derniere-ligne-droite-les-deputes-renoncent-au-delit-dentrave-20260628_IKPW5X4H45EBZJNQP6G4YAVKC4/",
-      "summary": "Samedi 27 juin, les députés ont achevé l’examen de la proposition de loi ouvrant droit à l’aide à mourir. C’est un texte expurgé de son volet pénal qui sera soumis mardi 30 juin au vote solennel de l’Assemblée nationale.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-28T11:32:17+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "22b1638fd48d"
     }
   ]
 }
