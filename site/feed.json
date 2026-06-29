@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-06-29T20:53:01.751416+00:00",
+  "generated_at": "2026-06-29T22:15:35.915319+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Coupe du monde : le Brésil s’en sort d’un rien face au Japon et continue sa route vers le sommet",
+      "title": "Une explosion volontaire fait au moins trois blessés dont deux graves à Monaco, le gouvernement dénonce un \"acte malveillant\"",
+      "url": "https://www.franceinfo.fr/faits-divers/une-explosion-volontaire-fait-au-moins-trois-blesses-dont-deux-graves-a-monaco-le-gouvernement-denonce-un-acte-malveillant_8085722.html#xtor=RSS-3-[lestitres]",
+      "summary": "La déflagration s'est produite lundi, vers 21 heures, dans un immeuble résidentiel de la rue du révérend père Louis Frolla, le long de la frontière avec la France. La piste de l'attentat terroriste est exclue, a déclaré le procureur général de Monaco à France Télévisions.",
+      "image": "https://www.franceinfo.fr/pictures/P2ORnWTNVMxZNFAcNARjkeXCDCs/0x32:1024x608/432x243/filters:format(jpg)/2026/06/29/6a42d4b25072f449114543.jpg",
+      "published_at": "2026-06-30T00:11:36+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "043f02dc4239"
+    },
+    {
+      "title": "Une explosion retentit à Monaco, les autorités évoquent «trois blessés dont deux graves»",
+      "url": "https://www.liberation.fr/international/europe/une-explosion-retentit-a-monaco-la-police-evoque-des-victimes-probables-20260629_Q6I2O6HP4NB6THQ4JWOIZKTGP4/",
+      "summary": "Un homme aurait été filmé peu avant les faits en train de déposer un sac à dos. Les victimes seraient membres d’une famille ukrainienne.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-06-29T21:23:01+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "9054ca66b053"
+    },
+    {
+      "title": "Au Pérou, Keiko Fujimori officiellement élue présidente avec 50,13 % des voix",
+      "url": "https://www.lemonde.fr/international/article/2026/06/29/au-perou-keiko-fujimori-officiellement-elue-presidente-avec-50-13-des-voix_6716981_3210.html",
+      "summary": "Après un suspense de trois semaines, la victoire de la candidate de droite marque le retour du « fujimorisme » au pouvoir, plus de deux décennies après la fin de règne de son père, Alberto Fujimori.",
+      "image": "https://img.lemde.fr/2026/06/24/472/0/5663/2831/644/322/60/0/a4d9304_ftp-1-twf3nxbmn2h1-5425094-01-06.jpg",
+      "published_at": "2026-06-29T23:20:50+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "1e55f3692610"
+    },
+    {
+      "title": "Coupe du monde : le Brésil s’en sort d’un rien face au Japon et continue sa longue route vers le sommet",
       "url": "https://www.liberation.fr/sports/football/coupe-du-monde-longtemps-mene-le-bresil-sen-sort-a-la-derniere-minute-face-au-japon-20260629_MWXNGMEJRBDE5EEDK2OSQNVPCI/",
       "summary": "Après un début de match désorganisé, la Seleção a renversé son seizième de finale face au Japon ce lundi à Houston pour s’imposer 2-1 en toute fin de match. Elle affrontera la Norvège ou la Côte-d’Ivoire en huitièmes de finale.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
@@ -15,32 +45,12 @@
     {
       "title": "Monaco : trois blessés dont deux graves dans une explosion volontaire",
       "url": "https://www.lemonde.fr/societe/article/2026/06/29/monaco-trois-blesses-dont-deux-graves-dans-une-explosion-volontaire_6716980_3224.html",
-      "summary": "L’explosion s’est produite dans un immeuble résidentiel de la rue du révérend père Louis Frolla, le long de la frontière avec la France.",
-      "image": "https://img.lemde.fr/2024/10/24/121/0/2250/1125/644/322/60/0/fb05b64_1729786778193-frame-157.jpg",
-      "published_at": "2026-06-29T22:42:48+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
+      "summary": "Selon les autorités sur place, un suspect a déposé un sac dans un immeuble résidentiel, près de la frontière avec la France, avant de fuir. Un adolescent de 13 ans est blessé et le pronostic vital est engagé pour un couple d’environ 50 ou 60 ans.",
+      "image": "https://img.lemde.fr/2026/06/29/940/0/5634/2817/644/322/60/0/8d5ae34_ftp-1-afdjauj0kda2-5486235-01-06.jpg",
+      "published_at": "2026-06-29T22:42:45+02:00",
+      "source": "Le Monde",
+      "category": "Société",
       "id": "a15d460afe0b"
-    },
-    {
-      "title": "Une explosion retentit à Monaco, la police évoque des «victimes probables»",
-      "url": "https://www.liberation.fr/international/europe/une-explosion-retentit-a-monaco-la-police-evoque-des-victimes-probables-20260629_Q6I2O6HP4NB6THQ4JWOIZKTGP4/",
-      "summary": "Un homme aurait été filmé peu avant les faits, déposant un sac à dos. Un porte-parole du gouvernement fait état de «trois blessés, dont deux graves».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-29T20:41:06+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "9054ca66b053"
-    },
-    {
-      "title": "Une explosion volontaire fait au moins trois blessés dont deux graves à Monaco, le gouvernement dénonce un \"acte malveillant\"",
-      "url": "https://www.franceinfo.fr/faits-divers/une-explosion-volontaire-fait-au-moins-trois-blesses-dont-deux-graves-a-monaco-le-gouvernement-denonce-un-acte-malveillant_8085722.html#xtor=RSS-3-[lestitres]",
-      "summary": "La déflagration s'est produite lundi, vers 21 heures, dans un immeuble résidentiel de la rue du révérend père Louis Frolla, le long de la frontière avec la France.",
-      "image": "https://www.franceinfo.fr/pictures/P2ORnWTNVMxZNFAcNARjkeXCDCs/0x32:1024x608/432x243/filters:format(jpg)/2026/06/29/6a42d4b25072f449114543.jpg",
-      "published_at": "2026-06-29T22:37:57+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "043f02dc4239"
     },
     {
       "title": "Bande de Gaza : des bombardements israéliens font cinq morts, selon les secours",
@@ -48,7 +58,7 @@
       "summary": "Au moins 1 045 Palestiniens ont été tués dans l’enclave palestinienne depuis l’entrée en vigueur du cessez-le-feu, qui demeure théorique, en octobre 2025, selon le décompte du ministère de la santé local, jugé fiable par les institutions internationales.",
       "image": "https://img.lemde.fr/2026/06/29/720/0/8640/4320/644/322/60/0/385e542_ftp-1-guyapsef2sec-00c6b8b3c0b441c6900dce4e68ceedfa-0-8da363a475a04185b012310e5e8c8e00.jpg",
       "published_at": "2026-06-29T22:24:23+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "ab6c4dc73150"
     },
@@ -253,10 +263,10 @@
       "id": "760c644068a8"
     },
     {
-      "title": "EN DIRECT, Allemagne-Paraguay : la Mannschaft met la pression d’entrée de jeu dans le camp de l’Albirroja",
+      "title": "EN DIRECT, Allemagne-Paraguay : la Mannschaft insiste pour prendre l’avantage et s’éviter des prolongations dans une fin de match indécise",
       "url": "https://www.lemonde.fr/sport/live/2026/06/29/en-direct-allemagne-paraguay-suivez-le-seizieme-de-finale-de-la-coupe-du-monde-de-football_6716972_3242.html",
       "summary": "Défaite lors de son dernier match de poules, la Nationalmannschaft veut confirmer son statut de favori dans ce seizième de finale. Pour cela, elle devra se défaire des Paraguayens.",
-      "image": "https://img.lemde.fr/2026/06/29/0/0/6915/3457/644/322/60/0/8e9886c_ftp-1-vj25el2lffo5-776125e166bb460dbad5dad992b93afe-0-6fe6b056e2e441418bf36db07629060c.jpg",
+      "image": "https://img.lemde.fr/2026/06/29/354/0/3879/1939/644/322/60/0/507cbba_ftp-1-ntqvu7nw4t4i-2026-06-29t220243z-1672114352-up1em6t1p8i8d-rtrmadp-3-soccer-worldcup-ger-pry.JPG",
       "published_at": "2026-06-29T20:30:04+02:00",
       "source": "Le Monde",
       "category": "Politique",
@@ -291,16 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "edb6a6c2699e"
-    },
-    {
-      "title": "Affaire Lyhanna : la mère de Rosa, l’une des victimes de Jérôme Barella, porte plainte contre Gérald Darmanin",
-      "url": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-la-mere-de-rosa-lune-des-victimes-de-jerome-barella-porte-plainte-contre-gerald-darmanin-20260629_C2ZQX2SKD5AGNHUSKRYNTRVEF4/",
-      "summary": "L’avocat de la famille confirme auprès de «Libé» le dépôt d’une plainte pour «mise en danger délibérée de la vie d’autrui» et «non-assistance à personne en danger».",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-06-29T18:17:55+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "9d1c85cc1bd5"
     }
   ]
 }
