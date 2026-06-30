@@ -1,26 +1,86 @@
 {
-  "generated_at": "2026-06-29T22:15:35.915319+00:00",
+  "generated_at": "2026-06-30T00:13:32.900429+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Une explosion volontaire fait au moins trois blessés dont deux graves à Monaco, le gouvernement dénonce un \"acte malveillant\"",
-      "url": "https://www.franceinfo.fr/faits-divers/une-explosion-volontaire-fait-au-moins-trois-blesses-dont-deux-graves-a-monaco-le-gouvernement-denonce-un-acte-malveillant_8085722.html#xtor=RSS-3-[lestitres]",
-      "summary": "La déflagration s'est produite lundi, vers 21 heures, dans un immeuble résidentiel de la rue du révérend père Louis Frolla, le long de la frontière avec la France. La piste de l'attentat terroriste est exclue, a déclaré le procureur général de Monaco à France Télévisions.",
-      "image": "https://www.franceinfo.fr/pictures/P2ORnWTNVMxZNFAcNARjkeXCDCs/0x32:1024x608/432x243/filters:format(jpg)/2026/06/29/6a42d4b25072f449114543.jpg",
-      "published_at": "2026-06-30T00:11:36+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "043f02dc4239"
+      "title": "Coupe du monde : l’Allemagne s’effondre aux tirs au but face au Paraguay et prend la porte dès les seizièmes",
+      "url": "https://www.liberation.fr/sports/football/coupe-du-monde-lallemagne-seffondre-aux-tirs-au-but-face-au-paraguay-et-prend-la-porte-des-les-seiziemes-20260630_6SL6YEE5OVHWBOI2JTR2ABMJJ4/",
+      "summary": "Incapables de se défaire des Paraguayens dans le jeu (1-1 à la fin des prolongations), les Allemands se sont inclinés aux tirs au but (4-3). La Albirroja pourrait retrouver l’équipe de France au prochain tour.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-06-29T23:49:50+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "23cfab683878"
     },
     {
-      "title": "Une explosion retentit à Monaco, les autorités évoquent «trois blessés dont deux graves»",
+      "title": "Enorme exploit du Paraguay, tombeur de l'Allemagne aux tirs au but en seizièmes de finale de la Coupe du monde 2026",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/enorme-exploit-du-paraguay-tombeur-de-l-allemagne-aux-tirs-au-but-en-seiziemes-de-finale-de-la-coupe-du-monde-2026_8085695.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Paraguay affrontera le vainqueur de France-Suède en huitièmes de finale, samedi, à Philadelphie.",
+      "image": "https://www.franceinfo.fr/pictures/4LMvhoCCzhWZgwLZLs145pSGpa4/0x136:2619x1610/432x243/filters:format(jpg)/2026/06/30/6a42ef8c1f273214197444.jpg",
+      "published_at": "2026-06-30T01:32:59+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "748223b4612a"
+    },
+    {
+      "title": "En Afrique du Sud, l’ultimatum anti-immigrés et la montée des violences poussent 25 000 personnes à quitter le pays",
+      "url": "https://www.lemonde.fr/afrique/article/2026/06/30/en-afrique-du-sud-l-ultimatum-anti-immigres-et-la-montee-des-violences-poussent-25-000-personnes-a-quitter-le-pays_6717082_3212.html",
+      "summary": "Sous la pression de groupes organisés menaçants, des milliers de ressortissants étrangers en situation irrégulière se réfugient dans des campements précaires en attendant un retour incertain vers leur pays d’origine.",
+      "image": "https://img.lemde.fr/2026/06/27/258/0/4200/2100/644/322/60/0/3348961_ftp-1-fim8kh0ncxxy-5460902-01-06.jpg",
+      "published_at": "2026-06-30T01:32:42+02:00",
+      "source": "Le Monde Inter",
+      "category": "Société",
+      "id": "2f30e1802e58"
+    },
+    {
+      "title": "Sport professionnel : l’Assemblée adopte une réforme choc visant particulièrement le monde du football",
+      "url": "https://www.lemonde.fr/sport/article/2026/06/30/sport-professionnel-l-assemblee-adopte-une-reforme-choc-visant-particulierement-le-monde-du-football_6717049_3242.html",
+      "summary": "Le texte prévoit notamment d’interdire la multipropriété entre un club français et un club étranger et de renforcer les pouvoirs de la Direction nationale du contrôle de gestion, gendarme financier des clubs de football professionnel.",
+      "image": "https://img.lemde.fr/2026/06/29/1000/0/6000/3000/644/322/60/0/53e0494_upload-1-lczi477mrqk7-000-b3mf8x7.jpg",
+      "published_at": "2026-06-30T01:07:49+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "4b00c244584a"
+    },
+    {
+      "title": "Google va finalement lancer ses fonctionnalités IA sur son moteur de recherche en France « cet été »",
+      "url": "https://www.lemonde.fr/pixels/article/2026/06/30/google-va-finalement-lancer-ses-fonctionnalites-ia-sur-son-moteur-de-recherche-en-france-cet-ete_6717014_4408996.html",
+      "summary": "Pour expliquer l’exclusion de l’Hexagone de services pourtant déjà présents dans 200 pays, l’entreprise invoquait des « obstacles réglementaires » liés aux éditeurs de presse, qu’elle a levés.",
+      "image": "https://img.lemde.fr/2026/06/29/0/0/1910/955/644/322/60/0/823c35a_upload-1-tyhm5l8x78nw-capture-d-e-cran-2026-06-29-a-23-56-21.png",
+      "published_at": "2026-06-30T00:56:41+02:00",
+      "source": "Le Monde",
+      "category": "Tech",
+      "id": "be53344cae69"
+    },
+    {
+      "title": "«C’est arrivé à Monaco même ?!» : Une explosion retentit, les autorités évoquent «trois blessés dont deux graves»",
       "url": "https://www.liberation.fr/international/europe/une-explosion-retentit-a-monaco-la-police-evoque-des-victimes-probables-20260629_Q6I2O6HP4NB6THQ4JWOIZKTGP4/",
       "summary": "Un homme aurait été filmé peu avant les faits en train de déposer un sac à dos. Les victimes seraient membres d’une famille ukrainienne.",
       "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-06-29T21:23:01+00:00",
+      "published_at": "2026-06-29T22:54:14+00:00",
       "source": "Libération",
       "category": "Culture",
       "id": "9054ca66b053"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : au moins dix morts, lundi, dans des frappes russes, dont six à Dnipro",
+      "url": "https://www.lemonde.fr/international/live/2026/06/30/en-direct-guerre-en-ukraine-au-moins-dix-morts-lundi-dans-des-frappes-russes-dont-six-a-dnipro_6716525_3210.html",
+      "summary": "En Russie, les gouverneurs de plusieurs régions ont communiqué sur les restrictions de carburant dans le pays. La veille, Vladimir Poutine avait reconnu dans une interview au propagandiste russe Pavel Zaroubine « une certaine pénurie » causée par les frappes ukrainiennes répétées sur les infrastructures d’hydrocarbures russes.",
+      "image": "https://img.lemde.fr/2026/06/29/334/0/2000/1000/644/322/60/0/fed629b_ftp-1-lxz6xv39odhq-5480320-01-06.jpg",
+      "published_at": "2026-06-30T00:34:54+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "c4b3a58a079e"
+    },
+    {
+      "title": "Une explosion volontaire fait au moins trois blessés dont deux graves à Monaco, le gouvernement dénonce un \"acte malveillant\"",
+      "url": "https://www.franceinfo.fr/faits-divers/une-explosion-volontaire-fait-au-moins-trois-blesses-dont-deux-graves-a-monaco-le-gouvernement-denonce-un-acte-malveillant_8085722.html#xtor=RSS-3-[lestitres]",
+      "summary": "La déflagration s'est produite lundi, vers 21 heures, dans un immeuble résidentiel de la rue du révérend père Louis Frolla, le long de la frontière avec la France. L'auteur a fui à pied, et a été aperçu à Beausoleil, en France. Il est activement recherché.",
+      "image": "https://www.franceinfo.fr/pictures/xbL3Z6-ZYuSTMsQaU5uZT7PfZxA/0x106:1024x682/432x243/filters:format(jpg)/2026/06/30/6a42ef9307ac0640263943.jpg",
+      "published_at": "2026-06-30T00:20:46+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "043f02dc4239"
     },
     {
       "title": "Au Pérou, Keiko Fujimori officiellement élue présidente avec 50,13 % des voix",
@@ -31,6 +91,16 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "1e55f3692610"
+    },
+    {
+      "title": "Chantier de l'A69 : le collectif La Voie est Libre va saisir la Commission européenne d'une plainte contre l'État français",
+      "url": "https://www.franceinfo.fr/environnement/crise-climatique/chantier-de-l-autoroute-a69/a69-le-collectif-la-voie-est-libre-va-saisir-la-commission-europeenne-d-une-plainte-contre-l-etat-francais_8085740.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Conseil d'État a validé définitivement la réalisation de l'autoroute A69 qui doit relier Toulouse et Castres d'ici la fin de l'année 2026.",
+      "image": "https://www.franceinfo.fr/pictures/rfDOHe81WiNvFZqx3o9qDqaGSNY/0x750:4000x3000/432x243/filters:format(jpg)/2026/06/29/6a42dec81e433379937832.jpg",
+      "published_at": "2026-06-29T23:14:03+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "ea1aa6cb32f8"
     },
     {
       "title": "Coupe du monde : le Brésil s’en sort d’un rien face au Japon et continue sa longue route vers le sommet",
@@ -45,11 +115,11 @@
     {
       "title": "Monaco : trois blessés dont deux graves dans une explosion volontaire",
       "url": "https://www.lemonde.fr/societe/article/2026/06/29/monaco-trois-blesses-dont-deux-graves-dans-une-explosion-volontaire_6716980_3224.html",
-      "summary": "Selon les autorités sur place, un suspect a déposé un sac dans un immeuble résidentiel, près de la frontière avec la France, avant de fuir. Un adolescent de 13 ans est blessé et le pronostic vital est engagé pour un couple d’environ 50 ou 60 ans.",
+      "summary": "Selon les autorités sur place, un suspect a déposé un sac dans un immeuble résidentiel, près de la frontière avec la France, avant de repartir. Un adolescent de 13 ans est blessé et le pronostic vital est engagé pour un couple d’environ 50 ou 60 ans.",
       "image": "https://img.lemde.fr/2026/06/29/940/0/5634/2817/644/322/60/0/8d5ae34_ftp-1-afdjauj0kda2-5486235-01-06.jpg",
       "published_at": "2026-06-29T22:42:45+02:00",
       "source": "Le Monde",
-      "category": "Société",
+      "category": "Politique",
       "id": "a15d460afe0b"
     },
     {
@@ -95,9 +165,9 @@
     {
       "title": "Autoroute A69 : les opposants dénoncent « une capitulation » du Conseil d’Etat",
       "url": "https://www.lemonde.fr/planete/article/2026/06/29/autoroute-a69-les-opposants-denoncent-une-capitulation-du-conseil-d-etat_6716977_3244.html",
-      "summary": "La plus haute juridiction administrative a validé les autorisations environnementales, qui sont désormais « définitives », de ce projet contesté d’autoroute entre Castres et Toulouse.",
+      "summary": "La plus haute juridiction administrative a validé les autorisations environnementales, qui sont désormais « définitives », de ce projet contesté entre Castres et Toulouse.",
       "image": "https://img.lemde.fr/2026/06/29/650/0/3900/1950/644/322/60/0/8912a38_ftp-1-djtdmst2toiv-5481486-01-06.jpg",
-      "published_at": "2026-06-29T21:50:58+02:00",
+      "published_at": "2026-06-29T21:50:56+02:00",
       "source": "Le Monde",
       "category": "Société",
       "id": "4305f8a6c954"
@@ -231,76 +301,6 @@
       "source": "Le Monde Inter",
       "category": "International",
       "id": "20a8eb1b296e"
-    },
-    {
-      "title": "La France adopte une timide législation pour lutter contre la fast-fashion",
-      "url": "https://www.lemonde.fr/politique/article/2026/06/29/la-france-adopte-une-timide-legislation-pour-lutter-contre-la-fast-fashion_6716974_823448.html",
-      "summary": "La loi qui vise à « réduire l’impact environnemental de l’industrie textile » a été adoptée définitivement au Sénat, lundi 29 juin. Son contenu a été modifié de nombreuses fois depuis deux ans, notamment pour ménager les acteurs du secteur dans l’Hexagone, en dehors des géants numériques Shein et Temu.",
-      "image": "https://img.lemde.fr/2026/06/29/964/0/5921/2960/644/322/60/0/6fcd898_upload-1-c4f2vg0osdzb-2025-11-05t123042z-15183565-rc2cqhakjt37-rtrmadp-3-shein-france.JPG",
-      "published_at": "2026-06-29T20:44:55+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "4b8f3e56f590"
-    },
-    {
-      "title": "Canicule : \"Le nombre de victimes à domicile est bien plus important que lors des épisodes précédents\", annonce le Premier ministre, Sébastien Lecornu",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-la-vigilance-orange-est-levee-pour-l-ile-de-france-et-neuf-autres-departements_8084432.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le plan Orsan 3 est maintenu dans les jours à venir, a annoncé le chef du gouvernement, lundi, avant une réunion de la cellule interministérielle de crise.",
-      "image": "https://www.franceinfo.fr/pictures/8WRtmsQJq_RX7_PV38WUJcyzzYo/0x0:1024x576/432x243/filters:format(jpg)/2026/06/29/6a429c4e9460b837173580.jpg",
-      "published_at": "2026-06-29T20:35:09+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "7de08e2c90af"
-    },
-    {
-      "title": "Un essor massif de l’éolien en mer pourrait causer des « transformations durables de la biodiversité »",
-      "url": "https://www.lemonde.fr/planete/article/2026/06/29/un-essor-massif-de-l-eolien-en-mer-pourrait-causer-des-transformations-durables-de-la-biodiversite_6716973_3244.html",
-      "summary": "Sous la houlette du CNRS et de l’Ifremer, des chercheurs ont réalisé un état des lieux complet et documenté de manière neutre des effets connus des champs éoliens sur les organismes et les écosystèmes marins.",
-      "image": "https://img.lemde.fr/2026/06/29/598/0/7176/3588/644/322/60/0/14e8c81_upload-1-v6kbv1f6oa6q-000-77g83cq.jpg",
-      "published_at": "2026-06-29T20:30:09+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "760c644068a8"
-    },
-    {
-      "title": "EN DIRECT, Allemagne-Paraguay : la Mannschaft insiste pour prendre l’avantage et s’éviter des prolongations dans une fin de match indécise",
-      "url": "https://www.lemonde.fr/sport/live/2026/06/29/en-direct-allemagne-paraguay-suivez-le-seizieme-de-finale-de-la-coupe-du-monde-de-football_6716972_3242.html",
-      "summary": "Défaite lors de son dernier match de poules, la Nationalmannschaft veut confirmer son statut de favori dans ce seizième de finale. Pour cela, elle devra se défaire des Paraguayens.",
-      "image": "https://img.lemde.fr/2026/06/29/354/0/3879/1939/644/322/60/0/507cbba_ftp-1-ntqvu7nw4t4i-2026-06-29t220243z-1672114352-up1em6t1p8i8d-rtrmadp-3-soccer-worldcup-ger-pry.JPG",
-      "published_at": "2026-06-29T20:30:04+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "d517176af9e9"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : le bilan de l’attaque russe contre Dnipro, quatrième ville d’Ukraine, passe à six morts",
-      "url": "https://www.lemonde.fr/international/live/2026/06/29/en-direct-guerre-en-ukraine-le-bilan-de-l-attaque-russe-contre-dnipro-quatrieme-ville-d-ukraine-passe-a-six-morts_6716525_3210.html",
-      "summary": "En Russie, les gouverneurs de plusieurs régions ont communiqué sur les restrictions de carburant dans le pays. La veille, Vladimir Poutine avait reconnu dans une interview au propagandiste russe Pavel Zaroubine « une certaine pénurie » causée par les frappes ukrainiennes répétées sur les infrastructures d’hydrocarbures russes.",
-      "image": "https://img.lemde.fr/2026/06/29/334/0/2000/1000/644/322/60/0/fed629b_ftp-1-lxz6xv39odhq-5480320-01-06.jpg",
-      "published_at": "2026-06-29T20:28:52+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "1fb3527590ad"
-    },
-    {
-      "title": "Coupe du monde 2026 : des chaleurs «importantes à extrêmes» attendues aux Etats-Unis, les Bleus dans la fournaise",
-      "url": "https://www.liberation.fr/sports/coupe-du-monde-2026-des-chaleurs-importantes-a-extremes-attendues-aux-etats-unis-les-bleus-dans-la-fournaise-20260629_76KQNGODVBF5NLLNWC54INQGEA/",
-      "summary": "Après l’Europe, l’Amérique du Nord est à son tour confrontée à une canicule. La température ressentie pourrait dépasser par endroits les 45 °C, notamment à l’Est où l’Equipe de France joue ses prochains matchs.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-29T18:26:53+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "f7c0143ba55e"
-    },
-    {
-      "title": "30, 35, 40 °C ou plus : à partir du 6 juillet, une nouvelle «anomalie chaude» et beaucoup d’incertitudes",
-      "url": "https://www.liberation.fr/environnement/climat/30-35-40-c-ou-plus-a-partir-du-6-juillet-une-nouvelle-anomalie-chaude-et-beaucoup-dincertitudes-20260629_S5J2K2YDNNB5ZNE7GTIEMLPLJE/",
-      "summary": "Les modèles météorologiques s’accordent sur une probable période de fortes chaleurs dès la fin du week-end. Mais les prévisionnistes ne peuvent encore déterminer avec certitude ni son intensité ni sa durée.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-06-29T18:24:07+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "edb6a6c2699e"
     }
   ]
 }
