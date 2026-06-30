@@ -7,28 +7,98 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Tue, 30 Jun 2026 21:01:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 30 Jun 2026 22:20:05 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
   <item>
-    <title>France-Suède : la pression monte à quelques minutes du coup d&apos;envoi... Suivez avec nous le seizième de finale de la Coupe du monde</title>
+    <title>EN DIRECT - France - Suède commenté par Mohamed El Khatib : Bradley Barcola double la mise !</title>
+    <link>https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-suivez-le-match-france-suede-avec-les-commentaires-de-mohamed-el-khatib-20260630_VDDYZKMHAJGQLKXIRI344R6ZJI/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-suivez-le-match-france-suede-avec-les-commentaires-de-mohamed-el-khatib-20260630_VDDYZKMHAJGQLKXIRI344R6ZJI/</guid>
+    <pubDate>Tue, 30 Jun 2026 22:13:01 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Les Bleus affrontent les Suédois actuellement en 16e de finale du Mondial. Pour suivre la rencontre en direct, nous accueillons un invité exceptionnel : le dramaturge fan de foot Mohamed El Khatib.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>EN DIRECT, guerre en Ukraine : Kiev a lancé une attaque de drones sur la Russie</title>
+    <link>https://www.lemonde.fr/international/live/2026/07/01/en-direct-guerre-en-ukraine-kiev-a-lance-une-attaque-de-drones-sur-la-russie_6716525_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/07/01/en-direct-guerre-en-ukraine-kiev-a-lance-une-attaque-de-drones-sur-la-russie_6716525_3210.html</guid>
+    <pubDate>Wed, 01 Jul 2026 00:05:54 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[Selon des sources russes, environ 250 drones auraient été signalés dans la soirée de mardi. De son côté, l’Ukraine a affirmé, dans la journée, avoir ouvert un « corridor » dans la défense aérienne russe vers Moscou.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/06/30/120/0/5591/2795/644/322/60/0/b2cd6de_ftp-1-sn9ckox0vinh-2026-06-30t101456z-1672300516-rc243mawoboc-rtrmadp-3-ukraine-crisis-frontline-dobropillia.JPG" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Slovaquie, Hongrie, Croatie... La chaleur bat des records en Europe centrale</title>
+    <link>https://www.franceinfo.fr/environnement/crise-climatique/slovaquie-hongrie-croatie-la-chaleur-bat-des-records-en-europe-centrale_8087450.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/environnement/crise-climatique/slovaquie-hongrie-croatie-la-chaleur-bat-des-records-en-europe-centrale_8087450.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Wed, 01 Jul 2026 00:00:46 +0000</pubDate>
+    <category>Économie</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Il fait 41,3°C mardi à Kamenica nad Hronom, en Slovaquie. La ville croate de Split a enregistré le même jour un record de température avec 39,5°C.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/RZQC0jYSGCvyn9lxlYmFADFHD1E/0x32:1024x608/432x243/filters:format(jpg)/2026/06/30/6a443c53ec103122771385.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Mercosur : tensions sur l’accord de libre-échange avec l’UE à l’ouverture du sommet au Paraguay</title>
+    <link>https://www.lemonde.fr/economie/article/2026/06/30/mercosur-tensions-sur-l-accord-de-libre-echange-avec-l-ue-a-l-ouverture-du-sommet-au-paraguay_6717342_3234.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/economie/article/2026/06/30/mercosur-tensions-sur-l-accord-de-libre-echange-avec-l-ue-a-l-ouverture-du-sommet-au-paraguay_6717342_3234.html</guid>
+    <pubDate>Tue, 30 Jun 2026 23:49:04 +0000</pubDate>
+    <category>Économie</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[Le président paraguayen, Santiago Peña, a vivement critiqué le manque de « justice » dans l’accès au marché européen. Les chefs d’Etat présents on exprimé leur solidarité avec le Venezuela, endeuillé par un double séisme le 24 juin.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/06/30/203/0/5210/2605/644/322/60/0/176a098_ftp-1-daeplmjck9wk-5494659-01-06.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>En conseil national, le PS acte ses désaccords sur sa stratégie à la présidentielle</title>
+    <link>https://www.liberation.fr/politique/en-conseil-national-le-ps-acte-ses-desaccords-sur-sa-strategie-a-la-presidentielle-20260630_TP43U2BKZ5CBFFF2VPKLNS26HE/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/politique/en-conseil-national-le-ps-acte-ses-desaccords-sur-sa-strategie-a-la-presidentielle-20260630_TP43U2BKZ5CBFFF2VPKLNS26HE/</guid>
+    <pubDate>Tue, 30 Jun 2026 21:33:43 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Les militants socialistes auront à trancher le 9 juillet entre une primaire PS-Place publique ouverte à tous et une désignation interne ouverte aux seuls adhérents.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Difficultés d&apos;approvisionnement jusqu&apos;à début 2027 pour des comprimés d&apos;aspirine utilisés contre les troubles cardiovasculaires</title>
+    <link>https://www.franceinfo.fr/sante/medicament/difficultes-d-approvisionnement-jusqu-a-debut-2027-pour-des-comprimes-d-aspirine-utilises-contre-les-troubles-cardiovasculaires_8087432.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/sante/medicament/difficultes-d-approvisionnement-jusqu-a-debut-2027-pour-des-comprimes-d-aspirine-utilises-contre-les-troubles-cardiovasculaires_8087432.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Tue, 30 Jun 2026 23:25:12 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA["Le laboratoire Pfizer a informé l'ANSM de difficultés de production de son médicament Resitune - acide acétylsalicylique, aspirine - 75 mg et 100 mg, (en) comprimés gastro-résistants", a prévenu, lundi, l'Agence nationale de sécurité du médicament.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/8E5lms4cTjpsG4v8LOLDy-w1-WM/0x59:1024x635/432x243/filters:format(jpg)/2026/06/30/6a4433f557b7d068328802.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Wimbledon : Serena Williams éliminée dès le premier tour par Maya Joint pour son « come-back »</title>
+    <link>https://www.lemonde.fr/sport/article/2026/06/30/wimbledon-serena-williams-eliminee-des-le-premier-tour-par-maya-joint_6717341_3242.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/sport/article/2026/06/30/wimbledon-serena-williams-eliminee-des-le-premier-tour-par-maya-joint_6717341_3242.html</guid>
+    <pubDate>Tue, 30 Jun 2026 23:22:53 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[La légende américaine, ex-numéro 1 mondiale du tennis féminin, tentait un retour sur les courts à 44 ans, quatre ans après son dernier match de simple et dix ans après sa dernière victoire dans le tournoi anglais sur gazon.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/06/30/49/0/2300/1150/644/322/60/0/2cf997e_ftp-1-bnxr6scnpl4m-2026-06-30t210708z-472808031-up1em6u1mcmbi-rtrmadp-3-tennis-wimbledon.JPG" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>A 44 ans et après quatre ans d’absence, Serena Williams s’incline pour son retour en simple à Wimbledon</title>
+    <link>https://www.liberation.fr/sports/tennis/a-44-ans-et-apres-quatre-ans-dabsence-serena-williams-sincline-pour-son-retour-en-simple-a-wimbledon-20260630_VIFG5KWPKBEIXMPIXIO7IUFO3I/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/sports/tennis/a-44-ans-et-apres-quatre-ans-dabsence-serena-williams-sincline-pour-son-retour-en-simple-a-wimbledon-20260630_VIFG5KWPKBEIXMPIXIO7IUFO3I/</guid>
+    <pubDate>Tue, 30 Jun 2026 20:58:35 +0000</pubDate>
+    <category>Société</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[L’Américaine aux 23 Grand Chelem, qui n’avait plus joué depuis 2022, n’a pas démérité mais a cédé en trois sets (6-3, 6-7, 6-3) face à Maya Joint au premier tour de Wimbledon, ce mardi 30 juin.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>France-Suède : Bradley Barcola double la mise et donne de l&apos;air aux Bleus... Suivez avec nous le seizième de finale de la Coupe du monde</title>
     <link>https://www.franceinfo.fr/coupe-du-monde/directs/direct-france-suede-les-bleus-vont-ils-contourner-le-piege-suedois-et-poursuivre-leur-route-suivez-a-partir-de-23-heures-leur-seizieme-de-finale-de-la-coupe-du-monde_8086892.html#xtor=RSS-3-[lestitres]</link>
     <guid isPermaLink="true">https://www.franceinfo.fr/coupe-du-monde/directs/direct-france-suede-les-bleus-vont-ils-contourner-le-piege-suedois-et-poursuivre-leur-route-suivez-a-partir-de-23-heures-leur-seizieme-de-finale-de-la-coupe-du-monde_8086892.html#xtor=RSS-3-[lestitres]</guid>
     <pubDate>Tue, 30 Jun 2026 22:54:00 +0000</pubDate>
     <category>Sport</category>
     <source url="https://loupeoff.github.io/loupe">France Info</source>
     <description><![CDATA[L'équipe de France affronte la Suède en seizièmes de finale de la Coupe du monde, mardi 30 juin, à 23 heures, à New York.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/uMevafZeFmZXEQvVl6PSNdehVGk/0x0:4069x2288/432x243/filters:format(jpg)/2026/06/03/6a202c4b039ac817215120.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>EN DIRECT - Mohamed El Khatib à «Libé» avant France - Suède : «On voit des petits pays dans cette Coupe du monde, ça ouvre la carte du monde»</title>
-    <link>https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-suivez-le-match-france-suede-avec-les-commentaires-de-mohamed-el-khatib-20260630_VDDYZKMHAJGQLKXIRI344R6ZJI/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-suivez-le-match-france-suede-avec-les-commentaires-de-mohamed-el-khatib-20260630_VDDYZKMHAJGQLKXIRI344R6ZJI/</guid>
-    <pubDate>Tue, 30 Jun 2026 20:51:36 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Les Bleus affrontent les Suédois ce mardi 30 juin à 23 heures en 16e de finale du Mondial. Pour suivre la rencontre en direct, nous accueillons un invité exceptionnel : le dramaturge fan de foot Mohamed El Khatib.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
+    <enclosure url="https://www.franceinfo.fr/pictures/d-cgkJRA3so0IuIjXK5BrX04YnA/0x0:4256x2394/432x243/filters:format(jpg)/2026/07/01/6a443fc3a628d230603132.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Un homme tué pour une chaise de camping, le meurtrier condamné à 12 ans de prison</title>
@@ -54,11 +124,11 @@
     <title>Le directeur de la CIA compare l’IA de pointe à des « armes nucléaires numériques »</title>
     <link>https://www.lemonde.fr/international/article/2026/06/30/le-directeur-de-la-cia-compare-l-ia-de-pointe-a-des-armes-nucleaires-numeriques_6717339_3210.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/06/30/le-directeur-de-la-cia-compare-l-ia-de-pointe-a-des-armes-nucleaires-numeriques_6717339_3210.html</guid>
-    <pubDate>Tue, 30 Jun 2026 22:23:48 +0000</pubDate>
+    <pubDate>Tue, 30 Jun 2026 22:23:46 +0000</pubDate>
     <category>Tech</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[Alors que la rivalité technologique s’intensifie, Washington multiplie les mesures inédites pour garder la main sur les modèles d’IA les plus puissants et protéger ses intérêts stratégiques.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/05/14/428/0/5152/2576/644/322/60/0/74a41bb_ftp-1-pzylo9vyk7b8-5035405-01-06.jpg" type="image/jpeg" length="0" />
+    <enclosure url="https://img.lemde.fr/2026/05/14/70/0/5152/2576/644/322/60/0/74a41bb_ftp-1-pzylo9vyk7b8-5035405-01-06.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Canicule : les Ecologistes veulent déposer une motion de censure contre Lecornu, qui conteste toute «inaction»</title>
@@ -239,76 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">France Info</source>
     <description><![CDATA[Le parquet de l'Union européenne annonce, mardi, qu'il "mène actuellement des mesures d'enquête en France et dans d'autres pays européens dans le cadre d'une enquête en cours portant sur l'usage de fonds européens par un ancien groupe politique du Parlement européen entre 2019 et 2024".]]></description>
     <enclosure url="https://www.franceinfo.fr/pictures/zk0E74vqt8TcQgU0nCDIXameoFc/0x0:1024x576/432x243/filters:format(jpg)/2026/06/30/6a440b66aa6e8299537471.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>En Cisjordanie occupée, une association caritative fermée par Israël, selon des responsables locaux</title>
-    <link>https://www.lemonde.fr/guerre-au-proche-orient/article/2026/06/30/en-cisjordanie-occupee-une-association-caritative-fermee-par-israel-selon-des-responsables-locaux_6717329_6325529.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/guerre-au-proche-orient/article/2026/06/30/en-cisjordanie-occupee-une-association-caritative-fermee-par-israel-selon-des-responsables-locaux_6717329_6325529.html</guid>
-    <pubDate>Tue, 30 Jun 2026 20:50:57 +0000</pubDate>
-    <category>Société</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
-    <description><![CDATA[L’organisation est connue localement pour ses activités sociales et éducatives. Elle gère au moins trois écoles dans la ville, ainsi que des services d’aide pour des milliers d’enfants orphelins et des familles défavorisées, selon le site de l’association.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/06/30/359/0/4316/2158/644/322/60/0/8aa4f0e_ftp-1-u30sq0t5wz6q-5489262-01-06.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>NBA : LeBron James poursuivra sa carrière loin de Los Angeles</title>
-    <link>https://www.liberation.fr/sports/nba-lebron-james-poursuivra-sa-carriere-loin-de-los-angeles-20260630_RBJJX2IEOZAOJDP3MDFPZHG5LI/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/sports/nba-lebron-james-poursuivra-sa-carriere-loin-de-los-angeles-20260630_RBJJX2IEOZAOJDP3MDFPZHG5LI/</guid>
-    <pubDate>Tue, 30 Jun 2026 18:50:53 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[A 41 ans, le meilleur marqueur de l’histoire de la ligue américaine a informé les Lakers de son départ, annonce ce mardi la chaîne ESPN.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Coupe du monde 2026 : sur quelles chaînes télé voir les matchs en France ?</title>
-    <link>https://www.liberation.fr/sports/football/coupe-du-monde-2026-sur-quelle-chaine-tele-voir-les-matchs-en-france-20260611_PM3IM5FDVFEUZPKXALTQAUBRDU/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/sports/football/coupe-du-monde-2026-sur-quelle-chaine-tele-voir-les-matchs-en-france-20260611_PM3IM5FDVFEUZPKXALTQAUBRDU/</guid>
-    <pubDate>Tue, 30 Jun 2026 18:50:01 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Deux diffuseurs se partagent les rencontres du Mondial : BeIn Sports et M6. Le premier a l’intégralité des matchs, la seconde chaîne en a 54. Découvrez lesquels.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Incendie de Crans-Montana : six mois après, personne n’oubliera</title>
-    <link>https://www.liberation.fr/idees-et-debats/editorial/incendie-de-crans-montana-six-mois-apres-personne-noubliera-20260630_XJ3MYZRZTBCVZALGPYD5LSLKI4/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/idees-et-debats/editorial/incendie-de-crans-montana-six-mois-apres-personne-noubliera-20260630_XJ3MYZRZTBCVZALGPYD5LSLKI4/</guid>
-    <pubDate>Tue, 30 Jun 2026 18:38:42 +0000</pubDate>
-    <category>Société</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Alors que l’enquête sur le drame du 1er janvier s’annonce longue, il faut espérer que les familles endeuillées et les victimes aux vies bouleversées obtiennent toutes les réponses à la tragédie.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Face au choc de la concurrence chinoise, la lente mue des Européens qui tentent de muscler leur défense</title>
-    <link>https://www.lemonde.fr/economie/article/2026/06/30/face-au-choc-de-la-concurrence-chinoise-la-lente-mue-des-europeens-qui-tentent-de-muscler-leur-defense_6717327_3234.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/economie/article/2026/06/30/face-au-choc-de-la-concurrence-chinoise-la-lente-mue-des-europeens-qui-tentent-de-muscler-leur-defense_6717327_3234.html</guid>
-    <pubDate>Tue, 30 Jun 2026 20:34:28 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Mercredi 1ᵉʳ juillet, l’Union européenne taxera les petits colis et augmentera les droits de douane sur l’acier. Une illustration de plus des mesures prises par les Vingt-Sept pour tenter de freiner le rouleau compresseur chinois. Mais tout cela prend du temps, pendant que la Chine gagne des parts de marché à toute vitesse.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/06/30/375/0/4500/2250/644/322/60/0/ce55c09_ftp-1-2oemsnazb5fj-2026-06-30t024448z-758476686-rc2a4la04vtx-rtrmadp-3-usa-trump-tariffs-china.JPG" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>La direction du groupe Les Echos-Le Parisien veut supprimer 61 postes, en épargnant pour l’heure les rédactions</title>
-    <link>https://www.lemonde.fr/economie/article/2026/06/30/la-direction-du-groupe-les-echos-le-parisien-veut-supprimer-61-postes-en-epargnant-pour-l-heure-les-redactions_6717326_3234.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/economie/article/2026/06/30/la-direction-du-groupe-les-echos-le-parisien-veut-supprimer-61-postes-en-epargnant-pour-l-heure-les-redactions_6717326_3234.html</guid>
-    <pubDate>Tue, 30 Jun 2026 20:31:42 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Lors de plusieurs CSE tenus au sein des deux titres de presse mardi 30 juin, un plan de départ a été annoncé concernant les fonctions support du groupe.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/06/30/477/0/5728/2864/644/322/60/0/b1ec43a_upload-1-kv70yjv1spoi-000-76cl2pg.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>France – Suède : pourquoi vos voisins voient les buts avant vous (et comment limiter l’écart) ?</title>
-    <link>https://www.numerama.com/tech/1980935-coupe-du-monde-pourquoi-vos-voisins-voient-les-buts-avant-vous-et-comment-limiter-lecart.html</link>
-    <guid isPermaLink="true">https://www.numerama.com/tech/1980935-coupe-du-monde-pourquoi-vos-voisins-voient-les-buts-avant-vous-et-comment-limiter-lecart.html</guid>
-    <pubDate>Tue, 30 Jun 2026 18:28:42 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">Numerama</source>
-    <description><![CDATA[Pendant toute la Coupe du monde 2026, des dizaines de millions de Français vont suivre les matchs de l'équipe de France et les plus grandes affiches du tournoi. Tous ont une crainte : se faire spoiler par un hurlement, des applaudissements ou un klaxon. Voici nos conseils pour être le plus proche du direct.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>

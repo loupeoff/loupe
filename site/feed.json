@@ -1,26 +1,96 @@
 {
-  "generated_at": "2026-06-30T21:01:00.189872+00:00",
+  "generated_at": "2026-06-30T22:20:05.089451+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "France-Suède : la pression monte à quelques minutes du coup d'envoi... Suivez avec nous le seizième de finale de la Coupe du monde",
+      "title": "EN DIRECT - France - Suède commenté par Mohamed El Khatib : Bradley Barcola double la mise !",
+      "url": "https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-suivez-le-match-france-suede-avec-les-commentaires-de-mohamed-el-khatib-20260630_VDDYZKMHAJGQLKXIRI344R6ZJI/",
+      "summary": "Les Bleus affrontent les Suédois actuellement en 16e de finale du Mondial. Pour suivre la rencontre en direct, nous accueillons un invité exceptionnel : le dramaturge fan de foot Mohamed El Khatib.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-06-30T22:13:01+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "547be57dca98"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Kiev a lancé une attaque de drones sur la Russie",
+      "url": "https://www.lemonde.fr/international/live/2026/07/01/en-direct-guerre-en-ukraine-kiev-a-lance-une-attaque-de-drones-sur-la-russie_6716525_3210.html",
+      "summary": "Selon des sources russes, environ 250 drones auraient été signalés dans la soirée de mardi. De son côté, l’Ukraine a affirmé, dans la journée, avoir ouvert un « corridor » dans la défense aérienne russe vers Moscou.",
+      "image": "https://img.lemde.fr/2026/06/30/120/0/5591/2795/644/322/60/0/b2cd6de_ftp-1-sn9ckox0vinh-2026-06-30t101456z-1672300516-rc243mawoboc-rtrmadp-3-ukraine-crisis-frontline-dobropillia.JPG",
+      "published_at": "2026-07-01T00:05:54+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "829957f2ebda"
+    },
+    {
+      "title": "Slovaquie, Hongrie, Croatie... La chaleur bat des records en Europe centrale",
+      "url": "https://www.franceinfo.fr/environnement/crise-climatique/slovaquie-hongrie-croatie-la-chaleur-bat-des-records-en-europe-centrale_8087450.html#xtor=RSS-3-[lestitres]",
+      "summary": "Il fait 41,3°C mardi à Kamenica nad Hronom, en Slovaquie. La ville croate de Split a enregistré le même jour un record de température avec 39,5°C.",
+      "image": "https://www.franceinfo.fr/pictures/RZQC0jYSGCvyn9lxlYmFADFHD1E/0x32:1024x608/432x243/filters:format(jpg)/2026/06/30/6a443c53ec103122771385.jpg",
+      "published_at": "2026-07-01T00:00:46+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "d7eda812149e"
+    },
+    {
+      "title": "Mercosur : tensions sur l’accord de libre-échange avec l’UE à l’ouverture du sommet au Paraguay",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/30/mercosur-tensions-sur-l-accord-de-libre-echange-avec-l-ue-a-l-ouverture-du-sommet-au-paraguay_6717342_3234.html",
+      "summary": "Le président paraguayen, Santiago Peña, a vivement critiqué le manque de « justice » dans l’accès au marché européen. Les chefs d’Etat présents on exprimé leur solidarité avec le Venezuela, endeuillé par un double séisme le 24 juin.",
+      "image": "https://img.lemde.fr/2026/06/30/203/0/5210/2605/644/322/60/0/176a098_ftp-1-daeplmjck9wk-5494659-01-06.jpg",
+      "published_at": "2026-06-30T23:49:04+02:00",
+      "source": "Le Monde Inter",
+      "category": "Économie",
+      "id": "b94b0abc05d5"
+    },
+    {
+      "title": "En conseil national, le PS acte ses désaccords sur sa stratégie à la présidentielle",
+      "url": "https://www.liberation.fr/politique/en-conseil-national-le-ps-acte-ses-desaccords-sur-sa-strategie-a-la-presidentielle-20260630_TP43U2BKZ5CBFFF2VPKLNS26HE/",
+      "summary": "Les militants socialistes auront à trancher le 9 juillet entre une primaire PS-Place publique ouverte à tous et une désignation interne ouverte aux seuls adhérents.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-06-30T21:33:43+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "6796d54a724b"
+    },
+    {
+      "title": "Difficultés d'approvisionnement jusqu'à début 2027 pour des comprimés d'aspirine utilisés contre les troubles cardiovasculaires",
+      "url": "https://www.franceinfo.fr/sante/medicament/difficultes-d-approvisionnement-jusqu-a-debut-2027-pour-des-comprimes-d-aspirine-utilises-contre-les-troubles-cardiovasculaires_8087432.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Le laboratoire Pfizer a informé l'ANSM de difficultés de production de son médicament Resitune - acide acétylsalicylique, aspirine - 75 mg et 100 mg, (en) comprimés gastro-résistants\", a prévenu, lundi, l'Agence nationale de sécurité du médicament.",
+      "image": "https://www.franceinfo.fr/pictures/8E5lms4cTjpsG4v8LOLDy-w1-WM/0x59:1024x635/432x243/filters:format(jpg)/2026/06/30/6a4433f557b7d068328802.jpg",
+      "published_at": "2026-06-30T23:25:12+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "ba2ab159cbf3"
+    },
+    {
+      "title": "Wimbledon : Serena Williams éliminée dès le premier tour par Maya Joint pour son « come-back »",
+      "url": "https://www.lemonde.fr/sport/article/2026/06/30/wimbledon-serena-williams-eliminee-des-le-premier-tour-par-maya-joint_6717341_3242.html",
+      "summary": "La légende américaine, ex-numéro 1 mondiale du tennis féminin, tentait un retour sur les courts à 44 ans, quatre ans après son dernier match de simple et dix ans après sa dernière victoire dans le tournoi anglais sur gazon.",
+      "image": "https://img.lemde.fr/2026/06/30/49/0/2300/1150/644/322/60/0/2cf997e_ftp-1-bnxr6scnpl4m-2026-06-30t210708z-472808031-up1em6u1mcmbi-rtrmadp-3-tennis-wimbledon.JPG",
+      "published_at": "2026-06-30T23:22:53+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "7e48441a3619"
+    },
+    {
+      "title": "A 44 ans et après quatre ans d’absence, Serena Williams s’incline pour son retour en simple à Wimbledon",
+      "url": "https://www.liberation.fr/sports/tennis/a-44-ans-et-apres-quatre-ans-dabsence-serena-williams-sincline-pour-son-retour-en-simple-a-wimbledon-20260630_VIFG5KWPKBEIXMPIXIO7IUFO3I/",
+      "summary": "L’Américaine aux 23 Grand Chelem, qui n’avait plus joué depuis 2022, n’a pas démérité mais a cédé en trois sets (6-3, 6-7, 6-3) face à Maya Joint au premier tour de Wimbledon, ce mardi 30 juin.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-06-30T20:58:35+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "bb1d4db0714e"
+    },
+    {
+      "title": "France-Suède : Bradley Barcola double la mise et donne de l'air aux Bleus... Suivez avec nous le seizième de finale de la Coupe du monde",
       "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-france-suede-les-bleus-vont-ils-contourner-le-piege-suedois-et-poursuivre-leur-route-suivez-a-partir-de-23-heures-leur-seizieme-de-finale-de-la-coupe-du-monde_8086892.html#xtor=RSS-3-[lestitres]",
       "summary": "L'équipe de France affronte la Suède en seizièmes de finale de la Coupe du monde, mardi 30 juin, à 23 heures, à New York.",
-      "image": "https://www.franceinfo.fr/pictures/uMevafZeFmZXEQvVl6PSNdehVGk/0x0:4069x2288/432x243/filters:format(jpg)/2026/06/03/6a202c4b039ac817215120.jpg",
+      "image": "https://www.franceinfo.fr/pictures/d-cgkJRA3so0IuIjXK5BrX04YnA/0x0:4256x2394/432x243/filters:format(jpg)/2026/07/01/6a443fc3a628d230603132.jpg",
       "published_at": "2026-06-30T22:54:00+02:00",
       "source": "France Info",
       "category": "Sport",
       "id": "f2156c26d5f2"
-    },
-    {
-      "title": "EN DIRECT - Mohamed El Khatib à «Libé» avant France - Suède : «On voit des petits pays dans cette Coupe du monde, ça ouvre la carte du monde»",
-      "url": "https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-suivez-le-match-france-suede-avec-les-commentaires-de-mohamed-el-khatib-20260630_VDDYZKMHAJGQLKXIRI344R6ZJI/",
-      "summary": "Les Bleus affrontent les Suédois ce mardi 30 juin à 23 heures en 16e de finale du Mondial. Pour suivre la rencontre en direct, nous accueillons un invité exceptionnel : le dramaturge fan de foot Mohamed El Khatib.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-30T20:51:36+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "547be57dca98"
     },
     {
       "title": "Un homme tué pour une chaise de camping, le meurtrier condamné à 12 ans de prison",
@@ -46,9 +116,9 @@
       "title": "Le directeur de la CIA compare l’IA de pointe à des « armes nucléaires numériques »",
       "url": "https://www.lemonde.fr/international/article/2026/06/30/le-directeur-de-la-cia-compare-l-ia-de-pointe-a-des-armes-nucleaires-numeriques_6717339_3210.html",
       "summary": "Alors que la rivalité technologique s’intensifie, Washington multiplie les mesures inédites pour garder la main sur les modèles d’IA les plus puissants et protéger ses intérêts stratégiques.",
-      "image": "https://img.lemde.fr/2026/05/14/428/0/5152/2576/644/322/60/0/74a41bb_ftp-1-pzylo9vyk7b8-5035405-01-06.jpg",
-      "published_at": "2026-06-30T22:23:48+02:00",
-      "source": "Le Monde Inter",
+      "image": "https://img.lemde.fr/2026/05/14/70/0/5152/2576/644/322/60/0/74a41bb_ftp-1-pzylo9vyk7b8-5035405-01-06.jpg",
+      "published_at": "2026-06-30T22:23:46+02:00",
+      "source": "Le Monde",
       "category": "Tech",
       "id": "4083d34815d8"
     },
@@ -231,76 +301,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "b65649a1dcb6"
-    },
-    {
-      "title": "En Cisjordanie occupée, une association caritative fermée par Israël, selon des responsables locaux",
-      "url": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/06/30/en-cisjordanie-occupee-une-association-caritative-fermee-par-israel-selon-des-responsables-locaux_6717329_6325529.html",
-      "summary": "L’organisation est connue localement pour ses activités sociales et éducatives. Elle gère au moins trois écoles dans la ville, ainsi que des services d’aide pour des milliers d’enfants orphelins et des familles défavorisées, selon le site de l’association.",
-      "image": "https://img.lemde.fr/2026/06/30/359/0/4316/2158/644/322/60/0/8aa4f0e_ftp-1-u30sq0t5wz6q-5489262-01-06.jpg",
-      "published_at": "2026-06-30T20:50:57+02:00",
-      "source": "Le Monde Inter",
-      "category": "Société",
-      "id": "ef038d953fbc"
-    },
-    {
-      "title": "NBA : LeBron James poursuivra sa carrière loin de Los Angeles",
-      "url": "https://www.liberation.fr/sports/nba-lebron-james-poursuivra-sa-carriere-loin-de-los-angeles-20260630_RBJJX2IEOZAOJDP3MDFPZHG5LI/",
-      "summary": "A 41 ans, le meilleur marqueur de l’histoire de la ligue américaine a informé les Lakers de son départ, annonce ce mardi la chaîne ESPN.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-30T18:50:53+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "275d225ff8ec"
-    },
-    {
-      "title": "Coupe du monde 2026 : sur quelles chaînes télé voir les matchs en France ?",
-      "url": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-sur-quelle-chaine-tele-voir-les-matchs-en-france-20260611_PM3IM5FDVFEUZPKXALTQAUBRDU/",
-      "summary": "Deux diffuseurs se partagent les rencontres du Mondial : BeIn Sports et M6. Le premier a l’intégralité des matchs, la seconde chaîne en a 54. Découvrez lesquels.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-30T18:50:01+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "281df6d337f2"
-    },
-    {
-      "title": "Incendie de Crans-Montana : six mois après, personne n’oubliera",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/incendie-de-crans-montana-six-mois-apres-personne-noubliera-20260630_XJ3MYZRZTBCVZALGPYD5LSLKI4/",
-      "summary": "Alors que l’enquête sur le drame du 1er janvier s’annonce longue, il faut espérer que les familles endeuillées et les victimes aux vies bouleversées obtiennent toutes les réponses à la tragédie.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-06-30T18:38:42+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "b8ef7b17f20f"
-    },
-    {
-      "title": "Face au choc de la concurrence chinoise, la lente mue des Européens qui tentent de muscler leur défense",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/30/face-au-choc-de-la-concurrence-chinoise-la-lente-mue-des-europeens-qui-tentent-de-muscler-leur-defense_6717327_3234.html",
-      "summary": "Mercredi 1ᵉʳ juillet, l’Union européenne taxera les petits colis et augmentera les droits de douane sur l’acier. Une illustration de plus des mesures prises par les Vingt-Sept pour tenter de freiner le rouleau compresseur chinois. Mais tout cela prend du temps, pendant que la Chine gagne des parts de marché à toute vitesse.",
-      "image": "https://img.lemde.fr/2026/06/30/375/0/4500/2250/644/322/60/0/ce55c09_ftp-1-2oemsnazb5fj-2026-06-30t024448z-758476686-rc2a4la04vtx-rtrmadp-3-usa-trump-tariffs-china.JPG",
-      "published_at": "2026-06-30T20:34:28+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "3074973daf46"
-    },
-    {
-      "title": "La direction du groupe Les Echos-Le Parisien veut supprimer 61 postes, en épargnant pour l’heure les rédactions",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/30/la-direction-du-groupe-les-echos-le-parisien-veut-supprimer-61-postes-en-epargnant-pour-l-heure-les-redactions_6717326_3234.html",
-      "summary": "Lors de plusieurs CSE tenus au sein des deux titres de presse mardi 30 juin, un plan de départ a été annoncé concernant les fonctions support du groupe.",
-      "image": "https://img.lemde.fr/2026/06/30/477/0/5728/2864/644/322/60/0/b1ec43a_upload-1-kv70yjv1spoi-000-76cl2pg.jpg",
-      "published_at": "2026-06-30T20:31:42+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "90f85a5e5425"
-    },
-    {
-      "title": "France – Suède : pourquoi vos voisins voient les buts avant vous (et comment limiter l’écart) ?",
-      "url": "https://www.numerama.com/tech/1980935-coupe-du-monde-pourquoi-vos-voisins-voient-les-buts-avant-vous-et-comment-limiter-lecart.html",
-      "summary": "Pendant toute la Coupe du monde 2026, des dizaines de millions de Français vont suivre les matchs de l'équipe de France et les plus grandes affiches du tournoi. Tous ont une crainte : se faire spoiler par un hurlement, des applaudissements ou un klaxon. Voici nos conseils pour être le plus proche du direct.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-06-30T18:28:42+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "a67368272680"
     }
   ]
 }
