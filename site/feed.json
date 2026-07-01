@@ -1,306 +1,306 @@
 {
-  "generated_at": "2026-07-01T13:37:51.077869+00:00",
+  "generated_at": "2026-07-01T16:33:16.945735+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Lidl remet 200 000 ventilateurs en rayon",
-      "url": "https://www.numerama.com/tech/2289169-lidl-remet-200-000-ventilateurs-en-rayon.html",
-      "summary": "Alors qu’un nouvel épisode de chaleur se profile en France pour la semaine du 6 juillet 2026, et que les rayons se vident partout, Lidl remet 200 000 ventilateurs et climatiseurs en magasin dès cette semaine.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-07-01T13:34:08+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "7f7e40742aa5"
+      "title": "CMA-CGM : Rodolphe Saadé s’étend en Amérique du Nord en rachetant une filiale de FedEx",
+      "url": "https://www.liberation.fr/economie/transports/cma-cgm-rodolphe-saade-setend-en-amerique-du-nord-en-rachetant-une-filiale-de-fedex-20260701_P6DHXUL36ZG3JNA52KGJTGOVDY/",
+      "summary": "L’armateur français annonce un accord global à près de 5 milliards de dollars avec le groupe de Memphis.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-07-01T16:26:38+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "0b15b4505f0f"
     },
     {
-      "title": "EN DIRECT - Canicule : forte hausse du nombre de morts d’animaux domestiques",
+      "title": "Polémique sur les dates de la présidentielle, troisième vague de chaleur, mort du chanteur des Village People… L’actu de ce mercredi 1er juillet",
+      "url": "https://www.liberation.fr/international/europe/polemique-sur-les-dates-de-la-presidentielle-troisieme-vague-de-chaleur-mort-du-chanteur-des-village-people-lactu-de-ce-mercredi-1er-juillet-20260701_E4QSWDFKVZBYFDGIMX3YPRTTN4/",
+      "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée du mercredi 1er juillet.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-01T16:24:39+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "bb4bbb67f1f6"
+    },
+    {
+      "title": "Financement des armées: le Parlement adopte définitivement un budget porté à 436 milliards pour la période 2024-2030",
+      "url": "https://www.franceinfo.fr/societe/armee-securite-defense/financement-des-armees-le-parlement-adopte-definitivement-un-budget-porte-a-436-milliards-pour-la-periode-2024-2030_8088854.html#xtor=RSS-3-[lestitres]",
+      "summary": "Après le Sénat mardi, l'Assemblée nationale a très largement approuvé, mercredi, le projet de loi du gouvernement, par 375 voix contre 113.",
+      "image": "https://www.franceinfo.fr/pictures/hgovuH31ESLR7UwCl_r0gDciXYg/0x53:1024x629/432x243/filters:format(jpg)/2026/07/01/6a453e6c87cb7611889498.jpg",
+      "published_at": "2026-07-01T18:21:46+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "725ad38115a6"
+    },
+    {
+      "title": "\"Une plainte novatrice\" : cinq chauffeurs VTC déposent plainte pour traite d'êtres humains contre l'entreprise Uber",
+      "url": "https://www.franceinfo.fr/societe/justice/une-plainte-novatrice-cinq-chauffeurs-vtc-deposent-plainte-pour-traite-d-etres-humains-contre-l-entreprise-uber_8088515.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Il s'agit de démontrer qu'il existe un acte de recrutement massif en vue d'exploitation\", explique leur avocat",
+      "image": "https://www.franceinfo.fr/pictures/ihntSflGxycvtvW1y_eh3pszG-E/0x34:1939x1125/432x243/filters:format(jpg)/2026/07/01/6a4515276b87d693468186.jpg",
+      "published_at": "2026-07-01T18:20:19+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "06ab02976ba5"
+    },
+    {
+      "title": "Coupe du monde 2026 : la République démocratique du Congo surprend l'Angleterre et ouvre le score, suivez le match avec nous",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-l-angleterre-doit-assurer-face-a-la-republique-democratique-du-congo-avant-l-affiche-belgique-senegal_8086694.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les Anglais compteront notamment sur leur capitaine, déjà auteur de trois buts dans ce Mondial.",
+      "image": "https://www.franceinfo.fr/pictures/5qH3Z2CybiF72ti2PvI_0x37cM0/0x43:1024x619/432x243/filters:format(jpg)/2026/07/01/6a453db69f72d999085387.jpg",
+      "published_at": "2026-07-01T18:18:22+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "438c546738b6"
+    },
+    {
+      "title": "EN DIRECT - Canicule : Sébastien Lecornu présidera une cellule interministérielle de crise jeudi depuis Marseille",
       "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-encore-quatre-departements-dont-la-corse-en-vigilance-orange-ce-mercredi-20260701_4K7K37WY3VG75MKKL2UA3CGG4Q/",
       "summary": "Le ministère de l’Agriculture a annoncé ce mercredi la mise à disposition de prêts de trésorerie pour que les éleveurs adaptent leurs bâtiments aux fortes chaleurs, alors qu’un nouvel épisode est attendu sur le pays à partir de ce week-end.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-01T13:32:54+00:00",
+      "published_at": "2026-07-01T16:06:10+00:00",
       "source": "Libération",
       "category": "Politique",
       "id": "05417409893a"
     },
     {
-      "title": "« C’est plus que de l’espoir, c’est une croyance ! » : les Américains ne doutent pas du succès de Team USA à la Coupe du monde 2026",
-      "url": "https://www.lemonde.fr/sport/article/2026/07/01/c-est-plus-que-de-l-espoir-c-est-une-croyance-les-americains-ne-doutent-pas-du-succes-de-team-usa-a-la-coupe-du-monde-2026_6717545_3242.html",
-      "summary": "Le soutien que les supporteurs américains apportent à leur équipe de football ne devrait pas faire défaut, mercredi, à San Francisco, lors du seizième de finale contre la Bosnie-Herzégovine. Et ils voient la sélection nationale aller loin dans la compétition.",
-      "image": "https://img.lemde.fr/2026/06/10/116/0/4500/2250/644/322/60/0/ed1fc52_upload-1-dxwix94ibxma-usmnt-training-irvine-0626-lemonde-maxknight-107.jpg",
-      "published_at": "2026-07-01T15:30:04+02:00",
-      "source": "Le Monde Inter",
-      "category": "Sport",
-      "id": "98aa071ed79a"
-    },
-    {
-      "title": "Canicule : une motion de censure « n’arrêtera pas le changement climatique », affirme Maud Bregeon",
-      "url": "https://www.lemonde.fr/politique/article/2026/07/01/canicule-une-motion-de-censure-n-arretera-pas-le-changement-climatique-affirme-maud-bregeon_6717544_823448.html",
-      "summary": "Le groupe écologiste a annoncé mardi son intention de déposer une motion de censure contre le gouvernement pour dénoncer « son impréparation à la fois de la canicule qu’on a connue, mais surtout de la canicule qui arrive », selon sa présidente, Cyrielle Chatelain.",
-      "image": "https://img.lemde.fr/2026/07/01/494/0/5936/2968/644/322/60/0/d5c57c6_ftp-1-1rl614iydvzs-2026-07-01t095410z-196250878-rc2x4max78ft-rtrmadp-3-france-politics.JPG",
-      "published_at": "2026-07-01T15:29:08+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "f57c5a00c403"
-    },
-    {
-      "title": "Rachat Paramount/Warner : la Grande-Bretagne pourrait intervenir et tout stopper",
-      "url": "https://www.numerama.com/pop-culture/2288957-rachat-paramount-warner-la-grande-bretagne-pourrait-intervenir-et-tout-stopper.html",
-      "summary": "Alors que le projet de fusion historique entre Paramount et Warner Bros Discovery semblait sur une voie royale après le feu vert des États-Unis, un obstacle inattendu surgit de l'autre côté de l'Atlantique. Le gouvernement britannique menace d'intervenir et de geler l'opération, mettant en péril un deal global à 110 milliards de dollars.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-01T13:15:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "91031606d834"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
-      "url": "https://www.lemonde.fr/international/live/2026/07/01/en-direct-guerre-en-ukraine-les-dernieres-informations_6716525_3210.html",
-      "summary": "Le nombre de drones longue portée et missiles russes lancés contre l’Ukraine a nettement baissé en juin par rapport à mai, alors que Kiev a intensifié ses propres frappes contre la Russie.",
-      "image": "https://img.lemde.fr/2026/07/01/0/0/4896/2448/644/322/60/0/b790633_ftp-1-ayok8xgl0ziu-2026-07-01t093454z-412805724-rc2x4makcyvd-rtrmadp-3-ukraine-crisis-attack-dnipropetrovsk.JPG",
-      "published_at": "2026-07-01T15:14:44+02:00",
+      "title": "Présidentielle 2027 : Laurent Wauquiez met à mal la candidature de Bruno Retailleau en tendant la main à Edouard Philippe",
+      "url": "https://www.lemonde.fr/politique/article/2026/07/01/presidentielle-2027-laurent-wauquiez-met-a-mal-la-candidature-de-bruno-retailleau-en-tendant-la-main-a-edouard-philippe_6717576_823448.html",
+      "summary": "Le chef des députés LR, partisan d’une primaire ouverte pour désigner un candidat unique de la droite en 2027, se dit ouvert aux candidatures de Gabriel Attal, Bruno Retailleau et Edouard Philippe, mais appelle ce dernier à préciser son programme.",
+      "image": "https://img.lemde.fr/2025/11/12/458/0/5500/2750/644/322/60/0/b938c84_ftp-import-images-1-ai9uf1lnv1hd-2025-11-12t144851z-1802204480-rc22vhasr1wu-rtrmadp-3-france-politics-budget.JPG",
+      "published_at": "2026-07-01T18:05:49+02:00",
       "source": "Le Monde",
-      "category": "International",
-      "id": "19c59626f8b1"
-    },
-    {
-      "title": "Jodi Taylor : «Je ne suis pas scientifique, à chacun son travail»",
-      "url": "https://www.liberation.fr/culture/livres/jodi-taylor-je-ne-suis-pas-scientifique-a-chacun-son-travail-20260701_JHS5GNETUBDIFGJHBLA7H7KBDY/",
-      "summary": "Rencontre aux dernières Imaginales avec l’écrivaine britannique qui a embrayé sur une nouvelle série, «la Police du temps».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-01T13:13:24+00:00",
-      "source": "Libération",
       "category": "Politique",
-      "id": "4b30d63f8cab"
+      "id": "0d84f84f76d2"
     },
     {
-      "title": "Foot : des perquisitions au siège de la fédération allemande, mise en cause pour une affaire de corruption liée à l’Euro 2024",
-      "url": "https://www.liberation.fr/sports/football/foot-des-perquisitions-au-siege-de-la-federation-allemande-mise-en-cause-pour-une-affaire-de-corruption-liee-a-leuro-2024-20260701_UJHLGSJSPFG7LFU5UNAGIJQV4Q/",
-      "summary": "L’enquête qui a débouché ce mercredi 1er juillet sur des perquisitions à Francfort porte sur des billets préférentiels attribués à des villes hôtes de la compétition qui s’est déroulée outre-Rhin à l’été 2024.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-07-01T13:10:17+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "e9bb534f61c0"
-    },
-    {
-      "title": "En Suède, Google est condamné à verser 1,3 milliard d’euros à PriceRunner pour abus de position dominante",
-      "url": "https://www.lemonde.fr/international/article/2026/07/01/en-suede-google-est-condamne-a-verser-1-3-milliard-d-euros-a-pricerunner-pour-abus-de-position-dominante_6717543_3210.html",
-      "summary": "Le tribunal donne raison à PriceRunner « dans la mesure où l’abus commis par Google s’est prolongé plus longtemps que ce que Google avait fait valoir, et où cet abus a causé un préjudice à PriceRunner », selon le communiqué de la décision.",
-      "image": "https://img.lemde.fr/2026/06/15/417/0/5000/2500/644/322/60/0/477487b_ftp-1-hxcufe7zw8u6-2026-06-15t140201z-1211053117-rc29heakmxz8-rtrmadp-3-usa-cyber-china-research-hack.JPG",
-      "published_at": "2026-07-01T15:06:38+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "19846f281eef"
-    },
-    {
-      "title": "Grèce : 5 blessés après des attentats contre les domiciles de cadres du parti conservateur au pouvoir",
-      "url": "https://www.liberation.fr/international/europe/grece-5-blesses-apres-des-attentats-contre-les-domiciles-de-cadres-du-parti-conservateur-au-pouvoir-20260701_MJEQMKF2H5DHVLBJLPNLUNFBAI/",
-      "summary": "Les attaques ont eu lieu à l’aube mercredi 1er juillet. Une enquête a été confiée à la police antiterroriste.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-01T13:01:19+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "a72682dc09a2"
-    },
-    {
-      "title": "Nétanyahou à Paris ? L’incroyable indulgence de Gabriel Attal envers l’accusé de crime contre l’humanité",
-      "url": "https://www.liberation.fr/politique/netanyahou-a-paris-lincroyable-indulgence-de-gabriel-attal-envers-laccuse-de-crime-contre-lhumanite-20260701_3GGWW2SEPFCFXEQ3XSKCNQSLOM/",
-      "summary": "En envisageant que le Premier ministre israélien puisse se rendre dans la capitale française sans suite juridique, alors qu’il est visé par un mandat d’arrêt international, le candidat à la présidentielle renie les idéaux officiels de son camp.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-01T12:58:39+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "e0ee99a28a61"
-    },
-    {
-      "title": "C’est la fin des jeux physiques, la PS6 n’aura pas de lecteur de disque",
-      "url": "https://www.numerama.com/pop-culture/2289171-cest-la-fin-des-jeux-physiques-la-ps6-naura-pas-de-lecteur-de-disque.html",
-      "summary": "Une page historique de l'industrie vidéoludique est en train de se tourner sous nos yeux. Dans un communiqué officiel publié sur son blog, Sony Interactive Entertainment a annoncé l'arrêt définitif de la production de disques physiques pour les nouveaux jeux PlayStation. Le géant japonais fixe une date butoir pour cette transition radicale vers le 100 % numérique. La PS6 ne devrait donc pas avoir ",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-01T12:57:33+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "b701da6ac1ef"
-    },
-    {
-      "title": "Louis Aliot, maire RN de Perpignan, assure qu'il n'était \"pas au courant\" du tatouage nazi de son ancien conseiller municipal",
-      "url": "https://www.franceinfo.fr/politique/front-national/louis-aliot-maire-rn-de-perpignan-assure-qu-il-n-etait-pas-au-courant-du-tatouage-nazi-de-son-ancien-conseiller-municipal_8088485.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'ancien élu, devenu agent à l'état civil à la mairie de Perpignan, arborait un tatouage nazi. Il a été écarté depuis la polémique.",
-      "image": "https://www.franceinfo.fr/pictures/0wBD24-7Y0fMMif1xcMu1lm6zA4/0x0:701x394/432x243/filters:format(jpg)/2026/07/01/6a450da39292d459350289.jpg",
-      "published_at": "2026-07-01T14:57:30+02:00",
+      "title": "Jannik Sinner et Aryna Sabalenka assurent, Arthur Rinderknech qualifié pour le troisième tour… Ce qu'il faut retenir de la troisième journée de Wimbledon 2026",
+      "url": "https://www.franceinfo.fr/sports/tennis/wimbledon/jannik-sinner-et-aryna-sabalenka-assurent-arthur-rinderknech-qualifie-pour-le-troisieme-tour-ce-qu-il-faut-retenir-de-la-troisieme-journee-de-wimbledon-2026_8088827.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les n°1 mondiaux se sont qualifiés pour le troisième tour de Wimbledon, mercredi.",
+      "image": "https://www.franceinfo.fr/pictures/gqLHDe46AQaCmHatreoqp4zZuNc/0x0:1920x1080/432x243/filters:format(jpg)/2026/07/01/6a45392514898437250259.png",
+      "published_at": "2026-07-01T18:04:32+02:00",
       "source": "France Info",
       "category": "Politique",
-      "id": "b1f512d4628f"
+      "id": "837a5ca0f8aa"
     },
     {
-      "title": "Avec la canicule, la douleur silencieuse de la faune : «Pour des espèces déjà fragilisées, elle agit comme un accélérateur brutal»",
-      "url": "https://www.liberation.fr/environnement/biodiversite/avec-la-canicule-la-douleur-silencieuse-de-la-faune-pour-des-especes-deja-fragilisees-elle-agit-comme-un-accelerateur-brutal-20260701_FRUC7WCF5JFXDAMONVOS6C3M4I/",
-      "summary": "Poussins grillés et poissons en manque d’oxygène, rosée du matin disparue, centre de soins saturés… Alors que les fortes chaleurs de juin ont mis à mal les être humains, leurs effets ont aussi été dévastateurs pour la nature, même si certains animaux s’en sortent mieux que d’autres.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-01T12:55:10+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "7adc53cb4d8e"
+      "title": "250 ans d’indépendance américaine : le bicentenaire de 1976 fêté dans un élan de patriotisme malgré les divisions",
+      "url": "https://www.lemonde.fr/international/article/2026/07/01/250-ans-d-independance-americaine-le-bicentenaire-de-1976-fete-dans-un-elan-de-patriotisme-malgre-les-divisions_6717575_3210.html",
+      "summary": "« America 250 » (10/13). En 1976, les Etats-Unis tournent l’une des pages les plus tourmentées de leur histoire. Après le Vietnam et la démission de Richard Nixon, le bicentenaire offre aux Américains un moment de soulagement. Droit des minorités, justice sociale… de nouveaux débats continuent d’agiter la société, portés notamment par l’économiste Jeremy Rifkin et la gauche « rouge blanc bleu ».",
+      "image": "https://img.lemde.fr/2026/06/29/363/0/4313/2156/644/322/60/0/978ce47_upload-1-rgf7q5ee9akn-gettyimages-515407760.jpg",
+      "published_at": "2026-07-01T18:00:31+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "9f4ae639992b"
     },
     {
-      "title": "L'épidémie d'Ebola risque de coûter jusqu'à 3,6 milliards de dollars et des dizaines de milliers d'emplois à l'Afrique, alerte l'ONU",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-pourrait-couter-jusqu-a-3-6-milliards-de-dollars-et-des-dizaines-de-milliers-d-emplois-a-l-afrique-selon-l-onu_8088368.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le choc en matière de pauvreté concerne principalement la République démocratique du Congo, l'Ouganda, le Rwanda et le Soudan du Sud.",
-      "image": "https://www.franceinfo.fr/pictures/77KDP7AgK7LvwLZIs5-_5auvLdQ/0x187:3592x2208/432x243/filters:format(jpg)/2026/07/01/6a44fc573ab5b496222592.jpg",
-      "published_at": "2026-07-01T14:54:56+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "226eb94d0793"
-    },
-    {
-      "title": "ACRE réduite et réduction Fillon gelée : le double tour de vis sur les indépendants et les petits employeurs",
-      "url": "https://www.liberation.fr/libeplus/acre-reduite-et-reduction-fillon-gelee-le-double-tour-de-vis-sur-les-independants-et-les-petits-employeurs-20260701_OPD4ZIUVZJCSLJPAKRC3SY3B4Y/",
-      "summary": "Deux mesures discrètes, passées presque sans bruit dans la loi de finances 2026. L’une réduit de moitié l’exonération de cotisations pour les créateurs d’entreprise. L’autre gèle un paramètre de calcul des allègements patronaux alors que le SMIC, lui, continue d’augmenter.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-07-01T12:51:16+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "91f7374e1d76"
-    },
-    {
-      "title": "Isabelle Adjani condamnée en appel à 10 mois de prison avec sursis et 10 000 euros d’amende pour fraude fiscale aggravée et blanchiment",
-      "url": "https://www.liberation.fr/societe/police-justice/isabelle-adjani-condamnee-en-appel-a-10-mois-de-prison-avec-sursis-et-10-000-euros-damende-pour-fraude-fiscale-aggravee-et-blanchiment-20260701_EOUXEOSJQRBINLRS6NAZY2STSU/",
-      "summary": "Lors de son premier procès en octobre 2023, l’actrice de 71 ans avait été reconnue coupable de s’être frauduleusement domiciliée au Portugal en 2016 et 2017, éludant ainsi 236 000 euros d’impôt sur le revenu.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-07-01T12:48:34+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "ee4b67fb18b4"
-    },
-    {
-      "title": "Au festival d’Aix-en-Provence, entre la chaleur et les problèmes de son, l’opéra au défi du plein air",
-      "url": "https://www.lemonde.fr/culture/article/2026/07/01/au-festival-d-aix-en-provence-entre-la-chaleur-et-les-problemes-de-son-l-opera-au-defi-du-plein-air_6717542_3246.html",
-      "summary": "Orage, vent, soleil, absence de réverbération… Face aux contraintes du Théâtre de l’Archevêché, le festival d’art lyrique utilise la technologie afin de rendre l’expérience plus confortable, pour le public comme pour les musiciens.",
-      "image": "https://img.lemde.fr/2026/06/26/398/0/3541/1770/644/322/60/0/1800cbc_upload-1-wp5jytfyob6h-archeveche15juillet25-hd-10-jpg.jpg",
-      "published_at": "2026-07-01T14:48:23+02:00",
+      "title": "Des molécules organiques complexes mises en évidence sur Mars par le rover Perseverance",
+      "url": "https://www.lemonde.fr/sciences/article/2026/07/01/des-molecules-organiques-complexes-mises-en-evidence-sur-mars-par-le-rover-perseverance_6717573_1650684.html",
+      "summary": "L’engin martien de la NASA a relevé ce qui pourrait être la signature de macromolécules carbonées. Cela suggère que des molécules organiques étaient présentes lorsque l’eau a coulé sur la Planète rouge.",
+      "image": "https://img.lemde.fr/2026/06/29/262/0/2500/1250/644/322/60/0/eaa253a_upload-1-vks4mt7tkqak-pia26344-2500x.jpg",
+      "published_at": "2026-07-01T18:00:16+02:00",
       "source": "Le Monde",
+      "category": "Sport",
+      "id": "7c6cadf90d3d"
+    },
+    {
+      "title": "Le théâtre parisien de la Reine Blanche poursuivi en diffamation pour une pièce sur une scientifique oubliée",
+      "url": "https://www.liberation.fr/culture/scenes/le-theatre-parisien-de-la-reine-blanche-poursuivi-en-diffamation-pour-une-piece-sur-une-scientifique-oubliee-20260701_ZASOYV5B2JEI7M6XLY5ELQOZRQ/",
+      "summary": "Programmée cet été au festival off d’Avignon, «la Découvreuse oubliée» réhabilite la figure de Marthe Gautier comme découvreuse de la trisomie 21, longtemps attribuée au seul Dr Lejeune. La fille de celui-ci dénonce une atteinte à la mémoire de son père.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-07-01T15:57:45+00:00",
+      "source": "Libération",
       "category": "Culture",
-      "id": "5e18a3f5e9c3"
+      "id": "79904218f814"
     },
     {
-      "title": "Nos héros ne meurent jamais, ils jouent au football",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/nos-heros-ne-meurent-jamais-ils-jouent-au-football-20260701_UW4DQDAP6BDVDERE5SZIM76LJA/",
-      "summary": "De Pelé à Messi, le football mondial continue de produire, tous les quatre ans, des figures sportives qui offrent encore des points de rassemblement dans un monde traversé par la défiance et l’individualisation, souligne Maxime Travert, professeur des universités à Aix-Marseille Université.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-01T12:46:44+00:00",
-      "source": "Libération",
+      "title": "Violences dans le périscolaire parisien : la commission présidée par Antoine Garapon démarre ses travaux",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/01/violences-dans-le-periscolaire-parisien-la-commission-presidee-par-antoine-garapon-demarre-ses-travaux_6717570_3224.html",
+      "summary": "L’ancien juge des enfants s’est entouré de douze experts pour mener un audit indépendant de six mois sur les violences faites aux enfants.",
+      "image": "https://img.lemde.fr/2026/07/01/40/0/3888/1944/644/322/60/0/3d4edcb_upload-1-3yi6p483sec4-000-38n92cq.jpg",
+      "published_at": "2026-07-01T17:57:13+02:00",
+      "source": "Le Monde",
       "category": "Sport",
-      "id": "47b3c3770885"
+      "id": "dab93fba21be"
     },
     {
-      "title": "Fronde à Périgueux contre l’organisation d’un banquet du Canon français : «Impossible que la ville devienne un refuge pour l’extrême droite»",
-      "url": "https://www.liberation.fr/politique/fronde-a-perigueux-contre-lorganisation-dun-banquet-du-canon-francais-impossible-que-la-ville-devienne-un-refuge-pour-lextreme-droite-20260701_Q6JNYLYKNZHR5KENTPV3XOOMIM/",
-      "summary": "Plus de 400 personnes ont manifesté mardi devant la mairie de la préfecture de Dordogne afin de réclamer l’annulation de l’évènement prévu en octobre prochain. L’ombre de l’un des actionnaires de l’entreprise, Pierre-Édouard Stérin, est pointée du doigt.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-07-01T12:44:40+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "3c2c677df005"
-    },
-    {
-      "title": "L'armée israélienne restera \"indéfiniment\" au Liban, en Syrie et dans la bande de Gaza, selon le ministre de la Défense",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-armee-israelienne-restera-indefiniment-au-liban-en-syrie-et-a-gaza-selon-le-ministre-de-la-defense_8088206.html#xtor=RSS-3-[lestitres]",
-      "summary": "Israël Katz défend un moyen \"de protéger\" les habitants et communautés de l'Etat hébreu \"contre les éléments jihadistes\".",
-      "image": "https://www.franceinfo.fr/pictures/NGnCDunfVDIX4YlAeXaa-WkdDCk/0x340:4000x2590/432x243/filters:format(jpg)/2026/07/01/6a44e0312ac98624327958.jpg",
-      "published_at": "2026-07-01T14:38:31+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "91404515d7b8"
-    },
-    {
-      "title": "Les ventes de voitures électriques continuent de battre des records en France et atteignent pour la première fois 30 % de parts de marché",
-      "url": "https://www.liberation.fr/economie/transports/les-ventes-de-voitures-electriques-continuent-de-battre-des-records-en-france-et-atteignent-pour-la-premiere-fois-30-de-parts-de-marche-20260701_OJZCLOOJWZEHRLWHSGSBMBTKVA/",
-      "summary": "Portés par les ventes de Tesla, dont le boycott semble terminé en France, et BYD, les véhicules électriques continuent de séduire sur un marché du neuf en meilleure santé au premier semestre que l’an dernier. Une progression observée dans une part grandissante du monde.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-01T12:33:03+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "a6796391f032"
-    },
-    {
-      "title": "« Nouvelle loi postale » : des députés dévoilent leurs, avec notamment la distribution du courrier quatre jours après son dépôt",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/01/courrier-a-j-4-augmentation-des-tarifs-des-deputes-devoilent-leurs-pistes-pour-une-nouvelle-loi-postale_6717539_3234.html",
-      "summary": "Un rapport parlementaire formule une quarantaine de mesures, dénonçant des « manquements multiples de l’Etat aux lourdes conséquences financières pour La Poste ».",
-      "image": "https://img.lemde.fr/2026/01/01/456/0/5478/2739/644/322/60/0/7c72e1d_ftp-1-3ctnzt1zr5mq-5780248-01-06.jpg",
-      "published_at": "2026-07-01T14:32:36+02:00",
+      "title": "La fraternité Saint-Pie X consacre quatre nouveaux évêques, un « acte schismatique » selon le Vatican",
+      "url": "https://www.lemonde.fr/religions/article/2026/07/01/la-fraternite-saint-pie-x-consacre-quatre-nouveaux-eveques-un-acte-schismatique-selon-le-vatican_6717569_1653130.html",
+      "summary": "Sous une pluie battante à Ecône, la Fraternité Saint-Pie X défie une nouvelle fois Rome en sacrant quatre évêques, ravivant les tensions autour de la tradition catholique.",
+      "image": "https://img.lemde.fr/2026/07/01/416/0/5000/2500/644/322/60/0/b28a6e1_ftp-1-hpyurhgeieax-5499580-01-06.jpg",
+      "published_at": "2026-07-01T17:56:44+02:00",
       "source": "Le Monde",
       "category": "Politique",
-      "id": "3fbaf6ebdfca"
+      "id": "cffab9e77845"
     },
     {
-      "title": "« Face à la guerre commerciale menée par Donald Trump, le Canada cherche à renforcer sa souveraineté économique »",
-      "url": "https://www.lemonde.fr/idees/article/2026/07/01/face-a-la-guerre-commerciale-menee-par-donald-trump-le-canada-cherche-a-renforcer-sa-souverainete-economique_6717537_3232.html",
-      "summary": "Yvan Cliche, spécialiste du secteur énergétique, estime, dans une tribune au « Monde », qu’en signant un accord sur la fourniture de gaz naturel liquéfié à l’Allemagne, fin mai, le premier ministre canadien, Mark Carney, a créé une rupture majeure avec la politique de son pays.",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/237e9fa_upload-1-wkwklf1ebg8t-frame-808.jpg",
-      "published_at": "2026-07-01T14:30:05+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "53191bcd7de5"
-    },
-    {
-      "title": "Il était une fois, la canicule, le Touareg et l’IA, par Tania de Montaigne",
-      "url": "https://www.liberation.fr/idees-et-debats/opinions/il-etait-une-fois-la-canicule-le-touareg-et-lia-par-tania-de-montaigne-20260701_KDEIDWEKIBGSHOSXD4QVBP76I4/",
-      "summary": "Au fur et à mesure de la montée de la température extérieure, on s’habille, on s’équipe, on s’adapte ou pas… pour le meilleur et pour le pire.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-07-01T12:30:00+00:00",
-      "source": "Libération",
-      "category": "Tech",
-      "id": "241bb63be585"
-    },
-    {
-      "title": "L'actrice Isabelle Adjani condamnée en appel à dix mois de prison avec sursis pour fraude fiscale aggravée et blanchiment",
-      "url": "https://www.franceinfo.fr/culture/cinema/isabelle-adjani/l-actrice-isabelle-adjani-condamnee-en-appel-a-dix-mois-de-prison-avec-sursis-pour-fraude-fiscale-aggravee-et-blanchiment_8088446.html#xtor=RSS-3-[lestitres]",
-      "summary": "En décembre 2023, le tribunal correctionnel de Paris l'avait condamnée à deux ans d'emprisonnement avec sursis et 250 000 euros d'amende.",
-      "image": "https://www.franceinfo.fr/pictures/peJ3d95wBJpz3bO1XA9Fi0W0P8o/0x0:4024x2263/432x243/filters:format(jpg)/2026/07/01/6a45046f52c74188533179.jpg",
-      "published_at": "2026-07-01T14:24:15+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "3e573c5c994e"
-    },
-    {
-      "title": "Soirées queers, cafés philo et buffet antigaspi : à Villeurbanne, dix ans de solidarité au Rita-Plage",
-      "url": "https://www.liberation.fr/lifestyle/gastronomie/soirees-queers-cafes-philo-et-buffet-antigaspi-a-villeurbanne-dix-ans-de-solidarite-au-rita-plage-20260701_2TRLTRQJX5AW5ELBFWZF3KZFUY/",
-      "summary": "Géré en société coopérative par sept associés salariés, le lieu alternatif en banlieue de Lyon, à la fois «cantine végé» et «bar culturel», fête ses dix ans. En se gardant de verser dans la «pureté militante».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-01T12:23:42+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "f6056cd3e573"
-    },
-    {
-      "title": "Canicule : des prêts de trésorerie seront mis à disposition des éleveurs, annonce la ministre de l’agriculture",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/01/canicule-des-prets-de-tresorerie-seront-mis-a-disposition-des-eleveurs-annonce-la-ministre-de-l-agriculture_6717536_3234.html",
-      "summary": "Ce dispositif de prêts, qui devraient être garantis par Bpifrance, vise à financer les diagnostics ou équipements permettant de limiter les effets de la chaleur dans les bâtiments, explique la ministre Annie Genevard.",
-      "image": "https://img.lemde.fr/2026/07/01/62/0/5856/2928/644/322/60/0/8cbf5be_ftp-1-syzpsrjvlfe9-5498661-01-06.jpg",
-      "published_at": "2026-07-01T14:18:36+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "d30dc723f08d"
-    },
-    {
-      "title": "Israël veut rester « indéfiniment » dans les zones de sécurité au Liban, en Syrie et à Gaza, selon le ministre de la défense",
-      "url": "https://www.lemonde.fr/international/article/2026/07/01/israel-veut-rester-indefiniment-dans-les-zones-de-securite-au-liban-en-syrie-et-a-gaza-selon-le-ministre-de-la-defense_6717535_3210.html",
-      "summary": "L’annonce du ministre Israel Katz intervient alors que des délégations iraniennes et américaines sont réunies au Qatar pour discuter du protocole d’accord signé mi-juin visant à mettre fin à la guerre au Moyen-Orient.",
-      "image": "https://img.lemde.fr/2026/05/26/95/0/8640/4320/644/322/60/0/dd58a97_ftp-1-mle0swzf1ciz-6ea7298cd9504881a2773288670498b0-0-a043457f910b44929d1970b86225841e.jpg",
-      "published_at": "2026-07-01T14:09:19+02:00",
-      "source": "Le Monde Inter",
+      "title": "EN DIRECT, guerre en Ukraine : Kiev attaque à nouveau une raffinerie sur le sol russe, à 1 000 kilomètres de ses frontières, annonce Volodymyr Zelensky",
+      "url": "https://www.lemonde.fr/international/live/2026/07/01/en-direct-guerre-en-ukraine-kiev-attaque-a-nouveau-une-raffinerie-sur-le-sol-russe-a-1-000-kilometres-de-ses-frontieres-annonce-volodymyr-zelensky_6716525_3210.html",
+      "summary": "Les forces ukrainiennes ont frappé la principale raffinerie de pétrole d’Oufa pour la deuxième fois en une semaine, a déclaré le président ukrainien. Les autorités russes n’ont pas confirmé cette attaque.",
+      "image": "https://img.lemde.fr/2026/07/01/346/0/7208/3604/644/322/60/0/d3a3789_ftp-1-7btq4hmcancj-5500508-01-06.jpg",
+      "published_at": "2026-07-01T17:56:30+02:00",
+      "source": "Le Monde",
       "category": "International",
-      "id": "552486bfc6f4"
+      "id": "0e968a3b8753"
     },
     {
-      "title": "Quatre questions sur la nouvelle affaire qui éclabousse le RN au Parlement européen, autour de soupçons de détournement de fonds par un groupe de partis d'extrême droite",
-      "url": "https://www.franceinfo.fr/politique/front-national/quatre-questions-sur-la-nouvelle-affaire-qui-eclabousse-le-rn-au-parlement-europeen-autour-de-soupcons-de-detournement-de-fonds-par-un-groupe-de-partis-d-extreme-droite_8087879.html#xtor=RSS-3-[lestitres]",
-      "summary": "La justice européenne soupçonne l'ex-groupe Identité et démocratie, où siégeait le RN, d'avoir \"indûment dépensé\" plusieurs millions d'euros entre 2019 et 2024. Une enquête est ouverte depuis l'an dernier, mais des perquisitions ont eu lieu dans des entreprises proches du parti.",
-      "image": "https://www.franceinfo.fr/pictures/0JSlcxDsN7aNowV6BxgJM9dkNKs/0x0:1024x576/432x243/filters:format(jpg)/2026/07/01/6a44a6427ac30584756240.jpg",
-      "published_at": "2026-07-01T14:06:24+02:00",
+      "title": "Le Parlement adopte définitivement un texte garantissant un avocat aux enfants placés ou protégés à partir de janvier",
+      "url": "https://www.franceinfo.fr/societe/enfance-et-adolescence/maltraitance-des-enfants/le-parlement-adopte-definitivement-un-texte-garantissant-un-avocat-aux-enfants-places-ou-proteges-a-partir-de-janvier_8088785.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le texte a été examiné à l'Assemblée nationale quelques jours après le drame de Louis. Tabassé à mort à Narbonne fin juin, l'adolescent avait été placé dans un foyer de l'aide sociale à l'enfance.",
+      "image": "https://www.franceinfo.fr/pictures/n_3kdDQ_rI1yEGogmPcqIhr9N-I/0x0:5472x3078/432x243/filters:format(jpg)/2026/07/01/6a45359d706c9326619220.jpg",
+      "published_at": "2026-07-01T17:55:53+02:00",
       "source": "France Info",
       "category": "Politique",
-      "id": "fdbc2f124c5f"
+      "id": "008f247a1466"
+    },
+    {
+      "title": "Comment le RN tente de réécrire son discours sur le réchauffement climatique",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/07/01/comment-le-rn-tente-de-reecrire-son-discours-sur-le-rechauffement-climatique-a-l-epreuve-de-la-canicule_6717568_4355770.html",
+      "summary": "Après la canicule de juin en France, le parti d’extrême droite a tenté de gommer les propos climatosceptiques longtemps tenus par certains de ses membres, entre relativisation du consensus scientifique et critiques répétées du GIEC.",
+      "image": "https://img.lemde.fr/2026/06/19/314/0/6000/3000/644/322/60/0/4505d81_ftp-1-oogifreajbkk-2026-06-19t120626z-515182882-rc2xwlau68ui-rtrmadp-3-france-tech.JPG",
+      "published_at": "2026-07-01T17:54:49+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "d8d0766affd1"
+    },
+    {
+      "title": "Le Parlement entérine un texte garantissant un avocat aux enfants placés ou protégés",
+      "url": "https://www.liberation.fr/societe/police-justice/le-parlement-enterine-un-texte-garantissant-un-avocat-aux-enfants-places-ou-proteges-20260701_K6RPFC7GGJAKZIFTALE4KQTZFU/",
+      "summary": "Le texte a été adopté à l’unanimité par l’Assemblée nationale en deuxième lecture ce mercredi 1er juillet, dans les mêmes termes que le Sénat fin mai.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-01T15:49:22+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "7aad01328c92"
+    },
+    {
+      "title": "Sony abandonne les disques PlayStation : les 8 questions que l’on se pose",
+      "url": "https://www.numerama.com/tech/2289235-sony-abandonne-les-disques-playstation-les-8-questions-que-lon-se-pose.html",
+      "summary": "Le 1er juillet 2026, Sony a annoncé mettre fin aux nouveaux jeux PlayStation sur disque dès 2028. Prix, occasion, rétrocompatibilité, prêt, connexion, sécurité : cette bascule vers le tout-numérique soulève bien plus de questions qu’elle n’apporte de réponses.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-07-01T15:45:07+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "5b43e6834965"
+    },
+    {
+      "title": "Présidentielle : pour Laurent Wauquiez, Edouard Philippe «peut incarner l’ordre et le sérieux» pour «redresser la France»",
+      "url": "https://www.liberation.fr/politique/presidentielle-pour-laurent-wauquiez-edouard-philippe-peut-incarner-lordre-et-le-serieux-pour-redresser-la-france-20260701_7HJCTEZCFBB3XBQPMGYADI2BVM/",
+      "summary": "Les grandes manœuvres continuent à droite. Le patron des députés LR loue les capacités de l’ancien Premier ministre dans un entretien au «Figaro» publié ce mercredi. Il prend également ses distances avec Bruno Retailleau, qui l’a battu pour la présidence du parti.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-01T15:35:18+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "66c6a92d38da"
+    },
+    {
+      "title": "Mistral AI, AMI Labs, ChapsVision… Face aux géants américains, qui sont les compétiteurs français ?",
+      "url": "https://www.liberation.fr/economie/economie-numerique/mistral-ai-ami-labs-chapsvision-face-aux-geants-americains-qui-sont-les-competiteurs-francais-20260701_Y6HSE5GICBADHPQPYLPMIQWWPU/",
+      "summary": "A l’heure où l’Europe court après sa souveraineté numérique, «Libé» fait le point sur ces entreprises et labos d’IA made in France qui veulent peser dans la compétition internationale.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-07-01T15:35:00+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "33f0ddb67baf"
+    },
+    {
+      "title": "Coupe du monde 2026 : au moins trois morts lors des célébrations à Mexico",
+      "url": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-deux-morts-lors-des-celebrations-a-mexico-20260701_C3EINMAP6NDFFGGJDZI6A5SX34/",
+      "summary": "Après la qualification du pays hôte pour les huitièmes de finale acquise mardi face à l’Equateur, deux femmes de 19 ans et 48 ans, mais aussi un homme de 44 ans sont morts par asphyxie.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-01T15:34:48+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "15e38feef1f6"
+    },
+    {
+      "title": "Chez le repreneur en série Europlasma, les déboires se multiplient",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/01/chez-le-repreneur-en-serie-europlasma-les-deboires-se-multiplient_6717565_3234.html",
+      "summary": "Entre le placement en redressement judiciaire de sa filiale Fonderie de Bretagne, les pertes financières qui se creusent et les pannes ou arrêts de production qui augmentent, le repreneur de sites industriels accumule les difficultés.",
+      "image": "https://img.lemde.fr/2026/06/30/541/0/6500/3250/644/322/60/0/2247ca0_upload-1-5i7bvhum1lt6-rea11255501.jpg",
+      "published_at": "2026-07-01T17:30:02+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "248944c87427"
+    },
+    {
+      "title": "L'icône de la musique latino Bad Bunny fait son entrée au musée Grévin",
+      "url": "https://www.franceinfo.fr/culture/musique/l-icone-de-la-musique-latino-bad-bunny-fait-son-entree-au-musee-grevin_8088500.html#xtor=RSS-3-[lestitres]",
+      "summary": "La révélation de la statue s'est faite le même jour que son concert au stade Vélodrome de Marseille.",
+      "image": "https://www.franceinfo.fr/pictures/So8A4v80LWAuDe6sopor6rJBqH0/0x0:1024x576/432x243/filters:format(jpg)/2026/07/01/6a4510321445c916524426.jpg",
+      "published_at": "2026-07-01T17:28:58+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "9b148b6eadd2"
+    },
+    {
+      "title": "Les Européens sont pessimistes face à l'avenir du monde, mais optimistes pour celui de l'UE, selon une étude",
+      "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/les-europeens-sont-pessimistes-face-a-l-avenir-du-monde-mais-optimistes-pour-celui-de-l-ue-selon-une-etude_8088371.html#xtor=RSS-3-[lestitres]",
+      "summary": "Un baromètre réalisé par le Parlement européen au printemps 2026 montre que 74% des habitants de l'UE considèrent que leur pays a bénéficié de son adhésion à l'Union.",
+      "image": "https://www.franceinfo.fr/pictures/eztuBWOZVDIaD2ILUxwELDq1cYE/0x700:6720x4480/432x243/filters:format(jpg)/2026/07/01/6a450b3572e0d427979401.jpg",
+      "published_at": "2026-07-01T17:28:25+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "18ca8832ca6c"
+    },
+    {
+      "title": "A Ecône, les lefébvristes ordonnent leurs évêques et disent chiche au schisme",
+      "url": "https://www.liberation.fr/societe/religions/a-econe-les-lefebvristes-ordonnent-leurs-eveques-et-disent-chiche-au-schisme-20260701_RHBHMRLO7FB2RMUYC5RIOINQ6U/",
+      "summary": "Contre la décision du pape, les catholiques intégristes de la Fraternité sacerdotale Saint-Pie X ont ordonné, dans le bourg du Valais suisse, quatre évêques lors d’une cérémonie à laquelle ont assisté 16 000 fidèles, venus du monde entier. «Un acte schismatique», avait prévenu, en amont, le Vatican.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-01T15:24:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "9040aef95ddf"
+    },
+    {
+      "title": "Canicule : \"Certains réseaux\" d'eau potable \"commencent à être sous tension\", selon le ministre délégué chargé de la Transition écologique",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-certains-reseaux-d-eau-potable-commencent-a-etre-sous-tension-selon-le-ministre-delegue-charge-de-la-transition-ecologique_8088770.html#xtor=RSS-3-[lestitres]",
+      "summary": "Au 1er juillet, \"94 départements ont franchi des seuils de vigilance ou d’alerte\" sécheresse, contre \"64 à la même période en 2025\", précise Mathieu Lefèvre.",
+      "image": "https://www.franceinfo.fr/pictures/O9NYHaTgU97r2ktB4slSG6JFa9g/0x0:6746x3794/432x243/filters:format(jpg)/2026/07/01/6a4530917b0c2510971065.jpg",
+      "published_at": "2026-07-01T17:23:34+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "2d1000e74b39"
+    },
+    {
+      "title": "Viol et agression sexuelle : la loi sur le consentement",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/01/viol-et-agression-sexuelle-la-loi-sur-le-consentement-n-est-pas-retroactive-tranche-la-cour-de-cassation_6717564_3224.html",
+      "summary": "La Cour de cassation a estimé que la loi de 2025 était « plus sévère » que la précédente, et le code pénal prévoit qu’une loi plus stricte ne puisse s’appliquer qu’à des faits commis après son entrée en vigueur. Les juges ne pourront donc appliquer la nouvelle loi qu’à des faits commis après le 8 novembre 2025.",
+      "image": "https://img.lemde.fr/2026/07/01/0/0/5504/2752/644/322/60/0/fbfa2e9_upload-1-c68whp1ujmko-000-84ua24u.jpg",
+      "published_at": "2026-07-01T17:22:58+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "4cc7f80d22bd"
+    },
+    {
+      "title": "\"Les enfants étaient pétrifiés et silencieux\" : exilée de Corée du Nord, une militante raconte les exécutions publiques dans son pays natal",
+      "url": "https://www.franceinfo.fr/monde/coree-du-nord/temoignages-les-enfants-etaient-petrifies-et-silencieux-exilee-de-coree-du-nord-une-militante-raconte-les-executions-publiques-dans-son-pays-natal_8088041.html#xtor=RSS-3-[lestitres]",
+      "summary": "Eunju Kim a quitté la Corée du Nord il y a vingt ans mais le souvenir des exécutions publiques reste vif. Malgré la répression et un contrôle strict d'internet, la population continue de braver les interdictions imposées par le régime.",
+      "image": "https://www.franceinfo.fr/pictures/0nSQ_DjIN3ObBUUZTxW8Ax6gHJY/0x0:1920x1080/432x243/filters:format(jpg)/2026/07/01/6a44d34d8db58083382427.jpg",
+      "published_at": "2026-07-01T17:08:47+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "ba25d9831bcd"
+    },
+    {
+      "title": "Arrivé au musée Grévin, Bad Bunny reste de cire",
+      "url": "https://www.liberation.fr/culture/musique/arrive-au-musee-grevin-bad-bunny-reste-de-cire-20260701_2MZQKRFO6ZAPBE4O75PNHOPBV4/",
+      "summary": "A quelques heures du premier concert français de la star portoricaine, ce mercredi 1er juillet au Vélodrome de Marseille, «Libé» a assisté à l’inauguration de sa statue et rencontré son sculpteur.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-07-01T15:01:59+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "4c6b691f3f53"
+    },
+    {
+      "title": "« En Irlande, l’évolution du PIB reflète davantage les stratégies mondiales de quelques multinationales que l’état réel de l’économie »",
+      "url": "https://www.lemonde.fr/idees/article/2026/07/01/en-irlande-l-evolution-du-pib-reflete-davantage-les-strategies-mondiales-de-quelques-multinationales-que-l-etat-reel-de-l-economie_6717562_3232.html",
+      "summary": "A cause de l’augmentation des droits de douane voulue par Donald Trump, le produit intérieur brut de l’Irlande a chuté de 12 % au premier trimestre. Mais la situation est due, pour l’essentiel, au contournement des règles du commerce international par le régime fiscal irlandais, note Philippe Askenazy, dans une chronique au « Monde ».",
+      "image": "https://img.lemde.fr/2026/06/29/903/0/4012/2006/644/322/60/0/5a9a85f_upload-1-dpzga9uiac0v-000-39z43ck.jpg",
+      "published_at": "2026-07-01T17:00:13+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "906f8e22a5db"
     }
   ]
 }
