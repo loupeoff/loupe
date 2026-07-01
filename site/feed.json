@@ -1,7 +1,157 @@
 {
-  "generated_at": "2026-07-01T19:03:36.313458+00:00",
+  "generated_at": "2026-07-01T20:51:21.417179+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Coupe du monde 2026 : après la qualification de l'Angleterre, le Sénégal et la Belgique s'affrontent pour accéder aux huitièmes de finale",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-l-angleterre-doit-assurer-face-a-la-republique-democratique-du-congo-avant-l-affiche-belgique-senegal_8086694.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les Anglais, longtemps malmenés par la RDC, ont été sauvés par Harry Kane, auteur d'un doublé.",
+      "image": "https://www.franceinfo.fr/pictures/ILiXngrf1mRMGyoarLEFbdZA1OM/0x0:1024x576/432x243/filters:format(jpg)/2026/07/01/6a4559f9f1ca4034140451.jpg",
+      "published_at": "2026-07-01T22:22:44+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "438c546738b6"
+    },
+    {
+      "title": "Présidentielle 2027 : même éligible, Marine Le Pen juge qu'il n'est \"pas possible\" de faire campagne avec un bracelet électronique",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-meme-eligible-marine-le-pen-juge-qu-il-n-est-pas-possible-de-faire-campagne-avec-un-bracelet-electronique_8089109.html#xtor=RSS-3-[lestitres]",
+      "summary": "La cheffe de file des députés RN s'est exprimée, mercredi, sur LCI, à six jours de la décision de la cour d'appel de Paris, qui déterminera si elle peut concourir une quatrième fois à l'élection présidentielle.",
+      "image": "https://www.franceinfo.fr/pictures/IFb6mPpVfGLzjGdJXLalRB1CQKg/0x53:1024x629/432x243/filters:format(jpg)/2026/07/01/6a4575149da3b259433912.jpg",
+      "published_at": "2026-07-01T22:19:52+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "0232c6c8e1ae"
+    },
+    {
+      "title": "Importants incendies dans l’Aude et l’Hérault : des centaines de pompiers mobilisés, plus de 800 hectares parcourus",
+      "url": "https://www.liberation.fr/environnement/climat/importants-incendies-dans-laude-et-lherault-des-centaines-de-pompiers-mobilises-plus-de-600-hectares-parcourus-20260701_3JL26A6UI5HXNFEPA4N6XPWDAU/",
+      "summary": "Des feux se sont déclarés ce mercredi 1er juillet dans l’Aude et l’Hérault, deux départements en vigilance rouge aux feux de forêts, informent les préfectures concernées. Des communes ont commencé à être évacuées.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-01T20:11:19+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "205855472a41"
+    },
+    {
+      "title": "Assistants fictifs du RN : même éligible, Le Pen n’estime «pas possible» de faire la présidentielle avec un bracelet électronique",
+      "url": "https://www.liberation.fr/politique/elections/assistants-fictifs-du-rn-meme-eligible-le-pen-nestime-pas-possible-de-faire-la-presidentielle-avec-un-bracelet-electronique-20260701_CCJB66PV35GUHMJQK6TSD5IZ7U/",
+      "summary": "La cheffe de file des députés d’extrême droite a écarté cette perspective, ce mercredi 1er juillet sur LCI, dans l’hypothèse où la cour d’appel de Paris rendrait une décision lui permettant de se présenter en 2027.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-01T20:04:47+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "1e6deef55d63"
+    },
+    {
+      "title": "Marine Le Pen affirme qu’elle ne ferait pas campagne avec un bracelet électronique et dit « ne pas avoir peur » avant la décision de la cour d’appel",
+      "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/07/01/presidentielle-marine-le-pen-refuse-de-faire-campagne-avec-un-bracelet-electronique-et-affirme-ne-pas-avoir-peur-avant-la-decision-de-la-cour-d-appel_6717612_6205049.html",
+      "summary": "La présidente du groupe RN à l’Assemblée nationale saura le 7 juillet si la justice confirme en appel sa condamnation à cinq ans d’inéligibilité pour détournement de fonds, une sanction qui l’empêcherait de se présenter à la présidentielle, au profit de Jordan Bardella.",
+      "image": "https://img.lemde.fr/2026/07/01/269/0/7162/3581/644/322/60/0/53807cc_ftp-1-iyd20czcxow7-5503944-01-06.jpg",
+      "published_at": "2026-07-01T22:02:18+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "f71e3c905064"
+    },
+    {
+      "title": "Amar Bouaou, avocat de figures de la criminalité organisée, mis en examen pour blanchiment et fraude fiscale",
+      "url": "https://www.liberation.fr/societe/police-justice/amar-bouaou-avocat-de-figures-de-la-criminalite-organisee-mis-en-examen-pour-blanchiment-et-fraude-fiscale-20260701_R2O57UWTYNHJLOPUFYG7E2PYBA/",
+      "summary": "Le parquet de Paris affirme ce mercredi 1er juillet que «Tracfin avait signalé la perception par cet avocat de près de 300 000 euros, en provenance de sociétés sans activité économique réelle».",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-07-01T19:57:33+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "43bec4e922c9"
+    },
+    {
+      "title": "Canal+ coupe la diffusion en France et en Afrique de chaînes thématiques appartenant au groupe TF1",
+      "url": "https://www.lemonde.fr/actualite-medias/article/2026/07/01/canal-coupe-la-diffusion-en-france-et-en-afrique-de-chaines-thematiques-appartenant-au-groupe-tf1_6717611_3236.html",
+      "summary": "En 2022, Canal avait cessé de diffuser les chaînes de TF1 sur tous ses canaux de distribution, faute d’accord financier pour le renouvellement de leur contrat. Le conflit avait été porté en justice par TF1, puis les deux parties avaient fini par trouver un accord.",
+      "image": "https://img.lemde.fr/2026/07/01/32/0/7488/3744/644/322/60/0/ce64efb_upload-1-axllprzu84nj-000-434g7wl.jpg",
+      "published_at": "2026-07-01T21:52:58+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "424b44a536e6"
+    },
+    {
+      "title": "Donald Trump salue des « très bonnes » réunions au Qatar, l’Iran annonce la fin des discussions",
+      "url": "https://www.lemonde.fr/international/article/2026/07/01/donald-trump-salue-des-tres-bonnes-reunions-au-qatar-l-iran-annonce-la-fin-des-discussions_6717610_3210.html",
+      "summary": "Même si Téhéran refuse à ce stade tout échange direct avec les Américains à Doha, les parties ont approuvé l’instauration d’ici à jeudi d’un canal de communication pour signaler et recenser les éventuelles violations du protocole d’accord.",
+      "image": "https://img.lemde.fr/2026/07/01/54/0/5500/2750/644/322/60/0/9973d10_ftp-1-p2cl2lgwlplk-2026-07-01t162235z-1232293275-rc2u4ma3ojik-rtrmadp-3-nodesc.JPG",
+      "published_at": "2026-07-01T21:46:33+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "703122e7c4e2"
+    },
+    {
+      "title": "Le bilan du double séisme au Venezuela révisé à la hausse avec 2 295 morts",
+      "url": "https://www.franceinfo.fr/monde/venezuela/le-bilan-du-double-seisme-au-venezuela-revise-a-la-hausse-avec-2-295-morts_8089076.html#xtor=RSS-3-[lestitres]",
+      "summary": "Quelque \"12 841 personnes ont été sinistrées\" par les tremblements de terre du 24 juin, a déclaré, mercredi, le président de l'Assemblée nationale.",
+      "image": "https://www.franceinfo.fr/pictures/0Fhw4KhSVJXIIwzX6kxbn35wZeU/0x59:1024x635/432x243/filters:format(jpg)/2026/07/01/6a456d816ea32219941908.jpg",
+      "published_at": "2026-07-01T21:42:24+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "7eda99f4b26f"
+    },
+    {
+      "title": "«Je pensais avoir une conversation d’homme à homme» : 4 mois de prison avec sursis requis contre le maire d’Arcachon",
+      "url": "https://www.liberation.fr/politique/elections/je-pensais-avoir-une-conversation-dhomme-a-homme-4-mois-de-prison-avec-sursis-requis-contre-le-maire-darcachon-20260701_5H3RYV6XXFB5DG7T5TPWYN67TE/",
+      "summary": "Le LR Yves Foulon était jugé à Bordeaux, ce mercredi 1er juillet, pour injures, menaces et violences envers son opposant Vital Baude dans une altercation filmée en mars. La procureure a requis quatre mois d’emprisonnement avec sursis et 10 000 euros d’amende, mais pas de peine d’inéligibilité. Délibéré le 20 août.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-07-01T19:36:02+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "7bfbb158e287"
+    },
+    {
+      "title": "Paris : retranchée dans un restaurant, une femme «en état de démence» meurt après des tirs de la police",
+      "url": "https://www.liberation.fr/societe/police-justice/paris-retranchee-dans-un-restaurant-une-femme-en-etat-de-demence-meurt-apres-des-tirs-de-la-police-20260701_OXXH5HZO65DODHDJSPCC6SZCBQ/",
+      "summary": "Dans le XIIe arrondissement de la capitale ce mercredi 1er juillet, une femme armée d’un couteau aurait surgi et attaqué une policière qui a été «légèrement blessée».",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-01T19:29:03+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "ad2881e6b8a5"
+    },
+    {
+      "title": "«Influenceurs casse-cou» : à New York, un couple déploie une banderole au sommet de l’Empire State Building",
+      "url": "https://www.liberation.fr/international/amerique/influenceurs-casse-cou-a-new-york-un-couple-deploie-une-banderole-au-sommet-de-lempire-state-building-20260701_AUSASVBTOFFY3MPRZXWX3I5IGE/",
+      "summary": "Les grimpeurs, qui seraient Angela Nikolau et Ivan Beerkus, ont réussi ce mercredi 1er juillet à escalader le gratte-ciel en plein Manhattan, où ils ont fait passer ce message : «Lorsque le pouvoir de l’amour triomphera de l’amour du pouvoir, le monde connaîtra la paix.»",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-01T19:13:05+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "8cf6df608a55"
+    },
+    {
+      "title": "Discuter sans numéro sur WhatsApp : voici les pièges à éviter avec les noms d’utilisateurs",
+      "url": "https://www.numerama.com/cyberguerre/2289309-discuter-sans-numero-sur-whatsapp-voici-les-pieges-a-eviter-avec-les-noms-dutilisateurs.html",
+      "summary": "WhatsApp permet désormais de discuter sur la messagerie sans dévoiler son numéro de téléphone. Un vrai progrès pour la confidentialité, mais qui déplace la question ailleurs : celle de la confiance que l'on accorde à un pseudo.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-01T19:10:00+00:00",
+      "source": "Numerama",
+      "category": "Sport",
+      "id": "bf226e9645dd"
+    },
+    {
+      "title": "Canicule : Sébastien Lecornu présidera une cellule interministérielle de crise jeudi depuis Marseille",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-encore-quatre-departements-dont-la-corse-en-vigilance-orange-ce-mercredi-20260701_4K7K37WY3VG75MKKL2UA3CGG4Q/",
+      "summary": "Plusieurs incendies ont été signalés dans le quart sud-ouest du pays ce mercredi 1er juillet favorisés par les vents et la chaleur, alors qu’un nouvel épisode est attendu sur le pays à partir de ce week-end.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-01T19:07:49+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "05417409893a"
+    },
+    {
+      "title": "Grèce : des attentats font un mort et quatre blessés chez des cadres conservateurs du parti au pouvoir",
+      "url": "https://www.lemonde.fr/international/article/2026/07/01/grece-des-attentats-font-un-mort-et-quatre-blesses-chez-des-cadres-conservateurs-du-parti-au-pouvoir_6717607_3210.html",
+      "summary": "Les domiciles visés à l’aube, mercredi 1ᵉʳ juillet, avec des engins artisanaux, étaient ceux de Zisis Ioakimovic, président du comité exécutif de la Nouvelle-Démocratie, parti au pouvoir, de l’ancien député Savvas Anastasiades et d’une ancienne candidate du parti, Afroditi Nestora, dont la mère est morte des suites de ses blessures.",
+      "image": "https://img.lemde.fr/2026/07/01/348/0/4181/2090/644/322/60/0/0bf22ac_ftp-1-2qpkrqj66oka-984d200fc44d498fb74c70f9484cfa18-0-f621fce91a5c433aa746a86b5d4bd487.jpg",
+      "published_at": "2026-07-01T21:01:56+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "fe0c83cc7873"
+    },
     {
       "title": "Ukraine : le général Valeri Zaloujny s’impose en figure incontournable de la politique nationale",
       "url": "https://www.lemonde.fr/international/article/2026/07/01/ukraine-le-general-valeri-zaloujny-s-impose-en-figure-incontournable-de-la-politique-nationale_6717606_3210.html",
@@ -25,22 +175,12 @@
     {
       "title": "Météo-France prévoit \"sans doute un nouvel épisode de fortes chaleurs à partir de ce week-end\" avec entre 30°C et 38°C dans l'Ouest et le Sud",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/meteo-france-prevoit-sans-doute-un-nouvel-episode-de-fortes-chaleurs-a-partir-de-ce-week-end-avec-entre-30-c-et-38-c-dans-l-ouest-et-le-sud_8089022.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Des conditions anticycloniques devraient s'installer encore pour plusieurs jours\", selon Myriam Seurat, du service météo-climat de France Télévisions.",
+      "summary": "\"Cela ne sera pas au niveau de ce que l'on a connu ces deux dernières semaines mais on n'en sera quand même pas loin et il faut ajouter que la nuit les températures vont de nouveau rester assez hautes\", a déclaré à France Télévisions Pierre Huat, prévisionniste chez Weather Solutions.",
       "image": "https://www.franceinfo.fr/pictures/RyY5h6mrXDoUMjSv7gX-Y8xN6RA/0x0:1024x576/432x243/filters:format(jpg)/2026/07/01/6a456109994a0035196157.jpg",
       "published_at": "2026-07-01T20:50:54+02:00",
       "source": "France Info",
       "category": "Politique",
       "id": "13da83c6d3d0"
-    },
-    {
-      "title": "EN DIRECT - Canicule : Sébastien Lecornu présidera une cellule interministérielle de crise jeudi depuis Marseille",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-encore-quatre-departements-dont-la-corse-en-vigilance-orange-ce-mercredi-20260701_4K7K37WY3VG75MKKL2UA3CGG4Q/",
-      "summary": "Le ministère de l’Agriculture a annoncé ce mercredi la mise à disposition de prêts de trésorerie pour que les éleveurs adaptent leurs bâtiments aux fortes chaleurs, alors qu’un nouvel épisode est attendu sur le pays à partir de ce week-end.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-01T18:46:02+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "05417409893a"
     },
     {
       "title": "« Les Russes sentent que la guerre est arrivée sur leur territoire » : dans les coulisses d’une attaque de drones de l’armée ukrainienne, loin derrière les lignes ennemies",
@@ -83,6 +223,16 @@
       "id": "3200d6607a2a"
     },
     {
+      "title": "Explosion à Monaco : les révélations de France Télévisions sur la préparation de l'opération",
+      "url": "https://www.franceinfo.fr/faits-divers/explosion-a-monaco-les-revelations-de-france-televisions-sur-la-preparation-de-l-operation_8089025.html#xtor=RSS-3-[lestitres]",
+      "summary": "La traque se poursuit, mercredi 1er juillet, pour tenter de retrouver le principal suspect dans l’affaire du colis piégé à Monaco. Alors que pronostic vital de l’oligarque ukrainien n’est plus engagé, la femme blessée est toujours entre la vie et la mort. France Télévisions a obtenu des informations sur l’itinéraire du suspect et la préparation de sa tentative d’assassinat.",
+      "image": "https://www.franceinfo.fr/pictures/PqlRhOUVB8za0_6z0CrELS82x2c/0x66:1686x1015/432x243/filters:format(jpg)/2026/07/01/6a455ebd9a5fd954513662.png",
+      "published_at": "2026-07-01T20:39:17+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "fd2cf526a113"
+    },
+    {
       "title": "Fronde contre les data centers : les nouvelles éoliennes de 2027 ?",
       "url": "https://www.liberation.fr/idees-et-debats/editorial/fronde-contre-les-data-centers-les-nouvelles-eoliennes-de-2027-20260701_OTY6QIJLBFF6DMGPN2GZRDWJI4/",
       "summary": "La multiplication des centres de stockage de données, et les nuisances qui vont avec – accaparement des sols, consommation d’eau et énergie –, entraînent un courroux croissant des citoyens. Marqué aux Etats-Unis, il gagne peu à peu la France. Le sujet pourrait s’inviter dans la campagne présidentielle.",
@@ -103,6 +253,16 @@
       "id": "cca8da4902a7"
     },
     {
+      "title": "Vol de pièces d'or dans le Tarn : un trésor d'une valeur de 120 000 euros dérobé au centre archéologique de Montans",
+      "url": "https://www.franceinfo.fr/faits-divers/vol-de-pieces-d-or-dans-le-tarn-un-tresor-d-une-valeur-de-120-000-euros-derobe-au-centre-archeologique-de-montans_8089019.html#xtor=RSS-3-[lestitres]",
+      "summary": "Une quarantaine de pièces d’or, datant du premier siècle après Jésus-Christ, ont été dérobées d’un centre archéologique près de Toulouse. D’une valeur de 120 000 euros, le trésor a été volé en quelques minutes seulement.",
+      "image": "https://www.franceinfo.fr/pictures/pY-geLlbTOF3aHkp-CTryq-1XK8/0x100:1544x969/432x243/filters:format(jpg)/2026/07/01/6a455c40427bb801210067.png",
+      "published_at": "2026-07-01T20:29:13+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "fafef03465ba"
+    },
+    {
       "title": "A Bordeaux, une enquête ouverte après sept plaintes pour violences sexuelles en maternelle",
       "url": "https://www.liberation.fr/societe/police-justice/bordeaux-enquete-ouverte-apres-sept-plaintes-pour-violences-sexuelles-en-maternelle-20260701_K6G2KBUTUBH63BV33FRPJ5ST3M/",
       "summary": "Un Atsem et un animateur du périscolaire ont été entendus mardi après des perquisitions à leur domicile. Auraient été visés «des enfants qui ne parlaient pas encore très bien, avaient du mal à s’exprimer», selon une représentante de parents d’élèves.",
@@ -111,16 +271,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "239a1b87b43b"
-    },
-    {
-      "title": "Coupe du monde 2026 : après la qualification de l'Angleterre, le Sénégal et la Belgique s'affrontent à 22 heures",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-l-angleterre-doit-assurer-face-a-la-republique-democratique-du-congo-avant-l-affiche-belgique-senegal_8086694.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les Anglais, longtemps malmenés par la RDC, ont été sauvés par Harry Kane, auteur d'un doublé.",
-      "image": "https://www.franceinfo.fr/pictures/ILiXngrf1mRMGyoarLEFbdZA1OM/0x0:1024x576/432x243/filters:format(jpg)/2026/07/01/6a4559f9f1ca4034140451.jpg",
-      "published_at": "2026-07-01T20:23:04+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "438c546738b6"
     },
     {
       "title": "Lionel Messi et Kylian Mbappé poursuivent leur lutte à distance pour le trône… Qui sont les meilleurs buteurs de l'histoire de la Coupe du monde ?",
@@ -151,156 +301,6 @@
       "source": "Libération",
       "category": "Économie",
       "id": "91403ce9f157"
-    },
-    {
-      "title": "L’Angleterre se fait peur face au Congo, Mbappé égale Messi, le Mexique se qualifie à domicile… L’actu de la Coupe du monde ce mercredi 1er juillet",
-      "url": "https://www.liberation.fr/sports/football/les-bleus-en-patron-face-a-la-suede-mbappe-egale-messi-le-mexique-se-qualifie-a-domicile-lactu-de-la-coupe-du-monde-ce-mercredi-1er-juillet-20260701_CNUVJTS5PBEEPD3HFV6W26RZ2Q/",
-      "summary": "L’essentiel des informations du jour sur le Mondial au Canada, aux Etats-Unis et au Mexique.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-01T18:00:39+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "e3b11e546b6a"
-    },
-    {
-      "title": "EN DIRECT, Belgique-Sénégal : De Bruyne et Doku titulaires, les Diables rouges défient les Lions de la Teranga pour une place en 8ᵉˢ",
-      "url": "https://www.lemonde.fr/sport/live/2026/07/01/en-direct-belgique-senegal-suivez-le-seizieme-de-finale-de-la-coupe-du-monde-football_6717596_3242.html",
-      "summary": "Qualifiés lors de la dernière journée de phase de groupes, les Belges devront montrer un autre visage pour espérer aller loin dans le tournoi. Ils affrontent le Sénégal, mercredi à Seattle.",
-      "image": "https://img.lemde.fr/2026/06/27/0/0/2908/1454/644/322/60/0/d1815e6_ftp-1-avwfvwcw53ag-d32b866e885c45c6bec3973df0ba35ee-0-19d7bbb652094ef98903e650440a0453.jpg",
-      "published_at": "2026-07-01T20:00:04+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "62f2d16e16e5"
-    },
-    {
-      "title": "L’armée israélienne restera le temps qu’il faut au Liban, fin des pourparlers indirects entre les Etats-Unis et l’Iran à Doha… L’actu du conflit au Moyen-Orient ce mercredi 1ᵉʳ juillet",
-      "url": "https://www.liberation.fr/international/moyen-orient/larmee-israelienne-restera-le-temps-quil-faut-au-liban-les-pourparlers-indirects-entre-washington-et-teheran-debutent-a-doha-lactu-du-conflit-au-moyen-orient-ce-mercredi-1er-juillet-20260701_EAWURSRYRNDYJNCSS4AVHFSXBA/",
-      "summary": "L’essentiel des informations du jour sur la guerre dans la région.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-01T17:59:35+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "a5fb8c6f8cee"
-    },
-    {
-      "title": "Importants incendies dans l’Aude et l’Hérault : des centaines de pompiers mobilisés, plus de 600 hectares parcourus",
-      "url": "https://www.liberation.fr/environnement/climat/importants-incendies-dans-laude-et-lherault-des-centaines-de-pompiers-mobilises-plus-de-600-hectares-parcourus-20260701_3JL26A6UI5HXNFEPA4N6XPWDAU/",
-      "summary": "Des feux se sont déclarés ce mercredi dans l’Aude et l’Hérault, deux départements en vigilance rouge aux feux de forêts, mobilisant plusieurs centaines de pompiers, informent les préfectures concernées. Des communes ont commencé à être évacuées.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-01T17:58:37+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "205855472a41"
-    },
-    {
-      "title": "Comment «Citizen Vigilante» est devenu le nouveau film préféré de l’extrême droite",
-      "url": "https://www.liberation.fr/checknews/comment-citizen-vigilante-est-devenu-le-nouveau-film-prefere-de-lextreme-droite-20260701_IZHBV7E4KJAB3OZNVO342QZZIM/",
-      "summary": "Propulsé par Elon Musk sur X, le film d’action d’Uwe Boll met en scène un justicier citoyen s’attaquant aux immigrés criminels, à la police et à la justice, dans une Europe dépeinte comme un coupe-gorge. Son succès s’appuie sur une polémique autour de sa diffusion en Allemagne.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-01T17:57:38+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "a20719684c66"
-    },
-    {
-      "title": "Les Etats-Unis refusent de renouveler l’ACEUM, l’accord de libre-échange avec le Canada et le Mexique",
-      "url": "https://www.lemonde.fr/international/article/2026/07/01/washington-refuse-de-renouveler-l-accord-de-libre-echange-avec-le-canada-et-le-mexique_6717595_3210.html",
-      "summary": "Un nouveau tour de négociations est prévu entre les Etats-Unis et le Mexique le 20 juillet, mais aucune nouvelle date n’a été annoncée concernant celles avec le Canada.",
-      "image": "https://img.lemde.fr/2026/06/03/860/0/5440/2720/644/322/60/0/4971504_ftp-1-9ohzxoc4v623-c7a5b4b115264bc2b0a37df837361771-0-e93a8a6255cc4679bfc8f5fa2141fdcf.jpg",
-      "published_at": "2026-07-01T19:56:53+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "f76d8c95e8c7"
-    },
-    {
-      "title": "Violences sexuelles en maternelle : enquête ouverte après sept plaintes à Bordeaux",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/01/violences-sexuelles-en-maternelle-enquete-ouverte-apres-sept-plaintes-a-bordeaux_6717594_3224.html",
-      "summary": "Un employé d’une école maternelle et un animateur périscolaire ont été entendus mardi par les enquêteurs de l’Office des mineurs, après des perquisitions à leur domicile.",
-      "image": "https://img.lemde.fr/2026/06/16/250/0/3000/1500/644/322/60/0/c1456d2_upload-1-2mhf2qyzsc7u-frame-1161.jpg",
-      "published_at": "2026-07-01T19:54:54+02:00",
-      "source": "Le Monde Politique",
-      "category": "Société",
-      "id": "004dfec16fba"
-    },
-    {
-      "title": "Assemblage horizontal puis vertical : la nouvelle stratégie de Blue Origin face à SpaceX",
-      "url": "https://www.numerama.com/sciences/2289153-assemblage-horizontal-puis-vertical-la-nouvelle-strategie-de-blue-origin-face-a-spacex.html",
-      "summary": "Les opérations de reconstruction ont démarré à Cap Canaveral, un peu plus d'un mois après la spectaculaire explosion de la fusée New Glenn fin mai 2026. L'occasion pour l'entreprise de repartir sur de nouvelles bases, avec des méthodes qui changent de ce que propose son principal concurrent, SpaceX.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-01T17:50:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "b73cb4545cd3"
-    },
-    {
-      "title": "Séismes au Venezuela : les autorités déclarent sept jours de deuil national",
-      "url": "https://www.liberation.fr/international/amerique/seismes-au-venezuela-les-autorites-declarent-sept-jours-de-deuil-national-20260701_SWCGAC6BRVG5FIAD6ZUVPEE56I/",
-      "summary": "Le double séisme survenu le 24 juin a fait près de 2 000 morts et environ 50 000 disparus.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-01T17:48:43+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "7986de504b9d"
-    },
-    {
-      "title": "Un cumul de \"6,6 millions de minutes de retards en 2025\" : le contrôle aérien pas à la hauteur en France, selon le gouvernement et un rapport parlementaire",
-      "url": "https://www.franceinfo.fr/economie/transports/un-cumul-de-6-6-millions-de-minutes-de-retards-de-vols-en-2025-le-controle-aerien-pas-a-la-hauteur-en-france-selon-le-gouvernement-et-un-rapport-parlementaire_8088980.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"La situation s'améliore\", affirme pour sa part le ministre des Transports, selon qui \"sur les cinq premiers mois de l'année, les retards ont chuté de 35% après l'année horribilis de l'an dernier\".",
-      "image": "https://www.franceinfo.fr/pictures/Ub4N0pw9ix3zZLflvlg3QLtqBF0/0x80:1024x656/432x243/filters:format(jpg)/2026/07/01/6a4551792931e558262761.jpg",
-      "published_at": "2026-07-01T19:43:34+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "6503b4c1dab0"
-    },
-    {
-      "title": "Drones au-dessus de l’aéroport de Copenhague : la police n’a finalement trouvé aucune preuve",
-      "url": "https://www.liberation.fr/checknews/drones-au-dessus-de-laeroport-de-copenhague-la-police-na-finalement-trouve-aucune-preuve-20260701_2DDQZKYSWVHNDDINTGT4I74NCI/",
-      "summary": "En septembre 2025, l’aéroport danois avait suspendu son activité après des signalements de drones… dont personne n’a, pour l’instant, réussi à démontrer l’existence, comme l’ont attesté, ce jeudi 25 juin, les forces de l’ordre, qui ont clos leur enquête.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-01T17:43:03+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "2f594c14eae1"
-    },
-    {
-      "title": "Dans «Ridiculous», Louis C.K. fait du neuf avec son vieux",
-      "url": "https://www.liberation.fr/culture/scenes/dans-ridiculous-louis-ck-fait-du-neuf-avec-son-vieux-20260701_FEGYANDLQ5H7LJC2WTXUO3QCBY/",
-      "summary": "Ni banni ni blanchi après les accusations d’exhibitionnisme de 2017, le comédien américain évite la complainte antiwoke dans un nouveau stand-up centré sur la mort et la vieillesse qui touche à quelque chose de cruellement vrai.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-01T17:39:32+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "8fc8bd20e5cb"
-    },
-    {
-      "title": "Violent incendie près de Fréjus : \"c'est vraiment près de chez moi !\" Trois campings évacués, le feu fixé",
-      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/frejus-et-saint-raphael/violent-incendie-pres-de-frejus-d-importants-moyens-mobilises-car-le-feu-est-en-zone-periurbaine-3379486.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un violent incendie s'est déclaré vers 16 heures à Fréjus dans le Var ce mercredi 1ᵉʳ juillet. Il est en cours. Les autorités demandent à la population de se tenir à l’écart. Le vent et la sécheresse ne peuvent que rendre la tâche des secours plus difficile. A 19h, le préfet annonce que le feu est quasiment fixé.",
-      "image": "https://www.franceinfo.fr/pictures/pC-sUOLE-mexcsWc1vh2HoCzA2U/432x243/filters:format(jpg)/2026/07/01/6a453b0a3170e424695687.jpg",
-      "published_at": "2026-07-01T19:35:43+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "64b4fa82d12e"
-    },
-    {
-      "title": "Loi de programmation militaire : le Parlement valide un budget des armées de 436 milliards d’euros d’ici à 2030",
-      "url": "https://www.lemonde.fr/politique/article/2026/07/01/loi-de-programmation-militaire-le-parlement-valide-un-budget-des-armees-de-436-milliards-d-euros-d-ici-a-2030_6717592_823448.html",
-      "summary": "Cette trajectoire doit toutefois être validée chaque année lors des débats budgétaires au Parlement, et peut donc être remise en question.",
-      "image": "https://img.lemde.fr/2026/06/25/55/0/7193/3596/644/322/60/0/3d224d6_ftp-1-lvevbuxsasng-5436644-01-06.jpg",
-      "published_at": "2026-07-01T19:31:59+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "a54ebd4cf87a"
-    },
-    {
-      "title": "En Seine-Saint-Denis, l’Etat change de stratégie pour démanteler un bidonville",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/01/en-seine-saint-denis-l-etat-change-de-strategie-pour-demanteler-un-bidonville_6717591_3224.html",
-      "summary": "L’expulsion des quelque 600 habitants roms du bidonville de Stains s’est effectuée sans heurts, mercredi 1ᵉʳ juillet, à l’issue d’un large travail préparatoire avec les associations. Les habitants avaient été prévenus très en amont et des hébergements de longue durée proposés à une partie d’entre eux.",
-      "image": "https://img.lemde.fr/2026/07/01/838/0/8640/4320/644/322/60/0/e42fdf7_ftp-1-z7y3flk4cra2-5498133-01-06.jpg",
-      "published_at": "2026-07-01T19:30:10+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "0549a9c0db80"
     }
   ]
 }
