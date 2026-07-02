@@ -1,13 +1,203 @@
 {
-  "generated_at": "2026-07-02T20:24:21.802675+00:00",
+  "generated_at": "2026-07-02T22:14:54.845952+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "«Confessions II» de Madonna : le mégamix inégal d’une carrière hors norme",
+      "url": "https://www.liberation.fr/culture/musique/confessions-ii-de-madonna-le-megamix-inegal-dune-carriere-hors-norme-20260703_SMYXKOE2SNE4JAOAADR2DQUAAE/",
+      "summary": "Découverte caniculaire du quinzième album de la chanteuse, condensé emo-festif et inégal de sa carrière. Qui rappelle avant tout qu’on fait face à un phénomène qui nous dépasse.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-07-02T22:00:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "a90f06a1e260"
+    },
+    {
+      "title": "Incendies dans le sud de la France : \"tout le territoire national est prêt à s'embraser\", alerte le porte-parole des sapeurs-pompiers, qui compte \"plus de 30 feux\" jeudi",
+      "url": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-dans-le-sud-de-la-france-1-200-hectares-parcourus-par-les-flammes-pres-de-marseille-dans-l-herault-et-dans-l-aude_8089571.html#xtor=RSS-3-[lestitres]",
+      "summary": "Près de 3 000 personnes ont notamment dû être évacuées jeudi après qu'un incendie s'est déclaré dans les Pyrénées-Orientales.",
+      "image": "https://www.franceinfo.fr/pictures/V2xGFdfysEzIViscaCj52mW5eF0/0x53:1024x629/432x243/filters:format(jpg)/2026/07/02/6a469a6f5ba93733239692.jpg",
+      "published_at": "2026-07-02T23:52:37+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "7e382297a1c6"
+    },
+    {
+      "title": "Guerre en Ukraine : des attaques sur Kiev font au moins 25 morts, Volodymyr Zelensky affirme que son pays ripostera",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-des-attaques-sur-kiev-font-au-moins-13-morts-la-pire-attaque-russe-depuis-le-debut-de-la-guerre-en-ukraine-selon-le-maire-de-la-capitale_8089883.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"La Russie frappe des cibles civiles uniquement pour contraindre l'Ukraine à renoncer à son Etat\", a déclaré Volodymyr Zelensky, jeudi.",
+      "image": "https://www.franceinfo.fr/pictures/xTYK_08S1GE2_1d20-c5OoiMZcQ/0x100:1024x676/432x243/filters:format(jpg)/2026/07/02/6a462fe850fbf532743750.jpg",
+      "published_at": "2026-07-02T23:51:12+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "2a2c08363a2c"
+    },
+    {
+      "title": "Des attaques sur Kiev font au moins 25 morts, le maire de la capitale assure qu'il s'agit de \"la pire attaque russe depuis le début de la guerre en Ukraine\"",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-attaques-de-missiles-sur-kiev-font-au-moins-neuf-morts-et-de-lourds-degats-sur-des-batiments-residentiels_8089550.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dans la nuit de mercredi à jeudi, l'Ukraine a été visée par 496 drones et 74 missiles de différents types, dont respectivement 476 et 48 ont été interceptés, selon l'armée de l'air ukrainienne.",
+      "image": "https://www.franceinfo.fr/pictures/3XqN6yGP4jI_dadYNjDExrz35mU/0x516:6048x3918/432x243/filters:format(jpg)/2026/07/02/6a45f07e3a107364764561.jpg",
+      "published_at": "2026-07-02T23:44:48+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "638ef36f612d"
+    },
+    {
+      "title": "Dans un cadre monumental au pied de la Sagrada Familia, Barcelone a accueilli les coureurs du Tour de France avant le Grand Départ samedi",
+      "url": "https://www.franceinfo.fr/tour-de-france/reportage-dans-un-cadre-monumental-au-pied-de-la-sagrada-familia-barcelone-a-accueilli-les-coureurs-du-tour-de-france-avant-le-grand-depart-samedi_8090810.html#xtor=RSS-3-[lestitres]",
+      "summary": "Premier temps fort de l'épreuve, la présentation des coureurs au pied de la basilique a animé la cité catalane, jeudi, moins de quarante-huit heures avant le début de la compétition.",
+      "image": "https://www.franceinfo.fr/pictures/8NPKxR_qilfq6OHvwCV-FNh4WKI/0x575:5520x3680/432x243/filters:format(jpg)/2026/07/02/6a46ade927b4e465802237.jpg",
+      "published_at": "2026-07-02T23:40:19+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "e57755a2c7b3"
+    },
+    {
+      "title": "L’Espagne déroule contre l’Autriche, les Etats-Unis tranquilles contre la Bosnie… L’actu de la Coupe du monde ce jeudi 2 juillet",
+      "url": "https://www.liberation.fr/sports/football/la-belgique-miraculee-face-au-senegal-les-etats-unis-tranquilles-contre-la-bosnie-lactu-de-la-coupe-du-monde-ce-jeudi-2-juillet-20260702_TXLAQIWQ5RGH7JND2U3LISDOJA/",
+      "summary": "L’essentiel des informations du jour sur le Mondial au Canada, aux Etats-Unis et au Mexique.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-02T21:26:09+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "02afa0782cbf"
+    },
+    {
+      "title": "Un élève de 16 ans blessé lors d'un stage en entreprise, le bras happé par un malaxeur à béton",
+      "url": "https://www.franceinfo.fr/faits-divers/un-eleve-de-16-ans-blesse-lors-d-un-stage-en-entreprise-le-bras-happe-par-un-malaxeur-a-beton_8090975.html#xtor=RSS-3-[lestitres]",
+      "summary": "Selon les gendarmes, le stagiaire chargeait des sacs de ciment lorsque son avant-bras a été pris dans le malaxeur. Il souffre de \"nombreuses entailles à l'avant-bras\", mais son pronostic vital n'est pas engagé.",
+      "image": "https://www.franceinfo.fr/pictures/Z8QTJP_64wb48x0QfOt7HaD_uN0/0x52:1024x628/432x243/filters:format(jpg)/2026/07/02/6a46d4ece8d86795794402.jpg",
+      "published_at": "2026-07-02T23:16:01+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "5acff144c130"
+    },
+    {
+      "title": "Patrick Bruel visé par trois nouvelles plaintes, deux pour viol et une pour agression sexuelle",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/02/nouvelles-plaintes-pour-viol-et-agression-sexuelle-contre-patrick-bruel_6718235_3224.html",
+      "summary": "Les conseils du chanteur, Fanny Colin, Céline Lasek et Christophe Ingrain, ont précisé qu’il répondrait à « ces accusations fausses dans le seul cadre pertinent et adapté : la justice, si elle est saisie de ces faits ».",
+      "image": "https://img.lemde.fr/2026/06/03/355/0/5532/2766/644/322/60/0/4254620_ftp-1-87mqyxg5avly-5216824-01-06.jpg",
+      "published_at": "2026-07-02T23:07:26+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "5f3204121251"
+    },
+    {
+      "title": "Tentative d’assassinat à Monaco : un suspect identifié, mandat d’arrêt émis",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/02/tentative-d-assassinat-a-monaco-un-suspect-identifie-mandat-d-arret-emis_6718234_3224.html",
+      "summary": "L’enquête sur l’attaque à l’explosif progresse, alors que les autorités accélèrent la traque internationale du principal suspect.",
+      "image": "https://img.lemde.fr/2026/06/30/0/0/3372/1686/644/322/60/0/929d2fb_ftp-1-fssjqtluiz5d-5489875-01-06.jpg",
+      "published_at": "2026-07-02T23:01:03+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "22b508258489"
+    },
+    {
+      "title": "L'Espagne déroule face à l'Autriche et valide son ticket pour les huitièmes de finale de la Coupe du monde 2026",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/l-espagne-deroule-face-a-l-autriche-et-valide-son-ticket-pour-les-huitiemes-de-finale-de-la-coupe-du-monde-2026_8090936.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les champions d'Europe en titre affronteront le Portugal ou la Croatie en huitièmes de finale du Mondial.",
+      "image": "https://www.franceinfo.fr/pictures/TVkRbJUTtiORwmy1dOwzf9o1CZE/0x50:4254x2443/432x243/filters:format(jpg)/2026/07/02/6a46c95dd818b300960127.jpg",
+      "published_at": "2026-07-02T23:00:29+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "a4665e447473"
+    },
+    {
+      "title": "EN DIRECT, Portugal-Croatie : Rafael Leao préféré à Joao Felix pour accompagner Cristiano Ronaldo, suivez le seizième de finale de la Coupe du monde de football",
+      "url": "https://www.lemonde.fr/sport/live/2026/07/02/en-direct-portugal-croatie-suivez-le-seizieme-de-finale-de-la-coupe-du-monde-de-football_6718233_3242.html",
+      "summary": "Toujours en quête d’un premier sacre mondial, les coéquipiers de Cristiano Ronaldo défient dans la nuit de jeudi à vendredi la Croatie de Luka Modric.",
+      "image": "https://img.lemde.fr/2026/06/28/328/0/3938/1969/644/322/60/0/0b0359c_ftp-1-myg2kdleikm8-5468395-01-06.jpg",
+      "published_at": "2026-07-02T23:00:04+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "85d585852a82"
+    },
+    {
+      "title": "Sébastien Lecornu appelle \"avec gravité\" les parlementaires à doter le pays d'un budget à l'automne",
+      "url": "https://www.franceinfo.fr/economie/sebastien-lecornu-appelle-avec-gravite-les-parlementaires-a-doter-le-pays-d-un-budget-a-l-automne_8090939.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ne pas doter la France d'un budget pour 2027 à l'automne serait \"une erreur très grave\", a-t-il mis en garde jeudi.",
+      "image": "https://www.franceinfo.fr/pictures/0UvwxayPJ2BBDYp_cg7NpqMRKUE/0x53:1024x629/432x243/filters:format(jpg)/2026/07/02/6a46cc6597dcb954681712.jpg",
+      "published_at": "2026-07-02T22:41:09+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "c23ebae6ee8f"
+    },
+    {
+      "title": "Le principal suspect de l’explosion ayant fait trois blessés à Monaco serait une femme",
+      "url": "https://www.liberation.fr/international/europe/le-principal-suspect-de-lexplosion-ayant-fait-trois-blesses-a-monaco-est-une-femme-20260702_6EXMDFU3KZFUZHU3HPSXK64VLI/",
+      "summary": "Selon les informations de France Info et du Figaro, elle serait d’origine ukrainienne et aurait une trentaine d’années. C’est elle qui, le lundi 29 juin, aurait déposé le colis piégé dans le hall de l’immeuble de Vadim Ermolaev et de sa famille, les blessant grièvement.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-02T20:33:50+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "b5417be4fba7"
+    },
+    {
+      "title": "Canicule : la chaleur «repart» mais «aucun» département «classé rouge» ce week-end, assure Lecornu",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-lecornu-attendu-ce-jeudi-a-marseille-incendies-en-cours-dans-le-sud-du-pays-20260702_WOD76NAV7JGCPKEKT5V3IJXVFY/",
+      "summary": "Les députés écologistes ont déposé ce jeudi leur motion de censure contre le gouvernement, reprochant au Premier ministre d’avoir «aggravé» les «vulnérabilités du pays» face au changement climatique et aux épisodes caniculaires. Elle devrait être examinée lundi après-midi.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-02T20:28:56+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "179c66ecda3d"
+    },
+    {
+      "title": "L’épisode d’hantavirus déclaré sur un bateau de croisière officiellement terminé selon l’OMS",
+      "url": "https://www.liberation.fr/societe/sante/lepisode-dhantavirus-declare-sur-un-bateau-de-croisiere-officiellement-termine-selon-loms-20260702_4PRSXQVYDBBCHKNRY63JISPKGY/",
+      "summary": "Le directeur général de l’organisation a annoncé, ce jeudi 2 juillet, que la dernière personne exposée au virus avait achevé sa période de quarantaine à l’issue de laquelle elle avait été testée négative.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-02T20:28:02+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "3639065348cc"
+    },
+    {
+      "title": "«Un suicide environnemental et économique» : en Gironde, le projet de méga-usine de saumons se précise malgré les mobilisations",
+      "url": "https://www.liberation.fr/environnement/un-suicide-environnemental-et-economique-en-gironde-le-projet-de-mega-usine-de-saumons-se-precise-malgre-les-mobilisations-20260702_GWDE5PZBLRADLM6N75O6JNUIGE/",
+      "summary": "Près de 300 opposants au projet se sont rassemblés ce jeudi devant la préfecture, alors que le Conseil départemental de l’environnement et des risques sanitaires et technologiques a rendu un avis favorable. La préfète doit désormais indiquer si elle délivre, ou non, l’autorisation environnementale",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-07-02T20:27:35+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "26c969e06414"
+    },
+    {
+      "title": "Violences dans le périscolaire : dans les Yvelines, un animateur mis en examen pour viols et agressions sexuelles sur mineurs",
+      "url": "https://www.liberation.fr/societe/police-justice/violences-dans-le-periscolaire-dans-les-yvelines-un-animateur-mis-en-examen-pour-viols-et-agressions-sexuelles-sur-mineurs-20260702_KMOJAP7T6VFAHPCFXIOWEVXVCM/",
+      "summary": "Un homme de 28 ans a été placé en garde à vue, mardi 30 juin, après avoir été visé par plusieurs plaintes de parents d’élèves d’une maternelle de la commune de Saint-Cyr-l’Ecole.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-02T20:24:38+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "520ec239defc"
+    },
+    {
+      "title": "L'ex-influenceur Doualemn condamné en appel à cinq mois de prison avec sursis pour \"provocation non suivie d'effet à commettre un crime ou un délit\"",
+      "url": "https://www.franceinfo.fr/faits-divers/justice-proces/l-ex-influenceur-doualemn-condamne-en-appel-a-cinq-mois-de-prison-avec-sursis-pour-provocation-non-suivie-d-effet-a-commettre-un-crime-ou-un-delit_8090942.html#xtor=RSS-3-[lestitres]",
+      "summary": "De son vrai nom Boualem Naman, il était jugé en appel jeudi pour avoir publié sur TikTok, en janvier 2025, une vidéo où il incitait à commettre des violences sur un opposant au gouvernement algérien.",
+      "image": "https://www.franceinfo.fr/pictures/CuBm7FeRMqphwbLYbMWFNMrwtgk/3x241:1670x1179/432x243/filters:format(jpg)/2026/07/02/6a46c8408b473097272078.jpg",
+      "published_at": "2026-07-02T22:22:50+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "ab4018f7053f"
+    },
+    {
+      "title": "Le principal suspect de l'explosion ayant fait trois blessés à Monaco est une femme d'origine ukrainienne, un mandat d’arrêt émis",
+      "url": "https://www.franceinfo.fr/faits-divers/le-principal-suspect-de-l-explosion-ayant-fait-trois-blesses-a-monaco-est-une-femme_8090672.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'information, obtenue de sources proches du dossier, se base notamment sur les déclarations d'un témoin entendu par les enquêteurs. La suspecte est toujours recherchée par les enquêteurs.",
+      "image": "https://www.franceinfo.fr/pictures/O3glN_hDNBUxdHsO7i0wMqpHYf4/0x0:463x260/432x243/filters:format(jpg)/2026/07/02/6a46968c09a48365611804.png",
+      "published_at": "2026-07-02T22:22:15+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "bac8f095e3de"
+    },
     {
       "title": "A Marseille, Sébastien Lecornu alerte sur des feux de forêts « assez violents » et « prématurés »",
       "url": "https://www.lemonde.fr/politique/article/2026/07/02/a-marseille-sebastien-lecornu-alerte-sur-des-feux-de-forets-assez-violents-et-prematures_6718232_823448.html",
       "summary": "Selon le premier ministre, la saison des incendies a au moins quinze jours d’avance sur son calendrier habituel. Alors que la végétation est déjà très sèche, le locataire de Matignon s’inquiète de l’endurance des moyens de lutte, sans faire d’annonces précises à ce propos.",
       "image": "https://img.lemde.fr/2026/07/02/538/0/5200/2600/644/322/60/0/35879b5_upload-1-kslqmxgr5y7o-sipa-01279310-000016.jpg",
-      "published_at": "2026-07-02T22:18:15+02:00",
+      "published_at": "2026-07-02T22:18:13+02:00",
       "source": "Le Monde Politique",
       "category": "Politique",
       "id": "e8053919e2e6"
@@ -23,14 +213,24 @@
       "id": "ed9d65da78ba"
     },
     {
-      "title": "Coupe du monde 2026 : début de la seconde période entre l'Espagne et l'Autriche, la Roja devant au tableau d'affichage (1-0)",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-la-belgique-et-les-etats-unis-qualifies-en-8es-de-finale-cette-nuit-le-senegal-et-la-bosnie-herzegovine-elimines_8088455.html#xtor=RSS-3-[lestitres]",
-      "summary": "Tombé dans une poule plutôt facile, la Roja entre dans le vif du sujet. Mais gare à l'excès de confiance : elle n'a plus remporté le moindre match à élimination directe en Coupe du monde depuis son sacre en 2010.",
-      "image": "https://www.franceinfo.fr/pictures/vgCwcT0gYg9WcNlHAqYr5OCZhzs/0x0:1024x576/432x243/filters:format(jpg)/2026/07/02/6a46bfd370bae514843065.jpg",
-      "published_at": "2026-07-02T22:13:54+02:00",
+      "title": "Trois personnes meurent dans trois accidents différents dans le massif du Mont-Blanc jeudi",
+      "url": "https://www.franceinfo.fr/faits-divers/accident/trois-personnes-mortes-dans-trois-accidents-differents-dans-le-massif-du-mont-blanc-jeudi_8090921.html#xtor=RSS-3-[lestitres]",
+      "summary": "Au total, le peloton de gendarmerie de haute montagne a effectué 10 opérations de secours dans la journée.",
+      "image": "https://www.franceinfo.fr/pictures/kPwT6QMOFkzGR3IPQoTtmydCKfo/0x72:1600x972/432x243/filters:format(jpg)/2026/07/02/6a46c4d9506f9610973050.jpg",
+      "published_at": "2026-07-02T22:07:25+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "b34d6c73e1ac"
+    },
+    {
+      "title": "Cyclisme : Christopher Froome, quadruple vainqueur du Tour de France, officialise sa retraite à 41 ans",
+      "url": "https://www.franceinfo.fr/sports/cyclisme/christopher-froome/cyclisme-christopher-froome-quadruple-vainqueur-du-tour-de-france-officialise-sa-retraite-a-41-ans_8090906.html#xtor=RSS-3-[lestitres]",
+      "summary": "Vainqueur du Tour de France en 2013, 2015, 2016 et 2017, le Britannique, qui a également marqué l'histoire de la Grande Boucle en courant dans les pentes du Mont Ventoux, a confirmé qu'il ne monterait plus sur un vélo.",
+      "image": "https://www.franceinfo.fr/pictures/y1XCqH5nCtPejJm3mRFEec9u6DU/0x0:4794x2696/432x243/filters:format(jpg)/2026/07/02/6a46c1cf2c2ca632365198.jpg",
+      "published_at": "2026-07-02T22:04:07+02:00",
       "source": "France Info",
       "category": "Sport",
-      "id": "b02a76fd3784"
+      "id": "5d39d025958a"
     },
     {
       "title": "Ils faisaient transiter des Syriens par la Guyane : un réseau présumé de passeurs démantelé dans les Vosges",
@@ -38,19 +238,9 @@
       "summary": "Le suspect a été déféré jeudi et placé en détention provisoire dans l’attente de sa comparution en septembre devant le tribunal correctionnel, notamment des chefs d’aide à l’entrée, à la circulation ou au séjour irrégulier d’un étranger en France en bande organisée.",
       "image": "https://img.lemde.fr/2026/07/02/369/0/6048/3024/644/322/60/0/afb2620_upload-1-gfsqzjv6zehh-000-9839xb.jpg",
       "published_at": "2026-07-02T21:56:08+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Sport",
       "id": "d585b2d12983"
-    },
-    {
-      "title": "Dans un cadre monumental au pied de la Sagrada Familia, Barcelone a accueilli les coureurs du Tour de France avant le Grand Départ samedi",
-      "url": "https://www.franceinfo.fr/tour-de-france/reportage-dans-un-cadre-monumental-au-pied-de-la-sagrada-familia-barcelone-a-accueilli-les-coureurs-du-tour-de-france-avant-le-grand-depart-samedi_8090810.html#xtor=RSS-3-[lestitres]",
-      "summary": "Premier temps fort de l'épreuve, la présentation des coureurs au pied de la basilique a animé la cité catalane, jeudi, moins de quarante-huit heures avant le début de la compétition.",
-      "image": "https://www.franceinfo.fr/pictures/8NPKxR_qilfq6OHvwCV-FNh4WKI/0x575:5520x3680/432x243/filters:format(jpg)/2026/07/02/6a46ade927b4e465802237.jpg",
-      "published_at": "2026-07-02T21:53:35+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "e57755a2c7b3"
     },
     {
       "title": "Une nouvelle édition du leasing social débute le 16 juillet, annonce Roland Lescure",
@@ -71,16 +261,6 @@
       "source": "France Info",
       "category": "Société",
       "id": "63d2063367b3"
-    },
-    {
-      "title": "EN DIRECT - Canicule : la chaleur «repart» mais «aucun» département «classé rouge» ce week-end, assure Lecornu",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-lecornu-attendu-ce-jeudi-a-marseille-incendies-en-cours-dans-le-sud-du-pays-20260702_WOD76NAV7JGCPKEKT5V3IJXVFY/",
-      "summary": "Les députés écologistes ont déposé ce jeudi leur motion de censure contre le gouvernement, reprochant au Premier ministre d’avoir «aggravé» les «vulnérabilités du pays» face au changement climatique et aux épisodes caniculaires. Elle devrait être examinée lundi après-midi.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-02T19:41:42+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "179c66ecda3d"
     },
     {
       "title": "La patronne de la BCE, Christine Lagarde, n’exclut pas de quitter son poste pour peser dans la présidentielle",
@@ -121,186 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "9f835a458c64"
-    },
-    {
-      "title": "Coupe du Monde 2026 : L'équipe de France se prépare avant sa huitième de finale contre le Paraguay",
-      "url": "https://la1ere.franceinfo.fr/saintpierremiquelon/coupe-du-monde-2026-l-equipe-de-france-se-prepare-avant-leur-huitieme-de-finale-contre-le-paraguay-1716325.html#xtor=RSS-3-[lestitres]",
-      "summary": "La bande à Didier Deschamps poursuit sa route dans cette Coupe du Monde, et affrontera le Paraguay en huitièmes de finale ce samedi. Une rencontre à vivre en direct sur SPM la 1ère.",
-      "image": "https://www.franceinfo.fr/pictures/Gm1xWRv1Mv3xn-b-Ve6DjaDifUs/432x243/filters:format(jpg)/2026/07/02/6a46714882256819000793.png",
-      "published_at": "2026-07-02T21:08:53+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "8699e4f10bf7"
-    },
-    {
-      "title": "Présidentielle 2027 : Jean-Luc Mélenchon présente son projet d’« écorégions » pour remplacer les régions actuelles et « introduire l’eau dans le débat »",
-      "url": "https://www.lemonde.fr/politique/article/2026/07/02/presidentielle-2027-jean-luc-melenchon-presente-son-projet-d-ecoregions-pour-remplacer-les-regions-actuelles-et-introduire-l-eau-dans-le-debat_6718229_823448.html",
-      "summary": "Le quadruple candidat à la présidentielle avait déjà rapidement évoqué cette idée au début de mai lors de son meeting de lancement de campagne.",
-      "image": "https://img.lemde.fr/2026/07/02/93/0/7015/3507/644/322/60/0/fa70fc9_upload-1-xpjdib5xsugm-000-b82c8mn.jpg",
-      "published_at": "2026-07-02T21:04:03+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "2dd7770b1418"
-    },
-    {
-      "title": "Un nouveau binôme pour la matinale de France Inter le week-end, Francis Letellier reprend les «4 vérités» sur France 2",
-      "url": "https://www.liberation.fr/economie/medias/arret-de-dimanche-politique-sur-france-3-francis-letellier-aux-4-verites-sur-france-2-20260702_7DFCPNEHFJC6TDCRITQLPL2EPQ/",
-      "summary": "En ce début juillet, le mercato bat son plein, à la radio comme à la télévision. Les chaînes se mettent en ordre de marche pour l’année présidentielle. Passage en revue des annonces de ce jeudi 2 juillet.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-02T19:01:27+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "83d3030ae768"
-    },
-    {
-      "title": "Incendies dans le sud de la France : \"tout le territoire national est prêt à s'embraser\", alerte le porte-parole des sapeurs-pompiers, qui compte \"plus de 30 feux\" jeudi",
-      "url": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-dans-le-sud-de-la-france-1-200-hectares-parcourus-par-les-flammes-pres-de-marseille-dans-l-herault-et-dans-l-aude_8089571.html#xtor=RSS-3-[lestitres]",
-      "summary": "Près de 3 000 personnes ont notamment dû être évacuées jeudi après qu'un incendie s'est déclaré dans les Pyrénées-Orientales.",
-      "image": "https://www.franceinfo.fr/pictures/V2xGFdfysEzIViscaCj52mW5eF0/0x53:1024x629/432x243/filters:format(jpg)/2026/07/02/6a469a6f5ba93733239692.jpg",
-      "published_at": "2026-07-02T20:59:24+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "7e382297a1c6"
-    },
-    {
-      "title": "Kyiv : au moins 25 morts dans «l’attaque la plus massive» depuis le début de la guerre, Zelensky assure que l’Ukraine ripostera",
-      "url": "https://www.liberation.fr/international/europe/neuf-morts-a-kyiv-dans-des-frappes-russes-une-fois-de-plus-lennemi-vise-deliberement-des-civils-20260702_YCRZR46J35H2VF7FVW7TWIV3EU/",
-      "summary": "L’Union européenne a de son côté annoncé sa volonté de proposer de nouvelles sanctions contre Moscou, à l’encontre des «entités soutenant le complexe militaro-industriel russe».",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-07-02T18:57:42+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "ded44389ba25"
-    },
-    {
-      "title": "\"J'ai tellement bataillé que quand ça arrive, on a du mal à y croire\" : la condamnation à perpétuité de Dany Leprince annulée",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/j-ai-tellement-bataille-que-quand-ca-arrive-on-a-du-mal-a-y-croire-la-condamnation-a-perpetuite-de-dany-leprince-annulee_8090825.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cela fait 32 ans qu'il clame son innocence. Dans une décision rarissime, la Cour de révision a annulé, jeudi 2 juillet, la condamnation de Dany Leprince et ordonné un nouveau procès. Il avait été condamné pour un quadruple meurtre dans la Sarthe en 1994. Il s’est livré aux équipes de France Télévisions.",
-      "image": "https://www.franceinfo.fr/pictures/p-zO6himo0ok7sgdwrx0xLr5_qU/0x0:1920x1080/432x243/filters:format(jpg)/2026/07/02/6a46b34f8a923111535553.jpg",
-      "published_at": "2026-07-02T20:56:37+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "cb852253871f"
-    },
-    {
-      "title": "Gabriel Attal veut 100 000 suppressions de postes de fonctionnaires et l’« impunité budgétaire zéro »",
-      "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/07/02/gabriel-attal-veut-100-000-departs-volontaires-de-fonctionnaires-et-l-impunite-budgetaire-zero_6718227_6205049.html",
-      "summary": "Dans un entretien au « Parisien » publié jeudi soir, le candidat à la présidentielle du parti macroniste Renaissance esquisse des propositions en matière de réduction de la dette.",
-      "image": "https://img.lemde.fr/2026/06/12/916/0/7000/3500/644/322/60/0/6c332dc_upload-1-qmjtpsvxozig-kzihnioglu-paris-pol-bfm-10062026-129.jpg",
-      "published_at": "2026-07-02T20:56:04+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "6bf7a9dd9bab"
-    },
-    {
-      "title": "Un ado de 16 ans blessé lors d’un stage, le bras happé par un malaxeur à béton",
-      "url": "https://www.liberation.fr/economie/social/un-ado-de-16-ans-blesse-lors-dun-stage-le-bras-happe-par-un-malaxeur-a-beton-20260702_7TOE7DGCSVBTXD3DTCYRG3I7SY/",
-      "summary": "Le garçon était en stage dans une entreprise de travaux publics à Montlebon dans le Doubs ce jeudi lorsque l’accident est arrivé. Hospitalisé à Besançon, son pronostic vital n’est pas engagé et une enquête a été ouverte.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-07-02T18:53:39+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "077519bfd357"
-    },
-    {
-      "title": "Cocaïne : le gouvernement annonce un « plan douanes 2030 » pour faire face à la « déferlante » en France",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/02/plan-douanes-2030-la-france-investit-400-millions-d-euros-pour-renforcer-la-lutte-contre-la-cocaine-et-le-narcotrafic_6718226_3224.html",
-      "summary": "« Face à ce choc d’offres », aux « réseaux tentaculaires de narcotrafiquants qui utilisent des technologies de pointe, il faut un choc capacitaire », a annoncé jeudi le ministre David Amiel, détaillant ce plan de 400 millions d’euros.",
-      "image": "https://img.lemde.fr/2026/07/01/0/0/5405/2702/644/322/60/0/3d15099_ftp-1-ltkm7opoiopl-5498751-01-06.jpg",
-      "published_at": "2026-07-02T20:51:07+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "b37e94aa28a4"
-    },
-    {
-      "title": "Affaire Alexis Kohler : la cour d’appel juge prescrite une partie des faits reprochés à l’ex-bras droit d’Emmanuel Macron à l’Elysée",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/02/affaire-alexis-kohler-la-cour-d-appel-juge-prescrite-une-partie-des-faits-reproches-a-l-ancien-secretaire-general-de-l-elysee_6718225_3224.html",
-      "summary": "L’ancien secrétaire général de l’Elysée était mis en examen pour « prise illégale d’intérêts » en lien avec l’armateur MSC, dirigé par les cousins de sa mère, entre 2009 et 2016. Si les faits antérieurs à 2014 sont prescrits, le dossier n’est pour autant pas éteint, la période 2014-2016 restant toujours visée.",
-      "image": "https://img.lemde.fr/2023/12/12/494/0/5900/2950/644/322/60/0/94f0478_1702419360464-jmug231212036.jpg",
-      "published_at": "2026-07-02T20:46:14+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "1672d501f4f8"
-    },
-    {
-      "title": "\"Bonjour, pardon, merci\" : Céline Dion dévoile un extrait d'un nouveau titre inédit",
-      "url": "https://www.franceinfo.fr/culture/bonjour-pardon-merci-celine-dion-devoile-un-extrait-d-un-nouveau-titre-inedit_8090750.html#xtor=RSS-3-[lestitres]",
-      "summary": "La chanteuse avait déjà déjà présenté, il y a trois mois, \"Dansons\", signée par Jean-Jacques Goldman.",
-      "image": "https://www.franceinfo.fr/pictures/5qoFW1OAOOzvhRou-s-vLhyvFpg/0x53:1024x629/432x243/filters:format(jpg)/2026/07/02/6a46af68a95c8396691695.jpg",
-      "published_at": "2026-07-02T20:36:30+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "bbeeeffce2dc"
-    },
-    {
-      "title": "Des habitants évacués en urgence dans l'Aude et dans l'Hérault à cause des incendies",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/des-habitants-evacues-en-urgence-dans-l-aude-et-dans-l-herault-a-cause-des-incendies_8090816.html#xtor=RSS-3-[lestitres]",
-      "summary": "Dans l'Aude et dans l'Hérault, les incendies sont les plus violents, jeudi 2 juillet. 900 hectares sont déjà partis en fumée. Certains riverains ont été obligés de quitter leur maison dans la panique.",
-      "image": "https://www.franceinfo.fr/pictures/IXEZM-_Mc8WNWCUGfEXgz_vcqGU/0x0:1920x1080/432x243/filters:format(jpg)/2026/07/02/6a46ae85c8274240571333.jpg",
-      "published_at": "2026-07-02T20:35:52+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "b7cf069cc543"
-    },
-    {
-      "title": "Epinglée sur ses prises de position droitières, Karine Le Marchand étale sa colère sur ses réseaux sociaux",
-      "url": "https://www.liberation.fr/economie/medias/epinglee-sur-ses-prises-de-position-droitieres-karine-le-marchand-etale-sa-colere-sur-ses-reseaux-sociaux-20260702_TYVLC55S2NHJ3C34RTKDUNUERU/",
-      "summary": "L’animatrice qui a récemment fait polémique en se positionnant en faveur de la peine de mort, a publié une vidéo, ce jeudi 2 juillet, dans laquelle elle s’en prend vertement au «Parisien», auteur d’un article sur sa dérive.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-02T18:32:38+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "726a727b6ca7"
-    },
-    {
-      "title": "Faut-il interdire les sondages pour revigorer la campagne ? «On a changé les électeurs en stratèges qui ne lisent plus les programmes»",
-      "url": "https://www.liberation.fr/politique/elections/faut-il-interdire-les-sondages-pour-revigorer-la-campagne-on-a-change-les-electeurs-en-strateges-qui-ne-lisent-plus-les-programmes-20260702_ZIS3ZO7RWRE6ZHKNMPPC3L425E/",
-      "summary": "Le premier secrétaire du PS, Olivier Faure, dit à «Libération» être favorable à l’interdiction des enquêtes d’opinion, accusées de reléguer le débat d’idées au second plan. Alors que plusieurs autres responsables formulent la même hypothèse, sa faisabilité interroge encore.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-02T18:20:59+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "6fc3b9cdc7a9"
-    },
-    {
-      "title": "Corée du Sud : un Starbucks qui surplombe la Corée du Nord attire les touristes",
-      "url": "https://www.lemonde.fr/international/video/2026/07/02/coree-du-sud-un-starbucks-qui-surplombe-la-coree-du-nord-attire-les-touristes_6718224_3210.html",
-      "summary": "Les deux Corées sont toujours techniquement en guerre, car leur conflit de 1950-1953 s’est achevé par un armistice et non par un traité de paix. Très peu de journalistes ou de touristes étrangers peuvent entrer en Corée du Nord. Alors pour observer ce pays… certains touristes prennent simplement un café.",
-      "image": "https://img.lemde.fr/2026/07/02/652/0/7376/3688/644/322/60/0/55fa39b_ftp-1-mad5d4mtyq34-5508029-01-06.jpg",
-      "published_at": "2026-07-02T20:14:19+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "a47401c2c0cd"
-    },
-    {
-      "title": "Polytechnique : présentation en grande pompe de l’Institut Bernard-Arnault, aux Invalides et avec le premier ministre",
-      "url": "https://www.lemonde.fr/campus/article/2026/07/02/polytechnique-presentation-en-grande-pompe-de-l-institut-bernard-arnault-aux-invalides-et-avec-le-premier-ministre_6718223_4401467.html",
-      "summary": "Sébastien Lecornu, jeudi 2 juillet, a salué le don du patron de LVMH, d’un montant exceptionnel de 50 millions d’euros, afin de financer un institut de mathématiques qui entend rivaliser avec les centres de recherches les plus prestigieux, à l’heure des défis posés par l’intelligence artificielle.",
-      "image": "https://img.lemde.fr/2026/07/02/1024/0/6830/3415/644/322/60/0/4882a16_upload-1-0vilpyubprwz-kzihnioglu-pol-paris-arnault-lecornu-02072026-1.jpg",
-      "published_at": "2026-07-02T20:13:21+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "32c0bc3e0003"
-    },
-    {
-      "title": "Aux Etats-Unis, qui a gagné des milliards ? C’est Donald Trump",
-      "url": "https://www.liberation.fr/international/amerique/aux-etats-unis-qui-a-gagne-des-milliards-cest-donald-trump-20260702_L7N5LJIQAZGPFJT6QV752P3PCQ/",
-      "summary": "Entre cryptomonnaies, produits dérivés et deals immobiliers, le Président a gagné plus de deux milliards de dollars en 2025 et a transformé la Maison Blanche en machine à cash pour lui et ses proches.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-07-02T18:10:00+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "cc83d19b92b0"
-    },
-    {
-      "title": "Incendie à Canet-en-Roussillon : 3 000 personnes évacuées, trois campings dévastés",
-      "url": "https://www.liberation.fr/environnement/incendie-a-canet-en-roussillon-1-500-personnes-evacuees-dimportants-degats-20260702_L6QZ2DCGBZBDNLX7X6S27IR5OQ/",
-      "summary": "Le feu qui a pris en début d’après-midi ce jeudi à Sainte-Marie-la-Mer dans les Pyrénées-Orientales a détruit 256 bungalows. Des entreprises aussi ont été affectées. Deux pompiers sont blessés.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-07-02T18:09:48+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "1515dddf69f6"
     }
   ]
 }
