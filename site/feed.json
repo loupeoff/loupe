@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-07-01T22:23:21.214245+00:00",
+  "generated_at": "2026-07-02T00:16:26.409638+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Le Panama annonce se lancer à son tour dans la construction d’une prison haute sécurité pour lutter contre les gangs",
+      "url": "https://www.lemonde.fr/international/article/2026/07/02/le-panama-annonce-se-lancer-a-son-tour-dans-la-construction-d-une-prison-haute-securite-pour-lutter-contre-les-gangs_6717680_3210.html",
+      "summary": "Ce projet s’inspire du modèle salvadorien, qui a emprisonné 92 000 personnes depuis 2022.",
+      "image": "https://img.lemde.fr/2026/06/02/546/0/7951/3975/644/322/60/0/9c95278_ftp-1-yu9410apwu0u-34c8bca03a2142fa8ecfdf9f348903b8-0-103e5010063c4573a8ca3956beb5a73b.jpg",
+      "published_at": "2026-07-02T01:33:04+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "3893a13e26d2"
+    },
+    {
+      "title": "Le géant franco-allemand de l’armement KNDS reporte son entrée en Bourse… annoncée une semaine plus tôt",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/02/le-geant-franco-allemand-de-l-armement-knds-reporte-son-entree-en-bourse-annoncee-une-semaine-plus-tot_6717679_3234.html",
+      "summary": "L’entreprise a annoncé, mercredi, que ses actionnaires, l’Etat français et la famille allemande Bode-Wegmann, lui avaient demandé de décaler l’opération annoncée le 24 juin, à cause de la baisse des cours de Bourse des sociétés européennes de défense.",
+      "image": "https://img.lemde.fr/2026/06/22/257/0/5785/2892/644/322/60/0/e1404ae_ftp-1-7yszn34zmt2n-2026-06-22t095506z-941061851-rc2xylayi787-rtrmadp-3-knds-stake.JPG",
+      "published_at": "2026-07-02T01:30:06+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "4820001b52e0"
+    },
+    {
+      "title": "Donald Trump a gagné 2,2 milliards en 2025, trois fois plus que l’année précédant son retour à la Maison Blanche",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/02/donald-trump-a-gagne-2-2-milliards-en-2025-trois-fois-plus-que-l-annee-precedant-son-retour-a-la-maison-blanche_6717646_3234.html",
+      "summary": "La fortune totale du président américain est évaluée à 7,6 milliards de dollars par l’agence Bloomberg. Des revenus en grande partie issus de ses placements dans les cryptomonnaies et des activités immobilières. Le président américain balaie toute accusation de conflit d’intérêts.",
+      "image": "https://img.lemde.fr/2026/07/01/90/0/3500/1750/644/322/60/0/ccacf27_ftp-1-pn1r1xa0nryz-5504131-01-06.jpg",
+      "published_at": "2026-07-02T01:05:02+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "95e8f92de0bd"
+    },
+    {
+      "title": "Au bord de l'élimination, la Belgique renverse le Sénégal en prolongation et rejoint les huitièmes de finale de la Coupe du monde 2026",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/au-bord-de-l-elimination-la-belgique-renverse-le-senegal-en-prolongation-et-rejoint-les-huitiemes-de-finale-de-la-coupe-du-monde-2026_8089160.html#xtor=RSS-3-[lestitres]",
+      "summary": "Menés 2-0 jusqu'à la 86e minute, les Belges ont poussé les Sénégalais dans leurs retranchements et se sont imposés (3-2) sur un pénalty de Youri Tielemans à la 120e minute, mercredi soir, à Seattle.",
+      "image": "https://www.franceinfo.fr/pictures/90nXHa6NIBWxuU77jW5gl_Wm4oE/0x0:4291x2413/432x243/filters:format(jpg)/2026/07/02/6a4595d8a7e52372491699.jpg",
+      "published_at": "2026-07-02T00:52:08+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "5010b030d5fa"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : des explosions entendues à Kiev, la capitale étant visée par des missiles et des drones, selon le maire",
+      "url": "https://www.lemonde.fr/international/live/2026/07/02/en-direct-guerre-en-ukraine-des-explosions-entendues-a-kiev-un-incendie-s-est-declare-sur-un-batiment-non-residentiel-en-centre-ville_6716525_3210.html",
+      "summary": "Dans la journée de mercredi, Volodymyr Zelensky a appelé la population ukrainienne à la plus grande prudence, avertissant qu’une nouvelle attaque « de grande envergure » de la Russie était en préparation.",
+      "image": "https://img.lemde.fr/2026/07/01/522/0/5092/2546/644/322/60/0/1216420_ftp-1-gwnc2j6fadcz-2026-07-01t220430z-1951904892-rc295ma6qgav-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
+      "published_at": "2026-07-02T00:26:58+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "7e7bb437b85b"
+    },
     {
       "title": "\"On va vraiment avoir des problèmes\" : la multiplication des constellations de satellites menace le ciel nocturne",
       "url": "https://www.franceinfo.fr/sciences/astronomie/on-va-vraiment-avoir-des-problemes-la-multiplication-des-constellations-de-satellites-menace-le-ciel-nocturne_8089163.html#xtor=RSS-3-[lestitres]",
@@ -11,6 +61,16 @@
       "source": "France Info",
       "category": "Politique",
       "id": "4921febccd82"
+    },
+    {
+      "title": "Soupçons de paris truqués : plusieurs joueurs de pétanque, dont le multiple champion du monde français Dylan Rocher, placés en garde à vue",
+      "url": "https://www.franceinfo.fr/faits-divers/soupcons-de-paris-truques-plusieurs-joueurs-de-petanque-dont-le-multiple-champion-du-monde-francais-dylan-rocher-places-en-garde-a-vue_8089154.html#xtor=RSS-3-[lestitres]",
+      "summary": "Henri Lacroix, multiple champion de France, fait aussi partie des suspects.",
+      "image": "https://www.franceinfo.fr/pictures/giDhphCsp83NO4sS3_LYwgGWQ2M/0x0:4907x2760/432x243/filters:format(jpg)/2026/07/01/6a4588ea02426488729389.jpg",
+      "published_at": "2026-07-01T23:41:42+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "3b8ad40f5fae"
     },
     {
       "title": "La guerre en Ukraine a fait plus de 2 millions de morts, blessés et disparus chez les militaires",
@@ -203,10 +263,10 @@
       "id": "e165e712c936"
     },
     {
-      "title": "Deux incendies en cours dans l’Aude et le Var, 2 200 personnes évacuées à Fréjus",
+      "title": "L’Hérault et l’Aude frappés par un important incendie attisé par les vents",
       "url": "https://www.lemonde.fr/planete/article/2026/07/01/deux-incendies-dans-l-aude-et-le-var-2-200-personnes-evacuees-a-frejus_6717603_3244.html",
-      "summary": "Au total, avec les deux sinistres, près de 630 hectares ont été parcourus par le feu, et plus de 750 membres du personnel de secours et de sécurité ont été engagés sur le terrain.",
-      "image": "https://img.lemde.fr/2026/07/01/626/0/4300/2150/644/322/60/0/c937519_upload-1-a0gkc22acyx4-maxnewsfrsix279727.jpg",
+      "summary": "Le feu a parcouru 800 hectares, mobilisant plus de 750 membres du personnel de secours et de sécurité. Le nord de Marseille est aussi touché par deux autres incendies.",
+      "image": "https://img.lemde.fr/2026/07/01/0/0/9504/4752/644/322/60/0/131bf2b_ftp-1-twr0nk03lszx-5504039-01-06.jpg",
       "published_at": "2026-07-01T20:43:26+02:00",
       "source": "Le Monde",
       "category": "Société",
@@ -241,66 +301,6 @@
       "source": "France Info",
       "category": "Société",
       "id": "fd2cf526a113"
-    },
-    {
-      "title": "Fronde contre les data centers : les nouvelles éoliennes de 2027 ?",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/fronde-contre-les-data-centers-les-nouvelles-eoliennes-de-2027-20260701_OTY6QIJLBFF6DMGPN2GZRDWJI4/",
-      "summary": "La multiplication des centres de stockage de données, et les nuisances qui vont avec – accaparement des sols, consommation d’eau et énergie –, entraînent un courroux croissant des citoyens. Marqué aux Etats-Unis, il gagne peu à peu la France. Le sujet pourrait s’inviter dans la campagne présidentielle.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-01T18:33:36+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "d15a5e304c14"
-    },
-    {
-      "title": "Séismes au Venezuela : des questions sur l’aide américaine et l’argent du pétrole capté par les Etats-Unis",
-      "url": "https://www.lemonde.fr/international/article/2026/07/01/venezuela-apres-le-seisme-des-questions-sur-l-aide-americaine-et-l-argent-du-petrole-capte-par-les-etats-unis_6717598_3210.html",
-      "summary": "Depuis janvier, Washington a mis sous tutelle le pays et ses immenses réserves pétrolières, mais rien n’indique, pour l’heure, que les Etats-Unis envisagent de débloquer ces sommes pour contribuer à la reconstruction des zones dévastées par le tremblement de terre et à la remise sur pied du pays.",
-      "image": "https://img.lemde.fr/2026/06/26/1008/0/6048/3024/644/322/60/0/7f9dfc5_ftp-1-m7ekzvqwjhzd-5449636-01-06.jpg",
-      "published_at": "2026-07-01T20:30:00+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "cca8da4902a7"
-    },
-    {
-      "title": "Vol de pièces d'or dans le Tarn : un trésor d'une valeur de 120 000 euros dérobé au centre archéologique de Montans",
-      "url": "https://www.franceinfo.fr/faits-divers/vol-de-pieces-d-or-dans-le-tarn-un-tresor-d-une-valeur-de-120-000-euros-derobe-au-centre-archeologique-de-montans_8089019.html#xtor=RSS-3-[lestitres]",
-      "summary": "Une quarantaine de pièces d’or, datant du premier siècle après Jésus-Christ, ont été dérobées d’un centre archéologique près de Toulouse. D’une valeur de 120 000 euros, le trésor a été volé en quelques minutes seulement.",
-      "image": "https://www.franceinfo.fr/pictures/pY-geLlbTOF3aHkp-CTryq-1XK8/0x100:1544x969/432x243/filters:format(jpg)/2026/07/01/6a455c40427bb801210067.png",
-      "published_at": "2026-07-01T20:29:13+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "fafef03465ba"
-    },
-    {
-      "title": "A Bordeaux, une enquête ouverte après sept plaintes pour violences sexuelles en maternelle",
-      "url": "https://www.liberation.fr/societe/police-justice/bordeaux-enquete-ouverte-apres-sept-plaintes-pour-violences-sexuelles-en-maternelle-20260701_K6G2KBUTUBH63BV33FRPJ5ST3M/",
-      "summary": "Un Atsem et un animateur du périscolaire ont été entendus mardi après des perquisitions à leur domicile. Auraient été visés «des enfants qui ne parlaient pas encore très bien, avaient du mal à s’exprimer», selon une représentante de parents d’élèves.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-01T18:26:48+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "239a1b87b43b"
-    },
-    {
-      "title": "L'Angleterre s'en sort de justesse contre la République démocratique du Congo et retrouvera le Mexique en huitièmes de finale de la Coupe du monde 2026",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/l-angleterre-s-en-sort-de-justesse-contre-la-republique-democratique-du-congo-et-retrouvera-le-mexique-en-huitiemes-de-finale-de-la-coupe-du-monde-2026_8088983.html#xtor=RSS-3-[lestitres]",
-      "summary": "Menés au score jusqu'à la 75e minute, les Anglais ne sont pas passés loin de la correctionnelle mais ont su inverser la tendance pour valider leur billet pour les huitièmes de finale, mercredi (2-1).",
-      "image": "https://www.franceinfo.fr/pictures/wx8URtHALqLa9310RNAKse6uU6o/0x0:3811x2143/432x243/filters:format(jpg)/2026/07/01/6a455409895c9052964446.jpg",
-      "published_at": "2026-07-01T20:10:05+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "d5cdc55f3559"
-    },
-    {
-      "title": "Lionel Messi en tête, Kylian Mbappé en embuscade… Qui sont les meilleurs buteurs de l'histoire de la Coupe du monde ?",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/lionel-messi-miroslav-klose-kylian-mbappe-qui-sont-les-meilleurs-buteurs-de-l-histoire-de-la-coupe-du-monde_8065493.html#xtor=RSS-3-[lestitres]",
-      "summary": "Déjà auteur de six buts dans ce Mondial, l'Argentin est le buteur le plus prolifique de l'histoire du Mondial, avec 19 réalisations. Mais il n'est pas à l'abri du retour de l'attaquant de l'équipe de France, qui compte un petit but de moins au total.",
-      "image": "https://www.franceinfo.fr/pictures/2eEN9u64V-mmeKC-r1utw_OYFjY/0x234:4500x2766/432x243/filters:format(jpg)/2026/06/28/6a412f30b8365711341715.jpg",
-      "published_at": "2026-07-01T20:07:28+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "095a6ffa685f"
     }
   ]
 }
