@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-07-03T22:11:42.174934+00:00",
+  "generated_at": "2026-07-04T00:13:41.984657+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Au Mexique, la journaliste Roxana Guzman, enlevée en juin, a été retrouvée morte",
+      "url": "https://www.lemonde.fr/international/article/2026/07/04/au-mexique-la-journaliste-roxana-guzman-enlevee-en-juin-a-ete-retrouvee-morte_6720527_3210.html",
+      "summary": "Une enquête a conduit à l’interpellation de huit suspects, dont quatre policiers municipaux. Le Mexique demeure l’un des pays les plus dangereux pour les journalistes, avec plus de 150 professionnels assassinés depuis 1994, selon Reporters sans frontières.",
+      "image": "https://img.lemde.fr/2026/07/03/63/0/1116/558/644/322/60/0/fe2ec9d_upload-1-geg1gg257rfy-capture-d-e-cran-2026-07-03-a-4-46-38-pm.png",
+      "published_at": "2026-07-04T02:12:40+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "0f5f25e52d6e"
+    },
+    {
+      "title": "Bernard Moninot et Laurine Rousselet, Maram al-Masri : plein ciel",
+      "url": "https://www.liberation.fr/culture/bernard-moninot-et-laurine-rousselet-maram-al-masri-plein-ciel-20260704_GE3NZXF4BBGG3ONFCNNEF5BOAQ/",
+      "summary": "«L’éternité fugitive» et l’exil à travers un livre-objet né d’un dialogue artistique et le recueil d’une poète franco-syrienne.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-03T23:17:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "c3fb3a7e0826"
+    },
+    {
+      "title": "Portugal : des feux de forêt font neuf blessés, le gouvernement demande des renforts",
+      "url": "https://www.lemonde.fr/planete/article/2026/07/04/portugal-des-feux-de-foret-font-neuf-blesses-le-gouvernement-demande-des-renforts_6720494_3244.html",
+      "summary": "Un incendie qui s’est déclaré dans la nuit de mercredi à jeudi mobilisait toujours plus d’un millier de pompiers vendredi soir. Le pays a décidé d’activer le mécanisme européen de protection civile, ainsi que ses accords bilatéraux avec l’Espagne voisine et le Maroc.",
+      "image": "https://img.lemde.fr/2026/07/03/560/0/5195/2597/644/322/60/0/4a18079_ftp-1-nmnna61uhpsn-5523315-01-06.jpg",
+      "published_at": "2026-07-04T01:09:14+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "2945f0c25701"
+    },
+    {
+      "title": "La plateforme Uber condamnée pour concurrence déloyale après avoir détourné les lumineux des taxis parisiens",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/04/la-plateforme-uber-condamnee-pour-concurrence-deloyale-apres-avoir-detourne-les-lumineux-des-taxis-parisiens_6720493_3234.html",
+      "summary": "La justice reproche à l’entreprise américaine d’avoir tiré profit de la notoriété des taxis de la capitale pour promouvoir son service Uber Taxi. Le jugement interdit la réutilisation du visuel litigieux, « sous astreinte de 50 000 euros par infraction constatée ».",
+      "image": "https://img.lemde.fr/2026/07/03/802/0/4928/2464/644/322/60/0/5bbf8b5_upload-1-rg0nudrthco2-000-arp4051775.jpg",
+      "published_at": "2026-07-04T00:39:16+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "d242273927d8"
+    },
     {
       "title": "A l’ambassade des Etats-Unis, Charles Kushner fête les 250 ans de l’indépendance avec feu d’artifice, champagne et Bernard Arnault",
       "url": "https://www.lemonde.fr/international/article/2026/07/04/a-l-ambassade-des-etats-unis-charles-kushner-fete-les-250-ans-de-l-independance-avec-feu-d-artifice-champagne-et-bernard-arnault_6720491_3210.html",
@@ -117,7 +157,7 @@
       "url": "https://www.lemonde.fr/international/article/2026/07/03/au-perou-keiko-fujimori-officiellement-proclamee-presidente-elue_6720489_3210.html",
       "summary": "Agée de 51 ans, elle accède à la plus haute responsabilité après trois échecs consécutifs et succédera au président par intérim José Maria Balcazar le 28 juillet. Son mandat court jusqu’en 2031. Dans un pays à l’instabilité politique chronique, elle devient le neuvième président du pays depuis 2016.",
       "image": "https://img.lemde.fr/2026/07/03/617/0/7403/3701/644/322/60/0/195e485_ftp-1-ckay06c3hjcq-5522342-01-06.jpg",
-      "published_at": "2026-07-03T23:01:02+02:00",
+      "published_at": "2026-07-03T23:00:58+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "7300861dfaad"
@@ -203,10 +243,10 @@
       "id": "a85188fde4a9"
     },
     {
-      "title": "EN DIRECT, Argentine - Cap-Vert : Lionel Messi titulaire pour affronter les Requins Bleus en seizième de finale de la Coupe du monde",
+      "title": "EN DIRECT, Argentine - Cap-Vert : les Cap-Verdiens arrachent la prolongation face aux champions du monde en titre",
       "url": "https://www.lemonde.fr/sport/live/2026/07/03/en-direct-argentine-cap-vert-suivez-le-seizieme-de-finale-de-la-coupe-du-monde-de-football_6720487_3242.html",
       "summary": "Les champions du monde en titre affrontent l’une des surprises de cette édition 2026, vendredi à Miami (Floride), pour une place en huitièmes de finale.",
-      "image": "https://img.lemde.fr/2026/06/28/501/0/4500/2250/644/322/60/0/7601175_ftp-1-raw5vsihfk1f-5470318-01-06.jpg",
+      "image": "https://img.lemde.fr/2026/07/03/321/0/3851/1925/644/322/60/0/9c77225_ftp-1-v4jar9itt050-5525824-01-06.jpg",
       "published_at": "2026-07-03T22:00:04+02:00",
       "source": "Le Monde",
       "category": "Sport",
@@ -261,46 +301,6 @@
       "source": "Libération",
       "category": "Culture",
       "id": "5ad0426c0250"
-    },
-    {
-      "title": "Le mariage de Taylor Swift et Travis Kelce, mélange de démesure et de secret bien gardé, débute au Madison Square Garden, à New York",
-      "url": "https://www.lemonde.fr/international/article/2026/07/03/le-mariage-de-taylor-swift-et-travis-kelce-melange-de-demesure-et-de-secret-bien-garde-debute-au-madison-square-garden-a-new-york_6720485_3210.html",
-      "summary": "D’après plusieurs médias américains, la plupart des convives sont soumis à des accords de confidentialité et tous sont privés de téléphone portable.",
-      "image": "https://img.lemde.fr/2026/07/03/458/0/5500/2750/644/322/60/0/6309f3e_ftp-1-hk0hjtw0hz1q-2026-07-03t134138z-1376993714-rc2d6ma1fqni-rtrmadp-3-people-taylor-swift-kelce.JPG",
-      "published_at": "2026-07-03T21:28:12+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "50ea91209734"
-    },
-    {
-      "title": "Djokovic sort Rinderknech qui était le dernier Français engagé, Osaka tranquille... Ce qu'il faut retenir de la cinquième journée de Wimbledon 2026",
-      "url": "https://www.franceinfo.fr/sports/tennis/wimbledon/novak-djokovic-sort-arthur-rinderknech-qui-etait-le-dernier-francais-engage-naomi-osaka-tranquille-ce-qu-il-faut-retenir-de-la-cinquieme-journee-de-wimbledon-2026_8092583.html#xtor=RSS-3-[lestitres]",
-      "summary": "Arthur Rinderknech était le seul représentant français qualifié pour le troisième tour en simple, et il a souffert, vendredi, face au septuple vainqueur du tournoi pour s'incliner en quatre manches.",
-      "image": "https://www.franceinfo.fr/pictures/KZmh09J06IEEPWkWLSF0Kz3jOO8/0x573:5504x3669/432x243/filters:format(jpg)/2026/07/03/6a47df1a6754d431125377.jpg",
-      "published_at": "2026-07-03T20:56:25+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "0dcce8db9acb"
-    },
-    {
-      "title": "Mairie RN à Carpentras : un festival de cinéma annulé après la suppression d’une subvention",
-      "url": "https://www.liberation.fr/politique/mairie-rn-a-carpentras-un-festival-de-cinema-annule-apres-la-suppression-dune-subvention-20260703_DROS5NJBOJASBGFMTEVSNQSDFU/",
-      "summary": "L’édile d’extrême droite invoque la «rigueur budgétaire», après une coupe similaire visant le Planning familial en juin. Depuis plusieurs mois, des mairies d’extrême droite réduisent les budgets alloués à la culture.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-07-03T18:48:59+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "1e894b4932d7"
-    },
-    {
-      "title": "En Turquie, l’humoriste vedette Deniz Göktas emprisonné pour « outrage » aux valeurs religieuses et au président Erdogan",
-      "url": "https://www.lemonde.fr/international/article/2026/07/03/en-turquie-l-humoriste-vedette-deniz-goktas-emprisonne-pour-outrage-aux-valeurs-religieuses-et-au-president-erdogan_6720483_3210.html",
-      "summary": "A cinq jours du sommet de l’OTAN à Ankara, le stand-upeur de 32 ans, qui porte un regard satirique sur l’évolution politique du pays, a été interpellé jeudi à Istanbul.",
-      "image": "https://img.lemde.fr/2026/07/03/500/0/6000/3000/644/322/60/0/a06c3db_upload-1-vqdbo9mxrjxi-sipa-sipahub60172837-000001.jpg",
-      "published_at": "2026-07-03T20:36:35+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "5ea0d0cb2cff"
     }
   ]
 }
