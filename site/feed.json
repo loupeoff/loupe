@@ -1,16 +1,256 @@
 {
-  "generated_at": "2026-07-04T10:20:49.908312+00:00",
+  "generated_at": "2026-07-04T12:11:49.517400+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "EN DIRECT, guerre en Ukraine : l’état-major ukrainien dément la capture complète de la ville stratégique de Kostyantynivka revendiquée par la Russie",
+      "title": "Funérailles d'Ali Khamenei : les Iraniens affluent à Téhéran pour rendre hommage au guide suprême tué dans la guerre au Moyen-Orient",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-l-iran-donne-le-coup-d-envoi-des-funerailles-nationales-du-guide-supreme-ali-khamenei-tue-dans-la-guerre-au-moyen-orient_8093471.html#xtor=RSS-3-[lestitres]",
+      "summary": "La télévision d'Etat iranienne a annoncé, samedi, le début des obsèques nationales du défunt guide suprême. Des milliers d'Iraniens se sont recueillis dès les premières heures dans la capitale.",
+      "image": "https://www.franceinfo.fr/pictures/t2Shj_HwjBU_D0LRey7CUsp5I6U/0x53:1024x629/432x243/filters:format(jpg)/2026/07/04/6a48a8660025f842606450.jpg",
+      "published_at": "2026-07-04T14:04:31+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "a56c487df004"
+    },
+    {
+      "title": "Quels sont les meilleurs ventilateurs de plafond à choisir cet été ?",
+      "url": "https://www.numerama.com/tech/2287715-quels-sont-les-meilleurs-ventilateurs-de-plafond-a-choisir-cet-ete.html",
+      "summary": "La première canicule est passée, mais qu’en est-il de la prochaine ? Météo-France prévoit encore de fortes chaleurs pour l’été 2026 dans tout le pays, et mieux vaut être bien préparé pour affronter les prochaines vagues de chaleur.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-07-04T12:00:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "7b18e0a30b19"
+    },
+    {
+      "title": "Au festival d’Aix-en-Provence, une « Femme sans ombre » d’anthologie reçoit une ovation debout",
+      "url": "https://www.lemonde.fr/culture/article/2026/07/04/au-festival-d-aix-en-provence-une-femme-sans-ombre-d-anthologie-recoit-une-ovation-debout_6720661_3246.html",
+      "summary": "Mis en scène par Barrie Kosky et dirigé par Klaus Mäkelä à la tête de l’Orchestre de Paris, le chef-d’œuvre de Richard Strauss est programmé jusqu’au mercredi 15 juillet.",
+      "image": "https://img.lemde.fr/2026/07/04/747/0/8973/4486/644/322/60/0/7d66158_upload-1-tknk7miytxib-die-frau-ohne-schatten-festival-d-aix-en-provence-2026-monika-rittershaus1.jpg",
+      "published_at": "2026-07-04T13:55:48+02:00",
+      "source": "Le Monde",
+      "category": "Culture",
+      "id": "948969c79042"
+    },
+    {
+      "title": "En images, les funérailles du Guide suprême iranien Ali Khamenei",
+      "url": "https://www.lemonde.fr/international/video/2026/07/04/en-images-les-funerailles-du-guide-supreme-iranien-ali-khamenei_6720660_3210.html",
+      "summary": "L’hommage public à l’ayatollah a commencé officiellement, samedi à Téhéran, où des milliers de fidèles ont afflué sur la Grande Mosalla.",
+      "image": "https://img.lemde.fr/2026/07/04/459/0/5500/2750/644/322/60/0/0f269af_ftp-1-0p3cw1mqlbpx-2026-07-04t111851z-1092551988-rc2v6mabocfr-rtrmadp-3-iran-crisis-khamenei.JPG",
+      "published_at": "2026-07-04T13:37:31+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "13df122ea2eb"
+    },
+    {
+      "title": "La Russie déplore une attaque contre un terminal pétrolier à Saint-Pétersbourg, Kiev revendique une frappe ayant touché une base militaire",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-affirme-que-des-drones-ukrainiens-ont-touche-un-terminal-petrolier-a-saint-petersbourg-kiev-revendique-une-frappe-contre-une-base-militaire_8093687.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le gouverneur de Saint-Pétersbourg a précisé qu'un drone s'était écrasé à Peterhof, une commune connue pour son palais, souvent comparé à Versailles.",
+      "image": "https://www.franceinfo.fr/pictures/1H-UGnM9Jckue_ANpJiuylro4Ns/0x335:4700x2979/432x243/filters:format(jpg)/2026/07/04/6a48ed3abc90f316447660.jpg",
+      "published_at": "2026-07-04T13:27:34+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "097bad0e6db3"
+    },
+    {
+      "title": "Une pétition contre la présomption d’usage légitime des armes par les forces de l’ordre recueille 140 000 signatures",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/04/une-petition-contre-la-presomption-d-usage-legitime-des-armes-par-les-forces-de-l-ordre-recueille-140-000-signatures_6720658_3224.html",
+      "summary": "Publiée le 26 juin sur le site de l’Assemblée nationale, elle vise une proposition de loi déposée par le parti Les Républicains qui doit être examinée mardi 7 juillet par les députés.",
+      "image": "https://img.lemde.fr/2026/06/16/250/0/3000/1500/644/322/60/0/c1456d2_upload-1-2mhf2qyzsc7u-frame-1161.jpg",
+      "published_at": "2026-07-04T13:23:58+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "08f6c1726a89"
+    },
+    {
+      "title": "EN DIRECT - Retour des fortes chaleurs : la France sur le qui-vive",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-retour-des-fortes-chaleurs-la-france-sur-le-qui-vive-20260704_PBWDLRXMIZCZLFN776GAHVGHEY/",
+      "summary": "Des températures de 31 °C à 35 °C sont attendues ce week-end sur le contour méditerranéen, avec des pics à 39 °C localement. Il fera également près de 30 °C ou plus partout ailleurs en France, avec des 35 °C souvent atteints.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-04T11:23:02+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "abe89a6e2b2e"
+    },
+    {
+      "title": "A Lampedusa, le pape Léon XIV exhorte l’Europe à agir davantage pour protéger les migrants",
+      "url": "https://www.liberation.fr/international/europe/a-lampedusa-le-pape-leon-xiv-exhorte-leurope-a-agir-davantage-pour-proteger-les-migrants-20260704_QU5MH2HS55DWPHAKN3WYKIIC5U/",
+      "summary": "Sur l’île italienne devenue le symbole du drame des traversées mortelles de la Méditerranée, le pontife en a appelé à une UE «capable d’accueillir, de protéger et d’intégrer les migrants», quelques semaines après l’adoption de nouvelles mesures migratoires.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-07-04T11:17:30+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "420744528777"
+    },
+    {
+      "title": "Aux Eurockéennes de Belfort, de belles découvertes rock et une prestation décevante d’Orelsan",
+      "url": "https://www.lemonde.fr/culture/article/2026/07/04/aux-eurockeennes-de-belfort-de-belles-decouvertes-rock-et-une-prestation-decevante-d-orelsan_6720657_3246.html",
+      "summary": "La 36ᵉ édition de la manifestation a donné l’occasion à des artistes prometteurs, tels l’Irlandais Dove Ellis et le groupe anglais Sleaford Mods, de se produire devant les festivaliers.",
+      "image": "https://img.lemde.fr/2026/07/04/473/0/5680/2840/644/322/60/0/0806a9e_upload-1-do8vuy66ahaj-eurocks2026-orelsan-ccmatthias-748630.jpg",
+      "published_at": "2026-07-04T13:14:48+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "b23457ce4eee"
+    },
+    {
+      "title": "Mort à 44 ans de Bertrand Grébaut, chef du restaurant étoilé Septime",
+      "url": "https://www.liberation.fr/lifestyle/gastronomie/mort-a-44-ans-de-bertrand-grebaut-chef-du-restaurant-etoile-septime-20260704_MGAAYU4DVFCODCSMUYVYMQVFTM/",
+      "summary": "Décrit par le «Gault & Millau» comme l’un de ceux qui ont «réinventé la gastronomie française», le restaurateur a succombé à un cancer, jeudi.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-04T11:06:38+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "259cf742199f"
+    },
+    {
+      "title": "Tour de France 2026 : le contre-la-montre par équipes, un exercice périlleux pour lancer la 113ᵉ édition",
+      "url": "https://www.lemonde.fr/sport/article/2026/07/04/tour-de-france-2026-le-contre-la-montre-par-equipes-un-exercice-perilleux-pour-lancer-la-113-edition_6720656_3242.html",
+      "summary": "Le Tour de France 2026, qui s’élance samedi de Barcelone, propose pour sa première étape une épreuve collective de 19,6 kilomètres. Pour les coureurs et leurs encadrements, la préparation de ce rendez-vous est particulièrement délicate.",
+      "image": "https://img.lemde.fr/2026/07/02/0/0/4772/2386/644/322/60/0/d9d7e78_upload-1-0rs91smphfoh-000-b6h33n2.jpg",
+      "published_at": "2026-07-04T13:05:04+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "2524cdffaeda"
+    },
+    {
+      "title": "La Chine critiquée à l’étranger après l’entrée en vigueur d’une loi sur la « sinisation » des minorités ethniques",
+      "url": "https://www.lemonde.fr/international/article/2026/07/04/la-chine-critiquee-a-l-etranger-apres-l-entree-en-vigueur-d-une-loi-sur-la-sinisation-des-minorites-ethniques_6720655_3210.html",
+      "summary": "Le texte donne la primauté au mandarin et prévoit des poursuites, y compris à l’étranger, contre quiconque porterait atteinte à l’« unité ethnique » de la Chine. L’UE et l’ONU dénoncent une loi aux répercussions extraterritoriales, tandis que Pékin fustige une lecture « erronée et mal interprétée » de la nouvelle législation.",
+      "image": "https://img.lemde.fr/2026/07/01/741/0/8898/4449/644/322/60/0/cb25ec8_ftp-1-mmu3g0ojhbbj-a1b7d20648e24c9095894436ab11b559-1-45c32e1d0dbe4de195893a58fc541c54.jpg",
+      "published_at": "2026-07-04T13:00:05+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "d888ff2b2d83"
+    },
+    {
+      "title": "France-Paraguay : comment préparer le mbejú du chef Horacio Zarate",
+      "url": "https://www.liberation.fr/lifestyle/gastronomie/france-paraguay-comment-preparer-le-mbeju-du-chef-horacio-zarate-20260704_YDWYWEYZHFFOPEMH3WK7X7TPUQ/",
+      "summary": "Avant le huitième de finale des Bleus contre l’équipe sud-américaine ce samedi 4 juillet à 23 heures, on vous propose de goûter à ce pain à la fécule de manioc, un classique du Paraguay.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-04T11:00:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "3840ff3ed848"
+    },
+    {
+      "title": "La fin du rêve européen ? Lucid ralentit son expansion et planifie des licenciements",
+      "url": "https://www.numerama.com/vroom/2290887-la-fin-du-reve-europeen-lucid-ralentit-son-expansion-et-planifie-des-licenciements.html",
+      "summary": "Face à des ventes décevantes et à une restructuration globale, Lucid a décidé de ralentir son offensive sur le marché européen. Ce recentrage stratégique s'accompagne d'importantes suppressions de postes qui devront être finalisées d'ici la fin du mois de septembre.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-07-04T10:56:00+00:00",
+      "source": "Numerama",
+      "category": "Économie",
+      "id": "a6009b08424b"
+    },
+    {
+      "title": "La semaine vue par Coco : François Hollande sur le retour, Marine Le Pen tutrice, canicule en Ukraine",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/la-semaine-vue-par-coco-francois-hollande-sur-le-retour-marine-le-pen-tutrice-canicule-en-ukraine-20260704_TFMQVTIH6RBNLII7EBWB5PTCJE/",
+      "summary": "L’actualité croquée par notre dessinatrice.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-07-04T10:44:00+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "b0a501bf0aaf"
+    },
+    {
+      "title": "Coupe du monde 2026 : le Maroc et le Canada ouvrent le bal des 8es de finale à 19 heures, Aurélien Tchouaméni très incertain pour France-Paraguay",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-le-tableau-des-huitiemes-de-finale-desormais-complet-le-maroc-et-le-canada-ouvrent-le-bal-a-19-heures_8092451.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Canada, pays organisateur et néophyte à ce stade de la compétition, se déplace à Houston, aux Etats-Unis, pour défier le Maroc et tenter de décrocher une place en quarts face aux Bleus ou à leur adversaire du soir.",
+      "image": "https://www.franceinfo.fr/pictures/18oK2AU_Rl5KHD4Xtzlplsad320/0x0:1024x576/432x243/filters:format(jpg)/2026/07/03/6a47ce8f19dff427613785.jpg",
+      "published_at": "2026-07-04T12:39:14+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "2a98f66d20bd"
+    },
+    {
+      "title": "Tour de France 2026 : transformée en NSN Cycling, l’ex-équipe Israel-Premier Tech retrouve l’indifférence à Barcelone",
+      "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-2026-transformee-en-nsn-cycling-lex-equipe-israel-premier-tech-retrouve-lindifference-a-barcelone-20260704_73AGKCZTDRD65CJZWRJEYF5VKU/",
+      "summary": "Un an après un Tour d’Espagne ultra-perturbé qui avait viré en immense manifestation pro-palestinienne, la structure au cœur de la discorde a changé de nom, rachetée par Andrés Iniesta. Et plus personne n’y prête attention.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-04T10:36:55+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "61922f52d69f"
+    },
+    {
+      "title": "Coupe du monde : des sextoys synchronisés à l’intensité des matchs de foot",
+      "url": "https://www.liberation.fr/lifestyle/intimites/coupe-du-monde-des-sextoys-synchronises-a-lintensite-des-matchs-de-foot-20260704_DM4FPQD3HJD7HET2KN6H23IODU/",
+      "summary": "La firme Lovense propose de brancher votre jouet aux matchs de phases finales du Mondial. Il s’agit de jouir non plus avec un humain mais avec un «flux de données», note le chercheur Vincenzo Susca. Analyse du phénomène.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-04T10:32:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "30cc93279132"
+    },
+    {
+      "title": "\"C'est un immense talent, mais il n'a que 19 ans\" : comment le monde du cyclisme perçoit les débuts du phénomène Paul Seixas sur le Tour de France",
+      "url": "https://www.franceinfo.fr/tour-de-france/c-est-un-immense-talent-mais-il-n-a-que-19-ans-comment-le-monde-du-cyclisme-percoit-les-debuts-du-phenomene-paul-seixas-sur-le-tour-de-france_8055791.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les débuts du Lyonnais sur la Grande Boucle, à partir de samedi, suscitent autant de fantasmes qu'ils n'incitent à la prudence pour le coureur de 19 ans.",
+      "image": "https://www.franceinfo.fr/pictures/_0oatlFgG3W0vcwX7wv9met2zLo/0x760:7296x4864/432x243/filters:format(jpg)/2026/07/03/6a47ac3fadd6b443185707.jpg",
+      "published_at": "2026-07-04T12:29:25+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "6fc1d499f307"
+    },
+    {
+      "title": "Le XV de France accroche les All Blacks mais s’incline en ouverture du nouveau Championnat des nations de rugby",
+      "url": "https://www.lemonde.fr/sport/article/2026/07/04/le-xv-de-france-accroche-les-all-blacks-mais-s-incline-en-ouverture-du-nouveau-championnat-des-nations-de-rugby_6720654_3242.html",
+      "summary": "Les Bleus, vainqueurs du dernier Tournoi des six nations, ont été dominés de peu par les Néo-Zélandais (34-32), samedi, à Christchurch, en ouverture de la compétition.",
+      "image": "https://img.lemde.fr/2026/07/04/0/0/3451/1725/644/322/60/0/40f9843_ftp-1-6u5nll8bip57-013ace0e89164c6ebffd4e00cb808e0d-0-d9cc8b5a5f2349f78a20bf2e4bac8e54.jpg",
+      "published_at": "2026-07-04T12:26:45+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "36c6d3ad2678"
+    },
+    {
+      "title": "En Allemagne, des milliers de manifestants convergent à Erfurt, pour s’opposer à l’AfD",
+      "url": "https://www.lemonde.fr/international/article/2026/07/04/en-allemagne-des-milliers-de-manifestants-convergent-a-erfurt-pour-s-opposer-au-congres-de-l-extreme-droite_6720653_3210.html",
+      "summary": "Le parti d’extrême droite, qui peut espérer prendre le contrôle d’un, voire deux Länders orientaux, en septembre, coïncide avec le 100ᵉ anniversaire de celui du parti nazi à Weimar, ville voisine d’Erfurt.",
+      "image": "https://img.lemde.fr/2026/07/04/650/0/8162/4081/644/322/60/0/c38e8b5_ftp-1-hrjdzadk4wfp-5528275-01-06.jpg",
+      "published_at": "2026-07-04T12:26:32+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "a3da2f1567c6"
+    },
+    {
+      "title": "Blessé durant l'entraînement vendredi, Aurélien Tchouaméni a \"de très grandes chances\" d'être forfait contre le Paraguay",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/blesse-durant-l-entrainement-vendredi-aurelien-tchouameni-a-de-tres-grandes-chances-d-etre-forfait-contre-le-paraguay_8093732.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le milieu de terrain s'est blessé à la cuisse lors de l'entraînement des Bleus, vendredi. Il devrait être remplacé par Manu Koné pour le huitième de finale de la Coupe du monde 2026 de football, contre le Paraguay.",
+      "image": "https://www.franceinfo.fr/pictures/BfF-noOMcBkwB1Y_b8JQe6-pLiU/0x315:4281x2724/432x243/filters:format(jpg)/2026/07/04/6a48dbe5b1026866920312.jpg",
+      "published_at": "2026-07-04T12:15:07+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "47999ba1b010"
+    },
+    {
+      "title": "Au Costa Rica, des chercheurs pensent avoir découvert une nouvelle espèce de \"requins fantômes\" (qui ne sont pas vraiment des requins)",
+      "url": "https://www.franceinfo.fr/environnement/biodiversite/animaux/au-costa-rica-des-chercheurs-pensent-avoir-decouvert-une-nouvelle-espece-de-requins-fantomes-qui-ne-sont-pas-vraiment-des-requins_8093699.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cousins des requins, ces animaux aux grands yeux réfléchissants se sont séparés génétiquement de leurs parents il y a près de 400 millions d'années.",
+      "image": "https://www.franceinfo.fr/pictures/bYGVEKsctQeDEMJFnNykrU4-DyA/43x84:937x588/432x243/filters:format(jpg)/2026/07/04/6a48dc0fc6497942465564.jpg",
+      "published_at": "2026-07-04T12:12:43+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "818dfa633f4a"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : l’état-major ukrainien dément la prise complète de la ville stratégique de Kostyantynivka revendiquée par la Russie",
       "url": "https://www.lemonde.fr/international/live/2026/07/04/en-direct-guerre-en-ukraine-l-etat-major-ukrainien-dement-la-capture-complete-de-la-ville-strategique-de-kostyantynivka-revendiquee-par-la-russie_6716525_3210.html",
-      "summary": "Le major Andrii Kovalov, porte-parole de l’état-major des forces armées ukrainiennes, affirme que la localité, où se déroule depuis des mois l’une des batailles les plus féroces à l’échelle du pays, reste sous leur contrôle.",
+      "summary": "Andrii Kovalov, porte-parole de l’état-major des forces armées ukrainiennes, affirme que la localité, où se déroule depuis des mois l’une des batailles les plus féroces à l’échelle du pays, reste sous leur contrôle.",
       "image": "https://img.lemde.fr/2026/07/04/1270/0/8024/4012/644/322/60/0/a101f13_ftp-1-hoaabm2fwioe-17b99fd466574949ba7616afe86b6a42-0-6053fb2ff1394fc5b057441f877696c1.jpg",
-      "published_at": "2026-07-04T12:10:33+02:00",
+      "published_at": "2026-07-04T12:10:31+02:00",
       "source": "Le Monde",
       "category": "International",
       "id": "8ba175150500"
+    },
+    {
+      "title": "Un animateur de centre de loisirs dans les Landes suspendu après une plainte pour \"comportement inapproprié\" sur un mineur",
+      "url": "https://www.franceinfo.fr/societe/pedocriminalite/un-animateur-de-centre-de-loisirs-dans-les-landes-suspendu-apres-une-plainte-pour-comportement-inapproprie-sur-un-mineur_8093726.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dans un communiqué, la mairie explique avoir pris cette décision afin de \"préserver les enfants\".",
+      "image": "https://www.franceinfo.fr/pictures/N4LitPCmFXQRbaRwUjx192qSvbk/0x53:1024x629/432x243/filters:format(jpg)/2026/07/03/6a47dbc174a03299695259.jpg",
+      "published_at": "2026-07-04T12:08:42+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "dc7fa0b4e1e4"
     },
     {
       "title": "Top des ventes de livres : Marc Bloch, succès de librairie",
@@ -23,11 +263,11 @@
       "id": "3f8cbfc2dfb9"
     },
     {
-      "title": "La mort de Bertrand Grébaut, électron libre virtuose de la cuisine contemporaine française",
+      "title": "Bertrand Grébaut, cofondateur du restaurant Septime et électron libre de la cuisine contemporaine française, est mort",
       "url": "https://www.lemonde.fr/disparitions/article/2026/07/04/la-mort-de-bertrand-grebaut-electron-libre-virtuose-de-la-cuisine-contemporaine-francaise_6720652_3382.html",
-      "summary": "Cofondateur du restaurant Septime, à Paris, le chef disparu précocement, à l’âge de 44 ans, fut l’un des pionniers d’une cuisine bistronomique aussi rigoureuse qu’inventive.",
+      "summary": "Le chef parisien, disparu précocement à l’âge de 44 ans, fut l’un des pionniers d’une cuisine bistronomique aussi rigoureuse qu’inventive.",
       "image": "https://img.lemde.fr/2026/07/04/1157/0/3333/1666/644/322/60/0/26bb87d_upload-1-gvkqz0vbvmbh-maxnewsspecial338279.jpg",
-      "published_at": "2026-07-04T12:02:51+02:00",
+      "published_at": "2026-07-04T12:02:47+02:00",
       "source": "Le Monde",
       "category": "Sport",
       "id": "07b36ed21027"
@@ -41,16 +281,6 @@
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "72a37b92b6a3"
-    },
-    {
-      "title": "EN DIRECT - Retour des fortes chaleurs : la France sur le qui-vive",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-retour-des-fortes-chaleurs-la-france-sur-le-qui-vive-20260704_PBWDLRXMIZCZLFN776GAHVGHEY/",
-      "summary": "Des températures de 31 °C à 35 °C sont attendues ce week-end sur le contour méditerranéen, avec des pics à 39 °C localement. Il fera également près de 30 °C ou plus partout ailleurs en France, avec des 35 °C souvent atteints.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-04T09:49:47+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "abe89a6e2b2e"
     },
     {
       "title": "Festival d’Avignon 2026 : la mémoire du massacre de Jeju en Corée reconstruite pièce par pièce",
@@ -67,240 +297,10 @@
       "url": "https://www.lemonde.fr/international/article/2026/07/04/en-espagne-2-200-hectares-parcourus-par-les-flammes-pres-de-la-costa-brava_6720647_3210.html",
       "summary": "Le feu est parti vendredi près de La Bisbal d’Empordà, à proximité de Gérone, à une vingtaine de kilomètres de la côte méditerranéenne. Environ 400 pompiers, dont dix équipes aériennes, sont à pied d’œuvre pour tenter d’en venir à bout.",
       "image": "https://img.lemde.fr/2026/07/04/487/0/5846/2923/644/322/60/0/df6ef60_ftp-1-qrxbvyea0iwn-2026-07-04t071822z-1419991920-rc2n6ma2hqhl-rtrmadp-3-europe-weather-spain-wildfire.JPG",
-      "published_at": "2026-07-04T11:43:50+02:00",
+      "published_at": "2026-07-04T11:43:47+02:00",
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "d10edc1bf337"
-    },
-    {
-      "title": "En Catalogne, la sauce froide romesco de Maria Nicolau",
-      "url": "https://www.liberation.fr/lifestyle/gastronomie/en-catalogne-la-sauce-froide-romesco-de-maria-nicolau-20260704_VBBPA36G5ZGDXL6RKJAJB2X5VI/",
-      "summary": "Chaque jour, «Libé» vous propose une recette de la région ou de la ville d’arrivée du Tour de France, trouvée par nos soins. Aujourd’hui, une spécialité catalane à tartiner sur du pain ou à mettre dans une omelette.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-04T09:35:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "6c5eef6874f4"
-    },
-    {
-      "title": "A quoi servent les milliards d’euros issus de la Journée de solidarité, qui «auraient dû suffire à climatiser les Ehpad» ?",
-      "url": "https://www.liberation.fr/checknews/a-quoi-servent-les-milliards-deuros-issus-de-la-journee-de-solidarite-qui-auraient-du-suffire-a-climatiser-les-ehpad-20260704_MCPXCZCDLNETXNQHULSGQMSILI/",
-      "summary": "Critiquée lors de la canicule pour sa gestion, la Caisse nationale de solidarité pour l’autonomie sert d’abord à faire fonctionner les établissements d’accueil de personnes âgées ou handicapées.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-04T09:35:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "2714ed18af7c"
-    },
-    {
-      "title": "A droite, l’impasse stratégique d’un alignement sur les propositions du RN",
-      "url": "https://www.lemonde.fr/idees/article/2026/07/04/a-droite-l-impasse-strategique-d-un-alignement-sur-les-propositions-du-rn_6720646_3232.html",
-      "summary": "Depuis plusieurs années, le parti Les Républicains reprend les mots et les propositions du Rassemblement national sur l’immigration et la sécurité. Un choix funeste qui renforce ses deux principaux concurrents, le parti d’extrême droite et Edouard Philippe.",
-      "image": "https://img.lemde.fr/2026/06/28/688/0/8256/4128/644/322/60/0/3a744eb_upload-1-nrfjbtzsfh23-dsc-0039.jpg",
-      "published_at": "2026-07-04T11:30:14+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "d297df5e4012"
-    },
-    {
-      "title": "En visite à Lampedusa, le pape Léon XIV appelle l'Europe à \"protéger\" davantage les migrants",
-      "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/en-visite-a-lampedusa-le-pape-leon-xiv-rend-hommage-aux-migrants-morts-en-mediterranee_8093600.html#xtor=RSS-3-[lestitres]",
-      "summary": "Sur les traces de son prédécesseur François, qui s'était rendu sur l'île italienne dès son premier déplacement en 2013, le souverain pontife s'est recueilli, samedi, devant des tombes de migrants non identifiés.",
-      "image": "https://www.franceinfo.fr/pictures/SMU1g0Dhn-zo-ZKk3O6Qgll8Q_A/0x32:1024x608/432x243/filters:format(jpg)/2026/07/04/6a48c3869d8bc142503631.jpg",
-      "published_at": "2026-07-04T11:28:09+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "5ab933f12025"
-    },
-    {
-      "title": "\"Il faut un MeToo des mémés !\" : Annie, 80 ans, victime d'inceste, attend une loi intégrale depuis longtemps",
-      "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/temoignage-il-faut-un-metoo-des-memes-annie-80-ans-victime-d-inceste-attend-une-loi-integrale-depuis-longtemps_8093033.html#xtor=RSS-3-[lestitres]",
-      "summary": "Des manifestations ont lieu partout en France samedi, un mois après la mort de Lyhanna, pour réclamer une loi intégrale contre les violences sexistes et sexuelles.",
-      "image": "https://www.franceinfo.fr/pictures/dJG1dhqMeWdsUj2EEzfquHpuEaM/0x151:4724x2809/432x243/filters:format(jpg)/2026/07/03/6a481afdcb088472963245.jpg",
-      "published_at": "2026-07-04T11:26:33+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "bb7a45c0e7e7"
-    },
-    {
-      "title": "Les dix BD et romans graphiques à croquer sans modération cet été",
-      "url": "https://www.franceinfo.fr/culture/bd/les-dix-bd-et-romans-graphiques-a-croquer-sans-moderation-cet-ete_8052227.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le premier semestre 2026 a vu la parution de nombreux romans graphiques et BD de très bonne qualité.",
-      "image": "https://www.franceinfo.fr/pictures/UzuIAadROwvgEjg-qtmVZ_Hkar4/0x267:2856x1874/432x243/filters:format(jpg)/2026/06/09/6a2818889e96b098743045.jpg",
-      "published_at": "2026-07-04T11:25:34+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "539461669a63"
-    },
-    {
-      "title": "« Merci Messi » : la presse internationale s’inquiète de la dépendance de l’Argentine à sa star après sa victoire contre le Cap-Vert en Coupe du monde 2026.",
-      "url": "https://www.lemonde.fr/sport/article/2026/07/04/merci-messi-la-presse-internationale-s-inquiete-de-la-dependance-de-l-argentine-a-sa-star-apres-sa-victoire-contre-le-cap-vert-en-coupe-du-monde-2026_6720645_3242.html",
-      "summary": "Malmenée par les Requins bleus en seizièmes de finale de la Coupe du monde, l’Argentine s’en est une nouvelle fois remise à Lionel Messi, samedi 4 juillet, pour venir à bout du Cap-Vert (3-2, a.p.). Une habitude qui interpelle les médias étrangers.",
-      "image": "https://img.lemde.fr/2026/07/04/21/0/3527/1763/644/322/60/0/e0d3100_ftp-1-v2kz4fxybvou-2026-07-04t003125z-1820188742-up1em7401gc0u-rtrmadp-3-soccer-worldcup-arg-cpv.JPG",
-      "published_at": "2026-07-04T11:25:19+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "a7c38e545894"
-    },
-    {
-      "title": "Au Mali, les jihadistes et les rebelles lancent de nouvelles attaques contre l'armée, deux mois après la chute de Kidal",
-      "url": "https://www.franceinfo.fr/monde/afrique/mali/guerre-au-mali/les-rebelles-lancent-de-nouvelles-attaques-contre-l-armee-au-mali-deux-mois-apres-une-precedente-offensive-des-groupes-jihadistes-et-independantistes_8093642.html#xtor=RSS-3-[lestitres]",
-      "summary": "Des hostilités ont notamment débuté à Anéfis et Aguelhok, qui sont les derniers lieux contrôlés par l'armée malienne dans la région de Kidal depuis de précédentes attaques le 25 et 26 avril.",
-      "image": "https://www.franceinfo.fr/pictures/bA7x8ciDBUPz_gI3m5u-wFCF_EQ/0x0:1024x576/432x243/filters:format(jpg)/2026/07/04/6a48cf9c8412c705280665.jpg",
-      "published_at": "2026-07-04T11:22:18+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "821e555fb53e"
-    },
-    {
-      "title": "Tesla déploie ses premiers taxis autonomes à Miami en évitant soigneusement le centre-ville",
-      "url": "https://www.numerama.com/vroom/2290865-tesla-deploie-ses-premiers-taxis-autonomes-a-miami-en-evitant-soigneusement-le-centre-ville.html",
-      "summary": "Tesla franchit une nouvelle étape dans sa stratégie de conduite autonome en lançant son service Robotaxi à Miami, marquant son entrée dans un troisième État américain après le Texas et la Californie. Toutefois, la zone de service initiale reste strictement limitée à un périmètre restreint de la ville.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-04T09:21:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "60d82a3c1b4e"
-    },
-    {
-      "title": "Dans le Pacifique, les îles américaines de Guam et Mariannes du Nord se préparent au passage du «super typhon» Bavi",
-      "url": "https://www.liberation.fr/environnement/climat/dans-le-pacifique-les-iles-americaines-de-guam-et-mariannes-du-nord-se-preparent-au-passage-du-super-typhon-bavi-20260703_TNR635DTCRHJXDFQ6ETY3X33EY/",
-      "summary": "Se déplaçant vers l’Ouest, il a atteint le statut de super typhon ce samedi 4 juillet au matin, poussant les habitants des territoires insulaires, déjà durement éprouvés en avril par le super typhon Sinlaku, à se barricader.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-04T09:19:59+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "4bc0a6912693"
-    },
-    {
-      "title": "Le festival international du film du Sahara appelle à boycotter \"L'Odyssée\", en partie tourné au Sahara occidental",
-      "url": "https://www.franceinfo.fr/culture/cinema/le-festival-international-du-film-du-sahara-appelle-a-boycotter-l-odyssee-en-partie-tourne-au-sahara-occidental_8093624.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le dernier film de Christopher Nolan, attendu en salles cet été, a été en partie tourné à Dakhla, au Sahara occidental. Ce territoire disputé est contrôlé en majeure partie par le Maroc.",
-      "image": "https://www.franceinfo.fr/pictures/ONUFskV8M8uGhyJDrHsK3jT9P0A/0x53:1024x629/432x243/filters:format(jpg)/2026/07/04/6a48cd747f7fe966836342.jpg",
-      "published_at": "2026-07-04T11:17:15+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "4e8a8e28b19b"
-    },
-    {
-      "title": "Mali: des attaques coordonnées en cours dans plusieurs localités",
-      "url": "https://www.liberation.fr/international/afrique/mali-des-attaques-coordonnees-en-cours-dans-plusieurs-localites-20260704_P7PKGXOF7NGOFMILFIFDOL7XVI/",
-      "summary": "Les jihadistes et leurs alliés indépendantistes touaregs ont lancé ce matin l’assaut contre les villes de Gao, Anéfis, Sévaré et la prison de Kenioroba.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-04T09:16:26+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "c77a54d44fa0"
-    },
-    {
-      "title": "Canicule : EDF s’adapte lentement aux effets du réchauffement climatique sur son parc nucléaire",
-      "url": "https://www.liberation.fr/economie/canicule-edf-sadapte-lentement-aux-effets-du-rechauffement-climatique-sur-son-parc-nucleaire-20260704_ZXKNB5MADVEWLGGWYIIAE2AIZI/",
-      "summary": "La mise à l’arrêt de trois réacteurs lors de la dernière vague de chaleur est un avertissement pour l’exploitant nucléaire. Il va investir 8,7 milliards d’ici 2040 pour refroidir l’eau rejetée en aval de ses centrales, mais la hausse du thermomètre va plus vite.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-04T09:05:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "e3826458230c"
-    },
-    {
-      "title": "Au Mali, des attaques menées par des djihadistes et leurs alliés dans plusieurs localités et contre une prison",
-      "url": "https://www.lemonde.fr/afrique/article/2026/07/04/au-mali-des-attaques-menees-par-des-djihadistes-et-leurs-allies-dans-plusieurs-localites-et-contre-une-prison_6720644_3212.html",
-      "summary": "Ces événements surviennent plus de deux mois après des attaques d’ampleur menées par le Groupe de soutien de l’islam et des musulmans (GSIM). Celles-ci avaient considérablement affaibli la junte au pouvoir à Bamako et tué le ministre de la défense.",
-      "image": "https://img.lemde.fr/2026/07/04/437/0/5244/2622/644/322/60/0/35b46bf_upload-1-gzrucklpzzuf-000-b2492n9.jpg",
-      "published_at": "2026-07-04T11:01:24+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "ce19cba6206f"
-    },
-    {
-      "title": "Tour de France 2026 : le guide pour savoir quand piquer une sieste",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/07/04/tour-de-france-2026-le-guide-pour-savoir-quand-piquer-une-sieste_6720641_4355770.html",
-      "summary": "Du 4 au 26 juillet, la Grande Boucle rythmera vos après-midi de l’été. Grâce à notre guide de la sieste, sachez quand allumer la télévision ou quand programmer un roupillon sans crainte de manquer les temps forts.",
-      "image": "https://img.lemde.fr/2026/07/03/320/0/3840/1920/644/322/60/0/cf168b7_upload-1-wctox8zan7ax-media-d-appel-light.png",
-      "published_at": "2026-07-04T11:00:17+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "a05baf32553f"
-    },
-    {
-      "title": "Lutte contre les féminicides : le modèle espagnol",
-      "url": "https://www.franceinfo.fr/societe/feminicides/lutte-contre-les-feminicides-le-modele-espagnol_8092940.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le nombre de féminicides a baissé de 30 % en 20 ans en Espagne. Une réussite exemplaire, à tel point que des associations françaises veulent s’en inspirer.",
-      "image": "https://www.franceinfo.fr/pictures/-pJlCZZpFcse2Apv1JwRwf4j4So/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/07/03/6a47ebf45ea4c775544271.jpg",
-      "published_at": "2026-07-04T11:00:01+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "fdb807c2bb46"
-    },
-    {
-      "title": "La Nouvelle-Zélande s'en sort de justesse face à l'équipe de France dans le premier match du Championnat des nations",
-      "url": "https://www.franceinfo.fr/sports/rugby/coupe-d-automne-des-nations/la-nouvelle-zelande-s-en-sort-de-justesse-face-a-l-equipe-de-france-dans-le-premier-match-du-championnat-des-nations_8093537.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les Bleus ont surpris les Néo-Zélandais dès l'entame en inscrivant le premier essai du match dès la 2e minute par le meilleur marqueur d'essais de la sélection, Damian Penaud.",
-      "image": "https://www.franceinfo.fr/pictures/pGF8x9XOmkqylpQMb2U0bemQT3Y/0x0:1024x576/432x243/filters:format(jpg)/2026/07/04/6a48c53d869b3985996375.jpg",
-      "published_at": "2026-07-04T10:57:35+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "a004bcaab2fd"
-    },
-    {
-      "title": "Que faire en famille en Ile-de-France cet été ? Cinq escapades pour se cultiver au frais",
-      "url": "https://www.lemonde.fr/intimites/article/2026/07/04/que-faire-en-famille-en-ile-de-france-cet-ete-cinq-escapades-pour-se-cultiver-au-frais_6720638_6190330.html",
-      "summary": "Souterrains médiévaux de Provins, Cité de l’architecture et du patrimoine, égouts de Paris ou immersion dans l’univers de Van Gogh au château d’Auvers-sur-Oise… la région réserve quelques belles échappées au sec.",
-      "image": "https://img.lemde.fr/2026/06/15/197/0/2362/1181/644/322/60/0/6b7b904_upload-1-jxxsihs1zciw-panorama-des-timbres.jpg",
-      "published_at": "2026-07-04T10:45:07+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "40a0d5d597f0"
-    },
-    {
-      "title": "Funérailles du Guide Ali Khamenei : «Le pouvoir serait fragilisé si son fils et successeur n’était pas présent»",
-      "url": "https://www.liberation.fr/international/moyen-orient/funerailles-du-guide-ali-khamenei-le-pouvoir-serait-fragilise-si-son-fils-et-successeur-netait-pas-present-20260704_XGMZWJV4WBC4LJITUL5KK766IQ/",
-      "summary": "La dépouille de l’ayatollah, tué fin février, a été présentée vendredi 3 juillet à Téhéran, avant plusieurs jours de cérémonie. Une possible absence du nouveau Guide suprême, Mojtaba Khamenei, qui n’est jamais apparu en public depuis sa nomination en mars, pourrait déstabiliser le régime estime le chercheur Jonathan Piron, spécialiste de l’Iran.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-04T08:39:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "a99c721ffa07"
-    },
-    {
-      "title": "\"Le sentiment que nous avons aujourd'hui, c'est le désir de vengeance\" : en Iran, les très politiques funérailles du guide suprême Ali Khamenei",
-      "url": "https://www.franceinfo.fr/monde/iran/reportage-le-sentiment-que-nous-avons-aujourd-hui-c-est-le-desir-de-vengeance-en-iran-les-tres-politiques-funerailles-du-guide-supreme-ali-khamenei_8093567.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les obsèques du guide suprême Ali Khamenei, tué dans des frappes israélo-américaines le 28 février, sont l'occasion d'une démonstration de force pour le régime iranien.",
-      "image": "https://www.franceinfo.fr/pictures/NFUxO-KvfJqPl7Y6QutpM1q7VNI/0x297:5717x3513/432x243/filters:format(jpg)/2026/07/04/6a48c286708a7690643246.jpg",
-      "published_at": "2026-07-04T10:29:14+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "e42ce16e08c8"
-    },
-    {
-      "title": "A Lampedusa, le pape Léon XIV rend hommage aux migrants morts dans la Méditerranée et appelle l’Europe à « aborder la crise de manière organique »",
-      "url": "https://www.lemonde.fr/international/article/2026/07/04/le-pape-leon-xiv-est-arrive-a-lampedusa-pour-rendre-hommage-aux-migrants-morts-dans-la-mediterranee_6720635_3210.html",
-      "summary": "Le pontife américain suit les traces de son prédécesseur, François, qui avait choisi cette petite île devenue le symbole du drame des migrants morts en tentant de traverser la mer Méditerranée, pour son premier déplacement, en 2013.",
-      "image": "https://img.lemde.fr/2026/07/04/246/0/2949/1474/644/322/60/0/906d975_ftp-1-fyjk0gyavjz4-5528359-01-06.jpg",
-      "published_at": "2026-07-04T10:21:30+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "c7bc894dd4c9"
-    },
-    {
-      "title": "\"In Waves\", \"Notre histoire - Chroniques du Caire\", \"André Is an Idiot\" : quels sont les films à voir (ou pas) cette semaine au cinéma ?",
-      "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/in-waves-notre-histoire-chroniques-du-caire-andre-is-an-idiot-quels-sont-les-films-a-voir-ou-pas-cette-semaine-au-cinema_8089937.html#xtor=RSS-3-[lestitres]",
-      "summary": "Découvrez les critiques de notre sélection des films sortis en salles le mercredi 1er juillet 2026.",
-      "image": "https://www.franceinfo.fr/pictures/0Kb3mAbLtK_s8R75u7MyHmEFP-U/0x154:793x601/432x243/filters:format(jpg)/2026/06/26/6a3e20b4d290b069925275.jpeg",
-      "published_at": "2026-07-04T10:13:20+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "a0d3a00c39fd"
-    },
-    {
-      "title": "Après la mort de Lyhanna, une «grande marche» pour demander une loi globale contre les violences sexuelles",
-      "url": "https://www.liberation.fr/societe/droits-des-femmes/apres-la-mort-de-lyhanna-une-grande-marche-pour-demander-une-loi-globale-contre-les-violences-sexuelles-20260704_QRNRFLM4YBG45BEQH4XTKOP73U/",
-      "summary": "Les associations féministes et enfantistes appellent ce samedi à une manifestation pour lutter contre les VSS. A Paris, rendez-vous est donné à 15 h 30 sur la place de la Bastille.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-04T08:10:03+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "7106b8bbbaae"
     }
   ]
 }
