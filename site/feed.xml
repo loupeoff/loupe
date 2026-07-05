@@ -7,14 +7,64 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Sun, 05 Jul 2026 21:12:29 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 05 Jul 2026 23:10:22 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
   <item>
-    <title>Incendies : 10000 personnes évacuées dans les Pyrénées-Orientales, quelque 3 000 pompiers mobilisés pour lutter contre une vingtaine de feux dans tout l&apos;Hexagone</title>
+    <title>Séisme au Venezuela : le bilan s’élève désormais à plus de 3 300 morts, des dizaines de corps enterrés sans avoir pu être identifiés</title>
+    <link>https://www.lemonde.fr/planete/article/2026/07/06/seisme-au-venezuela-le-bilan-s-eleve-desormais-a-plus-de-3-300-morts-des-dizaines-de-corps-enterres-sans-avoir-pu-etre-identifies_6720922_3244.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/planete/article/2026/07/06/seisme-au-venezuela-le-bilan-s-eleve-desormais-a-plus-de-3-300-morts-des-dizaines-de-corps-enterres-sans-avoir-pu-etre-identifies_6720922_3244.html</guid>
+    <pubDate>Mon, 06 Jul 2026 00:43:05 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[Les autorités ont annoncé la mort de 3 342 personnes et plus de 16 000 blessés. L’espoir de retrouver les disparus s’amenuise.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/07/05/0/0/8256/4128/644/322/60/0/ddf9679_ftp-1-0jbwulwfscuq-5542984-01-06.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>A Montréal, un festival qui voit toujours le jazz en grand</title>
+    <link>https://www.liberation.fr/culture/musique/a-montreal-un-festival-qui-voit-toujours-le-jazz-en-grand-20260706_DECXSLATFVAKPHSXUUHTA2GV3Y/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/culture/musique/a-montreal-un-festival-qui-voit-toujours-le-jazz-en-grand-20260706_DECXSLATFVAKPHSXUUHTA2GV3Y/</guid>
+    <pubDate>Sun, 05 Jul 2026 22:40:00 +0000</pubDate>
+    <category>Culture</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Légendes du genre ou nouveaux venus, grands shows gratuits en extérieur ou église réformée… Le festival montréalais témoigne de sa grande vitalité pour sa 46e édition.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Olivier Faure annonce qu’il votera la motion de censure des Ecologistes et accuse le gouvernement Lecornu d’« inaction climatique »</title>
+    <link>https://www.lemonde.fr/politique/article/2026/07/06/olivier-faure-annonce-qu-il-votera-la-motion-de-censure-des-ecologistes-et-accuse-le-gouvernement-lecornu-d-inaction-climatique_6720920_823448.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/politique/article/2026/07/06/olivier-faure-annonce-qu-il-votera-la-motion-de-censure-des-ecologistes-et-accuse-le-gouvernement-lecornu-d-inaction-climatique_6720920_823448.html</guid>
+    <pubDate>Mon, 06 Jul 2026 00:14:47 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[Le premier secrétaire du Parti socialiste entend adresser « un avertissement clair » au gouvernement, déplorant que les crédits affectés à la lutte contre le réchauffement climatique soient « systématiquement rabotés ». La position du groupe PS reste à préciser.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/06/30/0/0/7674/3837/644/322/60/0/a039ccc_ftp-1-5coalsnrcpmc-5489300-01-06.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Le détricotage des réglementations chimiques européennes inquiète des organisations de la société civile</title>
+    <link>https://www.lemonde.fr/les-decodeurs/article/2026/07/06/le-detricotage-des-reglementations-chimiques-europeennes-inquiete-des-organisations-de-la-societe-civile_6720919_4355770.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/les-decodeurs/article/2026/07/06/le-detricotage-des-reglementations-chimiques-europeennes-inquiete-des-organisations-de-la-societe-civile_6720919_4355770.html</guid>
+    <pubDate>Mon, 06 Jul 2026 00:01:10 +0000</pubDate>
+    <category>Économie</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[L’initiative « Alliance pour les produits chimiques critiques » de la Commission européenne pousse plus loin encore la dérégulation, selon un rapport des ONG Corporate Europe Observatory et European Environmental Bureau.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/07/02/282/0/3919/1959/644/322/60/0/8569c27_ftp-1-lm7of3ow1lp5-2026-07-02t080805z-1407196777-rc2j5maiz7v6-rtrmadp-3-armenia-eu.JPG" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>EasyJet, deuxième compagnie aérienne européenne, accepte une offre de rachat du fonds américain Castlelake à 6 milliards d’euros</title>
+    <link>https://www.lemonde.fr/economie/article/2026/07/05/easyjet-deuxieme-compagnie-aerienne-europeenne-accepte-une-offre-de-rachat-du-fonds-americain-castlelake-a-6-milliards-d-euros_6720917_3234.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/economie/article/2026/07/05/easyjet-deuxieme-compagnie-aerienne-europeenne-accepte-une-offre-de-rachat-du-fonds-americain-castlelake-a-6-milliards-d-euros_6720917_3234.html</guid>
+    <pubDate>Sun, 05 Jul 2026 23:33:17 +0000</pubDate>
+    <category>Économie</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[La compagnie britannique, qui dessert 164 aéroports dans 38 pays et a transporté 93,4 millions de passagers en 2024-2025, dispose d’actifs très recherchés, comme une flotte de plus de 350 Airbus A320.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/07/05/403/0/4838/2419/644/322/60/0/3653a37_ftp-1-g3afq5cytqvp-2026-07-05t165223z-608641636-rc2mzkaub61w-rtrmadp-3-easyjet-m-a-castlelake.JPG" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Incendies : 10 000 personnes évacuées dans les Pyrénées-Orientales, quelque 3 000 pompiers mobilisés pour lutter contre une vingtaine de feux dans tout l&apos;Hexagone</title>
     <link>https://www.franceinfo.fr/faits-divers/incendie/incendies-10-000-personnes-evacuees-dans-les-pyrenees-orientales-quelque-3-000-pompiers-mobilises-pour-lutter-contre-une-vingtaine-de-feux-dans-tout-l-hexagone_8095373.html#xtor=RSS-3-[lestitres]</link>
     <guid isPermaLink="true">https://www.franceinfo.fr/faits-divers/incendie/incendies-10-000-personnes-evacuees-dans-les-pyrenees-orientales-quelque-3-000-pompiers-mobilises-pour-lutter-contre-une-vingtaine-de-feux-dans-tout-l-hexagone_8095373.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sun, 05 Jul 2026 23:02:39 +0000</pubDate>
+    <pubDate>Sun, 05 Jul 2026 23:13:16 +0000</pubDate>
     <category>Sport</category>
     <source url="https://loupeoff.github.io/loupe">France Info</source>
     <description><![CDATA[La troisième étape du Tour de France, reliant Granollers en Espagne aux Angles, dans les Pyrénées-Orientales, aura bien lieu lundi, mais devra se dérouler "sans public" dans sa partie française.]]></description>
@@ -211,14 +261,14 @@
     <enclosure url="https://img.lemde.fr/2026/07/02/547/135/2104/1052/644/322/60/0/9462a4d_upload-1-z1lo2v8iepvg-mark-dion-between-voltaire-and-poe-hd-rafaele-fanelli-de-toure-rvb.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>EN DIRECT, Brésil-Norvège : des occasions mais toujours pas de but à la pause entre la Seleçao et les Norvégiens</title>
+    <title>Brésil-Norvège : la Norvège élimine la Seleçao et se qualifie en quarts de finale pour la première fois de son histoire grâce à un doublé d’Erling Haaland</title>
     <link>https://www.lemonde.fr/sport/live/2026/07/05/en-direct-bresil-norvege-suivez-le-huitieme-de-finale-de-la-coupe-du-monde-de-football_6720906_3242.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/sport/live/2026/07/05/en-direct-bresil-norvege-suivez-le-huitieme-de-finale-de-la-coupe-du-monde-de-football_6720906_3242.html</guid>
     <pubDate>Sun, 05 Jul 2026 20:00:04 +0000</pubDate>
     <category>Sport</category>
     <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Quelques jours après sa victoire contre le Japon, la Seleçao affronte la Norvège d’Erling Haaland, dimanche soir (22 heures), à New York, pour une place en quarts de finale de la Coupe du monde de football.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/07/05/478/0/4940/2470/644/322/60/0/7e24601_ftp-1-nm027o9smh27-2026-07-05t204940z-1466560198-up1em751luqg5-rtrmadp-3-soccer-worldcup-bra-nor.JPG" type="image/jpeg" length="0" />
+    <description><![CDATA[La Norvège d’Erling Haaland a réalisé une performance historique en éliminant dimanche soir à New York, la Seleçao. Elle rejoint pour la première fois les quarts de finale de la Coupe du monde.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/07/05/390/0/4201/2100/644/322/60/0/f6f2558_ftp-1-qrw8kmq0vyit-2026-07-05t223623z-289804069-up1em751qsmyn-rtrmadp-3-soccer-worldcup-bra-nor.JPG" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Les contrôleurs aériens dans le viseur de la Cour des comptes, qui propose de les sortir de la fonction publique d’Etat</title>
@@ -259,56 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">Numerama</source>
     <description><![CDATA[Oubliez le mythe hollywoodien du premier contact : il n’y aura pas de « grand jour de la révélation » pour la vie extraterrestre. La science n'évolue pas avec des coups de théâtre, mais par de patientes découvertes. Et c’est tant mieux pour la rigueur de nos connaissances, explique l'astrochimiste Hervé Cottin dans The Conversation.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>La «GUD connexion» toujours privilégiée ? Le RN à nouveau soupçonné par le Parlement européen</title>
-    <link>https://www.liberation.fr/politique/la-gud-connexion-toujours-privilegiee-le-rn-a-nouveau-soupconne-par-le-parlement-europeen-20260705_UOVFS6XLLBAIJEML32WBD2CKEA/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/politique/la-gud-connexion-toujours-privilegiee-le-rn-a-nouveau-soupconne-par-le-parlement-europeen-20260705_UOVFS6XLLBAIJEML32WBD2CKEA/</guid>
-    <pubDate>Sun, 05 Jul 2026 17:44:50 +0000</pubDate>
-    <category>Économie</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Dans un rapport révélé ce dimanche par «Mediapart», la direction générale financière de l’institution dénonce des «violations des principes fondamentaux régissant le droit de la commande publique». En cause, des marchés attribués entre 2024 et 2025 par le groupe auquel appartient le RN à Strasbourg à des entreprises liées à des fondateurs du groupuscule identitaire.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Coupe du monde : le Paraguay, les joueurs à 5 000 euros mensuels et l’altérité</title>
-    <link>https://www.liberation.fr/sports/football/coupe-du-monde-le-paraguay-les-joueurs-a-5-000-euros-mensuels-et-lalterite-20260705_WOWMFLPQPJGE5H756JUOHHYPFQ/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/sports/football/coupe-du-monde-le-paraguay-les-joueurs-a-5-000-euros-mensuels-et-lalterite-20260705_WOWMFLPQPJGE5H756JUOHHYPFQ/</guid>
-    <pubDate>Sun, 05 Jul 2026 17:43:51 +0000</pubDate>
-    <category>Économie</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Le monde balisé dans lequel les Bleus évoluent tranche avec celui des Paraguayens : pour exister, ils ont lutté, joué dur, fermé, ressuscitant en quelque sorte le foot d’avant et montrant qu’il est bien à tout le monde.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>&quot;C&apos;est la victoire du concept de famille&quot; : la prise de pouvoir collective d’UAE Team Emirates et du lieutenant Isaac Del Toro sur le Tour de France</title>
-    <link>https://www.franceinfo.fr/tour-de-france/c-est-la-victoire-du-concept-de-famille-la-prise-de-pouvoir-collective-d-uae-team-emirates-et-du-lieutenant-isaac-del-toro-sur-le-tour-de-france_8095229.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/tour-de-france/c-est-la-victoire-du-concept-de-famille-la-prise-de-pouvoir-collective-d-uae-team-emirates-et-du-lieutenant-isaac-del-toro-sur-le-tour-de-france_8095229.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sun, 05 Jul 2026 19:37:36 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[La formation émiratie a livré un premier tour de force sur la Grande Boucle avec la victoire d'Isaac Del Toro sur la colline de Montjuïc, dimanche, au terme d’un final complètement maîtrisé.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/7YPueojbgFnwG4y63HhXNAFv9HI/0x0:5100x2868/432x243/filters:format(jpg)/2026/07/05/6a4a8acde6648391359430.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Belle-Ile-en-Mer : le maire de Locmaria meurt d’un arrêt cardiaque après une altercation avec un plaisancier</title>
-    <link>https://www.liberation.fr/societe/police-justice/belle-ile-en-mer-le-maire-de-locmaria-meurt-dun-arret-cardiaque-apres-une-altercation-avec-un-plaisancier-20260705_7HP374ICA5D77DGIYJC4VKEGBY/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/societe/police-justice/belle-ile-en-mer-le-maire-de-locmaria-meurt-dun-arret-cardiaque-apres-une-altercation-avec-un-plaisancier-20260705_7HP374ICA5D77DGIYJC4VKEGBY/</guid>
-    <pubDate>Sun, 05 Jul 2026 17:35:18 +0000</pubDate>
-    <category>Tech</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Dominique Rousselot, élu de 57 ans, est mort samedi dans la soirée dans un port de l’île bretonne. «Il est trop tôt pour dire les circonstances exactes du décès et de l’altercation», a fait savoir la procureure de la République de Lorient.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>«Quoi qu’il arrive, ma voix ira au RN» : les électeurs partagés entre Bardella le jeune loup et Marine Le Pen l’expérimentée</title>
-    <link>https://www.liberation.fr/politique/elections/quoi-quil-arrive-ma-voix-ira-au-rn-les-electeurs-partages-entre-bardella-le-jeune-loup-et-marine-le-pen-lexperimentee-20260705_UFDJT2WFPZAXDB2KLHL67W22DI/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/politique/elections/quoi-quil-arrive-ma-voix-ira-au-rn-les-electeurs-partages-entre-bardella-le-jeune-loup-et-marine-le-pen-lexperimentee-20260705_UFDJT2WFPZAXDB2KLHL67W22DI/</guid>
-    <pubDate>Sun, 05 Jul 2026 17:35:15 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[A quelques jours de la décision de justice du 7 juillet qui doit dire si Marine Le Pen peut concourir à la présidentielle, les sympathisants du RN rencontrés par «Libé» balancent, même si le président du parti fait davantage recette.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>
