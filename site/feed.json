@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-07-07T20:54:02.725919+00:00",
+  "generated_at": "2026-07-07T22:17:45.815395+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Jugement en appel de Marine Le Pen : des faits graves, des peines légères",
+      "url": "https://www.lemonde.fr/politique/article/2026/07/08/jugement-en-appel-de-marine-le-pen-des-faits-graves-des-peines-legeres_6721556_823448.html",
+      "summary": "Dans sa décision concernant l’affaire des assistants parlementaires européens du Front national, la cour d’appel a apprécié « la proportionnalité de la sanction » au regard de « la liberté de choix de l’électeur, condition d’une expression du suffrage authentiquement démocratique ».",
+      "image": "https://img.lemde.fr/2026/07/07/794/0/6000/3000/644/322/60/0/77fa5a5_upload-1-agw1azp49sfh-cbi1323035.jpg",
+      "published_at": "2026-07-08T00:13:57+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "eaab23fd4bdb"
+    },
+    {
+      "title": "Bousculée et menée de deux buts, l'Argentine de Lionel Messi renverse l'Egypte pour se qualifier en quarts de finale de la Coupe du monde",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/bousculee-et-menee-de-deux-buts-l-argentine-de-lionel-messi-renverse-l-egypte-pour-se-qualifier-en-quarts-de-finale-de-la-coupe-du-monde_8098337.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'Argentine est passée toute proche de la sortie, jeudi contre l'Egypte (3-2), mais s'en est remise au meilleur buteur de l'histoire de la Coupe du monde pour avancer dans la compétition.",
+      "image": "https://www.franceinfo.fr/pictures/yg4p5AjEVolf75DzcQHLVeKpj4M/0x0:7136x4014/432x243/filters:format(jpg)/2026/07/07/6a4d3f3aae310354333951.jpg",
+      "published_at": "2026-07-07T23:56:09+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "b063224436d8"
+    },
+    {
+      "title": "Canicule : une liste des établissements scolaires les plus \"vulnérables\" aux fortes chaleurs sera transmise d'ici au 15 juillet, annonce Edouard Geffray",
+      "url": "https://www.franceinfo.fr/environnement/meteo/direct-canicule-une-grande-partie-de-la-france-confrontee-a-un-nouvel-episode-de-chaleur_8097194.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ils feront l'objet d'un plan pour les adapter aux canicules. Tous les établissements scolaires auront par ailleurs droit à 400 euros de remboursement pour acheter des systèmes de ventilation, a annoncé le ministre de l'Education nationale.",
+      "image": "https://www.franceinfo.fr/pictures/k-U1JQaYteJO-ynmAG_sDjSp7G4/0x106:1024x682/432x243/filters:format(jpg)/2026/07/07/6a4c7eabc85af894425075.jpg",
+      "published_at": "2026-07-07T23:51:38+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "28db34a91620"
+    },
+    {
+      "title": "Les Etats-Unis lancent des \"frappes puissantes\" contre l'Iran en réponse à des attaques de navires dans le détroit d'Ormuz",
+      "url": "https://www.franceinfo.fr/monde/usa/les-etats-unis-lancent-des-frappes-puissantes-contre-l-iran-en-reponse-a-des-attaques-de-navires-dans-le-detroit-d-ormuz_8098526.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'armée américaine affirme répondre à Téhéran après des attaques de \"navires commerciaux transportant des civils\".",
+      "image": "https://www.franceinfo.fr/pictures/VnGEzFQe2m7T-rY-ZO3RPRe2A0Q/0x312:6000x3687/432x243/filters:format(jpg)/2026/07/07/6a4d718f22642915097512.jpg",
+      "published_at": "2026-07-07T23:37:47+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "48ed036e8446"
+    },
+    {
+      "title": "A Cuba, le réseau électrique se rétablit progressivement après une nouvelle panne générale",
+      "url": "https://www.franceinfo.fr/monde/cuba/a-cuba-le-reseau-electrique-se-retablit-progressivement-apres-une-nouvelle-panne-generale_8098514.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le président cubain, Miguel Diaz-Canel, a mis directement en cause lundi la politique américaine de sanctions contre l'île.",
+      "image": "https://www.franceinfo.fr/pictures/WRr4wVEwJLsorerITs6Bs38_XfQ/0x360:3500x2329/432x243/filters:format(jpg)/2026/07/07/6a4d6c4d73ac1837643789.jpg",
+      "published_at": "2026-07-07T23:15:46+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "bc14175f6a61"
+    },
+    {
+      "title": "Une avocate d’Hacène Larbi, alias « le H », a été mise en examen et écrouée, soupçonnée de « communication non autorisée »",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/07/une-avocate-d-hacene-larbi-alias-le-h-a-ete-mise-en-examen-et-ecrouee-soupconnee-de-communication-non-autorisee_6721553_3224.html",
+      "summary": "Des éléments « fournis par la direction générale de l’administration pénitentiaire concernant un détenu » ont permis de soupçonner des « échanges illicites » impliquant l’avocate et « un détenu incarcéré à l’établissement pénitentiaire de Condé-sur-Sarthe », selon le Parquet national anticriminalité organisée, qui ne cite pas le nom d’Hacène Larbi.",
+      "image": "https://img.lemde.fr/2025/04/10/163/0/3000/1500/644/322/60/0/aabf3d8_sirius-fs-upload-1-rtewzxvvtv9y-1744297403460-frame-12.jpg",
+      "published_at": "2026-07-07T22:53:37+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "ca6be2df190f"
+    },
     {
       "title": "Au sommet de l'Otan en Turquie, Donald Trump vante son \"alchimie\" avec Recep Tayyip Erdogan et tacle les Européens",
       "url": "https://www.franceinfo.fr/monde/otan/au-sommet-de-l-otan-en-turquie-donald-trump-vante-son-alchimie-avec-recep-tayyip-erdogan-et-tacle-les-europeens_8098490.html#xtor=RSS-3-[lestitres]",
@@ -17,7 +77,7 @@
       "url": "https://www.lemonde.fr/politique/article/2026/07/07/apres-le-pourvoi-en-cassation-de-marine-le-pen-les-questions-en-suspens_6721552_823448.html",
       "summary": "La cheffe de file du Rassemblement national a annoncé, mardi au 20 heures de TF1, être candidate à la présidentielle de 2027, affirmant qu’elle ferait campagne « sans bracelet électronique ». Le peut-elle ? Eléments de réponse.",
       "image": "https://img.lemde.fr/2026/07/07/0/0/5287/2643/644/322/60/0/b75837b_upload-1-hs2iqvref8cy-cbi1323022.jpg",
-      "published_at": "2026-07-07T22:36:31+02:00",
+      "published_at": "2026-07-07T22:36:30+02:00",
       "source": "Le Monde Politique",
       "category": "Politique",
       "id": "1aac1aab8207"
@@ -47,7 +107,7 @@
       "url": "https://www.lemonde.fr/politique/live/2026/07/07/en-direct-proces-en-appel-de-marine-le-pen-la-candidature-a-la-presidentielle-de-la-leader-d-extreme-droite-qui-se-pourvoit-en-cassation-reste-suspendue-a-une-decision-de-justice_6721429_823448.html",
       "summary": "Marine Le Pen « entend reprendre la main », explique Abel Mestre, éditorialiste au « Monde » : l’arrêt de la Cour de cassation pourrait être rendu, au plus tôt au début 2027. En cas de décision défavorable, elle pourra entamer un bras de fer avec la justice, mettant en avant le fait qu’elle est en campagne depuis plusieurs mois et que l’élection est proche.",
       "image": "https://img.lemde.fr/2026/07/07/174/0/2048/1024/644/322/60/0/f33d860_upload-1-achan7sgd90r-nz84167.jpg",
-      "published_at": "2026-07-07T22:29:10+02:00",
+      "published_at": "2026-07-07T22:29:07+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "97b88decdef5"
@@ -143,16 +203,6 @@
       "id": "d33f63addbad"
     },
     {
-      "title": "Coupe du monde 2026 : la Suisse et la Colombie visent le dernier ticket pour les quarts après la qualification de l'Argentine face à l'Egypte (3-2)",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/direct-coupe-du-monde-2026-la-belgique-ecrase-les-etats-unis-devant-leur-public-avant-les-derniers-8e-de-finale-aujourd-hui_8096333.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le premier match de la journée entre l'Argentine et l'Egypte s'est soldé par une victoire des hommes de Messi (3-2).",
-      "image": "https://www.franceinfo.fr/pictures/utcc6Pq5uoJDmaGu2e9oDvVVQv4/0x264:5096x3131/432x243/filters:format(jpg)/2026/07/07/6a4d568851f1c035726012.jpg",
-      "published_at": "2026-07-07T21:42:21+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "2a606ccddf0b"
-    },
-    {
       "title": "Marine Le Pen condamnée mais candidate pour 2027 : le RN soulagé et ses concurrents embarrassés",
       "url": "https://www.liberation.fr/politique/marine-le-pen-condamnee-mais-candidate-pour-2027-le-rn-soulage-et-ses-concurrents-embarrasses-20260707_AQ2RVIUJLFCB5A4THRVJUUVX54/",
       "summary": "Longtemps mise hors-jeu pour la présidentielle, la députée redevient, après la décision de la cour d’appel, ce mardi 7 juillet, une concurrente «redoutable» pour ses adversaires. Du côté du RN, la relégation de Jordan Bardella au second plan est une satisfaction.",
@@ -223,16 +273,6 @@
       "id": "b89f29b1a933"
     },
     {
-      "title": "Condamnation de Marine Le Pen : Marine Tondelier appelle la leader du RN à \"renoncer\" à être candidate à la présidentielle, LR l'accuse de \"prendre la démocratie en otage\"",
-      "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/direct-marine-le-pen-pourra-t-elle-se-presenter-a-la-presidentielle-la-decision-cruciale-de-la-cour-d-appel-sur-son-ineligibilite-attendue-cet-apres-midi_8090117.html#xtor=RSS-3-[lestitres]",
-      "summary": "Marine Le Pen a annoncé son intention de se présenter à l'élection présidentielle après la réduction de sa peine d'inéligibilité par la cour d'appel de Paris.",
-      "image": "https://www.franceinfo.fr/pictures/cVQSgF9wwvPXS3ug2JSy8re1zUw/0x0:4896x2754/432x243/filters:format(jpg)/2026/07/07/6a4d4227671ae436371986.jpg",
-      "published_at": "2026-07-07T21:05:45+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "aadf9737ac52"
-    },
-    {
       "title": "L’astéroïde Apophis va passer près de la Terre en 2029, voici pourquoi on commence déjà à s’y préparer",
       "url": "https://www.numerama.com/sciences/2291333-lasteroide-apophis-va-passer-pres-de-la-terre-en-2029-voici-pourquoi-on-commence-deja-a-sy-preparer.html",
       "summary": "L'astéroïde Apophis sera visible depuis la Terre en 2029. Un événement rare qui fait déjà l'objet d'études préparatoires, trois ans avant, afin que l'humanité puisse en profiter au maximum.",
@@ -261,46 +301,6 @@
       "source": "Le Monde Politique",
       "category": "Politique",
       "id": "57b5408ec43e"
-    },
-    {
-      "title": "Edouard Philippe estime que Marine Le Pen devra \"s'expliquer\" aux Français sur son choix d'être candidate à la présidentielle après sa condamnation en appel",
-      "url": "https://www.franceinfo.fr/politique/marine-le-pen/video-edouard-philippe-estime-que-marine-le-pen-devra-s-expliquer-aux-francais-sur-son-choix-d-etre-candidate-a-la-presidentielle-apres-sa-condamnation-en-appel_8098403.html#xtor=RSS-3-[lestitres]",
-      "summary": "La leader du Rassemblement national a de nouveau été condamnée en appel dans l'affaire des assistants parlementaires européens du FN, mais sa peine d'inéligibilité a été réduite, lui permettant de se présenter.",
-      "image": "https://www.franceinfo.fr/pictures/KZ-XKPJhwbpF2bLvp8EXhTQoMEA/61x32:1524x855/432x243/filters:format(jpg)/2026/07/07/6a4d487414ab9404257945.jpg",
-      "published_at": "2026-07-07T20:55:46+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "866cd3836f58"
-    },
-    {
-      "title": "Election présidentielle 2027 : Marine Le Pen annonce qu’elle sera candidate",
-      "url": "https://www.lemonde.fr/politique/video/2026/07/07/election-presidentielle-2027-marine-le-pen-annonce-qu-elle-sera-candidate_6721544_823448.html",
-      "summary": "La triple candidate à l’élection présidentielle avait fixé deux conditions à sa candidature : celle, bien entendu, d’être éligible à la date du premier tour, le 18 avril 2027, et l’absence de port d’un bracelet électronique.",
-      "image": "https://img.lemde.fr/2026/07/07/432/0/5152/2576/644/322/60/0/1feb8fa_ftp-1-5qib6iww8kbl-5561659-01-06.jpg",
-      "published_at": "2026-07-07T20:53:56+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "cdd9a05c0a79"
-    },
-    {
-      "title": "Assemblée : le gouvernement force l’avancée d’un texte sur l’usage des armes à feu par la police",
-      "url": "https://www.liberation.fr/societe/police-justice/assemblee-le-gouvernement-force-lavancee-dun-texte-sur-lusage-des-armes-a-feu-par-la-police-20260707_TRECXLPN2NGTPEFC7ITLMPC5VQ/",
-      "summary": "Initié par LR et soutenu par le camp gouvernemental et le RN, le projet de loi instaurant une présomption de légitime défense pour les forces de l’ordre a été poussé par le ministre de l’Intérieur Laurent Nuñez, à l’aide de l’article 44 alinéa 2.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-07T18:53:21+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "26a443a73383"
-    },
-    {
-      "title": "Bousculée et menée de deux buts, l'Argentine de Lionel Messi renverse l'Egypte pour se qualifier en quarts de finale de la Coupe du monde",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/bousculee-et-menee-de-deux-buts-l-argentine-de-lionel-messi-renverse-l-egypte-pour-se-qualifier-en-quarts-de-finale-de-la-coupe-du-monde_8098337.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'Argentine est passée toute proche de la sortie, jeudi contre l'Egypte (3-2), mais s'en est remise au meilleur buteur de l'histoire de la Coupe du monde pour avancer dans la compétition.",
-      "image": "https://www.franceinfo.fr/pictures/yg4p5AjEVolf75DzcQHLVeKpj4M/0x0:7136x4014/432x243/filters:format(jpg)/2026/07/07/6a4d3f3aae310354333951.jpg",
-      "published_at": "2026-07-07T20:39:50+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "b063224436d8"
     }
   ]
 }
