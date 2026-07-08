@@ -7,16 +7,46 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Tue, 07 Jul 2026 22:17:45 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 00:06:28 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>« Je me sens salie, humiliée » : au procès de l’administrateur de CFake, site de deepfakes à caractère sexuel</title>
+    <link>https://www.lemonde.fr/pixels/article/2026/07/08/je-me-sens-salie-humiliee-au-proces-de-l-administrateur-de-cfake-site-de-deepfakes-a-caractere-sexuel_6721558_4408996.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/pixels/article/2026/07/08/je-me-sens-salie-humiliee-au-proces-de-l-administrateur-de-cfake-site-de-deepfakes-a-caractere-sexuel_6721558_4408996.html</guid>
+    <pubDate>Wed, 08 Jul 2026 00:41:53 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[Un informaticien niçois a été reconnu coupable, mardi 7 juillet, d’avoir administré cette plateforme de montages et hypertrucages pornographiques mettant en scène des personnalités. Il a notamment été condamné à deux ans de prison, dont un avec sursis, ainsi qu’à 83 000 euros pour les parties civiles.]]></description>
+    <enclosure url="https://img.lemde.fr/2022/07/26/301/0/2100/1050/644/322/60/0/85d20ee_1658853854222-deepfake-porno.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>«Enfants de Palestine» : les cinéastes Mohamed Mesbah et Shayma’ Awawdeh, passe-murailles de la guerre</title>
+    <link>https://www.liberation.fr/culture/cinema/enfants-de-palestine-les-cineastes-mohamed-mesbah-et-shayma-awawdeh-passe-murailles-de-la-guerre-20260708_DFMVOORQZBDMNHHPMAWWW5DZQM/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/culture/cinema/enfants-de-palestine-les-cineastes-mohamed-mesbah-et-shayma-awawdeh-passe-murailles-de-la-guerre-20260708_DFMVOORQZBDMNHHPMAWWW5DZQM/</guid>
+    <pubDate>Tue, 07 Jul 2026 22:20:00 +0000</pubDate>
+    <category>Société</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Deux courts métrages, l’un suivant un concepteur de jeu vidéo, l’autre retrouvant des souvenirs d’enfance, se font les témoins de la Cisjordanie occupée.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Les Etats-Unis frappent l’Iran et rétablissent leurs sanctions pétrolières après de nouvelles attaques dans le détroit d’Ormuz</title>
+    <link>https://www.lemonde.fr/international/article/2026/07/08/les-etats-unis-frappent-l-iran-apres-de-nouvelles-attaques-de-navires-dans-le-detroit-d-ormuz_6721557_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/07/08/les-etats-unis-frappent-l-iran-apres-de-nouvelles-attaques-de-navires-dans-le-detroit-d-ormuz_6721557_3210.html</guid>
+    <pubDate>Wed, 08 Jul 2026 00:19:04 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[La reprise des tensions entre Washington et Téhéran intervient vingt jours après la signature d’un protocole d’accord entre les deux parties, censé garantir la sécurité de cette voie maritime, essentielle au commerce mondial des hydrocarbures.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/07/07/101/0/1200/600/644/322/60/0/8f7500c_upload-1-pfp79ctwdtby-hmouqyawaaaghp0.jpeg" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>Jugement en appel de Marine Le Pen : des faits graves, des peines légères</title>
     <link>https://www.lemonde.fr/politique/article/2026/07/08/jugement-en-appel-de-marine-le-pen-des-faits-graves-des-peines-legeres_6721556_823448.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/politique/article/2026/07/08/jugement-en-appel-de-marine-le-pen-des-faits-graves-des-peines-legeres_6721556_823448.html</guid>
     <pubDate>Wed, 08 Jul 2026 00:13:57 +0000</pubDate>
     <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Politique</source>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[Dans sa décision concernant l’affaire des assistants parlementaires européens du Front national, la cour d’appel a apprécié « la proportionnalité de la sanction » au regard de « la liberté de choix de l’électeur, condition d’une expression du suffrage authentiquement démocratique ».]]></description>
     <enclosure url="https://img.lemde.fr/2026/07/07/794/0/6000/3000/644/322/60/0/77fa5a5_upload-1-agw1azp49sfh-cbi1323035.jpg" type="image/jpeg" length="0" />
   </item>
@@ -61,6 +91,16 @@
     <enclosure url="https://www.franceinfo.fr/pictures/WRr4wVEwJLsorerITs6Bs38_XfQ/0x360:3500x2329/432x243/filters:format(jpg)/2026/07/07/6a4d6c4d73ac1837643789.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
+    <title>Lionel Messi délivre une renversante Argentine, qui a frôlé l’élimination face à l’Egypte à la Coupe du monde 2026</title>
+    <link>https://www.lemonde.fr/sport/article/2026/07/07/lionel-messi-delivre-une-renversante-argentine-qui-a-frole-l-elimination-face-a-l-egypte-a-la-coupe-du-monde-2026_6721554_3242.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/sport/article/2026/07/07/lionel-messi-delivre-une-renversante-argentine-qui-a-frole-l-elimination-face-a-l-egypte-a-la-coupe-du-monde-2026_6721554_3242.html</guid>
+    <pubDate>Tue, 07 Jul 2026 22:57:20 +0000</pubDate>
+    <category>Culture</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[Le capitaine argentin, passeur décisif puis buteur, a été l’un des grands acteurs de la remontée de l’Albiceleste, menée 2-0 à dix minutes de la fin, mais qui se qualifie pour les quarts de finale, mardi (3-2).]]></description>
+    <enclosure url="https://img.lemde.fr/2026/07/07/21/0/3070/1535/644/322/60/0/57d4238_ftp-1-kugk0dti3qvg-22cf05c88ce04817a303b5991c6e5169-0-eb4cffecd2d449f3b35d88fb582e78c6.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
     <title>Une avocate d’Hacène Larbi, alias « le H », a été mise en examen et écrouée, soupçonnée de « communication non autorisée »</title>
     <link>https://www.lemonde.fr/societe/article/2026/07/07/une-avocate-d-hacene-larbi-alias-le-h-a-ete-mise-en-examen-et-ecrouee-soupconnee-de-communication-non-autorisee_6721553_3224.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/societe/article/2026/07/07/une-avocate-d-hacene-larbi-alias-le-h-a-ete-mise-en-examen-et-ecrouee-soupconnee-de-communication-non-autorisee_6721553_3224.html</guid>
@@ -87,7 +127,7 @@
     <pubDate>Tue, 07 Jul 2026 22:36:30 +0000</pubDate>
     <category>Politique</category>
     <source url="https://loupeoff.github.io/loupe">Le Monde Politique</source>
-    <description><![CDATA[La cheffe de file du Rassemblement national a annoncé, mardi au 20 heures de TF1, être candidate à la présidentielle de 2027, affirmant qu’elle ferait campagne « sans bracelet électronique ». Le peut-elle ? Eléments de réponse.]]></description>
+    <description><![CDATA[La cheffe de file du Rassemblement national a annoncé, mardi au « 20 heures » de TF1, être candidate à la présidentielle de 2027, affirmant qu’elle ferait campagne « sans bracelet électronique ». Le peut-elle ? Eléments de réponse.]]></description>
     <enclosure url="https://img.lemde.fr/2026/07/07/0/0/5287/2643/644/322/60/0/b75837b_upload-1-hs2iqvref8cy-cbi1323022.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
@@ -104,7 +144,7 @@
     <title>EN DIRECT, canicule : La situation reste « difficile » dans l’incendie des Pyrénées-Orientales ; le feu progresse dans le sud de la Drôme</title>
     <link>https://www.lemonde.fr/planete/live/2026/07/07/en-direct-canicule-la-situation-reste-difficile-dans-l-incendie-des-pyrenees-orientales-le-feu-progresse-dans-le-sud-de-la-drome_6720911_3244.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/planete/live/2026/07/07/en-direct-canicule-la-situation-reste-difficile-dans-l-incendie-des-pyrenees-orientales-le-feu-progresse-dans-le-sud-de-la-drome_6720911_3244.html</guid>
-    <pubDate>Tue, 07 Jul 2026 22:31:30 +0000</pubDate>
+    <pubDate>Tue, 07 Jul 2026 22:31:29 +0000</pubDate>
     <category>Sport</category>
     <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[Un incendie s’est déclaré, mardi, en Corse-du-Sud, dans la commune d’Ucciani, tandis qu’un autre feu a été signalé à Saint-Georges-les-Bains, dans l’Ardèche. Dans les Pyrénées-Orientales, où l’incendie a parcouru près de 5 000 hectares, « la situation reste difficile avec la reprise de la tramontane » mercredi, « des températures élevées et un niveau d’humidité très bas », a prévenu la préfecture.]]></description>
@@ -116,8 +156,8 @@
     <guid isPermaLink="true">https://www.lemonde.fr/politique/live/2026/07/07/en-direct-proces-en-appel-de-marine-le-pen-la-candidature-a-la-presidentielle-de-la-leader-d-extreme-droite-qui-se-pourvoit-en-cassation-reste-suspendue-a-une-decision-de-justice_6721429_823448.html</guid>
     <pubDate>Tue, 07 Jul 2026 22:29:07 +0000</pubDate>
     <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Marine Le Pen « entend reprendre la main », explique Abel Mestre, éditorialiste au « Monde » : l’arrêt de la Cour de cassation pourrait être rendu, au plus tôt au début 2027. En cas de décision défavorable, elle pourra entamer un bras de fer avec la justice, mettant en avant le fait qu’elle est en campagne depuis plusieurs mois et que l’élection est proche.]]></description>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Politique</source>
+    <description><![CDATA[Marine Le Pen « entend reprendre la main », explique Abel Mestre, éditorialiste au « Monde » : l’arrêt de la Cour de cassation pourrait être rendu, au plus tôt, au début 2027. En cas de décision défavorable, elle pourra entamer un bras de fer avec la justice, mettant en avant le fait qu’elle est en campagne depuis plusieurs mois et que l’élection est proche.]]></description>
     <enclosure url="https://img.lemde.fr/2026/07/07/174/0/2048/1024/644/322/60/0/f33d860_upload-1-achan7sgd90r-nz84167.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
@@ -146,7 +186,7 @@
     <guid isPermaLink="true">https://www.lemonde.fr/societe/article/2026/07/07/avec-le-soutien-du-rn-gerald-darmanin-fait-adopter-son-projet-de-loi-sur-la-justice-criminelle-ampute-de-plusieurs-mesures_6721550_3224.html</guid>
     <pubDate>Tue, 07 Jul 2026 22:06:04 +0000</pubDate>
     <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Politique</source>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[Après trois jours de débats parlementaires et une succession de concessions, l’Assemblée nationale a voté en faveur du texte en première lecture, mardi 7 juillet.]]></description>
     <enclosure url="https://img.lemde.fr/2026/07/07/170/0/2048/1024/644/322/60/0/3115a99_upload-1-jywvq0t5op1o-nz84141.jpg" type="image/jpeg" length="0" />
   </item>
@@ -234,7 +274,7 @@
     <title>Tour de France 2026 : après les épreuves et la fournaise, Torstein Traeen, maillot jaune surprise avec l’aval de Tadej Pogacar</title>
     <link>https://www.lemonde.fr/sport/article/2026/07/07/tour-de-france-2026-apres-les-epreuves-et-la-fournaise-torstein-traeen-maillot-jaune-surprise-avec-l-aval-de-tadej-pogacar_6721548_3242.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/sport/article/2026/07/07/tour-de-france-2026-apres-les-epreuves-et-la-fournaise-torstein-traeen-maillot-jaune-surprise-avec-l-aval-de-tadej-pogacar_6721548_3242.html</guid>
-    <pubDate>Tue, 07 Jul 2026 21:19:38 +0000</pubDate>
+    <pubDate>Tue, 07 Jul 2026 21:19:36 +0000</pubDate>
     <category>Politique</category>
     <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[Au terme d’une étape remportée à Foix par le Danois Mads Pedersen, mardi, le Norvégien de l’équipe Uno-X Mobility a pris le maillot jaune au Slovène, visiblement enclin à s’en débarrasser pour cette fois.]]></description>
@@ -269,46 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">Libération</source>
     <description><![CDATA[Soixante-et-un départements sont également placés par Météo-France ce mardi 7 juillet en risque élevé d’incendies, dont trois en risque très élevé.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>L’Assemblée nationale approuve la présomption d’usage légitime des armes pour les forces de l’ordre</title>
-    <link>https://www.lemonde.fr/politique/article/2026/07/07/l-assemblee-nationale-approuve-la-presomption-d-usage-legitime-des-armes-pour-les-forces-de-l-ordre_6721546_823448.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/politique/article/2026/07/07/l-assemblee-nationale-approuve-la-presomption-d-usage-legitime-des-armes-pour-les-forces-de-l-ordre_6721546_823448.html</guid>
-    <pubDate>Tue, 07 Jul 2026 21:09:07 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Les députés de gauche, dénonçant un potentiel « permis de tuer », ont tenté d’empêcher le vote par un barrage d’amendements, contourné par le gouvernement à l’aide d’un article constitutionnel.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/07/07/648/0/1365/682/644/322/60/0/34f9644_upload-1-9pl57q9mrm1f-nz84062.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>L’astéroïde Apophis va passer près de la Terre en 2029, voici pourquoi on commence déjà à s’y préparer</title>
-    <link>https://www.numerama.com/sciences/2291333-lasteroide-apophis-va-passer-pres-de-la-terre-en-2029-voici-pourquoi-on-commence-deja-a-sy-preparer.html</link>
-    <guid isPermaLink="true">https://www.numerama.com/sciences/2291333-lasteroide-apophis-va-passer-pres-de-la-terre-en-2029-voici-pourquoi-on-commence-deja-a-sy-preparer.html</guid>
-    <pubDate>Tue, 07 Jul 2026 19:05:00 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">Numerama</source>
-    <description><![CDATA[L'astéroïde Apophis sera visible depuis la Terre en 2029. Un événement rare qui fait déjà l'objet d'études préparatoires, trois ans avant, afin que l'humanité puisse en profiter au maximum.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Les enfants auraient parlé «pour satisfaire leurs parents» : les familles sous le choc après la relaxe d’un animateur du périscolaire</title>
-    <link>https://www.liberation.fr/societe/education/les-enfants-auraient-parle-pour-satisfaire-leurs-parents-les-familles-sous-le-choc-apres-la-relaxe-dun-animateur-20260707_BPYS67CY7JGVXADTOPRJ4LG3GI/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/societe/education/les-enfants-auraient-parle-pour-satisfaire-leurs-parents-les-familles-sous-le-choc-apres-la-relaxe-dun-animateur-20260707_BPYS67CY7JGVXADTOPRJ4LG3GI/</guid>
-    <pubDate>Tue, 07 Jul 2026 19:04:37 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Le tribunal correctionnel de Paris a relaxé, mardi 7 juillet, David G. des faits d’agressions sexuelles dénoncés par neuf enfants de maternelle, ne le condamnant que pour harcèlement sexuel sur deux collègues.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>« Le Monde » publie les principaux extraits de la décision en appel condamnant Marine Le Pen : « La gravité objective des faits est avérée »</title>
-    <link>https://www.lemonde.fr/societe/article/2026/07/07/le-monde-publie-les-principaux-extraits-de-la-decision-en-appel-condamnant-marine-le-pen-la-gravite-objective-des-faits-est-averee_6721545_3224.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/societe/article/2026/07/07/le-monde-publie-les-principaux-extraits-de-la-decision-en-appel-condamnant-marine-le-pen-la-gravite-objective-des-faits-est-averee_6721545_3224.html</guid>
-    <pubDate>Tue, 07 Jul 2026 21:01:08 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Politique</source>
-    <description><![CDATA[Dans son arrêt, la cour d’appel détaille les motivations de sa décision, rendue mardi 7 juillet, dans l’affaire des assistants parlementaires européens du Front national, concernant la cheffe de file du Rassemblement national.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/07/07/876/0/6000/3000/644/322/60/0/f75070c_upload-1-lupkgj05f0tp-cbi1323053.jpg" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>
