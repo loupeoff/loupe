@@ -1,16 +1,276 @@
 {
-  "generated_at": "2026-07-08T17:47:07.323115+00:00",
+  "generated_at": "2026-07-08T19:47:07.233177+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "EN DIRECT - Incendies : 7800 hectares ont brûlé en huit jours, près du double de tout le mois de juillet 2025",
+      "title": "«Que ce soit dans le Nord ou dans le Sud, les incendies sont l’affaire de tous»",
+      "url": "https://www.liberation.fr/environnement/que-ce-soit-dans-le-nord-ou-dans-le-sud-les-incendies-sont-laffaire-de-tous-20260708_IVDB3LPQLREB7FWY7BOIAC2KWA/",
+      "summary": "Ce début juillet 2026, les alertes aux feux de forêt s’accumulent. Dans les territoires habituellement moins touchés, comme le département des Deux-Sèvres, coordination, prévention et retours d’expérience sont les maîtres mots des sapeurs-pompiers.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-08T19:45:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "336ef65accb0"
+    },
+    {
+      "title": "Moyen-Orient : Trump assure que les affrontements avec l’Iran, «s’arrêteront très rapidement»",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-les-hostilites-reprennent-entre-les-etats-unis-et-liran-trump-affirme-que-le-cessez-le-feu-est-termine-20260708_4Z7JFPA7WFDM3AT2XQ2MCAML5A/",
+      "summary": "Les frappes ont repris dans la nuit de mardi à mercredi entre les deux pays, en dépit d’un accord visant à mettre fin à la guerre entré en vigueur le mois dernier.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-08T19:41:12+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "d561300758d7"
+    },
+    {
+      "title": "EN DIRECT, guerre au Moyen-Orient : le vice-président américain, J. D. Vance, menace l’Iran d’une réponse militaire en cas de fermeture du détroit d’Ormuz",
+      "url": "https://www.lemonde.fr/international/live/2026/07/08/en-direct-guerre-au-moyen-orient-le-vice-president-americain-j-d-vance-menace-l-iran-d-une-reponse-militaire-en-cas-de-fermeture-du-detroit-d-ormuz_6721826_3210.html",
+      "summary": "Donald Trump avait menacé, un peu plus tôt mercredi, de détruire des infrastructures civiles iraniennes et de « prendre le contrôle de l’île de Kharg ». Les bombardements ont repris durant la nuit de mardi à mercredi dans le Golfe, au moment où les dirigeants des pays de l’OTAN se réunissaient en Turquie.",
+      "image": "https://img.lemde.fr/2026/07/08/250/0/3000/1500/644/322/60/0/594d3f0_ftp-1-aaaxxvyltt2a-5571550-01-06.jpg",
+      "published_at": "2026-07-08T21:39:17+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "54361a67015f"
+    },
+    {
+      "title": "Incendies : le risque est \"écarté\" concernant le site d'armement Seveso dans le Cher, le confinement des habitants de Morthomiers est \"levé\"",
+      "url": "https://www.franceinfo.fr/environnement/meteo/direct-de-fortes-chaleurs-etouffent-la-quasi-totalite-du-pays-67-departements-en-vigilance-orange-a-la-canicule_8098853.html#xtor=RSS-3-[lestitres]",
+      "summary": "Tous les accès au site avaient été interdits, l'usine présentant \"un risque d'explosion et d'incendie\", annonce la préfecture du Cher.",
+      "image": "https://www.franceinfo.fr/pictures/xXTi9tGOWdI-19c-mwOULJNyKxg/0x369:3543x2362/432x243/filters:format(jpg)/2026/07/08/6a4e96261ebe0531791569.jpg",
+      "published_at": "2026-07-08T21:35:58+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "5c33d63fd01e"
+    },
+    {
+      "title": "«Je n’ai jamais violenté ma femme» : au procès du féminicide d’Assia B., l’accusé nie des violences conjugales et exaspère les parties civiles",
+      "url": "https://www.liberation.fr/societe/police-justice/je-nai-jamais-violente-ma-femme-au-proces-du-feminicide-dassia-b-laccuse-nie-des-violences-conjugales-et-exaspere-les-parties-civiles-20260708_SM2Z2ZR4XRG6PBQDTZRMQXWPEU/",
+      "summary": "Jugé pour le meurtre puis le démembrement de sa femme en 2023, Lakhdar «Youcef» M. a longuement été interrogé sur les faits ce mercredi 8 juillet au palais de justice de Paris. La cour a tenté de savoir si ses actes étaient, comme dans de nombreux féminicides, le point final de violences habituelles.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-08T19:26:13+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "d677b6aff86d"
+    },
+    {
+      "title": "EN DIRECT - Incendies : 7 800 hectares ont brûlé en huit jours, près du double de tout le mois de juillet 2025",
       "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-67-departements-en-vigilance-orange-20260708_VDEYU2QINNDDPC57DNR4A6RUM4/",
       "summary": "Des centaines de pompiers sont toujours mobilisés dans le sud de la France contre les flammes, tandis que la vague de chaleur qui a débuté samedi se poursuit ce mercredi. Météo France place 72 départements en vigilance orange pour la journée de jeudi.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-08T17:43:18+00:00",
+      "published_at": "2026-07-08T19:15:13+00:00",
       "source": "Libération",
       "category": "Politique",
       "id": "70a332d2ba3e"
+    },
+    {
+      "title": "Un incendie dans le Cher se déclare vers un site de production d’armement classé Seveso, le risque d’explosion «écarté»",
+      "url": "https://www.liberation.fr/environnement/un-incendie-dans-le-cher-se-declare-vers-un-site-de-production-darmement-classe-seveso-le-risque-dexplosion-ecarte-20260708_XV2WPNVH6VDUJMP7DXFFFNI734/",
+      "summary": "Un important feu de forêt s’est déclaré ce mercredi près de Bourges, dans le Cher, et menace une usine, alerte la préfecture qui évoque un «risque d’explosion et d’incendie».",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-08T19:14:51+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "2c8f8de30288"
+    },
+    {
+      "title": "\"Elle ruinera le pays\" : Bruno Retailleau tacle Marine Le Pen après la condamnation de la candidate du RN à la présidentielle en appel",
+      "url": "https://www.franceinfo.fr/politique/bruno-retailleau/video-elle-ruinera-le-pays-bruno-retailleau-tacle-marine-le-pen-apres-la-condamnation-de-la-candidate-du-rn-a-la-presidentielle-en-appel_8100068.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'ancien ministre de l'Intérieur, candidat à la présidentielle, était l'invité du \"20 Heures\" de France 2 mercredi.",
+      "image": "https://www.franceinfo.fr/pictures/J2mSIjyMvyEi7QRMLSyU23j3pxM/0x0:1523x856/432x243/filters:format(jpg)/2026/07/08/6a4e9b2f11faf058557309.jpg",
+      "published_at": "2026-07-08T21:10:45+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "ab92ab5f3e17"
+    },
+    {
+      "title": "Condamnation de Marine Le Pen : la Cour de cassation «pourrait» se prononcer «au plus tard début avril 2027» sur son pourvoi",
+      "url": "https://www.liberation.fr/politique/elections/en-direct-condamnation-de-marine-le-pen-elle-est-innocente-et-le-prouvera-affirme-son-directeur-de-campagne-20260708_FPMVHCWM6VHONBBQHA6XSYOOEU/",
+      "summary": "Au lendemain de sa condamnation pour détournement de fonds et sa décision de concourir à la présidentielle de 2027, la cheffe de file des députés RN était ce mercredi avec Jordan Bardella au marché de La Flèche, dans la Sarthe.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-08T19:09:40+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "13911dfd8fc4"
+    },
+    {
+      "title": "Inceste : une commission d’enquête parlementaire émet des propositions en faveur des « mères protectrices »",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/08/inceste-une-commission-d-enquete-parlementaire-emet-des-propositions-en-faveur-des-meres-protectrices_6721902_3224.html",
+      "summary": "La commission, qui fait le constat d’une absence de politique publique en matière d’inceste, préconise notamment de dépénaliser la non-représentation d’enfants et plaide en faveur d’une ordonnance de protection immédiate en cas de suspicion de violences incestueuses.",
+      "image": "https://img.lemde.fr/2026/07/05/1771/0/3546/1773/644/322/60/0/564d96d_upload-1-megl1luqcna5-camillegharbi-le-monde-marche-pour-une-loi-integrale-contre-les-vss-1741.jpg",
+      "published_at": "2026-07-08T20:58:45+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "9aeddd5922d1"
+    },
+    {
+      "title": "Pourvoi en cassation : Marine Le Pen est-elle toujours présumée innocente ?",
+      "url": "https://www.liberation.fr/checknews/pourvoi-en-cassation-marine-le-pen-est-elle-toujours-presumee-innocente-20260708_6XLIWJZAGNGODBLTUMN2WWYYFQ/",
+      "summary": "La cheffe de file du RN a été reconnue coupable de détournement de fonds publics par la cour d’appel de Paris, mardi, dans le cadre de l’affaire des assistants parlementaires européens du Front national. Mais reste présumée innocente dans l’attente d’une décision de la Cour de cassation.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-08T18:54:18+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "d3dec3b2ee78"
+    },
+    {
+      "title": "Candidature de Marine Le Pen à la présidentielle : la balle est dans son clan",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/candidature-de-marine-le-pen-a-la-presidentielle-la-balle-est-dans-son-clan-20260708_SAJDBRXZMBHKHGPNN4R42WW4WE/",
+      "summary": "La cheffe de file du Rassemblement national a lancé, mercredi 8 juillet, sa campagne avec un bain de foule et une reprise en main totale de son parti. Malgré ses sourires, l’hypothèse d’une inéligibilité pour 2027 reste possible.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-08T18:48:48+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "9e31a14bd663"
+    },
+    {
+      "title": "Agressions sexuelles dans le périscolaire à Paris : le parquet fait appel de la relaxe d’un ex-animateur de l’école maternelle Alphonse-Baudin",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/08/agressions-sexuelles-dans-le-periscolaire-a-paris-le-parquet-fait-appel-de-la-relaxe-d-un-ex-animateur-de-l-ecole-maternelle-alphonse-baudin_6721901_3224.html",
+      "summary": "David G., 36 ans, était poursuivi pour agressions sexuelles sur neuf enfants âgés de 3 à 5 ans. Il a été condamné à huit mois de prison avec sursis pour harcèlement sexuel contre deux collègues.",
+      "image": "https://img.lemde.fr/2025/04/10/23/0/3000/1500/644/322/60/0/7991972_sirius-fs-upload-1-sc6fysirrfv1-1744297403208-frame-11.jpg",
+      "published_at": "2026-07-08T20:44:43+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "1a4342721066"
+    },
+    {
+      "title": "L’équipage du « Ponant » libéré contre rançon, en 2008 : quand un armateur privé conteste les prérogatives de l’Etat",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/08/l-equipage-du-ponant-libere-contre-rancon-en-2008-quand-un-armateur-prive-conteste-les-prerogatives-de-l-etat_6721899_3224.html",
+      "summary": "« Dans les coulisses des prises d’otages » (2/4). En avril 2008, le « Ponant » est pris d’assaut par des pirates somaliens dans le golfe d’Aden, avec 30 personnes à bord, dont 22 Français. La marine, la DGSE et le GIGN se disputent la direction des opérations, et le gouvernement tergiverse. Malgré les réticences de l’Elysée, CMA CGM, l’armateur, impose le paiement d’une rançon.",
+      "image": "https://img.lemde.fr/2026/07/03/185/86/5342/2671/644/322/60/0/02b654f_upload-1-cmmmwvi3z1gh-illu-lemonde-otagesponant-copie.jpg",
+      "published_at": "2026-07-08T20:37:55+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "6db24b7cf6ef"
+    },
+    {
+      "title": "Canicule : 40,5°C à Marseille, 41°C à Sète, 40,7°C à Barcelone... Des records absolus de températures franchis dans le Sud",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-40-5-c-a-marseille-41-c-a-sete-40-7-c-a-barcelone-des-records-absolus-de-temperatures-franchis-dans-le-sud_8100038.html#xtor=RSS-3-[lestitres]",
+      "summary": "Météo-France a enregistré des valeurs inédites, tous mois confondus, alors que la vigilance orange s'étendra de 67 à 72 départements jeudi.",
+      "image": "https://www.franceinfo.fr/pictures/yRM32g-SJdR-1ioIsi6tCh33f8k/0x0:3987x2242/432x243/filters:format(jpg)/2026/07/08/6a4e871834711731110106.jpg",
+      "published_at": "2026-07-08T20:37:27+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "747260960c55"
+    },
+    {
+      "title": "Tour de France 2026 : la victoire au sprint d’Olav Kooij ramène un peu de normalité à une édition qui en manquait",
+      "url": "https://www.lemonde.fr/sport/article/2026/07/08/tour-de-france-2026-la-victoire-au-sprint-d-olav-kooij-ramene-un-peu-de-normalite-a-une-edition-qui-en-manquait_6721898_3242.html",
+      "summary": "Le Néerlandais, coéquipier de Paul Seixas au sein de l’équipe Decathlon-CMA CGM, a été le plus rapide, mercredi, à Pau, dans un final promis à une arrivée groupée et qui a vu les chutes et les cassures se multiplier.",
+      "image": "https://img.lemde.fr/2026/07/08/24/0/4243/2121/644/322/60/0/69f67af_ftp-1-aeczsrblrbnt-5569597-01-06.jpg",
+      "published_at": "2026-07-08T20:36:21+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "54b9e8a09229"
+    },
+    {
+      "title": "La justice ordonne à la mairie LFI de Vaulx-en-Velin de retirer le drapeau palestinien de son fronton",
+      "url": "https://www.lemonde.fr/politique/article/2026/07/08/la-justice-ordonne-a-la-mairie-lfi-de-vaulx-en-velin-de-retirer-le-drapeau-palestinien-de-son-fronton_6721897_823448.html",
+      "summary": "Le maire de la commune, Abdelkader Lahmar, a déclaré qu’il n’était « pas question de décrocher le drapeau (…) dans l’attente du jugement au fond ».",
+      "image": "https://img.lemde.fr/2026/07/08/366/0/5837/2918/644/322/60/0/24eb14e_upload-1-14abpeg9nlsr-000-a62c9re.jpg",
+      "published_at": "2026-07-08T20:35:10+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "9224f46b1667"
+    },
+    {
+      "title": "Interdiction des réseaux aux moins de 15 ans, le bras de fer se poursuit entre le Sénat et le gouvernement",
+      "url": "https://www.liberation.fr/economie/economie-numerique/interdiction-des-reseaux-aux-moins-de-15-ans-le-bras-de-fer-se-poursuit-entre-le-senat-et-le-gouvernement-20260708_SHTNFOV33RDGBILWVZYPGPTNHQ/",
+      "summary": "La chambre haute continue de défendre sa version du texte, prévoyant une «liste noire» regroupant les réseaux estimés les plus dangereux pour les ados qui feraient l’objet d’une interdiction totale.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-08T18:34:06+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "82fb38fa52d7"
+    },
+    {
+      "title": "Après son pourvoi en cassation, Marine Le Pen est-elle assurée d'échapper au bracelet électronique pendant sa campagne présidentielle ?",
+      "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/apres-son-pourvoi-en-cassation-marine-le-pen-est-elle-assuree-d-echapper-au-bracelet-electronique-pendant-sa-campagne-presidentielle_8099273.html#xtor=RSS-3-[lestitres]",
+      "summary": "La Cour de cassation a déclaré mercredi qu'elle \"pourrait\" se prononcer \"au plus tard début avril 2027\" sur le recours de la dirigeante d'extrême droite contre sa condamnation dans l'affaire des assistants d'eurodéputés du FN. Les deux tours de l'élection présidentielle sont prévus le 18 avril et le 2 mai.",
+      "image": "https://www.franceinfo.fr/pictures/3hsgQPXHxjDJeQhVAleqPwNswu0/0x0:5152x2898/432x243/filters:format(jpg)/2026/07/08/6a4e24357936d528483269.jpg",
+      "published_at": "2026-07-08T20:31:23+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a63424061ea6"
+    },
+    {
+      "title": "Premier procès public de violences sexuelles dans le périscolaire parisien : l’animateur d’une école maternelle relaxé, le parquet fait appel",
+      "url": "https://www.liberation.fr/societe/police-justice/premier-proces-public-de-violences-sexuelles-dans-le-periscolaire-parisien-lanimateur-dune-ecole-maternelle-relaxe-au-benefice-du-doute-20260707_2YABA43BSRF6FHJCLRTF73PBYA/",
+      "summary": "David G., ex-animateur de 36 ans à l’école maternelle Alphonse-Baudin à Paris, suspendu depuis avril 2024, a été relaxé mardi 7 juillet, mais condamné à huit mois de prison avec sursis pour harcèlement sexuel sur deux collègues. Il était accusé d’agressions sexuelles sur neuf enfants.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-08T18:27:39+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "0e8919a6fb17"
+    },
+    {
+      "title": "Pourquoi les armées de House of the Dragon auraient dû ressembler à un immense vide-grenier",
+      "url": "https://www.numerama.com/pop-culture/2292721-pourquoi-les-armees-de-house-of-the-dragon-auraient-du-ressembler-a-un-immense-vide-grenier.html",
+      "summary": "Dans House of the Dragon, les champs de bataille de Westeros affichent une géométrie militaire impeccable. Des milliers de soldats s'y affrontent en arborant des armures rigoureusement identiques, forgées au millimètre près selon les couleurs de leur faction. C'est visuellement grandiose, mais c'est une aberration historique totale. En coulisses, la production a préféré le fantasme de la standardi",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-08T18:25:00+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "b2e364ff30b1"
+    },
+    {
+      "title": "«Bien joué Marine, ils l’ont dans le fion !» : à La Flèche, Le Pen repasse la première, Bardella rétrogradé",
+      "url": "https://www.liberation.fr/politique/bien-joue-marine-ils-lont-dans-le-fion-a-la-fleche-le-clan-le-pen-reprend-la-main-sur-la-campagne-du-rn-20260708_7HJEFUBGBJB2JITRTJ32SHOF2Y/",
+      "summary": "Au lendemain du délibéré de la cour d’appel de Paris qui lui permet de se présenter à la présidentielle, la candidate d’extrême droite était dans la Sarthe, fief de sa sœur, aux côtés de ses plus proches. Reléguant Jordan Bardella au second plan.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-08T18:20:03+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "5026076837cd"
+    },
+    {
+      "title": "La justice ordonne à la mairie insoumise de Vaulx-en-Velin, proche de Lyon, de retirer le drapeau palestinien",
+      "url": "https://www.liberation.fr/politique/la-justice-ordonne-a-la-mairie-insoumise-de-vaulx-en-velin-proche-de-lyon-de-retirer-le-drapeau-palestinien-20260708_YSEUJOJYCZBYJIUVAXLGKDPOOA/",
+      "summary": "Le drapeau avait été hissé samedi devant l’hôtel de ville dans le cadre d’un festival sur la situation en Palestine. Le préfet avait alors annoncé saisir le tribunal administratif.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-07-08T18:15:32+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "86ccd4f653b6"
+    },
+    {
+      "title": "Coupe du monde : à Casablanca avant le match France-Maroc, comme un parfum de revanche",
+      "url": "https://www.liberation.fr/international/afrique/coupe-du-monde-a-casablanca-avant-le-match-france-maroc-comme-un-parfum-de-revanche-20260708_UHR7OERPYFERRBECRSFSLZQNO4/",
+      "summary": "A la veille du quart de finale contre les Bleus, ce jeudi, les Marocains se remémore la demi-finale perdue en 2022 face aux doubles champions du monde. Mais ils nourrissent l’espoir de renverser la vapeur et, au bout, de remporter leur première étoile.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-08T18:12:07+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "6cf97c4ac41b"
+    },
+    {
+      "title": "Le Royaume-Uni alerte sur une vague de chaleur marine \"extrême\" dans la Manche, dans \"une zone au nord de la Bretagne\"",
+      "url": "https://www.franceinfo.fr/environnement/crise-climatique/le-royaume-uni-alerte-sur-une-vague-de-chaleur-marine-extreme-dans-la-manche-dans-une-zone-au-nord-de-la-bretagne_8100005.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les températures enregistrées correspondent à celles habituellement constatées au mois d'août, selon le Met Office britannique.",
+      "image": "https://www.franceinfo.fr/pictures/AROENykKLcaDLXtl-YP-O1pQg7o/0x632:6016x4016/432x243/filters:format(jpg)/2026/07/08/6a4e908a48bd7825881313.jpg",
+      "published_at": "2026-07-08T20:06:46+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "3242462dc0ba"
+    },
+    {
+      "title": "Marine Le Pen condamnée et candidate : un lancement de campagne inattendu",
+      "url": "https://www.lemonde.fr/podcasts/article/2026/07/08/marine-le-pen-condamnee-et-candidate-un-lancement-de-campagne-inattendu_6721894_5463015.html",
+      "summary": "La présidente du groupe RN à l’Assemblée nationale, condamnée mardi pour détournement de fonds publics par la cour d’appel de Paris, a donné le coup d’envoi de sa campagne présidentielle, malgré les aléas juridiques liés à son pourvoi en cassation. Dans ce podcast, Laura Motet, journaliste au pôle Enquêtes, Clément Guillou, journaliste au service Politique chargé de l’extrême droite, et Abel Mestr",
+      "image": "https://img.lemde.fr/2026/07/08/150/0/1800/900/644/322/60/0/5dedf6d_upload-1-79eivkd1uih9-mlp-lhdm.jpeg",
+      "published_at": "2026-07-08T20:00:07+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "802ef7eeff99"
+    },
+    {
+      "title": "Procès de l’affaire «Jean Pormanove» : un accusé «dégoûté» de revoir les images, l’autre «fier de cette aventure»",
+      "url": "https://www.liberation.fr/societe/police-justice/proces-de-laffaire-jean-pormanove-un-accuse-degoute-de-revoir-les-images-lautre-fier-de-cette-aventure-20260708_FGPQZXYQLVHK7ELIPDKYNSXLLI/",
+      "summary": "«Naruto» et «Safine» étaient jugés ce 6 et 7 juillet à Nice pour les violences exercées sur leur chaîne de streaming, au cœur d’un scandale après la mort en août 2025 de Raphaël Graven. Douze heures d’audience marquées par de nombreuses incompréhensions et des récits opposés.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-08T17:54:44+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "667af731f5c1"
     },
     {
       "title": "Festival d’Avignon, jour 5 : on n’a pas de mots pour dire tout le bien qu’on pense de «Mon frère» et on prépare la mobilisation à venir dans les mottes de beurre",
@@ -23,34 +283,14 @@
       "id": "d8349727b3cf"
     },
     {
-      "title": "Canicule : 40,5°C à Marseille, 41°C à Sète, 40,7°C à Barcelone... Des records absolus de températures franchis dans le sud",
-      "url": "https://www.franceinfo.fr/environnement/meteo/direct-de-fortes-chaleurs-etouffent-la-quasi-totalite-du-pays-67-departements-en-vigilance-orange-a-la-canicule_8098853.html#xtor=RSS-3-[lestitres]",
-      "summary": "Météo-France a enregistré des valeurs inédites \"tous mois confondus\", et placé 72 départements en alerte orange.",
-      "image": "https://www.franceinfo.fr/pictures/bmEF48eH70yQxTcNAjKfRw4aHyk/0x344:3987x2587/432x243/filters:format(jpg)/2026/07/08/6a4e871834711731110106.jpg",
-      "published_at": "2026-07-08T19:37:50+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "5c33d63fd01e"
-    },
-    {
       "title": "EN DIRECT, canicule : des records de chaleur enregistrés dans plusieurs stations du sud de la France, jusqu’à 43 °C relevés dans l’Hérault",
       "url": "https://www.lemonde.fr/planete/live/2026/07/08/en-direct-canicule-des-records-de-chaleur-enregistres-dans-plusieurs-stations-du-sud-de-la-france-jusqu-a-43-c-releves-dans-l-herault_6720911_3244.html",
-      "summary": "Des températures supérieures à 40 °C ont été également atteintes dans les Bouches-du-Rhône, dans le Gard et dans les Pyrénées-Orientales. Par ailleurs, avec une chaleur qui gagne du terrain et des vents renforcés, l’alerte incendies reste maximale sur une partie du pourtour méditerranéen.",
-      "image": "https://img.lemde.fr/2026/07/08/163/0/7488/3744/644/322/60/0/00e01e7_ftp-1-iaa6e5wjttkh-5570137-01-06.jpg",
+      "summary": "Des températures supérieures à 40 °C ont été atteintes dans les Bouches-du-Rhône, dans le Gard et dans les Pyrénées-Orientales. Par ailleurs, avec une chaleur qui gagne du terrain et des vents renforcés, l’alerte incendies reste maximale sur une partie du pourtour méditerranéen.",
+      "image": "https://img.lemde.fr/2026/07/08/161/0/5513/2756/644/322/60/0/4b5d68b_ftp-1-ph5flypbxivb-5567338-01-06.jpg",
       "published_at": "2026-07-08T19:32:48+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "338887cd7e4d"
-    },
-    {
-      "title": "EN DIRECT - Moyen-Orient : Trump assure que les affrontements avec l’Iran, «s’arrêteront très rapidement»",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-les-hostilites-reprennent-entre-les-etats-unis-et-liran-trump-affirme-que-le-cessez-le-feu-est-termine-20260708_4Z7JFPA7WFDM3AT2XQ2MCAML5A/",
-      "summary": "Les frappes ont repris dans la nuit de mardi à mercredi entre les deux pays, en dépit d’un accord visant à mettre fin à la guerre entré en vigueur le mois dernier.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-08T17:32:27+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "d561300758d7"
     },
     {
       "title": "\"J'espère qu'il ne lui est rien arrivé\" : ce qu'a dit Jérôme Barella pendant sa garde à vue après la disparition de Lyhanna",
@@ -61,246 +301,6 @@
       "source": "France Info",
       "category": "Société",
       "id": "3a0aee636a35"
-    },
-    {
-      "title": "EN DIRECT - Condamnation de Marine Le Pen : la Cour de cassation «pourrait» se prononcer «au plus tard début avril 2027» sur son pourvoi",
-      "url": "https://www.liberation.fr/politique/elections/en-direct-condamnation-de-marine-le-pen-elle-est-innocente-et-le-prouvera-affirme-son-directeur-de-campagne-20260708_FPMVHCWM6VHONBBQHA6XSYOOEU/",
-      "summary": "Au lendemain de sa condamnation pour détournement de fonds et sa décision de concourir à la présidentielle de 2027, la cheffe de file des députés RN était ce mercredi avec Jordan Bardella au marché de La Flèche, dans la Sarthe.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-08T17:26:48+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "13911dfd8fc4"
-    },
-    {
-      "title": "Né dans les Hauts-de-Seine, encouragé par Kate Middleton, diplômé de Stanford : Arthur Fery, la surprise à moitié Frenchie de Wimbledon",
-      "url": "https://www.liberation.fr/sports/ne-dans-les-hauts-de-seine-encourage-par-kate-middleton-diplome-de-stanford-arthur-fery-la-surprise-a-moitie-frenchie-de-wimbledon-20260707_JGSW7SOKCZCH5P2F35JVBD2TPM/",
-      "summary": "Le joueur de 23 ans s’est hissé en demi-finale d’un tournoi du Grand Chelem pour la première fois de sa carrière. Techniquement, il reste donc un Français en lice à Wimbledon… mais il est Britannique.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-08T17:22:23+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "23b998b705e2"
-    },
-    {
-      "title": "Le gouvernement rejette toute augmentation de salaire généralisée pour les fonctionnaires, les syndicats claquent la porte d'une réunion",
-      "url": "https://www.franceinfo.fr/economie/emploi/recherche-d-emploi/fonction-publique/le-gouvernement-rejette-toute-augmentation-de-salaire-generalisee-pour-les-fonctionnaires-les-syndicats-claquent-la-porte_8099939.html#xtor=RSS-3-[lestitres]",
-      "summary": "Une revalorisation uniforme de 1% de la valeur du point d'indice coûterait 2,4 milliards d'euros à l'Etat.",
-      "image": "https://www.franceinfo.fr/pictures/yPVCC17OpYGJYngBgtbOimvVQQA/0x520:5000x3333/432x243/filters:format(jpg)/2026/07/08/6a4e818289974629861255.jpg",
-      "published_at": "2026-07-08T19:22:20+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "e3a3ba438108"
-    },
-    {
-      "title": "Condamnation de Marine Le Pen : un pourvoi en cassation et beaucoup de questions",
-      "url": "https://www.liberation.fr/societe/police-justice/condamnation-de-marine-le-pen-un-pourvoi-en-cassation-et-beaucoup-de-questions-20260708_YMSB3ZAX35G2HKO425WWQ6JQNQ/",
-      "summary": "Condamnée en appel mais candidate à l’élection présidentielle, la cheffe de file du RN est déterminée à épuiser les voies de recours. «Libé» décrypte les différentes interrogations juridiques soulevées par cette démarche risquée.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-08T17:21:25+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "8a731aaa57be"
-    },
-    {
-      "title": "«C’est insupportable de les savoir là-dessous» : au Venezuela, des familles désespérées face aux ruines",
-      "url": "https://www.liberation.fr/international/amerique/cest-insupportable-de-les-savoir-la-dessous-au-venezuela-des-familles-desesperees-face-aux-ruines-20260708_KUGBHGBT4NE7PGQENG2M75OQ2I/",
-      "summary": "Les proches des disparus de La Guaira tentent de récupérer les corps enterrés sous les décombres. Un combat inégal et coûteux, qui les force à mettre en place des stratégies pour attirer le peu d’engins de chantier disponibles.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-08T17:13:04+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "cfe1afe2a112"
-    },
-    {
-      "title": "Le Franco-Britannique Arthur Féry continue son parcours fou, Marta Kostyuk rejoint Linda Noskova... Ce qu'il faut retenir de la 10e journée à Wimbledon",
-      "url": "https://www.franceinfo.fr/sports/tennis/wimbledon/marta-kostyuk-dans-le-dernier-carre-linda-noskova-ecarte-elise-mertens-ce-qu-il-faut-retenir-de-la-10e-journee-a-wimbledon_8099552.html#xtor=RSS-3-[lestitres]",
-      "summary": "Détenteur d'une invitation pour cette édition 2026 et 114e mondial, le Franco-Britannique a éliminé le finaliste du dernier Roland-Garros, mercredi, pour s'inviter en demi-finales du Grand chelem londonien.",
-      "image": "https://www.franceinfo.fr/pictures/MPGW_-bCvgD2kcbrvG4menWFLss/0x0:5092x2864/432x243/filters:format(jpg)/2026/07/08/6a4e798a0b4d9090551423.jpg",
-      "published_at": "2026-07-08T19:08:12+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "30d33753d970"
-    },
-    {
-      "title": "A Avignon, «Mon frère» invente la langue des cimes",
-      "url": "https://www.liberation.fr/culture/a-avignon-mon-frere-invente-la-langue-des-cimes-20260708_QFGNVMMP4VB6FJNS4KI3ABUG44/",
-      "summary": "L’un est sourd de naissance, l’autre terrassé par l’actualité anxiogène, le premier signe et l’autre poursuit en français : François et Christian Gremaud offrent un spectacle d’une intransigeante douceur qui parle de langues, d’exclusion et d’une vulnérabilité combative.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-08T17:05:30+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "98bd74116e58"
-    },
-    {
-      "title": "Donald Trump annonce que les Etats-Unis vont autoriser l’Ukraine à fabriquer des missiles Patriot",
-      "url": "https://www.lemonde.fr/international/article/2026/07/08/donald-trump-annonce-que-les-etats-unis-vont-autoriser-l-ukraine-a-fabriquer-des-missiles-patriot_6721889_3210.html",
-      "summary": "Le président américain n’a pas précisé à quelles conditions ni à quelle échéance l’autorisation sera accordée et on ignore si l’Ukraine dispose des capacités nécessaires pour fabriquer ces coûteux missiles à brève échéance.",
-      "image": "https://img.lemde.fr/2026/06/24/424/0/6000/3000/644/322/60/0/e3ed918_ftp-1-gcpgi4da6419-2026-06-24t104043z-945930775-rc2viiaaq0ga-rtrmadp-3-iran-crisis-trump-munitions.JPG",
-      "published_at": "2026-07-08T19:05:17+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "f09a726ff0f1"
-    },
-    {
-      "title": "« La chute de Mogadiscio est une hypothèse probable » : en Somalie, la mission de paix de l’Union africaine en péril après la fin annoncée du financement américain",
-      "url": "https://www.lemonde.fr/afrique/article/2026/07/08/la-chute-de-mogadiscio-est-une-hypothese-probable-en-somalie-la-mission-de-paix-de-l-union-africaine-en-peril-apres-la-fin-annoncee-du-financement-americain_6721833_3212.html",
-      "summary": "Les Etats-Unis ont l’intention de se désengager du Bureau de soutien de l’ONU à Mogadiscio, qui appuie logistiquement la force de l’Union africaine. Un coup dur pour la présidence somalienne, confrontée aux assauts des djihadistes chabab.",
-      "image": "https://img.lemde.fr/2026/07/02/917/0/5500/2750/644/322/60/0/bd15ae2_ftp-1-elyf24kgk7ps-2026-07-02t172841z-565591499-rc2n7u9dv6za-rtrmadp-3-somalia-security-usa.JPG",
-      "published_at": "2026-07-08T19:02:02+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "cab29aa098cd"
-    },
-    {
-      "title": "« Trumpisme », « climat », « no kids »… Retourner les mots pour résister aux angoisses de nos sociétés",
-      "url": "https://www.lemonde.fr/idees/article/2026/07/08/trumpisme-climat-no-kids-retourner-les-mots-pour-resister-aux-angoisses-de-nos-societes_6721888_3232.html",
-      "summary": "Avec son livre « Les mots qui font peur. Leur résister, les décrypter, les remplacer », la sémiologue Mariette Darrigrand propose une méthode pour affronter les peurs contemporaines et déchiffrer le véritable sens des vocables employés.",
-      "image": "https://img.lemde.fr/2026/06/19/160/0/1920/960/644/322/60/0/937b0f0_upload-1-lqkrkrq8zcuj-generated-1781870753503.jpg",
-      "published_at": "2026-07-08T19:00:22+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "cba7c4ceedc0"
-    },
-    {
-      "title": "Plus intelligent, plus naturel, plus expressif : OpenAI dévoile deux nouveaux modèles vocaux pour ChatGPT",
-      "url": "https://www.numerama.com/tech/2292751-plus-intelligent-plus-naturel-plus-expressif-openai-devoile-deux-nouveaux-modeles-vocaux-pour-chatgpt.html",
-      "summary": "OpenAI a présenté, le 8 juillet 2026, deux nouveaux modèles vocaux ChatGPT : GPT-Live-1 et GPT-Live-1 mini. Leur but : vous permettre d'avoir des conversations « plus intelligentes, plus naturelles et plus expressives » avec l'IA.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-07-08T17:00:00+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "5882d87832f5"
-    },
-    {
-      "title": "Parcours de la sélection marocaine à la Coupe du monde : hip, hip, hip, diaspora",
-      "url": "https://www.liberation.fr/sports/football/parcours-de-la-selection-marocaine-au-mondial-hip-hip-hip-diaspora-20260709_3W2OIBMWOVCGRK3DLQ2T5E5RAM/",
-      "summary": "Eclatants au dernier Mondial et à la Coupe d’Afrique des nations, les Lions de l’Atlas, qui affrontent ce jeudi 9 juillet l’équipe de France en quarts de finale, s’appuient sur un vaste contingent de binationaux repérés à l’étranger grâce un système de détection très efficace.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-08T16:51:49+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "be704069cd25"
-    },
-    {
-      "title": "\"The Pitt\" et \"Hacks\" en tête des nominations aux Emmy Awards 2026 ?",
-      "url": "https://www.franceinfo.fr/culture/series/emmy-awards/the-pitt-et-hacks-en-tete-des-nominations-aux-emmy-awards-2026_8099852.html#xtor=RSS-3-[lestitres]",
-      "summary": "Présentée par l'actrice Mariska Hargitay, la 78e cérémonie des Emmy Awards se tiendra le 14 septembre et sera diffusée en direct sur NBC.",
-      "image": "https://www.franceinfo.fr/pictures/0zb2hMA4vKVVfBCEWWGWaO0YNMI/0x496:7512x4722/432x243/filters:format(jpg)/2026/07/08/6a4e771665c02598944127.jpg",
-      "published_at": "2026-07-08T18:49:04+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "1d229a7fb87b"
-    },
-    {
-      "title": "En Côte d’Ivoire, un projet hydroélectrique à l’arrêt suscite la colère des riverains : «Le barrage n’a rien fait pour ce village !»",
-      "url": "https://www.liberation.fr/international/afrique/en-cote-divoire-un-projet-hydroelectrique-a-larret-suscite-la-colere-des-riverains-le-barrage-na-rien-fait-pour-ce-village-20260708_FAGOWYP3FZAOPKWTRNQFWRRKJU/",
-      "summary": "L’infrastructure de Singrobo-Ahouaty, dont les travaux ont commencé en 2019, devait transformer le paysage énergétique ivoirien. Enlisé depuis un an dans les surcoûts et les blocages, le chantier auquel participe Eiffage laisse pour l’heure des communautés locales appauvries.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-08T16:42:29+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "0429d864a542"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : huit militaires iraniens ont été tués dans les dernières frappes américaines, selon Téhéran",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-iran-dit-avoir-declenche-des-attaques-contre-des-bases-americaines-au-koweit-et-a-bahrein-en-reponse-a-des-frappes-de-washington_8098781.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'armée américaine a revendiqué mardi soir des frappes sur plus de 80 cibles en Iran, en réponse aux tirs contre trois navires commerciaux dans le détroit d'Ormuz. L'Iran a répondu en ciblant des bases américaines au Bahreïn et au Koweït.",
-      "image": "https://www.franceinfo.fr/pictures/3U8lP2KhStpHydDe6faYjaZh-ws/0x0:6181x3476/432x243/filters:format(jpg)/2026/07/08/6a4e7d926c053592349833.jpg",
-      "published_at": "2026-07-08T18:41:04+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "8944e4a399ba"
-    },
-    {
-      "title": "Après le pourvoi en cassation de Marine Le Pen, on vous explique comment va se dérouler l'examen de ce recours scruté en haut lieu",
-      "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/apres-le-pourvoi-en-cassation-de-marine-le-pen-on-vous-explique-comment-va-se-derouler-l-examen-de-ce-recours-scrute-en-haut-lieu_8099348.html#xtor=RSS-3-[lestitres]",
-      "summary": "Candidate à la présidentielle de 2027, malgré sa condamnation par la cour d'appel de Paris, la dirigeante d'extrême droite a annoncé qu'elle allait se saisir de cet ultime recours en droit français, qui fait l'objet d'une procédure particulière.",
-      "image": "https://www.franceinfo.fr/pictures/PMfkn0VM2boBmqFNZv9sF2mqTxQ/0x53:1024x629/432x243/filters:format(jpg)/2026/07/08/6a4e651f7a6c9550073850.jpg",
-      "published_at": "2026-07-08T18:40:39+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "fce6e8d20a6f"
-    },
-    {
-      "title": "Belgique : un enfant et son père disparus depuis fin juin, la justice lance un appel à témoins",
-      "url": "https://www.liberation.fr/societe/police-justice/belgique-un-enfant-et-son-pere-disparus-depuis-fin-juin-la-justice-lance-un-appel-a-temoins-20260708_Y7TV5SM5GZAOFPJQPCH6CIJDRA/",
-      "summary": "Ils ont été vus pour la dernière fois dans le sud du pays. Le parquet de Namur espère récupérer des images de caméras de surveillance de particuliers ou de commerçants.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-08T16:38:13+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "d2a77a8a39e0"
-    },
-    {
-      "title": "Les feux d'artifice du 14-Juillet annulés dans plusieurs départements à cause du risque d'incendies",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/plusieurs-communes-annulent-les-feux-d-artifices-prevus-d-ici-le-14-juillet-a-cause-du-risque-d-incendies_8096477.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Les fortes chaleurs et la sécheresse provoquent une situation exceptionnelle de danger feux de forêts\", prévient Météo France.",
-      "image": "https://www.franceinfo.fr/pictures/jWbYfPCWf2cwyGu2nuaywszoQgg/0x0:4032x2268/432x243/filters:format(jpg)/2026/07/06/6a4bc74b8e7dd255108547.jpg",
-      "published_at": "2026-07-08T18:36:57+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "06dd43c9c7ed"
-    },
-    {
-      "title": "Emmy Awards : les séries « The Pitt » et « Hacks » en tête des nominations",
-      "url": "https://www.lemonde.fr/culture/article/2026/07/08/emmy-awards-les-series-the-pitt-et-hacks-en-tete-des-nominations_6721881_3246.html",
-      "summary": "La cérémonie se tiendra le 14 septembre à Los Angeles, et sera présentée par Mariska Hargitay, actrice popularisée par la série « New York Unité spéciale ».",
-      "image": "https://img.lemde.fr/2026/07/08/373/0/4476/2238/644/322/60/0/0b0e703_ftp-1-mexwxip1ae71-5569393-01-06.jpg",
-      "published_at": "2026-07-08T18:35:16+02:00",
-      "source": "Le Monde",
-      "category": "Culture",
-      "id": "c2ec8a986c87"
-    },
-    {
-      "title": "Le résumé de la 5e étape du Tour de France conclue par la victoire au sprint du Néerlandais Olav Kooij",
-      "url": "https://www.franceinfo.fr/tour-de-france/videos/video-le-resume-de-la-5e-etape-du-tour-de-france-conclue-par-la-victoire-au-sprint-du-neerlandais-olav-kooi_8099903.html#xtor=RSS-3-[lestitres]",
-      "summary": "Après quatre jours entre Barcelone et les Pyrénées, le peloton a mis le cap sur des routes plus plates, destinées aux sprinteurs, mercredi.",
-      "image": "https://www.franceinfo.fr/pictures/X6wsTDr0ToXofNB9l4kcfUegRDE/0x18:1024x594/432x243/filters:format(jpg)/2026/07/08/6a4e7a1864c1a556465179.jpg",
-      "published_at": "2026-07-08T18:34:48+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "9d0f62730a61"
-    },
-    {
-      "title": "Aux Philippines, la guerre des clans Marcos-Duterte vire au feuilleton judiciaire",
-      "url": "https://www.liberation.fr/international/asie-pacifique/aux-philippines-la-guerre-des-clans-marcos-duterte-vire-au-feuilleton-judiciaire-20260708_I7ME2FA23BHNPLLCB2ZGVOPSXU/",
-      "summary": "Le procès de destitution de la vice-présidente du pays, Sara Duterte, a commencé lundi 6 juillet. Elle est accusée de détournements de fonds et de menaces de mort contre le Président, Ferdinand Marcos Junior, héritier de l’autre grande famille politique de l’archipel.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-08T16:33:45+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "5bc2c9d0441e"
-    },
-    {
-      "title": "Quatorze ans après la tuerie de Zogota, la justice française exige que la Guinée indemnise les victimes",
-      "url": "https://www.liberation.fr/international/afrique/guinee-quatorze-ans-apres-la-tuerie-de-zogota-limpunite-de-letat-devant-la-justice-francaise-20260616_GCYVQNZ2QNABBMCAUKX3JJDJB4/",
-      "summary": "L’Etat guinéen avait été condamné en 2020 par la Cour de justice de la CEDEAO. Ce 8 juillet, le tribunal de Paris a reconnu le jugement, ouvrant la voie à son exécution forcée en France. Une décision sans précédent dans une affaire de violation des droits humains.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-08T16:32:37+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "0d6d272c1c15"
-    },
-    {
-      "title": "Scission de Vivendi : Vincent Bolloré gagne encore une manche face aux actionnaires minoritaires",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/08/scission-de-vivendi-vincent-bollore-gagne-encore-une-manche-face-aux-actionnaires-minoritaires_6721879_3234.html",
-      "summary": "La cour d’appel de Paris a donné gain de cause, mercredi, au groupe breton, premier actionnaire du conglomérat, à qui le fonds CIAM demandait de lancer une offre publique de retrait. Le fonds va se pourvoir en cassation.",
-      "image": "https://img.lemde.fr/2026/03/24/209/0/5690/2845/644/322/60/0/823df2e_ftp-1-p14x1njaa4ft-2026-03-24t145831z-1699294687-rc22bkafq2vu-rtrmadp-3-france-politics-bollore.JPG",
-      "published_at": "2026-07-08T18:30:05+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "a730a209d494"
-    },
-    {
-      "title": "France-Maroc : la soif de revanche des Lions de l’Atlas, quatre ans après la demi-finale perdue au Qatar",
-      "url": "https://www.lemonde.fr/afrique/article/2026/07/08/france-maroc-la-soif-de-revanche-des-lions-de-l-atlas-quatre-ans-apres-la-demi-finale-perdue-au-qatar_6721880_3212.html",
-      "summary": "La sélection marocaine de football n’a battu la France qu’une seule fois, lors d’un tournoi amical, en mai 1998. Vingt-huit ans plus tard, ses supporteurs ont des raisons de croire en une victoire de leur équipe, plus forte que jamais, en quarts de finale du Mondial 2026.",
-      "image": "https://img.lemde.fr/2026/07/04/360/0/4328/2164/644/322/60/0/830d198_ftp-1-tihv0go0f4u7-5533902-01-06.jpg",
-      "published_at": "2026-07-08T18:30:05+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "29129bc4542e"
     }
   ]
 }
