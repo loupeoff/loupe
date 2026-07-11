@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-07-11T21:00:02.849569+00:00",
+  "generated_at": "2026-07-11T21:57:12.124015+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Une nouvelle vague de chaleur extrême aux Etats-Unis place 44 millions d’Américains sous alerte canicule",
+      "url": "https://www.lemonde.fr/planete/article/2026/07/11/une-nouvelle-vague-de-chaleur-extreme-aux-etats-unis-place-44-millions-d-americains-sous-alerte-canicule_6722740_3244.html",
+      "summary": "Les températures très supérieures aux normales saisonnières sur les Rocheuses, les plaines du nord et le sud-est vont ensuite s’étendre sur l’ouest et le centre du pays, menaçant d’entraver la lutte contre les incendies.",
+      "image": "https://img.lemde.fr/2026/07/04/380/0/3982/1991/644/322/60/0/0181c9b_ftp-1-lc3whqiva4mg-2026-07-04t221931z-1760359564-rc287maapyw2-rtrmadp-3-usa-250.JPG",
+      "published_at": "2026-07-11T23:37:16+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "32dd725ee1aa"
+    },
+    {
+      "title": "6 800 hommes et femmes, 315 véhicules, 193 chevaux : la France voit grand pour son défilé du 14-Juillet",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/6-800-hommes-et-femmes-315-vehicules-193-chevaux-la-france-voit-grand-pour-son-defile-du-14-juillet_8104394.html#xtor=RSS-3-[lestitres]",
+      "summary": "La Marine, l’Armée de Terre et l’Armée de l’Air seront à l’honneur ce 14 juillet. Pour le défilé, près de 6 800 hommes et femmes participeront à l'événement sur les Champs-Elysées. Le président de la République, pour son dernier rendez-vous, a souhaité mettre en évidence le réarmement stratégique de la France et de l’Europe.",
+      "image": "https://www.franceinfo.fr/pictures/Nz3PpudEI8L_FbENqh73sx3z8MI/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/11/6a528fcbe6041392060156.jpg",
+      "published_at": "2026-07-11T23:28:32+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "0b3aa16b87f5"
+    },
     {
       "title": "Incendie dans le sud de l'Espagne : une Française \"figure parmi les personnes disparues\", annonce le ministère des Affaires étrangères français",
       "url": "https://www.franceinfo.fr/faits-divers/incendie/incendie-dans-le-sud-de-l-espagne-une-francaise-figure-parmi-les-personnes-disparues-annonce-le-ministere-des-affaires-etrangeres-francais_8104418.html#xtor=RSS-3-[lestitres]",
@@ -31,16 +51,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "3484eec38a7b"
-    },
-    {
-      "title": "6 800 hommes et femmes, 315 véhicules, 193 chevaux : la France voit grand pour son défilé du 14-Juillet",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/6-800-hommes-et-femmes-315-vehicules-193-chevaux-la-france-voit-grand-pour-son-defile-du-14-juillet_8104394.html#xtor=RSS-3-[lestitres]",
-      "summary": "La Marine, l’Armée de Terre et l’Armée de l’Air seront à l’honneur ce 14 juillet. Pour le défilé, près de 6 800 hommes et femmes participeront à l'événement sur les Champs-Elysées. Le président de la République, pour son dernier rendez-vous, a souhaité mettre en évidence le réarmement stratégique de la France et de l’Europe.",
-      "image": "https://www.franceinfo.fr/pictures/Nz3PpudEI8L_FbENqh73sx3z8MI/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/11/6a528fcbe6041392060156.jpg",
-      "published_at": "2026-07-11T20:50:27+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "0b3aa16b87f5"
     },
     {
       "title": "Après les orages nocturnes, 5 000 foyers toujours privés d'électricité dans le Sud-Ouest",
@@ -291,16 +301,6 @@
       "source": "France Info",
       "category": "Sport",
       "id": "ac6d84c36bf7"
-    },
-    {
-      "title": "Le Louvre, la tour Eiffel et le musée d’Orsay réduisent leurs horaires d’ouverture : «Les montées en températures ne garantissent plus le confort des visiteurs ni des agents»",
-      "url": "https://www.liberation.fr/environnement/climat/le-louvre-la-tour-eiffel-et-le-musee-dorsay-reduisent-leurs-horaires-douverture-les-montees-en-temperatures-ne-garantissent-plus-le-confort-des-visiteurs-ni-des-agents-20260711_NNKKBNHRVZB7HBURCISXZVAR5E/",
-      "summary": "En raison des fortes chaleurs, la tour Eiffel et le Louvre fermeront à 16 heures, Orsay à 17 heures.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-07-11T15:38:25+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "bcdb66f46737"
     }
   ]
 }
