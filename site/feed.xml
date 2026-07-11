@@ -7,9 +7,29 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Fri, 10 Jul 2026 22:11:54 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 00:05:07 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>Double séisme au Venezuela : le bilan dépasse les 4 000 morts</title>
+    <link>https://www.lemonde.fr/planete/article/2026/07/11/double-seisme-au-venezuela-le-bilan-depasse-les-4-000-morts_6722516_3244.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/planete/article/2026/07/11/double-seisme-au-venezuela-le-bilan-depasse-les-4-000-morts_6722516_3244.html</guid>
+    <pubDate>Sat, 11 Jul 2026 01:04:33 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[Selon les autorités, 4 118 personnes ont été tuées et 16 740 autres blessées. Un tremblement de terre de magnitude 3 a touché Caracas vendredi provoquant le trouble dans la capitale sur le qui-vive depuis le 24 juin.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/07/10/654/0/7854/3927/644/322/60/0/b913ebd_ftp-1-jlsoihxlptf7-5588524-01-06.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Nouvelle coupure générale d’électricité à Cuba, sous blocus pétrolier américain, la quatrième en moins de six mois</title>
+    <link>https://www.lemonde.fr/international/article/2026/07/11/nouvelle-coupure-generale-d-electricite-a-cuba-sous-blocus-petrolier-americain-la-quatrieme-en-moins-de-six-mois_6722515_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/07/11/nouvelle-coupure-generale-d-electricite-a-cuba-sous-blocus-petrolier-americain-la-quatrieme-en-moins-de-six-mois_6722515_3210.html</guid>
+    <pubDate>Sat, 11 Jul 2026 00:19:22 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[Les autorités cubaines accusent Washington d’avoir aggravé la crise énergétique avec son blocus pétrolier, alors que l’île peine à assurer une production électrique suffisante avec des infrastructures vieillissantes.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/07/10/673/0/8077/4038/644/322/60/0/f6a1b03_ftp-1-j2305ndltzqz-5590901-01-06.jpg" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>Loi &quot;Ripost&quot; sur les free parties et le protoxyde d&apos;azote : l&apos;Assemblée a achevé l&apos;examen, vote favorable en vue mercredi</title>
     <link>https://www.franceinfo.fr/societe/loi-ripost-l-assemblee-a-acheve-l-examen-vote-favorable-en-vue-mercredi_8103323.html#xtor=RSS-3-[lestitres]</link>
@@ -201,16 +221,6 @@
     <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>Incendies : la Fédération des sapeurs-pompiers appelle les maires à &quot;s&apos;interroger profondément&quot; sur le maintien des feux d&apos;artifice du 14-Juillet</title>
-    <link>https://www.franceinfo.fr/faits-divers/incendie/incendies-la-federation-des-sapeurs-pompiers-appelle-les-maires-a-s-interroger-profondement-sur-le-maintien-des-feux-d-artifice-du-14-juillet_8103296.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/faits-divers/incendie/incendies-la-federation-des-sapeurs-pompiers-appelle-les-maires-a-s-interroger-profondement-sur-le-maintien-des-feux-d-artifice-du-14-juillet_8103296.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Fri, 10 Jul 2026 21:24:40 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA["Tout ce qui pourrait apporter soit un départ de feu, soit une sursollicitation des services de secours" doit être réévalué dans le contexte actuel, estime le lieutenant-colonel David Annotel, représentant de la fédération, vendredi sur franceinfo.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/mYuQx5bLS6FRL0i5unUntdM00LA/0x0:3980x2238/432x243/filters:format(jpg):quality(50)/2026/07/10/6a5146c961adc187071935.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
     <title>La Société des grands magasins, propriétaire du BHV, propose de reprendre les librairies Le Furet du Nord à Reims et Decitre à Grenoble</title>
     <link>https://www.franceinfo.fr/economie/entreprises/la-societe-des-grands-magasins-proprietaire-du-bhv-propose-de-reprendre-les-librairies-le-furet-du-nord-a-reims-et-decitre-a-grenoble_8103281.html#xtor=RSS-3-[lestitres]</link>
     <guid isPermaLink="true">https://www.franceinfo.fr/economie/entreprises/la-societe-des-grands-magasins-proprietaire-du-bhv-propose-de-reprendre-les-librairies-le-furet-du-nord-a-reims-et-decitre-a-grenoble_8103281.html#xtor=RSS-3-[lestitres]</guid>
@@ -284,7 +294,7 @@
     <title>En Somalie, l’échec de l’opération pour libérer un agent de la DGSE aux mains des Chabab, raconté par le commando</title>
     <link>https://www.lemonde.fr/societe/article/2026/07/10/en-somalie-l-echec-de-l-operation-pour-liberer-un-agent-de-la-dgse-aux-mains-des-chabab-raconte-par-le-commando_6722509_3224.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/societe/article/2026/07/10/en-somalie-l-echec-de-l-operation-pour-liberer-un-agent-de-la-dgse-aux-mains-des-chabab-raconte-par-le-commando_6722509_3224.html</guid>
-    <pubDate>Fri, 10 Jul 2026 20:29:34 +0000</pubDate>
+    <pubDate>Fri, 10 Jul 2026 20:29:29 +0000</pubDate>
     <category>Sport</category>
     <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
     <description><![CDATA[« Dans les coulisses des prises d’otages » (4/4). Denis Allex, membre du service action, est enlevé en juillet 2009, à Mogadiscio. Trois ans et demi plus tard, en janvier 2013, alors que la santé du captif se détériore, une opération est validée par François Hollande pour le libérer. Rien ne se passe comme prévu.]]></description>
@@ -299,16 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">Libération</source>
     <description><![CDATA[L’expérience d’un long compagnonnage avec les mots et la volonté de secouer «l’inertie du langage».]]></description>
     <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>L&apos;ex-secrétaire d&apos;Etat Yves Jégo mis en examen pour trafic d&apos;influence passif lié à des commandes de masques lors de l&apos;épidémie de Covid-19</title>
-    <link>https://www.franceinfo.fr/societe/justice/l-ancien-secretaire-d-etat-yves-jego-mis-en-examen-pour-trafic-d-influence-passif-pour-des-commandes-de-masques-anti-covid-19_8103194.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/societe/justice/l-ancien-secretaire-d-etat-yves-jego-mis-en-examen-pour-trafic-d-influence-passif-pour-des-commandes-de-masques-anti-covid-19_8103194.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Fri, 10 Jul 2026 20:06:09 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[L'ancien membre du gouvernement de François Fillon est soupçonné d'avoir profité de son carnet d'adresses pour jouer les intermédiaires dans la vente de millions d'équipements de protection sanitaires à des administrations publiques.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/akTcx4FmKfIFLKPgmdtcdBnWMCE/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/10/6a51342e48e9b910531897.jpg" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>
