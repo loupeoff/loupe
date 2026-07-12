@@ -7,9 +7,19 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Sat, 11 Jul 2026 22:58:15 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 00:02:26 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>L’Iran annonce la fermeture du détroit d’Ormuz jusqu’à nouvel ordre</title>
+    <link>https://www.lemonde.fr/international/article/2026/07/12/l-iran-annonce-la-fermeture-du-detroit-d-ormuz-jusqu-a-nouvel-ordre_6722775_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/07/12/l-iran-annonce-la-fermeture-du-detroit-d-ormuz-jusqu-a-nouvel-ordre_6722775_3210.html</guid>
+    <pubDate>Sun, 12 Jul 2026 01:29:07 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[Les ​gardiens ‌de la révolution islamique ont communiqué cette décision dans la nuit de samedi à dimanche, après que des coup ​de semonce ‌ont été tirés contre un navire.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/07/10/472/1163/4337/2169/644/322/60/0/afc85c9_ftp-1-gjyppmrqmijs-2026-07-10t130543z-1345548046-rc25amatsfkg-rtrmadp-3-iran-crisis-shipping-un.JPG" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>Une nouvelle vague de chaleur extrême aux Etats-Unis place 44 millions d’Américains sous alerte canicule</title>
     <link>https://www.lemonde.fr/planete/article/2026/07/11/une-nouvelle-vague-de-chaleur-extreme-aux-etats-unis-place-44-millions-d-americains-sous-alerte-canicule_6722740_3244.html</link>
@@ -137,8 +147,8 @@
     <pubDate>Sat, 11 Jul 2026 19:43:32 +0000</pubDate>
     <category>International</category>
     <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
-    <description><![CDATA[Le typhon a d’abord atteint la ville de Yuhuan (Est), samedi soir, et devait poursuivre sa route vers le nord-ouest en faiblissant. Pour l’heure, aucune victime n’est à déplorer.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/07/11/320/0/4197/2098/644/322/60/0/5eed511_ftp-1-btegu6diujat-5593424-01-06.jpg" type="image/jpeg" length="0" />
+    <description><![CDATA[La tempête a d’abord atteint la ville de Yuhuan, samedi soir, et devait poursuivre sa route vers le nord-ouest du pays en faiblissant. Pour l’heure, aucune victime n’est à déplorer.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/07/11/223/0/4197/2098/644/322/60/0/5eed511_ftp-1-btegu6diujat-5593424-01-06.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Double séisme au Venezuela : le bilan dépasse désormais les 4 300 morts</title>
@@ -299,16 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">Libération</source>
     <description><![CDATA[Avec une deuxième victoire en deux jours, le Belge s’affirme comme le meilleur sprinter du peloton. Dimanche, l’étape en Corrèze sera raccourcie à cause de la canicule.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Tour de France 2026 : le résumé de la deuxième victoire de suite de Tim Merlier, après une 8e étape sans relief en Dordogne</title>
-    <link>https://www.franceinfo.fr/tour-de-france/video-tour-de-france-2026-le-resume-de-la-deuxieme-victoire-de-suite-de-tim-merlier-apres-une-8e-etape-sans-relief-en-dordogne_8104235.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/tour-de-france/video-tour-de-france-2026-le-resume-de-la-deuxieme-victoire-de-suite-de-tim-merlier-apres-une-8e-etape-sans-relief-en-dordogne_8104235.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sat, 11 Jul 2026 17:51:29 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Déjà vainqueur à Bordeaux la veille, le Belge a signé sa deuxième victoire sur la 113e édition de la Grande Boucle, samedi.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/Yaksgx52B_kQEsjtpUysKjnyZFM/0x319:6126x3765/432x243/filters:format(jpg):quality(50)/2026/07/11/6a52606526fa7711588366.jpg" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>
