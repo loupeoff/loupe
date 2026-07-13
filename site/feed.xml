@@ -7,9 +7,19 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Sun, 12 Jul 2026 22:57:52 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 00:02:17 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>EN DIRECT, guerre en Ukraine : Volodymyr Zelensky a annoncé un remaniement du gouvernement ; départ de la première ministre, Ioulia Svyrydenko</title>
+    <link>https://www.lemonde.fr/international/live/2026/07/13/en-direct-guerre-en-ukraine-volodymyr-zelensky-a-annonce-un-remaniement-du-gouvernement-depart-de-la-premiere-ministre-ioulia-svyrydenko_6722853_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/07/13/en-direct-guerre-en-ukraine-volodymyr-zelensky-a-annonce-un-remaniement-du-gouvernement-depart-de-la-premiere-ministre-ioulia-svyrydenko_6722853_3210.html</guid>
+    <pubDate>Mon, 13 Jul 2026 01:23:10 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[Dimanche, le président ukrainien a annoncé le départ de la première ministre, Ioulia Svyrydenko, en poste depuis un an, et un remaniement du gouvernement, pour correspondre à une modification de la « stratégie politique » ukrainienne.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/07/12/378/0/3894/1947/644/322/60/0/fb5f995_ftp-1-mvnhpyqbxdxh-5603270-01-06.jpg" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>Au Festival d’Avignon, des artistes en appellent à Emmanuel Macron : « Les coupes budgétaires nous obligent à crier, tant il y a urgence »</title>
     <link>https://www.lemonde.fr/culture/article/2026/07/13/au-festival-d-avignon-des-artistes-en-appellent-a-emmanuel-macron-les-coupes-budgetaires-nous-obligent-a-crier-tant-il-y-a-urgence_6722929_3246.html</link>
@@ -229,16 +239,6 @@
     <source url="https://loupeoff.github.io/loupe">Libération</source>
     <description><![CDATA[L’engrenage a débuté par des tirs iraniens sur un bateau dans le détroit. Les Américains ont répliqué par des frappes avant que Téhéran ne riposte en tirant des drones et missiles sur ses voisins du Golfe.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>EN DIRECT, guerre en Ukraine : Volodymyr Zelensky a annoncé un remaniement du gouvernement ; départ de la première ministre, Ioulia Svyrydenko</title>
-    <link>https://www.lemonde.fr/international/live/2026/07/12/en-direct-guerre-en-ukraine-volodymyr-zelensky-a-annonce-le-depart-de-la-premiere-ministre-ioulia-svyrydenko_6722853_3210.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/07/12/en-direct-guerre-en-ukraine-volodymyr-zelensky-a-annonce-le-depart-de-la-premiere-ministre-ioulia-svyrydenko_6722853_3210.html</guid>
-    <pubDate>Sun, 12 Jul 2026 19:24:01 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
-    <description><![CDATA[Dimanche, le président ukrainien a annoncé le départ de la première ministre, Ioulia Svyrydenko, en poste depuis un an, et un remaniement du gouvernement, pour correspondre à une modification de la « stratégie politique » ukrainienne.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/07/11/272/0/2000/1000/644/322/60/0/29cca18_ftp-1-m7spqu2wrqck-1ca8c3bc37b9442888f8dd8b7f200654-0-b8d75f9ddff1477ab23a665a98928520.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Mathieu van der Poel, une victoire pour lancer Alpecin et nourrir son histoire avec le Tour de France</title>
