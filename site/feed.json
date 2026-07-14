@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-07-13T23:02:56.772620+00:00",
+  "generated_at": "2026-07-14T00:00:45.062578+00:00",
   "article_count": 30,
   "articles": [
     {
+      "title": "Au Royaume-Uni, piste terroriste et polémique sur la sécurité des élus Reform UK après le meurtre d’Ann Widdecombe",
+      "url": "https://www.lemonde.fr/international/article/2026/07/14/au-royaume-uni-piste-terroriste-et-polemique-sur-la-securite-des-elus-reform-uk-apres-le-meurtre-d-ann-widdecombe_6723139_3210.html",
+      "summary": "L’ancienne députée conservatrice, devenue porte-parole du mouvement de Nigel Farage pour les sujets migratoires, avait été retrouvée morte chez elle, le 9 juillet.",
+      "image": "https://img.lemde.fr/2026/07/11/896/0/5378/2689/644/322/60/0/5a1fd7d_ftp-1-oihbaia3ook2-2026-07-11t103958z-320235383-rc2mbmadwgec-rtrmadp-3-britain-crime-widdecombe.JPG",
+      "published_at": "2026-07-14T01:24:08+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "152ab13429a6"
+    },
+    {
+      "title": "En Hongrie, le Parlement vote la destitution du président de la République",
+      "url": "https://www.lemonde.fr/international/article/2026/07/14/en-hongrie-le-parlement-vote-la-destitution-du-president-de-la-republique_6723138_3210.html",
+      "summary": "La réforme de la Constitution, initiée par le parti du premier ministre Péter Magyar, interdit également à deux tiers des députés du Fidesz de se représenter au Parlement lors des prochaines législatives, en 2030.",
+      "image": "https://img.lemde.fr/2026/07/11/0/0/5019/2509/644/322/60/0/19db243_ftp-1-xcobrtd2mk3j-5595692-01-06.jpg",
+      "published_at": "2026-07-14T01:21:59+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "9322eff3ac4d"
+    },
+    {
       "title": "Incendie en Andalousie : cinq Britanniques, trois Belges, une Française et un Espagnol parmi les 13 victimes",
       "url": "https://www.lemonde.fr/planete/article/2026/07/14/incendie-en-andalousie-cinq-britanniques-trois-belges-une-francaise-et-un-espagnol-parmi-les-13-victimes_6723137_3244.html",
-      "summary": "Les corps de trois victimes restent non identifiés et l’inconnue demeure sur d’autres potentielles victimes. Le premier ministre espagnol, Pedro Sanchez, s’est rendu lundi sur les lieux du feu, l’un des plus meurtriers de l’histoire récente du pays, et a appelé à développer une culture de la « prévention ».",
+      "summary": "Les corps de trois personnes restent non identifiés et l’inconnue demeure sur d’autres potentielles victimes. Le premier ministre espagnol, Pedro Sanchez, s’est rendu lundi sur les lieux du feu, l’un des plus meurtriers de l’histoire récente du pays, et a appelé à développer une culture de la « prévention ».",
       "image": "https://img.lemde.fr/2026/07/13/500/0/6048/3024/644/322/60/0/1b94157_ftp-1-ijb9k8f3aryn-5611087-01-06.jpg",
-      "published_at": "2026-07-14T00:56:26+02:00",
+      "published_at": "2026-07-14T00:56:22+02:00",
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "6769ec95ff4c"
@@ -281,26 +301,6 @@
       "source": "Libération",
       "category": "Sport",
       "id": "1feb5701695e"
-    },
-    {
-      "title": "Donald Trump annonce la mise en place d’un péage maritime sur le détroit d’Ormuz, où le trafic de navires s’est effondré",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/13/donald-trump-annonce-la-mise-en-place-d-un-peage-maritime-sur-le-detroit-d-ormuz-ou-le-trafic-de-navires-s-est-effondre_6723132_3234.html",
-      "summary": "Le président américain a déclaré, lundi 13 juillet, qu’il allait rétablir le blocus des ports iraniens et affirmé vouloir instaurer une taxe de 20 % pour les bateaux souhaitant traverser le détroit.",
-      "image": "https://img.lemde.fr/2026/07/13/274/0/3287/1643/644/322/60/0/4078ee9_ftp-1-g1dmuyj3ncss-a29a7d71c042454d8b866179ba914e64-0-2c981d5350114570a38489cd0631aecf.jpg",
-      "published_at": "2026-07-13T20:36:42+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "8b8f9248d82f"
-    },
-    {
-      "title": "Russie : Boris Nadejdine, opposant à Poutine et ancien candidat à la présidentielle, a été arrêté",
-      "url": "https://www.liberation.fr/international/europe/russie-boris-nadejdine-opposant-a-poutine-et-ancien-candidat-a-la-presidentielle-a-ete-arrete-20260713_74HRICXIQBHZRDUGNRGKDMARJQ/",
-      "summary": "L’ancien député libéral était l’un des rares à avoir publiquement critiqué le maître du Kremlin et l’offensive russe en Ukraine sans avoir été jusque-là emprisonné ou exilé. Il avait toutefois été classé «agent de l’étranger» vendredi 10 juillet.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-07-13T18:35:35+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "c02f1caea636"
     }
   ]
 }
