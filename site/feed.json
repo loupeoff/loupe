@@ -1,306 +1,306 @@
 {
-  "generated_at": "2026-07-15T17:25:23.805438+00:00",
+  "generated_at": "2026-07-15T19:24:33.044020+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "La polémique monte sur les Canadair, le ministre de l'Intérieur défend une flotte \"parmi les plus performantes d'Europe\"",
+      "title": "Au Canada, Toronto asphyxié par les fumées des feux de forêt et métropole la plus polluée au monde ce mercredi",
+      "url": "https://www.liberation.fr/international/amerique/au-canada-toronto-asphyxie-par-les-fumees-des-feux-de-foret-et-metropole-la-plus-polluee-au-monde-ce-mercredi-20260715_DJAWKKPGWBAATK45HGCZEYD53I/",
+      "summary": "La ville la plus peuplée du Canada est également ce mercredi 15 juillet la métropole la plus polluée au monde, devant Kinshasa et Delhi, en raison de feux de forêt et d’une vague de chaleur.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-15T19:19:18+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "cadd357dce63"
+    },
+    {
+      "title": "Emmanuel Macron se rendra jeudi matin à Fontainebleau, gravement touché par deux incendies",
+      "url": "https://www.franceinfo.fr/faits-divers/incendie/emmanuel-macron-se-rendra-jeudi-matin-a-fontainebleau-gravement-touche-par-deux-incendies_8109356.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les incendies, fixés mais pas encore éteints, ont parcouru plus de 2 000 hectares dans l'emblématique forêt située en région parisienne.",
+      "image": "https://www.franceinfo.fr/pictures/SlCzh6-JyGia0ancEPdPdZxB5Oc/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57dc9c3230e503266374.jpg",
+      "published_at": "2026-07-15T21:18:03+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "3e84cfd5d2a6"
+    },
+    {
+      "title": "Coupe du monde : un début de match très haché entre l'Angleterre et l'Argentine ! Suivez le choc entre les Three Lions et l'Albiceleste",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/direct-coupe-du-monde-apres-la-terrible-desillusion-pour-les-bleus-place-a-la-demi-finale-angleterre-argentine_8107688.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les deux équipes se retrouvent, mercredi soir à Atlanta, pour tenter de décrocher une place en finale du Mondial, face à l'Espagne.",
+      "image": "https://www.franceinfo.fr/pictures/TZl9AicxcNBqJHsZWe7q8TuczRo/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57da481d24f228703531.jpg",
+      "published_at": "2026-07-15T21:13:53+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "cb4678119497"
+    },
+    {
+      "title": "\"Ce droit à l'aide à mourir met en péril des gens fragiles\", regrette le président d'honneur du Comité consultatif national d'éthique",
+      "url": "https://www.franceinfo.fr/societe/euthanasie/ce-droit-a-l-aide-a-mourir-met-en-peril-des-gens-fragiles-regrette-le-president-d-honneur-du-comite-consultatif-national-d-ethique_8109347.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"J'aurais aimé qu'il y ait des mécanismes qui n'en feraient pas un droit qui s'impose aux autres, à la famille\", explique Didier Sicard.",
+      "image": "https://www.franceinfo.fr/pictures/GpZImSaG-J5FePbg_6rNyHywZeQ/0x223:4334x2661/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57db34eac89535879301.jpg",
+      "published_at": "2026-07-15T21:11:06+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "b2772d0e554c"
+    },
+    {
+      "title": "Coupe du monde 2026 : que sait-on des accusations qui visent la Fédération argentine de football ?",
+      "url": "https://www.liberation.fr/checknews/coupe-du-monde-2026-que-sait-on-des-accusations-qui-visent-la-federation-argentine-de-football-20260715_WPLZEDYXKBEM7BS4Q2JCAUKMH4/",
+      "summary": "Parmi de nombreuses polémiques, une enquête sur des opérations financières menées par les instances dirigeantes du foot argentin a été ouverte en pleine Coupe du monde.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-15T19:07:52+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "a11646e7a436"
+    },
+    {
+      "title": "Le Parlement adopte le projet de loi sur l’aide à mourir",
+      "url": "https://www.lemonde.fr/videos/video/2026/07/15/le-parlement-adopte-le-projet-de-loi-sur-l-aide-a-mourir_6723618_1669088.html",
+      "summary": "Pour entériner cette promesse d’Emmanuel Macron maintes fois retardée, le gouvernement avait donné le dernier mot à l’Assemblée nationale, qui a approuvé le texte par 291 voix contre 241, sous les yeux de partisans et d’opposants au texte, présents dans les tribunes.",
+      "image": "https://img.lemde.fr/2026/07/15/208/0/2500/1250/644/322/60/0/fdeafbf_upload-1-ke2r29f64lmd-jmug260715033.jpg",
+      "published_at": "2026-07-15T21:02:13+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "ec02b381df10"
+    },
+    {
+      "title": "\"C'est un grand jour pour les Françaises et les Français\", se félicite l'auteur de la loi sur l'aide à mourir, Olivier Falorni",
+      "url": "https://www.franceinfo.fr/societe/euthanasie/c-est-un-grand-jour-pour-les-francaises-et-les-francais-se-felicite-l-auteur-de-la-loi-sur-l-aide-a-mourir-olivier-falorni_8109338.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"L'Assemblée nationale a montré le plus beau visage d'elle-même en prenant à bras le corps cette question de société\" selon l'ancien député.",
+      "image": "https://www.franceinfo.fr/pictures/5_2XwkSIDc4MF3eu_P31OdV6c6g/0x312:6000x3687/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57d7708bed6158830870.jpg",
+      "published_at": "2026-07-15T20:54:50+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "66861927d8cb"
+    },
+    {
+      "title": "Incendies de Fontainebleau : le combat contre les flammes continue",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/incendies-de-fontainebleau-le-combat-contre-les-flammes-continue_8109329.html#xtor=RSS-3-[lestitres]",
+      "summary": "Des reprises de feu ont été signalées dans la forêt de Fontainebleau et les opérations des pompiers se sont poursuivies toute la journée, mercredi 15 juillet. Les centaines de personnes évacuées commencent progressivement à rentrer chez elles et à découvrir l'ampleur des dégâts.",
+      "image": "https://www.franceinfo.fr/pictures/jEKKlNGJnVIiJDJromDx96yhrLY/129x0:1591x822/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57d22e8a417853848340.png",
+      "published_at": "2026-07-15T20:51:53+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "c831c560d0ad"
+    },
+    {
+      "title": "Feux de forêt : face à la polémique sur le manque de Canadair, le ministre de l'Intérieur défend une flotte française \"parmi les plus performantes d'Europe\"",
       "url": "https://www.franceinfo.fr/faits-divers/incendie/la-polemique-monte-sur-les-canadair-le-ministre-de-l-interieur-defend-une-flotte-parmi-les-plus-performantes-d-europe_8109248.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Rassemblement national et La France insoumise accusent le camp présidentiel d'avoir annulé la commande de deux Canadair en 2024.",
+      "summary": "Le Rassemblement national et La France insoumise accusent notamment le camp présidentiel d'avoir annulé la commande de deux avions en 2024.",
       "image": "https://www.franceinfo.fr/pictures/mJ-sv0rS5XM7ihGvMl9IOSIZKcs/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57bf0e82704864935080.jpg",
-      "published_at": "2026-07-15T19:11:43+02:00",
+      "published_at": "2026-07-15T20:51:06+02:00",
       "source": "France Info",
       "category": "Politique",
       "id": "be99d95bbdf5"
     },
     {
-      "title": "Fin du changement d’heure : les États-Unis avancent, pendant que l’Europe reste bloquée depuis 2019",
-      "url": "https://www.numerama.com/sciences/2295721-fin-du-changement-dheure-les-etats-unis-avancent-pendant-que-leurope-reste-bloquee-depuis-2019.html",
-      "summary": "Les États-Unis pourraient bientôt en finir avec le changement d'heure, en conservant l'heure d'été. En Europe, le dossier est complètement bloqué depuis 2019 ; les pays de l'UE continuent donc de changer d'heure en mars et en octobre.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-07-15T17:10:00+00:00",
-      "source": "Numerama",
-      "category": "Économie",
-      "id": "2c8d17a74b23"
-    },
-    {
-      "title": "Candidat au poste de Défenseur des droits, François-Noël Buffet bousculé par la gauche lors de son audition devant les députés",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/15/candidat-au-poste-de-defenseur-des-droits-francois-noel-buffet-bouscule-par-la-gauche-lors-de-son-audition-devant-les-deputes_6723600_3224.html",
-      "summary": "Le profil du sénateur Les Républicains, proposé par Emmanuel Macron, lui vaut un tir de barrage de nombreux syndicats et associations. L’ex-ministre des outre-mer a notamment participé aux manifestations contre le mariage pour tous et s’est opposé à la constitutionnalisation de l’IVG.",
-      "image": "https://img.lemde.fr/2026/07/15/0/0/2500/1250/644/322/60/0/998a6e9_upload-1-6emcfoistmsn-jmug260715002.jpg",
-      "published_at": "2026-07-15T19:09:38+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "3d174b9c2253"
-    },
-    {
-      "title": "A politique inchangée, un déficit à la dérive : les prévisions pessimistes des économistes missionnés par Bercy",
-      "url": "https://www.lemonde.fr/politique/article/2026/07/15/a-politique-inchangee-un-deficit-a-la-derive-les-previsions-pessimistes-des-economistes-missionnes-par-bercy_6723598_823448.html",
-      "summary": "Sans mesure de redressement, le déficit public « se dégraderait fortement » pour atteindre près de 7 % du PIB en 2030, alerte un quatuor d’économistes, dans un rapport remis au gouvernement, mercredi 15 juillet, censé servir de « base objective » aux débats budgétaires de l’automne.",
-      "image": "https://img.lemde.fr/2026/07/15/14/0/7588/3794/644/322/60/0/f761534_upload-1-iealtpsphqr0-000-a9yb89l.jpg",
-      "published_at": "2026-07-15T19:00:06+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "bbc0d6c3c04e"
-    },
-    {
-      "title": "Festival d’Avignon, jour 12 : les hommages doux à Valère Novarina, le personnages aux tabous de Valérie Dréville",
-      "url": "https://www.liberation.fr/culture/scenes/festival-davignon-jour-12-les-hommages-doux-a-valere-novarina-le-personnages-aux-tabous-de-valerie-dreville-20260715_6P3ZE3YLWVENVDLYWSC7Y7J4EI/",
-      "summary": "Et aussi ce mercredi 15 juillet, l’interview fournaise de Marie-Sophie Ferdane.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-15T16:56:17+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "22250f2485fe"
-    },
-    {
-      "title": "Protoxyde d'azote, rodéos urbains, free parties... Le projet de loi Ripost sur la sécurité du quotidien largement adopté en première lecture à l'Assemblée",
-      "url": "https://www.franceinfo.fr/societe/l-assemblee-nationale-adopte-largement-en-premiere-lecture-le-projet-de-loi-ripost-sur-la-securite-du-quotidien_8109212.html#xtor=RSS-3-[lestitres]",
-      "summary": "Au total, 366 députés ont voté mercredi en faveur de ce texte, qui doit désormais faire l'objet d'une commission mixte paritaire.",
-      "image": "https://www.franceinfo.fr/pictures/BOU04pjzvqiH1u6iMzuj9sDT3Ds/0x93:1024x669/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57b926523bd583566277.jpg",
-      "published_at": "2026-07-15T18:54:10+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "80e65200f087"
-    },
-    {
-      "title": "Une enquête pour prise illégale d’intérêts a été ouverte après un signalement visant Renaud Muselier",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/15/une-enquete-pour-prise-illegale-d-interets-a-ete-ouverte-apres-un-signalement-visant-renaud-muselier_6723596_3224.html",
-      "summary": "Un fonctionnaire affirme qu’un employé de maison du président de la région Provence-Alpes-Côte d’Azur serait salarié par une société attributaire de marchés publics de cette collectivité.",
-      "image": "https://img.lemde.fr/2026/04/10/107/0/5348/2674/644/322/60/0/9a28302_upload-1-1vnlejks1ijw-000-629u39n.jpg",
-      "published_at": "2026-07-15T18:50:50+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "ec0fd546ef24"
-    },
-    {
-      "title": "Des baisses de rendement jusqu'à -20 % à prévoir pour les cultures de blé dans certaines régions en raison de la canicule, jusqu'à -60 % pour le houblon",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/des-baisses-de-rendement-jusqu-a-20-a-prevoir-pour-les-cultures-de-ble-dans-certaines-regions-en-raison-de-la-canicule-jusqu-a-60-pour-le-houblon_8109185.html#xtor=RSS-3-[lestitres]",
-      "summary": "En moyenne sur le territoire national, la baisse atteindrait 3% de moins cette année par rapport à la moyenne quinquennale 2021/2025.",
-      "image": "https://www.franceinfo.fr/pictures/enq000s9Tdhw3oF-9gribFfGfDU/0x0:8064x4536/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57b9b21c3ca983496930.jpg",
-      "published_at": "2026-07-15T18:47:57+02:00",
+      "title": "Jérôme Barella mis en examen pour le viol et le meurtre de Lyhanna, annonce le parquet d'Agen",
+      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-jerome-barella-entendu-par-le-juge-d-instruction-en-vue-de-sa-mise-en-examen-pour-le-viol-et-le-meurtre-de-la-fillette_8107760.html#xtor=RSS-3-[lestitres]",
+      "summary": "A ce stade, le principal suspect dans la mort de la collégienne était mis en examen pour enlèvement et séquestration.",
+      "image": "https://www.franceinfo.fr/pictures/6i7egHsDz4yE9sNrgIKsXqEQenE/0x80:1024x656/432x243/filters:format(jpg):quality(50)/2026/07/14/6a565895c3c69140763797.jpg",
+      "published_at": "2026-07-15T20:50:27+02:00",
       "source": "France Info",
       "category": "Société",
-      "id": "e217d3b3cace"
+      "id": "3a159578727c"
     },
     {
-      "title": "Huit pourvois en cassation déposés à ce stade dans l'affaire des assistants d'eurodéputés FN",
-      "url": "https://www.franceinfo.fr/politique/front-national/huit-pourvois-en-cassation-deposes-a-ce-stade-dans-l-affaire-des-assistants-d-eurodeputes-fn_8109122.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cela concerne notamment la cheffe de file du RN, Marine Le Pen, le député de l’Yonne et le porte-parole du Rassemblement national, Julien Odoul.",
-      "image": "https://www.franceinfo.fr/pictures/pz281F2AnPEYC6eo-h__AIapYLE/0x331:6363x3911/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57acfb69a28754488971.jpg",
-      "published_at": "2026-07-15T18:41:08+02:00",
+      "title": "En Egypte, une soixantaine de personnes en lien avec le mouvement « Gen Z » ont été arrêtées depuis la fin de l’année 2026, selon une ONG",
+      "url": "https://www.lemonde.fr/afrique/article/2026/07/15/en-egypte-une-soixantaine-de-personnes-en-lien-avec-le-mouvement-gen-z-ont-ete-arretees-depuis-la-fin-de-l-annee-2026-selon-une-ong_6723616_3212.html",
+      "summary": "Les personnes interpellées avaient rejoint un serveur fondé par Anas Habib sur la plateforme en ligne Discord. Depuis l’étranger, cet activiste appelle les Egyptiens à exprimer leur opposition par le biais de graffitis ou en distribuant des tracts.",
+      "image": "https://img.lemde.fr/2026/07/15/420/0/5045/2522/644/322/60/0/9a87c66_upload-1-dyky8riadaoj-089-mei-netherlands-wbm-spasgr-20250723-0001.jpg",
+      "published_at": "2026-07-15T20:50:10+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "cce1cf6e38d0"
+    },
+    {
+      "title": "Sans changement de politique, le déficit public atteindra 6,8% du PIB et la dette 130% en 2030, selon un rapport d'économistes missionnés par Bercy",
+      "url": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/a-politique-inchangee-le-deficit-public-atteindrait-6-8-du-pib-en-2030-et-la-dette-130-selon-des-economistes-missionnes-par-bercy_8109281.html#xtor=RSS-3-[lestitres]",
+      "summary": "D'après ces experts, quelque 126 milliards d'euros d'efforts budgétaires seront nécessaires d'ici 2032, à entreprendre impérativement dès 2027 pour stabiliser la dette publique française.",
+      "image": "https://www.franceinfo.fr/pictures/1QKuNHkD9WnbO06MDO0nb1ZhzBU/0x25:1024x601/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57c952224b6741177205.jpg",
+      "published_at": "2026-07-15T20:40:44+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "2379841ebb9d"
+    },
+    {
+      "title": "L’Union européenne accepte les mesures correctives de X après l’amende de 120 millions d’euros prononcée à la fin de 2025",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/15/l-union-europeenne-accepte-les-mesures-correctives-de-x-apres-l-amende-de-120-millions-d-euros-prononcee-a-la-fin-de-2025_6723612_4408996.html",
+      "summary": "« C’est un pas important dans la bonne direction », a salué Thomas Regnier, porte-parole de la Commission européenne en matière de numérique. Cela ne met cependant pas un terme au litige, l’ex-Twitter ayant fait appel de l’amende européenne en février.",
+      "image": "https://img.lemde.fr/2026/07/08/214/0/2567/1283/644/322/60/0/0acb7f6_ftp-1-xugt2iodnu8h-2026-07-08t205010z-814711673-rc2y8la6l3sl-rtrmadp-3-usa-sec-musk.JPG",
+      "published_at": "2026-07-15T20:39:22+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "919a06cd5d56"
+    },
+    {
+      "title": "Adoption de la loi sur la fin de vie : un vote pour l’histoire et la liberté",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/adoption-de-la-loi-sur-la-fin-de-vie-un-vote-pour-lhistoire-et-la-liberte-20260715_IDKKV263SVAP7L2PBG2ZBL44LM/",
+      "summary": "Voté mercredi à l’Assemblée après plus de deux ans de débats difficiles, le texte sur l’aide à mourir est un progrès sur un sujet d’une intimité abyssale.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-15T18:39:01+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "d4941b47b0be"
+    },
+    {
+      "title": "Affaire Lyhanna : Jérôme Barella mis en examen pour le meurtre et le viol de la collégienne de 11 ans",
+      "url": "https://www.liberation.fr/societe/police-justice/jerome-barella-va-etre-entendu-par-un-juge-dinstruction-pour-le-meurtre-et-le-viol-de-lyhanna-20260715_FWPLWYKDPRFTXNB67DB4EAZN6E/",
+      "summary": "Le principal suspect dans la mort de la collégienne a également été mis en examen ce mercredi 15 juillet pour viols sur mineure de moins de 15 ans dans l’affaire dite «Rosa».",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-15T18:38:40+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "81923508ecad"
+    },
+    {
+      "title": "Découvrez si votre député a voté pour ou contre la loi sur l'aide à mourir",
+      "url": "https://www.franceinfo.fr/societe/euthanasie/decouvrez-si-votre-depute-a-vote-pour-ou-contre-la-loi-sur-l-aide-a-mourir_8108873.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ce texte autorise sous certaines conditions le suicide assisté pour les malades incurables en grande souffrance.",
+      "image": "https://www.franceinfo.fr/pictures/fiwg4AcuQhGAWdwwEtMLQi4_gy8/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57cb604e5a0626197316.jpg",
+      "published_at": "2026-07-15T20:38:22+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "519ea1ef44ac"
+    },
+    {
+      "title": "EN DIRECT, guerre au Moyen-Orient : les dernières informations après la reprise des hostilités entre l’Iran et les Etats-Unis",
+      "url": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-au-moyen-orient-les-dernieres-informations-apres-la-reprise-des-hostilites-entre-l-iran-et-les-etats-unis_6722873_3210.html",
+      "summary": "L’armée américaine a annoncé mercredi avoir mené une « vague de quatre-vingt-dix minutes » de bombardements contre des cibles militaires dans l’île iranienne de Grande Tunb et avoir « réduit la capacité de l’Iran à attaquer les navires commerciaux dans le détroit d’Ormuz ».",
+      "image": "https://img.lemde.fr/2026/07/15/109/0/3500/1750/644/322/60/0/3338adf_ftp-1-bqovemmi51cj-5626082-01-06.jpg",
+      "published_at": "2026-07-15T20:37:14+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "0fcf5415d671"
+    },
+    {
+      "title": "Un rapport du Sénat réclame un meilleur encadrement des fonds privés : Pierre-Edouard Stérin, c’est «l’arbre qui cache la forêt»",
+      "url": "https://www.liberation.fr/politique/un-rapport-du-senat-reclame-un-meilleur-encadrement-des-fonds-prives-pierre-edouard-sterin-cest-larbre-qui-cache-la-foret-20260715_QBVHFRAOZVCOXNDZQ4FEAQI7MI/",
+      "summary": "Les sénatrices à l’origine de la commission d’enquête plaident pour appliquer le droit en vigueur, qui prévoit des sanctions fiscales et pénales contre les organismes d’intérêt général qui ne respecteraient pas leurs attributions.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-15T18:29:52+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "945326cd00ee"
+    },
+    {
+      "title": "Elon Musk qualifie Marine Le Pen de « dernier espoir de la France »",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/15/elon-musk-qualifie-marine-le-pen-de-dernier-espoir-de-la-france_6723610_4408996.html",
+      "summary": "Jusque-là peu investi dans la politique française alors qu’il s’est déjà illustré par son interventionnisme dans d’autres pays, l’homme le plus riche du monde a apporté mercredi publiquement son soutien à la candidate du Rassemblement national.",
+      "image": "https://img.lemde.fr/2026/06/25/589/0/5500/2750/644/322/60/0/a48800e_ftp-1-xu1e7rldpw7u-2026-06-25t194339z-1664075663-rc2q8lagbuw4-rtrmadp-3-usa-election-musk-lawsuits.JPG",
+      "published_at": "2026-07-15T20:29:10+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "4cc4fe5132b2"
+    },
+    {
+      "title": "Fin de vie : la France crée un droit sur l'aide à mourir",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/fin-de-vie-la-france-cree-un-droit-sur-l-aide-a-mourir_8109323.html#xtor=RSS-3-[lestitres]",
+      "summary": "Après un débat qui aura duré quatre ans, l'Assemblée nationale a définitivement adopté la loi sur la fin de vie. Elle instaure un droit sur l'aide à mourir sous conditions strictes.",
+      "image": "https://www.franceinfo.fr/pictures/mnYETrYfEHqbE3WAgUAFKwtfXIM/106x0:1555x815/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57cd93e98c2895613558.png",
+      "published_at": "2026-07-15T20:25:17+02:00",
       "source": "France Info",
       "category": "Politique",
-      "id": "1ac939f06fcf"
+      "id": "2332561173e5"
     },
     {
-      "title": "25 ans du Nifff : le festival fête son zarb de siècle",
-      "url": "https://www.liberation.fr/culture/cinema/25-ans-du-nifff-le-festival-fete-son-zarb-de-siecle-20260715_M4HTQNVZOJCYHETMEXMB264HHI/",
-      "summary": "Le rendez-vous suisse du film fantastique continue sa sélection d’œuvres délicieusement bizarres avec une fixette, cette année, sur les grossesses compliquées.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-07-15T16:38:15+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "dbfcecc3ad16"
-    },
-    {
-      "title": "EN DIRECT - Forêt de Fontainebleau : détention provisoire requise contre deux suspects, dont un pompier volontaire",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-incendies-fin-de-lalerte-rouge-69-departements-en-vigilance-orange-20260715_35JNCH4XSZAWDJUFUFJXUT4NPY/",
-      "summary": "Pendant qu’environ 800 pompiers restent à pied d’œuvre ce mercredi 15 juillet pour éviter les reprises de feu, un homme a été interpellé sur un parking près de la forêt de Fontainebleau, soupçonné d’avoir voulu provoquer un nouvel incendie.",
+      "title": "«C’est un jour de fête, ils nous font chier» : sur le passage du Tour de France dans l’Allier, barbecues et alcool interdits",
+      "url": "https://www.liberation.fr/societe/cest-un-jour-de-fete-ils-nous-font-chier-sur-le-passage-du-tour-de-france-dans-lallier-barbecues-et-alcool-interdits-20260715_2QCXZM6NTVCE5OVNLIXB2BXNAI/",
+      "summary": "A l’occasion du passage de la onzième étape du Tour dans le département ce mercredi 15 juillet, la préfecture a pris plusieurs mesures de restriction, dans un contexte de canicule et de risque d’incendie. Une décision que les spectateurs bravent volontiers.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-15T16:37:10+00:00",
+      "published_at": "2026-07-15T18:23:38+00:00",
       "source": "Libération",
       "category": "Sport",
+      "id": "262a743d9a2d"
+    },
+    {
+      "title": "EN DIRECT - Incendie de Fontainebleau : Emmanuel Macron sera jeudi matin sur place",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-incendies-fin-de-lalerte-rouge-69-departements-en-vigilance-orange-20260715_35JNCH4XSZAWDJUFUFJXUT4NPY/",
+      "summary": "Pendant que 950 pompiers sont restés à pied d’œuvre ce mercredi 15 juillet pour éviter les reprises de feu, un homme a été interpellé sur un parking près de la forêt de Fontainebleau, soupçonné d’avoir voulu provoquer un nouvel incendie.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-15T18:19:27+00:00",
+      "source": "Libération",
+      "category": "Politique",
       "id": "ddb4b1c3a620"
     },
     {
-      "title": "La comédienne Marie-Sophie Ferdane au Festival d’Avignon : «Le théâtre n’est pas un art solitaire»",
-      "url": "https://www.liberation.fr/culture/la-comedienne-marie-sophie-ferdane-au-festival-davignon-le-theatre-nest-pas-un-art-solitaire-20260715_66ZKC3AULFHJVHEW52MDYCFWYU/",
-      "summary": "L’actrice, présente dans le off 2026 avec «Barbara», évoque son lien fort au festival, auquel elle vient depuis plus de vingt ans, d’une nuit passée dans un squat au bonheur du sirocco qui souffle sur la ville en passant, forcément, par le danger budgétaire qui menace la culture.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-07-15T16:35:45+00:00",
+      "title": "Loi sur la fin de vie adoptée : «C’est un cadeau, pour nous, malades, et nos proches»",
+      "url": "https://www.liberation.fr/societe/loi-sur-la-fin-de-vie-adoptee-cest-un-cadeau-pour-nous-malades-et-nos-proches-20260715_FF45KSAZA5DYDGQPEVISTOPDKU/",
+      "summary": "Alors que la loi légalisant une aide à mourir a été adoptée mercredi, «Libé» donne la parole à quatre personnes atteintes de maladies incurables. Invisibilisées pendant les débats parlementaires, elles saluent ce moment historique, tout en confiant leurs doutes et leurs angoisses.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-15T18:07:36+00:00",
       "source": "Libération",
-      "category": "Culture",
-      "id": "07ce3ffd7edb"
-    },
-    {
-      "title": "Tour de France 2026 : à Nevers, l’adieu aux armes d’Alaphilippe, la victoire de Wærenskjold",
-      "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-2026-a-nevers-ladieu-aux-armes-dalaphilippe-la-victoire-de-waerenskjold-20260715_ZH2CHMKR5ZHW5GY3B7BS25FF5Y/",
-      "summary": "Lors de l’étape la plus rapide de l’histoire du Tour (50,91 km/h) entre Vichy et la Nièvre, le champion français a montré que, malgré l’envie, il n’avait plus les jambes.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-15T16:34:49+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "51004a583605"
-    },
-    {
-      "title": "«L’Europe est de retour» : six ans après le Brexit, la frontière entre l’Espagne et Gibraltar s’efface",
-      "url": "https://www.liberation.fr/international/europe/leurope-est-de-retour-six-ans-apres-le-brexit-la-frontiere-entre-lespagne-et-gibraltar-sefface-20260715_3MJDERBLWJG4ZNJJNUSNTBBINY/",
-      "summary": "Avec la mise en place d’un traité de libre circulation entre le territoire britannique et l’Espagne, c’est officiellement la fin de longues minutes d’attente à la frontière pour des milliers de citoyens. Un changement très attendu par les travailleurs transfrontaliers.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-07-15T16:34:22+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "915ec4c90527"
-    },
-    {
-      "title": "Canicule : à Saint-Émilion, les touristes désertent les rues et les commerçants s'inquiètent",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-a-saint-emilion-les-touristes-desertent-les-rues-et-les-commercants-s-inquietent_8108906.html#xtor=RSS-3-[lestitres]",
-      "summary": "Très fréquentée en été, la cité médiévale girondine tourne au ralenti sous l'effet des fortes chaleurs. Les visiteurs privilégient les heures les plus fraîches, tandis que restaurateurs et commerçants constatent déjà une nette baisse de leur activité pendant cette période importante pour leur chiffre d'affaires.",
-      "image": "https://www.franceinfo.fr/pictures/5xq1bphJ_U1sHsKINFeUH1Zqe0M/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/15/6a5793a7ab089872536980.jpg",
-      "published_at": "2026-07-15T18:32:53+02:00",
-      "source": "France Info",
       "category": "Politique",
-      "id": "2cb89252fb1a"
+      "id": "6c227fb97bc5"
     },
     {
-      "title": "Quinze départements en vigilance orange aux orages, 69 départements encore en alerte orange canicule",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-vigilance-rouge-canicule-est-levee-mais-69-departements-restent-en-vigilance-orange-et-11-sont-concernes-par-un-risque-d-orages_8108324.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'alerte orange aux orages concerne l'Ille-et-Vilaine, la Manche, la Mayenne, l'Orne, la Sarthe, le Doubs, le Jura, l'Ain, le Rhône, la Loire, la Haute-Savoie, la Savoie, l'Isère, la Drôme et l'Ardèche.",
-      "image": "https://www.franceinfo.fr/pictures/qFbV9moMZ9IqHnAXkQP7UaSNXpM/0x52:1024x628/432x243/filters:format(jpg):quality(50)/2026/07/15/6a5771c7496cb990639055.jpg",
-      "published_at": "2026-07-15T18:31:28+02:00",
-      "source": "France Info",
+      "title": "Des députés déplorent un manque de données disponibles sur les plus hauts patrimoines",
+      "url": "https://www.liberation.fr/economie/des-deputes-deplorent-un-manque-de-donnees-disponibles-sur-les-plus-hauts-patrimoines-20260715_6QJ6C5HBYBHTXBXW7L4YLXGAMQ/",
+      "summary": "Mercredi 15 juillet, une commission d’enquête parlementaire a signalé une carence en données sur la composition du patrimoine et des revenus des foyers les plus fortunés, rejoignant un constat partagé par des sénateurs, et appelle à renforcer les connaissances en la matière.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-15T18:04:25+00:00",
+      "source": "Libération",
       "category": "Politique",
-      "id": "3838493fc138"
+      "id": "853627038a2b"
     },
     {
-      "title": "L’Union européenne revoit un statut de protection des Ukrainiens qui fuient le front",
-      "url": "https://www.lemonde.fr/international/article/2026/07/15/l-union-europeenne-revoit-un-statut-de-protection-des-ukrainiens-qui-fuient-le-front_6723594_3210.html",
-      "summary": "Mercredi 15 juillet, les Etats membres ont prolongé le statut de protection temporaire accordé aux personnes fuyant l’Ukraine jusqu’au 4 mars 2028. Néanmoins, à la demande de Kiev, ils ont décidé d’en exclure les futurs réfugiés n’ayant pas rempli leurs obligations militaires.",
-      "image": "https://img.lemde.fr/2026/07/15/366/0/4396/2198/644/322/60/0/ce8b884_ftp-1-yfg6il7iogds-5626916-01-06.jpg",
-      "published_at": "2026-07-15T18:30:01+02:00",
+      "title": "Dans le Sahara libyen, une nouvelle rébellion fragilise l’emprise du clan du maréchal Khalifa Haftar",
+      "url": "https://www.lemonde.fr/afrique/article/2026/07/15/dans-le-sahara-libyen-une-nouvelle-rebellion-fragilise-l-emprise-du-clan-du-marechal-khalifa-haftar_6723605_3212.html",
+      "summary": "L’Armée nationale libyenne, toute puissante en Cyrénaïque, voit son autorité de plus en plus contestée dans le Fezzan, province désertique riche en hydrocarbures.",
+      "image": "https://img.lemde.fr/2026/07/14/0/0/1588/794/644/322/60/0/211a427_upload-1-qyw4z2thvn4h-capture-d-e-cran-2026-07-14-a-15-32-44.png",
+      "published_at": "2026-07-15T20:00:10+02:00",
       "source": "Le Monde Inter",
       "category": "International",
-      "id": "19543f72eb42"
+      "id": "4d996388302a"
     },
     {
-      "title": "Tour de France 2026 : le résumé de la victoire surprise de Soren Waerenskjold sur la 11e étape",
-      "url": "https://www.franceinfo.fr/tour-de-france/video-tour-de-france-2026-le-resume-de-la-victoire-surprise-de-soren-waerenskjold-sur-la-11e-etape_8109149.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Norvégien a remporté sa première victoire en carrière sur le Tour de France, mercredi, au terme d'un sprint massif totalement désorganisé.",
-      "image": "https://www.franceinfo.fr/pictures/ORSau5tX3QqhC8XYvLvyzrVeW3A/0x713:6852x4568/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57b34a6b2c5319483735.jpg",
-      "published_at": "2026-07-15T18:24:51+02:00",
+      "title": "« Je n’ai plus qu’à lui dire adieu » : la Chine veut juguler les IA simulant les relations humaines",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/15/je-n-ai-plus-qu-a-lui-dire-adieu-la-chine-veut-juguler-les-ia-simulant-les-relations-humaines_6723604_4408996.html",
+      "summary": "Les internautes chinois ont massivement adopté les agents IA pour des relations amicales ou amoureuses. Une tendance contre laquelle Pékin tente désormais de lutter en imposant, mercredi, de nouvelles restrictions.",
+      "image": "https://img.lemde.fr/2026/07/15/915/0/5487/2743/644/322/60/0/a105870_upload-1-2ww2vk8boumg-000-96rx8ke.jpg",
+      "published_at": "2026-07-15T20:00:08+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "47a54f8c5086"
+    },
+    {
+      "title": "Critères d'accès, délai de réflexion, clause de conscience... Que prévoit la loi sur l'aide à mourir, que le Parlement vient d'adopter définitivement ?",
+      "url": "https://www.franceinfo.fr/societe/euthanasie/criteres-d-acces-delai-de-reflexion-clause-de-conscience-que-prevoit-la-loi-sur-l-aide-a-mourir-que-le-parlement-vient-d-adopter-definitivement_8095940.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les députés ont donné, mercredi, un feu vert décisif à cette réforme majeure du quinquennat d'Emmanuel Macron. Ce vote survient deux mois après l'adoption d'un texte destiné à améliorer l'accès aux soins palliatifs.",
+      "image": "https://www.franceinfo.fr/pictures/RclKi24tSgyjiQaL8_aVFMz2F30/0x520:5000x3333/432x243/filters:format(jpg):quality(50)/2026/07/06/6a4b6e8d779d0239736296.jpg",
+      "published_at": "2026-07-15T19:54:30+02:00",
       "source": "France Info",
-      "category": "Sport",
-      "id": "b6ad7e002cf7"
+      "category": "Politique",
+      "id": "7768ca4c5b0a"
     },
     {
-      "title": "\"Ça s'appelle des pyromanes\" : le profil déroutant des incendiaires impliqués dans les feux de forêt",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/ca-s-appelle-des-pyromanes-le-profil-deroutant-des-incendiaires-impliques-dans-les-feux-de-foret_8108771.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'incendie qui ravage la forêt de Fontainebleau depuis dimanche 12 juillet serait d’origine humaine. Cinq personnes ont été placées en garde à vue, dont un pompier volontaire de 18 ans qui a reconnu les faits. Depuis le début de l'été, 59 individus ont été interpellés, soupçonnés d'être des incendiaires.",
-      "image": "https://www.franceinfo.fr/pictures/yF9i6EVzXm0RBOjjJoVkGNVXhE0/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57724a96840962010022.jpg",
-      "published_at": "2026-07-15T18:22:37+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "a20a51e926ac"
-    },
-    {
-      "title": "Feux en forêt de Fontainebleau : une enquête ouverte pour destruction par incendie, deux suspects présentés à un juge",
-      "url": "https://www.franceinfo.fr/faits-divers/incendie/feux-en-foret-de-fontainebleau-une-information-judiciaire-ouverte-pour-destruction-par-incendie-deux-suspects-presentes-a-un-juge_8109059.html#xtor=RSS-3-[lestitres]",
-      "summary": "Deux jeunes hommes âgés de 18 ans, sans lien entre eux, ont reconnu leur implication volontaire dans les départs de feux qui ont eu lieu le 13 juillet à Arbonne-la-Forêt et à Fontainebleau. L'un d'eux est étudiant, le second est sapeur-pompier volontaire.",
-      "image": "https://www.franceinfo.fr/pictures/vtiTbyUnfR86q3PIV6tX4GnkOs4/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57a5a20bcf7823664515.jpg",
-      "published_at": "2026-07-15T18:21:17+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "1d906a74d0e0"
-    },
-    {
-      "title": "Royaume-Uni : dernière séance de questions au Parlement pour Keir Starmer",
-      "url": "https://www.lemonde.fr/international/video/2026/07/15/royaume-uni-derniere-seance-de-questions-au-parlement-pour-keir-starmer_6723593_3210.html",
-      "summary": "Le premier ministre britannique sortant Keir Starmer a promis mercredi d’apporter « tout son soutien » à son successeur Andy Burnham, lors de sa dernière séance de questions au Parlement, marquée par l’émotion, l’humour et des allusions footballistiques.",
-      "image": "https://img.lemde.fr/2026/07/15/500/0/6000/3000/644/322/60/0/b8d456a_ftp-1-h344u4rbc5sv-2026-07-15t115700z-800430184-rc2bemanmrn5-rtrmadp-3-britain-politics-pmqs.JPG",
-      "published_at": "2026-07-15T18:21:13+02:00",
+      "title": "EN DIRECT, guerre en Ukraine : le ministre de la défense ukrainien annonce sa démission",
+      "url": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-en-ukraine-volodymyr-zelensky-encourage-l-ue-a-adopter-un-nouveau-paquet-de-sanctions-contre-la-russie_6722853_3210.html",
+      "summary": "Mykhaïlo Fedorov a déclaré mercredi qu’il quittait ses fonctions, après la démission de la première ministre, Ioulia Svyrydenko, dans le cadre d’un remaniement gouvernemental voulu par le président, Volodymyr Zelensky.",
+      "image": "https://img.lemde.fr/2026/07/13/365/0/4383/2191/644/322/60/0/d4479d2_ftp-1-x7jt4t2fizlu-2026-07-13t165042z-1414023982-rc2w4majpjrj-rtrmadp-3-ukraine-crisis-government.JPG",
+      "published_at": "2026-07-15T19:53:11+02:00",
       "source": "Le Monde Inter",
       "category": "Politique",
-      "id": "273a686055e9"
+      "id": "9e98956e736c"
     },
     {
-      "title": "« Sans exception », Musk promet l’open source total de X",
-      "url": "https://www.numerama.com/tech/2295687-sans-exception-musk-promet-lopen-source-total-de-x.html",
-      "summary": "Elon Musk a promis, sur X, de publier l'intégralité du code source de la plateforme une fois une revue de sécurité achevée. Mais sa précédente promesse de transparence, plus limitée, montre déjà les limites de l'exercice.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-15T16:20:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "a82da7f8bb94"
-    },
-    {
-      "title": "Friedrich Merz pas opposé à la reprise d’usines automobiles allemandes par des concurrents chinois",
-      "url": "https://www.liberation.fr/economie/transports/friedrich-merz-pas-oppose-a-la-reprise-dusines-automobiles-allemandes-par-des-concurrents-chinois-20260715_T76R43PRCJD4FJJ3RQGFZTRJIA/",
-      "summary": "Dans un contexte de profonde crise du secteur en Allemagne, le chancelier y voit «une solution de dernier recours». Alors que Volkswagen pourrait supprimer 100 000 emplois, Merz dénonce les autorités chinoises qui sous-évaluent leur monnaie pour doper leurs exportations.",
+      "title": "«Il est prioritaire d’interroger le montant des dépenses publiques» : des économistes au secours du gouvernement",
+      "url": "https://www.liberation.fr/economie/il-est-prioritaire-dinterroger-le-montant-des-depenses-publiques-des-economistes-au-secours-du-gouvernement-20260715_2KS4XM2CEZFO7OO2UNK2ZJE2DM/",
+      "summary": "Pour préparer le budget 2027, Bercy mise sur la parole scientifique de quatre économistes «indépendants» chargés d’établir un diagnostic de la trajectoire des finances publiques. Sans mesures de redressement, ils estiment le déficit public pour l’an prochain à 5,9 % de la richesse nationale.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-15T16:17:34+00:00",
+      "published_at": "2026-07-15T17:46:49+00:00",
       "source": "Libération",
       "category": "Politique",
-      "id": "86553ea58709"
+      "id": "f62067693ffd"
     },
     {
-      "title": "Locations touristiques illégales à Paris : une propriétaire et sa conciergerie condamnées chacune à 220 000 euros d’amende",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/15/locations-touristiques-illegales-une-proprietaire-et-sa-conciergerie-condamnees-a-440-000-euros-d-amende-a-paris_6723592_3234.html",
-      "summary": "« Pendant trop longtemps, certains ont fait passer la rentabilité avant le droit au logement », a réagi le maire socialiste de Paris, Emmanuel Grégoire.",
-      "image": "https://img.lemde.fr/2025/08/06/125/0/1500/750/644/322/60/0/2f2723d_upload-1-cm0isgow3pze-lmargent209.jpg",
-      "published_at": "2026-07-15T18:14:20+02:00",
-      "source": "Le Monde Politique",
-      "category": "Économie",
-      "id": "464c306bbadc"
-    },
-    {
-      "title": "La décision de Rachida Brakni de refuser la Légion d’honneur est un acte honorable",
-      "url": "https://www.liberation.fr/culture/la-decision-de-rachida-brakni-de-refuser-la-legion-dhonneur-est-un-acte-honorable-20260715_FUJQXXF2N5CZZEIMMEBEVCV45M/",
-      "summary": "La comédienne a décliné la décoration qui lui a été décernée mardi 14 juillet car elle estime que son honneur «est ailleurs». De quoi s’interroger : un gouvernement peut-il choisir les honorables ? A fortiori quand on trouve parmi ceux-ci de vrais héros comme des copains du pouvoir, des champions comme des immoraux.",
+      "title": "«Un peu de joie ne nous aurait pas fait de mal» : après la défaite en demi-finale, la France des maux Bleus",
+      "url": "https://www.liberation.fr/sports/un-peu-de-joie-ne-nous-aurait-pas-fait-de-mal-apres-la-defaite-en-demi-finale-la-france-des-maux-bleus-20260715_Z5C2VHDURRGYNKAIGIGPNASZYI/",
+      "summary": "De Paris aux Pyrénées-Orientales en passant par Vichy (Allier) et Romainville (Seine-Saint-Denis), les supporteurs français ont du mal à sécher leurs larmes après l’élimination d’une équipe que tout le monde voyait déjà remporter le tournoi. Récit d’une gueule de bois collective.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-15T16:14:16+00:00",
+      "published_at": "2026-07-15T17:41:22+00:00",
       "source": "Libération",
       "category": "Politique",
-      "id": "b78769500d75"
-    },
-    {
-      "title": "Girondins de Bordeaux : l’exclusion du club de foot des compétitions nationales confirmée en appel",
-      "url": "https://www.liberation.fr/sports/football/girondins-de-bordeaux-lexclusion-du-club-de-foot-des-competitions-nationales-confirmee-en-appel-20260715_FTNULYDJLVD75FWNZUYUKG43NA/",
-      "summary": "Le recours intenté par le club au scapulaire, six fois vainqueur de la Ligue 1, n’a pas abouti, a fait part ce mercredi 15 juillet la DNCG, gendarme financier du football français. Les Girondins sont officiellement rétrogradés, au mieux, en Régional 1.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-15T16:12:52+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "82a7023e5215"
-    },
-    {
-      "title": "Le tribunal administratif donne tort au Collège de France pour l’annulation d’un colloque sur la Palestine, en novembre 2025",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/15/le-tribunal-administratif-donne-tort-au-college-de-france-pour-l-annulation-d-un-colloque-sur-la-palestine-en-novembre-2025_6723591_3224.html",
-      "summary": "L’administrateur de l’institution avait évoqué un risque de « débordements ». Les participants, eux, avaient dénoncé une entrave à la liberté d’expression. Lors de l’audience, le rapporteur public a jugé la décision d’annulation « disproportionnée ».",
-      "image": "https://img.lemde.fr/2026/07/15/34/0/4293/2146/644/322/60/0/9b36ae3_upload-1-qwlfzk9srq1b-000-36wu3ln.jpg",
-      "published_at": "2026-07-15T18:10:09+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "3172dec96800"
-    },
-    {
-      "title": "Une ONG israélienne dénonce un plan de 2,3 milliards d’euros pour les colonies en Cisjordanie occupée",
-      "url": "https://www.lemonde.fr/international/article/2026/07/15/une-ong-israelienne-denonce-un-plan-de-2-3-milliards-d-euros-pour-les-colonies-en-cisjordanie-occupee_6723590_3210.html",
-      "summary": "Le ministre des finances de l’Etat hébreu, Bezalel Smotrich, a promis la construction d’environ 12 000 nouveaux logements dans ces colonies, toutes illégales au regard du droit international.",
-      "image": "https://img.lemde.fr/2026/07/15/400/0/4800/2400/644/322/60/0/121931b_upload-1-3eyzfldatjeg-000-b79v9p6.jpg",
-      "published_at": "2026-07-15T18:07:22+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "f41bb87cd9ca"
-    },
-    {
-      "title": "\"Annuler, c'est mettre en danger nos activités\" : Le Hasard ludique, un tiers-lieu culturel indépendant, navigue tant bien que mal entre les vagues de chaleur",
-      "url": "https://www.franceinfo.fr/culture/musique/annuler-c-est-mettre-en-danger-nos-activites-le-hasard-ludique-un-tiers-lieu-culturel-independant-navigue-tant-bien-que-mal-entre-les-vagues-de-chaleur_8108540.html#xtor=RSS-3-[lestitres]",
-      "summary": "À l'occasion de la fête nationale, mardi, Le Hasard ludique a organisé un concert en extérieur avec plusieurs DJ sets. Sous un soleil ardent, les festivités ont été chamboulées.",
-      "image": "https://www.franceinfo.fr/pictures/ddKB0OiFmMqOpFt22FnjQne8b1w/0x750:4000x3000/432x243/filters:format(jpg):quality(50)/2026/07/15/6a574346badae805301807.jpg",
-      "published_at": "2026-07-15T18:06:34+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "e2aa9665ea10"
-    },
-    {
-      "title": "Incarcérations, enquêtes ouvertes, nouvelles plaintes... Cinq chiffres à retenir de l'état des lieux des violences sexuelles sur mineurs dressé par Gérald Darmanin",
-      "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/incarcerations-enquetes-ouvertes-nouvelles-plaintes-cinq-chiffres-a-retenir-de-l-etat-des-lieux-des-violences-sexuelles-sur-mineurs-dresse-par-gerald-darmanin_8109047.html#xtor=RSS-3-[lestitres]",
-      "summary": "Au total, 69 626 dossiers de crimes et délits de nature sexuelle ont été revus sur l'ensemble du territoire et 85 047 plaintes ont été recensées par les procureurs.",
-      "image": "https://www.franceinfo.fr/pictures/3aIP1Vzoz3nF1ocq8Hyp5PhXkKs/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57a4206e232767458672.jpg",
-      "published_at": "2026-07-15T17:57:08+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "d536c6cd97f7"
+      "id": "3df949f60eb5"
     }
   ]
 }
