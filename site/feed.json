@@ -1,23 +1,83 @@
 {
-  "generated_at": "2026-07-15T00:01:05.177462+00:00",
+  "generated_at": "2026-07-15T03:21:00.735806+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "En Turquie, le souvenir amer du putsch manqué du 15 juillet 2016",
+      "url": "https://www.lemonde.fr/international/article/2026/07/15/en-turquie-le-souvenir-amer-du-putsch-manque-du-15-juillet-2016_6723451_3210.html",
+      "summary": "Une union sacrée avait suivi la tentative de militaires de renverser le régime de Recep Tayyip Erdogan, mais l’événement a marqué le début d’une répression accrue et d’une restriction des libertés dans le pays.",
+      "image": "https://img.lemde.fr/2026/07/14/500/0/3000/1500/644/322/60/0/e4ff832_upload-1-z8vw9x7vf9ts-000-d91jm.jpg",
+      "published_at": "2026-07-15T05:00:17+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "2b17094217a2"
+    },
+    {
+      "title": "Géopolitique : le retour de la guerre et ses paradoxes (2/4)",
+      "url": "https://www.lemonde.fr/podcasts/article/2026/07/15/geopolitique-le-retour-de-la-guerre-et-ses-paradoxes-2-4_6723450_5463015.html",
+      "summary": "Dans ce deuxième épisode de podcast de la série « Géopolitique » consacrée à la nouvelle donne internationale en perte de repères, Gilles Paris et Delphine Papin, respectivement éditorialiste et responsable de l’innovation cartographique au « Monde », analysent comment les terrains de guerre sont profondément modifiés.",
+      "image": "https://img.lemde.fr/2026/07/10/0/0/1800/900/644/322/60/0/7c236c6_upload-1-qn88fsmyqplw-guerre.jpeg",
+      "published_at": "2026-07-15T05:00:07+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "c0ed7596f2ef"
+    },
+    {
+      "title": "« Il faut rendre inéligibles à vie tout homme ou toute femme politique condamnés pour une infraction à la probité »",
+      "url": "https://www.lemonde.fr/idees/article/2026/07/15/il-faut-rendre-ineligibles-a-vie-tout-homme-ou-toute-femme-politique-condamnes-pour-une-infraction-a-la-probite_6723449_3232.html",
+      "summary": "Les dirigeants politiques jugés pour détournement de biens publics ou prise illégale d’intérêts ont tendance à considérer l’inéligibilité comme la seule réelle sanction parmi l’éventail des peines qu’ils encourent, soutient Eric Halphen, magistrat honoraire, dans une tribune au « Monde ».",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/7c79c9c_upload-1-rqkmynu9noh1-frame-1295.jpg",
+      "published_at": "2026-07-15T05:00:07+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "c1dd7cc8f1a6"
+    },
+    {
+      "title": "«L’Odyssée» de Christopher Nolan, une épopée bien dans l’époque",
+      "url": "https://www.liberation.fr/culture/cinema/lodyssee-de-christopher-nolan-heros-qui-comme-ulysse-20260715_57A5YJ3DXZA2PNKZKLW4MPHYUA/",
+      "summary": "En adaptant l’un des plus grands monuments de la littérature occidentale, le réalisateur hollywoodien fait écho aux tensions géopolitiques qui divisent le monde mais agace par son refus de mettre en image l’univers homérique.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-07-15T03:00:00+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "7e64a49cfc27"
+    },
+    {
+      "title": "«Comète», non identifié",
+      "url": "https://www.liberation.fr/culture/cinema/comete-non-identifie-20260715_X6LBGWBCJNFZLKMIDNJJAGGVJU/",
+      "summary": "Commande dans le cadre d’une formation pour comédiens, le long métrage de Elie Wajeman patauge dans un patchwork curieux de rencontres et de sketchs assez maladroitement agencés.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-15T02:10:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "e7551b6077b2"
+    },
+    {
+      "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis ont lancé « une nouvelle série de frappes contre l’Iran », Téhéran réplique",
+      "url": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-au-moyen-orient-les-etats-unis-ont-lance-une-nouvelle-serie-de-frappes-contre-l-iran-teheran-replique_6722873_3210.html",
+      "summary": "L’Iran a visé une base militaire en Jordanie, selon une agence de presse officielle iranienne, les sirènes d’alerte aérienne ont été déclenchées à Bahreïn et le Koweït fait face à des « attaques hostiles de drones ».",
+      "image": "https://img.lemde.fr/2026/07/14/332/0/5097/2548/644/322/60/0/cb820a0_ftp-1-qnzuoiv8bubn-2026-07-14t231952z-434015547-rc2zdmayto4i-rtrmadp-3-iran-crisis.JPG",
+      "published_at": "2026-07-15T02:35:45+02:00",
+      "source": "Le Monde Inter",
+      "category": "Culture",
+      "id": "7ee1e5bbbe42"
+    },
     {
       "title": "Incendie en Andalousie : toutes les dépouilles ont été identifiées, douze ressortissants étrangers parmi les treize victimes",
       "url": "https://www.lemonde.fr/planete/article/2026/07/15/incendie-en-andalousie-toutes-les-depouilles-ont-ete-identifiees-douze-ressortissants-etrangers-parmi-les-treize-victimes_6723137_3245.html",
       "summary": "L’état des douze corps retrouvés sur les lieux du drame a contraint les médecins légistes à procéder à des comparaisons génétiques, pour établir l’identité des victimes.",
       "image": "https://img.lemde.fr/2026/07/13/500/0/6048/3024/644/322/60/0/1b94157_ftp-1-ijb9k8f3aryn-5611087-01-06.jpg",
-      "published_at": "2026-07-15T01:52:37+02:00",
+      "published_at": "2026-07-15T01:52:35+02:00",
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "b9d100eeff69"
     },
     {
-      "title": "Le régulateur américain de l’aviation teste avec succès un eVTOL, une « étape majeure » pour l’autorisation des taxis volants",
+      "title": "Le régulateur américain de l’aviation annonce une « étape majeure » pour l’autorisation des taxis volants",
       "url": "https://www.lemonde.fr/economie/article/2026/07/15/le-regulateur-americain-de-l-aviation-teste-avec-succes-un-evtol-une-etape-majeure-pour-l-autorisation-des-taxis-volants_6723415_3234.html",
-      "summary": "L’essai a consisté à transporter un organe d’animal entre la Virginie et le Maryland à bord d’un engin électrique de la société BETA Technologies, baptisé ALIA.",
+      "summary": "L’instance a affirmé avoir testé avec succès un véhicule électrique à décollage et à atterrissage vertical. L’essai a consisté à transporter un organe d’animal entre la Virginie et le Maryland.",
       "image": "https://img.lemde.fr/2026/07/14/447/0/6819/3409/644/322/60/0/0c9fd84_upload-1-8wimrlussrhy-2025-06-03t180901z-498654176-rc23veasj0sn-rtrmadp-3-new-york-plane.JPG",
-      "published_at": "2026-07-15T01:38:59+02:00",
+      "published_at": "2026-07-15T01:38:58+02:00",
       "source": "Le Monde Inter",
       "category": "International",
       "id": "db6db2ef1324"
@@ -27,7 +87,7 @@
       "url": "https://www.lemonde.fr/pixels/article/2026/07/15/reseaux-sociaux-le-gouvernement-britannique-annonce-la-mise-en-place-d-un-couvre-feu-pour-les-adolescents_6723381_4408996.html",
       "summary": "Cette nouvelle mesure vient compléter l’interdiction des réseaux aux moins de 16 ans annoncée en juin.",
       "image": "https://img.lemde.fr/2026/06/15/750/0/7631/3815/644/322/60/0/57691bd_ftp-1-rauic9mq0dvw-2026-06-15t134855z-824668321-rc2bula2273d-rtrmadp-3-britain-socialmedia.JPG",
-      "published_at": "2026-07-15T01:04:10+02:00",
+      "published_at": "2026-07-15T01:04:09+02:00",
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "9479ec3cc304"
@@ -233,16 +293,6 @@
       "id": "52bc2556a676"
     },
     {
-      "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis ont lancé « une nouvelle série de frappes contre l’Iran », des explosions à l’est de Bandar-e Abbas",
-      "url": "https://www.lemonde.fr/international/live/2026/07/14/en-direct-guerre-au-moyen-orient-les-etats-unis-ont-lance-une-nouvelle-serie-de-frappes-contre-l-iran-des-explosions-a-l-est-de-bandar-e-abbas_6722873_3210.html",
-      "summary": "Cette salve vise à « continuer à affaiblir les capacités iraniennes utilisées pour attaquer le trafic maritime commercial dans le détroit d’Ormuz » et est survenue peu avant la reprise du blocus américain des ports iraniens.",
-      "image": "https://img.lemde.fr/2026/07/14/500/0/6000/3000/644/322/60/0/ecf539b_ftp-1-txu3rrdzzhq4-ec48a42f3f85489ab27a8b28a0f15d66-3-be85b1ae2a4a4cf3801a851943eec2a6.jpg",
-      "published_at": "2026-07-14T22:06:03+02:00",
-      "source": "Le Monde Inter",
-      "category": "Culture",
-      "id": "a190c34fbbed"
-    },
-    {
       "title": "Le début de l'été a été le plus chaud en Espagne depuis les premiers relevés en 1961",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-debut-de-l-ete-a-ete-le-plus-chaud-en-espagne-depuis-les-premiers-releves-en-1961_8107997.html#xtor=RSS-3-[lestitres]",
       "summary": "L'Espagne continentale a enregistré ses températures moyennes quotidiennes et ses températures minimales moyennes les plus élevées pour un mois de juin depuis au moins 1950.",
@@ -251,56 +301,6 @@
       "source": "France Info",
       "category": "Société",
       "id": "2d254f2df398"
-    },
-    {
-      "title": "VIDEO Défilé du 14-Juillet : voici les messages qu’a voulu faire passer Emmanuel Macron",
-      "url": "https://www.lemonde.fr/politique/video/2026/07/14/defile-du-14-juillet-voici-les-messages-qu-a-voulu-faire-passer-emmanuel-macron_6723345_823448.html",
-      "summary": "Pour sa dernière fête nationale en tant que président de la République, le chef d’Etat a tenu à délivrer deux messages aux Français et au monde. Explications avec Elise Vincent, journaliste spécialiste défense.",
-      "image": "https://img.lemde.fr/2026/07/14/566/0/6778/3389/644/322/60/0/fe9501b_ftp-1-fjaf3f8kjv0l-5617484-01-06.jpg",
-      "published_at": "2026-07-14T21:23:51+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "a23f58a35001"
-    },
-    {
-      "title": "Les incendies de Fontainebleau fixés mais pas éteints : comment les pompiers et la sécurité civile ont lutté avec acharnement pour apaiser le brasier",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/les-incendies-de-fontainebleau-fixes-mais-pas-eteints-comment-les-pompiers-et-la-securite-civile-ont-lutte-avec-acharnement-pour-apaiser-le-brasier_8107964.html#xtor=RSS-3-[lestitres]",
-      "summary": "Déjà 10% de la forêt de Fontainebleau a brûlé dans les incendies de ces derniers jours. Les feux sont à présent fixés, mardi 14 juillet, mais pas encore éteints. Au côté des 800 pompiers des bulldozers de l'armée, des Canadair et un Dash ont été déployés pour combattre les flammes.",
-      "image": "https://www.franceinfo.fr/pictures/Wa6mefCrNHBUHyuCKvVejYo_VH4/49x0:1175x633/432x243/filters:format(jpg):quality(50)/2026/07/14/6a5688d5e34b7298948233.jpg",
-      "published_at": "2026-07-14T21:07:24+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "8673da3b2489"
-    },
-    {
-      "title": "Dix ans de l’attentat du 14 juillet à Nice : «L’horreur a bien eu lieu chez moi, sur moi, sur ma Prom»",
-      "url": "https://www.liberation.fr/societe/dix-ans-de-lattentat-du-14-juillet-a-nice-lhorreur-a-bien-eu-lieu-chez-moi-sur-moi-sur-ma-prom-20260714_EXGEKI3HZRHMNNOO4NIGUX44TI/",
-      "summary": "Il y a exactement dix ans, 86 personnes étaient tuées dans une attaque terroriste au camion-bélier sur la promenade des Anglais. Le chef de l’Etat a fait le déplacement pour une commémoration.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-14T18:57:33+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "370e6392fa88"
-    },
-    {
-      "title": "Survol de la Patrouille de France, discours d'Emmanuel Macron... Les moments marquants de la cérémonie à Nice pour les 10 ans de l'attentat du 14-Juillet",
-      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/survol-de-la-patrouille-de-france-discours-d-emmanuel-macron-les-moments-marquants-de-la-ceremonie-a-nice-pour-les-10-ans-de-l-attentat-du-14-juillet_8107928.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un hommage a été rendu mardi en fin d'après-midi aux victimes de l'attentat qui a fait 86 morts et plus de 400 blessés le 14 juillet 2016 sur la promenade des Anglais à Nice.",
-      "image": "https://www.franceinfo.fr/pictures/DcnLNcQNEnPdyjlXmoIIzsYdrm8/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/14/6a568635ca544913810184.jpg",
-      "published_at": "2026-07-14T20:56:06+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "d9ab31401d95"
-    },
-    {
-      "title": "Emmanuel Macron remet la Légion d’honneur à Keir Starmer",
-      "url": "https://www.lemonde.fr/international/article/2026/07/14/emmanuel-macron-remet-la-legion-d-honneur-a-keir-starmer_6723343_3210.html",
-      "summary": "Le président français lui a remis cette décoration lundi, alors que Keir Starmer se trouvait à Paris pour un sommet de la coalition des volontaires rassemblant les pays soutenant l’Ukraine, et pour assister au traditionnel défilé militaire du 14-Juillet.",
-      "image": "https://img.lemde.fr/2026/07/14/381/0/2052/1026/644/322/60/0/15645c8_ftp-1-b4rxzeqquf54-0f08882242c749f096b70ae95bf3286f-0-64e8c2182133484b8a788605f3c1744a.jpg",
-      "published_at": "2026-07-14T20:51:35+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "3abd4cd43880"
     }
   ]
 }
