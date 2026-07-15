@@ -7,14 +7,44 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Tue, 14 Jul 2026 23:03:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 00:01:05 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>Incendie en Andalousie : toutes les dépouilles ont été identifiées, douze ressortissants étrangers parmi les treize victimes</title>
+    <link>https://www.lemonde.fr/planete/article/2026/07/15/incendie-en-andalousie-toutes-les-depouilles-ont-ete-identifiees-douze-ressortissants-etrangers-parmi-les-treize-victimes_6723137_3245.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/planete/article/2026/07/15/incendie-en-andalousie-toutes-les-depouilles-ont-ete-identifiees-douze-ressortissants-etrangers-parmi-les-treize-victimes_6723137_3245.html</guid>
+    <pubDate>Wed, 15 Jul 2026 01:52:37 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[L’état des douze corps retrouvés sur les lieux du drame a contraint les médecins légistes à procéder à des comparaisons génétiques, pour établir l’identité des victimes.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/07/13/500/0/6048/3024/644/322/60/0/1b94157_ftp-1-ijb9k8f3aryn-5611087-01-06.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Le régulateur américain de l’aviation teste avec succès un eVTOL, une « étape majeure » pour l’autorisation des taxis volants</title>
+    <link>https://www.lemonde.fr/economie/article/2026/07/15/le-regulateur-americain-de-l-aviation-teste-avec-succes-un-evtol-une-etape-majeure-pour-l-autorisation-des-taxis-volants_6723415_3234.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/economie/article/2026/07/15/le-regulateur-americain-de-l-aviation-teste-avec-succes-un-evtol-une-etape-majeure-pour-l-autorisation-des-taxis-volants_6723415_3234.html</guid>
+    <pubDate>Wed, 15 Jul 2026 01:38:59 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[L’essai a consisté à transporter un organe d’animal entre la Virginie et le Maryland à bord d’un engin électrique de la société BETA Technologies, baptisé ALIA.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/07/14/447/0/6819/3409/644/322/60/0/0c9fd84_upload-1-8wimrlussrhy-2025-06-03t180901z-498654176-rc23veasj0sn-rtrmadp-3-new-york-plane.JPG" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Réseaux sociaux : le gouvernement britannique annonce la mise en place d’un couvre-feu pour les adolescents</title>
+    <link>https://www.lemonde.fr/pixels/article/2026/07/15/reseaux-sociaux-le-gouvernement-britannique-annonce-la-mise-en-place-d-un-couvre-feu-pour-les-adolescents_6723381_4408996.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/pixels/article/2026/07/15/reseaux-sociaux-le-gouvernement-britannique-annonce-la-mise-en-place-d-un-couvre-feu-pour-les-adolescents_6723381_4408996.html</guid>
+    <pubDate>Wed, 15 Jul 2026 01:04:10 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[Cette nouvelle mesure vient compléter l’interdiction des réseaux aux moins de 16 ans annoncée en juin.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/06/15/750/0/7631/3815/644/322/60/0/57691bd_ftp-1-rauic9mq0dvw-2026-06-15t134855z-824668321-rc2bula2273d-rtrmadp-3-britain-socialmedia.JPG" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>En Colombie, l’armée annonce la libération de 39 personnes enlevées par la guérilla de l’ELN</title>
     <link>https://www.lemonde.fr/international/article/2026/07/15/en-colombie-l-armee-annonce-la-liberation-de-39-personnes-enlevees-par-la-guerilla-de-l-eln_6723340_3211.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/07/15/en-colombie-l-armee-annonce-la-liberation-de-39-personnes-enlevees-par-la-guerilla-de-l-eln_6723340_3211.html</guid>
-    <pubDate>Wed, 15 Jul 2026 00:32:18 +0000</pubDate>
+    <pubDate>Wed, 15 Jul 2026 00:32:14 +0000</pubDate>
     <category>Politique</category>
     <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
     <description><![CDATA[D’inspiration guévariste et armée depuis 1964, ce groupe n’a pas participé à l’historique accord de paix qui, il y a dix ans, a permis le désarmement de la majeure partie de l’ex-guérilla des FARC.]]></description>
@@ -24,7 +54,7 @@
     <title>L’administration Trump poursuivie par des organisations environnementales, qui l’accusent de fragiliser la protection des espèces menacées</title>
     <link>https://www.lemonde.fr/planete/article/2026/07/15/l-administration-trump-poursuivie-par-des-organisations-environnementales-qui-l-accusent-de-fragiliser-la-protection-des-especes-menacees_6723348_3244.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/planete/article/2026/07/15/l-administration-trump-poursuivie-par-des-organisations-environnementales-qui-l-accusent-de-fragiliser-la-protection-des-especes-menacees_6723348_3244.html</guid>
-    <pubDate>Wed, 15 Jul 2026 00:20:28 +0000</pubDate>
+    <pubDate>Wed, 15 Jul 2026 00:20:23 +0000</pubDate>
     <category>International</category>
     <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
     <description><![CDATA[Ces organisations estiment que le projet d’affaiblir une loi majeure sur les espèces menacées pourrait avoir des effets immédiats sur des animaux comme les lamantins de Floride, les grizzlis et les insectes pollinisateurs.]]></description>
@@ -279,36 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
     <description><![CDATA[Le président français lui a remis cette décoration lundi, alors que Keir Starmer se trouvait à Paris pour un sommet de la coalition des volontaires rassemblant les pays soutenant l’Ukraine, et pour assister au traditionnel défilé militaire du 14-Juillet.]]></description>
     <enclosure url="https://img.lemde.fr/2026/07/14/381/0/2052/1026/644/322/60/0/15645c8_ftp-1-b4rxzeqquf54-0f08882242c749f096b70ae95bf3286f-0-64e8c2182133484b8a788605f3c1744a.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>D&apos;anciens détenus palestiniens affirment avoir subi des violences sexuelles dans des prisons israéliennes</title>
-    <link>https://www.franceinfo.fr/monde/palestine/d-anciens-detenus-palestiniens-affirment-avoir-subi-des-violences-sexuelles-dans-des-prisons-israeliennes_8107931.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/monde/palestine/d-anciens-detenus-palestiniens-affirment-avoir-subi-des-violences-sexuelles-dans-des-prisons-israeliennes_8107931.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Tue, 14 Jul 2026 20:45:32 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Une campagne lancée par plusieurs ONG entend "mettre au jour les crimes commis contre les détenus et à mettre fin à la politique d'impunité" d'Israël.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/RgkrxUEsHZPoNhpyqmF3IrT1otY/0x73:1024x649/432x243/filters:format(jpg):quality(50)/2026/07/14/6a5680ac430a5665554505.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>D’anciens détenus palestiniens dénoncent les violences sexuelles dans les prisons israéliennes</title>
-    <link>https://www.liberation.fr/international/moyen-orient/danciens-detenus-palestiniens-denoncent-les-violences-sexuelles-dans-les-prisons-israeliennes-20260714_OKIUA6H5N5CBFIYZH7CXK4MDBQ/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/international/moyen-orient/danciens-detenus-palestiniens-denoncent-les-violences-sexuelles-dans-les-prisons-israeliennes-20260714_OKIUA6H5N5CBFIYZH7CXK4MDBQ/</guid>
-    <pubDate>Tue, 14 Jul 2026 18:43:42 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[L’initiative a déjà recueilli des dizaines de témoignages. Dans un rapport publié en mai, la rapporteuse spéciale de l’ONU sur la torture exhortait les autorités israéliennes à revoir leur politique de détention.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Canicule, incendies : les deux feux de la forêt de Fontainebleau sont «fixés», annonce le préfet</title>
-    <link>https://www.liberation.fr/environnement/climat/en-direct-canicule-incendies-apres-une-nuit-intense-plus-de-1-900-hectares-parcourus-par-les-flammes-dans-la-foret-de-fontainebleau-20260714_JTCXJBVKNNHU3LC2RD7DAVXKT4/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/environnement/climat/en-direct-canicule-incendies-apres-une-nuit-intense-plus-de-1-900-hectares-parcourus-par-les-flammes-dans-la-foret-de-fontainebleau-20260714_JTCXJBVKNNHU3LC2RD7DAVXKT4/</guid>
-    <pubDate>Tue, 14 Jul 2026 18:41:55 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Ces incendies de Seine-et-Marne ne sont pas encore «éteints» et ont encore parcouru un peu plus de 2000 hectares ce mardi, alors que quatre personnes sont encore en garde à vue pour les départs de feu. Deux suspects, dont un pompier volontaire, ont reconnu leur implication.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>

@@ -1,13 +1,43 @@
 {
-  "generated_at": "2026-07-14T23:03:22.646148+00:00",
+  "generated_at": "2026-07-15T00:01:05.177462+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Incendie en Andalousie : toutes les dépouilles ont été identifiées, douze ressortissants étrangers parmi les treize victimes",
+      "url": "https://www.lemonde.fr/planete/article/2026/07/15/incendie-en-andalousie-toutes-les-depouilles-ont-ete-identifiees-douze-ressortissants-etrangers-parmi-les-treize-victimes_6723137_3245.html",
+      "summary": "L’état des douze corps retrouvés sur les lieux du drame a contraint les médecins légistes à procéder à des comparaisons génétiques, pour établir l’identité des victimes.",
+      "image": "https://img.lemde.fr/2026/07/13/500/0/6048/3024/644/322/60/0/1b94157_ftp-1-ijb9k8f3aryn-5611087-01-06.jpg",
+      "published_at": "2026-07-15T01:52:37+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "b9d100eeff69"
+    },
+    {
+      "title": "Le régulateur américain de l’aviation teste avec succès un eVTOL, une « étape majeure » pour l’autorisation des taxis volants",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/15/le-regulateur-americain-de-l-aviation-teste-avec-succes-un-evtol-une-etape-majeure-pour-l-autorisation-des-taxis-volants_6723415_3234.html",
+      "summary": "L’essai a consisté à transporter un organe d’animal entre la Virginie et le Maryland à bord d’un engin électrique de la société BETA Technologies, baptisé ALIA.",
+      "image": "https://img.lemde.fr/2026/07/14/447/0/6819/3409/644/322/60/0/0c9fd84_upload-1-8wimrlussrhy-2025-06-03t180901z-498654176-rc23veasj0sn-rtrmadp-3-new-york-plane.JPG",
+      "published_at": "2026-07-15T01:38:59+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "db6db2ef1324"
+    },
+    {
+      "title": "Réseaux sociaux : le gouvernement britannique annonce la mise en place d’un couvre-feu pour les adolescents",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/15/reseaux-sociaux-le-gouvernement-britannique-annonce-la-mise-en-place-d-un-couvre-feu-pour-les-adolescents_6723381_4408996.html",
+      "summary": "Cette nouvelle mesure vient compléter l’interdiction des réseaux aux moins de 16 ans annoncée en juin.",
+      "image": "https://img.lemde.fr/2026/06/15/750/0/7631/3815/644/322/60/0/57691bd_ftp-1-rauic9mq0dvw-2026-06-15t134855z-824668321-rc2bula2273d-rtrmadp-3-britain-socialmedia.JPG",
+      "published_at": "2026-07-15T01:04:10+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "9479ec3cc304"
+    },
     {
       "title": "En Colombie, l’armée annonce la libération de 39 personnes enlevées par la guérilla de l’ELN",
       "url": "https://www.lemonde.fr/international/article/2026/07/15/en-colombie-l-armee-annonce-la-liberation-de-39-personnes-enlevees-par-la-guerilla-de-l-eln_6723340_3211.html",
       "summary": "D’inspiration guévariste et armée depuis 1964, ce groupe n’a pas participé à l’historique accord de paix qui, il y a dix ans, a permis le désarmement de la majeure partie de l’ex-guérilla des FARC.",
       "image": "https://img.lemde.fr/2026/06/17/384/0/4608/2304/644/322/60/0/8fd36cc_ftp-1-26hyszgnngno-2026-06-17t231053z-1330285422-rc2msladdzwc-rtrmadp-3-colombia-eln.JPG",
-      "published_at": "2026-07-15T00:32:18+02:00",
+      "published_at": "2026-07-15T00:32:14+02:00",
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "3ca9f1eb9383"
@@ -17,7 +47,7 @@
       "url": "https://www.lemonde.fr/planete/article/2026/07/15/l-administration-trump-poursuivie-par-des-organisations-environnementales-qui-l-accusent-de-fragiliser-la-protection-des-especes-menacees_6723348_3244.html",
       "summary": "Ces organisations estiment que le projet d’affaiblir une loi majeure sur les espèces menacées pourrait avoir des effets immédiats sur des animaux comme les lamantins de Floride, les grizzlis et les insectes pollinisateurs.",
       "image": "https://img.lemde.fr/2026/07/14/321/0/5568/2784/644/322/60/0/0a12122_upload-1-uwpd2knu3ygb-2022-01-10t140110z-308157725-rc2ger9hbxj0-rtrmadp-3-usa-wildlife-cougars.JPG",
-      "published_at": "2026-07-15T00:20:28+02:00",
+      "published_at": "2026-07-15T00:20:23+02:00",
       "source": "Le Monde Inter",
       "category": "International",
       "id": "4701a365c39e"
@@ -271,36 +301,6 @@
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "3abd4cd43880"
-    },
-    {
-      "title": "D'anciens détenus palestiniens affirment avoir subi des violences sexuelles dans des prisons israéliennes",
-      "url": "https://www.franceinfo.fr/monde/palestine/d-anciens-detenus-palestiniens-affirment-avoir-subi-des-violences-sexuelles-dans-des-prisons-israeliennes_8107931.html#xtor=RSS-3-[lestitres]",
-      "summary": "Une campagne lancée par plusieurs ONG entend \"mettre au jour les crimes commis contre les détenus et à mettre fin à la politique d'impunité\" d'Israël.",
-      "image": "https://www.franceinfo.fr/pictures/RgkrxUEsHZPoNhpyqmF3IrT1otY/0x73:1024x649/432x243/filters:format(jpg):quality(50)/2026/07/14/6a5680ac430a5665554505.jpg",
-      "published_at": "2026-07-14T20:45:32+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "d37e4712d42f"
-    },
-    {
-      "title": "D’anciens détenus palestiniens dénoncent les violences sexuelles dans les prisons israéliennes",
-      "url": "https://www.liberation.fr/international/moyen-orient/danciens-detenus-palestiniens-denoncent-les-violences-sexuelles-dans-les-prisons-israeliennes-20260714_OKIUA6H5N5CBFIYZH7CXK4MDBQ/",
-      "summary": "L’initiative a déjà recueilli des dizaines de témoignages. Dans un rapport publié en mai, la rapporteuse spéciale de l’ONU sur la torture exhortait les autorités israéliennes à revoir leur politique de détention.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-07-14T18:43:42+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "d057081081ba"
-    },
-    {
-      "title": "Canicule, incendies : les deux feux de la forêt de Fontainebleau sont «fixés», annonce le préfet",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-incendies-apres-une-nuit-intense-plus-de-1-900-hectares-parcourus-par-les-flammes-dans-la-foret-de-fontainebleau-20260714_JTCXJBVKNNHU3LC2RD7DAVXKT4/",
-      "summary": "Ces incendies de Seine-et-Marne ne sont pas encore «éteints» et ont encore parcouru un peu plus de 2000 hectares ce mardi, alors que quatre personnes sont encore en garde à vue pour les départs de feu. Deux suspects, dont un pompier volontaire, ont reconnu leur implication.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-14T18:41:55+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "4c00bbbe86f7"
     }
   ]
 }
