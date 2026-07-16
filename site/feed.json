@@ -1,306 +1,306 @@
 {
-  "generated_at": "2026-07-16T04:14:53.846985+00:00",
+  "generated_at": "2026-07-16T07:28:10.910930+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Olivier Blanchard, économiste : « Le processus budgétaire français est défaillant, et il accroît le risque d’une crise de la dette »",
-      "url": "https://www.lemonde.fr/idees/article/2026/07/16/olivier-blanchard-economiste-le-processus-budgetaire-francais-est-defaillant-et-il-accroit-le-risque-d-une-crise-de-la-dette_6723731_3232.html",
-      "summary": "L’ancien économiste en chef du Fonds monétaire international estime, dans une tribune au « Monde », que la France doit réformer en profondeur la manière dont elle définit son budget. Il propose six principes pour qu’elle modernise ses méthodes.",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/48f8e23_upload-1-cupttdbvkahu-frame-842.jpg",
-      "published_at": "2026-07-16T06:00:08+02:00",
+      "title": "Canicule et orages : 15 départements placés en vigilance orange aux orages, 31 maintenus en alerte canicule",
+      "url": "https://www.franceinfo.fr/environnement/meteo/direct-meteo-15-departements-places-en-vigilance-orange-aux-orages-31-maintenus-en-alerte-canicule_8109689.html#xtor=RSS-3-[lestitres]",
+      "summary": "Météo-France prévient que la vigilance pour orages pourrait être étendue à d'autres territoires au cours de la journée.",
+      "image": "https://www.franceinfo.fr/pictures/YTlhXTFOpLFe9yLHKVp0Tr-YSFw/0x622:6048x4024/432x243/filters:format(jpg):quality(50)/2026/07/16/6a585c82c4b84728566629.jpg",
+      "published_at": "2026-07-16T09:21:39+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "5fb0c8f2587e"
+    },
+    {
+      "title": "Aide à mourir : pas de quoi triompher ni paniquer face à cette loi prudente et nuancée",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/aide-a-mourir-pas-de-quoi-triompher-ni-paniquer-face-a-cette-loi-prudente-et-nuancee-20260716_75F65J2ZEJH7VDGDNB66SNGBAQ/",
+      "summary": "Adopté ce mercredi 15 juillet ce texte est une manière, pour la société et la médecine, de témoigner une forme de compassion et de fraternité aux personnes gravement malades, qui souffrent et qui vont mourir.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-16T07:10:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "ac940b7f024c"
+    },
+    {
+      "title": "EN DIRECT - Chaleur : 17 départements en alerte pour des risques d’orages, 31 encore en vigilance orange canicule",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-chaleur-17-departements-en-alerte-pour-des-risques-dorages-31-encore-en-vigilance-orange-canicule-20260716_3XHR7YGWE5HOFMMJOO7BZNQKDQ/",
+      "summary": "Dans la forêt de Fontainebleau, près d’un millier de pompiers poursuivent ce jeudi leur lutte contre les incendies, fixés mais pas éteints. Emmanuel Macron doit se rendre sur place dans la matinée.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-16T07:06:16+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "ce82de320962"
+    },
+    {
+      "title": "«Le Secret d’Alger» d’Adib Benazzi : une traque peut en cacher une autre",
+      "url": "https://www.liberation.fr/culture/livres/le-secret-dalger-dadib-benazzi-une-traque-peut-en-cacher-une-autre-20260716_NHNQFG3UCZGZNMOM2U7D7U6QJI/",
+      "summary": "Dans un roman débordant d’imagination, l’auteur nous emmène de l’Algérie au Kazakhstan, de l’Inde à l’Afrique du Sud en passant par Cuba, à la recherche d’un passé que certains veulent effacer à jamais.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-07-16T07:00:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "5ef2ea25271e"
+    },
+    {
+      "title": "\"On a pris des boules de pétanque sur la tête\" : en Ardèche, des orages et des averses de grêle d'une violence \"jamais vue\"",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/on-a-pris-des-boules-de-petanque-sur-la-tete-en-ardeche-des-orages-et-des-averses-de-grele-d-une-violence-jamais-vue_8109761.html#xtor=RSS-3-[lestitres]",
+      "summary": "Des épisodes orageux ont provoqué des dégâts dans plusieurs départements mercredi. Le plus touché a été l'Ardèche.",
+      "image": "https://www.franceinfo.fr/pictures/31MdDv-Wywy9ep-iROTbkatPPJA/0x0:499x280/432x243/filters:format(jpg):quality(50)/2026/07/16/6a587e896e211437158796.jpeg",
+      "published_at": "2026-07-16T08:58:38+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "b1f73c874192"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : l'Iran affirme avoir frappé une base aérienne américaine en Jordanie avec des missiles balistiques iraniens",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-iran-affirme-avoir-frappe-une-base-aerienne-americaine-en-jordanie-avec-des-missiles-balistiques-iraniens_8109812.html#xtor=RSS-3-[lestitres]",
+      "summary": "Plus tôt dans la matinée, l'Iran a également revendiqué des attaques contre des installations militaires américaines au Koweït et à Bahreïn.",
+      "image": "https://www.franceinfo.fr/pictures/ojyyiE93dmNo0vKdxMOY_cizDao/0x0:3498x1968/432x243/filters:format(jpg):quality(50)/2026/07/16/6a587b9f9fd88455642484.jpg",
+      "published_at": "2026-07-16T08:56:48+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "e81d5a18257c"
+    },
+    {
+      "title": "Droits de douane : le Brésil devient la première cible des Etats-Unis, qui ont annoncé imposer de 25 % certains produits",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/16/droits-de-douane-le-bresil-devient-la-premiere-cible-des-etats-unis-qui-ont-annonce-imposer-de-25-certains-produits_6723745_3234.html",
+      "summary": "La présidence du Brésil a aussitôt rejeté ces droits de douane « illégaux », promettant que des mesures de « réciprocité » seront prises dans le cadre d’une loi votée par le Parlement en 2025.",
+      "image": "https://img.lemde.fr/2026/07/16/0/0/5604/2802/644/322/60/0/5663f5a_upload-1-yxpk3plgszbk-000-b7cu8wl.jpg",
+      "published_at": "2026-07-16T08:54:09+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "0d6a6d113413"
+    },
+    {
+      "title": "Leasing social : la troisième vague de locations longue durée de voitures électriques démarre ce jeudi",
+      "url": "https://www.liberation.fr/economie/transports/leasing-social-la-troisieme-vague-de-locations-longue-duree-de-voitures-electriques-demarre-ce-jeudi-20260716_KNZYD3BEZZGGNBNKWS6FMCGQKM/",
+      "summary": "Une vingtaine de modèles d’une douzaine de marques sont éligibles, l’aide de l’Etat étant désormais renforcée pour les véhicules fabriqués en Europe.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-07-16T06:53:17+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "a8e9915ca54b"
+    },
+    {
+      "title": "Réexamen des plaintes pour violences sexuelles sur mineurs : \"On n'a rien résolu du tout\", fustige l'Union syndicale de la magistrature",
+      "url": "https://www.franceinfo.fr/societe/pedocriminalite/reexamen-des-plaintes-pour-violences-sexuelles-sur-mineurs-on-n-a-rien-resolu-du-tout-fustige-l-union-syndicale-de-la-magistrature_8109818.html#xtor=RSS-3-[lestitres]",
+      "summary": "Aurélien Martini, secrétaire général adjoint de l'Union syndicale de la magistrature, appelle sur France Inter \"à ne pas tromper les gens\". Pour parvenir aux chiffres annoncés par Gérald Darmanin sur le réexamen des plaintes pour violences sexuelles sur mineurs, \"le reste a été mis en pause\".",
+      "image": "https://www.franceinfo.fr/pictures/uMi0JQ_0JmFWn7zR-ycglD1RLhQ/0x184:3543x2177/432x243/filters:format(jpg):quality(50)/2026/07/16/6a587b5ace3cf340226703.jpg",
+      "published_at": "2026-07-16T08:34:37+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "aac9935d7fdf"
+    },
+    {
+      "title": "«Préserver une capacité nationale vitale» : le Royaume-Uni va nationaliser le sidérurgiste British Steel",
+      "url": "https://www.liberation.fr/international/europe/preserver-une-capacite-nationale-vitale-le-royaume-uni-va-nationaliser-le-siderurgiste-british-steel-20260716_TLJISO4WLNH7VJCD5TVMP44FMI/",
+      "summary": "Le groupe était auparavant propriété du groupe chinois Jingye, dont le gouvernement britannique avait déjà pris le contrôle au printemps 2025.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-16T06:32:19+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "e5c7cad01a08"
+    },
+    {
+      "title": "« Les Malouines sont argentines » : une banderole déployée par les joueurs argentins après leur victoire face à l’Angleterre",
+      "url": "https://www.lemonde.fr/sport/article/2026/07/16/coupe-du-monde-2026-une-banderole-les-malouines-sont-argentines-deployee-par-des-joueurs-de-l-albiceleste_6723744_3242.html",
+      "summary": "A l’issue de la demi-finale de Coupe du monde, plusieurs joueurs argentins ont déployé sur la pelouse du stade d’Atlanta une banderole faisant référence au litige territorial avec l’Angleterre.",
+      "image": "https://img.lemde.fr/2026/07/15/108/0/3581/1790/644/322/60/0/b51f022_ftp-1-8u8jfnoogena-5632124-01-06.jpg",
+      "published_at": "2026-07-16T08:31:54+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "cc901fd3613a"
+    },
+    {
+      "title": "Quatre-vingt-quatre ans après la rafle du Vél d’Hiv, l’antisémitisme encore et une gauche trop silencieuse…",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/quatre-vingt-quatre-ans-apres-la-rafle-du-vel-dhiv-lantisemitisme-encore-et-une-gauche-trop-silencieuse-20260716_EBU77UL26JFE3OKBPPH3XLCY44/",
+      "summary": "L’historien Robert Hirsch revient sur l’événement de 1942 durant lequel 13 152 Juifs et Juives étaient arrêtés par la police française. L’antisémitisme doit devenir le combat de la gauche.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-16T06:29:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "3907516e46a4"
+    },
+    {
+      "title": "Incendies : Emmanuel Macron attendu à Fontainebleau, où près de 950 pompiers poursuivent leur lutte contre les incendies",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendies-emmanuel-macron-attendu-a-fontainebleau-ou-pres-de-950-pompiers-poursuivent-leur-lutte-contre-les-incendies_8109776.html#xtor=RSS-3-[lestitres]",
+      "summary": "Plus de 32 000 hectares ont déjà été parcourus par les flammes en France depuis le début de l'année, soit davantage que sur l'ensemble de la saison 2025. Le chef de l'Etat doit saluer, dans la matinée, les secours mobilisés face à une saison jugée exceptionnelle.",
+      "image": "https://www.franceinfo.fr/pictures/9Ahz1Dk6F6ofA_AjDM_skmtMWlE/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/07/16/6a58718bd9ab8399294318.jpg",
+      "published_at": "2026-07-16T08:28:45+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a3ba8010cc7d"
+    },
+    {
+      "title": "Présidentielle 2027 : Elon Musk voit en Marine Le Pen \"le dernier espoir de la France\", plusieurs responsables politiques dénoncent son ingérence dans la campagne",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/elon-musk-estime-que-marine-le-pen-est-le-dernier-espoir-de-la-france_8109773.html#xtor=RSS-3-[lestitres]",
+      "summary": "Jusqu'à présent, le milliardaire avait apporté un soutien personnel à Marine Le Pen notamment au cours de son procès, sans soutenir clairement sa candidature dans les élections françaises de l'année prochaine.",
+      "image": "https://www.franceinfo.fr/pictures/85Npy5OobYHqK4rfjueNmE95VYc/0x126:5000x2939/432x243/filters:format(jpg):quality(50)/2026/07/08/6a4e7b8878078191294339.jpg",
+      "published_at": "2026-07-16T08:17:45+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "88b8dd4f051b"
+    },
+    {
+      "title": "«Je peux être utile mais je ne peux pas être un candidat de témoignage» : devant 150 fidèles, François Hollande fait encore un pas vers la présidentielle",
+      "url": "https://www.liberation.fr/politique/je-peux-etre-utile-mais-je-ne-peux-pas-etre-un-candidat-de-temoignage-devant-150-fideles-francois-hollande-fait-encore-un-pas-vers-la-presidentielle-20260716_R72KZPJ3HZAZHHSGNOAC6ROM5Q/",
+      "summary": "Avant les vacances, l’ancien président et député socialiste a réuni ses soutiens et proches à la questure du Sénat, ce mercredi 15 juillet. Et délivré quelques messages sur l’élection du printemps prochain.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-16T06:17:04+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "d165aa778404"
+    },
+    {
+      "title": "Plus de 126 000 candidats en attente d'une proposition sur Parcousup, \"ce n'est jamais acceptable\", reconnaît le ministre de l'Éducation",
+      "url": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/plus-de-126-000-candidats-en-attente-d-une-proposition-sur-parcousup-ce-n-est-jamais-acceptable-reconnait-le-ministre-de-l-education_8109791.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Tout est fait pour trouver une place\" aux candidats restés sans réponse positive, assure Édouard Geffray sur France Inter.",
+      "image": "https://www.franceinfo.fr/pictures/zW8Q2T-tgbTyA4FMdeWDiJMob00/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/16/6a587459b0b42501396879.jpg",
+      "published_at": "2026-07-16T08:13:00+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "ffec51dd1212"
+    },
+    {
+      "title": "L’actrice de God of War Laufey répond aux détracteurs de la meilleure façon",
+      "url": "https://www.numerama.com/pop-culture/2295927-lactrice-de-god-of-war-laufey-repond-aux-detracteurs-de-la-meilleure-facon.html",
+      "summary": "Deborah Ann Woll, qui incarne l'héroïne du futur jeu God of War, s'est exprimée sur les critiques à son encontre. L'actrice, vue dans les séries True Blood et Daredevil, préfère ne pas être atteinte.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-16T06:09:00+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "31b73face3a6"
+    },
+    {
+      "title": "Tirs de l’Iran contre des pays du Golfe, vente d’armes américaines à l’Arabie saoudite… L’actu du conflit au Proche-Orient ce 16 juillet",
+      "url": "https://www.liberation.fr/international/moyen-orient/tirs-de-liran-contre-des-pays-du-golfe-vente-darmes-americaines-a-larabie-saoudite-lactu-du-conflit-au-proche-orient-ce-16-juillet-20260716_H25IOFZ53JA63FVMCZLJH3QB4M/",
+      "summary": "L’essentiel des informations du jour sur la guerre entre l’Iran et les Etats-Unis.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-16T06:06:44+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "6773e4e1e36c"
+    },
+    {
+      "title": "La mise en cause de deux inspecteurs du travail vire à l’affaire politique pour le ministère",
+      "url": "https://www.lemonde.fr/politique/article/2026/07/16/la-mise-en-cause-de-deux-inspecteurs-du-travail-vire-a-l-affaire-politique-pour-le-ministere_6723740_823448.html",
+      "summary": "Remarqués pendant la controverse autour du travail le 1ᵉʳ-Mai, deux agents représentant le syndicat SUD ont été convoqués à un conseil de discipline, jeudi 16 juillet. Ils sont soutenus par les organisations syndicales et des parlementaires de gauche.",
+      "image": "https://img.lemde.fr/2023/04/17/367/0/3000/1500/644/322/60/0/9df3dc6_1681734866807-ertyuiop.jpg",
+      "published_at": "2026-07-16T07:47:21+02:00",
       "source": "Le Monde Politique",
       "category": "Politique",
-      "id": "8cb94f126d1e"
+      "id": "c5b0d82bf947"
     },
     {
-      "title": "Orages et sécheresse : pourquoi la pluie tant attendue en France pourrait se transformer en menace",
-      "url": "https://www.liberation.fr/environnement/climat/orages-et-secheresse-pourquoi-la-pluie-tant-attendue-en-france-pourrait-se-transformer-en-menace-20260716_467JAXR3XBHADENX4KXU3L54W4/",
-      "summary": "Alors que 99 départements français sont soumis à des restrictions d’eau, de violents orages doivent traverser le pays jusqu’à vendredi 17 juillet. Sur des sols durcis par la sécheresse, les pluies risquent d’engendrer des inondations par ruissellement.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-16T04:00:01+00:00",
+      "title": "L’aide à mourir votée, incendies à Fontainebleau, l’Argentine encore en finale… L’actu de ce 16 juillet au matin",
+      "url": "https://www.liberation.fr/international/europe/laide-a-mourir-votee-incendies-a-fontainebleau-largentine-encore-en-finale-lactu-de-ce-16-juillet-au-matin-20260716_6DVZXPI7JNGD3FRZT63O5AAOQU/",
+      "summary": "La rédaction de «Libération» compile les principales infos du jour.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-16T05:45:48+00:00",
       "source": "Libération",
-      "category": "Société",
-      "id": "653af2e58bf0"
-    },
-    {
-      "title": "Jean-François Delfraissy, sur l’aide à mourir : «On reconnaît au patient une capacité à décider pour lui-même»",
-      "url": "https://www.liberation.fr/politique/jean-francois-delfraissy-sur-laide-a-mourir-on-reconnait-au-patient-une-capacite-a-decider-pour-lui-meme-20260716_4BB4IKATCFGYDG2BATWEMZMYGU/",
-      "summary": "Le président du Comité consultatif national d’éthique, dont l’avis de 2022 a ouvert la voie à la loi votée mercredi 15 juillet, se réjouit qu’avec ce texte la fin de vie ne soit plus seulement envisagée du point de vue médical, mais aussi de celui des personnes malades.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-16T04:00:01+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "523e3543b937"
-    },
-    {
-      "title": "Pourquoi la loi sur l'aide à mourir n'entrera pas en application avant \"début 2027\"",
-      "url": "https://www.franceinfo.fr/societe/euthanasie/pourquoi-la-loi-sur-l-aide-a-mourir-n-entrera-pas-en-application-avant-debut-2027_8097482.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'adoption définitive du texte sur la fin de vie ne signifie pas son entrée en vigueur immédiate. Les malades souhaitant bénéficier d'une aide à mourir doivent encore attendre de futurs décrets et arrêtés, ainsi que des recommandations sanitaires promises d'ici à la fin de l'année.",
-      "image": "https://www.franceinfo.fr/pictures/dQM6qbD6XKPac1wvWmoOQ_5U09Y/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/07/6a4cc26547eea895278027.jpg",
-      "published_at": "2026-07-16T05:56:00+02:00",
-      "source": "France Info",
       "category": "Sport",
-      "id": "357f65582744"
-    },
-    {
-      "title": "Coupe du monde : l'Argentine affrontera l'Espagne pour le titre, J-2 avant la petite finale des Bleus face à l'Angleterre",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-l-argentine-affrontera-l-espagne-pour-le-titre-j-2-avant-la-petite-finale-des-bleus-face-a-l-angleterre_8109125.html#xtor=RSS-3-[lestitres]",
-      "summary": "Au terme d'un match renversant, l'Albiceleste a dominé son rival anglais, mercredi soir. Eliminés mardi, les coéquipiers de Kylian Mbappé préparent de leur côté le dernier match de Didier Deschamps sur le banc tricolore.",
-      "image": "https://www.franceinfo.fr/pictures/vJU3B0nzXMdR1ripsqSiZl6wsbQ/0x0:3499x1968/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57fba87155b857773839.jpg",
-      "published_at": "2026-07-16T05:54:40+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "b50468e2a8e6"
-    },
-    {
-      "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis ont lancé de nouvelles frappes contre l’Iran ; Téhéran cible des installations américaines en Jordanie",
-      "url": "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-au-moyen-orient-les-etats-unis-ont-lance-de-nouvelles-frappes-contre-l-iran-teheran-cible-des-installations-americaines-en-jordanie_6722873_3210.html",
-      "summary": "L’armée iranienne a annoncé, jeudi matin, avoir ciblé des installations militaires américaines en Jordanie, au moyen de drones, selon la télévision d’Etat, après que les Etats-Unis ont mené de nouvelles frappes sur le territoire iranien.",
-      "image": "https://img.lemde.fr/2026/07/15/200/0/1200/600/644/322/60/0/ae9be95_upload-1-g85k3hgh9vu4-hnsi15yxeaax5a2.jpeg",
-      "published_at": "2026-07-16T05:53:48+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "1fd6696ecd86"
-    },
-    {
-      "title": "«Notre travail, c’est d’inspirer la peur» : les «goons», petites mains de l’ultraviolence politique au Kenya",
-      "url": "https://www.liberation.fr/international/afrique/notre-travail-cest-dinspirer-la-peur-les-goons-petites-mains-de-lultraviolence-politique-au-kenya-20260716_DCRSBYHEM5B7JFHLOMMOWLFIZU/",
-      "summary": "Recrutés dans les quartiers pauvres des grandes villes, ces jeunes voyous sont payés par des politiciens pour sécuriser ou perturber des rassemblements politiques. Chaque camp accuse ses rivaux d’y avoir recours.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-16T03:20:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "6005f36f1b74"
-    },
-    {
-      "title": "En Ukraine, le départ du très populaire ministre de la défense, en pleine offensive en Crimée, sème l’incompréhension",
-      "url": "https://www.lemonde.fr/international/article/2026/07/16/en-ukraine-le-depart-du-tres-populaire-ministre-de-la-defense-en-pleine-offensive-en-crimee-seme-l-incomprehension_6723724_3210.html",
-      "summary": "Volodymyr Zelensky a choisi de procéder à un remaniement surprise, mercredi. Des manifestations de soutien à Mykhaïlo Fedorov doivent se tenir jeudi matin dans tout le pays, notamment à Kiev, près du palais présidentiel.",
-      "image": "https://img.lemde.fr/2026/07/15/365/0/4383/2191/644/322/60/0/a2e6428_ftp-1-s5wit02g48pr-2026-07-15t192242z-774889553-rc2w4marbeuj-rtrmadp-3-ukraine-crisis-government-fedorov.JPG",
-      "published_at": "2026-07-16T05:00:21+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "d905106cbed8"
-    },
-    {
-      "title": "Géopolitique : la force intranquille de la Chine (3/4)",
-      "url": "https://www.lemonde.fr/podcasts/article/2026/07/16/geopolitique-la-force-intranquille-de-la-chine-3-4_6723723_5463015.html",
-      "summary": "Dans ce troisième épisode de podcast de la série « Géopolitique » consacrée à la nouvelle donne internationale en perte de repères, Frédéric Lemaître et Delphine Papin, respectivement ancien correspondant en Chine et responsable de l’innovation cartographique au « Monde », analysent comment Pékin se rêve en première puissance mondiale.",
-      "image": "https://img.lemde.fr/2026/07/14/0/0/1800/900/644/322/60/0/3198a1d_upload-1-xop83nj1jlos-jinping.jpeg",
-      "published_at": "2026-07-16T05:00:07+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "f70a969f9190"
-    },
-    {
-      "title": "La primaire à gauche enterrée, LFI joue le rapport de force",
-      "url": "https://www.liberation.fr/politique/la-primaire-a-gauche-enterree-lfi-joue-le-rapport-de-force-20260716_3T24D5RVDVCWRNIBH4UQAWS7HY/",
-      "summary": "Alors que certains partisans de l’union à gauche envisagent un rassemblement derrière Mélenchon, les insoumis préviennent que leur offre d’alliance est toujours sur la table. Mais «périssable».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-16T03:00:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "27fef61dfd6c"
-    },
-    {
-      "title": "Entre tracteurs et détracteurs, la loi d’urgence agricole entre dans ses dernières tractations au Parlement",
-      "url": "https://www.liberation.fr/environnement/agriculture/entre-tracteurs-et-detracteurs-la-loi-durgence-agricole-entre-dans-ses-dernieres-tractations-au-parlement-20260716_R367N3K2UBBVPABABHVF5ARA24/",
-      "summary": "Sept députés et sept sénateurs devront trouver un accord sur le texte ce jeudi 16 juillet, après que la chambre haute a entériné de graves reculs environnementaux contre l’avis du gouvernement.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-16T03:00:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "e24d3755e2e5"
-    },
-    {
-      "title": "A Rio de Janeiro, les colonies de pêcheurs pourraient disparaître",
-      "url": "https://www.lemonde.fr/planete/article/2026/07/16/a-rio-de-janeiro-les-colonies-de-pecheurs-pourraient-disparaitre_6723689_3244.html",
-      "summary": "Créés il y a plus d’un siècle, les groupements de pêche artisanale voient leurs prises réduites, principalement du fait de la pollution et des navires industriels. La relève n’est pas assurée.",
-      "image": "https://img.lemde.fr/2026/07/15/457/0/7214/3607/644/322/60/0/125dc8d_upload-1-0mjs6ecucblv-000-33gm8yr.jpg",
-      "published_at": "2026-07-16T03:00:05+02:00",
-      "source": "Le Monde Inter",
-      "category": "Économie",
-      "id": "cbb04f7b1ae3"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : l’AIEA déplore la mort, dans une frappe de drone, de l’ingénieur en chef de la centrale nucléaire de Zaporijia",
-      "url": "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-en-ukraine-la-demission-du-ministre-de-la-defense-ukrainien-suscite-l-indignation-dans-le-pays_6722853_3210.html",
-      "summary": "La Russie accuse l’Ukraine d’avoir assassiné Alexandre Iakovlev alors qu’il se trouvait à bord d’un véhicule, dont le conducteur a également perdu la vie. Le directeur de l’Agence internationale de l’énergie atomique, Rafael Grossi, a condamné ce meurtre, sans l’attribuer à quiconque.",
-      "image": "https://img.lemde.fr/2024/10/04/368/0/4415/2207/644/322/60/0/dd6aeac_2024-10-04t130806z-1095565744-rc29k1aqjibh-rtrmadp-3-ukraine-crisis-russia-carbomb.JPG",
-      "published_at": "2026-07-16T01:34:32+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "d0e07aca2af6"
-    },
-    {
-      "title": "Ciel jaune, moral gris : les joueurs de l'équipe de France ont repris le chemin de l'entraînement à trois jours de la petite finale",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/ciel-jaune-moral-gris-les-joueurs-de-l-equipe-de-france-ont-repris-le-chemin-de-l-entrainement-a-trois-jours-de-la-petite-finale_8109464.html#xtor=RSS-3-[lestitres]",
-      "summary": "Éliminés, les Bleus n'en ont pas encore fini avec la Coupe du monde",
-      "image": "https://www.franceinfo.fr/pictures/-jvUEtyu2ZVh0ey978xyAoBzDLg/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/16/6a580a2a320b8808775005.jpg",
-      "published_at": "2026-07-16T00:33:57+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "e8d124a286dc"
-    },
-    {
-      "title": "Au Canada, Toronto suffoque sous la fumée des feux de forêt et enregistre l’une des pires qualités de l’air au monde",
-      "url": "https://www.lemonde.fr/international/article/2026/07/16/au-canada-toronto-suffoque-sous-la-fumee-des-feux-de-foret-et-enregistre-l-une-des-pires-qualites-de-l-air-au-monde_6723623_3210.html",
-      "summary": "La fumée émanant des incendies en cours dans le nord-ouest de l’Ontario a plongé la métropole dans un épais nuage de pollution, poussant les autorités à appeler les habitants à ne pas sortir. L’est des Etats-Unis est également affecté.",
-      "image": "https://img.lemde.fr/2026/07/15/899/0/6000/3000/644/322/60/0/4769a5b_ftp-1-uuygvuva6squ-5630740-01-06.jpg",
-      "published_at": "2026-07-16T00:22:16+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "f75b571be1dd"
-    },
-    {
-      "title": "Coupe du monde : revivez le succès fou de l'Argentine face à l'Angleterre en demi-finale",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/direct-coupe-du-monde-apres-la-terrible-desillusion-pour-les-bleus-place-a-la-demi-finale-angleterre-argentine_8107688.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les Three Lions et l'Albiceleste se disputaient, mercredi soir à Atlanta, une place en finale du Mondial, face à l'Espagne.",
-      "image": "https://www.franceinfo.fr/pictures/1EpKS_82Xl5qLCpAkJDkjiw-MDI/0x0:4105x2309/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57f2ca89005153464884.jpg",
-      "published_at": "2026-07-16T00:09:58+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "cb4678119497"
-    },
-    {
-      "title": "«L’Invention de l’animal» de Pierre-Olivier Dittmar : le Moyen Age et les animaux",
-      "url": "https://www.liberation.fr/culture/livres/linvention-de-lanimal-de-pierre-olivier-dittmar-le-moyen-age-et-les-animaux-20260715_2FJG34GGA5C3VEXBY7DI7ABRMM/",
-      "summary": "Pierre-Olivier Dittmar s’intéresse à la proximité entretenue par les médiévaux avec les animaux, avant qu’une frontière soit érigée vers le XIIIe siècle.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-15T21:56:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "1c4784303d78"
+      "id": "55f023a81de7"
     },
     {
       "title": "L'armée américaine va mesurer le taux de testostérone de ses soldats",
       "url": "https://www.franceinfo.fr/monde/usa/l-armee-americaine-va-mesurer-le-taux-de-testosterone-de-ses-soldats_8109437.html#xtor=RSS-3-[lestitres]",
       "summary": "Le ministre de la Défense américain, Pete Hegseth, défend une vision viriliste de l'armée. Il a imposé aux militaires des normes physiques plus exigeantes et calquées sur des standards masculins.",
       "image": "https://www.franceinfo.fr/pictures/1MBQz6FrE1xC1NwGx-bEtE6oSwc/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57fa0d5309f118600948.jpg",
-      "published_at": "2026-07-15T23:24:06+02:00",
+      "published_at": "2026-07-16T07:24:13+02:00",
       "source": "France Info",
       "category": "Politique",
       "id": "bd32d938e2fc"
     },
     {
-      "title": "L'Argentine défendra son titre face à l'Espagne en finale de la Coupe du monde, après une nouvelle victoire renversante face à l'Angleterre",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/l-argentine-defendra-son-titre-face-a-l-espagne-en-finale-de-la-coupe-du-monde-apres-une-nouvelle-victoire-renversante-face-a-l-angleterre_8109428.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'Angleterre affrontera l'équipe de France en petite finale du Mondial, samedi, à Miami.",
-      "image": "https://www.franceinfo.fr/pictures/BH_v_YfTUBsmwfJ4plOpG9pd0r0/0x355:4931x3128/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57f38e8655c251054573.jpg",
-      "published_at": "2026-07-15T23:18:21+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "40757421ee4e"
-    },
-    {
-      "title": "Coupe du monde : l’Argentine renverse l’Angleterre (2-1) pour s’offrir une nouvelle finale",
-      "url": "https://www.liberation.fr/sports/football/coupe-du-monde-largentine-renverse-langleterre-2-1-pour-soffrir-une-nouvelle-finale-20260715_ZNGHPQNTMVAL7JIVCS3OQAQ4HE/",
-      "summary": "L’Albiceleste a su revenir au score et passer devant les Three Lions, en demi-finale ce mercredi 15 juillet à Atlanta, pour se qualifier. Elle retrouvera l’Espagne dimanche à New York.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-15T21:03:27+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "8af3276eb18d"
-    },
-    {
-      "title": "Les trois vies d’Hissène Habré, l’ancien dictateur tchadien, dans son précaire refuge de Dakar",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/15/les-trois-vies-d-hissene-habre-l-ancien-dictateur-tchadien-dans-son-precaire-refuge-de-dakar_6723621_3451060.html",
-      "summary": "« Chefs d’Etat africains en exil » (4/6). Chassé du pouvoir en 1990, le dirigeant tchadien s’est exilé au Sénégal, au terme de huit années de règne sanguinaire. Après une décennie dorée sous protection, il est inculpé de crimes contre l’humanité et d’actes de tortures commis au Tchad. Son réseau d’influence lui permettra un temps d’échapper aux procédures, avant d’être condamné à la prison à perpé",
-      "image": "https://img.lemde.fr/2026/07/14/1247/86/2057/1029/644/322/60/0/9091791_upload-1-nzvmyen7egjl-aquindo-se-riede-te-4-hissenehabre.jpg",
-      "published_at": "2026-07-15T23:00:12+02:00",
+      "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+      "url": "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-en-ukraine-l-aiea-deplore-la-mort-de-l-ingenieur-en-chef-de-la-centrale-nucleaire-de-zaporijia_6722853_3210.html",
+      "summary": "Une série d’explosions a retenti peu après minuit à Kiev, après une alerte signalant l’approche de plusieurs missiles balistiques. Cette attaque russe survient quelques heures après la visite à Kiev de la présidente de la Commission européenne, Ursula von der Leyen.",
+      "image": "https://img.lemde.fr/2026/07/16/235/0/2590/1295/644/322/60/0/b5d5274_ftp-1-7sun5kpjvlfw-2026-07-16t022309z-817724546-rc2nemawsros-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
+      "published_at": "2026-07-16T07:10:19+02:00",
       "source": "Le Monde Inter",
       "category": "Politique",
-      "id": "e3a6d21023f3"
+      "id": "a9ba37162c55"
     },
     {
-      "title": "Incendies à Fontainebleau : le pompier volontaire suspecté d’un départ de feu placé en détention provisoire",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-incendies-fin-de-lalerte-rouge-69-departements-en-vigilance-orange-20260715_35JNCH4XSZAWDJUFUFJXUT4NPY/",
-      "summary": "Pendant que 950 pompiers sont restés à pied d’œuvre ce mercredi 15 juillet pour éviter les reprises de feu, un homme a été interpellé sur un parking près de la forêt de Fontainebleau, soupçonné d’avoir voulu provoquer un nouvel incendie.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-15T20:36:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "ddb4b1c3a620"
-    },
-    {
-      "title": "Un animateur scout mis en examen pour agressions sexuelles sur trois mineurs de moins de 15 ans dans le Doubs, l'homme a reconnu les faits",
-      "url": "https://www.franceinfo.fr/societe/pedocriminalite/un-animateur-scout-mis-en-examen-pour-agressions-sexuelles-sur-trois-mineurs-de-moins-de-15-ans-dans-le-doubs-l-homme-a-reconnu-les-faits_8109377.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le suspect a exprimé sa volonté d'être pris en charge. Il ne présentait aucun antécédent judiciaire.",
-      "image": "https://www.franceinfo.fr/pictures/F6tsPfc_SYac54winCS0eRH6Lwk/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57ef040222d542354041.jpg",
-      "published_at": "2026-07-15T22:35:49+02:00",
+      "title": "Deux suspects, dont un pompier volontaire, mis en examen et placés en détention provisoire pour les incendies à Fontainebleau",
+      "url": "https://www.franceinfo.fr/faits-divers/incendie/deux-suspects-mis-en-examen-pour-les-incendies-de-fontainebleau_8109698.html#xtor=RSS-3-[lestitres]",
+      "summary": "Il s'agit d'un sapeur-pompier volontaire et d'un étudiant, tous deux âgés de 18 ans. Ils sont soupçonnés d'être à l'origine de deux départs de feu qui ont parcouru quelque 2 000 hectares de forêt en Seine-et-Marne.",
+      "image": "https://www.franceinfo.fr/pictures/lBQlm8mYUbmZ2BR8XHHPtNn0eIc/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/16/6a58622e83758101175365.jpg",
+      "published_at": "2026-07-16T07:06:45+02:00",
       "source": "France Info",
-      "category": "Sport",
-      "id": "569e2ab7c85a"
-    },
-    {
-      "title": "Dominique de Villepin dit que les candidats qui promettent de ne pas augmenter les impôts sont des « menteurs »",
-      "url": "https://www.lemonde.fr/politique/article/2026/07/15/dominique-de-villepin-dit-que-les-candidats-qui-promettent-de-ne-pas-augmenter-les-impots-sont-des-menteurs_6723620_823448.html",
-      "summary": "Le probable candidat à la présidentielle s’exprimait au siège parisien de son jeune parti, La France humaniste, devant une poignée de journalistes ainsi qu’une dizaine d’influenceurs et de représentants des nouveaux médias.",
-      "image": "https://img.lemde.fr/2026/07/15/625/0/7488/3744/644/322/60/0/ca6b0d0_ftp-1-ypuruxwli6g1-5628916-01-06.jpg",
-      "published_at": "2026-07-15T22:31:16+02:00",
-      "source": "Le Monde Politique",
       "category": "Politique",
-      "id": "65b714e9c697"
+      "id": "64539cd12243"
     },
     {
-      "title": "Aux États-Unis, la colère gronde à nouveau contre la police de l'immigration après la mort de deux hommes par balles",
-      "url": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-la-colere-gronde-a-nouveau-contre-la-police-de-l-immigration-apres-la-mort-de-deux-hommes-par-balles_8109416.html#xtor=RSS-3-[lestitres]",
-      "summary": "Aux États-Unis, ICE, la police de l'immigration, suscite une nouvelle controverse, après la mort en quelques jours de deux personnes, tuées par balles par des agents. L'une des victimes est un jeune père de famille de 26 ans. Sa mort a provoqué un vif émoi et de nouvelles manifestations anti-ICE en Amérique.",
-      "image": "https://www.franceinfo.fr/pictures/VRARL_7hRCgHQ4Xn-sqCzECI_Zs/34x0:1446x794/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57ed7b846f3208567040.jpg",
-      "published_at": "2026-07-15T22:30:05+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "e2638aff7e93"
-    },
-    {
-      "title": "Le coût d'une alimentation saine a augmenté de 25% en cinq ans, selon l'ONU",
-      "url": "https://www.franceinfo.fr/sante/alimentation/le-cout-d-une-alimentation-saine-a-augmente-de-25-en-cinq-ans-selon-l-onu_8109410.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'Organisation des Nations unies pour l'alimentation et l'agriculture (FAO) encourage la production locale, qui réduirait le coût d'une alimentation saine de 34% à l'échelle mondiale.",
-      "image": "https://www.franceinfo.fr/pictures/8uEjOULiSWYNtr6MfH1qtLfbIbE/0x18:1024x594/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57eca6dedd2528617911.jpg",
-      "published_at": "2026-07-15T22:26:45+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "8b13568d0af3"
-    },
-    {
-      "title": "Canada : un mur de feu dévaste 50 000 hectares",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/canada-un-mur-de-feu-devaste-50-000-hectares_8109407.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un train a traversé un immense brasier, en Ontario, dans l'est du Canada. L'équipage a dû l'abandonner en urgence avant de prendre la fuite.",
-      "image": "https://www.franceinfo.fr/pictures/qNyfgQFwIOeuUCGJyVHMT5yw5MU/120x0:1591x827/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57e8126c29c890994898.png",
-      "published_at": "2026-07-15T22:25:57+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "5347a2f68573"
-    },
-    {
-      "title": "A Bordeaux, deux plaintes pour viols contre un directeur d’école, une information judiciaire ouverte",
-      "url": "https://www.liberation.fr/societe/police-justice/a-bordeaux-deux-plaintes-pour-viols-contre-un-directeur-decole-une-information-judiciaire-ouverte-20260715_ESFUJWOOGBCPTMBUNNVROTRIPM/",
-      "summary": "Le directeur de l’école élémentaire privée catholique Sainte-Marie Bastide est soupçonné de viols, d’agressions sexuelles et de menaces de mort à l’encontre de deux petits garçons.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-15T20:19:37+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "5b18a89939bf"
-    },
-    {
-      "title": "Au Venezuela, le bilan du double séisme monte à au moins 4 829 morts",
-      "url": "https://www.liberation.fr/international/amerique/au-venezuela-le-bilan-du-double-seisme-monte-a-pres-de-3-000-morts-20260705_X7LWUOQT3ZBFXA2MHCBRQXUOUM/",
-      "summary": "Les tremblements de terre du 24 juin ont également fait au moins 16 740 blessés, selon les derniers chiffres avancés par le gouvernement intérimaire.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-15T20:11:12+00:00",
-      "source": "Libération",
+      "title": "Aux Etats-Unis, Donald Trump tente de prendre le contrôle de l’organisation des élections",
+      "url": "https://www.lemonde.fr/international/article/2026/07/16/aux-etats-unis-donald-trump-tente-de-prendre-le-controle-de-l-organisation-des-elections_6723738_3210.html",
+      "summary": "Le président américain s’emploie à imposer son « SAVE America Act », un texte qui durcirait les conditions de vote et pourrait pénaliser les plus modestes et les minorités.",
+      "image": "https://img.lemde.fr/2026/07/13/0/0/8256/4128/644/322/60/0/45bbbc4_ftp-1-jzfs4yi1s7et-5613566-01-06.jpg",
+      "published_at": "2026-07-16T07:00:08+02:00",
+      "source": "Le Monde Inter",
       "category": "Politique",
-      "id": "c52f3d2390aa"
+      "id": "82ecdcd0cc68"
     },
     {
-      "title": "«Aboutissement», «processus démocratique complet» ou «rupture grave» : les principales réactions après l’adoption de l’aide à mourir",
-      "url": "https://www.liberation.fr/politique/aboutissement-processus-democratique-complet-ou-rupture-grave-les-principales-reactions-apres-ladoption-de-laide-a-mourir-20260715_QFLCYEONM5FGRNNXN6OITXP4UU/",
-      "summary": "La loi définitivement adoptée ce mercredi 15 juillet attise autant la colère de ses opposants que le soulagement de ses défenseurs.",
+      "title": "Mon pire job d’été : «Je suis vraiment exposée cet été-là à une classe sociale que je ne connaissais pas du tout»",
+      "url": "https://www.liberation.fr/lifestyle/argent-boulot/mon-pire-job-dete-je-suis-vraiment-exposee-cet-ete-la-a-une-classe-sociale-que-je-ne-connaissais-pas-du-tout-20260716_KVKQ774YHJAM3B3YTEWADF7XNI/",
+      "summary": "L’été rime souvent avec détente, mais pour beaucoup d’étudiant·e·s, il signifie surtout petit boulot. Dans le neuvième épisode de notre série, Amanda se rappelle l’été de ses 16 ans, où elle a enchaîné les petits boulots mal payés.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-07-16T05:00:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "94c075bafa5c"
+    },
+    {
+      "title": "Tour de France 2026 : les baroudeurs peuvent-ils empêcher un nouveau sprint massif annoncé, avec Tim Merlier pour favori ? La 12e étape en questions",
+      "url": "https://www.franceinfo.fr/tour-de-france/tour-de-france-2026-les-baroudeurs-peuvent-ils-empecher-un-nouveau-sprint-massif-annonce-avec-tim-merlier-pour-favori-la-12e-etape-en-questions_8105051.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le peloton va parcourir une deuxième étape de plaine consécutive, jeudi, avec seulement trois difficultés mineures pour rallier Chalon-sur-Saône.",
+      "image": "https://www.franceinfo.fr/pictures/WOCK4A_FSAXOgU2AU-yTj19pxKE/0x414:3508x2387/432x243/filters:format(jpg):quality(50)/2024/06/24/plaine-66796538d606f718992974.jpg",
+      "published_at": "2026-07-16T06:45:02+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "31c7f71376ec"
+    },
+    {
+      "title": "«De plus en plus de sapeurs pompiers quittent la profession» : les syndicats alertent sur les cadences et les conditions de travail",
+      "url": "https://www.liberation.fr/economie/social/de-plus-en-plus-de-sapeurs-pompiers-quittent-la-profession-les-syndicats-alertent-sur-les-cadences-et-les-conditions-de-travail-20260716_7ZNHZ2JZVFHY5DCGZYA2JUOMPA/",
+      "summary": "Accidents, conditions de travail… Les représentants professionnels des pompiers déplorent le climat social d’un métier qui peine à recruter. Et interpellent sur les conséquences du double statut de volontaire et de professionnel.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-15T19:41:29+00:00",
+      "published_at": "2026-07-16T04:44:00+00:00",
       "source": "Libération",
       "category": "Sport",
-      "id": "113cbaacb0e1"
+      "id": "082dadcf6a17"
+    },
+    {
+      "title": "Neuf personnes, dont un policier, mises en examen dans une affaire de trafic d'armes de guerre dans l'Oise et en Suisse",
+      "url": "https://www.franceinfo.fr/france/hauts-de-france/oise/neuf-personnes-dont-un-policier-mises-en-examen-dans-une-affaire-de-trafic-d-armes-de-guerre-dans-l-oise-et-en-suisse_8109062.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'enquête, initialement ouverte par le parquet de Beauvais, a mis en lumière un réseau \"structuré de fabrication et de vente d'armes de guerre\".",
+      "image": "https://www.franceinfo.fr/pictures/Z-r8AzrCHWHYglVXebZo0t9wif8/432x243/filters:format(jpg):quality(50)/2026/06/15/6a2f7c0e6f6a1787855660.jpg",
+      "published_at": "2026-07-16T06:36:18+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "eac490e5581f"
+    },
+    {
+      "title": "Scandale du logiciel espion Pegasus : de nouvelles preuves contre le Maroc",
+      "url": "https://www.franceinfo.fr/enquetes-franceinfo/enquete-scandale-du-logiciel-espion-pegasus-de-nouvelles-preuves-contre-le-maroc_8109245.html#xtor=RSS-3-[lestitres]",
+      "summary": "Depuis 2021, la justice enquête sur l’espionnage ayant visé des journalistes et des dirigeants français. Alors que le Premier ministre et une partie du gouvernement se trouvent au Maroc, nous apportons de nouvelles preuves à l’encontre du royaume chérifien. Une enquête coordonnée par Forbidden Stories.",
+      "image": "https://www.franceinfo.fr/pictures/MJZXBdWwH3gI3LQpnWX8G-X-PUQ/0x0:6393x3596/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57babc62a25592569615.jpg",
+      "published_at": "2026-07-16T06:30:41+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "fe07454f6f1b"
+    },
+    {
+      "title": "« Projet Pegasus » : cinq ans après les révélations sur un système mondial d’espionnage de téléphones, l’enquête judiciaire se poursuit",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/16/projet-pegasus-cinq-ans-apres-les-revelations-sur-un-systeme-mondial-d-espionnage-de-telephones-l-enquete-judiciaire-se-poursuit_6723735_4408996.html",
+      "summary": "Deux anciens responsables de l’entreprise israélienne NSO Group, qui a développé le logiciel espion, sont placés sous le statut de témoins assistés. Mais alors que l’Elysée promettait, en 2021, de faire « toute la lumière » sur l’espionnage de six ministres français, un rapprochement diplomatique a été opéré avec le Maroc, pourtant accusé d’en être le commanditaire.",
+      "image": "https://img.lemde.fr/2026/07/09/63/0/6417/3208/644/322/60/0/9b1dd62_ftp-1-tt10io6tt84p-5575513-01-06.jpg",
+      "published_at": "2026-07-16T06:30:02+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "4c0c42521027"
     }
   ]
 }
