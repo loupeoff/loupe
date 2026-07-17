@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-07-16T23:04:49.310834+00:00",
+  "generated_at": "2026-07-17T00:08:53.551040+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Mexique : assassinat d’un journaliste dans le centre du pays",
+      "url": "https://www.lemonde.fr/international/article/2026/07/17/mexique-assassinat-d-un-journaliste-dans-le-centre-du-pays_6723950_3210.html",
+      "summary": "Josué Martinez « assurait la couverture de sujets liés à la sécurité et d’événements à fort impact » dans sa localité de San Martin Texmelucan, à proximité de Mexico.",
+      "image": "https://img.lemde.fr/2026/07/16/73/0/1080/540/644/322/60/0/0f316e1_upload-1-w21tu17nfnft-749269416-1571021694637489-3600247134893799357-n.jpeg",
+      "published_at": "2026-07-17T01:52:41+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "ebd0797924e6"
+    },
+    {
+      "title": "Truth Social lance un accès prioritaire et payant aux publications de Donald Trump",
+      "url": "https://www.lemonde.fr/international/article/2026/07/17/truth-social-lance-un-acces-prioritaire-et-payant-aux-publications-de-donald-trump_6723917_3210.html",
+      "summary": "Le président américain envisage de monétiser ses communications sur son réseau social, à destination des traders et des médias financiers qui dépendent de marges de quelques secondes.",
+      "image": "https://img.lemde.fr/2026/07/16/137/0/501/250/644/322/60/0/1c6fa8f_upload-1-4nk0wpanznmd-capture-d-e-cran-2026-07-17-a-01-43-17.png",
+      "published_at": "2026-07-17T01:51:14+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "8bdef8fcab32"
+    },
     {
       "title": "Orages : huit départements en vigilance orange, 17 départements en alerte orange canicule",
       "url": "https://www.franceinfo.fr/environnement/meteo/orages-vingt-six-departements-de-la-moitie-est-du-pays-en-vigilance-orange-16-departements-en-alerte-orange-canicule_8110898.html#xtor=RSS-3-[lestitres]",
@@ -281,26 +301,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "79a2acc31642"
-    },
-    {
-      "title": "Electricité : les tarifs réglementés vont augmenter de 2,5 % le 1er août",
-      "url": "https://www.liberation.fr/economie/conso/electricite-les-tarifs-reglementes-vont-augmenter-de-25-le-1er-aout-20260716_SCO75WLSOBCZHK4UKZ3J46BSOU/",
-      "summary": "19 millions de clients sont concernés. Le ministère de l’Economie souligne que l’électricité reste plus compétitive que le gaz qui a augmenté avec le conflit au Moyen-Orient.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-16T18:46:44+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "7a917a7772e0"
-    },
-    {
-      "title": "L’allocution de Donald Trump va porter « sur la protection de l’intégrité » des élections, à l’approche des midterms, dit la Maison Blanche",
-      "url": "https://www.lemonde.fr/international/article/2026/07/16/l-allocution-de-donald-trump-va-porter-sur-la-protection-de-l-integrite-des-elections-a-l-approche-des-midterms-dit-la-maison-blanche_6723843_3210.html",
-      "summary": "Le républicain a beau avoir été élu deux fois à la Maison Blanche, en 2016 et 2024, il ne cesse de répéter – sans fournir de preuves – que les processus de vote américains sont corrompus au détriment de son camp.",
-      "image": "https://img.lemde.fr/2026/07/16/450/0/5945/2972/644/322/60/0/c5f9eec_ftp-1-1zpstw5uyr1c-2026-07-16t174324z-972400445-rc25fmaj5fui-rtrmadp-3-usa-trump.JPG",
-      "published_at": "2026-07-16T20:44:38+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "c2a3ae690547"
     }
   ]
 }
