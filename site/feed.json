@@ -1,13 +1,143 @@
 {
-  "generated_at": "2026-07-17T00:08:53.551040+00:00",
+  "generated_at": "2026-07-17T04:14:33.351877+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Nigel Farage le Britannique, Alice Weidel l’Allemande, Javier Milei l’Argentin… Ces figures de droite radicale qu’Elon Musk défend à l’étranger",
+      "url": "https://www.liberation.fr/international/europe/nigel-farage-le-britannique-alice-weidel-lallemande-javier-milei-largentin-ces-figures-de-droite-radicale-quelon-musk-defend-a-letranger-20260717_NWHBR3XE65F4BHK7TTP2UBTIFI/",
+      "summary": "Après avoir de nouveau affiché son soutien à Marine Le Pen, Elon Musk confirme une stratégie à l’œuvre depuis plusieurs années. De l’Allemagne au Royaume-Uni, le milliardaire multiplie les appuis aux droites radicales.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-17T04:02:00+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "bb3288e16226"
+    },
+    {
+      "title": "Présomption de légitime défense pour les forces de l’ordre : « Une loi qui ne cherche pas le meilleur équilibre entre la vie de tous est immorale »",
+      "url": "https://www.lemonde.fr/idees/article/2026/07/17/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-une-loi-qui-ne-cherche-pas-le-meilleur-equilibre-entre-la-vie-de-tous-est-immorale_6724130_3232.html",
+      "summary": "La proposition de loi instaurant une présomption d’« usage légitime des armes » pour les gendarmes et policiers, qui doit encore être examinée par le Sénat, aura un coût humain, social et démocratique faramineux, déplorent les membres de l’Observatoire de la sûreté dans une tribune au « Monde ».",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/97544d8_upload-1-uzogijl545ls-frame-979.jpg",
+      "published_at": "2026-07-17T06:00:44+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "17a48d4728e3"
+    },
+    {
+      "title": "BTS, le groupe sud-coréen qui a hissé la K-pop aux sommets de l’industrie musicale mondiale",
+      "url": "https://www.lemonde.fr/culture/article/2026/07/17/bts-le-groupe-sud-coreen-qui-a-hisse-la-k-pop-aux-sommets-de-l-industrie-musicale-mondiale_6724129_3246.html",
+      "summary": "Alors que les sept artistes se produisent les 17 et 18 juillet au Stade de France, retour sur leurs débuts en 2013 et leur exceptionnel parcours.",
+      "image": "https://img.lemde.fr/2026/07/15/106/0/2000/1000/644/322/60/0/d282ade_upload-1-hhp2uzz1txe0-000-a47f7ke.jpg",
+      "published_at": "2026-07-17T06:00:39+02:00",
+      "source": "Le Monde Inter",
+      "category": "Économie",
+      "id": "f6c96cdc23a0"
+    },
+    {
+      "title": "Le port de Savannah, symbole de la frénésie de la consommation des Américains",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/17/le-port-de-savannah-symbole-de-la-frenesie-de-la-consommation-des-americains_6724128_3234.html",
+      "summary": "« La ruée sur les ports » (9/16). Troisième port des Etats-Unis après ceux de Los Angeles et de New York and New Jersey, Savannah est porté par l’essor des importations et du nouvel axe commercial reliant l’Inde à la Côte est américaine. Si ses exploitants ont de grandes ambitions, ils sont freinés par un handicap : les conteneurs repartent en partie à vide, faute de produits industriels à exporte",
+      "image": "https://img.lemde.fr/2026/07/15/264/0/3000/1500/644/322/60/0/9423d4e_upload-1-5pifb2pqidyy-savannah-ok.jpg",
+      "published_at": "2026-07-17T06:00:31+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "ec9ed7c3ecd3"
+    },
+    {
+      "title": "Au Yémen, le détroit de Bab el-Mandeb est l’autre carte maîtresse de l’Iran",
+      "url": "https://www.liberation.fr/international/moyen-orient/au-yemen-le-detroit-de-bab-el-mandeb-est-lautre-carte-maitresse-de-liran-20260717_FFEPPKF6HZFHBCAP6JURA5NOT4/",
+      "summary": "En ciblant les navires en mer Rouge, les rebelles houthis, alliés de Téhéran et qui contrôlent la région, disposeraient d’un levier redoutable. Une reprise des attaques pousserait les armateurs à rallonger leurs routes et ferait grimper les coûts du transport et de l’énergie.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-17T03:29:00+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "765e95619875"
+    },
+    {
+      "title": "Donald Trump relance les accusations de fraude électorale et vise la Chine avant les élections de mi-mandat",
+      "url": "https://www.lemonde.fr/international/article/2026/07/17/donald-trump-relance-les-accusations-de-fraude-electorale-et-vise-la-chine-avant-les-elections-de-mi-mandat_6724119_3210.html",
+      "summary": "Dans un discours de vingt-cinq minutes, le républicain a répété, une nouvelle fois sans preuve, que l’élection de 2020 lui avait été « volée » et a annoncé déclassifier des documents qui, selon lui, montrent que la Chine a « piraté des données électorales ».",
+      "image": "https://img.lemde.fr/2026/07/17/927/0/5562/2781/644/322/60/0/e61aff7_ftp-1-xdngcvcwrqty-5641420-01-06.jpg",
+      "published_at": "2026-07-17T05:02:16+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "5ad07d0d0ba2"
+    },
+    {
+      "title": "Depuis Brühl, le couple franco-allemand tâche d’afficher sa coopération militaire après l’échec du SCAF",
+      "url": "https://www.lemonde.fr/international/article/2026/07/17/depuis-bruhl-le-couple-franco-allemand-tache-d-afficher-sa-cooperation-militaire-apres-l-echec-du-scaf_6724086_3210.html",
+      "summary": "Emmanuel Macron et le chancelier Friedrich Merz tiennent, vendredi, en Rhénanie-du-Nord-Westphalie, un conseil de défense commun et le traditionnel conseil des ministres franco-allemand.",
+      "image": "https://img.lemde.fr/2026/07/14/794/0/8000/4000/644/322/60/0/faf2c66_upload-1-nnp3iiqk0z8w-jmug260713017.jpg",
+      "published_at": "2026-07-17T05:00:25+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "3f671cc3476f"
+    },
+    {
+      "title": "En Ukraine, après son remaniement, Volodymyr Zelensky passe outre les manifestants",
+      "url": "https://www.lemonde.fr/international/article/2026/07/17/en-ukraine-apres-son-remaniement-volodymyr-zelensky-passe-outre-les-manifestants_6724085_3210.html",
+      "summary": "En choisissant de trancher en faveur du chef des armées Oleksandr Syrsky, contre le ministre de la défense, Mykhaïlo Fedorov, le président ukrainien a rouvert une crise politique.",
+      "image": "https://img.lemde.fr/2026/07/16/443/0/2953/1476/644/322/60/0/ba6a63e_upload-1-52qhmqrnv9is-2026-07-16-heg-ukraine-0159.JPG",
+      "published_at": "2026-07-17T05:00:22+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "2a5990ec3338"
+    },
+    {
+      "title": "Géopolitique : le siège de Nuuk (4/4)",
+      "url": "https://www.lemonde.fr/podcasts/article/2026/07/17/geopolitique-le-siege-de-nuuk-4-4_6724084_5463015.html",
+      "summary": "Dans ce quatrième épisode de podcast de la série « Géopolitique », consacrée à la nouvelle donne internationale en perte de repères, Sylvie Kauffmann et Delphine Papin, respectivement éditorialiste et responsable de l’innovation cartographique au « Monde », imaginent un scénario géopolitique fictif où Donald Trump décide d’envahir le Groenland.",
+      "image": "https://img.lemde.fr/2026/07/14/0/0/1800/900/644/322/60/0/e4f9d09_upload-1-kfctc18whpzz-groenlandok.jpeg",
+      "published_at": "2026-07-17T05:00:18+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "8cb01454ca03"
+    },
+    {
+      "title": "Présidentielle 2027 : entre une fidélité contrariée à leur parti et la tentation Edouard Philippe, les ministres LR cherchent leur place",
+      "url": "https://www.lemonde.fr/politique/article/2026/07/17/presidentielle-2027-entre-une-fidelite-contrariee-a-leur-parti-et-la-tentation-edouard-philippe-les-ministres-lr-cherchent-leur-place_6724083_823448.html",
+      "summary": "Suspendus depuis octobre 2025, les six membres Les Républicains du gouvernement Lecornu incarnent pour Bruno Retailleau une page révolue : celle d’une droite alliée avec la Macronie. Les bannis estiment ne pas avoir trahi leur famille politique et plaident pour un candidat unique du « socle commun ».",
+      "image": "https://img.lemde.fr/2026/07/16/94/0/3313/1656/644/322/60/0/42db66c_upload-1-vjpyyh8o7drs-000-b9b69wn.jpg",
+      "published_at": "2026-07-17T05:00:15+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "07eab93d0f5f"
+    },
+    {
+      "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran riposte aux frappes américaines en attaquant le Koweït, Bahreïn et le Qatar",
+      "url": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-au-moyen-orient-l-iran-riposte-aux-frappes-americaines-en-attaquant-le-koweit-bahrein-et-le-qatar_6722873_3210.html",
+      "summary": "Les trois pays du Golfe disent avoir intercepté des drones et des missiles lancés par Téhéran sur leurs territoires respectifs, en réponse aux bombardements américains sur des infrastructures de transports iraniennes.",
+      "image": "https://img.lemde.fr/2026/07/16/101/0/3000/1500/644/322/60/0/3ca2e27_ftp-1-moaraj2n308n-5636563-01-06.jpg",
+      "published_at": "2026-07-17T04:04:45+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "23a354fd9300"
+    },
+    {
+      "title": "En Côte d’Ivoire, les hommes politiques se ruent sur les clubs de football",
+      "url": "https://www.lemonde.fr/afrique/article/2026/07/17/en-cote-d-ivoire-les-hommes-politiques-se-ruent-sur-les-clubs-de-football_6724016_3212.html",
+      "summary": "Plusieurs membres du gouvernement et cadres du parti au pouvoir possèdent, président ou parrainent des clubs. Un instrument d’influence qui s’est accentué ces dernières années.",
+      "image": "https://img.lemde.fr/2026/07/16/98/0/2048/1024/644/322/60/0/3a0f74f_upload-1-7fhdhvdc43j4-637365976-1227490089496841-1751329832398990059-n.jpg",
+      "published_at": "2026-07-17T03:00:01+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "80a1cb9cdd1b"
+    },
+    {
+      "title": "Coupe du monde 2026 : la FIFA annonce une enquête après la banderole sur les Malouines brandie par des joueurs argentins",
+      "url": "https://www.lemonde.fr/sport/article/2026/07/17/mondial-2026-la-fifa-annonce-une-enquete-apres-la-banderole-sur-les-malouines-brandie-par-des-joueurs-argentins_6723983_3242.html",
+      "summary": "L’archipel britannique situé à 600 km des côtes argentines demeure un sujet sensible dans les relations entre Londres et Buenos Aires, ravivé par une provocation de l’Albiceleste après sa victoire sur les Three Lions lors du Mondial de football.",
+      "image": "https://img.lemde.fr/2026/07/15/1203/0/7222/3611/644/322/60/0/165656b_ftp-1-cdnfku96m5qu-3d4cdccc87544c4a944993ff2c5afb63-0-4fe1740cd8084fa59b357600a7bd8118.jpg",
+      "published_at": "2026-07-17T02:27:12+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "7844b3c0b051"
+    },
     {
       "title": "Mexique : assassinat d’un journaliste dans le centre du pays",
       "url": "https://www.lemonde.fr/international/article/2026/07/17/mexique-assassinat-d-un-journaliste-dans-le-centre-du-pays_6723950_3210.html",
       "summary": "Josué Martinez « assurait la couverture de sujets liés à la sécurité et d’événements à fort impact » dans sa localité de San Martin Texmelucan, à proximité de Mexico.",
       "image": "https://img.lemde.fr/2026/07/16/73/0/1080/540/644/322/60/0/0f316e1_upload-1-w21tu17nfnft-749269416-1571021694637489-3600247134893799357-n.jpeg",
-      "published_at": "2026-07-17T01:52:41+02:00",
+      "published_at": "2026-07-17T01:52:38+02:00",
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "ebd0797924e6"
@@ -15,9 +145,9 @@
     {
       "title": "Truth Social lance un accès prioritaire et payant aux publications de Donald Trump",
       "url": "https://www.lemonde.fr/international/article/2026/07/17/truth-social-lance-un-acces-prioritaire-et-payant-aux-publications-de-donald-trump_6723917_3210.html",
-      "summary": "Le président américain envisage de monétiser ses communications sur son réseau social, à destination des traders et des médias financiers qui dépendent de marges de quelques secondes.",
+      "summary": "Le président américain envisage de monétiser ses communications sur son réseau social, à destination des traders et des médias financiers qui dépendent de marges de quelques secondes pour prendre leurs décisions.",
       "image": "https://img.lemde.fr/2026/07/16/137/0/501/250/644/322/60/0/1c6fa8f_upload-1-4nk0wpanznmd-capture-d-e-cran-2026-07-17-a-01-43-17.png",
-      "published_at": "2026-07-17T01:51:14+02:00",
+      "published_at": "2026-07-17T01:51:12+02:00",
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "8bdef8fcab32"
@@ -73,16 +203,6 @@
       "id": "9199d71a68d4"
     },
     {
-      "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis ont lancé une nouvelle salve de frappes contre l’Iran, des explosions entendues près du détroit d’Ormuz",
-      "url": "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-au-moyen-orient-les-etats-unis-ont-lance-une-nouvelle-salve-de-frappes-contre-l-iran-des-explosions-entendues-pres-du-detroit-d-ormuz_6722873_3210.html",
-      "summary": "A Bandar-e Abbas, une personne est morte après un bombardement contre un quartier résidentiel, selon des médias d’Etat iraniens. Des détonations ont aussi été entendues à Bouchehr, Bandar Khamir, près d’Ahvaz et sur l’île de Qechm.",
-      "image": "https://img.lemde.fr/2026/07/15/109/0/3500/1750/644/322/60/0/3338adf_ftp-1-bqovemmi51cj-5626082-01-06.jpg",
-      "published_at": "2026-07-16T23:00:11+02:00",
-      "source": "Le Monde Inter",
-      "category": "Sport",
-      "id": "142f57d4dfd3"
-    },
-    {
       "title": "Ahmed Ben Bella, des prisons d’Alger aux vignobles suisses",
       "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/16/ahmed-ben-bella-des-prisons-d-alger-aux-vignobles-suisses_6723850_3451060.html",
       "summary": "« Chefs d’Etat africains en exil » (5/6). Poussé dehors par le colonel Boumediene en 1965, le premier président de l’Algérie indépendante a passé quinze années dans les geôles d’Alger. Dans les années 1980, il se retranche dans le village suisse de Begnins, entouré de quelques proches. Il a renoué avec l’islam, mais reste fidèle à son combat contre l’impérialisme.",
@@ -136,7 +256,7 @@
       "title": "Loi d’urgence agricole : accord parlementaire pour favoriser la réintroduction de pesticides interdits et le stockage de l’eau",
       "url": "https://www.lemonde.fr/planete/article/2026/07/16/loi-d-urgence-agricole-accord-parlementaire-pour-favoriser-la-reintroduction-de-pesticides-interdits-et-le-stockage-de-l-eau_6723848_3244.html",
       "summary": "Le texte issu de la commission mixte paritaire assouplit certaines des positions les plus clivantes votées par le Sénat sur la gouvernance de l’eau, qui menaçaient l’adoption finale du texte, mais maintient la possibilité d’un recours dérogatoire à l’acétamipride et au flupyradifurone.",
-      "image": "https://img.lemde.fr/2026/07/08/500/0/6000/3000/644/322/60/0/ff29527_ftp-1-lelztyvtoa5n-2026-07-08t125055z-1820761388-rc2n9ma2rtcp-rtrmadp-3-europe-weather-france-agriculture.JPG",
+      "image": "https://img.lemde.fr/2026/07/08/965/0/6000/3000/644/322/60/0/ff29527_ftp-1-lelztyvtoa5n-2026-07-08t125055z-1820761388-rc2n9ma2rtcp-rtrmadp-3-europe-weather-france-agriculture.JPG",
       "published_at": "2026-07-16T22:09:48+02:00",
       "source": "Le Monde Politique",
       "category": "Politique",
@@ -181,126 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "17c39e417e2c"
-    },
-    {
-      "title": "Pour Marine Tondelier, le Tour de France «n’est pas l’homme à abattre» mais doit «s’interroger» sur son empreinte écologique",
-      "url": "https://www.liberation.fr/sports/cyclisme/pour-marine-tondelier-le-tour-de-france-nest-pas-lhomme-a-abattre-mais-doit-sinterroger-sur-son-empreinte-ecologique-20260716_WI2HOICYORDTHCI2D7YRYTHIHI/",
-      "summary": "Présente lors de la douzième étape de la Grande Boucle, jeudi 16 juillet à Chalon-sur-Saône, l’écologiste grande fan de cyclisme a plaidé pour de nettes améliorations de la compétition sur le plan écologique. Un discours qui n’a pas convaincu les spectateurs croisés par «Libé».",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-16T19:21:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "8d5ec3dcbe63"
-    },
-    {
-      "title": "\"Je crois que je ne réalise pas\" : le choc à Cagnac-les-Mines après la découverte des ossements",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/je-crois-que-je-ne-realise-pas-le-choc-a-cagnac-les-mines-apres-la-decouverte-des-ossements_8110784.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'émotion est immense à Cagnac-les-Mines (Tarn), la commune où habitant Delphine Jubillar. Six ans après la disparition de cette infirmière de 33 ans, mère de deux enfants, les habitants et les proches sont bouleversés.",
-      "image": "https://www.franceinfo.fr/pictures/_bMEZmLYtjP3F8I_s-rmbG66amE/163x0:1543x776/432x243/filters:format(jpg):quality(50)/2026/07/16/6a592cdf4d76b431700783.png",
-      "published_at": "2026-07-16T21:20:30+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "f95e288fc39f"
-    },
-    {
-      "title": "« C’est notre territoire national qui est attaqué chaque fois qu’un feu se déclenche » : à Fontainebleau, Emmanuel Macron soutient les pompiers et répond aux critiques",
-      "url": "https://www.lemonde.fr/politique/article/2026/07/16/c-est-notre-territoire-national-qui-est-attaque-chaque-fois-qu-un-feu-se-declenche-a-fontainebleau-emmanuel-macron-soutient-les-pompiers-et-repond-aux-critiques_6723845_823448.html",
-      "summary": "Le chef de l’Etat s’est rendu jeudi dans ce massif historique en partie ravagé par les flammes. L’occasion de saluer le travail des acteurs qui se sont mobilisés pour maîtriser l’incendie, mais aussi pour défendre son action dans le domaine de la sécurité civile.",
-      "image": "https://img.lemde.fr/2026/07/16/647/0/6000/3000/644/322/60/0/41fd3d9_ftp-1-bajvdtjtsffx-2026-07-16t124019z-744462783-rc2yema0ysfm-rtrmadp-3-europe-weather-france-wildfire.JPG",
-      "published_at": "2026-07-16T21:13:17+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "0eb681ffa805"
-    },
-    {
-      "title": "«Pour les familles et la justice, ça va avoir de l’importance» : dans le Tarn, la découverte d’ossements pourrait refermer l’enquête Jubillar",
-      "url": "https://www.liberation.fr/societe/police-justice/pour-les-familles-et-la-justice-ca-va-avoir-de-limportance-dans-le-tarn-la-decouverte-dossements-pourrait-refermer-lenquete-jubillar-20260716_UN3BDFTXGJAIJAFM56PUBMHEH4/",
-      "summary": "Sur les indications de Cédric Jubillar, sorti de sa cellule pour l’occasion, des ossements ont été mis au jour par les enquêteurs, ce jeudi, à Mailhoc (Tarn), à une dizaine de kilomètres de la résidence du couple.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-16T19:06:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "38f9d781a1a2"
-    },
-    {
-      "title": "Soupçons d’exploitation de main d’œuvre en Italie : des perquisitions aux sièges de onze marques de luxe",
-      "url": "https://www.liberation.fr/international/europe/soupcons-dexploitation-de-main-doeuvre-en-italie-des-perquisitions-aux-sieges-de-onze-marques-de-luxe-20260716_AIPTVPPST5EU7PJOS2EDY6BW6U/",
-      "summary": "Le parquet de Milan a informé ce jeudi 16 juillet de perquisitions ayant visé notamment Chanel, Bulgari et Etro, accusées de faire appel à des sous-traitants exploitant des ouvriers chinois en dehors du cadre du droit du travail.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-16T19:03:13+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "15e9c5bb1e7a"
-    },
-    {
-      "title": "Orages : le trafic des trains interrompu entre Paris et Limoges",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-chaleur-17-departements-en-alerte-pour-des-risques-dorages-31-encore-en-vigilance-orange-canicule-20260716_3XHR7YGWE5HOFMMJOO7BZNQKDQ/",
-      "summary": "La vigilance orange pour les orages s’étend sur 30 départements du Centre et de l’Est. Après ceux de mercredi, Météo France alerte sur les risques d’orages avec de forts vents dans la nuit de jeudi à vendredi et prévoit de nouveaux dégâts.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-16T18:58:35+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "ce82de320962"
-    },
-    {
-      "title": "Un agent opérant le prompteur de Trump, suspecté d’avoir parié de l’argent sur ses discours",
-      "url": "https://www.liberation.fr/international/amerique/un-agent-operant-le-prompteur-de-trump-suspecte-davoir-parie-de-largent-sur-ses-discours-20260716_DL6XDION7RGARJWVNP2N4GEYCU/",
-      "summary": "Il utilisait la plateforme de prédiction Kalshi, qui permet notamment aux internautes de miser sur la possibilité qu’une phrase ou un mot soient prononcés lors d’une allocution présidentielle.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-16T18:56:47+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "0ee255231444"
-    },
-    {
-      "title": "Ukraine : des manifestations en soutien au ministre de la défense Mykhaïlo Fedorov",
-      "url": "https://www.lemonde.fr/international/video/2026/07/16/ukraine-des-manifestations-en-soutien-au-ministre-de-la-defense-mykhailo-fedorov_6723844_3210.html",
-      "summary": "Des manifestations ont eu lieu dans les grandes villes en Ukraine. Ariane Chemin, journaliste du « Monde » a filmé ces images à Kiev, où quelques centaines d’Ukrainiens sont venues soutenir le ministre de la défense Mykhaïlo Fedorov, remercié par Volodymyr Zelensky.",
-      "image": "https://img.lemde.fr/2026/07/16/443/0/2953/1476/644/322/60/0/ba6a63e_upload-1-52qhmqrnv9is-2026-07-16-heg-ukraine-0159.JPG",
-      "published_at": "2026-07-16T20:55:43+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "9c04de4df532"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : les Houthis, alliés de l’Iran, bientôt dans l’équation ?",
-      "url": "https://www.liberation.fr/international/moyen-orient/guerre-au-moyen-orient-les-houthis-allies-de-liran-bientot-dans-lequation-20260716_PF3IMQOAQBEDDLC53B2IAI6L54/",
-      "summary": "Le groupe allié de Téhéran a visé l’Arabie Saoudite lundi 13 juillet, pour la première fois depuis 2022, laissant craindre une relance du conflit yéménite. Il affirme être prêt à bloquer le trafic maritime du détroit ultra-stratégique de Bab el-Mandeb.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-16T18:52:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "28b61896b878"
-    },
-    {
-      "title": "Affaire Jubillar : des ossements découverts dans le Tarn, des analyses médico-légales en cours",
-      "url": "https://www.liberation.fr/societe/police-justice/apres-laudition-de-cedric-jubillar-les-fouilles-ont-debute-dans-le-tarn-pour-retrouver-le-corps-de-delphine-aussaguel-20260716_4SJLCUGULBDFZAQRKYQ3VCYE4Q/",
-      "summary": "Extrait de sa cellule après ses aveux et présent sur place près de Cagnac-les-Mines ce jeudi matin, Cédric Jubillar a indiqué «l’endroit où il avait déposé le corps» de son épouse, Delphine Aussaguel, disparue depuis fin 2020.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-16T18:50:49+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "7b8808fb1676"
-    },
-    {
-      "title": "Affaire Cédric Jubillar : des témoignages au cœur de l'enquête",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/affaire-cedric-jubillar-des-temoignages-au-c-ur-de-l-enquete_8110763.html#xtor=RSS-3-[lestitres]",
-      "summary": "Après cinq ans d'enquête et de mensonges de Cédric Jubillar, le principal suspect est passé aux aveux dans une lettre à ses avocats. Retour sur cette affaire hors norme et sur ces témoignages qui auraient pu changer le cours de l'histoire.",
-      "image": "https://www.franceinfo.fr/pictures/ZDe7e8DWoIHGbtwdKefScqBID2Q/68x0:1574x847/432x243/filters:format(jpg):quality(50)/2026/07/16/6a5926d88b4db083638328.png",
-      "published_at": "2026-07-16T20:48:14+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "2074d91079ef"
-    },
-    {
-      "title": "Le gouvernement suit l'avis du régulateur de l'énergie, qui propose une hausse de 2,5% des tarifs réglementés de l'électricité au 1er août",
-      "url": "https://www.franceinfo.fr/environnement/energie/le-regulateur-de-l-energie-propose-une-hausse-de-2-5-des-tarifs-reglementes-de-l-electricite-au-1er-aout_8110583.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cela correspondrait à une possible augmentation nette de la facture d'environ 26 euros par an en moyenne pour les foyers concernés.",
-      "image": "https://www.franceinfo.fr/pictures/hzntt5xMBh7U0ribLBcGRWXTu10/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/16/6a58fc3bd4196831730761.jpg",
-      "published_at": "2026-07-16T20:47:39+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "79a2acc31642"
     }
   ]
 }
