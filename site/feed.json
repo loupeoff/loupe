@@ -1,7 +1,197 @@
 {
-  "generated_at": "2026-07-19T16:05:28.748204+00:00",
+  "generated_at": "2026-07-19T18:01:58.349684+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Pérou : cinq morts et 21 blessés dans un séisme de magnitude 5,1",
+      "url": "https://www.lemonde.fr/international/article/2026/07/19/perou-cinq-morts-et-21-blesses-dans-un-seisme-de-magnitude-5-1_6726299_3210.html",
+      "summary": "Chaque année, au moins 400 séismes se produisent au Pérou, dont une centaine sont perceptibles par la population.",
+      "image": "https://img.lemde.fr/2026/07/19/458/0/5500/2750/644/322/60/0/fb212e1_ftp-1-mpkghux0enge-2026-07-19t170235z-1581248661-rc2cwlazcfwf-rtrmadp-3-peru-quake.JPG",
+      "published_at": "2026-07-19T19:57:50+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "6a87366f6bb5"
+    },
+    {
+      "title": "Naufrage d’un ferry avec 133 personnes à bord au large du Guyana : au moins 67 rescapés mais 66 disparus",
+      "url": "https://www.lemonde.fr/international/article/2026/07/19/naufrage-d-un-ferry-avec-133-personnes-a-bord-au-large-du-guyana-au-moins-67-rescapes-mais-66-disparus_6726266_3210.html",
+      "summary": "Le naufrage est un énorme drame pour ce petit pays anglophone d’Amérique du Sud qui compte 1 million d’habitants.",
+      "image": "https://asset.lemde.fr/medias/img/social-network/default.png",
+      "published_at": "2026-07-19T19:39:23+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "4217566339be"
+    },
+    {
+      "title": "La chute de Jonas Vingegaard qui l'oblige à abandonner le Tour de France 2026",
+      "url": "https://www.franceinfo.fr/tour-de-france/jonas-vingegaard-abandonne-le-tour-de-france-2026-apres-une-lourde-chute-sur-la-15e-etape_8114147.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le double vainqueur de l'épreuve a jeté l'éponge, dimanche, à 20 kilomètres de l'arrivée.",
+      "image": "https://www.franceinfo.fr/pictures/c85d0fd72UIcdXRPEwGP6GjDLbM/0x170:3264x2006/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5ce66d67585615897179.jpg",
+      "published_at": "2026-07-19T19:35:01+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "71498e07b784"
+    },
+    {
+      "title": "EN DIRECT - Guerre au Moyen-Orient : des missiles iraniens abattus par la Jordanie, une usine de production d’eau frappée au Koweït",
+      "url": "https://www.liberation.fr/international/moyen-orient/les-etats-unis-et-liran-poursuivent-leurs-bombardements-frappe-mortelle-a-gaza-lactu-du-conflit-au-moyen-orient-ce-19-juillet-20260719_SO76HYYMMNB25H2B5AGC2HBZGA/",
+      "summary": "L’armée américaine a mené des frappes sur des infrastructures iraniennes pour la huitième nuit consécutive. En représailles, Téhéran a une nouvelle fois lancé des drones et des missiles sur ses voisins du Golfe.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-19T17:30:39+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "0a52501be16b"
+    },
+    {
+      "title": "Un ferry a fait naufrage avec 133 personnes à bord au large des côtes du Guyana",
+      "url": "https://www.franceinfo.fr/faits-divers/un-ferry-a-fait-naufrage-avec-116-personnes-a-bord-au-large-des-cotes-du-guyana_8113817.html#xtor=RSS-3-[lestitres]",
+      "summary": "La moitié des passagers ont réchappé à la catastrophe mais 66 personnes sont toujours portées disparues, ont annoncé les autorités dimanche.",
+      "image": "https://www.franceinfo.fr/pictures/zjqcCUyXVlRpS9pSBM3_kAZqHrk/0x64:689x452/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5c96b3ace17958928794.png",
+      "published_at": "2026-07-19T19:19:30+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "b762956d33a4"
+    },
+    {
+      "title": "Le plus gros problème des clims mobiles, pari fou d’Elon Musk, bracelet Google Fitbit Air – le récap’ tech de la semaine",
+      "url": "https://www.numerama.com/tech/2297079-le-plus-gros-probleme-des-clims-mobiles-pari-fou-delon-musk-bracelet-google-fitbit-air-le-recap-tech-de-la-semaine.html",
+      "summary": "Que retenir de l'actualité tech de la semaine ? Un Français qui a résolu LE problème des climatiseurs mobiles ; le pari fou d'Elon Musk avec SpaceX en Bourse ; le bracelet Google Fitbit Air sauvé par l'application Bevel : ce sont les sujets que vous avez le plus lus sur Numerama.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-07-19T17:15:00+00:00",
+      "source": "Numerama",
+      "category": "Économie",
+      "id": "14502ffc09a8"
+    },
+    {
+      "title": "En Israël, la Knesset multiplie les lois polémiques avant la campagne électorale",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-israel-la-knesset-multiplie-les-lois-polemiques-avant-la-campagne-electorale-20260719_2LLKLY37VNBA5GXXDJDFEZAZMM/",
+      "summary": "Le Parlement a définitivement suspendu ses travaux vendredi 17 juillet, après une semaine lors de laquelle la coalition de Benyamin Nétanyahou a fait adopter dans l’urgence une série de textes destinés à consolider son socle électoral.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-19T17:07:21+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "9f0bb0336c13"
+    },
+    {
+      "title": "« La dépendance de l’Irlande à l’égard de grandes entreprises non européennes crée des conflits d’intérêts insurmontables »",
+      "url": "https://www.lemonde.fr/idees/article/2026/07/19/la-dependance-de-l-irlande-a-l-egard-de-grandes-entreprises-non-europeennes-cree-des-conflits-d-interets-insurmontables_6726231_3232.html",
+      "summary": "Le pays, qui a pris la présidence tournante du Conseil de l’UE au 1ᵉʳ juillet, doit se retirer des négociations sur la régulation numérique et les règles de fiscalité des entreprises, estime dans une tribune au « Monde » un collectif d’universitaires, dont les économistes Mariana Mazzucato, Joseph Stiglitz et Shoshana Zuboff.",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/3677534_upload-1-wgsxggfi1hbc-frame-1359.jpg",
+      "published_at": "2026-07-19T19:00:07+02:00",
+      "source": "Le Monde Inter",
+      "category": "Économie",
+      "id": "9304e559647c"
+    },
+    {
+      "title": "Affaire Jubillar : les ossements retrouvés dans le Tarn sont bien ceux de Delphine Aussaguel, confirment les analyses",
+      "url": "https://www.liberation.fr/societe/affaire-jubillar-les-ossements-retrouves-dans-le-tarn-sont-bien-ceux-de-delphine-aussaguel-selon-plusieurs-medias-20260719_7ER2COF6PNCSRKAS4GHAIGNNH4/",
+      "summary": "Les fouilles ont été réalisées dans une zone désignée par Cédric Jubillar, sur la commune de Mailhoc, à une dizaine de kilomètres de la maison où habitant le couple.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-19T16:58:48+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "63006b6452de"
+    },
+    {
+      "title": "Jonas Vingegaard abandonne le Tour de France après s’être fracturé la clavicule en tombant",
+      "url": "https://www.liberation.fr/sports/cyclisme/jonas-vingegaard-abandonne-le-tour-de-france-apres-une-chute-20260719_G4ZRHJHWRVFN7JBA63AFGYMQBA/",
+      "summary": "Le double vainqueur de la Grande Boucle est allé au sol, ce dimanche 19 juillet, après un virage mal négocié lors de la 15e étape du Tour. Blessé à l’épaule, il a été contraint de monter dans une ambulance.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-19T16:45:44+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "ac2269e72a31"
+    },
+    {
+      "title": "En Italie, le corps calciné d'un journaliste retrouvé près de Naples, la piste d'un homicide privilégiée",
+      "url": "https://www.franceinfo.fr/monde/italie/en-italie-le-corps-calcine-d-un-journaliste-retrouve-pres-de-naples-la-piste-d-un-homicide-privilegiee_8114168.html#xtor=RSS-3-[lestitres]",
+      "summary": "La dépouille, identifiée comme celle de Luigi Esposito, a été retrouvée par les pompiers appelés pour un incendie à Eboli, au sud de Naples. Selon les premiers éléments communiqués par le parquet, il aurait été \"tué par balle\", puis \"brûlé au milieu de la végétation\".",
+      "image": "https://www.franceinfo.fr/pictures/kS1AEIcOGmwCzQGiGXf2I19Icrg/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5cfd2bc5997601769321.jpg",
+      "published_at": "2026-07-19T18:37:52+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "1f2fa7b286b6"
+    },
+    {
+      "title": "Violences, discriminations... Ce qu'il faut retenir du rapport d'une association sur le consentement en gynécologie",
+      "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/violences-discriminations-ce-qu-il-faut-retenir-du-rapport-d-une-association-sur-le-consentement-en-gynecologie_8114072.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'association StopVOG a recueilli plus de 10 000 témoignages sur les parcours des patientes lors de suivi gynécologique ou de grossesse à travers tout le territoire. Elle a publié vendredi le résultat intégral de cette enquête.",
+      "image": "https://www.franceinfo.fr/pictures/qPayIgW40f_nHUmsmUwiw3EQgCs/0x191:1024x767/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5ce29ea6715012433500.jpg",
+      "published_at": "2026-07-19T18:34:13+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "47ae8e8893ff"
+    },
+    {
+      "title": "«On dépasse les limites de ce qui est acceptable en démocratie» : Barbara Butch forcée de quitter la scène du Cabaret frappé à Grenoble",
+      "url": "https://www.liberation.fr/culture/on-depasse-les-limites-de-ce-qui-est-acceptable-en-democratie-barbara-butch-forcee-de-quitter-la-scene-du-cabaret-frappe-a-grenoble-20260719_DWNXM7QXTVGE7KYQDXQWOZV5LE/",
+      "summary": "La DJ, connue pour sa participation à la cérémonie d’ouverture des JO, et cible fréquente de l’extrême droite, a été empêchée, ce samedi 18 juillet, de mixer dans un festival isérois par une action de militants propalestiniens à l’appel de la section locale de La France insoumise.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-19T16:29:19+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "a4102a87d34c"
+    },
+    {
+      "title": "Les ossements retrouvés dans le Tarn après les aveux de Cédric Jubillar sont bien ceux de son épouse, Delphine Aussaguel",
+      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/les-ossements-retrouves-dans-le-tarn-apres-les-aveux-de-cedric-jubillar-sont-bien-ceux-de-son-epouse-delphine-aussaguel_8114231.html#xtor=RSS-3-[lestitres]",
+      "summary": "De nouvelles opérations de recherches avaient été déclenchées, après les déclarations du peintre-plaquiste qui, auparavant, avait toujours nié sa responsabilité dans la disparition de la victime.",
+      "image": "https://www.franceinfo.fr/pictures/fcIkzcs3-326ygYKl0GubUvD9DM/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5cfa4085d29713289737.jpg",
+      "published_at": "2026-07-19T18:27:03+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "237690dc737a"
+    },
+    {
+      "title": "Dans le off d’Avignon, «Décréation» fait dialoguer trois actrices russes avec Simone Weil",
+      "url": "https://www.liberation.fr/culture/dans-le-off-davignon-decreation-fait-dialoguer-trois-actrices-russes-avec-simone-weil-20260719_SECWTCL2QZAIPGKTDMSOJYW3HI/",
+      "summary": "Dans la pièce du metteur en scène Alexandre Plotnikov, un trio de comédiennes pense, avec (et contre) la philosophe, la possibilité de jouer et de vivre quand partout la violence s’impose. Leurs proches, les metteuses en scène Evguénia Berkovitch et Svetlana Petriïtchouk, purgent une peine de six ans de prison dans une colonie pénitentiaire.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-07-19T16:22:00+00:00",
+      "source": "Libération",
+      "category": "Tech",
+      "id": "3e644e4be86c"
+    },
+    {
+      "title": "En Allemagne, le chef des députés conservateurs forcé de démissionner après être devenu père par GPA aux Etats-Unis",
+      "url": "https://www.lemonde.fr/international/article/2026/07/19/en-allemagne-le-chef-des-conservateurs-force-de-demissionner-apres-etre-devenu-pere-par-gpa-aux-etats-unis_6726165_3210.html",
+      "summary": "Jens Spahn, président du groupe CDU/CSU au Bundestag, a déclaré avoir sous-estimé les effets de sa décision, alors que la gestation pour autrui reste interdite outre-Rhin et que son parti y est fermement opposé.",
+      "image": "https://img.lemde.fr/2026/07/09/642/0/5203/2601/644/322/60/0/0e59aa4_ftp-1-nqvxsfbxxlbh-2026-07-09t083300z-435185387-rc28amaj66xe-rtrmadp-3-germany-politics.JPG",
+      "published_at": "2026-07-19T18:16:15+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "958cf735469d"
+    },
+    {
+      "title": "Tadej Pogacar et Jonas Vingegaard ont subi des contrôles antidopage dans la nuit avant le départ de la 15e étape du Tour de France",
+      "url": "https://www.franceinfo.fr/tour-de-france/jonas-vingegaard-et-tadej-pogacar-ont-subi-des-controles-antidopage-dans-la-nuit-avant-le-depart-de-la-15e-etape-du-tour-de-france_8113982.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les deux premiers du classement général ont été réveillés en pleine nuit, dimanche, avant une grosse journée qui doit mener le peloton en haut du Plateau de Solaison.",
+      "image": "https://www.franceinfo.fr/pictures/DNlHrN0ULx-ZlPrPD0fvBooRmEg/0x0:6612x3719/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5cba1875d61270967703.jpg",
+      "published_at": "2026-07-19T18:15:04+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a16b25fafcdf"
+    },
+    {
+      "title": "Défaite de la France en «petite finale» du Mondial, escalade entre Etats-Unis et Iran, logements vacants à Paris… L’actu de ce week-end des 18 et 19 juillet",
+      "url": "https://www.liberation.fr/international/europe/defaite-de-la-france-en-petite-finale-du-mondial-escalade-entre-etats-unis-et-iran-logements-vacants-a-paris-lactu-de-ce-week-end-des-18-et-19-juillet-20260719_7J3UIQ6LRBD5BGIKRJBGITNZMQ/",
+      "summary": "La rédaction de «Libération» récapitule les principales actualités des samedi 18 et dimanche 19 juillet.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-19T16:06:45+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "eb8858fea980"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : après des entretiens avec des commandants militaires, Volodymyr Zelensky annonce des « conversations cruciales » pour lundi",
+      "url": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-en-ukraine-apres-des-entretiens-avec-des-commandants-militaires-volodymyr-zelensky-annonce-des-conversations-cruciales-pour-lundi_6725306_3210.html",
+      "summary": "Ces réunions, qui en sont à leur troisième jour, se déroulent dans un contexte de manifestations dans les grandes villes, exigeant la destitution du commandant en chef, Oleksandr Syrsky, et la réintégration de l’ancien ministre de la défense, Mykhaïlo Fedorov.",
+      "image": "https://img.lemde.fr/2026/07/18/375/0/4500/2250/644/322/60/0/46e082c_ftp-1-3neflwbfx1ve-2026-07-18t201406z-553344563-rc2kgmaqyqa8-rtrmadp-3-ukraine-crisis-government-protest.JPG",
+      "published_at": "2026-07-19T18:05:18+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "afd22f2fe462"
+    },
     {
       "title": "Un concert de la DJ Barbara Butch interrompu par des militants propalestiniens à Grenoble",
       "url": "https://www.lemonde.fr/politique/article/2026/07/19/un-concert-de-la-dj-barbara-butch-interrompu-par-des-militants-propalestiniens-a-grenoble_6726132_823448.html",
@@ -13,7 +203,17 @@
       "id": "eddcca8bc054"
     },
     {
-      "title": "Tour de France 2026 : Remco Evenepoel remporte la 15e étape du Tour de France, suivi par un Tadej Pogacar, Jonas Vingeggaard contraint à l'abandon après une chute",
+      "title": "Salvador de Bahia et la samba mémorielle",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/salvador-de-bahia-et-la-samba-memorielle-20260719_5GXAFB4EXJA57GVLSASFSCPA4U/",
+      "summary": "Six grands ports qui ont vu naître des genres et des groupes mythiques (2/6). Aujourd’hui la capitale de la mythique danse brésilienne née de l’esclavage.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-07-19T16:00:00+00:00",
+      "source": "Libération",
+      "category": "Tech",
+      "id": "e7240fec65a9"
+    },
+    {
+      "title": "Tour de France 2026 : revivez la victoire de Remco Evenepoel lors de la 15e étape",
       "url": "https://www.franceinfo.fr/tour-de-france/direct-tour-de-france-2026-qui-va-s-imposer-au-plateau-de-solaison-au-terme-de-l-etape-la-plus-difficile-de-cette-edition_8113469.html#xtor=RSS-3-[lestitres]",
       "summary": "Paul Seixas en termine à une minute du vainqueur du Tour. Il perd son maillot blanc, mais limite la casse au classement général.",
       "image": "https://www.franceinfo.fr/pictures/TeGTj-hxONqCSR4i6LV6adf_s6k/0x0:6180x3476/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5cf3de11e54898940992.jpg",
@@ -35,9 +235,9 @@
     {
       "title": "EN DIRECT, guerre au Moyen-Orient : le secrétaire d’Etat américain, Marco Rubio, félicite le Liban pour sa « démarche vers la paix », après sa rencontre avec le président libanais, Joseph Aoun",
       "url": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-au-moyen-orient-le-secretaire-d-etat-americain-marco-rubio-felicite-le-liban-pour-sa-demarche-vers-la-paix-apres-sa-rencontre-avec-le-president-libanais-joseph-aoun_6725301_3210.html",
-      "summary": "Cette visite à Washington, au cours de laquelle Joseph Aoun doit également discuter avec Donald Trump, est la première pour un président libanais depuis 2009.",
+      "summary": "Cette visite à Washington, DC, au cours de laquelle Joseph Aoun doit également discuter avec Donald Trump, est la première pour un président libanais depuis 2009.",
       "image": "https://img.lemde.fr/2026/07/16/499/0/6000/3000/644/322/60/0/3c481ef_ftp-1-lszw9fcjwaru-5638302-01-06.jpg",
-      "published_at": "2026-07-19T17:52:24+02:00",
+      "published_at": "2026-07-19T17:52:23+02:00",
       "source": "Le Monde Inter",
       "category": "International",
       "id": "2637e8e04b39"
@@ -45,15 +245,15 @@
     {
       "title": "L'incendie qui s'est déclaré à Taradeau \"a sauté\" en direction des Arcs, annonce le préfet du Var",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-incendie-qui-s-est-declare-a-taradeau-a-saute-en-direction-des-arcs-annonce-le-prefet-du-var_8114180.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le feu, parti de Taradeau, où il a ravagé près de 30 hectares, se propage rapidement dans le Var et se dirige désormais vers Les Arcs, où 60 hectares de terrain ont déjà brûlé. L'évacuation de plusieurs hameaux a été demandée.",
+      "summary": "Au total, \"220 sapeurs-pompiers sont à pied d’œuvre avec une centaine d'engins appuyés par deux Canadair, trois hélicoptères bombardiers d'eau et un Dash (un avion de la sécurité civile)\", a annoncé le préfet.",
       "image": "https://www.franceinfo.fr/pictures/rX4sRJ4GPblsuZ7_SgQp62eaKnQ/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5cef766498c281081615.jpg",
       "published_at": "2026-07-19T17:38:40+02:00",
       "source": "France Info",
-      "category": "Politique",
+      "category": "Sport",
       "id": "aad960357f07"
     },
     {
-      "title": "Guerre en Iran : avec Washington, missiles et invectives sans perspective",
+      "title": "Guerre en Iran : missiles et invectives sans perspective avec Washington",
       "url": "https://www.liberation.fr/international/moyen-orient/guerre-en-iran-lescalade-sans-perspective-de-solution-20260719_7GZIMIL2OJCVZHUU5RF4B6S2UI/",
       "summary": "L’armée américaine poursuit ses bombardements mais échoue à débloquer le détroit d’Ormuz. Au moment où Téhéran continue à frapper les pays du Golfe et la Jordanie, aucune reprise des négociations n’a été annoncée.",
       "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
@@ -71,16 +271,6 @@
       "source": "Numerama",
       "category": "Politique",
       "id": "be877f38d129"
-    },
-    {
-      "title": "La chute de Jonas Vingegaard qui l'oblige à abandonner le Tour de France 2026",
-      "url": "https://www.franceinfo.fr/tour-de-france/jonas-vingegaard-abandonne-le-tour-de-france-2026-apres-une-lourde-chute-sur-la-15e-etape_8114147.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le double vainqueur de l'épreuve a jeté l'éponge, dimanche, à 20 kilomètres de l'arrivée.",
-      "image": "https://www.franceinfo.fr/pictures/c85d0fd72UIcdXRPEwGP6GjDLbM/0x170:3264x2006/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5ce66d67585615897179.jpg",
-      "published_at": "2026-07-19T17:14:28+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "71498e07b784"
     },
     {
       "title": "Le concert de la DJ Barbara Butch à Grenoble interrompu samedi par une centaine de militants pro-palestiniens",
@@ -111,196 +301,6 @@
       "source": "Libération",
       "category": "Société",
       "id": "4a3beef48899"
-    },
-    {
-      "title": "Jonas Vingegaard abandonne le Tour de France après une chute",
-      "url": "https://www.liberation.fr/sports/cyclisme/jonas-vingegaard-abandonne-le-tour-de-france-apres-une-chute-20260719_G4ZRHJHWRVFN7JBA63AFGYMQBA/",
-      "summary": "Le double vainqueur de la Grande Boucle est allé au sol, ce dimanche 19 juillet, après un virage mal négocié lors de la 15e étape du Tour. Blessé au bras, il a été contraint de monter dans une ambulance.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-19T15:05:41+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "ac2269e72a31"
-    },
-    {
-      "title": "En Russie, le discours antiguerre ne passe toujours pas à deux mois des élections législatives",
-      "url": "https://www.lemonde.fr/international/article/2026/07/19/en-russie-le-discours-antiguerre-ne-passe-toujours-pas_6725998_3210.html",
-      "summary": "Le Kremlin s’acharne à museler les rares candidats à la députation opposés à la guerre en Ukraine, alors que la population et quelques industriels se prennent à imaginer la paix.",
-      "image": "https://img.lemde.fr/2026/07/17/602/0/5450/2725/644/322/60/0/c02050c_ftp-1-hxoaigkwdeyb-5643135-01-06.jpg",
-      "published_at": "2026-07-19T17:00:05+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "1076a1205e32"
-    },
-    {
-      "title": "«Muette» de Boris Charmatz au Festival d’Avignon : une mise à nu où tout est tu",
-      "url": "https://www.liberation.fr/culture/scenes/muette-de-boris-charmatz-au-festival-davignon-une-mise-a-nu-ou-tout-est-tu-20260719_SW6HOK2ZBNCIRIPVMI4KEXKQTI/",
-      "summary": "A la Chartreuse de Villeneuve-lez-Avignon, le chorégraphe livre un deuxième seul en scène mutique et suffocant dans lequel le corps tente de transmettre les émotions les plus douloureuses, quitte à ce qu’on les devine un peu trop vite.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-07-19T14:47:13+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "220cbf3ac2d3"
-    },
-    {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : des missiles iraniens abattus par la Jordanie, une usine de dessalement à nouveau ciblée au Koweït",
-      "url": "https://www.liberation.fr/international/moyen-orient/les-etats-unis-et-liran-poursuivent-leurs-bombardements-frappe-mortelle-a-gaza-lactu-du-conflit-au-moyen-orient-ce-19-juillet-20260719_SO76HYYMMNB25H2B5AGC2HBZGA/",
-      "summary": "L’armée américaine a mené des frappes sur des infrastructures iraniennes pour la huitième nuit consécutive. En représailles, Téhéran a une nouvelle fois lancé des drones et des missiles sur ses voisins du Golfe.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-19T14:46:11+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "0a52501be16b"
-    },
-    {
-      "title": "Petite finale France-Angleterre : les bosses des Bleus au révélateur d’un match irrationnel",
-      "url": "https://www.liberation.fr/sports/football/petite-finale-france-angleterre-les-bosses-des-bleus-au-revelateur-dun-match-irrationnel-20260719_HR4IAV6SWVE33MKM23IBM5DGVU/",
-      "summary": "La rencontre pour la troisième place du Mondial 2026, perdue samedi après une première mi-temps totalement apathique, apparaît comme riche d’enseignements pour éclairer toute la compétition des tricolores, qui n’auront jamais réussi à faire équipe.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-19T14:36:45+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "547f0d3b29e8"
-    },
-    {
-      "title": "Des fans trouvent encore des secrets dans Kingdom Hearts 25 ans après sa sortie",
-      "url": "https://www.numerama.com/pop-culture/2296115-dans-fans-trouvent-encore-des-secrets-dans-kingdom-hearts-25-ans-apres-sa-sortie.html",
-      "summary": "Cela fait presque 25 ans que le premier Kingdom Hearts est sorti sur PlayStation 2. Un quart de siècle au compteur, et pourtant, les fans du titre de Square Enix continuent de trouver des secrets dans le jeu, comme ce contenu inédit qui avait été retiré avant la sortie et qui vient d'être retrouvé.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-19T14:35:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "199e40abcce0"
-    },
-    {
-      "title": "Au moins 19 morts dans le nord de l'Inde après des inondations et glissements de terrain",
-      "url": "https://www.franceinfo.fr/monde/inde/au-moins-19-morts-dans-le-nord-de-l-inde-apres-des-inondations-et-glissements-de-terrain_8114015.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les intempéries ont provoqué la mort d'au moins 11 personnes dans la région du Rajouri et de 8 autres personnes dans l'Etat du Nagaland, selon les autorités et les médias locaux. Le pèlerinage hindou d'Armanath, qui réunit chaque année plus de 400 000 personnes, a été suspendu en attendant l'amélioration des conditions météo.",
-      "image": "https://www.franceinfo.fr/pictures/fZCpTg9245x4Y1eaLhre-FFYO1E/0x25:1024x601/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5cdb3d84d0f099115732.jpg",
-      "published_at": "2026-07-19T16:14:50+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "d10d6ba56892"
-    },
-    {
-      "title": "Le responsable d'un centre équestre du Nord mis en examen pour viols sur six personnes",
-      "url": "https://www.franceinfo.fr/faits-divers/le-responsable-d-un-centre-equestre-du-nord-mis-en-examen-pour-viols-sur-six-personnes_8114093.html#xtor=RSS-3-[lestitres]",
-      "summary": "Dans un communiqué, le maire de Templeuve-en-Pévèle, Jean Moulliere, apporte \"son soutien aux victimes qui ont eu le courage de porter plainte\".",
-      "image": "https://www.franceinfo.fr/pictures/yB97LzWTy_Z3cj2NlJtwPkswPKY/432x243/filters:format(jpg):quality(50)/2026/07/18/6a5b8be97b5f8749222190.png",
-      "published_at": "2026-07-19T16:06:59+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "e35f7e7dabf5"
-    },
-    {
-      "title": "Mali : dans Kidal, avec la rébellion du Front de libération de l’Azawad",
-      "url": "https://www.lemonde.fr/international/article/2026/07/19/mali-dans-kidal-avec-la-rebellion-du-front-de-liberation-de-l-azawad_6725961_3210.html",
-      "summary": "Le photographe algérien Samir Maouche s’est rendu dans la région de Kidal, contrôlée par les indépendantistes du Front de libération de l’Azawad (FLA) dans les semaines qui ont suivi leur offensive du 25 avril dans le nord et le centre du Mali.",
-      "image": "https://img.lemde.fr/2026/07/06/456/0/5473/2736/644/322/60/0/fe5302f_upload-1-8rgnpom9hwj3-smaouche-27.jpg",
-      "published_at": "2026-07-19T15:47:27+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "938cd271b48f"
-    },
-    {
-      "title": "En images : les dégâts à Kiev après une frappe massive de missiles balistiques russes",
-      "url": "https://www.lemonde.fr/videos/video/2026/07/19/en-images-les-degats-a-kiev-apres-une-frappe-massive-de-missiles-balistiques-russes_6725960_1669088.html",
-      "summary": "La Russie a lancé 40 missiles et 120 drones sur Kiev au cours de la nuit du 18 au 19 juillet.",
-      "image": "https://img.lemde.fr/2026/07/11/443/0/2953/1476/644/322/60/0/3ba076b_upload-1-ew9azh5ys57k-2026-07-10-heg-ukraine-0034.JPG",
-      "published_at": "2026-07-19T15:46:56+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "c3853abc20e4"
-    },
-    {
-      "title": "Pierre Debuisson, avocat de Cédric Jubillar : ses aveux",
-      "url": "https://www.liberation.fr/portraits/pierre-debuisson-avocat-de-cedric-jubillar-ses-aveux-20260719_PDHA3BFUPZD5VO3NXFPVG37UVQ/",
-      "summary": "Le conseil toulousain qui a amené Cédric Jubillar à reconnaître sa responsabilité dans la mort de sa femme s’offusque des polémiques déclenchées.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-19T13:45:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "e48d1fec929e"
-    },
-    {
-      "title": "Somalie, Syrie, Afghanistan… Le Mali n’est le décalque d’aucun scénario jihadiste",
-      "url": "https://www.liberation.fr/international/afrique/somalie-syrie-afghanistan-le-mali-nest-le-decalque-daucun-scenario-jihadiste-20260719_A6V3N7RKAZH6HD72QKIG5NN35E/",
-      "summary": "A chaque progression des groupes armés sur le territoire malien, les comparaisons se multiplient avec des régimes insurrectionnels implantés ailleurs dans le monde. Les spécialistes estiment toutefois que les différences de contexte sont trop importantes pour valider ces analogies.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-19T13:40:20+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "70566da59f4b"
-    },
-    {
-      "title": "En Haute-Savoie, une tomate tatin caramel et sa crème glacée au thym serpolet",
-      "url": "https://www.liberation.fr/lifestyle/gastronomie/en-haute-savoie-une-tomate-tatin-caramel-et-sa-creme-glacee-au-thym-serpolet-20260719_LLKE2XOBGRGC5MHUQGBKXFPVEE/",
-      "summary": "Chaque jour, «Libé» vous propose une recette de la région ou de la ville d’arrivée du Tour de France, trouvée par nos soins. Aujourd’hui, un plat timbré du Café de la Poste à Nâves-Parmelan.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-19T13:35:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "ebe90b8d2f26"
-    },
-    {
-      "title": "Tour de France : Tadej Pogacar et Jonas Vingegaard réveillés pour un contrôle antidopage en pleine nuit",
-      "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-tadej-pogacar-et-jonas-vingegaard-reveilles-pour-un-controle-antidopage-en-pleine-nuit-20260719_PQZOCZCVQNGZ5BXQOOT4I4WONY/",
-      "summary": "Le maillot jaune et son dauphin ont été réveillés, dimanche 19 juillet aux aurores, alors qu’ils récupéraient avant de prendre le départ de la 15e étape. Les deux coureurs s’en sont plaints ouvertement, comme certains de leurs coéquipiers.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-19T13:34:58+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "707b4452634e"
-    },
-    {
-      "title": "Monsieur Macron, pourquoi dérouler le tapis rouge au président gabonais en plein tournant autoritaire ?",
-      "url": "https://www.liberation.fr/idees-et-debats/monsieur-macron-pourquoi-derouler-le-tapis-rouge-au-president-gabonais-en-plein-tournant-autoritaire-20260719_KXSHKMJPW5H53DIKMJMGKNGPQ4/",
-      "summary": "Suspension des réseaux sociaux, interdiction de manifestations et arrestation de son principal opposant… Brice Oligui Nguema sera reçu avec les honneurs par le président français ce lundi 20 juillet. En contradiction avec les valeurs proclamées par la France, relèvent un collectif de députés écologistes.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-19T13:33:40+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "892644a25c74"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
-      "url": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-en-ukraine-les-dernieres-informations_6725306_3210.html",
-      "summary": "La Russie a mené au cours de la nuit l’une de ses plus massives attaques de missiles balistiques contre Kiev, selon Volodymyr Zelensky. Le président ukrainien a fait état d’un mort et de 16 blessés dans la capitale ukrainienne et sa région.",
-      "image": "https://img.lemde.fr/2026/07/19/545/0/5564/2782/644/322/60/0/c84321b_ftp-1-vd4j6yagrhle-2026-07-19t125955z-407355684-rc2ygmaaae0l-rtrmadp-3-ukraine-crisis-attack-kharkiv-region.JPG",
-      "published_at": "2026-07-19T15:27:48+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "a4b7c9a8ed04"
-    },
-    {
-      "title": "En Cisjordanie, une mosquée et plusieurs bâtiments incendiés lors d’une attaque de colons",
-      "url": "https://www.lemonde.fr/international/article/2026/07/19/en-cisjordanie-une-mosquee-et-plusieurs-batiments-incendies-lors-d-une-attaque-de-colons_6725959_3210.html",
-      "summary": "L’attaque nocturne contre la mosquée Al-Taqwa s’inscrit dans une série d’agressions quasi quotidiennes visant des villages palestiniens depuis le début du conflit à Gaza.",
-      "image": "https://img.lemde.fr/2026/07/19/322/0/3862/1931/644/322/60/0/d13d087_ftp-1-0m8htqildx8s-5656325-01-06.jpg",
-      "published_at": "2026-07-19T15:27:41+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "d5b8181e3605"
-    },
-    {
-      "title": "La station polaire Tara quitte la France pour sa première expédition scientifique en Arctique",
-      "url": "https://www.liberation.fr/environnement/la-station-polaire-tara-quitte-la-france-pour-aller-etudier-le-climat-et-la-biodiversite-de-larctique-20260719_UHWEGFMAV5HCFHN3W2W5GYV3FA/",
-      "summary": "L’étonnant laboratoire flottant lève l’ancre de Lorient ce dimanche. Il doit dériver sur la banquise jusqu’à fin 2027 pour recueillir des données sur le climat et la biodiversité de cette région méconnue et vulnérable au réchauffement climatique.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-19T13:23:23+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "32da0c4dcc40"
-    },
-    {
-      "title": "En Indonésie, deux survivants d'un naufrage retrouvés sur une île déserte après un périple sur un radeau de fortune",
-      "url": "https://www.franceinfo.fr/monde/asie/en-indonesie-deux-survivants-d-un-naufrage-retrouves-sur-une-ile-deserte-apres-un-periple-sur-un-radeau-de-fortune_8114024.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le bateau sur lequel ils voyageaient, qui transportait près de 80 personnes, a coulé mercredi au large de l'île indonésienne de Sulawesi. Une cinquantaine de personnes ont été secourues jeudi et cinq autres samedi. Dix-huit naufragés sont toujours portés disparus.",
-      "image": "https://www.franceinfo.fr/pictures/lVfhLR1dIhScMmUEfqg7BKybhSA/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5ccd43331a8447043233.jpg",
-      "published_at": "2026-07-19T15:13:29+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "81eea322152f"
     }
   ]
 }
