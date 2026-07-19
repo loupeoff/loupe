@@ -1,29 +1,119 @@
 {
-  "generated_at": "2026-07-19T18:01:58.349684+00:00",
+  "generated_at": "2026-07-19T19:19:04.150822+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Pérou : cinq morts et 21 blessés dans un séisme de magnitude 5,1",
-      "url": "https://www.lemonde.fr/international/article/2026/07/19/perou-cinq-morts-et-21-blesses-dans-un-seisme-de-magnitude-5-1_6726299_3210.html",
-      "summary": "Chaque année, au moins 400 séismes se produisent au Pérou, dont une centaine sont perceptibles par la population.",
-      "image": "https://img.lemde.fr/2026/07/19/458/0/5500/2750/644/322/60/0/fb212e1_ftp-1-mpkghux0enge-2026-07-19t170235z-1581248661-rc2cwlazcfwf-rtrmadp-3-peru-quake.JPG",
-      "published_at": "2026-07-19T19:57:50+02:00",
-      "source": "Le Monde Inter",
+      "title": "Finale de la Coupe du monde : l’Espagne et l’Argentine face à face pour décrocher une étoile",
+      "url": "https://www.liberation.fr/sports/football/finale-de-la-coupe-du-monde-lespagne-et-largentine-face-a-face-pour-decrocher-letoile-20260719_D4ADAC66JBEVTJVYYQMRWPS5ZU/",
+      "summary": "La Roja et l’Albiceleste s’affrontent ce dimanche 19 juillet à East Rutherford, en banlieue de New York, pour décrocher le titre mondial. Donald Trump est dans le stade et remettra le trophée aux vainqueurs.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-07-19T19:07:34+00:00",
+      "source": "Libération",
       "category": "International",
+      "id": "c849fc6dfc22"
+    },
+    {
+      "title": "Un violent incendie en cours dans le Var perturbe le trafic SNCF, deux feux progressent en Corse",
+      "url": "https://www.liberation.fr/societe/un-violent-incendie-menace-un-village-du-var-deux-feux-progressent-dans-des-zones-montagneuses-de-corse-20260719_V3DAYTREJZG7TPX2NNWIXT33Z4/",
+      "summary": "En dépit des nombreux pompiers mobilisés ce dimanche, les flammes ont déjà brûlé plusieurs centaines d’hectares. Des habitations ont aussi dû être évacuées.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-19T19:01:23+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "d79172b8e803"
+    },
+    {
+      "title": "Coupe du monde : l'Argentine de Messi ou l'Espagne de Yamal ? Suivez avec nous la finale sans oublier le show façon \"Super Bowl\" de la mi-temps",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-l-espagne-de-yamal-et-l-argentine-de-messi-ont-rendez-vous-avec-l-histoire-en-finale-scenario-incroyable-pour-france-angleterre_8113370.html#xtor=RSS-3-[lestitres]",
+      "summary": "C'est le grand jour pour la Roja et l'Albiceleste, opposées en finale de Coupe du monde à New York, à 21 heures.",
+      "image": "https://www.franceinfo.fr/pictures/cUpF1kTFoNQSq5pch5By35mVs7U/0x0:2782x1564/432x243/filters:format(jpg):quality(50)/2026/07/18/6a5bda52a7f34523159582.jpg",
+      "published_at": "2026-07-19T20:57:20+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "146758adcfbb"
+    },
+    {
+      "title": "Cinq marins meurent après des frappes russes sur un navire marchand appartenant à la Turquie",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/cinq-marins-meurent-apres-des-frappes-russes-sur-un-navire-marchand-appartenant-a-la-turquie_8114357.html#xtor=RSS-3-[lestitres]",
+      "summary": "Un vraquier turc qui transportait des céréales a été touché dimanche par trois missiles russes \"alors qu'il quittait la zone de combat\", a annoncé la marine ukrainienne.",
+      "image": "https://www.franceinfo.fr/pictures/E0glkSvkJXTxPocBg4Tb4ddt2Xc/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5d199971ce8842060745.jpg",
+      "published_at": "2026-07-19T20:47:55+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "a73661765bfe"
+    },
+    {
+      "title": "«Paulo, c’est notre nouvelle pépite française» : sur les routes du Tour de France, la «Seixasmania» bat son plein",
+      "url": "https://www.liberation.fr/sports/cyclisme/paulo-cest-notre-nouvelle-pepite-francaise-sur-les-routes-du-tour-de-france-la-seixasmania-bat-son-plein-20260719_XS7AFFXMORAEXPGQKAU5PX43NY/",
+      "summary": "A l’occasion de la 15e étape de la Grande Boucle ce dimanche 19 juillet, qui s’attaque aux montagnes des Alpes, le nom du coureur français s’affichait dans chaque ville traversée, et dans chaque virage en épingle. Tous les spectateurs s’accordent : il est «l’étoile montante».",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-19T18:31:57+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "c873d0d74730"
+    },
+    {
+      "title": "Journalisme sportif et sexisme : un Mondial en zone pas si mixte",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/journalisme-sportif-et-sexisme-un-mondial-en-zone-pas-si-mixte-20260719_XTX4LDUJ4NHV7CVLQK6ZWMRW54/",
+      "summary": "Notre reporter faisait partie des deux seules femmes journalistes de presse écrite française accréditées. Symptôme d’un football qui peine à dissimuler sa misogynie.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-19T18:18:54+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "0141ed96dfff"
+    },
+    {
+      "title": "Tour de France 2026 : Evenepoel vainqueur, Vingegaard contraint à l’abandon, un memento mori vécu à moto",
+      "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-2026-evenepoel-vainqueur-vingegaard-contraint-a-labandon-un-memento-mori-vecu-a-moto-20260719_GIUCVFCFFNAF5OEV6FPANFQ6PE/",
+      "summary": "On a suivi la quinzième étape, ce dimanche, depuis une moto fournie par l’organisation. Un point de vue unique sur les différents échelons d’une course marquée par la sortie du dauphin de Pogacar sur chute.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-19T18:09:21+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "ab0ff6a68cc7"
+    },
+    {
+      "title": "L’imprécision mène à « l’open-washing » : qu’est-ce qui distingue les IA open source des open weight ?",
+      "url": "https://www.numerama.com/tech/2297077-limprecision-mene-a-lopen-washing-quest-ce-qui-distingue-les-ia-open-source-des-open-weight.html",
+      "summary": "Deux termes, une confusion permanente et une industrie qui en joue : open source et open weight n'ont rien à voir, et la distinction pèse aujourd'hui sur des enjeux de souveraineté et de sécurité.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-07-19T18:05:00+00:00",
+      "source": "Numerama",
+      "category": "Économie",
+      "id": "73e27fe69830"
+    },
+    {
+      "title": "Au Pérou, six morts et 32 blessés dans un séisme de magnitude 5,1",
+      "url": "https://www.lemonde.fr/international/article/2026/07/19/perou-cinq-morts-et-21-blesses-dans-un-seisme-de-magnitude-5-1_6726299_3210.html",
+      "summary": "La faible profondeur du séisme, ajoutée à la présence de logements construits avec des matériaux traditionnels comme les briques d’argile crue et le bois, a contribué à provoquer de graves dégâts dans plusieurs localités, selon l’Institut national de protection civile.",
+      "image": "https://img.lemde.fr/2026/07/19/458/0/5500/2750/644/322/60/0/fb212e1_ftp-1-mpkghux0enge-2026-07-19t170235z-1581248661-rc2cwlazcfwf-rtrmadp-3-peru-quake.JPG",
+      "published_at": "2026-07-19T19:57:48+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
       "id": "6a87366f6bb5"
+    },
+    {
+      "title": "\"Ce n'est pas possible de soutenir l'Argentine\" : des supporters des Bleus racontent pourquoi ils préfèrent une victoire de l'Espagne en finale de Coupe du monde",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/ce-n-est-pas-possible-de-soutenir-l-argentine-des-supporters-des-bleus-racontent-pourquoi-ils-preferent-une-victoire-de-l-espagne-en-finale-de-coupe-du-monde_8110454.html#xtor=RSS-3-[lestitres]",
+      "summary": "Avant l'épilogue du Mondial 2026, les internautes contactés par franceinfo soutiennent largement les voisins espagnols. Des encouragement motivés par une défiance vis-à-vis de l'Albiceleste, plus que par admiration de la Roja.",
+      "image": "https://www.franceinfo.fr/pictures/Xv7ZLTIqjYXQSyyJZ7W-TpwGSQA/0x313:6018x3699/432x243/filters:format(jpg):quality(50)/2026/07/16/6a590b88e026f223136032.jpg",
+      "published_at": "2026-07-19T19:45:48+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "36e11112c05d"
     },
     {
       "title": "Naufrage d’un ferry avec 133 personnes à bord au large du Guyana : au moins 67 rescapés mais 66 disparus",
       "url": "https://www.lemonde.fr/international/article/2026/07/19/naufrage-d-un-ferry-avec-133-personnes-a-bord-au-large-du-guyana-au-moins-67-rescapes-mais-66-disparus_6726266_3210.html",
       "summary": "Le naufrage est un énorme drame pour ce petit pays anglophone d’Amérique du Sud qui compte 1 million d’habitants.",
-      "image": "https://asset.lemde.fr/medias/img/social-network/default.png",
-      "published_at": "2026-07-19T19:39:23+02:00",
+      "image": "https://img.lemde.fr/2026/07/19/128/0/904/452/644/322/60/0/158c319_upload-1-dhcsuojmbb2l-capture-d-ecran-2026-07-19-204906.png",
+      "published_at": "2026-07-19T19:39:21+02:00",
       "source": "Le Monde Inter",
       "category": "Sport",
       "id": "4217566339be"
     },
     {
-      "title": "La chute de Jonas Vingegaard qui l'oblige à abandonner le Tour de France 2026",
+      "title": "Victime d'une fracture de la clavicule, Jonas Vingegaard abandonne le Tour de France 2026 après une lourde chute sur la 15e étape",
       "url": "https://www.franceinfo.fr/tour-de-france/jonas-vingegaard-abandonne-le-tour-de-france-2026-apres-une-lourde-chute-sur-la-15e-etape_8114147.html#xtor=RSS-3-[lestitres]",
       "summary": "Le double vainqueur de l'épreuve a jeté l'éponge, dimanche, à 20 kilomètres de l'arrivée.",
       "image": "https://www.franceinfo.fr/pictures/c85d0fd72UIcdXRPEwGP6GjDLbM/0x170:3264x2006/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5ce66d67585615897179.jpg",
@@ -33,7 +123,7 @@
       "id": "71498e07b784"
     },
     {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : des missiles iraniens abattus par la Jordanie, une usine de production d’eau frappée au Koweït",
+      "title": "Guerre au Moyen-Orient : l’escalade entre les Etats-Unis et l’Iran se poursuit, après la mort de deux soldats américains",
       "url": "https://www.liberation.fr/international/moyen-orient/les-etats-unis-et-liran-poursuivent-leurs-bombardements-frappe-mortelle-a-gaza-lactu-du-conflit-au-moyen-orient-ce-19-juillet-20260719_SO76HYYMMNB25H2B5AGC2HBZGA/",
       "summary": "L’armée américaine a mené des frappes sur des infrastructures iraniennes pour la huitième nuit consécutive. En représailles, Téhéran a une nouvelle fois lancé des drones et des missiles sur ses voisins du Golfe.",
       "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
@@ -103,9 +193,9 @@
       "id": "ac2269e72a31"
     },
     {
-      "title": "En Italie, le corps calciné d'un journaliste retrouvé près de Naples, la piste d'un homicide privilégiée",
+      "title": "En Italie, le corps calciné d'un journaliste retrouvé près de Naples",
       "url": "https://www.franceinfo.fr/monde/italie/en-italie-le-corps-calcine-d-un-journaliste-retrouve-pres-de-naples-la-piste-d-un-homicide-privilegiee_8114168.html#xtor=RSS-3-[lestitres]",
-      "summary": "La dépouille, identifiée comme celle de Luigi Esposito, a été retrouvée par les pompiers appelés pour un incendie à Eboli, au sud de Naples. Selon les premiers éléments communiqués par le parquet, il aurait été \"tué par balle\", puis \"brûlé au milieu de la végétation\".",
+      "summary": "\"Les premiers éléments d'enquête indiquent que les faits sont probablement liés à un homicide\", a déclaré le procureur de Salerne, Raffaele Cantone.",
       "image": "https://www.franceinfo.fr/pictures/kS1AEIcOGmwCzQGiGXf2I19Icrg/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5cfd2bc5997601769321.jpg",
       "published_at": "2026-07-19T18:37:52+02:00",
       "source": "France Info",
@@ -173,6 +263,16 @@
       "id": "a16b25fafcdf"
     },
     {
+      "title": "Remco Evenepoel s'impose au plateau de Solaison, au terme d'une 15e étape du Tour de France marquée par l'abandon de Jonas Vingegaard",
+      "url": "https://www.franceinfo.fr/tour-de-france/remco-evenepoel-s-impose-au-plateau-de-solaison-au-terme-d-une-15e-etape-du-tour-de-france-marquee-par-l-abandon-de-jonas-vingegaard_8114189.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Belge a remporté sa première étape sur cette édition, dimanche, en devançant dans un sprint au sommet Tadej Pogacar et Isaac del Toro.",
+      "image": "https://www.franceinfo.fr/pictures/W-p3ZCLH3gcpr1lyD8TdupEJRiw/0x0:5245x2950/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5cf11d2dafc081824325.jpg",
+      "published_at": "2026-07-19T18:10:35+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "b836cae843cf"
+    },
+    {
       "title": "Défaite de la France en «petite finale» du Mondial, escalade entre Etats-Unis et Iran, logements vacants à Paris… L’actu de ce week-end des 18 et 19 juillet",
       "url": "https://www.liberation.fr/international/europe/defaite-de-la-france-en-petite-finale-du-mondial-escalade-entre-etats-unis-et-iran-logements-vacants-a-paris-lactu-de-ce-week-end-des-18-et-19-juillet-20260719_7J3UIQ6LRBD5BGIKRJBGITNZMQ/",
       "summary": "La rédaction de «Libération» récapitule les principales actualités des samedi 18 et dimanche 19 juillet.",
@@ -201,106 +301,6 @@
       "source": "Le Monde Inter",
       "category": "Société",
       "id": "eddcca8bc054"
-    },
-    {
-      "title": "Salvador de Bahia et la samba mémorielle",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/salvador-de-bahia-et-la-samba-memorielle-20260719_5GXAFB4EXJA57GVLSASFSCPA4U/",
-      "summary": "Six grands ports qui ont vu naître des genres et des groupes mythiques (2/6). Aujourd’hui la capitale de la mythique danse brésilienne née de l’esclavage.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-07-19T16:00:00+00:00",
-      "source": "Libération",
-      "category": "Tech",
-      "id": "e7240fec65a9"
-    },
-    {
-      "title": "Tour de France 2026 : revivez la victoire de Remco Evenepoel lors de la 15e étape",
-      "url": "https://www.franceinfo.fr/tour-de-france/direct-tour-de-france-2026-qui-va-s-imposer-au-plateau-de-solaison-au-terme-de-l-etape-la-plus-difficile-de-cette-edition_8113469.html#xtor=RSS-3-[lestitres]",
-      "summary": "Paul Seixas en termine à une minute du vainqueur du Tour. Il perd son maillot blanc, mais limite la casse au classement général.",
-      "image": "https://www.franceinfo.fr/pictures/TeGTj-hxONqCSR4i6LV6adf_s6k/0x0:6180x3476/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5cf3de11e54898940992.jpg",
-      "published_at": "2026-07-19T17:57:58+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "8db9f27a44b2"
-    },
-    {
-      "title": "La mairie RN d’Orange annule un concert d’hommage à Queen prévu par un groupe de choristes amateurs",
-      "url": "https://www.liberation.fr/culture/la-mairie-rn-dorange-annule-un-concert-dhommage-a-queen-prevu-par-un-groupe-de-choristes-amateurs-20260719_QFXUMTVLZJFLTPBK33Z5UDBNBM/",
-      "summary": "Le nouveau maire Rassemblement national de la ville du Vaucluse, Jean-Dominique Artaud, met en avant une excuse financière. Ce que dément le producteur du spectacle, qui se dit prêt à «le jouer gratuitement».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-19T15:54:32+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "9443458f5ce7"
-    },
-    {
-      "title": "EN DIRECT, guerre au Moyen-Orient : le secrétaire d’Etat américain, Marco Rubio, félicite le Liban pour sa « démarche vers la paix », après sa rencontre avec le président libanais, Joseph Aoun",
-      "url": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-au-moyen-orient-le-secretaire-d-etat-americain-marco-rubio-felicite-le-liban-pour-sa-demarche-vers-la-paix-apres-sa-rencontre-avec-le-president-libanais-joseph-aoun_6725301_3210.html",
-      "summary": "Cette visite à Washington, DC, au cours de laquelle Joseph Aoun doit également discuter avec Donald Trump, est la première pour un président libanais depuis 2009.",
-      "image": "https://img.lemde.fr/2026/07/16/499/0/6000/3000/644/322/60/0/3c481ef_ftp-1-lszw9fcjwaru-5638302-01-06.jpg",
-      "published_at": "2026-07-19T17:52:23+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "2637e8e04b39"
-    },
-    {
-      "title": "L'incendie qui s'est déclaré à Taradeau \"a sauté\" en direction des Arcs, annonce le préfet du Var",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-incendie-qui-s-est-declare-a-taradeau-a-saute-en-direction-des-arcs-annonce-le-prefet-du-var_8114180.html#xtor=RSS-3-[lestitres]",
-      "summary": "Au total, \"220 sapeurs-pompiers sont à pied d’œuvre avec une centaine d'engins appuyés par deux Canadair, trois hélicoptères bombardiers d'eau et un Dash (un avion de la sécurité civile)\", a annoncé le préfet.",
-      "image": "https://www.franceinfo.fr/pictures/rX4sRJ4GPblsuZ7_SgQp62eaKnQ/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5cef766498c281081615.jpg",
-      "published_at": "2026-07-19T17:38:40+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "aad960357f07"
-    },
-    {
-      "title": "Guerre en Iran : missiles et invectives sans perspective avec Washington",
-      "url": "https://www.liberation.fr/international/moyen-orient/guerre-en-iran-lescalade-sans-perspective-de-solution-20260719_7GZIMIL2OJCVZHUU5RF4B6S2UI/",
-      "summary": "L’armée américaine poursuit ses bombardements mais échoue à débloquer le détroit d’Ormuz. Au moment où Téhéran continue à frapper les pays du Golfe et la Jordanie, aucune reprise des négociations n’a été annoncée.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-07-19T15:35:10+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "98c3d70df550"
-    },
-    {
-      "title": "La France accuse le FSB Russe, l’arnaque Delta Sky Club et Grok Build dans la tourmente : on vous raconte la semaine Cyberguerre",
-      "url": "https://www.numerama.com/cyberguerre/2297355-la-france-accuse-le-fsb-russe-larnaque-delta-sky-club-et-grok-build-dans-la-tourmente-on-vous-raconte-la-semaine-cyberguerre.html",
-      "summary": "Trois actualités à retenir cette semaine dans le cyberespace : une accusation officielle de la France contre un service russe, une arnaque de masse qui s’appuie sur de vrais IBAN et Grok Build qui aspirait bien plus que prévu dans les dépôts de ses utilisateurs.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-19T15:15:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "be877f38d129"
-    },
-    {
-      "title": "Le concert de la DJ Barbara Butch à Grenoble interrompu samedi par une centaine de militants pro-palestiniens",
-      "url": "https://www.franceinfo.fr/societe/le-concert-de-la-dj-barbara-butch-a-grenoble-interrompu-samedi-par-une-centaine-de-militants-pro-palestiniens_8113775.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les manifestants reprochaient à l'artiste son soutien à la proposition de loi Yadan, présentée puis retirée au printemps.",
-      "image": "https://www.franceinfo.fr/pictures/GMmxR0REDwJFt87jupO93nLVN9I/0x2:1200x677/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5c806687b5e421255215.jpeg",
-      "published_at": "2026-07-19T17:10:01+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "ee973cfd4b29"
-    },
-    {
-      "title": "Polémique après l'annulation d'un concert hommage à Queen par la mairie RN d'Orange",
-      "url": "https://www.franceinfo.fr/culture/musique/polemique-apres-l-annulation-d-un-concert-hommage-a-queen-par-la-mairie-rn-d-orange_8114129.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le nouveau maire d'Orange, Jean-Dominique Artaud, a décidé d'annuler le spectacle \"Queen forever\", programmé pour le 4 septembre au théâtre antique de la ville. Le producteur annonce avoir déposé un recours en justice.",
-      "image": "https://www.franceinfo.fr/pictures/Z2Yk00wCEwSeFVJWDiZN8szKSl0/0x0:5800x3263/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5ce659c56e7524146967.jpg",
-      "published_at": "2026-07-19T17:09:33+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "31692bcdf003"
-    },
-    {
-      "title": "Espagne : un important incendie en cours dans le centre du pays, avant une nouvelle canicule",
-      "url": "https://www.liberation.fr/international/europe/espagne-un-important-incendie-en-cours-dans-le-centre-du-pays-avant-une-nouvelle-canicule-20260719_PFOMNEE3IRHKFPQBLQ5J7RUH3Y/",
-      "summary": "Un feu de forêt a déjà brûlé 13 000 hectares dans la province de Guadalajara, au nord de Madrid. Celui à proximité de Saragosse semble maîtrisé, mais les fortes températures à venir, au-delà de 40 °C, inquiètent les autorités espagnoles.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-19T15:07:16+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "4a3beef48899"
     }
   ]
 }
