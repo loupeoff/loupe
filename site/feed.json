@@ -1,9 +1,219 @@
 {
-  "generated_at": "2026-07-20T18:11:10.275003+00:00",
+  "generated_at": "2026-07-20T20:25:59.067619+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Dans un rapport sur le contrôle de forces de l’ordre, la Cour des comptes pointe le manque de transparence des autorités",
+      "title": "Projet de loi Ripost : députés et sénateurs parviennent à un accord en commission mixte paritaire",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/20/projet-de-loi-ripost-deputes-et-senateurs-parviennent-a-un-accord-en-commission-mixte-paritaire_6727848_3224.html",
+      "summary": "A l’origine de ce texte, le ministre de l’intérieur, Laurent Nuñez, s’est félicité qu’une majorité existe à l’Assemblée pour « sanctionner plus efficacement les atteintes à l’ordre public ».",
+      "image": "https://img.lemde.fr/2026/07/16/666/0/8000/4000/644/322/60/0/8d01c42_upload-1-gk91wbaklji7-jmug260715053.jpg",
+      "published_at": "2026-07-20T22:17:50+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "539c0606aa36"
+    },
+    {
+      "title": "Incendie dans le Var : le feu \"officiellement fixé\" après avoir parcouru quelque 200 hectares",
+      "url": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-plus-de-600-pompiers-mobilises-pour-lutter-contre-les-flammes-dans-la-commune-de-taradeau-dans-le-var_8114624.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le feu, déclenché dimanche à Taradeau, au nord-ouest du golfe de Saint-Tropez, a connu des \"sautes\" importantes pour arriver aux portes de la commune voisine des Arcs-sur-Argens.",
+      "image": "https://www.franceinfo.fr/pictures/_n7AETH_I3VXbMOSe-d3gASLYtc/0x0:1023x575/432x243/filters:format(jpg):quality(50)/2026/07/20/6a5e7e50148b7744283190.jpg",
+      "published_at": "2026-07-20T22:01:14+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "67cc66a68089"
+    },
+    {
+      "title": "EN DIRECT, guerre au Moyen-Orient : l’armée jordanienne dit avoir abattu trois missiles iraniens ; Donald Trump menace une nouvelle fois Téhéran",
+      "url": "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-au-moyen-orient-l-armee-jordanienne-dit-avoir-abattu-trois-missiles-iraniens-apres-de-nouvelles-menaces-americaines_6725301_3210.html",
+      "summary": "La République islamique poursuit ses attaques contre des cibles américaines dans plusieurs pays de la région. Le président américain a, de son côté, affirmé que pour chaque soldat américain tué, l’Iran « en payera plusieurs fois le prix ».",
+      "image": "https://img.lemde.fr/2026/07/12/416/0/5000/2500/644/322/60/0/c89af2d_ftp-1-wex8dgdhr7j1-2026-07-12t083139z-1832828998-rc25cma4i15b-rtrmadp-3-iran-crisis.JPG",
+      "published_at": "2026-07-20T22:00:01+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "ae2c8a6199c4"
+    },
+    {
+      "title": "Face au risque d'incendie, ils dénoncent les jeteurs de mégots sur Internet",
+      "url": "https://www.franceinfo.fr/faits-divers/incendie/face-au-risque-d-incendie-ils-denoncent-les-jeteurs-de-megots-sur-internet_8115539.html#xtor=RSS-3-[lestitres]",
+      "summary": "Selon une récente étude, un fumeur sur cinq jette son mégot par la fenêtre de sa voiture. Ces comportements à risque sont de plus en plus dénoncés sur les réseaux sociaux.",
+      "image": "https://www.franceinfo.fr/pictures/7leUv16ch4TdBKSLdNg_Yo6XLeg/0x14:917x530/432x243/filters:format(jpg):quality(50)/2026/07/20/6a5e7dbc84102152135930.jpg",
+      "published_at": "2026-07-20T21:58:38+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "91c695f21842"
+    },
+    {
+      "title": "Un homme qui usurpait l'image de la gendarmerie nationale pour créer des contenus à caractère sexuel a été interpellé dans la Marne",
+      "url": "https://www.franceinfo.fr/faits-divers/police/un-homme-qui-usurpait-l-image-de-la-gendarmerie-nationale-pour-creer-des-contenus-a-caractere-sexuel-interpelle-dans-la-marne_8115347.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les enquêteurs ont identifié le suspect après avoir découvert plusieurs comptes diffusant des contenus générés par intelligence artificielle.",
+      "image": "https://www.franceinfo.fr/pictures/IhP-u4WKl32ovKmGDdR7JcC2c6M/0x174:1600x1074/432x243/filters:format(jpg):quality(50)/2026/07/09/6a4fc39616771784228151.jpg",
+      "published_at": "2026-07-20T21:55:22+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "d8b17c1410bc"
+    },
+    {
+      "title": "Dans le nord du Chili, touché par une tempête qui a causé cinq morts, le président décrète l’état de catastrophe",
+      "url": "https://www.lemonde.fr/international/article/2026/07/20/dans-le-nord-du-chili-touche-par-une-tempete-qui-a-cause-cinq-morts-le-president-decrete-l-etat-de-catastrophe_6727815_3210.html",
+      "summary": "Dimanche, « la quantité de pluie qui tombe habituellement en un mois est tombée en une heure », a fait savoir le sous-secrétaire d’Etat à l’intérieur, au sujet de cet événement qui a débuté le 15 juillet.",
+      "image": "https://img.lemde.fr/2026/07/20/496/0/6016/3008/644/322/60/0/73df782_ftp-1-8trcbyz866x3-5668631-01-06.jpg",
+      "published_at": "2026-07-20T21:52:14+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "684acad3b5d2"
+    },
+    {
+      "title": "Naufrage d’un ferry au large du Guyana : au moins 10 morts, selon un bilan encore provisoire",
+      "url": "https://www.lemonde.fr/international/article/2026/07/20/naufrage-d-un-ferry-au-large-du-guyana-au-moins-10-morts-selon-un-bilan-encore-provisoire_6727782_3210.html",
+      "summary": "Le navire a chaviré dans la nuit de samedi 18 à dimanche 19 juillet au large de l’Essequibo, région revendiquée par le Venezuela. Le nombre exact de disparus n’est pas confirmé à ce stade, le manifeste du navire s’étant révélé imprécis, selon les autorités.",
+      "image": "https://img.lemde.fr/2026/07/20/200/0/1600/800/644/322/60/0/b573cd1_ftp-1-qt7vqbauqozk-2026-07-20t034720z-3228025-rc2fhmavasb1-rtrmadp-3-guyana-ferry.JPG",
+      "published_at": "2026-07-20T21:37:19+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "e5aa583b114b"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : pour chaque soldat américain tué, l'Iran payera \"plusieurs fois\" le prix, menace Donald Trump",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-gardiens-iraniens-disent-avoir-frappe-des-cibles-militaires-americaines-au-koweit_8114603.html#xtor=RSS-3-[lestitres]",
+      "summary": "Trois militaires américains ont été tués ces derniers jours en Jordanie et en Irak. Il s'agit des premiers décès depuis la reprise des hostilités entre Washington et Téhéran, début juillet.",
+      "image": "https://www.franceinfo.fr/pictures/BfJWRalBfvMFcuSt-FGFby5HMBo/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/20/6a5e776919f95027538460.jpg",
+      "published_at": "2026-07-20T21:30:56+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "bc4f57d47362"
+    },
+    {
+      "title": "Américains et Iraniens continuent leurs frappes, le Liban reprend le contrôle de «zones pilotes», Air France suspend des vols… L’actu du conflit au Moyen-Orient ce 20 juillet",
+      "url": "https://www.liberation.fr/international/moyen-orient/nouvelle-nuit-de-bombardements-americains-riposte-iranienne-au-koweit-et-a-bahrein-le-prix-du-petrole-poursuit-son-envolee-lactu-du-conflit-au-moyen-orient-ce-20-juillet-20260720_BHKOLJN46NC6FBRE66OSGMSS7E/",
+      "summary": "L’essentiel des informations du jour sur la guerre dans la région.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-20T19:12:53+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "9e2d1542ca9d"
+    },
+    {
+      "title": "Députés et sénateurs s’accordent sur le projet de loi Ripost, sur la sécurité du quotidien",
+      "url": "https://www.liberation.fr/societe/police-justice/deputes-et-senateurs-saccordent-sur-le-projet-de-loi-ripost-sur-la-securite-du-quotidien-20260720_ZMO5RP5H7NAPLPG3QS7EWR3WG4/",
+      "summary": "Une commission mixte paritaire a trouvé un compromis ce lundi 20 juillet sur le texte voté au Sénat puis à l’Assemblée nationale par la majorité gouvernementale soutenue par l’extrême droite. Un vote définitif doit avoir lieu mardi.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-20T19:05:38+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "897ec2a607a7"
+    },
+    {
+      "title": "Manifestations massives en Inde : les étudiants demandent la démission du ministre de l’Education",
+      "url": "https://www.liberation.fr/international/asie-pacifique/manifestations-massives-en-inde-les-etudiants-demandent-la-demission-du-ministre-de-leducation-20260720_36IWHNB53REKHEI4NNCZWIVNHA/",
+      "summary": "Des milliers de jeunes Indiens ont bravé l’interdiction de manifester ce lundi 20 juillet. Ils protestent contre les défaillances du système éducatif du pays suite à des fraudes lors du concours d’entrée en faculté de médecine, les obligeant à le repasser.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-20T19:01:36+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "9f0abaf89bed"
+    },
+    {
+      "title": "Le naufrage d'un bateau au Guyana a fait au moins 10 morts, les recherches de survivants se poursuivent",
+      "url": "https://www.franceinfo.fr/faits-divers/le-naufrage-d-un-bateau-au-guyana-a-fait-au-moins-10-morts-les-recherches-de-survivants-se-poursuivent_8115488.html#xtor=RSS-3-[lestitres]",
+      "summary": "Parti de la capitale Georgetown avec au moins 133 personnes à son bord, le ferry \"MV Barima\" a été renversé \"par une grosse vague\" dans la nuit de samedi à dimanche, selon le ministre des Travaux publics du Guyana. Quelque 67 personnes ont été secourues après le drame.",
+      "image": "https://www.franceinfo.fr/pictures/59oguLOijHuIU6yJCZpvyuzTrc4/0x5:1024x581/432x243/filters:format(jpg):quality(50)/2026/07/20/6a5e6f9024ed4996634311.jpg",
+      "published_at": "2026-07-20T20:59:50+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "244670e20d92"
+    },
+    {
+      "title": "Amélioration sur le front des incendies dans le Var et en Corse, les pompiers restent vigilants",
+      "url": "https://www.liberation.fr/environnement/incendies-dans-le-var-les-feux-devraient-etre-fixes-avant-la-fin-de-matinee-20260720_XG26IIG2EZFURO3DD7D36526FI/",
+      "summary": "Les feux qui se sont déclarés ces derniers jours dans les deux départements méditerranéens évoluent favorablement après avoir parcouru plusieurs centaines d’hectares de végétation, rapportent ce lundi en fin de journée les autorités locales.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-20T18:54:02+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "a50c29861f59"
+    },
+    {
+      "title": "«Ces méthodes n’aident en rien les Palestiniens» : La France insoumise critiquée après l’interruption du concert de Barbara Butch",
+      "url": "https://www.liberation.fr/politique/ces-methodes-naident-en-rien-les-palestiniens-la-france-insoumise-critiquee-apres-linterruption-du-concert-de-barbara-butch-20260720_7D4I3R5GU5GOHJCYEV26AHLDVM/",
+      "summary": "Après la mobilisation, samedi 18 juillet à Grenoble, de militants propalestiniens à l’appel de la section locale de LFI, contre un concert de la DJ, Manuel Bompard a dit comprendre les «protestations pacifiques». De nombreux responsables politiques ont, eux, condamné ce boycott.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-20T18:47:03+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "125351494bbd"
+    },
+    {
+      "title": "L'obligation vaccinale contre la grippe recommandée par la HAS \"est une bonne chose\" pour le Syndicat national des professionnels infirmiers",
+      "url": "https://www.franceinfo.fr/sante/l-obligation-vaccinale-contre-la-grippe-recommandee-par-la-has-est-une-bonne-chose-pour-le-syndicat-national-des-professionnels-infirmiers_8115509.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le porte-parole du syndicat, Thierry Amouroux, est favorable à l'obligation et souhaite aussi que l'accès à cette vaccination soit facilitée.",
+      "image": "https://www.franceinfo.fr/pictures/wLco6vIjE7KZoyNmckdP2upuXRA/0x130:2500x1537/432x243/filters:format(jpg):quality(50)/2026/05/05/69f976a29f0f8281346234.jpg",
+      "published_at": "2026-07-20T20:40:29+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "84d286d72df4"
+    },
+    {
+      "title": "Festival d’Avignon : avec «Bâtir», Salim Djaferi construit et déconstruit l’histoire des cités françaises",
+      "url": "https://www.liberation.fr/culture/festival-davignon-avec-batir-salim-djaferi-construit-et-deconstruit-lhistoire-des-cites-francaises-20260720_AYG6DY5MN5HMLLVV5ZMNIAXDAU/",
+      "summary": "A l’aide d’archives et d’une scénographie habile, le comédien retrace, avec douceur, par les mots et les gestes chorégraphiés, le passé discriminatoire des banlieues depuis les années 50. Dont celle de Sevran où il est né.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-07-20T18:39:55+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "4439f05010c9"
+    },
+    {
+      "title": "Incendies : près de 40 000 hectares partis en fumée en France depuis le début de l'année",
+      "url": "https://www.franceinfo.fr/faits-divers/incendie/incendies-pres-de-40-000-hectares-partis-en-fumee-en-france-depuis-le-debut-de-l-annee_8115506.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les pompiers ont combattu le feu sur plusieurs fronts, lundi 20 juillet. Depuis début 2026, les incendies ont déjà ravagé près de 40 000 hectares en France. Un chiffre plus élevé que sur toute l'année dernière.",
+      "image": "https://www.franceinfo.fr/pictures/I1FUqrk25rn0wiVnBO5B93J8bMg/0x4:1106x627/432x243/filters:format(jpg):quality(50)/2026/07/20/6a5e688411ad8349213773.jpg",
+      "published_at": "2026-07-20T20:31:13+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "499028c91216"
+    },
+    {
+      "title": "Le rachat de Warner Bros par Paramount suspendu par une juge californienne",
+      "url": "https://www.lemonde.fr/international/article/2026/07/20/le-rachat-de-warner-bros-par-paramount-suspendu-par-une-juge-californienne_6727683_3210.html",
+      "summary": "Les procureurs de 12 Etats américains, emmenés par la Californie, ont contesté en justice le rachat de Warner Bros Discovery par Paramount Skydance. La suspension de cette fusion doit durer au moins quatorze jours, leur donnant plus de temps pour faire valoir leurs arguments.",
+      "image": "https://img.lemde.fr/2026/07/13/858/0/7507/3753/644/322/60/0/56d8bac_ftp-1-lalhazel6j2c-5613115-01-06.jpg",
+      "published_at": "2026-07-20T20:15:54+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "ccf79c140643"
+    },
+    {
+      "title": "Incendies dans le Var : le feu à Taradeau et aux Arcs désormais \"fixé\" mais \"la vigilance reste de mise\", indique la préfecture",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-dans-le-var-le-feu-a-taradeau-et-aux-arcs-desormais-fixe-mais-la-vigilance-reste-de-mise-indique-la-prefecture_8115503.html#xtor=RSS-3-[lestitres]",
+      "summary": "Pour contenir le feu, les pompiers ont notamment créé \"une barrière de retardant d'1,5 km\" en utilisant un avion Dash.",
+      "image": "https://www.franceinfo.fr/pictures/NNaq7LhtVd0sY_yzPxZfkz7uJLI/0x209:4027x2475/432x243/filters:format(jpg):quality(50)/2026/07/20/6a5e65b22ef36603756319.jpg",
+      "published_at": "2026-07-20T20:15:44+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "d1881acf0b7f"
+    },
+    {
+      "title": "Défenseur des droits : François-Noël Buffet, un profil qui inquiète à juste titre",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/defenseur-des-droits-francois-noel-buffet-un-profil-qui-inquiete-a-juste-titre-20260720_AATGAJQWUJFRRLGKNBJ6UXCZCY/",
+      "summary": "Le profil ultraconservateur du sénateur LR interroge, alors que partout dans le monde des droits considérés comme des acquis sont remis en cause.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-20T18:15:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "29648b84e7df"
+    },
+    {
+      "title": "«Photo Kegham», fragments d’un autre Gaza",
+      "url": "https://www.liberation.fr/culture/photographie/photo-kegham-fragments-dun-autre-gaza-20260720_ZAXWPOP6LND27HIE2BG7TZ2HBY/",
+      "summary": "Au Centre photographique Marseille, Kegham Djeghalian Jr présente ce qu’il a pu retrouver des archives de son grand-père, créateur du premier studio du territoire palestinien en 1944. Des scènes de vie quotidienne souvent joyeuses à mille lieues de l’actualité mortifère de l’enclave.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-07-20T18:11:00+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "13bfd1b1665a"
+    },
+    {
+      "title": "Dans un rapport sur le contrôle des forces de l’ordre, la Cour des comptes pointe le manque de transparence des autorités",
       "url": "https://www.liberation.fr/societe/police-justice/dans-un-rapport-sur-le-controle-de-forces-de-lordre-la-cour-des-comptes-pointe-le-manque-de-transparence-des-autorites-20260720_2S3AYOTAINAH5A7NZN74KF4YP4/",
       "summary": "L’institution financière a publié ce lundi 20 juillet un rapport consacré à l’organisation du contrôle de l’action des policiers et des gendarmes. Les magistrats relèvent notamment des délais de traitement très longs des procédures disciplinaires.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
@@ -23,16 +233,6 @@
       "id": "f2a09e5acfb5"
     },
     {
-      "title": "L'Union européenne sanctionne AliExpress pour la vente de produits illégaux, dont des jouets dangereux et des vêtements contrefaits",
-      "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/l-union-europeenne-sanctionne-aliexpress-pour-la-vente-de-produits-illegaux-dont-des-jouets-dangereux-et-des-vetements-contrefaits_8114975.html#xtor=RSS-3-[lestitres]",
-      "summary": "A l'issue de son enquête, la Commission européenne a annoncé avoir repéré \"un grand nombre de contrefaçons\". La plateforme de vente en ligne chinoise doit se soumettre au règlement européen dans les trois mois, sous peine d'amendes périodiques.",
-      "image": "https://www.franceinfo.fr/pictures/VsUJsz8dUhtzDSAxyZdG_aSVdE0/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/20/6a5dfb701271f145710026.jpg",
-      "published_at": "2026-07-20T20:01:54+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "38e3685fe5a9"
-    },
-    {
       "title": "La Haute Autorité de santé recommande l'obligation vaccinale contre la grippe pour tous les professionnels de santé et médico-sociaux",
       "url": "https://www.franceinfo.fr/sante/maladie/grippe/la-haute-autorite-de-sante-recommande-l-obligation-vaccinale-contre-la-grippe-pour-tous-les-professionnels-de-sante_8115158.html#xtor=RSS-3-[lestitres]",
       "summary": "L'obligation vaccinale se justifie au regard de \"l'ampleur du fardeau sanitaire\" de la grippe et du \"risque augmenté\" de sa transmission par des professionnels aux personnes soignées ou hébergées en milieu de soins et médico-social, explique l'autorité indépendante.",
@@ -45,7 +245,7 @@
     {
       "title": "Nomination de François-Noël Buffet : un Défenseur des droits ne devrait pas dire ça",
       "url": "https://www.liberation.fr/politique/nomination-de-francois-noel-buffet-un-defenseur-des-droits-ne-devrait-pas-dire-ca-20260720_JREOOCSHQ5AD7H6AFDR2HPPKPA/",
-      "summary": "Hostile à la PMA, au mariage pour tous, pour un durcissement des politiques migratoires… Le sénateur LR, dont la nomination au poste devrait être validé par le Parlement ce mardi, multiplie les prises de positions conservatrices. Un choix d’Emmanuel Macron qui interroge à moins d’un an de la présidentielle.",
+      "summary": "Hostile à la PMA, au mariage pour tous, pour un durcissement des politiques migratoires… Le sénateur LR, dont la nomination au poste devrait être validée par le Parlement ce mardi, multiplie les prises de position conservatrices. Un choix d’Emmanuel Macron qui interroge à moins d’un an de la présidentielle.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
       "published_at": "2026-07-20T17:57:58+00:00",
       "source": "Libération",
@@ -101,206 +301,6 @@
       "source": "Le Monde Inter",
       "category": "International",
       "id": "7cb6589c0080"
-    },
-    {
-      "title": "Interdiction des réseaux sociaux aux moins de 15 ans : une loi sur la bonne voie",
-      "url": "https://www.liberation.fr/politique/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-une-loi-sur-la-bonne-voie-20260720_R4LMJLSJ4NHK7PPS54YDWMJIMM/",
-      "summary": "La commission mixte paritaire convoquée lundi s’est accordée sur un texte interdisant aux plus jeunes l’accès aux réseaux sociaux, après une bataille d’interprétation. Députés et sénateurs doivent le voter définitivement mardi 21 juillet.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-20T17:45:14+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "e497b0293709"
-    },
-    {
-      "title": "\"Les moyens aériens nationaux engagés ne sont plus à la hauteur des risques\", alerte le président des pompiers du département de Haute-Corse",
-      "url": "https://www.franceinfo.fr/faits-divers/incendie/les-moyens-aeriens-nationaux-engages-ne-sont-plus-a-la-hauteur-des-risques-alerte-le-president-des-pompiers-du-departement-de-haute-corse_8115479.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le président du Sis 2B estime que que les sapeurs-pompiers interviennent \"au péril de leur sécurité\" mais que \"leur courage ne peut compenser indéfiniment les insuffisances des moyens aériens de l'État\".",
-      "image": "https://www.franceinfo.fr/pictures/FaZqPqgjQR1AbepPu9IrdQM73q0/0x340:4724x2997/432x243/filters:format(jpg):quality(50)/2026/07/20/6a5e5e7300012130657606.jpg",
-      "published_at": "2026-07-20T19:44:26+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "4854ebfb0e19"
-    },
-    {
-      "title": "Le gouvernement s'en remet au Parlement pour trancher la réintroduction de l'acétamipride avant le vote solennel du projet de loi agricole",
-      "url": "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/le-gouvernement-s-en-remet-au-parlement-pour-trancher-la-reintroduction-de-l-acetamipride-avant-le-vote-solennel-du-projet-de-loi-agricole_8115428.html#xtor=RSS-3-[lestitres]",
-      "summary": "Réuni à Matignon avec plusieurs ministres et chefs des groupes du centre et de la droite, l'exécutif a également décidé d'allonger le délai laissé à l'Anses pour rendre son avis sur d'éventuelles dérogations et de revoir une disposition contestée sur la gestion de l'eau.",
-      "image": "https://www.franceinfo.fr/pictures/E6jqZz6-cUKxEFLpHbaKSZDajd4/0x12:1024x588/432x243/filters:format(jpg):quality(50)/2026/07/20/6a5e5512b2b2d999835876.jpg",
-      "published_at": "2026-07-20T19:42:27+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "900a84472200"
-    },
-    {
-      "title": "« Vous détestez les femmes » : Uber explique pourquoi son option réservée aux femmes peut coûter deux fois plus cher",
-      "url": "https://www.numerama.com/vroom/2297669-vous-detestez-les-femmes-uber-explique-pourquoi-son-option-reservee-aux-femmes-peut-couter-deux-fois-plus-cher.html",
-      "summary": "Uber by Women permet aux passagères de voyager avec une conductrice. Mais dans certaines villes, cette option peut coûter plus de deux fois plus cher qu’une course classique, selon un message publié par une utilisatrice sur X le 16 juillet 2026.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-20T17:40:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "6e9965b073cc"
-    },
-    {
-      "title": "Hongrie : Judit Polgár, plus grande championne d’échecs de tous les temps, refuse la présidence",
-      "url": "https://www.liberation.fr/international/europe/hongrie-judit-polgar-plus-grande-championne-dechecs-de-tous-les-temps-proposee-pour-prendre-la-presidence-20260720_TJ2WWFRWOJDWXG3OD36TC5E2LM/",
-      "summary": "Poursuivant la rupture avec l’héritage de l’extrême droite au pouvoir, le Premier ministre, Péter Magyar, avait proposé l’ex-numéro 1 mondiale féminine à ce poste honorifique, à la place remplace d’un proche de Viktor Orbán contraint à quitter ses fonctions avant l’heure.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-20T17:39:33+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "cb83b92d58d1"
-    },
-    {
-      "title": "« Les bases américaines au Moyen-Orient fournissent des capacités, mais elles constituent aussi des cibles »",
-      "url": "https://www.lemonde.fr/international/article/2026/07/20/les-bases-americaines-au-moyen-orient-fournissent-des-capacites-mais-elles-constituent-aussi-des-cibles_6727581_3210.html",
-      "summary": "Dans un entretien au « Monde », le chercheur Michael Stricof détaille le contexte de création des bases américaines au Moyen-Orient et analyse leur rôle stratégique dans le conflit actuel entre l’Iran et les Etats-Unis.",
-      "image": "https://img.lemde.fr/2026/07/20/981/0/5886/2943/644/322/60/0/f7b2c19_upload-1-om0taad17l6n-020-2214558306.jpg",
-      "published_at": "2026-07-20T19:30:15+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "979b1a60045e"
-    },
-    {
-      "title": "Inde : mobilisée dans la rue, la génération Z ne relâche pas la pression sur le gouvernement",
-      "url": "https://www.lemonde.fr/international/article/2026/07/20/inde-mobilisee-dans-la-rue-la-generation-z-ne-relache-pas-la-pression-sur-le-gouvernement_6727580_3210.html",
-      "summary": "De nouvelles manifestations, d’ampleur inédite depuis 2019, se sont tenues, lundi, à proximité du Parlement, à l’appel du Parti du peuple des cafards qui rassemble de larges pans de la jeunesse indienne. Confrontée à un chômage massif et à de nombreux suicides, elle est déterminée à demander des comptes aux dirigeants.",
-      "image": "https://img.lemde.fr/2026/07/20/535/0/6421/3210/644/322/60/0/63d2bc4_ftp-1-npywgrxcksfa-5666720-01-06.jpg",
-      "published_at": "2026-07-20T19:30:11+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "cfc408bd942e"
-    },
-    {
-      "title": "«Des cendres nous tombaient dessus» : au cœur du feu dans le Var, «un cocktail explosif sécheresse-vent-chaleur»",
-      "url": "https://www.liberation.fr/environnement/biodiversite/des-cendres-nous-tombaient-dessus-au-coeur-du-feu-dans-le-var-un-cocktail-explosif-secheresse-vent-chaleur-20260720_OKAVAE7VFREBPMSHDTMCGBXB4I/",
-      "summary": "L’incendie à Taradeau et aux Arcs, qui a déjà calciné 200 hectares de bois et quatre maisons, éprouve les habitants et la faune sauvage. Alors que des vents violents sont attendus mardi 21 juillet, les 350 pompiers mobilisés redoutent une nouvelle journée «très compliquée».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-20T17:26:30+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "c718472bb71a"
-    },
-    {
-      "title": "Coupes dans le budget 2027 : alors que le taux de chômage grimpe, les syndicats outrés de voir le ministère du Travail ciblé",
-      "url": "https://www.liberation.fr/economie/social/coupes-dans-le-budget-2027-alors-que-le-taux-de-chomage-grimpe-les-syndicats-outres-de-voir-le-ministere-du-travail-cible-20260720_5WFI22CY5JCYNIIZEGYORSVHBM/",
-      "summary": "Selon le document qui dévoile les premières orientations pour le budget de l’année prochaine, avec 1,9 milliard d’euros d’économies, les comptes du ministère de Jean-Pierre Farandou seront les plus touchés. Une décision qui suscite l’incompréhension de la CGT, la CFDT, et l’Unsa, pour qui l’emploi devrait être une priorité.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-07-20T17:25:59+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "7fbe1c20226e"
-    },
-    {
-      "title": "Américains et Iraniens continuent leurs frappes, le Liban reprend le contrôle de «zones pilotes»… L’actu du conflit au Moyen-Orient ce 20 juillet",
-      "url": "https://www.liberation.fr/international/moyen-orient/nouvelle-nuit-de-bombardements-americains-riposte-iranienne-au-koweit-et-a-bahrein-le-prix-du-petrole-poursuit-son-envolee-lactu-du-conflit-au-moyen-orient-ce-20-juillet-20260720_BHKOLJN46NC6FBRE66OSGMSS7E/",
-      "summary": "L’essentiel des informations du jour sur la guerre dans la région.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-20T17:24:53+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "9e2d1542ca9d"
-    },
-    {
-      "title": "Mamdani souhaite faire arrêter Nétanyahou quand il viendra à New York, Trump assure que ça ne sera pas le cas",
-      "url": "https://www.liberation.fr/international/amerique/zohran-mamdani-souhaite-arreter-benyamin-netanyahou-quand-il-viendra-a-new-york-pour-lag-de-lonu-20260719_KPCARORYWRFHVGV5PYTPNNZSSE/",
-      "summary": "Le maire démocrate affirme mener des «discussions actives» avec les services juridiques concernant la possibilité d’interpeller le Premier ministre israélien lors de l’Assemblée générale des Nations Unies, en septembre.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-20T17:22:27+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "41834105373a"
-    },
-    {
-      "title": "Interdiction des réseaux sociaux aux moins de 15 ans : les parlementaires s’accordent en commission mixte paritaire, avant un ultime vote mardi",
-      "url": "https://www.lemonde.fr/pixels/article/2026/07/20/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-les-parlementaires-s-accordent-en-commission-mixte-paritaire-avant-un-ultime-vote-prevu-mardi_6727547_4408996.html",
-      "summary": "Si la proposition de loi est adoptée par le Sénat et l’Assemblée nationale, Emmanuel Macron, qui s’est personnellement impliqué dans ce dossier, a promis une mise en œuvre de l’interdiction dès le 1ᵉʳ septembre.",
-      "image": "https://img.lemde.fr/2026/07/20/504/0/6048/3024/644/322/60/0/1b24178_upload-1-lxlmspjttkf0-000-b9j29cq.jpg",
-      "published_at": "2026-07-20T19:18:58+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "93b186cdec95"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky salue le soutien « solide » du Royaume-Uni, après un entretien avec son nouveau premier ministre, Andy Burnham",
-      "url": "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-en-ukraine-volodymyr-zelensky-salue-le-soutien-solide-du-royaume-uni-apres-un-entretien-avec-son-nouveau-premier-ministre-andy-burnham_6725306_3210.html",
-      "summary": "Avant sa discussion avec le président ukrainien, Andy Burnham avait fait savoir qu’il serait aux « côtés [de M. Zelensky] à 100 %, tout comme l’a été Keir Starmer ». « Nous sommes convenus de discuter de notre coopération future lors d’une rencontre qui aura lieu très prochainement », a aussi annoncé Volodymyr Zelensky.",
-      "image": "https://img.lemde.fr/2026/07/16/538/0/6454/3227/644/322/60/0/67e15e2_ftp-1-6wjhin5fqd8c-703cd22c3a08497faf0d201d3321719d-0-b407dc3cf06e433a98b3511fdf41050b.jpg",
-      "published_at": "2026-07-20T19:08:56+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "b6df126fc2c4"
-    },
-    {
-      "title": "Le baron de la drogue mexicain «El Mayo», qui dirigeait le cartel de Sinaloa avec «El Chapo», condamné à la prison à vie",
-      "url": "https://www.liberation.fr/international/amerique/le-baron-de-la-drogue-mexicain-el-mayo-qui-dirigeait-le-cartel-de-sinaloa-avec-el-chapo-condamne-a-la-prison-a-vie-20260720_S3QWHZI72RAFDK42IFK4FMPH7E/",
-      "summary": "Incarcéré aux Etats-Unis depuis 2024, le redoutable narcotrafiquant Ismael Zambada avait plaidé coupable en août 2025 afin d’échapper à la peine de mort.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-20T17:06:30+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "e16040fe43bf"
-    },
-    {
-      "title": "Iran-Israël, ou l’histoire méconnue d’un divorce sanglant",
-      "url": "https://www.lemonde.fr/idees/article/2026/07/20/iran-israel-ou-l-histoire-meconnue-d-un-divorce-sanglant_6727513_3232.html",
-      "summary": "Avant la révolution islamique, l’Iran impérial soutenait Israël dans la région. Les relations entre ces deux pays ont un riche passé qu’entend éclairer l’historien Clément Therme dans son livre « Iran-Israël. La guerre idéologique de 1979 à nos jours ».",
-      "image": "https://img.lemde.fr/2026/07/17/160/0/1920/960/644/322/60/0/52f7905_upload-1-zqz7ubkmjbzc-iran-israel.jpg",
-      "published_at": "2026-07-20T19:00:09+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "661974e807c9"
-    },
-    {
-      "title": "Tourné en partie au Sahara occidental, « L’Odyssée », de Christopher Nolan, est la cible d’appels au boycott",
-      "url": "https://www.lemonde.fr/afrique/article/2026/07/20/tourne-en-partie-au-sahara-occidental-l-odyssee-de-christopher-nolan-est-la-cible-d-appels-au-boycott_6727512_3212.html",
-      "summary": "Les partisans de l’indépendance du territoire, convoité par le Maroc, dénoncent l’absence de mention du Sahara occidental dans le long-métrage, dont plusieurs scènes ont été filmées à Dakhla, en 2025.",
-      "image": "https://img.lemde.fr/2026/07/10/603/0/5906/2953/644/322/60/0/b9aa9bf_ftp-1-bjho1uuvgqwb-4204d55a79e844d0838c7cd483fec441-0-14120e6f18de4760be74d75c19ad35bb.jpg",
-      "published_at": "2026-07-20T19:00:07+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "59323e88bb1d"
-    },
-    {
-      "title": "«Les enfants vont enfin avoir une sépulture pour leur mère» : les proches de Delphine Aussaguel entre «soulagement» et «colère»",
-      "url": "https://www.liberation.fr/societe/police-justice/les-enfants-vont-enfin-avoir-une-sepulture-pour-leur-mere-les-proches-de-delphine-aussaguel-entre-soulagement-et-colere-20260720_RGGQGF75CVCQHELQNMZI7LVSJU/",
-      "summary": "Les ossements retrouvés jeudi 16 juillet appartiennent bien à la mère de famille. Désormais, une autre étape commence dans «l’affaire Jubillar» : faire parler le corps pour tenter de déterminer les causes de la mort de l’infirmière de 33 ans.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-20T16:58:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "fb0fa2d6e25a"
-    },
-    {
-      "title": "A La Nouvelle-Orléans, un succès qui fait jazzer",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/a-la-nouvelle-orleans-un-succes-qui-fait-jazzer-20260720_N3PMFXXRRZFTJNEUS6JZDXWXTU/",
-      "summary": "Six grands ports qui ont vu naître des genres et des groupes mythiques (3/6) Aujourd’hui, le creuset louisianais, laboratoire unique et ville natale de musiciens pionniers.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-20T16:53:45+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "afbf5e77464c"
-    },
-    {
-      "title": "Louisette, Ridvan, Florean, Adam, Patrick... On vous raconte ces vies emportées par la canicule de juin 2026",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/louisette-ridvan-florean-adam-patrick-on-vous-raconte-ces-vies-emportees-par-la-canicule-de-juin-2026_8087096.html#xtor=RSS-3-[lestitres]",
-      "summary": "Plus de 2 000 décès de plus que la normale ont été recensés à l'issue de la canicule du mois de juin. Personnes isolées, enfants, ou sportifs... Franceinfo a retracé l'histoire de cinq victimes de cette vague de fortes chaleurs.",
-      "image": "https://www.franceinfo.fr/pictures/BcCbgEJgCtz7UlqYCxpXzjl3FuE/0x0:3840x2160/432x243/filters:format(jpg):quality(50)/2026/07/17/6a5a3b0561a2a160084732.jpg",
-      "published_at": "2026-07-20T18:53:27+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "16104bd04efd"
-    },
-    {
-      "title": "Barbara Butch et son avocate, Audrey Msellati : « L’antisionisme invoqué n’a été, à Grenoble, que le vêtement de l’antisémitisme »",
-      "url": "https://www.lemonde.fr/idees/article/2026/07/20/barbara-butch-et-son-avocate-l-antisionisme-invoque-n-a-ete-a-grenoble-que-le-vetement-de-l-antisemitisme_6727479_3232.html",
-      "summary": "Contrainte de quitter la scène samedi 18 juillet à Grenoble, après avoir fait l’objet d’insultes et de jets de bouteilles de la part de militants propalestiniens, la DJ Barbara Butch dénonce une irruption de la violence, dans une tribune au « Monde », cosignée avec son avocate, Audrey Msellati.",
-      "image": "https://img.lemde.fr/2026/07/20/0/0/5527/2763/644/322/60/0/a995e59_upload-1-v62qucoz24uz-000-36er9x3.jpg",
-      "published_at": "2026-07-20T18:48:54+02:00",
-      "source": "Le Monde Politique",
-      "category": "Société",
-      "id": "b5f35d134313"
     }
   ]
 }
