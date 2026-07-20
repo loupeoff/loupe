@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-07-19T23:00:18.118358+00:00",
+  "generated_at": "2026-07-20T00:03:59.281640+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "La Cedeao approuve la construction d’un gazoduc Nigeria-Maroc, immense projet énergétique dans les tuyaux depuis des années",
+      "url": "https://www.lemonde.fr/international/article/2026/07/20/la-cedeao-approuve-la-construction-d-un-gazoduc-nigeria-maroc-immense-projet-energetique-dans-les-tuyaux-depuis-des-annees_6726498_3210.html",
+      "summary": "L’immense ouvrage, dont la construction est évoquée depuis une décennie, traverserait treize pays d’Afrique de l’Ouest avant d’être raccordé au gazoduc Maghreb-Europe.",
+      "image": "https://img.lemde.fr/2026/07/19/88/0/2048/1024/644/322/60/0/07066a9_upload-1-zrj5pnou6df7-752380962-1588847796094667-7958939083465097343-n.jpeg",
+      "published_at": "2026-07-20T02:01:52+02:00",
+      "source": "Le Monde Inter",
+      "category": "Économie",
+      "id": "ae09607cc31d"
+    },
     {
       "title": "Donald Trump s'incruste sur la photo des vainqueurs... Revivez la finale de la Coupe du monde remportée au bout du suspense par l'Espagne contre l'Argentine (1-0 après prolongation)",
       "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-l-espagne-de-yamal-et-l-argentine-de-messi-ont-rendez-vous-avec-l-histoire-en-finale-scenario-incroyable-pour-france-angleterre_8113370.html#xtor=RSS-3-[lestitres]",
@@ -291,16 +301,6 @@
       "source": "Libération",
       "category": "Tech",
       "id": "3e644e4be86c"
-    },
-    {
-      "title": "En Allemagne, le chef des députés conservateurs forcé de démissionner après être devenu père par GPA aux Etats-Unis",
-      "url": "https://www.lemonde.fr/international/article/2026/07/19/en-allemagne-le-chef-des-conservateurs-force-de-demissionner-apres-etre-devenu-pere-par-gpa-aux-etats-unis_6726165_3210.html",
-      "summary": "Jens Spahn, président du groupe CDU/CSU au Bundestag, a déclaré avoir sous-estimé les effets de sa décision, alors que la gestation pour autrui reste interdite outre-Rhin et que son parti y est fermement opposé.",
-      "image": "https://img.lemde.fr/2026/07/09/642/0/5203/2601/644/322/60/0/0e59aa4_ftp-1-nqvxsfbxxlbh-2026-07-09t083300z-435185387-rc28amaj66xe-rtrmadp-3-germany-politics.JPG",
-      "published_at": "2026-07-19T18:16:15+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "958cf735469d"
     }
   ]
 }
