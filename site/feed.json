@@ -1,36 +1,186 @@
 {
-  "generated_at": "2026-07-21T18:20:10.392019+00:00",
+  "generated_at": "2026-07-21T20:21:38.025211+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "EN DIRECT - Incendies : deux pompiers morts dans un feu près de Bordeaux, un nouveau brasier dans le Var",
+      "title": "Incendies : un feu déclaré dans l'après-midi a déjà parcouru 1 700 hectares dans le Var, les flammes progressent \"à une vitesse très importante\", selon le préfet",
+      "url": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-cinq-departements-du-pourtour-mediterraneen-place-en-risque-tres-eleve-de-feux_8115884.html#xtor=RSS-3-[lestitres]",
+      "summary": "Au total, 120 personnes, 60 engins et trois moyens aériens ont été mobilisés pour combattre ce feu de bâtiment survenu près de l'aéroport de Mérignac. Marc Vermeulen, directeur du Sdis 33, assure que le feu est maintenant fixé.",
+      "image": "https://www.franceinfo.fr/pictures/NHbQyhCTDkEOjqPb9wleHSl3CkQ/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/21/6a5fd10d2e64a436040339.jpg",
+      "published_at": "2026-07-21T22:09:24+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "c60560daa540"
+    },
+    {
+      "title": "Loi d'urgence agricole : Monique Barbut présentera sa démission d'ici le Conseil des ministres de mercredi",
+      "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/loi-d-urgence-agricole-monique-barbut-presentera-sa-demission-d-ici-le-conseil-des-ministres-de-mercredi_8116922.html#xtor=RSS-3-[lestitres]",
+      "summary": "La ministre de a été reçue par le Premier ministre à la mi-journée.",
+      "image": "https://www.franceinfo.fr/pictures/6uefp4wYVbnG1IdfzhjejQB_XRw/0x304:5841x3590/432x243/filters:format(jpg):quality(50)/2026/07/21/6a5fb3d7584d1975318975.jpg",
+      "published_at": "2026-07-21T22:01:11+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "90d884ca5bf9"
+    },
+    {
+      "title": "Loi d’urgence agricole : «Il reste des dispositions préoccupantes sur la qualité et la quantité d’eau»",
+      "url": "https://www.liberation.fr/environnement/agriculture/loi-durgence-agricole-il-reste-des-dispositions-preoccupantes-sur-la-qualite-et-la-quantite-deau-20260721_IYLDK7C5HVEHXETEYGNRGLE5BE/",
+      "summary": "Le projet de loi d’urgence agricole, qui doit être voté définitivement ce mardi soir, est en contradiction avec plusieurs objectifs de la politique de l’eau, explique la chercheuse de l’Iddri Aurélie Catallo.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-21T20:00:00+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "6b3a928fd77b"
+    },
+    {
+      "title": "Les députés approuvent une mesure controversée instaurant la perpétuité pour les viols en série sur les moins de 15 ans",
+      "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/les-deputes-approuvent-une-mesure-controversee-instaurant-la-perpetuite-pour-les-viols-en-serie-sur-les-moins-de-15-ans_8116973.html#xtor=RSS-3-[lestitres]",
+      "summary": "Rejetée quelques jours plus tôt par une Assemblée davantage mobilisée à gauche, la disposition a finalement été adoptée à l'issue de débats particulièrement tendus, sur fond de désaccord persistant quant à son efficacité pour lutter contre les violences sexuelles faites aux enfants.",
+      "image": "https://www.franceinfo.fr/pictures/Glf-7vvUNaS9NoyUpkZKySkRwGU/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/21/6a5fccec465c8862028047.jpg",
+      "published_at": "2026-07-21T21:53:07+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "765e769e4406"
+    },
+    {
+      "title": "L'avocate d'une amie proche de Delphine Aussaguel, épouse Jubillar, espère que le report du procès en appel permettra de \"vérifier\" l'hypothèse de la \"préméditation\"",
+      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/affaire-jubillar-l-avocate-d-une-amie-proche-de-delphine-aussaguel-epouse-jubillar-espere-que-le-report-du-proces-en-appel-permettra-de-verifier-l-hypothese-de-la-premeditation_8116718.html#xtor=RSS-3-[lestitres]",
+      "summary": "La cour d'assises de Haute-Garonne a annoncé le renvoi du procès en appel en raison de la poursuite de l'enquête après les aveux de l'accusé. Cédric Jubillar a été entendu le 15 juillet. Lors de cette audition, il a réitéré les aveux formulés auprès de ses avocats et reconnu avoir étranglé son épouse Delphine Aussaguel.",
+      "image": "https://www.franceinfo.fr/pictures/ZFfkGsoUgB7MaEUc7NmkT9ibUVM/0x192:2048x1344/432x243/filters:format(jpg):quality(50)/2022/03/31/phpyU0VnS.jpg",
+      "published_at": "2026-07-21T21:46:10+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "171426e75b36"
+    },
+    {
+      "title": "Interdiction des réseaux sociaux aux moins de 15 ans : il faut une détox pour tous",
+      "url": "https://www.liberation.fr/societe/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-il-faut-une-detox-pour-tous-20260721_57LLGEXTN5BZHJYOTCUZ4PSMEQ/",
+      "summary": "Si la loi adoptée ce mardi 21 juillet est louable, la société dans son ensemble est accro au scroll et les adultes devraient donner l’exemple en décrochant de leurs téléphones.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-21T19:43:00+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "78bb16ba76c5"
+    },
+    {
+      "title": "«Le ciel est devenu rouge» : deux pompiers tués par un incendie en Gironde, 1 700 hectares déjà engloutis dans le Var",
+      "url": "https://www.liberation.fr/environnement/climat/le-ciel-est-devenu-rouge-deux-pompiers-tues-par-un-incendie-en-gironde-700-hectares-deja-engloutis-dans-le-var-20260721_S7HFOQKUOBFFZCZKDON74GPDCI/",
+      "summary": "Deux nouveaux brasiers se sont déclarés en France ce mardi. Le premier, près de l’aéroport bordelais, est maîtrisé. Le second progresse à «une vitesse très importante», a alerté le préfet dans la soirée, malgré d’importants moyens déployés.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-21T19:42:24+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "9ad73b2b47b4"
+    },
+    {
+      "title": "«Je l’ai attrapée par le cou et j’ai serré» : après les confessions de Cédric Jubillar, la question de la préméditation persiste",
+      "url": "https://www.liberation.fr/societe/police-justice/cedric-jubillar-a-avoue-a-la-justice-avoir-etrangle-sa-femme-delphine-20260721_GTIU4CFEYFFBVPOWLGZ6MWKURM/",
+      "summary": "Dans un procès-verbal consulté par «Libération», le peintre-plaquiste confie les détails de son crime à une magistrate, affirmant avoir «vrillé». Une version loin de convaincre toutes les parties civiles.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-21T19:24:17+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "f363ad82fd41"
+    },
+    {
+      "title": "Tapez « éclipse solaire » dans Google, une surprise vous attend",
+      "url": "https://www.numerama.com/tech/2298803-tapez-eclipse-solaire-dans-google-une-surprise-vous-attend.html",
+      "summary": "À l’occasion de l’éclipse solaire du 12 août 2026, Google a glissé une petite surprise dans son moteur de recherche. Quelques mots suffisent pour voir la Lune passer devant le Soleil, sans attendre le véritable phénomène.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-07-21T19:20:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "96b9c5a060cd"
+    },
+    {
+      "title": "Le Parlement adopte définitivement une loi sur la montagne",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/21/le-parlement-adopte-definitivement-une-loi-sur-la-montagne_6729281_3224.html",
+      "summary": "Au lendemain de son adoption à l’Assemblée nationale, le texte a été approuvé par les sénateurs, au cours d’un ultime vote : 325 voix favorables, contre 16. Il prévoit des mesures sur l’école, l’accès aux soins et la gestion de l’eau.",
+      "image": "https://img.lemde.fr/2026/07/21/684/0/8192/4096/644/322/60/0/ae0d336_ftp-1-goe6o9nw11mg-5675449-01-06.jpg",
+      "published_at": "2026-07-21T21:16:33+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "42bbbcbdde96"
+    },
+    {
+      "title": "Démission de la ministre de la Transition écologique Monique Barbut : l’affront de trop",
+      "url": "https://www.liberation.fr/environnement/biodiversite/monique-barbut-une-discrete-ministre-de-la-transition-ecologique-au-bord-dune-demission-fracassante-20260721_7HMBXT2W6ZHARKVK44ABPIIINA/",
+      "summary": "Ulcérée par la réintroduction de l’acétamipride dans le cadre de la loi d’urgence agricole et par le volet eau du texte adopté mardi, l’économiste spécialiste de la diplomatie environnementale devrait présenter sa démission au président de la République avant le Conseil des ministres mercredi 22 juillet.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-21T19:15:20+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "1ed016f0bb8c"
+    },
+    {
+      "title": "La loi d’urgence agricole et sa réintroduction des pesticides votée au Sénat, le texte définitivement adopté",
+      "url": "https://www.liberation.fr/environnement/agriculture/en-direct-protestations-contre-la-loi-durgence-agricole-sebastien-lecornu-denonce-une-instrumentalisation-a-des-fins-politiciennes-20260721_IGEY5TX33JDVTJBEFEFU4ERK4U/",
+      "summary": "La majorité gouvernementale s’est fracturée sur ce texte réautorisant l’utilisation de deux pesticides et la ministre de la Transition écologique, Monique Barbut, va présenter sa démission à Emmanuel Macron dans les prochaines heures.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-21T19:11:11+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "4ca7b2cfc05f"
+    },
+    {
+      "title": "Marseille : défections en série au Delta Festival, après des accusations de violences sexuelles visant l’un de ses fondateurs",
+      "url": "https://www.liberation.fr/societe/police-justice/marseille-defections-en-serie-au-delta-festival-apres-des-accusations-de-violences-sexuelles-visant-lun-de-ses-fondateurs-20260721_EVOL4RRDOBGXTPDHMIA3T2C26I/",
+      "summary": "De nombreux artistes et collectifs qui devaient jouer ce week-end sur la plage du Prado à l’occasion du plus grand événement estival de Marseille, dans la tourmente après ces accusations à l’encontre d’Olivier Ledot, mis en cause par d’anciennes collaboratrices et bénévoles.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-07-21T19:03:42+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "ae029aa0d623"
+    },
+    {
+      "title": "Incendies : deux pompiers morts dans un feu près de Bordeaux, un nouveau brasier a déjà consumé 700 hectares dans le Var",
       "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-deux-pompiers-morts-dans-un-feu-pres-de-bordeaux-un-nouveau-brasier-dans-le-var-20260721_BZBZU5WPIBBD3JKT25ZAQZJZ3U/",
       "summary": "Deux importants foyers se sont déclarés ce mardi. Celui de Bordeaux est désormais «fixé». C’est loin d’être le cas dans le Var, où plusieurs centaines de pompiers et d’importants moyens aériens sont déployés.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-21T18:14:12+00:00",
+      "published_at": "2026-07-21T18:58:13+00:00",
       "source": "Libération",
       "category": "Sport",
       "id": "970fd60948a7"
     },
     {
-      "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+      "title": "Loi d’urgence agricole : l’Agence de sécurité sanitaire sous pression du gouvernement",
+      "url": "https://www.liberation.fr/environnement/agriculture/loi-durgence-agricole-lanses-comme-roue-de-secousses-du-gouvernement-20260721_EG5AT7AP6ZEUJPCHOBWBJQ73S4/",
+      "summary": "Le projet de loi adopté définitivement par le Parlement ce mardi acte la possible réautorisation dérogatoire de deux pesticides dangereux. L’agence, contrainte de jouer un rôle politique, n’aura que très peu de temps faire un examen sérieux du dossier scientifique.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-21T18:23:30+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "665251961167"
+    },
+    {
+      "title": "Sud-Liban : l’armée investit une «zone pilote», première étape d’un retrait d’Israël",
+      "url": "https://www.liberation.fr/international/moyen-orient/sud-liban-larmee-investit-une-zone-pilote-premiere-etape-dun-retrait-disrael-20260721_O7K2ITQK4JENFCQIJH2HSE6WJM/",
+      "summary": "Le président libanais, Joseph Aoun, a rencontré Donald Trump mardi 21 juillet pour parler de la stabilité dans la région, à l’heure où Tel-Aviv entretient le flou sur le mécanisme de vérification de ces zones de retrait.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-07-21T18:18:11+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "2d441c53717c"
+    },
+    {
+      "title": "Monique Barbut, ministre de la transition écologique, présentera sa démission d’ici au conseil des ministres de mercredi, annonce son entourage",
+      "url": "https://www.lemonde.fr/politique/article/2026/07/21/monique-barbut-ministre-de-la-transition-ecologique-presentera-sa-demission-d-ici-le-conseil-des-ministres-de-mercredi-annonce-son-entourage_6729178_823448.html",
+      "summary": "La ministre avait manifesté son désaccord avec le projet de loi d’urgence agricole, qui prévoit notamment de réintroduire à titre dérogatoire et sous condition deux pesticides interdits en France.",
+      "image": "https://img.lemde.fr/2026/06/15/162/0/4176/2088/644/322/60/0/1882319_upload-1-ych61ifl7vl4-075-pinto-adoption260602-npsig.jpg",
+      "published_at": "2026-07-21T20:16:54+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "1f65a5077a27"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce le départ du commandant en chef de l’armée, Oleksandr Syrsky",
       "url": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-les-dernieres-informations_6725306_3210.html",
-      "summary": "Les forces russes ont intensifié leurs opérations autour de Koupiansk, dans l’oblast ukrainien de Kharkiv, afin de percer les défenses ukrainiennes et d’avancer vers la ville, selon Kiev.",
-      "image": "https://img.lemde.fr/2026/07/21/441/0/2953/1476/644/322/60/0/5bef11f_upload-1-jvz53ceumf0j-2026-07-21-heg-ukraine-0144.JPG",
-      "published_at": "2026-07-21T20:12:30+02:00",
+      "summary": "Plusieurs jours de manifestations de grande ampleur à Kiev et dans d’autres villes du pays avaient réclamé la démission de M. Syrsky, à qui ses détracteurs reprochent de faire peu de cas des pertes humaines. Il est remplacé par le populaire commandant des forces interarmées, Mykhaïlo Drapatiï.",
+      "image": "https://img.lemde.fr/2026/07/21/178/0/2138/1069/644/322/60/0/26e5948_ftp-1-bxse4szum1w8-5676527-01-06.jpg",
+      "published_at": "2026-07-21T20:12:28+02:00",
       "source": "Le Monde Inter",
       "category": "International",
       "id": "40f840fbe076"
-    },
-    {
-      "title": "Cédric Jubillar a avoué à la justice avoir étranglé sa femme Delphine",
-      "url": "https://www.liberation.fr/societe/police-justice/cedric-jubillar-a-avoue-a-la-justice-avoir-etrangle-sa-femme-delphine-20260721_GTIU4CFEYFFBVPOWLGZ6MWKURM/",
-      "summary": "«Elle m’a dit quelque chose qui m’a fait péter les plombs, j’ai vrillé, je voulais qu’elle se taise, je l’ai attrapée par le cou et j’ai serré», a-t-il déclaré, selon le procès-verbal de ses déclarations.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-21T18:10:55+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "f363ad82fd41"
     },
     {
       "title": "Interdiction des réseaux sociaux aux moins de 15 ans, téléphones bannis au lycée… Ce que contient la loi largement adoptée par le Parlement",
@@ -61,16 +211,6 @@
       "source": "Le Monde Politique",
       "category": "Politique",
       "id": "83e05a8cfb3e"
-    },
-    {
-      "title": "La ministre de la Transition écologique Monique Barbut sur le point de présenter sa démission à Emmanuel Macron",
-      "url": "https://www.liberation.fr/environnement/biodiversite/monique-barbut-une-discrete-ministre-de-la-transition-ecologique-au-bord-dune-demission-fracassante-20260721_7HMBXT2W6ZHARKVK44ABPIIINA/",
-      "summary": "Ulcérée par la réintroduction de l’acétamipride dans le cadre de la loi d’urgence agricole et par le volet eau du texte adopté ce mardi, l’économiste spécialiste de la diplomatie environnementale devrait présenter sa démission au président de la République avant le Conseil des ministres mercredi.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-21T17:58:19+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "1ed016f0bb8c"
     },
     {
       "title": "Interdiction des réseaux sociaux aux moins de 15 ans : le texte adopté au Parlement, une victoire pour Macron",
@@ -113,16 +253,6 @@
       "id": "af2d83265575"
     },
     {
-      "title": "EN DIRECT - La loi d’urgence agricole et sa réintroduction des pesticides votée au Sénat, le texte définitivement adopté",
-      "url": "https://www.liberation.fr/environnement/agriculture/en-direct-protestations-contre-la-loi-durgence-agricole-sebastien-lecornu-denonce-une-instrumentalisation-a-des-fins-politiciennes-20260721_IGEY5TX33JDVTJBEFEFU4ERK4U/",
-      "summary": "Le texte réautorisant l’utilisation de deux pesticides a été adopté par l’Assemblée lors d’une séance houleuse dans la nuit de lundi à mardi. La majorité gouvernementale s’est fracturée, Gabriel Attal s’en prenant vivement au Premier ministre. La ministre de la Transition écologique pourrait démissionner.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-21T17:30:44+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "4ca7b2cfc05f"
-    },
-    {
       "title": "Donald Trump promet de « beaucoup aider » le Liban en recevant le président Joseph Aoun",
       "url": "https://www.lemonde.fr/international/article/2026/07/21/donald-trump-promet-de-beaucoup-aider-le-liban-en-recevant-le-president-joseph-aoun_6729108_3210.html",
       "summary": "La visite de Joseph Aoun est la première d’un président libanais à Washington depuis 2009, au moment où un accord avec Israël, parrainé par les Etats-Unis, entre dans sa première phase. Dans le bureau Ovale, M. Aoun a appelé Donald Trump à « continuer de soutenir » l’armée libanaise.",
@@ -145,7 +275,7 @@
     {
       "title": "Le Sénat a définitivement adopté le projet de loi d’urgence agricole, avec son volet controversé sur les pesticides",
       "url": "https://www.lemonde.fr/planete/article/2026/07/21/le-senat-a-definitivement-adopte-le-projet-de-loi-d-urgence-agricole-avec-son-volet-controverse-sur-les-pesticides_6728500_3245.html",
-      "summary": "Adopté à l’Assemblée nationale lundi, ce texte balaie de nombreux sujets à travers près de 70 articles de loi, mais une mesure du texte cristallise les débats : la réintroduction à titre dérogatoire et sous conditions deux pesticides interdits, l’acétamipride et le flupyradifurone.",
+      "summary": "Adopté à l’Assemblée nationale lundi, ce texte balaie de nombreux sujets à travers près de 70 articles de loi, mais une mesure du texte cristallise les débats : la réintroduction à titre dérogatoire et sous condition de deux pesticides interdits, l’acétamipride et le flupyradifurone.",
       "image": "https://img.lemde.fr/2026/07/21/684/0/8192/4096/644/322/60/0/c49e69b_ftp-1-rojq4zciasn1-5675499-01-06.jpg",
       "published_at": "2026-07-21T19:28:41+02:00",
       "source": "Le Monde Politique",
@@ -171,136 +301,6 @@
       "source": "Libération",
       "category": "Culture",
       "id": "ac7e552fd372"
-    },
-    {
-      "title": "Incendies : les deux pompiers morts en Gironde étaient à bord d'un camion \"piégé\" par les flammes, selon le directeur du Sdis",
-      "url": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-cinq-departements-du-pourtour-mediterraneen-place-en-risque-tres-eleve-de-feux_8115884.html#xtor=RSS-3-[lestitres]",
-      "summary": "Au total, 120 personnes, 60 engins et trois moyens aériens ont été mobilisés pour combattre ce feu de bâtiment survenu près de l'aéroport de Mérignac. Marc Vermeulen, directeur du Sdis 33, assure que le feu est maintenant fixé.",
-      "image": "https://www.franceinfo.fr/pictures/kXjgjFtXwaP8b6jzPWm86ZJIAhc/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/21/6a5fa56edc0bf036113866.jpg",
-      "published_at": "2026-07-21T19:17:08+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "c60560daa540"
-    },
-    {
-      "title": "Bande de Gaza : les secours recensent 12 personnes tuées par des bombardements israéliens, dont six membres d’une même famille",
-      "url": "https://www.lemonde.fr/international/article/2026/07/21/bande-de-gaza-les-secours-recensent-12-personnes-tuees-par-des-bombardements-israeliens-dont-six-membres-d-une-meme-famille_6729074_3210.html",
-      "summary": "Le Haut-Commissariat des Nations unies aux droits de l’homme a dénoncé, mardi, une récente « intensification » des attaques israéliennes dans la bande de Gaza, qui ont fait selon lui au moins 57 morts entre le 13 et le 20 juillet.",
-      "image": "https://img.lemde.fr/2026/07/21/853/0/5472/2736/644/322/60/0/5bdeda5_ftp-1-u2xmlh4xli1z-2026-07-21t095756z-1163311390-rc28imay7z5n-rtrmadp-3-israel-palestinians-gaza.JPG",
-      "published_at": "2026-07-21T19:13:37+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "809398100c16"
-    },
-    {
-      "title": "Barbara Butch témoigne après l’interruption de son concert à Grenoble : «L’antisémitisme a pris un autre visage»",
-      "url": "https://www.liberation.fr/culture/barbara-butch-temoigne-apres-linterruption-de-son-concert-a-grenoble-lantisemitisme-a-pris-un-autre-visage-20260721_B44ODU67EJCJBBLGS4K5QFMJTM/",
-      "summary": "La DJ queer a dû interrompre sa performance samedi 18 juillet au Cabaret frappé sous les huées et les projectiles : déjà ciblée par l’extrême droite, elle est désormais harcelée par des militants LFI et propalestiniens. Pour «Libé», elle revient sur ce violent incident et répond aux critiques.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-21T17:07:17+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "5adc23d3463f"
-    },
-    {
-      "title": "Loi d’urgence agricole, incendies en Gironde et dans le Var, maire d’Alès exfiltré… L’actu de ce 21 juillet",
-      "url": "https://www.liberation.fr/international/europe/loi-durgence-agricole-incendies-en-gironde-et-dans-le-var-maire-dales-exfiltre-lactu-de-ce-21-juillet-20260721_KC4K467JYNDHZEO64PTADES6LI/",
-      "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée du mardi 21 juillet",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-21T17:03:52+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "038a712d4827"
-    },
-    {
-      "title": "La chanteuse et actrice Lio présidera le jury de la révélation du Festival de Deauville",
-      "url": "https://www.franceinfo.fr/culture/cinema/festival-de-deauville/la-chanteuse-et-actrice-lio-presidera-le-jury-de-la-revelation-du-festival-de-deauville_8116838.html#xtor=RSS-3-[lestitres]",
-      "summary": "Lio sera aux côtés de Roschdy Zem, nommé président du jury de cette 52ème édition du Festival du cinéma américain de Deauville, organisé du 4 au 13 septembre.",
-      "image": "https://www.franceinfo.fr/pictures/rbpAquDax41tLuXOvg0lvL56E0M/0x391:7488x4603/432x243/filters:format(jpg):quality(50)/2026/07/21/6a5fa5268942d359925985.jpg",
-      "published_at": "2026-07-21T18:58:51+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "606e603b60b5"
-    },
-    {
-      "title": "Projet de loi de protection de l’enfance : l’Assemblée nationale adopte la perpétuité pour viols en série sur mineurs",
-      "url": "https://www.liberation.fr/societe/police-justice/projet-de-loi-de-protection-de-lenfance-lassemblee-nationale-adopte-la-perpetuite-pour-viols-en-serie-sur-mineurs-20260721_7CGKYM4LVNBB7JA65I45THEMJY/",
-      "summary": "Initialement rejeté, l’amendement du gouvernement sur la perpétuité pour les viols sériels sur mineurs, objet d’une nouvelle délibération ce mardi, a finalement été adopté par les députés.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-21T16:57:38+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "86fd2e9d84ff"
-    },
-    {
-      "title": "L’Odyssée : pensant tourner avec 20 personnes, Matt Damon se fait charger par 500 soldats en pleine nuit",
-      "url": "https://www.numerama.com/pop-culture/2299015-lodyssee-pensant-tourner-avec-20-personnes-matt-damon-se-fait-charger-par-500-soldats-en-pleine-nuit.html",
-      "summary": "Pour la prise de Troie dans L'Odyssée, Christopher Nolan n'a pas lésiné sur la figuration. Alors qu'il pensait tourner un face-à-face à petite échelle, Matt Damon s'est retrouvé submergé par une marée humaine propulsée dans le noir complet.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-21T16:55:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "e68db85698a3"
-    },
-    {
-      "title": "La réforme du sport professionnel, visant notamment les dérives dans le football, adoptée par le Parlement",
-      "url": "https://www.lemonde.fr/sport/article/2026/07/21/la-reforme-du-sport-professionnel-visant-notamment-les-derives-dans-le-football-adoptee-par-le-parlement_6729039_3242.html",
-      "summary": "Le texte, porté par le sénateur (Union centriste) du Val-de-Marne Laurent Lafon, a été voté par le Sénat, mardi, au lendemain de son adoption par l’Assemblée nationale. Il faudra toutefois s’armer de patience pour en voir les premiers effets.",
-      "image": "https://img.lemde.fr/2026/07/21/345/0/6000/3000/644/322/60/0/9c8a71d_upload-1-5stvlgfg3smh-000-88xh83v.jpg",
-      "published_at": "2026-07-21T18:48:44+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "4be3bc29293c"
-    },
-    {
-      "title": "Près de 150 évacuations, 350 hectares parcourus, 600 sapeurs-pompiers sur place, un incendie d'ampleur dans le Var",
-      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/brignoles/video-tres-forte-intensite-du-foyer-un-nouvel-incendie-se-declare-pres-de-brignoles-dans-le-var-des-evacuations-en-cours-3389887.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Var est en proie aux flammes depuis plusieurs jours. À Pontevès, un feu prend de l'ampleur ce mardi 21 juillet et progresse vers Cotignac. Six maisons sont touchées, dont deux qui ont complètement brûlé. Des routes sont fermées et des évacuations ont eu lieu à Sillans-la-Cascade et Cotignac. De très importants moyens de secours ont été déployés.",
-      "image": "https://www.franceinfo.fr/pictures/DV--Vri3lVxC8v4Hx5vl9a63rpA/432x243/filters:format(jpg):quality(50)/2026/07/21/6a5f75c9e355b171020529.png",
-      "published_at": "2026-07-21T18:44:17+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "c35b9bc7b62c"
-    },
-    {
-      "title": "Jean-Christophe Folly, acteur de «Gavagai» : l’élégant dans la pièce",
-      "url": "https://www.liberation.fr/culture/cinema/jean-christophe-folly-acteur-mu-par-les-oeuvres-qui-nont-pas-de-reponses-mais-qui-cherchent-20260721_YNEODHGLMRBZBH3HVYJX7CDGZA/",
-      "summary": "L’artiste touche à tout s’est retrouvé dans la volonté du réalisateur, Ulrich Köhler, de faire un film non manichéen.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-07-21T16:43:00+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "032f2788b780"
-    },
-    {
-      "title": "Sur le Tour de France, une vague «massive» et «inédite» de contrôles antidopage : «On a l’impression d’être en 98»",
-      "url": "https://www.liberation.fr/sports/cyclisme/sur-le-tour-de-france-une-vague-massive-et-inedite-de-controles-antidopage-on-a-limpression-detre-en-98-20260721_COETBKVZTRE67IQRIQFIPSZE4Y/",
-      "summary": "Tous les coureurs de toutes les équipes engagées ont subi des contrôles antidopage lundi soir, selon les informations de «Libé», qui peut également révéler qu’un coureur de la Bahrain-Victorious a été contrôlé en première semaine, à 5 heures du matin.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-21T16:39:51+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "5032e3956a4e"
-    },
-    {
-      "title": "Tour de France 2026 : à Thonon-les-Bains, Evenepoel maître des horloges, Seixas dans les temps",
-      "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-2026-a-thonon-les-bains-evenepoel-maitre-des-horloges-seixas-dans-les-temps-20260721_CZOEIQ7LFNBEZEA73AREL2PI6U/",
-      "summary": "Lors du contre-la-montre ce mardi 21 juillet en Haute-Savoie, les favoris ont répondu présent après une journée de repos marquée par des contrôles antidopage massifs.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-21T16:34:03+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "9f364b72049c"
-    },
-    {
-      "title": "Tour de France : le Belge Remco Evenepoel écrase le contre-la-montre et reprend 28 secondes à Tadej Pogacar, Paul Seixas quatrième",
-      "url": "https://www.franceinfo.fr/tour-de-france/le-belge-remco-evenepoel-ecrase-le-contre-la-montre-de-la-16e-etape-du-tour-de-france-et-reprend-28-secondes-au-maillot-jaune-tadej-pogacar-paul-seixas-quatrieme_8116673.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Belge, champion olympique de la discipline, s'est montré le plus rapide, mardi, lors du chrono entre Evian-les-Bains et Thonon-les-Bains, alors que Florian Lipowitz, cinquième ce matin, a chuté et abandonné.",
-      "image": "https://www.franceinfo.fr/pictures/lWU15LpCXRLV2okNjqIjEnG9pyc/0x94:3616x2128/432x243/filters:format(jpg):quality(50)/2026/07/21/6a5f9237e272f041556676.jpg",
-      "published_at": "2026-07-21T18:34:02+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "80c828fe165b"
     }
   ]
 }
