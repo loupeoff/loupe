@@ -1,306 +1,306 @@
 {
-  "generated_at": "2026-07-22T11:55:27.154824+00:00",
+  "generated_at": "2026-07-22T14:15:07.019844+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Coup dur pour Tesla : le FSD ne sera pas autorisé en France",
+      "url": "https://www.numerama.com/vroom/2299755-coup-dur-pour-tesla-le-fsd-ne-sera-pas-autorise-en-france.html",
+      "summary": "Dans une vidéo officielle publiée sur le site de participation citoyenne, le ministre des Transports, Philippe Tabarot, explique que le Tesla FSD ne sera pas autorisé en France comme il l'a été aux Pays-Bas et dans d'autres pays sous le principe de reconnaissance mutuelle. Le gouvernement juge le système encore trop dangereux, même s'il reconnaît le progrès technologique.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-22T14:10:48+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "269491d8f7d7"
+    },
+    {
+      "title": "Restrictions d’eau : la Coordination rurale appelle les agriculteurs à ne pas respecter les interdictions",
+      "url": "https://www.liberation.fr/environnement/agriculture/restrictions-deau-la-coordination-rurale-appelle-les-agriculteurs-a-ne-pas-respecter-les-interdictions-20260722_47RJB25VRVFYDOFF7KLJ67ZEXU/",
+      "summary": "Galvanisé par l’adoption de la loi d’urgence agricole, le deuxième syndicat du secteur généralise des appels déjà lancés dans le Sud-Ouest. Il dénonce une gestion de l’eau jugée trop contraignante.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-22T14:10:18+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "7e376a7fd8fa"
+    },
+    {
+      "title": "Une information judiciaire pour meurtre ouverte après une rixe à l'arme blanche à Mantes-la-Jolie",
+      "url": "https://www.franceinfo.fr/faits-divers/une-information-judiciaire-pour-meurtre-ouverte-apres-une-rixe-a-l-arme-blanche-a-mantes-la-jolie_8117975.html#xtor=RSS-3-[lestitres]",
+      "summary": "Sur les cinq personnes interpellées dans les Yvelines, quatre ont été mises en examen.",
+      "image": "https://www.franceinfo.fr/pictures/P3xbBfS56wRxaYBXf2Ta4Qlm6EM/432x243/filters:format(jpg):quality(50)/2026/06/15/6a2fc32c5972f146590233.jpg",
+      "published_at": "2026-07-22T16:09:13+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "a0ae59c0b003"
+    },
+    {
+      "title": "Après une hausse de prix, l’excellente Apple TV 4K tombe enfin en promotion",
+      "url": "https://www.numerama.com/pop-culture/2299503-apres-une-hausse-de-prix-lexcellente-apple-tv-4k-tombe-enfin-en-promotion.html",
+      "summary": "[Deal du jour] L’Apple TV 4K est l’une des meilleures box multimédia du marché, mais se trouve rarement en promotion. Le modèle Wi-Fi 64 Go bénéficie actuellement d’une réduction chez Boulanger, alors qu’Apple a augmenté son prix.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-07-22T14:05:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "6792e22a6bfa"
+    },
+    {
+      "title": "A 100 km de Madrid, 32 000 hectares brûlés et l’angoisse d’un feu «féroce et sauvage»",
+      "url": "https://www.liberation.fr/international/europe/a-100-km-de-madrid-32-000-hectares-brules-et-langoisse-dun-feu-feroce-et-sauvage-20260722_X5BLAFDZ5NHNNO7WDKYGG4IWJM/",
+      "summary": "L’incendie en Espagne se propage à une vitesse inédite. 1 200 habitants ont été évacués et accueillis dans des gymnases. Pour eux, le réchauffement climatique en est la cause, ce que confirme le Premier ministre.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-22T13:59:41+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "09598a7b2aba"
+    },
+    {
+      "title": "Dans une crèche illégale, douze enfants découverts entassés dans une voiture au sous-sol d'une maison",
+      "url": "https://www.franceinfo.fr/france/ile-de-france/essonne/creche-illegale-a-yerres-12-enfants-retrouves-entasses-dans-une-voiture_8117888.html#xtor=RSS-3-[lestitres]",
+      "summary": "À Yerres, dans l'Essonne, des policiers ont découvert 12 enfants entassés dans une voiture au sous-sol d'une maison, improvisée en crèche. Parmi eux, des nourrissons en pleurs. Les deux assistantes maternelles ont été placées sous contrôle judiciaire et seront jugées en septembre.",
+      "image": "https://www.franceinfo.fr/pictures/WLPCcVUlZhfn8WJudjnVUhiOh7E/0x140:1644x1065/432x243/filters:format(jpg):quality(50)/2026/07/22/6a60b5f6c51c3639874745.png",
+      "published_at": "2026-07-22T15:57:57+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "bf8a54acaf79"
+    },
+    {
+      "title": "Pendant la canicule du mois de juin, \"5 764 décès en excès\" ont été recensés, selon Santé publique France",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/pendant-la-canicule-du-mois-de-juin-5-764-deces-en-exces-ont-ete-recenses-selon-sante-publique-france_8117681.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ce bond de la mortalité \"toutes causes\" ne peut cependant pas encore être imputé avec certitude à la chaleur.",
+      "image": "https://www.franceinfo.fr/pictures/lhcIFIi3rOcG7bREyAeNyfK4Pu0/0x52:1024x628/432x243/filters:format(jpg):quality(50)/2026/07/22/6a608b396b61b758171273.jpg",
+      "published_at": "2026-07-22T15:56:40+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "04be15dbd49c"
+    },
     {
       "title": "Le film L’Odyssée est né grâce à un chien… et c’est Nolan qui le dit",
       "url": "https://www.numerama.com/pop-culture/2299511-le-film-lodyssee-est-ne-grace-a-un-chien-et-cest-nolan-qui-le-dit.html",
       "summary": "On le croyait obsessionnel du gigantisme, adepte des décors pharaoniques et des concepts scientifiques complexes. Pourtant, c’est une émotion d’une simplicité désarmante qui a scellé le destin de L'Odyssée. Christopher Nolan l'avoue lui-même : s'il a fini par porter le chef-d'œuvre d'Homère à l'écran, c'est avant tout grâce à un chien.",
       "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-07-22T11:50:00+00:00",
+      "published_at": "2026-07-22T13:52:00+00:00",
       "source": "Numerama",
       "category": "Culture",
       "id": "2a4eeb6c0d74"
     },
     {
-      "title": "Incendies en Espagne : 32 000 hectares brûlés au nord de Madrid, où « les fronts » du feu « se sont réduits »",
-      "url": "https://www.lemonde.fr/planete/article/2026/07/22/incendies-en-espagne-32-000-hectares-brules-au-nord-de-madrid-ou-les-fronts-du-feu-se-sont-reduits_6730032_3244.html",
-      "summary": "Le président de la région de Castille-La-Manche dit espérer pouvoir circonscrire l’incendie qui fait rage dans la province de Guadalajara, d’ici jeudi.",
-      "image": "https://img.lemde.fr/2026/07/22/500/0/6000/3000/644/322/60/0/3b69bea_ftp-1-xlozknjzbyac-5679738-01-06.jpg",
-      "published_at": "2026-07-22T13:49:25+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "92dba74cca7f"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : Marco Rubio, le secrétaire d’Etat américain, affirme « souhaiter que cette guerre prenne fin »",
-      "url": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-en-ukraine-marco-rubio-le-secretaire-d-etat-americain-affirme-souhaiter-que-cette-guerre-prenne-fin_6725306_3210.html",
-      "summary": "Le secrétaire d’Etat américain, qui a dit avoir échangé brièvement avec le chef de la diplomatie russe, Sergueï Lavrov, lors d’un dîner de gala mardi, a confirmé qu’ils allaient parler de l’Ukraine jeudi, lors d’une rencontre à Manille.",
-      "image": "https://img.lemde.fr/2026/07/22/381/0/7750/3875/644/322/60/0/03ae4d7_ftp-1-auz9ptuc8urq-388b475b98254cdda0103bdd84f12d33-0-baaffbf2cebb4991afc4daeee3badffd.jpg",
-      "published_at": "2026-07-22T13:42:05+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "2dc83ca32086"
-    },
-    {
-      "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran dénonce les « attaques répétées » et les « menaces » des Etats-Unis contre ses installations nucléaires civiles",
-      "url": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-au-moyen-orient-l-iran-denonce-les-attaques-repetees-et-les-menaces-des-etats-unis-contre-ses-installations-nucleaires-civiles_6725301_3210.html",
-      "summary": "Les activités nucléaires de l’Iran ont été « intégralement déclarées » à l’AIEA, conformément à ses obligations, a affirmé Esmaeil Baghaei, porte-parole du ministère des affaires étrangères iranien.",
-      "image": "https://img.lemde.fr/2026/07/22/468/0/5500/2750/644/322/60/0/04bb3fd_ftp-1-aeyueltatlas-2026-07-22t075954z-1694554901-rc2d4ma8y8pr-rtrmadp-3-usa-trump-iran.JPG",
-      "published_at": "2026-07-22T13:38:02+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "f05c91d539da"
-    },
-    {
-      "title": "Ebola : le bilan de l’épidémie dépasse désormais les 1 000 morts en RDC et en Ouganda, selon l’OMS",
-      "url": "https://www.lemonde.fr/afrique/article/2026/07/22/ebola-le-bilan-de-l-epidemie-depasse-desormais-les-1-000-morts-en-rdc-et-en-ouganda-selon-l-organisation-mondiale-de-la-sante_6730028_3212.html",
-      "summary": "« L’épidémie conserve une longueur d’avance sur nous et nous sommes encore dans une phase où nous tentons de rattraper son évolution », avait déclaré mardi Thierno Baldé, un responsable de l’Organisation mondiale de la santé.",
-      "image": "https://img.lemde.fr/2026/06/26/333/0/4000/2000/644/322/60/0/662b4fc_upload-1-qmtu1rweknj3-31-pb-lemonde-ebola-mongbwalu-ituri-rdc.jpg",
-      "published_at": "2026-07-22T13:25:09+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "52c6cfdda9cd"
-    },
-    {
-      "title": "Plas Johnson, le saxophoniste de \"La Panthère rose\", est mort à 94 ans",
-      "url": "https://www.franceinfo.fr/culture/cinema/plas-johnson-le-saxophoniste-de-la-panthere-rose-est-mort-a-94-ans_8117804.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le compositeur Henry Mancini, qui signe la partition de \"La Panthère rose\", avait composé un solo sur mesure pour le musicien.",
-      "image": "https://www.franceinfo.fr/pictures/Lz1uqBROqvp50VloiRP_aFrwJa4/0x49:684x434/432x243/filters:format(jpg):quality(50)/2026/07/22/6a60a2d51e6c5286420187.jpg",
-      "published_at": "2026-07-22T13:24:58+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "2abb04b16e7e"
-    },
-    {
-      "title": "EN DIRECT - Forêts, eau, santé environnementale… Les trois dossiers pour lesquels Monique Barbut reste finalement ministre de la Transition écologique",
-      "url": "https://www.liberation.fr/environnement/en-direct-forets-eau-sante-environnementale-les-trois-points-pour-lesquels-monique-barbut-reste-finalement-ministre-de-la-transition-ecologique-20260722_YIBZO5QWYNBXXKPR22NXXILPGY/",
-      "summary": "Opposée à la réintroduction de deux pesticides dans la loi d’urgence agricole, elle avait dénoncé « le recul environnemental de trop » pour justifier sa décision de démissionner.",
+      "title": "Pfas : l’Autorité européenne de sécurité alimentaire durcit son avis sur le TFA, un polluant éternel massivement présent dans l’eau potable",
+      "url": "https://www.liberation.fr/environnement/pollution/pfas-lautorite-europeenne-de-securite-alimentaire-durcit-son-avis-sur-le-tfa-un-polluant-eternel-massivement-present-dans-leau-potable-20260722_SMB4POI4DVGPHHGMU5GDDSJTCY/",
+      "summary": "Sur la base de nouveaux travaux scientifiques, l’Autorité européenne de sécurité des aliments a fortement abaissé ce mercredi 22 juillet la dose limite d’exposition de l’acide trifluoroacétique. De quoi ouvrir la voie à des contrôles plus stricts sur le continent.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-22T11:24:22+00:00",
+      "published_at": "2026-07-22T13:47:33+00:00",
       "source": "Libération",
       "category": "Politique",
-      "id": "af6df9eb5eee"
+      "id": "aa68afca9448"
     },
     {
-      "title": "Tour de France 2026 : le revanchard Evenepoel, le prodige Seixas, l'équipier Del Toro... Une lutte électrique entre trois hommes pour le podium",
-      "url": "https://www.franceinfo.fr/tour-de-france/tour-de-france-2026-le-revanchard-evenepoel-le-prodige-seixas-l-equipier-del-toro-une-lutte-electrique-entre-trois-hommes-pour-le-podium_8116367.html#xtor=RSS-3-[lestitres]",
-      "summary": "Avec les abandons de Jonas Vingegaard et Florian Lipowitz, la lutte s'est resserrée à trois hommes pour le podium final, derrière l'intouchable Tadej Pogacar.",
-      "image": "https://www.franceinfo.fr/pictures/jzOOa8_GPeJKb8BuRHV_7uFfG9s/0x0:2000x1125/432x243/filters:format(jpg):quality(50)/2026/07/21/6a5f5f762602f574730673.png",
-      "published_at": "2026-07-22T13:20:52+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "0704c77451b7"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : le baril de pétrole repasse la barre des 95 dollars",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-armee-americaine-a-lance-des-frappes-contre-des-cibles-iraniennes-pour-la-onzieme-nuit-consecutive_8117363.html#xtor=RSS-3-[lestitres]",
-      "summary": "C'est une première depuis près de six semaines. Les hostilités au Moyen-Orient font craindre un blocage durable des exportations d'hydrocarbures de la région.",
-      "image": "https://www.franceinfo.fr/pictures/X5vpjK53Y2Tni_e-rHnva9a4Bgw/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/22/6a60a692bd93c041679210.jpg",
-      "published_at": "2026-07-22T13:17:02+02:00",
+      "title": "TotalEnergies remet en place le plafonnement sur l'essence à 1,99 euro le litre dans toutes ses stations-service de France hexagonale",
+      "url": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/totalenergies-remet-en-place-le-plafonnement-sur-l-essence-a-1-99-euro-le-litre-dans-toutes-ses-stations-service-de-france-hexagonale_8117963.html#xtor=RSS-3-[lestitres]",
+      "summary": "Une opération commerciale relancée alors que le conflit au Moyen-Orient reprend entre l'Iran et les États-Unis et fait grimper les cours du pétrole.",
+      "image": "https://www.franceinfo.fr/pictures/SsiIwNrbqOrFgU2sJdcRI4lQhf0/0x0:7479x4206/432x243/filters:format(jpg):quality(50)/2026/05/09/69ff53adc63fc787289463.jpg",
+      "published_at": "2026-07-22T15:45:54+02:00",
       "source": "France Info",
       "category": "Économie",
-      "id": "414c1509b6bf"
+      "id": "761d6b860bff"
     },
     {
-      "title": "«L’épidémie explose et nous sommes abandonnés» : en République démocratique du Congo, le virus Ebola prend les soignants de vitesse",
-      "url": "https://www.liberation.fr/international/afrique/lepidemie-explose-et-nous-sommes-abandonnes-en-republique-democratique-du-congo-le-virus-ebola-prend-les-soignants-de-vitesse-20260722_5G7WXOP6FBDY7EX5SUMGE5JLAE/",
-      "summary": "Malgré les promesses du gouvernement congolais comme de la communauté internationale, les financements manquent toujours pour endiguer la contamination. Faute d’être payé, le personnel local s’est mis en grève, alors que la situation est déjà hors contrôle.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-22T11:16:11+00:00",
+      "title": "La galerie d'Apollon rouvre, sans ses joyaux, neuf mois après le cambriolage du Louvre",
+      "url": "https://www.franceinfo.fr/culture/arts-expos/louvre/la-galerie-d-apollon-rouvre-sans-ses-joyaux-neuf-mois-apres-le-cambriolage-du-louvre_8117939.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Ce n'est pas une galerie vide, c'est la galerie dans son usage, dans sa fonction du XVIIe siècle, de déambulation\", a insisté le directeur du Louvre Christophe Leribault.",
+      "image": "https://www.franceinfo.fr/pictures/_mHhZ9mjgaCi1DZ2EsqL7nG-vGo/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/22/6a60c2db013b3258253496.jpg",
+      "published_at": "2026-07-22T15:39:18+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "d9852d1433f0"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : TotalEnergies va de nouveau plafonner le prix de ses carburants en France",
+      "url": "https://www.liberation.fr/economie/transports/guerre-au-moyen-orient-totalenergies-va-de-nouveau-plafonner-le-prix-de-ses-carburants-en-france-20260722_FUTBFQGJZVC4FOJUYVWB5SLLV4/",
+      "summary": "Le groupe français va limiter le litre d’essence à 1,99 euros et celui de diesel à 2,25 euros.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-07-22T13:30:37+00:00",
       "source": "Libération",
-      "category": "Politique",
-      "id": "3c06e7a47311"
+      "category": "Économie",
+      "id": "f0a1d67fd137"
     },
     {
-      "title": "Déserté par les touristes à cause de la guerre, Dubaï propose 700 euros de ristournes à ses résidents pour qu’ils invitent leurs proches",
-      "url": "https://www.liberation.fr/international/deserte-par-les-touristes-a-cause-de-la-guerre-dubai-propose-700-euros-de-ristournes-a-ses-residents-pour-quils-invitent-leurs-proches-20260722_5VZFZPXTRBD6BFUEGTDF2FFZNQ/",
-      "summary": "Destination d’ordinaire la plus courue du Golfe persique, les Emirats arabes unis ont vu leur image entachée par les frappes sur son sol, prise en étau entre les attaques iraniennes et les répliques de son allié américain. De quoi l’enjoindre à user d’une politique incitative pour faire revenir les touristes.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-22T11:14:36+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "9e1bcfc50cf3"
-    },
-    {
-      "title": "Juste avant sa retraite, ce booster de SpaceX fournit un élixir de jeunesse à de vieux satellites",
-      "url": "https://www.numerama.com/sciences/2299359-juste-avant-sa-retraite-ce-booster-de-spacex-fournit-un-elixir-de-jeunesse-a-de-vieux-satellites.html",
-      "summary": "Lors de son 32e et dernier vol, un booster de Falcon 9 (SpaceX) a mis en orbite un vaisseau qui doit aller à la rencontre de plusieurs satellites pour prolonger leur vie. Une mission rare, et techniquement plutôt complexe.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-22T11:10:00+00:00",
+      "title": "Z Fold 8, Z Flip 8 et Watch 9 : toutes les annonces Samsung Galaxy en direct",
+      "url": "https://www.numerama.com/tech/2299225-galaxy-z-fold-8-les-annonces-en-direct-de-la-conference-samsung.html",
+      "summary": "Samsung a tenu sa conférence Galaxy Unpacked ce mercredi 22 juillet 2026 à Londres. Le constructeur y a dévoilé trois pliants, dont un Galaxy Z Fold 8 au format passeport, un Galaxy Z Fold 8 Ultra qui succède au Fold 7 et un Galaxy Z Flip 8, sans oublier ses montres Galaxy Watch 9 et Watch Ultra 2. Voici le résumé de toutes les annonces, nos articles et où précommander chaque produit.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-22T13:30:14+00:00",
       "source": "Numerama",
-      "category": "Politique",
-      "id": "cbf05237fb34"
+      "category": "Sport",
+      "id": "14ba364bbb6b"
     },
     {
-      "title": "Incendies : une BD jeunesse de Pénélope Bagieu en hommage aux Canadair",
-      "url": "https://www.liberation.fr/culture/livres/incendies-une-bd-jeunesse-de-penelope-bagieu-en-hommage-aux-canadair-20260722_JQ5SRXDO5ZAUHGSBNBVXVLLYOM/",
-      "summary": "La bédéaste est passionnée depuis longtemps par les Canadair, Dash et autres Beech, destinés à éteindre nos incendies. Elle en a tiré un livre-documentaire très complet et pédagogique sur le travail des pilotes et pompiers de la Sécurité civile, qu’elle est allée rencontrer sur leur base nîmoise.",
+      "title": "\"Cela concerne tous les milieux\" : plusieurs collaborateurs dans les ministères écartés après des tests de dépistage de drogue positifs, annonce Sébastien Lecornu",
+      "url": "https://www.franceinfo.fr/sante/drogue-addictions/cela-concerne-tous-les-milieux-plusieurs-collaborateurs-dans-les-ministeres-ecartes-apres-des-tests-de-depistage-de-drogue-positifs-annonce-sebastien-lecornu_8117894.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Premier ministre précise à \"Paris-Match\" avoir ordonné ces tests antidrogue \"pour des raisons d'exemplarité\", mais aussi et surtout \"pour des raisons de vulnérabilité\".",
+      "image": "https://www.franceinfo.fr/pictures/YqKjlmRHkG16RvRsEAg1XjkfrSw/0x184:3543x2177/432x243/filters:format(jpg):quality(50)/2026/07/22/6a60bdeb8fbdc297526142.jpg",
+      "published_at": "2026-07-22T15:29:18+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "aae653af7b2a"
+    },
+    {
+      "title": "Canicule : près de 6 000 morts de plus qu’attendu entre le 17 juin et le 2 juillet",
+      "url": "https://www.liberation.fr/societe/sante/canicule-pres-de-6-000-morts-de-plus-quattendu-entre-le-17-juin-et-le-2-juillet-20260722_YGX5JOYJPJEPHPRF3TYFS6HSKI/",
+      "summary": "Les données publiées ce mercredi 22 juillet par Santé publique France montrent que 5 764 personnes sont mortes toutes causes confondues. Elément «inédit», selon l’agence : la surmortalité a été constatée pour «toutes les classes d’âge à partir de 15 ans», avec une «augmentation marquée dès 45 ans».",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-22T11:08:50+00:00",
+      "published_at": "2026-07-22T13:29:02+00:00",
       "source": "Libération",
       "category": "Politique",
-      "id": "7fce1b3877bf"
+      "id": "9691c055568b"
     },
     {
-      "title": "Présidentielle 2027 : Jean-Luc Mélenchon tend une nouvelle fois la main aux Ecologistes en leur proposant un accord « global »",
-      "url": "https://www.lemonde.fr/politique/article/2026/07/22/presidentielle-2027-jean-luc-melenchon-propose-un-accord-global-aux-ecologistes-pour-unir-la-gauche_6730025_823448.html",
-      "summary": "« Nous ne renonçons pas à une stratégie unitaire. Notre main tendue, c’est la “Nouvelle alliance populaire” », a expliqué le candidat « insoumis » dans une interview au média écologiste en ligne « Reporterre ».",
-      "image": "https://img.lemde.fr/2026/07/14/425/0/2997/1498/644/322/60/0/5ae68b7_upload-1-gorg65lmxube-melenchon-paimpont-025.jpg",
-      "published_at": "2026-07-22T13:00:14+02:00",
+      "title": "Présomption d’usage légitime des armes par les forces de l’ordre : les députés classent la pétition",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/22/presomption-d-usage-legitime-des-armes-par-les-forces-de-l-ordre-les-deputes-classent-la-petition_6730036_3224.html",
+      "summary": "Selon le règlement de l’Assemblée, un débat dans l’hémicycle « peut être » organisé sur un rapport relatif à une pétition signée par plus de 500 000 personnes, mais une commission doit auparavant décider de la classer ou de l’examiner.",
+      "image": "https://img.lemde.fr/2026/07/22/443/0/8184/4092/644/322/60/0/50534ba_upload-1-bhpv4oia1ug7-000-74268lj.jpg",
+      "published_at": "2026-07-22T15:25:34+02:00",
       "source": "Le Monde Politique",
       "category": "Politique",
-      "id": "c325f779dc5c"
+      "id": "49dd18a05af7"
     },
     {
-      "title": "Algérie : Emmanuel Macron assure que la France n’a aucun « objectif chiffré » concernant le nombre de visas octroyés et nie tout « laxisme »",
-      "url": "https://www.lemonde.fr/afrique/article/2026/07/22/algerie-emmanuel-macron-assure-que-la-france-n-a-aucun-objectif-chiffre-concernant-le-nombre-de-visas-octroyes-et-nie-tout-laxisme_6730024_3212.html",
-      "summary": "« Le président de la République a tenu à corriger les propos de notre ambassadeur en Algérie, qui ont été très relayés ces derniers jours sur notamment le nombre de visas », a déclaré la parole du gouvernement.",
-      "image": "https://img.lemde.fr/2026/07/15/1050/0/7000/3500/644/322/60/0/28f0679_upload-1-8apr9hg9kzgl-kzihnioglu-pol-14-juillet-14072026-61.jpg",
-      "published_at": "2026-07-22T12:57:01+02:00",
+      "title": "Au Cambodge, Poipet, la cité casino, rattrapée par la répression contre l’industrie du « scam »",
+      "url": "https://www.lemonde.fr/international/article/2026/07/22/au-cambodge-poipet-la-cite-casino-rattrapee-par-la-repression-contre-l-industrie-du-scam_6730035_3210.html",
+      "summary": "A la frontière entre le pays khmer et la Thaïlande, Poipet, déjà connue pour ses jeux d’argent, est également devenue l’un des hauts lieux de la cyberfraude dans la région. La répression menée sous la pression de Pékin vide les bars et prive les habitants de leurs derniers revenus.",
+      "image": "https://img.lemde.fr/2026/07/17/504/0/6048/3024/644/322/60/0/44be1d5_upload-1-f7qthonw6ard-000-a9fu3nr.jpg",
+      "published_at": "2026-07-22T15:00:08+02:00",
       "source": "Le Monde Inter",
       "category": "Politique",
-      "id": "b730509fe80b"
+      "id": "da780a607b6a"
     },
     {
-      "title": "A la demande d'Emmanuel Macron, la ministre démissionnaire de la Transition écologique, Monique Barbut, reste finalement au gouvernement",
-      "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/le-recul-environnemental-de-trop-la-ministre-de-la-transition-ecologique-monique-barbut-demissionne-apres-l-adoption-definitive-de-la-loi-d-urgence-agricole_8117516.html#xtor=RSS-3-[lestitres]",
-      "summary": "Alors qu'elle dénonçait \"le recul environnemental de trop\" après le vote de la loi d'urgence agricole, la ministre a accepté de poursuivre sa mission \"face à l'urgence d'agir contre les conséquences du changement climatique\", selon son cabinet.",
-      "image": "https://www.franceinfo.fr/pictures/eSZIIgS2HnIqg4y2Nnz1DLa38Js/26x0:1018x558/432x243/filters:format(jpg):quality(50)/2026/07/22/6a606b7e3e00d359818900.jpg",
-      "published_at": "2026-07-22T12:56:43+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "597d013190b1"
-    },
-    {
-      "title": "«Un désaveu total» : les envies de départ de Monique Barbut ont exacerbé la colère de l’opposition",
-      "url": "https://www.liberation.fr/politique/un-desaveu-total-la-demission-annoncee-de-monique-barbut-attire-les-foudres-de-lopposition-contre-le-gouvernement-20260722_V7OEKET5OZDMTL3XBKRG6PSTQA/",
-      "summary": "L’annonce du départ, finalement refusé, de la ministre de la Transition écologique, mercredi 22 juillet, après le vote de la loi d’urgence agricole a entraîné des réactions dénonçant le texte controversé et le rôle du gouvernement Lecornu.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-22T10:56:16+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "118aad8e915c"
-    },
-    {
-      "title": "«Une ville en perdition» : à Alès, des habitants inquiets bien au-delà des menaces de la DZ mafia contre leur maire",
-      "url": "https://www.liberation.fr/societe/police-justice/une-ville-en-perdition-a-ales-des-habitants-inquiets-bien-au-dela-des-menaces-de-la-dz-mafia-contre-leur-maire-20260722_X2ZZZNKFWBBKTDXUHBIMIEUAEY/",
-      "summary": "Si l’exfiltration de Christophe Rivenq par le Raid inquiète certains, c’est surtout la confrontation croissante avec le trafic de drogue, la paupérisation ou encore les fermetures de commerces qui mettent en colère les habitants de cette ancienne cité industrielle, aux mains de la droite depuis trente ans.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-07-22T10:54:48+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "12c60dffc26b"
-    },
-    {
-      "title": "«Elle m’a dit que j’allais me tuer avec, donc je ne l’ai pas acheté» : un pantalon Zara accusé de faire tomber celles qui le portent",
-      "url": "https://www.liberation.fr/lifestyle/mode/elle-ma-dit-que-jallais-me-tuer-avec-donc-je-ne-lai-pas-achete-un-pantalon-zara-accuse-de-faire-tomber-celles-qui-le-portent-20260722_R6BO7KBLRBD3ZAGQHAE3TROIEE/",
-      "summary": "Un vêtement de la marque espagnole enflamme les réseaux sociaux en raison des chutes qu’il occasionne. Chocs à la tête, entorses, fractures… Les internautes alertent depuis fin juin sur une taille et une matière inadaptées.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-22T10:51:15+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "c7115870f902"
-    },
-    {
-      "title": "Incendie dans le Var : le feu n'est toujours pas fixé, le préfet évoque \"plusieurs foyers toujours actifs\"",
-      "url": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-400-personnes-evacuees-dans-le-var-a-annonce-la-prefecture-du-departement-dans-la-nuit-du-mardi-a-mercredi_8117357.html#xtor=RSS-3-[lestitres]",
-      "summary": "Plus d'un millier de soldats du feu sont mobilisés sur ce sinistre qui s'est déclaré mardi à la mi-journée à Pontevès, et a parcouru plus de 2 500 hectares.",
-      "image": "https://www.franceinfo.fr/pictures/Kmy7Q6fVsBDvAmQ89_pTjxpg_w0/0x642:7526x4876/432x243/filters:format(jpg):quality(50)/2026/07/22/6a60aa3ab7dc5412064243.jpg",
-      "published_at": "2026-07-22T12:47:24+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "082b1a84cfa7"
-    },
-    {
-      "title": "La maison natale d’Adolf Hitler, en Autriche, a été transformée en commissariat",
-      "url": "https://www.lemonde.fr/international/article/2026/07/22/la-maison-natale-d-adolf-hitler-en-autriche-a-ete-transformee-en-commissariat_6730023_3210.html",
-      "summary": "Les autorités autrichiennes espèrent en finir avec les pèlerinages à répétition des nostalgiques du nazisme devant la bâtisse de Braunau-sur-Inn.",
-      "image": "https://img.lemde.fr/2026/07/22/1238/0/7428/3714/644/322/60/0/5279810_ftp-1-qayark8zafhl-06d3cbb0aa6f4335b887d4e2f0a168ab-0-a837197f09804f82818043d1a1dabf76.jpg",
-      "published_at": "2026-07-22T12:45:54+02:00",
-      "source": "Le Monde Inter",
-      "category": "Sport",
-      "id": "75c99855a951"
-    },
-    {
-      "title": "Après Injustice, on va avoir un nouveau jeu de combat DC, mais pas là où on l’attendait",
-      "url": "https://www.numerama.com/pop-culture/2299383-apres-injustice-on-va-avoir-un-nouveau-jeu-de-combat-dc-mais-pas-la-ou-on-lattendait.html",
-      "summary": "DC a annoncé un nouveau jeu de combat qui réunit un beau casting de personnages cultes. Non, ce n’est pas Injustice 3.",
+      "title": "Samsung Galaxy Z Fold 8, Flip 8 et Watch : tous les prix et offres de précommande",
+      "url": "https://www.numerama.com/tech/2298947-samsung-galaxy-z-fold-8-flip-8-et-watch-tous-les-prix-et-offres-de-precommande.html",
+      "summary": "Samsung ne compte pas attendre l’iPhone pliant pour défendre son terrain. Le constructeur coréen lance deux Galaxy Z Fold aux formats différents, renouvelle son Flip et revoit presque tous ses tarifs à la hausse. Les précommandes des Galaxy Z Fold 8, Z Fold 8 Ultra, Z Flip 8, Watch 9 et Watch Ultra 2 sont désormais ouvertes.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-22T10:45:00+00:00",
+      "published_at": "2026-07-22T13:00:00+00:00",
       "source": "Numerama",
       "category": "Sport",
-      "id": "b766fb6b1265"
+      "id": "50bbc2e48d6d"
     },
     {
-      "title": "Présidentielle, budget : Sébastien Lecornu remet les pendules à l’Eure",
-      "url": "https://www.liberation.fr/politique/presidentielle-budget-sebastien-lecornu-remet-les-pendules-a-leure-20260722_3YN7KKXWOJADTFDUJK3PHOVFUU/",
-      "summary": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
+      "title": "Samsung passe enfin aux batteries silicium-carbone : la Chine avait raison",
+      "url": "https://www.numerama.com/tech/2298779-samsung-passe-enfin-aux-batteries-silicium-carbone-la-chine-avait-raison.html",
+      "summary": "Aucune rumeur ne l'avait vu venir : Samsung, avec ses Galaxy Z Fold 8 Ultra, Z Fold 8 et Z Flip 8, utilise pour la toute première fois des batteries avec des anodes en silicium-carbone. Une technologie jusqu'ici réservée aux constructeurs chinois, que Samsung et Apple semblaient fuir, principalement par prudence. Le Coréen estime que le moment est venu d'attaquer cette révolution.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "source": "Numerama",
+      "category": "International",
+      "id": "10a29968ac1a"
+    },
+    {
+      "title": "J’ai essayé le Samsung Galaxy Z Fold 8 au format passeport et j’en suis déjà fou",
+      "url": "https://www.numerama.com/tech/2299219-jai-essaye-le-samsung-galaxy-z-fold-8-au-format-passeport-et-jen-suis-deja-fou.html",
+      "summary": "Plus petit que les autres smartphones pliants avec son format presque carré, le Samsung Galaxy Z Fold 8 est un des premiers téléphones au format passeport, alors que de plus en plus de constructeurs semblent partis pour miser sur ce format. J'ai pu l'essayer pendant deux heures avant sa sortie et j'ai déjà hâte de le tester plus longuement.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-22T10:33:37+00:00",
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "812f33bc7006"
+    },
+    {
+      "title": "\"Les soirées sont compliquées, on devient parano\" : dans l'Oise, l'angoisse d'un élu menacé par les narcotrafiquants",
+      "url": "https://www.franceinfo.fr/societe/drogue/les-soirees-sont-compliquees-on-devient-parano-dans-l-oise-l-angoisse-d-un-elu-menace-par-les-narcotrafiquants_8117933.html#xtor=RSS-3-[lestitres]",
+      "summary": "Comment continuer à exercer son mandat quand on devient une cible des narcotrafiquants ? Dans l’Oise, un équipe de France Télévisions a retrouvé l'un des adjoints au maire de Villers-Saint-Paul, six mois après une attaque à l'explosif devant son domicile. Il raconte sa vie d'après.",
+      "image": "https://www.franceinfo.fr/pictures/EZCdRr0AuhX1oba7p8jN4WwBBso/0x135:1550x1007/432x243/filters:format(jpg):quality(50)/2026/07/22/6a60be7c81c1a215418865.png",
+      "published_at": "2026-07-22T14:58:47+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "0b624433ed84"
+    },
+    {
+      "title": "Volte-face de Monique Barbut au ministère de la Transition écologique : «Elle a avalé couleuvre sur couleuvre»",
+      "url": "https://www.liberation.fr/politique/il-est-difficile-de-rester-a-ce-poste-quand-on-a-de-lambition-monique-barbut-face-a-lepreuve-du-ministere-de-la-transition-ecologique-20260722_VVDR6DZLLFCJRB454NZODJL6GI/",
+      "summary": "Depuis 1971, les ministres chargés de l’Environnement défilent. Bastien François, le professeur de science politique à Paris I, revient pour «Libération» sur ce siège très éjectable.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-22T12:44:41+00:00",
       "source": "Libération",
       "category": "Politique",
-      "id": "6915176c4c37"
+      "id": "6d765197b169"
     },
     {
-      "title": "Dépassé par Anthropic et OpenAI, Google lance des modèles Gemini 3.6 et promet que Gemini 4 arrive",
-      "url": "https://www.numerama.com/tech/2299305-depasse-par-anthropic-et-openai-google-lance-des-modeles-gemini-3-6-et-promet-que-gemini-4-arrive.html",
-      "summary": "Google a lancé trois nouveaux modèles Gemini, dont Gemini 3.6 Flash, et confirme que Gemini 4 est déjà en préparation. L'entreprise tente ainsi de rester dans la course face à Anthropic et OpenAI, qui mènent la danse en matière d'intelligence artificielle.",
+      "title": "Le maire de New York, Zohran Mamdani, dit qu'il n'a pas la capacité juridique d'arrêter Benyamin Nétanyahou et appelle à l'action des autorités fédérales",
+      "url": "https://www.franceinfo.fr/monde/israel/le-maire-de-new-york-zohran-mamdani-dit-qu-il-n-a-pas-la-capacite-juridique-d-arreter-benyamin-netanyahou_8117867.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'élu démocrate envisageait de faire arrêter le Premier ministre israélien, visé par un mandat d'arrêt délivré par la Cour pénale internationale, s'il se rendait à l'Assemblée générale de l'ONU à New York en septembre.",
+      "image": "https://www.franceinfo.fr/pictures/iOup_kZzRu22Qc45ElyVAqAlNvk/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/22/6a60b2f0ddced299877071.jpg",
+      "published_at": "2026-07-22T14:44:01+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "560b7abcd902"
+    },
+    {
+      "title": "Daniel Siad, «recruteur présumé» de Jeffrey Epstein, retrouvé mort dans les Hauts-de-Seine",
+      "url": "https://www.liberation.fr/societe/police-justice/daniel-siad-recruteur-presume-de-jeffrey-epstein-retrouve-mort-dans-les-hauts-de-seine-20260722_SOQPI67HLVETRDJP3YLSFMW5FU/",
+      "summary": "L’Algéro-Suédois, ancien scout de mannequins et proche de Jean-Luc Brunel, aurait succombé à un arrêt cardiaque lundi, révèle ce mercredi 22 juillet «le Parisien». Il était visé depuis février par une plainte pour «viol» et «traite d’être humains».",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-22T12:39:11+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "1c3341648549"
+    },
+    {
+      "title": "Thomas Dekeyser : «Il est temps de sauter hors du train fou de l’Intelligence artificielle»",
+      "url": "https://www.liberation.fr/idees-et-debats/thomas-dekeyser-il-est-temps-de-sauter-hors-du-train-fou-de-lintelligence-artificielle-20260722_BLWA2HGM2JHW5BZYSNTUMCEKD4/",
+      "summary": "Souvent caricaturée en phobie technologique, la «techno-négativité» s’inspire de l’histoire des résistances technologiques pour proposer un répertoire d’action à l’ère des IA génératives, démontre le géographe Thomas Dekeyser.",
       "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-07-22T10:30:00+00:00",
+      "published_at": "2026-07-22T12:39:00+00:00",
+      "source": "Libération",
+      "category": "Tech",
+      "id": "a948fc42a675"
+    },
+    {
+      "title": "Tennis : la WTA oblige ses joueuses à passer des tests de genre pour participer à ses compétitions",
+      "url": "https://www.liberation.fr/sports/tennis/tennis-la-wta-oblige-ses-joueuses-a-passer-des-tests-de-genre-pour-participer-a-ses-competitions-20260722_Q4U5NQ46C5G3HDTWJCRUQ3BD3Q/",
+      "summary": "En introduisant à partir de mardi un test génétique obligatoire unique pour toutes les joueuses, l’instance du tennis féminin se calque sur la directive du CIO, elle-même calquée sur un décret de Trump, qui en a fait une condition pour participer aux JO de Los Angeles 2028.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-22T12:36:32+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "78ae71045c24"
+    },
+    {
+      "title": "\"Une mesure radicale, mais justifiée\" : pourquoi une portion de l'A13 sera fermée pendant neuf mois entre Paris et la Normandie à partir de mi-novembre",
+      "url": "https://www.franceinfo.fr/economie/transports/trafic/une-mesure-radicale-mais-justifiee-pourquoi-une-portion-de-l-a13-sera-fermee-pendant-neuf-mois-entre-paris-et-la-normandie-a-partir-de-mi-novembre_8117720.html#xtor=RSS-3-[lestitres]",
+      "summary": "Des travaux doivent permettre de consolider le tube Nord du tunnel au niveau de Saint-Cloud, à l'ouest de Paris. L'A13 sera même fermée dans les deux sens en juillet et août 2027, au moment où le trafic diminue, pour réaliser des travaux d'entretien.",
+      "image": "https://www.franceinfo.fr/pictures/TPOUhsltYqpCPKXmLr4iaHxCqJU/0x342:4737x3007/432x243/filters:format(jpg):quality(50)/2026/07/22/6a60ad04664e5582150133.jpg",
+      "published_at": "2026-07-22T14:29:12+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "c0710e2028bb"
+    },
+    {
+      "title": "La Nissan Leaf gagne un kit carrosserie Nismo, des réglages spécifiques, mais pas plus de puissance",
+      "url": "https://www.numerama.com/vroom/2299441-la-nissan-leaf-gagne-un-kit-carrosserie-nismo-des-reglages-specifiques-mais-pas-plus-de-puissance.html",
+      "summary": "La Nissan Leaf passe de la sagesse à l'exubérance dans sa nouvelle version Nismo. Pas de hausse de puissance au programme, mais un look carrément plus agressif, une ambiance sportive à bord et quand même quelques réglages de châssis spécifiques pour une conduite plus dynamique.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-07-22T12:27:26+00:00",
       "source": "Numerama",
       "category": "Tech",
-      "id": "b60cc01ee995"
+      "id": "f6a509574330"
     },
     {
-      "title": "Après avoir présenté sa démission, la ministre Monique Barbut a « accepté de poursuivre sa mission à la demande » d’Emmanuel Macron",
-      "url": "https://www.lemonde.fr/politique/article/2026/07/22/apres-avoir-presente-sa-demission-la-ministre-monique-barbut-a-accepte-de-poursuivre-sa-mission-a-la-demande-d-emmanuel-macron_6729994_823449.html",
-      "summary": "En désaccord avec loi d’urgence agricole, adoptée définitivement par le Parlement, la ministre de la transition écologique avait annoncé, en début de matinée, qu’elle « présenterai[t] » sa « démission au président de la République aujourd’hui ».",
-      "image": "https://img.lemde.fr/2026/07/22/314/0/3440/1720/644/322/60/0/d4f1388_ftp-1-ovgcebmhyzmv-2026-07-22t100249z-1998948025-rc2yimax8o9l-rtrmadp-3-france-politics.JPG",
-      "published_at": "2026-07-22T12:28:42+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "9f523e307fa8"
-    },
-    {
-      "title": "Des projections de \"quelques mètres\" à \"plusieurs kilomètres\" : on vous explique ce que sont les \"sautes de feu\" qui amplifient la propagation des incendies",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/des-projections-de-quelques-metres-a-plusieurs-kilometres-on-vous-explique-ce-que-sont-les-sautes-de-feu-qui-amplifient-la-propagation-des-incendies_8117441.html#xtor=RSS-3-[lestitres]",
-      "summary": "Ce phénomène contribue à la propagation du feu et à la création de foyers secondaires. Il complique aussi l'anticipation de la trajectoire de l'incendie, rendant encore plus délicate l'intervention des pompiers.",
-      "image": "https://www.franceinfo.fr/pictures/pf3T5yMLM99cITVCCU7rcznzu1Y/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/07/22/6a60798fc7dc0940108109.jpg",
-      "published_at": "2026-07-22T12:24:26+02:00",
+      "title": "Il découvre un cratère de météorite vieux de 390 millions d'années... sur Google Maps",
+      "url": "https://www.franceinfo.fr/sciences/espace/il-decouvre-un-cratere-de-meteorite-vieux-de-390-millions-d-annees-sur-google-maps_8117609.html#xtor=RSS-3-[lestitres]",
+      "summary": "Préparant ses vacances dans cette région du Québec, Joël Lapointe s'est rapidement aperçu d'une anomalie géographique. Dépêchés sur place, des chercheurs ont pu valider sa découverte.",
+      "image": "https://www.franceinfo.fr/pictures/XlwV9qssZBIgmTg4yxxxN-2JT50/0x53:1026x631/432x243/filters:format(jpg):quality(50)/2026/07/22/6a60b6b9ad873695337997.jpeg",
+      "published_at": "2026-07-22T14:25:48+02:00",
       "source": "France Info",
-      "category": "Sport",
-      "id": "1b36a04a73cd"
-    },
-    {
-      "title": "La loi d’urgence agricole, un piège pour Sébastien Lecornu",
-      "url": "https://www.lemonde.fr/idees/article/2026/07/22/la-loi-d-urgence-agricole-un-piege-pour-sebastien-lecornu_6730019_3232.html",
-      "summary": "Ce texte, annoncé en janvier par le premier ministre pour calmer la colère des agriculteurs, renonce à prendre en compte la défense de l’environnement. Il a aussi montré les divisions du bloc central sur la question des pesticides.",
-      "image": "https://img.lemde.fr/2026/07/21/664/0/8000/4000/644/322/60/0/f994ced_upload-1-tr5by5lheiux-jmug260721013.jpg",
-      "published_at": "2026-07-22T12:21:43+02:00",
-      "source": "Le Monde Politique",
       "category": "Politique",
-      "id": "41476e41d9d2"
+      "id": "f746fa9e8613"
     },
     {
-      "title": "Monique Barbut reste finalement ministre «face à l’urgence d’agir contre les conséquences du changement climatique»",
-      "url": "https://www.liberation.fr/politique/barbut-reste-ministre-face-a-lurgence-dagir-contre-les-consequences-du-changement-climatique-20260722_BVNRUO6JQVGBTFSYW3L6LRUCVU/",
-      "summary": "La ministre accepte de rester à la demande d’Emmanuel Macron qui a refusé sa démission et l’a assurée de son soutien.",
+      "title": "Ukraine : Mykhaïlo Drapaty, un héros de guerre très discret à la tête des armées",
+      "url": "https://www.liberation.fr/international/europe/ukraine-mykhailo-drapaty-un-heros-de-guerre-tres-discret-a-la-tete-des-armees-20260722_GGMH7GJPRZCSPDE4Q4QMXXOMZA/",
+      "summary": "Le nouveau commandant en chef des forces ukrainiennes, nommé mardi par le président Volodymyr Zelensky, jouit d’un immense respect parmi les militaires.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-22T10:20:54+00:00",
+      "published_at": "2026-07-22T12:19:40+00:00",
       "source": "Libération",
       "category": "Politique",
-      "id": "4b8aba477eac"
-    },
-    {
-      "title": "Faut-il voir la série Loki avant Avengers: Doomsday ? Le conseil de Tom Hiddelston",
-      "url": "https://www.numerama.com/pop-culture/2299467-faut-il-voir-la-serie-loki-avant-avengers-doomsday-le-conseil-de-tom-hiddelston.html",
-      "summary": "Il faudra a priori avoir vu quelques films et quelques séries pour bien comprendre tous les enjeux d'Avengers: Doomsday. Et, à ce sujet, l'acteur Tom Hiddleston, interprète de Loki, a une recommandation pour les spectatrices et les spectateurs.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-07-22T10:15:00+00:00",
-      "source": "Numerama",
-      "category": "Culture",
-      "id": "dd7b22fb7ea4"
-    },
-    {
-      "title": "Est-ce qu’on peut arrêter les photos de politiques avec leurs chiens ? Merci",
-      "url": "https://www.liberation.fr/politique/est-ce-quon-peut-arreter-les-photos-de-politiques-avec-leurs-chiens-merci-20260722_374MNLCDSBBCNGA2OOU7SA4XEI/",
-      "summary": "Ficelle plus qu’usée de la com’ présidentielle, le cliché avec son animal de compagnie dans un lieu de pouvoir fait désormais fureur parmi les Premiers ministres. Pitié, en vue de 2027 : stop.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-22T10:14:18+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "dc8fbef3443e"
+      "id": "f0f3f59a5224"
     }
   ]
 }
