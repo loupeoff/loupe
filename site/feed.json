@@ -1,16 +1,206 @@
 {
-  "generated_at": "2026-07-23T17:40:15.114646+00:00",
+  "generated_at": "2026-07-23T19:37:42.700241+00:00",
   "article_count": 30,
   "articles": [
     {
+      "title": "Loi sur la justice criminelle : le conseil constitutionnel censure le recours à la généalogie génétique voulu par Gérald Darmanin",
+      "url": "https://www.liberation.fr/societe/police-justice/loi-sur-la-justice-criminelle-le-conseil-constitutionnel-censure-le-recours-a-la-genealogie-genetique-voulu-par-gerald-darmanin-20260723_2KQR2JUIX5AAVN36HMF5EGMH2M/",
+      "summary": "Le projet de loi adopté le 9 juillet prévoyait le recours à des bases de données privées établies à l’étranger, pour aider à la résolution des cold cases.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-23T19:31:42+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "de44dea77474"
+    },
+    {
+      "title": "Un concert avec le chanteur Amir annulé à Marseille après un appel au boycott de militants pro-palestiniens",
+      "url": "https://www.liberation.fr/culture/un-concert-avec-le-chanteur-amir-annule-a-marseille-apres-un-appel-au-boycott-de-militants-pro-palestiniens-20260723_GUKTQKRZMBFVXLQXO5DNV2DIEY/",
+      "summary": "L’organisation du «Sunset live», qui avait programmé l’artiste franco-israélien dimanche 26 juillet, a préféré annuler la soirée, après la mobilisation de l’Union Palestine Marseille, qui reprochait au chanteur sa participation passée à des événements dans des colonies israéliennes.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-23T19:29:30+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "f25255e31ad2"
+    },
+    {
+      "title": "EN DIRECT, guerre au Moyen-Orient : le secrétaire général de l’ONU estime que la situation au Moyen-Orient « échappe à tout contrôle »",
+      "url": "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-au-moyen-orient-le-secretaire-general-de-l-onu-estime-que-la-situation-au-moyen-orient-echappe-a-tout-controle_6725301_3210.html",
+      "summary": "« Les combats doivent cesser partout et la liberté de navigation doit être rétablie », a déclaré jeudi Antonio Guterres.",
+      "image": "https://img.lemde.fr/2026/07/18/1530/0/9930/4965/644/322/60/0/43eab95_ftp-1-auctqsoqg9pv-2026-07-18t144008z-1773237900-rc2egma4ij4t-rtrmadp-3-iran-crisis-kuwait-oil.JPG",
+      "published_at": "2026-07-23T21:10:05+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "e0cb16256bdd"
+    },
+    {
+      "title": "Incendie en Gironde : une première maison en flammes à Lège-Cap Ferret, le maire juge la situation \"préoccupante\"",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-en-gironde-2-000-hectares-brules-au-moins-12-000-personnes-evacuees-depuis-hier-annonce-la-prefecture_8118599.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'incendie qui s'est déclaré au nord du bassin d'Arcachon a désormais parcouru 3 700 hectares, selon un bilan actualisé par la préfecture, jeudi. Plus de 21 000 personnes ont été, ou sont en train d'être évacuées.",
+      "image": "https://www.franceinfo.fr/pictures/C18e-aQkAsYh9CbR1P9ESoaDx_E/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/23/6a624a7bc1312277638044.jpg",
+      "published_at": "2026-07-23T21:08:54+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "d73aa91dab8e"
+    },
+    {
+      "title": "Un mineur étranger mis en examen et écroué pour le viol d'une octogénaire à Rennes",
+      "url": "https://www.franceinfo.fr/faits-divers/un-mineur-etranger-mis-en-examen-et-ecroue-pour-le-viol-d-une-octogenaire-a-rennes_8119790.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'agression est survenue le 4 juillet alors que la victime, âgée de 80 ans, rentrait d'une soirée. Le suspect, retrouvé grâce à son ADN et à l'exploitation d'images de vidéosurveillance, serait né en 2009 au Maroc, selon le procureur de Rennes.",
+      "image": "https://www.franceinfo.fr/pictures/myyma_k5HO-pcH9M85ZBVb2rF-I/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/23/6a62645d074b1329555427.jpg",
+      "published_at": "2026-07-23T21:05:56+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "02172e4ba219"
+    },
+    {
+      "title": "Incendies en Gironde : «On a du mal à croire que ça recommence»",
+      "url": "https://www.liberation.fr/environnement/incendies-en-gironde-on-a-du-mal-a-croire-que-ca-recommence-20260723_52KFNBBJBFGOHCILPH6LEDHIXM/",
+      "summary": "Quatre ans après les feux qui l’ont touché en 2022, le département de la Gironde est de nouveau en proie aux flammes, qui ont dévoré plus de 3 700 hectares en vingt-quatre heures. 20 000 riverains et touristes ont été évacués.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-23T19:01:56+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "1c3613b92f96"
+    },
+    {
+      "title": "La médaille Fields remise à deux Chinois, un Américain et un Canadien pour leurs \"découvertes exceptionnelles\" en mathématiques",
+      "url": "https://www.franceinfo.fr/sciences/la-medaille-fields-remise-a-deux-chinois-un-americain-et-un-canadien-pour-leurs-decouvertes-exceptionnelles_8119760.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette prestigieuse récompense, considérée comme l'équivalent d'un \"Nobel de mathématiques\", consacre tous les quatre ans les travaux de chercheurs de moins de 40 ans à travers le monde.",
+      "image": "https://www.franceinfo.fr/pictures/6AY2nkIW_LQpQtBVqkoSIbziP28/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/23/6a62603607d1d374371674.jpg",
+      "published_at": "2026-07-23T21:00:30+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "dc81bafc3c2a"
+    },
+    {
+      "title": "Sportives trans : défavorable aux tests de féminité, la France lance un observatoire pour «accompagner au mieux les athlètes»",
+      "url": "https://www.liberation.fr/sports/defavorable-aux-tests-de-feminite-la-france-lance-un-observatoire-pour-accompagner-au-mieux-les-athletes-et-eclairer-les-decisions-publiques-20260723_JPRKQBM2RVCZHKD53TKETBYUCI/",
+      "summary": "Face à la décision critiquée du CIO d’imposer ces tests qui amèneraient à l’exclusion des athlètes trans des compétitions olympiques, la ministre des sports Marina Ferrari veut continuer à défendre «la lutte contre toutes les formes de discrimination».",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-23T18:57:04+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "ec46b73cb0c3"
+    },
+    {
+      "title": "Google \"viole ses engagements\" avec ses nouveaux résumés par IA, dénoncent les éditeurs de la presse magazine",
+      "url": "https://www.franceinfo.fr/economie/medias/google-viole-ses-engagements-avec-ses-nouveaux-resumes-par-ia-denoncent-les-editeurs-de-la-presse-magazine_8119649.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le géant américain a lancé mercredi en France sa nouvelle fonctionnalité, AI Overviews. Un déploiement redouté par le Syndicat des éditeurs de la presse magazine, qui dénonce une concurrence déloyale.",
+      "image": "https://www.franceinfo.fr/pictures/sDpTbG3HHsEI7Nc3IvSS4aLWXqQ/0x105:1024x681/432x243/filters:format(jpg):quality(50)/2026/07/23/6a6251bf41bdf754862525.jpg",
+      "published_at": "2026-07-23T20:56:37+02:00",
+      "source": "France Info",
+      "category": "Tech",
+      "id": "6c58eb6c9516"
+    },
+    {
+      "title": "Après l’interpellation violente de deux diplomates à Téhéran, la France s’inquiète pour ses ressortissants en Iran",
+      "url": "https://www.lemonde.fr/international/article/2026/07/23/apres-l-interpellation-violente-de-deux-diplomates-a-teheran-la-france-s-inquiete-pour-ses-ressortissants-en-iran_6731176_3210.html",
+      "summary": "L’un des deux agents de l’ambassade de France à Téhéran interpellés dimanche a été « molesté », « brutalisé » et « frappé », a dénoncé le ministre des affaires étrangères, Jean-Noël Barrot. Alors que les diplomates sont rentrés à Paris, mercredi, les autorités françaises redoutent que la République islamique renoue avec la pratique des « prises d’otage ».",
+      "image": "https://img.lemde.fr/2026/07/22/479/0/5749/2874/644/322/60/0/c2efd88_ftp-1-tqeqfyrja875-2026-07-22t104253z-435315505-rc2yimap6h4i-rtrmadp-3-france-politics.JPG",
+      "published_at": "2026-07-23T20:55:12+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "620329c59992"
+    },
+    {
+      "title": "Incendies en Gironde : quatre ans après La Teste-de-Buch, la preuve qu’il faut changer de logiciel",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/incendies-en-gironde-quatre-ans-apres-la-teste-de-buch-la-preuve-quil-faut-changer-de-logiciel-20260723_3UJPOXKAXZDRXKVJHYWZZMJC2Y/",
+      "summary": "Débattre de l’ampleur des moyens déployés face à la violence des feux ne suffit plus, il est urgent d’adopter des changements structurels pour éviter de vivre dans la peur permanente que ces événements traumatisants ne surviennent de nouveau.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-07-23T18:47:02+00:00",
+      "source": "Libération",
+      "category": "Tech",
+      "id": "e02a51aa2b89"
+    },
+    {
+      "title": "Réforme de la justice : le Conseil constitutionnel censure le recours à la généalogie génétique de la loi portée par Gérald Darmanin",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/23/reforme-de-la-justice-le-conseil-constitutionnel-censure-le-recours-a-la-genealogie-genetique-de-la-loi-portee-par-gerald-darmanin_6731175_3224.html",
+      "summary": "Les sages ont jugé le dispositif contraire à la Constitution faute de garanties suffisantes pour concilier recherche des auteurs d’infractions et respect de la vie privée, tout en validant les principales mesures contestées de la loi portée par Gérald Darmanin.",
+      "image": "https://img.lemde.fr/2026/07/08/639/0/8000/4000/644/322/60/0/55f608a_upload-1-y9jzjn3jniq3-jmug260707062.jpg",
+      "published_at": "2026-07-23T20:46:46+02:00",
+      "source": "Le Monde Politique",
+      "category": "Société",
+      "id": "3df181cbedca"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : la situation est \"hors de contrôle\" et \"au bord de l'inimaginable\", alerte le chef de l'ONU",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-iran-dit-avoir-arrete-trois-petroliers-dans-le-detroit-d-ormuz_8118755.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le conflit au Moyen-Orient s'étend en mer Rouge, après que les rebelles houthis pro-iraniens ont revendiqué jeudi des attaques contre \"deux pétroliers saoudiens ayant violé le blocus\" qu'ils avaient annoncé lundi.",
+      "image": "https://www.franceinfo.fr/pictures/ZtQfPUnNa9Z6Yzv6K_x5gPQXMxE/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/23/6a622560b2ade768400722.jpg",
+      "published_at": "2026-07-23T20:46:31+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "208c085b7e9e"
+    },
+    {
+      "title": "Interdiction des réseaux sociaux aux moins de 15 ans : LFI dépose un recours devant le Conseil constitutionnel",
+      "url": "https://www.lemonde.fr/politique/article/2026/07/23/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-lfi-depose-un-recours-devant-le-conseil-constitutionnel_6731174_823448.html",
+      "summary": "Les députés « insoumis » à l’origine de ce recours considèrent que l’interdiction et le contrôle de l’âge constituent une atteinte à la liberté d’expression et de communication, mais aussi au droit au respect de la vie privée.",
+      "image": "https://img.lemde.fr/2026/06/26/234/0/2809/1404/644/322/60/0/9ecafdf_ftp-1-qbuzop4agiow-2026-06-26t030142z-165486375-rc2f1mapbswp-rtrmadp-3-australia-socialmedia.JPG",
+      "published_at": "2026-07-23T20:41:10+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "14a54ae2cb78"
+    },
+    {
+      "title": "EN DIRECT - Incendies : l’UE déploie trois bombardiers d’eau en Gironde, où l’incendie «contenu» a brûlé 3 400 hectares",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-progression-alarmante-en-gironde-le-feu-fixe-dans-le-var-20260723_W6KPYIMZK5A7JPX462MDIOC5DI/",
+      "summary": "20 000 personnes ont été évacuées préventivement par la préfecture dans le nord du bassin d’Arcachon. Dans le Var, 2 500 hectares sont également partis en fumée, mais le feu est aussi «contenu».",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-23T18:40:02+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "2668599341cf"
+    },
+    {
+      "title": "Pour la CGT Energie, «le tarif agent est le dernier totem qui restait à attaquer dans notre statut»",
+      "url": "https://www.liberation.fr/economie/pour-la-cgt-energie-le-tarif-agent-est-le-dernier-totem-qui-restait-a-attaquer-dans-notre-statut-20260723_IID7T5MTXRDRZCQ45IIH5NNY2M/",
+      "summary": "Le gouvernement souhaite revenir sur le prix préférentiel de l’électricité et du gaz pour les salariés du secteur (EDF, Engie, GRDF…). Fabrice Coudour, de la CGT Energie, explique ce qui a amené l’intersyndicale à appeler à la grève le 15 septembre.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-23T18:13:44+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "9479c384e9ac"
+    },
+    {
+      "title": "Incendies : en Espagne, pays le plus touché d’Europe, Madrid cerné par les feux",
+      "url": "https://www.liberation.fr/international/europe/incendies-en-espagne-pays-le-plus-touche-deurope-madrid-cerne-par-les-feux-20260723_AJKBYPQRGZG7TDU72U2DIRGF2M/",
+      "summary": "Les brasiers, qui font rage dans le centre du pays, sont favorisés par une conjonction de facteurs : la végétation a fortement poussé grâce aux pluies de l’hiver, avant de se dessécher pendant la canicule.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-23T18:04:51+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "38fad6f18d73"
+    },
+    {
+      "title": "Le Koweït, l’allié des Etats-Unis devenu la cible privilégiée de l’Iran dans le Golfe",
+      "url": "https://www.lemonde.fr/international/article/2026/07/23/le-koweit-l-allie-des-etats-unis-devenu-la-cible-privilegiee-de-l-iran-dans-le-golfe_6731137_3210.html",
+      "summary": "Au-delà des bombardements iraniens sur des bases militaires américaines installées dans le pays, des infrastructures civiles koweïtiennes font les frais de la reprise des hostilités entre les Etats-Unis et l’Iran, déstabilisant un système déjà fragile.",
+      "image": "https://img.lemde.fr/2026/07/18/103/0/3454/1727/644/322/60/0/5ad773e_ftp-1-d5cq3nj1otia-2026-07-18t135847z-1220760552-rc2dgma0zv19-rtrmadp-3-iran-crisis-kuwait-oil.JPG",
+      "published_at": "2026-07-23T20:00:09+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "2bf362f0b3fa"
+    },
+    {
       "title": "Un concert d'Amir annulé à Marseille pour \"raisons de sécurité\" après des appels au boycott propalestinien",
       "url": "https://www.franceinfo.fr/culture/un-concert-d-amir-annule-a-marseille-pour-raisons-de-securite-apres-des-appels-au-boycott-propalestinien_8119625.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le collectif Union Palestine Marseille, qui avait appelé au boycott de son concert gratuit dans la cité phocéenne, s'est félicité de ce qu'il a qualifié de \"victoire de la mobilisation populaire\". De son côté, le Crif exprime \"sa profonde inquiétude\".",
+      "summary": "Le collectif Union Palestine Marseille, qui avait appelé au boycott du concert gratuit de l'artiste franco-israélien dans la cité phocéenne, s'est félicité de ce qu'il a qualifié de \"victoire de la mobilisation populaire\". De son côté, le Crif exprime \"sa profonde inquiétude\".",
       "image": "https://www.franceinfo.fr/pictures/qk2eHhO-yns_DVfxJx59FqUyX9k/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/23/6a623f0735433896128008.jpg",
-      "published_at": "2026-07-23T19:32:54+02:00",
+      "published_at": "2026-07-23T19:50:12+02:00",
       "source": "France Info",
       "category": "Culture",
       "id": "e01c19e23a42"
+    },
+    {
+      "title": "Guerre en Iran : la Chambre des représentants vote à nouveau le retrait des troupes américaines",
+      "url": "https://www.liberation.fr/international/guerre-en-iran-la-chambre-des-representants-vote-a-nouveau-le-retrait-des-troupes-americaines-20260723_TVRDJTPRNNHPVEWZKXDTSP6JZE/",
+      "summary": "L’opposition démocrate a adopté un texte contre les opérations des Etats-Unis en Iran, avec l’appui de quatre élus républicains, jeudi 23 juillet. Une résolution sans grand effet législatif.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-23T17:41:43+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "de06d1d9effd"
     },
     {
       "title": "Incendies en Gironde, plaintes après le boycott de Barbara Butch, flambée du prix du pétrole… L’actu de ce jeudi 23 juillet",
@@ -21,26 +211,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "23bae8a0eeec"
-    },
-    {
-      "title": "EN DIRECT - Incendies : l’UE déploie trois bombardiers d’eau en Gironde, où l’incendie «contenu» a brûlé 3 400 hectares",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-progression-alarmante-en-gironde-le-feu-fixe-dans-le-var-20260723_W6KPYIMZK5A7JPX462MDIOC5DI/",
-      "summary": "20 000 personnes ont été évacuées préventivement par la préfecture dans le nord du bassin d’Arcachon. Dans le Var, 2 500 hectares sont également partis en fumée, mais le feu est aussi «contenu».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-23T17:14:22+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "2668599341cf"
-    },
-    {
-      "title": "Incendie en Gironde : une première maison en flammes à Lège-Cap Ferret, le maire juge la situation \"préoccupante\"",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-en-gironde-2-000-hectares-brules-au-moins-12-000-personnes-evacuees-depuis-hier-annonce-la-prefecture_8118599.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'incendie qui s'est déclaré au nord du bassin d'Arcachon a désormais parcouru 3 400 hectares, selon un bilan actualisé par la préfecture, jeudi.",
-      "image": "https://www.franceinfo.fr/pictures/C18e-aQkAsYh9CbR1P9ESoaDx_E/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/23/6a624a7bc1312277638044.jpg",
-      "published_at": "2026-07-23T19:09:53+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "d73aa91dab8e"
     },
     {
       "title": "Accusations d'escroqueries, pénurie de climatiseurs… On a vérifié les pratiques commerciales de l'entreprise Climloc",
@@ -83,7 +253,7 @@
       "id": "5f9389867586"
     },
     {
-      "title": "Un homme de 74 ans mis en examen et placé en détention provisoire pour des viols et agressions sexuelles sur 17 mineurs",
+      "title": "Un homme de 74 ans mis en examen et placé en détention provisoire dans la Somme pour des viols et agressions sexuelles sur 17 mineurs",
       "url": "https://www.franceinfo.fr/societe/pedocriminalite/un-homme-de-74-ans-mis-en-examen-et-place-en-detention-provisoire-pour-des-viols-et-agressions-sexuelles-sur-17-mineurs_8119670.html#xtor=RSS-3-[lestitres]",
       "summary": "Le septuagénaire est soupçonné d'avoir abusé d'enfants âgés de moins de deux ans à une douzaine d'années, pendant 25 ans.",
       "image": "https://www.franceinfo.fr/pictures/an9MwqngjjYz_6uxI3mdnn3y3TY/0x112:1200x787/432x243/filters:format(jpg):quality(50)/2026/07/23/6a624832db46c263197599.jpg",
@@ -131,176 +301,6 @@
       "source": "Libération",
       "category": "Sport",
       "id": "4d0c4c3f2732"
-    },
-    {
-      "title": "Incendies : les «sautes» de feu, ces cauchemars incandescents pour les pompiers",
-      "url": "https://www.liberation.fr/environnement/climat/incendies-les-sautes-de-feu-ces-cauchemars-incandescents-pour-les-pompiers-20260723_PJF73PZF2VB2VCA2NDQ6FE5CPQ/",
-      "summary": "Les brasiers qui ravagent le sud de la France ces dernières semaines s’étendent souvent par le biais de ce phénomène, qui provoque l’apparition de nouveaux foyers et complique la lecture du feu par les professionnels.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-23T16:15:58+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "7058c0915438"
-    },
-    {
-      "title": "La phrase qui a changé la vie d’Estelle Meyer : «Il faut que tu te laves les yeux, et que tu trouves le talisman»",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/la-phrase-qui-a-change-la-vie-destelle-meyer-il-faut-que-tu-te-laves-les-yeux-et-que-tu-trouves-le-talisman-20260723_4AS6E3XC4NCOXNVMNEPV7TPR3I/",
-      "summary": "Aujourd’hui, l’actrice se remémore la prédiction d’une femme croisée dans un train, qui l’a libérée après deux ruptures douloureuses.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-23T16:00:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "f5a9d082256a"
-    },
-    {
-      "title": "Richard Carapaz dompte ses compagnons d'échappée et remporte la 18e étape du Tour de France au sommet d'Orcières-Merlette",
-      "url": "https://www.franceinfo.fr/tour-de-france/richard-carapaz-dompte-ses-compagnons-d-echappee-et-remporte-la-18e-etape-du-tour-de-france-au-sommet-d-orcieres-merlette_8119463.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'Equatorien s'est imposé au terme d'une échappée fleuve, jeudi, signant la deuxième victoire de sa carrière sur la Grande Boucle.",
-      "image": "https://www.franceinfo.fr/pictures/vBmlslz0yAw-Pema9QB1tLwSu3M/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/23/6a6232fb65731967031101.jpg",
-      "published_at": "2026-07-23T17:58:44+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "8103620bbf7a"
-    },
-    {
-      "title": "Un éclair frappe une fusée chinoise en plein vol",
-      "url": "https://www.numerama.com/sciences/2300575-un-eclair-frappe-une-fusee-chinoise-en-plein-vol.html",
-      "summary": "Une fusée chinoise a été heurtée par un éclair lors de son ascension dans l'atmosphère. Selon les médias chinois, cela n'a pas remis en cause le bon déploiement du satellite se trouvant à bord.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-07-23T15:55:00+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "e43ec7212699"
-    },
-    {
-      "title": "Russie : le Kremlin menace de « mort civique » les opposants en exil",
-      "url": "https://www.lemonde.fr/international/article/2026/07/23/russie-le-kremlin-menace-de-mort-civique-les-opposants-en-exil_6730994_3210.html",
-      "summary": "Les députés de la Douma ont adopté, mercredi, une loi privant les opposants ayant fui la Russie d’accès aux services bancaires et aux transactions immobilières dans le pays, mais aussi aux services consulaires à l’étranger.",
-      "image": "https://img.lemde.fr/2026/07/23/263/0/8068/4034/644/322/60/0/894e3f3_upload-1-esussol93lyd-000-43r67x3.jpg",
-      "published_at": "2026-07-23T17:50:07+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "65ff9fe437e1"
-    },
-    {
-      "title": "Après l'affaire Barbara Butch, le chef de file grenoblois de LFI saisit la justice pour des \"injures à caractère raciste\" et des \"menaces\"",
-      "url": "https://www.franceinfo.fr/politique/apres-l-affaire-barbara-butch-le-chef-de-file-grenoblois-de-lfi-annonce-saisir-la-justice-pour-des-injures-a-caractere-raciste-et-des-menaces_8119475.html#xtor=RSS-3-[lestitres]",
-      "summary": "Allan Brunon, élu insoumis à la mairie de Grenoble, a participé à la manifestation qui a mené à l'interruption du concert de la DJ samedi. Il dénonce notamment une campagne de cyberharcèlement contre lui.",
-      "image": "https://www.franceinfo.fr/pictures/fNCIh3VBqnLX_KFrs4OpfwBvqXk/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/23/6a622c5c5c1ce570893653.jpg",
-      "published_at": "2026-07-23T17:48:01+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "55604b460909"
-    },
-    {
-      "title": "Dans le Pas-de-Calais, 150 migrants secourus au large de Berck-sur-Mer",
-      "url": "https://www.franceinfo.fr/monde/europe/migrants/dans-le-pas-de-calais-150-migrants-secourus-au-large-de-berck-sur-mer_8119568.html#xtor=RSS-3-[lestitres]",
-      "summary": "Il s'agit de l'un des sauvetages les plus importants \"de l'histoire de la crise migratoire\", selon la SNSM du secteur.",
-      "image": "https://www.franceinfo.fr/pictures/Xi9q8xXNefTqng7vVddmyrqWeQ8/0x2:1200x677/432x243/filters:format(jpg):quality(50)/2026/07/23/6a62379aeb4c6866737639.jpeg",
-      "published_at": "2026-07-23T17:47:57+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "fefd39fc86d7"
-    },
-    {
-      "title": "Incendies : l’accessibilité, talon d’Achille du massif de Fontainebleau",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/incendies-laccessibilite-talon-dachille-du-massif-de-fontainebleau-20260723_X2VGHYRKYBF5ZEHDZLXR3RYMIE/",
-      "summary": "Les feux qui ont dévasté plus du quart de la forêt de Fontainebleau ont été amplifiés par les nombreux accès au massif, ouvert aux «quatre vents». Un défi logistique qui peut devenir un laboratoire pour la lutte contre les incendies à l’heure du réchauffement climatique, selon le géographe Pierre-Arnaud Chaouvy.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-23T15:47:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "c2cf4f57fa7e"
-    },
-    {
-      "title": "Le dernier vélo électrique urbain d’Intersport perd déjà 300 €",
-      "url": "https://www.numerama.com/vroom/2300489-le-dernier-velo-electrique-urbain-dintersport-perd-deja-300-e.html",
-      "summary": "[Deal du jour] Si vous cherchez un vélo électrique pour vos trajets du quotidien, le Crosslite de Nakamura profite actuellement d’une réduction intéressante chez Intersport.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-23T15:46:10+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "fca42718722e"
-    },
-    {
-      "title": "\"Je me dézinguais à m'en faire péter la couscoussière\" : l'ancien conseiller en communication de Gabriel Attal révèle son addiction passée à la cocaïne",
-      "url": "https://www.franceinfo.fr/sante/drogue-addictions/je-me-dezinguais-a-m-en-faire-peter-la-couscoussiere-l-ancien-conseiller-en-communication-de-gabriel-attal-revele-son-addiction-passee-a-la-cocaine_8119352.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le magazine \"Vanity Fair\" consacre un long portrait à Louis Jublin, qui a accompagné l'actuel candidat à la présidentielle pendant plusieurs années, de Bercy à Matignon. Le quadragénaire dit vouloir devancer la publication d'une vidéo où on le voit consommer de la drogue.",
-      "image": "https://www.franceinfo.fr/pictures/XVxQ_UbdvhAvFF3h7O_mp_KX2N0/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/23/6a621ae82f7e2273527136.jpg",
-      "published_at": "2026-07-23T17:44:35+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "96d3f6c3dc84"
-    },
-    {
-      "title": "Incendies en Gironde : qu’est-ce que le mécanisme européen de protection civile, qui a permis de déployer trois bombardiers d’eau ?",
-      "url": "https://www.liberation.fr/international/europe/incendies-dans-le-sud-de-la-france-quest-ce-que-le-mecanisme-europeen-de-protection-civile-qui-a-permis-de-deployer-quatre-bombardiers-deau-20260706_JUYXLZTC3RBJJMN5SBW7G5RUWY/",
-      "summary": "L’Union européenne a autorisé jeudi 23 juillet l’envoi de trois appareils destinés à aider les pompiers qui luttent contre les flammes en Gironde, deux semaines après les Pyrénées-Orientales. Une aide rendue possible par ce dispositif lancé en 2001 par la Commission européenne.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-07-23T15:40:56+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "ccf0264ce986"
-    },
-    {
-      "title": "Romain Grégoire, cycliste, cœur de puncheur",
-      "url": "https://www.liberation.fr/portraits/romain-gregoire-cycliste-coeur-de-puncheur-20260723_BFY27DB7LBBVVDQLNBDC77YKLI/",
-      "summary": "Frustré de son Tour difficile, le champion de France et leader ambitieux de son équipe apprend à dépasser la douleur.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-23T15:36:45+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "1ccfd0d0d57e"
-    },
-    {
-      "title": "Comment éviter la galère de l’attente aux bornes de recharge lors des grands départs",
-      "url": "https://www.numerama.com/vroom/2056541-comment-eviter-lattente-aux-bornes-de-recharge-lors-des-grands-departs.html",
-      "summary": "Attendre pour recharger sur la route des vacances, ce n’est pas forcément la meilleure partie de l’expérience de la voiture électrique. Et si l'on vous disait qu’il était possible d’éviter cela ?",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-23T15:35:09+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "ddeab4fe5e2f"
-    },
-    {
-      "title": "Va-t-on vers une quatrième canicule en France début août 2026 ?",
-      "url": "https://www.numerama.com/sciences/2300461-va-t-on-vers-une-quatrieme-canicule-en-france-debut-aout-2026.html",
-      "summary": "Alors que la France vient déjà de vivre 3 épisodes de forte chaleur depuis le mois de mai 2026, les modèles météo laissent planer le doute : la canicule sera-t-elle de retour fin juillet et début août ? Les prévisionnistes sont prudents, mais partagent leur inquiétude.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-07-23T15:35:08+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "5d7cdab7eb2e"
-    },
-    {
-      "title": "Ma vie d’exilée russe à Paris : à Sciences Po, « je dois intervenir en tant que fondatrice d’un média et non comme victime de la répression »",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/23/ma-vie-d-exilee-russe-a-paris-a-sciences-po-je-dois-intervenir-en-tant-que-fondatrice-d-un-media-et-non-comme-victime-de-la-repression_6730960_3451060.html",
-      "summary": "« Une Russe à Paris » (3/6). La journaliste Elizaveta Osetinskaya, arrivée en France en 2022, intervient dans cet établissement d’études supérieures. C’est, selon elle, un des plus ouverts en France, grâce à la diversité des enseignants.",
-      "image": "https://img.lemde.fr/2026/07/22/333/0/1850/925/644/322/60/0/4d88d4c_upload-1-gzminzmxlgsj-episode-3-modif-scpo.jpg",
-      "published_at": "2026-07-23T17:30:14+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "24a1f9665ad4"
-    },
-    {
-      "title": "EN DIRECT, guerre au Moyen-Orient : la poursuite du conflit risque d’entraîner une inflation plus forte que prévu, estime la présidente de la BCE, Christine Lagarde",
-      "url": "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-au-moyen-orient-la-poursuite-du-conflit-risque-d-entrainer-une-inflation-plus-forte-que-prevu-estime-la-presidente-de-la-bce-christine-lagarde_6725301_3210.html",
-      "summary": "La présidente de la Banque centrale européenne a jugé « alarmante » l’extension du conflit à la mer Rouge, où des rebelles houthistes du Yémen, alliés de l’Iran, ont revendiqué des frappes contre deux pétroliers saoudiens.",
-      "image": "https://img.lemde.fr/2026/07/18/1530/0/9930/4965/644/322/60/0/43eab95_ftp-1-auctqsoqg9pv-2026-07-18t144008z-1773237900-rc2egma4ij4t-rtrmadp-3-iran-crisis-kuwait-oil.JPG",
-      "published_at": "2026-07-23T17:28:20+02:00",
-      "source": "Le Monde Inter",
-      "category": "Économie",
-      "id": "397fb332eb1a"
-    },
-    {
-      "title": "A Avignon, Trajal Harrell joue sa «Music Music» intérieure",
-      "url": "https://www.liberation.fr/culture/scenes/a-avignon-trajal-harrell-joue-sa-music-music-interieure-20260723_M7H4T246TJA2PL3EYQ2QTD32XM/",
-      "summary": "Entre voguing, fado et butô, le chorégraphe et danseur américain déploie toute sa vulnérabilité au cloître des Carmes dans une performance drôle et intime qui émeut comme rarement.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-23T15:18:51+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "42aeb8ae3485"
     }
   ]
 }
