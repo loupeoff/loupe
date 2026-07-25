@@ -7,18 +7,78 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Fri, 24 Jul 2026 22:12:47 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 00:11:12 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
   <item>
-    <title>Incendies : Sébastien Lecornu annonce l&apos;arrivée de 500 militaires supplémentaires en Gironde, où 1,5 million de masques FFP2 vont être acheminés &quot;dès cette nuit&quot;</title>
+    <title>De fortes chaleurs attendues en France dès la semaine prochaine</title>
+    <link>https://www.liberation.fr/environnement/climat/de-fortes-chaleurs-attendues-en-france-des-la-semaine-prochaine-20260723_KWAAQGC3MVCZHB4BOUBVK67YZA/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/environnement/climat/de-fortes-chaleurs-attendues-en-france-des-la-semaine-prochaine-20260723_KWAAQGC3MVCZHB4BOUBVK67YZA/</guid>
+    <pubDate>Fri, 24 Jul 2026 23:09:41 +0000</pubDate>
+    <category>Société</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Alors que la France vient d’en finir avec sa troisième vague de chaleur, la plus longue jamais relevée, une quatrième canicule se dessine sur l’hexagone la semaine prochaine, indique la Chaîne Météo.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Incendies en Gironde : «Une situation totalement inédite» selon Laurent Nuñez, la préfecture annonce des évacuations près de Bordeaux</title>
+    <link>https://www.liberation.fr/environnement/climat/en-direct-incendies-19-000-hectares-parcourus-en-gironde-la-prefecture-annonce-des-evacuations-pres-de-bordeaux-20260724_OV2AGG6HQNGX5JSV5S6B6ORQK4/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/environnement/climat/en-direct-incendies-19-000-hectares-parcourus-en-gironde-la-prefecture-annonce-des-evacuations-pres-de-bordeaux-20260724_OV2AGG6HQNGX5JSV5S6B6ORQK4/</guid>
+    <pubDate>Fri, 24 Jul 2026 22:59:33 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Alors que deux importants incendies sévissent, les évacuations se multiplient. La presqu’île du Cap Ferret est vidée de ses occupants. La France a fait appel au mécanisme de protection civile de l’Union européenne.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>EN DIRECT, guerre en Ukraine : une frappe de drone russe fait au moins deux morts à Soumy, dans le nord du pays</title>
+    <link>https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-en-ukraine-une-frappe-de-drone-russe-fait-au-moins-deux-morts-a-soumy-dans-le-nord-du-pays_6725306_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-en-ukraine-une-frappe-de-drone-russe-fait-au-moins-deux-morts-a-soumy-dans-le-nord-du-pays_6725306_3210.html</guid>
+    <pubDate>Sat, 25 Jul 2026 00:56:08 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[Ces frappes surviennent au lendemain d’une attaque de missile russe contre une démonstration d’équipements militaires, dans la région de Kiev, qui a tué vendredi au moins dix personnes et blessé près d’une centaine d’autres, à des degrés divers.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/07/24/107/0/1280/640/644/322/60/0/297baa2_ftp-1-qegajx8rq3qc-2026-07-24t200429z-212236074-rc2jkma6kd7j-rtrmadp-3-ukraine-crisis-attack-sloviansk.JPG" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme négocier avec l’Iran tout en se disant prêt à intensifier les frappes</title>
+    <link>https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-au-moyen-orient-donald-trump-affirme-negocier-avec-l-iran-tout-en-se-disant-pret-a-intensifier-les-frappes_6725301_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-au-moyen-orient-donald-trump-affirme-negocier-avec-l-iran-tout-en-se-disant-pret-a-intensifier-les-frappes_6725301_3210.html</guid>
+    <pubDate>Sat, 25 Jul 2026 00:42:42 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[« On leur parle en ce moment », a déclaré le président américain à propos des dirigeants iraniens. « Je pense qu’ils deviennent de plus en plus sérieux au fil des jours, peut-être pour une raison évidente », a-t-il ajouté, faisant allusion aux bombardements quotidiens que les Etats-Unis mènent sur l’Iran, depuis près de deux semaines.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/07/24/0/0/5188/2594/644/322/60/0/72d2fd8_ftp-1-6uqxj4u0k1kt-1f32c995a6ab4957b367e58789c03b88-0-f043af095d154c09bd6d85752f5272d8.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Guerre au Moyen-Orient : des sites militaires houthis visés au Yémen par la coalition menée par l&apos;Arabie Saoudite</title>
+    <link>https://www.franceinfo.fr/monde/proche-orient/guerre/direct-guerre-au-moyen-orient-nouvelles-frappes-de-l-armee-americaine-en-iran-pour-la-treizieme-nuit-consecutive_8120123.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/monde/proche-orient/guerre/direct-guerre-au-moyen-orient-nouvelles-frappes-de-l-armee-americaine-en-iran-pour-la-treizieme-nuit-consecutive_8120123.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Sat, 25 Jul 2026 00:42:22 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Les rebelles houthis avaient annoncé lundi vouloir entraver le trafic en mer Rouge et dans le golfe d'Aden des navires d'Arabie saoudite, premier exportateur mondial de brut. Ils l'avaient déjà fait pendant la guerre de Gaza, quand ils avaient mené des attaques de drones et de missiles dans la zone.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/enww1gAU9UecTpsTSzF8wmyl8ls/0x312:6000x3687/432x243/filters:format(jpg):quality(50)/2026/07/24/6a6381d4376a5731197558.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Incendies : Sébastien Lecornu annonce le doublement des militaires déployés en Gironde, où 1,5 million de masques FFP2 vont être acheminés &quot;dès cette nuit&quot;</title>
     <link>https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html#xtor=RSS-3-[lestitres]</link>
     <guid isPermaLink="true">https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Fri, 24 Jul 2026 23:57:45 +0000</pubDate>
+    <pubDate>Sat, 25 Jul 2026 00:38:51 +0000</pubDate>
     <category>Politique</category>
     <source url="https://loupeoff.github.io/loupe">France Info</source>
     <description><![CDATA[Plus de 19 000 hectares ont déjà été dévorés par les flammes en Gironde et les incendies se dirigent désormais vers la métropole bordelaise, selon la préfète de Nouvelle-Aquitaine, qui a annoncé des évacuations supplémentaires à venir dans plusieurs villes près de Bordeaux.]]></description>
     <enclosure url="https://www.franceinfo.fr/pictures/c4T2pwuMq6227PZ2yVdrU0ZONPU/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/24/6a63c33c95480293666555.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Emmanuel Macron demande aux Armées &quot;de se mobiliser&quot; pour lutter contre les incendies dans le Sud-Ouest, 500 militaires supplémentaires déployés</title>
+    <link>https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/emmanuel-macron-demande-aux-armees-de-se-mobiliser-pour-lutter-contre-les-incendies-dans-le-sud-ouest-500-militaires-supplementaires-deployes_8121302.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/emmanuel-macron-demande-aux-armees-de-se-mobiliser-pour-lutter-contre-les-incendies-dans-le-sud-ouest-500-militaires-supplementaires-deployes_8121302.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Sat, 25 Jul 2026 00:26:42 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Au total, ce sont environ 1 000 militaires qui seront déployés sur le terrain face aux flammes, qui ont déjà dévoré 22 000 hectares et provoqué l'évacuation de plus de 140 000 personnes.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/Jd0EIcnxNZQ1vFmPTFk9CnQa8B4/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/25/6a63e687eb245103642690.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Guerre en Ukraine : Kiev a des renseignements &quot;clairs&quot; indiquant que Moscou prépare une mobilisation militaire, affirme Volodymyr Zelensky</title>
@@ -29,26 +89,6 @@
     <source url="https://loupeoff.github.io/loupe">France Info</source>
     <description><![CDATA[Cette nouvelle vague de mobilisation russe devrait survenir à l'automne, selon le président ukrainien, qui prévient que son homologue russe Vladimir Poutine "a toujours l'intention d'étendre cette guerre".]]></description>
     <enclosure url="https://www.franceinfo.fr/pictures/N1xfEXrIsKNpERr8kfuydHrsJRU/0x12:1024x588/432x243/filters:format(jpg):quality(50)/2026/07/24/6a63db84219d1932866473.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Guerre au Moyen-Orient : des sites militaires houthis visés au Yémen par la coalition menée par l&apos;Arabie Saoudite</title>
-    <link>https://www.franceinfo.fr/monde/proche-orient/guerre/direct-guerre-au-moyen-orient-nouvelles-frappes-de-l-armee-americaine-en-iran-pour-la-treizieme-nuit-consecutive_8120123.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/monde/proche-orient/guerre/direct-guerre-au-moyen-orient-nouvelles-frappes-de-l-armee-americaine-en-iran-pour-la-treizieme-nuit-consecutive_8120123.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Fri, 24 Jul 2026 23:28:38 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Les rebelles houthis avaient annoncé lundi vouloir entraver le trafic en mer Rouge et dans le golfe d'Aden des navires d'Arabie saoudite, premier exportateur mondial de brut. Ils l'avaient déjà fait pendant la guerre de Gaza, quand ils avaient mené des attaques de drones et de missiles dans la zone.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/enww1gAU9UecTpsTSzF8wmyl8ls/0x312:6000x3687/432x243/filters:format(jpg):quality(50)/2026/07/24/6a6381d4376a5731197558.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>EN DIRECT - Incendies : 19 000 hectares parcourus en Gironde, la préfecture annonce des évacuations près de Bordeaux</title>
-    <link>https://www.liberation.fr/environnement/climat/en-direct-incendies-19-000-hectares-parcourus-en-gironde-la-prefecture-annonce-des-evacuations-pres-de-bordeaux-20260724_OV2AGG6HQNGX5JSV5S6B6ORQK4/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/environnement/climat/en-direct-incendies-19-000-hectares-parcourus-en-gironde-la-prefecture-annonce-des-evacuations-pres-de-bordeaux-20260724_OV2AGG6HQNGX5JSV5S6B6ORQK4/</guid>
-    <pubDate>Fri, 24 Jul 2026 20:57:46 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Alors que deux importants incendies sévissent, les évacuations se multiplient. La presqu’île du Cap Ferret est vidée de ses occupants. La France a fait appel au mécanisme de protection civile de l’Union européenne.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Le Venezuela annonce son retrait &quot;définitif&quot; de la Cour pénale internationale, accusée de concentrer son action sur les pays africains et latino-américains</title>
@@ -111,16 +151,6 @@
     <enclosure url="https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>&quot;Ça fait très mal au cœur, c&apos;est notre terrain&quot; : la détresse des habitants, contraints d&apos;évacuer face aux incendies qui ravagent le Sud-Ouest</title>
-    <link>https://www.franceinfo.fr/faits-divers/incendie/ca-fait-tres-mal-au-c-ur-c-est-notre-terrain-la-detresse-des-habitants-contraints-d-evacuer-face-aux-incendies-qui-ravagent-le-sud-ouest_8121194.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/faits-divers/incendie/ca-fait-tres-mal-au-c-ur-c-est-notre-terrain-la-detresse-des-habitants-contraints-d-evacuer-face-aux-incendies-qui-ravagent-le-sud-ouest_8121194.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Fri, 24 Jul 2026 21:49:48 +0000</pubDate>
-    <category>Société</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Au total, 75 000 personnes ont été évacuées dans les Landes et en Gironde en raison des incendies. Certaines ont quitté leur maison la peur au ventre, dans une atmosphère d'apocalypse.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/XeUCOezKNrRfjvz3b4Y2-Bg846w/0x4:1107x627/432x243/filters:format(jpg):quality(50)/2026/07/24/6a63b7269383d823105043.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
     <title>&quot;C&apos;est une catastrophe&quot; : 63 000 personnes évacuées ou confinées dans la région de Madrid, où sévit le &quot;pire incendie de l&apos;histoire&quot; de la zone</title>
     <link>https://www.franceinfo.fr/monde/espagne/c-est-une-catastrophe-19-000-personnes-evacuees-ou-confinees-dans-la-region-de-madrid-ou-sevit-le-pire-incendie-de-l-histoire-de-la-zone_8120666.html#xtor=RSS-3-[lestitres]</link>
     <guid isPermaLink="true">https://www.franceinfo.fr/monde/espagne/c-est-une-catastrophe-19-000-personnes-evacuees-ou-confinees-dans-la-region-de-madrid-ou-sevit-le-pire-incendie-de-l-histoire-de-la-zone_8120666.html#xtor=RSS-3-[lestitres]</guid>
@@ -179,16 +209,6 @@
     <source url="https://loupeoff.github.io/loupe">France Info</source>
     <description><![CDATA[Les Vingt-Sept ont infligé jeudi à Google un total de 890 millions d'euros d'amendes, pour des atteintes à la concurrence dans la recherche en ligne et au sein du magasin d'applications Google Play. Furieux, le président américain a menacé vendredi d'imposer de nouveaux droits de douane à l'Union européenne.]]></description>
     <enclosure url="https://www.franceinfo.fr/pictures/qYEeC7RvxxYKh4Y8QHesLbiO588/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/24/6a63b2d045d78461656059.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>EN DIRECT, guerre en Ukraine : la Russie prépare « une nouvelle attaque massive » contre le pays dans les quarante-huit heures, selon Volodymyr Zelensky</title>
-    <link>https://www.lemonde.fr/international/live/2026/07/24/en-direct-guerre-en-ukraine-la-russie-prepare-une-nouvelle-attaque-massive-contre-l-ukraine-dans-les-quarante-huit-heures-selon-volodymyr-zelensky_6725306_3210.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/07/24/en-direct-guerre-en-ukraine-la-russie-prepare-une-nouvelle-attaque-massive-contre-l-ukraine-dans-les-quarante-huit-heures-selon-volodymyr-zelensky_6725306_3210.html</guid>
-    <pubDate>Fri, 24 Jul 2026 20:52:00 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
-    <description><![CDATA[Dans une allocution vidéo publiée peu avant 20 heures, le président ukrainien affirme que « les Russes ont préparé des missiles en vue d’une nouvelle attaque massive » et il a mis en garde sa population.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/07/24/916/0/5500/2750/644/322/60/0/7ee577e_ftp-1-b7mjyinyxr2w-2026-07-24t151422z-1125061392-rc2ckmacerw8-rtrmadp-3-ukraine-crisis-attack-sloviansk.JPG" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>&quot;Il n&apos;y a pas de nuit, on ne dort pas&quot; : aux côtés des pompiers qui combattent le feu en Gironde</title>
@@ -289,26 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">France Info</source>
     <description><![CDATA[Le quartier de Montebello a été réveillé par l’explosion qui a retenti à la distillerie de Montebello, ce vendredi matin. Les secours étaient au chevet des cinq blessés graves recensés, dont un a perdu la vie entre-temps.]]></description>
     <enclosure url="https://www.franceinfo.fr/pictures/HNAfhSAg5OdJ1wYLMG9B0oZ0KOU/432x243/filters:format(jpg):quality(50)/2026/07/24/6a6368ec113b2979794634.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>A Londres, des policiers fluviaux tombent à l&apos;eau après avoir percuté un pont sur la Tamise, cinq agents blessés</title>
-    <link>https://www.franceinfo.fr/monde/royaume-uni/a-londres-des-policiers-fluviaux-tombent-a-l-eau-apres-avoir-percute-un-pont-sur-la-tamise-cinq-agents-blesses_8121083.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/monde/royaume-uni/a-londres-des-policiers-fluviaux-tombent-a-l-eau-apres-avoir-percute-un-pont-sur-la-tamise-cinq-agents-blesses_8121083.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Fri, 24 Jul 2026 19:36:41 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Une embarcation de la police fluviale a heurté le Westminster Bridge, en plein cœur de Londres, peu avant 16 heures, vendredi. Plusieurs agents sont tombés à l'eau mais ont pu être secourus.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/0VazH09epyC11ssMgwBXbFdVgZg/0x80:1024x656/432x243/filters:format(jpg):quality(50)/2026/07/24/6a6398eed700e854734198.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Le chef de l’opposition turque, évincé de la présidence du CHP, fonde le « Nouveau Parti », pour défier Erdogan</title>
-    <link>https://www.lemonde.fr/international/article/2026/07/24/le-chef-de-l-opposition-turque-evince-de-la-presidence-du-chp-fonde-le-nouveau-parti-pour-defier-erdogan_6731539_3210.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/07/24/le-chef-de-l-opposition-turque-evince-de-la-presidence-du-chp-fonde-le-nouveau-parti-pour-defier-erdogan_6731539_3210.html</guid>
-    <pubDate>Fri, 24 Jul 2026 19:30:05 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
-    <description><![CDATA[Exclu de la direction du CHP par décision de justice fin mai, Özgür Özel a annoncé, vendredi 24 juillet, la création d’un nouveau parti à Ankara. Cette rupture avec la formation kémaliste fondée en 1923 par Atatürk a déjà recueilli l’adhésion de 91 députés du groupe parlementaire.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/07/24/501/0/3304/1652/644/322/60/0/16a6923_ftp-1-2ykfswskdgqo-eeb7d1bfd3fa4a9b93de7fdeda440367-0-976bd85258744b7b889d94c60f0f45b9.jpg" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>
