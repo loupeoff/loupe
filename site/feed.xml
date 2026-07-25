@@ -7,9 +7,19 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Sat, 25 Jul 2026 21:02:11 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 22:02:26 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>Marche des fiertés de Berlin : un mort et une quinzaine de blessés après un incident impliquant un véhicule</title>
+    <link>https://www.lemonde.fr/international/article/2026/07/26/marche-des-fiertes-de-berlin-un-mort-et-une-quinzaine-de-blesses-apres-un-incident-impliquant-un-vehicule_6732524_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/07/26/marche-des-fiertes-de-berlin-un-mort-et-une-quinzaine-de-blesses-apres-un-incident-impliquant-un-vehicule_6732524_3210.html</guid>
+    <pubDate>Sun, 26 Jul 2026 00:00:36 +0000</pubDate>
+    <category>Société</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[Le véhicule a été abandonné sur place, dans le parc Tiergarten, secteur boisé de la capitale où se termine le défilé. Le ou les occupants du véhicule sont recherchés, selon la police.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/07/25/112/0/4500/2250/644/322/60/0/2a91295_ftp-1-uwqlgkm4ernm-025495c176cc47d89bd734dd7325f55b-0-c46b6caced714102a170da15e1d983c2.jpg" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>Incendie en Gironde : environ 8 000 nouvelles évacuations ordonnées près de Bordeaux &quot;au regard de la progression du feu&quot;, annonce la préfecture</title>
     <link>https://www.franceinfo.fr/faits-divers/incendie/incendie-en-gironde-environ-8-000-nouvelles-evacuations-ordonnees-pres-de-bordeaux-au-regard-de-la-progression-du-feu-annonce-la-prefecture_8122355.html#xtor=RSS-3-[lestitres]</link>
@@ -299,16 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">France Info</source>
     <description><![CDATA[Si le marché mondial du jeu vidéo est d'ores et déjà en grande majorité dématérialisé, Sony décide de prendre les devant en annonçant la fin de leur production disque Blu-Ray.]]></description>
     <enclosure url="https://www.franceinfo.fr/pictures/vi5mGDWruBGqfjYC3TyRQ5dw2MQ/0x522:5000x3335/432x243/filters:format(jpg):quality(50)/2026/07/23/6a6238c784fd4490093059.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>L&apos;Equatorien Richard Carapaz remporte l&apos;étape reine du Tour de France, Tagej Pogacar conserve son maillot jaune, Paul Seixas reste 4e avant l&apos;arrivée à Paris demain</title>
-    <link>https://www.franceinfo.fr/tour-de-france/l-equatorien-richard-carapaz-remporte-l-etape-reine-du-tour-de-france-apres-un-final-haletant-face-a-l-americain-sepp-kuss_8121815.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/tour-de-france/l-equatorien-richard-carapaz-remporte-l-etape-reine-du-tour-de-france-apres-un-final-haletant-face-a-l-americain-sepp-kuss_8121815.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sat, 25 Jul 2026 16:40:57 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Déjà vainqueur de la 18e étape, le porteur du maillot à pois s'est offert un nouveau succès de prestige, samedi, à l'Alpe d'Huez.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/Qi76X02OXwBiKrYAfzJMQKk2eIs/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/25/6a64d39dbb309712147867.jpg" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>
