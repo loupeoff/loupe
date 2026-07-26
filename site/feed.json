@@ -1,16 +1,36 @@
 {
-  "generated_at": "2026-07-26T20:15:08.818408+00:00",
+  "generated_at": "2026-07-26T22:05:44.727675+00:00",
   "article_count": 30,
   "articles": [
     {
+      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky sera reçu lundi par le nouveau premier ministre britannique, Andy Burnham",
+      "url": "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-en-ukraine-volodymyr-zelensky-sera-recu-lundi-par-le-nouveau-premier-ministre-britannique-annonce-downing-street_6732775_3210.html",
+      "summary": "Les deux dirigeants doivent se rencontrer sur une base navale et échangeront avec des militaires ukrainiens et britanniques qui participent à un exercice de lutte contre les mines marines, afin de préparer de futures missions en mer Noire, a fait savoir le gouvernement britannique, dans un communiqué.",
+      "image": "https://img.lemde.fr/2026/07/16/11/0/6996/3498/644/322/60/0/bdff004_ftp-1-r56cjkbdwsfm-83704233d147408cbd3f19066f533a05-0-0a447877663d4079bc9864699f9cc270.jpg",
+      "published_at": "2026-07-26T23:44:36+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "e886363543ba"
+    },
+    {
       "title": "\"C'est un peu comme une guerre\" : des Landes à la Gironde, retour sur quatre jours de lutte contre des incendies hors norme",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/c-est-un-peu-comme-une-guerre-des-landes-a-la-gironde-quatre-jours-en-enfer-contre-un-monstre-de-feu_8123234.html#xtor=RSS-3-[lestitres]",
-      "summary": "Ces feux ont déjà ravagé 42 000 hectares et entraîné l'évacuation de 220 000 personnes en Gironde. France Télévisions revient sur ces quatre jours en enfer.",
+      "summary": "Les feux ont déjà ravagé 42 000 hectares et entraîné l'évacuation de 220 000 personnes en Gironde. France Télévisions revient sur ces quatre jours en enfer.",
       "image": "https://www.franceinfo.fr/pictures/mZLX9fz0iLT8Cb1b8iXfMsu6hTE/0x65:1728x1037/432x243/filters:format(jpg):quality(50)/2026/07/26/6a666283b3bbb155315094.png",
-      "published_at": "2026-07-26T22:02:09+02:00",
+      "published_at": "2026-07-26T23:08:47+02:00",
       "source": "France Info",
       "category": "Sport",
       "id": "f95a43da5663"
+    },
+    {
+      "title": "\"On se doit d'être là pour eux\" : au milieu du brasier en Gironde, des habitants tentent d'aider les 2 500 pompiers mobilisés",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/2-500-pompiers-mobilises-au-c-ur-du-brasier-en-gironde_8123198.html#xtor=RSS-3-[lestitres]",
+      "summary": "Face aux incendies, c’est la nuit que le combat est le plus éprouvant pour les pompiers, car les Canadairs ne peuvent pas voler. Tout se joue au sol, au plus près des flammes, avec parfois l’aide des habitants.",
+      "image": "https://www.franceinfo.fr/pictures/NtNjgkHVy6TKdmk1UtE2dvvWtUg/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/26/6a66524d60f98233629711.jpg",
+      "published_at": "2026-07-26T22:50:37+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "38ae6b52a286"
     },
     {
       "title": "\"La commune a été encerclée par les flammes\" : dans le village du Porge, 175 maisons ont été détruites par l'incendie qui ravage la Gironde",
@@ -41,16 +61,6 @@
       "source": "Numerama",
       "category": "Politique",
       "id": "9483060181b9"
-    },
-    {
-      "title": "Incendies : \"115 000 hectares parcourus\" depuis le début de l'année, annonce Laurent Nuñez",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-en-gironde-42-000-hectares-de-surface-brulee-et-220-000-personnes-evacuees_8122586.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"La situation est très défavorable. Tous les jours, on a 30 à 40 départs de feux\", a déclaré le ministre de l'Intérieur, invité du \"Journal de 20 heures\" de France 2.",
-      "image": "https://www.franceinfo.fr/pictures/Byu9EX8Cx1yzGTZtY8YuiojvpTM/0x0:4309x2423/432x243/filters:format(jpg):quality(50)/2026/07/26/6a664e7533dc2055465649.jpg",
-      "published_at": "2026-07-26T21:10:42+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "680b58ae15e7"
     },
     {
       "title": "«Il faut changer de position pour ne pas avoir de crampe» : Montmartre bondé et en folie pour la dernière étape du Tour de France",
@@ -101,16 +111,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "c5597f8e5808"
-    },
-    {
-      "title": "\"On se doit d'être là pour eux\" : au milieu du brasier en Gironde, des habitants tentent d'aider les 2 500 pompiers mobilisés",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/2-500-pompiers-mobilises-au-c-ur-du-brasier-en-gironde_8123198.html#xtor=RSS-3-[lestitres]",
-      "summary": "Face aux incendies, c’est la nuit que le combat est le plus éprouvant pour les pompiers, car les canadairs ne peuvent pas voler. Tout se joue au sol, au plus près des flammes, avec parfois l’aide des habitants.",
-      "image": "https://www.franceinfo.fr/pictures/NtNjgkHVy6TKdmk1UtE2dvvWtUg/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/26/6a66524d60f98233629711.jpg",
-      "published_at": "2026-07-26T20:55:05+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "38ae6b52a286"
     },
     {
       "title": "Guerre à Gaza : le gouvernement israélien valide l’entrée d’une force de sécurité internationale dans l’enclave palestinienne",
