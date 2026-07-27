@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-07-27T21:19:09.263158+00:00",
+  "generated_at": "2026-07-27T23:13:24.013448+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Rénovation de la tour Montparnasse : la mairie de Paris intervient dans le dossier, suspendu à un accord entre copropriétaires",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/28/renovation-de-la-tour-montparnasse-la-mairie-de-paris-intervient-dans-le-dossier-suspendu-a-un-accord-entre-coproprietaires_6734260_3234.html",
+      "summary": "Le permis de construire expire fin novembre et implique que les travaux débutent impérativement avant, sous peine de devoir revoir entièrement le projet.",
+      "image": "https://img.lemde.fr/2026/07/27/1109/0/6655/3327/644/322/60/0/882eb0c_upload-1-1vs29da05vod-000-764b9g6.jpg",
+      "published_at": "2026-07-28T00:42:51+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "b69f24a6990e"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : plus de 180 drones ukrainiens abattus dans la journée de lundi, selon la Russie",
+      "url": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-en-ukraine-plus-de-180-drones-ukrainiens-abattus-dans-la-journee-de-lundi-selon-la-russie_6732775_3210.html",
+      "summary": "Les engins ont été interceptés en Russie et en Crimée, ainsi qu’en mer d’Azov et en mer Noire entre 8 heures et 20 heures, a annoncé le ministère de la défense, qui ne signale jamais d’impact. Par ailleurs, l’armée russe a été autorisée par Vladimir Poutine à recruter 25 000 soldats de plus.",
+      "image": "https://img.lemde.fr/2026/07/27/460/0/5523/2761/644/322/60/0/52dc6b8_ftp-1-hc2jlyrl5x8e-2026-07-27t114654z-95242951-rc2bmma3ojt4-rtrmadp-3-russia-putin.JPG",
+      "published_at": "2026-07-28T00:32:08+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "a55974aee998"
+    },
+    {
+      "title": "La délégation américaine quitte une réunion du Conseil de sécurité de l'ONU pour protester contre des critiques françaises",
+      "url": "https://www.franceinfo.fr/monde/onu/la-delegation-americaine-quitte-une-reunion-du-conseil-de-securite-de-l-onu-pour-protester-contre-des-critiques-francaises_8124605.html#xtor=RSS-3-[lestitres]",
+      "summary": "Sur X, la mission de la France auprès des Nations unies avait comparé les Etats-Unis à la Corée du Nord et à la Russie.",
+      "image": "https://www.franceinfo.fr/pictures/WH84h3E9gkncsbGZSQNxjLc9bFg/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/27/6a67d3c5a80f0947797389.jpg",
+      "published_at": "2026-07-27T23:56:08+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "89ae01f17fdf"
+    },
+    {
+      "title": "Un pompier volontaire meurt dans un accident de la route dans les Bouches-du-Rhône",
+      "url": "https://www.franceinfo.fr/faits-divers/un-pompier-volontaire-meurt-dans-un-accident-de-la-route-dans-les-bouches-du-rhone_8124596.html#xtor=RSS-3-[lestitres]",
+      "summary": "La victime partait effectuer le ravitaillement d'un camion-citerne lorsqu'elle a réalisé une sortie de route, dont les causes ne sont pas déterminées.",
+      "image": "https://www.franceinfo.fr/pictures/EZLlHi4k2Lhm2tbNYVH6VStZPLI/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/27/6a67d0c0bb931874486583.jpg",
+      "published_at": "2026-07-27T23:42:50+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "9c657217b047"
+    },
+    {
+      "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump rejette les inquiétudes d’une pénurie de munitions américaines",
+      "url": "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-au-moyen-orient-donald-trump-rejette-les-inquietudes-d-une-penurie-de-munitions-americaines_6725301_3210.html",
+      "summary": "« J’aimerais en avoir plus, pour être honnête, mais tellement a été donné à l’Ukraine », a déclaré le président américain à la presse, à bord d’Air Force One, après plusieurs mois de frappes sur l’Iran.",
+      "image": "https://img.lemde.fr/2026/07/27/439/0/8256/4128/644/322/60/0/f9d0929_ftp-1-rlktnv47bnn2-5720149-01-06.jpg",
+      "published_at": "2026-07-27T23:32:02+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "22fb52a505fd"
+    },
+    {
+      "title": "L'incendie dans les Landes \"est fixé\", annonce Emmanuel Macron",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/video-l-incendie-dans-les-landes-est-fixe-annonce-emmanuel-macron_8124575.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"La très grande majorité\" des habitants évacués de Biscarosse, Parentis-en-Born et Sanguinet \"vont pouvoir rentrer chez eux dès ce soir\", a annoncé lundi soir Gilles Clavreul, le préfet des Landes.",
+      "image": "https://www.franceinfo.fr/pictures/L7542cpo2GO4iidKUl97l12iwgg/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/27/6a67cbc605b59899018540.jpg",
+      "published_at": "2026-07-27T23:21:27+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "b1c5e0b64ff0"
+    },
     {
       "title": "Une enquête pour \"tentative d'extorsion\" ouverte après l'incendie de la voiture de l'influenceuse Carla Moreau",
       "url": "https://www.franceinfo.fr/marseille/une-enquete-pour-tentative-d-extorsion-ouverte-apres-l-incendie-de-la-voiture-de-l-influenceuse-carla-moreau_8124557.html#xtor=RSS-3-[lestitres]",
@@ -173,16 +233,6 @@
       "id": "98332f4564ab"
     },
     {
-      "title": "Incendies : le feu dans les Landes \"est fixé\", annonce Emmanuel Macron",
-      "url": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendies-en-gironde-84-sapeurs-pompiers-blesses-par-l-incendie-reste-globalement-stable-au-cours-de-la-nuit_8123420.html#xtor=RSS-3-[lestitres]",
-      "summary": "Emmanuel Macron est arrivé lundi en fin de journée en Gironde, département touché par un incendie qui a déjà parcouru 42 000 hectares. Il s'est exprimé à deux reprises sur les incendies en cours dans le pays.",
-      "image": "https://www.franceinfo.fr/pictures/zsGaZeAFlqfAGHNjOl7hqByRLYM/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/27/6a67a651cad28791770792.jpg",
-      "published_at": "2026-07-27T20:47:35+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "2425b29406f4"
-    },
-    {
       "title": "Les dégâts des incendies sur la faune sauvage seront \"catastrophiques\", prévient la ministre de la Transition écologique",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/les-degats-des-incendies-sur-la-faune-sauvage-seront-catastrophiques-previent-la-ministre-de-la-transition-ecologique_8124452.html#xtor=RSS-3-[lestitres]",
       "summary": "\"On est incapable aujourd'hui de donner un chiffre sérieux\" sur les pertes à attendre, a aussi dit lundi Monique Barbut.",
@@ -223,16 +273,6 @@
       "id": "5a08015ff542"
     },
     {
-      "title": "EN DIRECT, guerre en Ukraine : l’armée russe autorisée par Vladimir Poutine à recruter 25 000 soldats de plus",
-      "url": "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-en-ukraine-l-armee-russe-autorisee-par-vladimir-poutine-a-recruter-25-000-soldats-de-plus_6732775_3210.html",
-      "summary": "Les effectifs pourront être portés à 2 426 130 personnes, dont 1 535 000 militaires, à compter du 1ᵉʳ août. Il s’agit de la troisième augmentation depuis le début de l’année. Selon Volodymyr Zelensky, son homologue russe s’apprête à lancer une nouvelle campagne de mobilisation après les élections législatives, prévues le 21 septembre.",
-      "image": "https://img.lemde.fr/2026/07/27/460/0/5523/2761/644/322/60/0/52dc6b8_ftp-1-hc2jlyrl5x8e-2026-07-27t114654z-95242951-rc2bmma3ojt4-rtrmadp-3-russia-putin.JPG",
-      "published_at": "2026-07-27T20:05:16+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "340b6daf2cd8"
-    },
-    {
       "title": "Vacances affectées par les incendies : «On est tristes mais des gens sont en train de perdre leur maison»",
       "url": "https://www.liberation.fr/lifestyle/voyages/vacances-affectees-par-les-incendies-on-est-tristes-mais-des-gens-sont-en-train-de-perdre-leur-maison-20260727_T66G6J4ZZJBDHNZDFFHVARKJJQ/",
       "summary": "Les brasiers qui frappent le pays, notamment en Gironde, dans le Var et en Corse, poussent les vacanciers à revoir leur plan. Les touristes voient leurs réservations annulées, en camping ou en colonie, quand ceux déjà sur place sont contraints d’évacuer en urgence.",
@@ -261,46 +301,6 @@
       "source": "Numerama",
       "category": "Sport",
       "id": "497d75fedcc7"
-    },
-    {
-      "title": "Canal+ va investir un milliard d'euros sur cinq ans dans le cinéma français et européen",
-      "url": "https://www.franceinfo.fr/culture/canal-va-investir-un-milliard-d-euros-sur-5-ans-dans-le-cinema-francais-et-europeen_8124389.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le président du directoire de Canal+, Maxime Saada, a assuré que son groupe était le \"premier partenaire du cinéma français et européen pour longtemps\".",
-      "image": "https://www.franceinfo.fr/pictures/DkgLYoqAvQIcLIxoEPc8pbUIYoc/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/27/6a678f3c664e3782324214.jpg",
-      "published_at": "2026-07-27T19:27:11+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "0c4a75dda362"
-    },
-    {
-      "title": "Comment voir en direct la conférence de presse de Zinédine Zidane avec l’Équipe de France ?",
-      "url": "https://www.numerama.com/pop-culture/2302395-comment-voir-en-direct-la-conference-de-presse-de-zinedine-zidane-avec-lequipe-de-france.html",
-      "summary": "La Fédération Française de Football annoncera mardi 28 juillet à 11 heures le nom du successeur de Didier Deschamps à la tête de l'équipe de France masculine. L'identité de l'heureux élu ne fait quasiment aucun doute : c'est Zinédine Zidane qui devrait entraîner les Bleus à la rentrée.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-27T17:08:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "49cd6b661ac3"
-    },
-    {
-      "title": "Le mégafeu en Gironde «stabilisé» mais une reprise redoutée, nouvelle vague de chaleur mardi, attaque à Paris… L’actu de ce lundi 27 juillet",
-      "url": "https://www.liberation.fr/international/europe/le-megafeu-en-gironde-stabilise-mais-une-reprise-redoutee-nouvelle-vague-de-chaleur-mardi-attaque-a-paris-lactu-de-ce-lundi-27-juillet-20260727_3T4TRQN4XFH4DB22GMKZQN7ZEU/",
-      "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-27T17:05:39+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "a62c023083e3"
-    },
-    {
-      "title": "Après l’annulation par la mairie RN d’Orange d’un concert en hommage à Queen, l’organisateur propose un compromis : «Je fais ça pour les 650 choristes»",
-      "url": "https://www.liberation.fr/culture/scenes/apres-lannulation-par-la-mairie-rn-dorange-dun-concert-en-hommage-a-queen-lorganisateur-propose-un-compromis-je-fais-ca-pour-les-650-choristes-20260727_YEEIBQGPHFCDVJGJOJS656LIVQ/",
-      "summary": "Près d’un mois après la décision de la municipalité de renoncer au spectacle, invoquant des restrictions budgétaires, le producteur se dit prêt à engager des frais. Une dernière audience aura lieu à Nîmes jeudi 30 juillet.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-27T17:03:45+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "97b0724f5704"
     }
   ]
 }
