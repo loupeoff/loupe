@@ -1,19 +1,229 @@
 {
-  "generated_at": "2026-07-28T16:45:53.694339+00:00",
+  "generated_at": "2026-07-28T18:20:16.507496+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Incendies en Gironde : 14 reprises de feux ont été recensées mardi, annonce la préfète",
+      "title": "EN DIRECT - L’incendie dans le Var désormais «fixé», celui de Gironde toujours actif ce mardi",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-en-france-en-gironde-lincendie-toujours-stabilises-apres-une-nuit-calme-20260728_43JT4ACCERGYRDWHIIVAOXZBAA/",
+      "summary": "Le retour d’une vague de chaleur dans la région bordelaise ravive certains foyers à l’est de la capitale régionale. Dans la matinée, les campings de Lacanau ont été évacués par précaution face à la dégradation attendue des conditions météo.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-28T18:17:00+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "b2a0bdad82f0"
+    },
+    {
+      "title": "Incendies : le feu dans le Var est \"officiellement fixé\", annonce la préfecture",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendies-la-situation-reste-tres-imprevisible-en-gironde-ou-le-retour-de-la-chaleur-fait-craindre-une-nouvelle-aggravation_8124866.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le feu qui ravage le département reste \"stabilisé\", mais reprend de la vigueur à la faveur de conditions météo défavorables, notamment à Lège-Cap-Ferret, où une \"importante reprise de feu\" a été signalée mardi après-midi.",
-      "image": "https://www.franceinfo.fr/pictures/3NV0p3TmC2y6dHlqMMYXoQOjOzo/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/28/6a68db89f2803395301979.jpg",
-      "published_at": "2026-07-28T18:40:52+02:00",
+      "summary": "\"Le travail se poursuit et la vigilance reste de mise\", a cependant précisé la préfecture du Var mardi, en début de soirée.",
+      "image": "https://www.franceinfo.fr/pictures/RSp1ed5MU3fW4Lxyd8FJwPOla7c/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/28/6a68eec62278e878386115.jpg",
+      "published_at": "2026-07-28T20:10:03+02:00",
       "source": "France Info",
       "category": "Société",
       "id": "0ac43584eb61"
     },
     {
-      "title": "Zidane intronisé, 14 reprises de feu en Gironde, cinq corps de bébés retrouvés à Orange… L’actu de ce mardi 28 juillet",
+      "title": "Les vêtements pour enfants Okaïdi sortent du redressement judiciaire",
+      "url": "https://www.liberation.fr/economie/social/les-vetements-pour-enfants-okaidi-sortent-du-redressement-judiciaire-20260728_JNWQ36JHAJHQZHCRANQ5OJXQBI/",
+      "summary": "Bien connue des familles, l’enseigne spécialiste des enfants a réussi à améliorer sa situation financière. Le tribunal de commerce de Lille a validé ce mardi 28 juillet le plan de transformation présenté par le groupe nordiste.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-28T17:59:54+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "8545586780ae"
+    },
+    {
+      "title": "Allemagne : pour le chancelier Friedrich Merz, un remaniement ministériel qui vire au fiasco",
+      "url": "https://www.liberation.fr/international/europe/allemagne-pour-le-chancelier-friedrich-merz-un-remaniement-ministeriel-qui-vire-au-fiasco-20260728_25GC4ONQJJH2TNYO6R5GPROAVQ/",
+      "summary": "La démission mi-juillet de son rival à la CDU constituait pour le dirigeant allemand une occasion en or d’asseoir son autorité. Mais la création de son nouveau gouvernement a été ponctuée de ratés, à la veille d’élections régionales qui promettent un triomphe à l’extrême droite.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-28T17:49:43+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "baa5344ec0b2"
+    },
+    {
+      "title": "En Espagne, le « pacte d’Etat » de Pedro Sanchez face à l’urgence climatique est rejeté par une droite climatosceptique",
+      "url": "https://www.lemonde.fr/planete/article/2026/07/28/en-espagne-le-pacte-d-etat-de-pedro-sanchez-face-a-l-urgence-climatique-est-rejete-par-la-droite_6735402_3244.html",
+      "summary": "Alors que les incendies monstres qui ravagent son pays sont en passe d’être fixés, le premier ministre socialiste estime qu’il est urgent d’adopter les mesures de prévention élaborées en 2025 avec la société civile et les scientifiques.",
+      "image": "https://img.lemde.fr/2026/07/28/93/0/5835/2917/644/322/60/0/4f213d6_ftp-1-r7sqr8ntsbsr-5723219-01-06.jpg",
+      "published_at": "2026-07-28T19:42:43+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "2f5949846dae"
+    },
+    {
+      "title": "L’Iran dément négocier avec les Etats-Unis, mais discute avec Oman",
+      "url": "https://www.liberation.fr/international/moyen-orient/liran-dement-negocier-avec-les-etats-unis-mais-discute-avec-oman-20260728_FQKMO6EVGBA2VCDSWWUULC2SVQ/",
+      "summary": "Le sultanat a proposé un mécanisme de redevances pour la gestion du détroit d’Ormuz, calqué sur le fonctionnement actuel de celui de Malacca.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-28T17:30:15+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "14cb2a579d9a"
+    },
+    {
+      "title": "Disney+ : vous ne savez pas quelle série regarder en famille ? On vous aide",
+      "url": "https://www.numerama.com/pop-culture/2302513-disney-vous-ne-savez-pas-quelle-serie-regarder-en-famille-on-vous-aide.html",
+      "summary": "Trouver un programme capable de captiver un enfant de 7 ans sans lasser ses parents relève souvent du parcours du combattant. Pour éviter les productions trop enfantines ou mal écrites, voici une sélection rigoureuse de 7 séries disponibles sur Disney+ en France, parfaitement adaptées à chaque tranche d'âge.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-28T17:30:00+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "e1582d9023ec"
+    },
+    {
+      "title": "Trois Français retrouvés morts en Afrique du Sud, deux suspects interpellés au Luxembourg",
+      "url": "https://www.franceinfo.fr/faits-divers/trois-francais-retrouves-morts-en-afrique-du-sud-deux-suspects-interpelles-au-luxembourg_8125925.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les trois victimes sont originaires de la Manche, dans la région d'Avranches. Il s'agit d'un couple, arrivé la veille en compagnie de la fille mineure de l'une des victimes, ainsi que de la grand-mère de cette dernière.",
+      "image": "https://www.franceinfo.fr/pictures/AL1gdoUrFpZML3ivoPMCFPD2jVA/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/28/6a68e6768f245189923606.jpg",
+      "published_at": "2026-07-28T19:28:33+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "ebb2fa3e2985"
+    },
+    {
+      "title": "Canal+ investit 1 milliard dans le 7e art et veut faire taire les contestataires",
+      "url": "https://www.liberation.fr/culture/cinema/canal-investit-1-milliard-dans-le-7e-art-et-veut-faire-taire-les-contestataires-20260728_D4NNZZB37JA3JC5GHFV7OUUT2A/",
+      "summary": "Le patron du groupe a annoncé le 27 juillet la signature d’un accord : près d’1 milliard d’euros de financements pour le cinéma, sur cinq ans. Une signature refroidie par la menace tangible de «liste noire» pour les cinéastes qui s’opposeraient à la chaîne.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-07-28T17:22:26+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "001f65122aff"
+    },
+    {
+      "title": "Hypersexualisation : le buste de Dalida noirci, un sain dessein",
+      "url": "https://www.liberation.fr/societe/droits-des-femmes/hypersexualisation-le-buste-de-dalida-noirci-un-sain-dessein-20260728_4DQWIF7MFJHWXJENWGI3KVWANQ/",
+      "summary": "Puisse la restauration effectuée par la ville de Paris mettre fin au tripotage douteux que suscite la statue installée depuis 1997 à proximité du Sacré-Cœur.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-28T17:19:41+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "93fa7b4d8a28"
+    },
+    {
+      "title": "Dans les yeux d'un pompier au cœur du brasier en Gironde",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/megafeu-en-gironde-dans-les-yeux-d-un-pompier-au-c-ur-du-brasier_8125739.html#xtor=RSS-3-[lestitres]",
+      "summary": "Un pompier a filmé la lutte contre les flammes en Gironde, à l'aide de ses lunettes connectées. L'incendie a déjà ravagé plus de 42 000 hectares depuis près d'une semaine dans le département.",
+      "image": "https://www.franceinfo.fr/pictures/iYB1Kxg5Ma0KqrXlQoK3nUU3JIE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/28/6a68c56c5fdff512335914.jpg",
+      "published_at": "2026-07-28T19:15:08+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "51216fff6942"
+    },
+    {
+      "title": "Attaque au couteau à Paris : la garde à vue du suspect a été levée pour raison psychiatrique",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/28/attaque-au-couteau-a-paris-la-garde-a-vue-du-suspect-a-ete-levee-pour-raison-psychiatrique_6735400_3224.html",
+      "summary": "L’homme, interpellé lundi après avoir blessé à l’arme blanche trois femmes dans la capitale, faisait l’objet d’un suivi psychiatrique, même s’il était jusque-là inconnu des services de police et de l’autorité judiciaire. Il a été conduit à l’infirmerie psychiatrique de la préfecture.",
+      "image": "https://img.lemde.fr/2026/07/27/324/0/3889/1944/644/322/60/0/a47abf1_ftp-1-nynae5jspjtr-2026-07-27t120109z-1918420765-rc2bmma3eudt-rtrmadp-3-france-security-paris.JPG",
+      "published_at": "2026-07-28T19:13:56+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "9cc10f7a26d5"
+    },
+    {
+      "title": "Zidane nouveau sélectionneur de l’équipe de France : une œuvre de patience et un effet retard",
+      "url": "https://www.liberation.fr/sports/football/zidane-nouveau-selectionneur-de-lequipe-de-france-une-oeuvre-de-patience-et-un-effet-retard-20260728_XJNJUDMOGNHT3MBMVYYJU374XE/",
+      "summary": "Après quatorze ans d’attente, l’ancien meneur de jeu succède à Didier Deschamps avec l’ambition de prolonger les succès des Bleus, dans un contexte où la FFF mise autant sur son aura que sur ses qualités d’entraîneur.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-28T17:11:48+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "6db53d29e19a"
+    },
+    {
+      "title": "CMA CGM augmente ses profits malgré le conflit au Moyen-Orient",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/28/cma-cgm-augmente-ses-profits-malgre-le-conflit-au-moyen-orient_6735399_3234.html",
+      "summary": "Porté par la hausse de la demande et des tarifs, le transporteur maritime français a dégagé 3 milliards de dollars de bénéfice opérationnel au deuxième trimestre.",
+      "image": "https://img.lemde.fr/2026/07/28/671/0/8192/4096/644/322/60/0/a5aa5e2_upload-1-sipmxqy7b91e-000-b92a9r9-1.jpg",
+      "published_at": "2026-07-28T19:08:33+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "36f0206af5db"
+    },
+    {
+      "title": "Incident OpenAI : Sam Altman évoque un ralentissement volontaire du développement de l’IA",
+      "url": "https://www.liberation.fr/societe/sante/incident-openai-sam-altman-evoque-un-ralentissement-volontaire-du-developpement-de-lia-20260728_K2YFJHJMWVF6PHMO54W2P2JW6Q/",
+      "summary": "Dans un podcast diffusé ce mardi 28 juillet, le créateur de ChatGPT revient sur la cyberattaque que deux modèles développés par sa société ont perpétrée de leur propre initiative. Il faut, selon lui, laisser le temps à l’écosystème informatique de s’y préparer.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-07-28T17:04:13+00:00",
+      "source": "Libération",
+      "category": "Tech",
+      "id": "0d891f23c867"
+    },
+    {
+      "title": "L’Italie rappelle Roberto Mancini à la tête de la sélection nationale de football, pour tenter de mettre fin au chaos",
+      "url": "https://www.lemonde.fr/sport/article/2026/07/28/l-italie-rappelle-roberto-mancini-a-la-tete-de-la-selection-nationale-de-football-pour-tenter-de-mettre-fin-au-chaos_6735366_3242.html",
+      "summary": "Mardi, la Fédération italienne de football, plongé dans une crise sportive et institutionnelle, a nommé le technicien de 61 ans à la tête de la Nazionale. Il avait déjà occupé le poste entre 2018 et 2023 et conduit l’Italie au titre européen en 2021.",
+      "image": "https://img.lemde.fr/2026/07/28/209/0/6500/3250/644/322/60/0/5c113d2_ftp-1-ldnzidj91cxv-2026-07-28t140243z-1717210292-rc27dma7q1l0-rtrmadp-3-soccer-italy-mancini.JPG",
+      "published_at": "2026-07-28T19:00:30+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "670d74b75492"
+    },
+    {
+      "title": "Guerre au Soudan : l’armée fait une avancée stratégique après des mois de gel du front",
+      "url": "https://www.lemonde.fr/afrique/article/2026/07/28/guerre-au-soudan-l-armee-fait-une-avancee-strategique-apres-des-mois-de-gel-du-front_6735364_3212.html",
+      "summary": "Les forces armées soudanaises se sont emparées, dimanche 26 juillet, de quatre villes stratégiques situées sur la route reliant Khartoum à El-Obeid, la capitale du Kordofan du Nord assiégée par les paramilitaires des Forces de soutien rapide depuis 2023.",
+      "image": "https://img.lemde.fr/2026/07/27/350/0/4200/2100/644/322/60/0/4ac2d18_ftp-1-msbbpgw3r0s8-5716542-01-06.jpg",
+      "published_at": "2026-07-28T19:00:04+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "c61c6be98127"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky se félicite de sa « belle rencontre » avec Donald Trump",
+      "url": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-en-ukraine-volodymyr-zelensky-se-felicite-de-sa-belle-rencontre-avec-donald-trump_6732775_3210.html",
+      "summary": "« Nous avons discuté (…) des licences de production d’intercepteurs pour les [missiles] Patriot et de quelques autres idées qui pourraient aider. Nous avons également parlé de diplomatie », a affirmé le président ukrainien, sans plus de précisions.",
+      "image": "https://img.lemde.fr/2026/07/28/255/0/4636/2318/644/322/60/0/a050257_ftp-1-2747znim0c4i-2026-07-28t140135z-1474793078-rc22nmaqc1zi-rtrmadp-3-usa-trump.JPG",
+      "published_at": "2026-07-28T18:59:33+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "897ec0c8926c"
+    },
+    {
+      "title": "Après un nouveau casse, la ministre de la Culture dégaine plus vite que prévu son plan sûreté pour les musées",
+      "url": "https://www.liberation.fr/culture/arts/apres-un-nouveau-casse-la-ministre-de-la-culture-degaine-plus-vite-que-prevu-son-plan-surete-pour-les-musees-20260728_4CVJL7IN75B5RFVOWFDCGGPEIM/",
+      "summary": "Le vol du torque en or de Vix, dans un musée de Châtillon-sur-Seine, a poussé Catherine Pégard à accélérer l’annonce d’une trentaine de mesures pour sortir les musées de leur vulnérabilité aux vols.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-28T16:57:57+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "1f856952ad0f"
+    },
+    {
+      "title": "Le Tchad annonce se détacher de la Cour pénale internationale, institution dans la tourmente",
+      "url": "https://www.liberation.fr/international/afrique/le-tchad-annonce-se-detacher-de-la-cour-penale-internationale-institution-dans-la-tourmente-20260728_7P3BAO7VSRBMXD7GAR5GC52QMI/",
+      "summary": "Après le Mali, le Burkina Faso et le Niger le mois dernier, un quatrième Etat africain a engagé lundi 27 juillet une procédure de retrait de l’institution judiciaire de La Haye, prétextant son impartialité à l’égard du continent.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-28T16:54:23+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "20af52dbebde"
+    },
+    {
+      "title": "«Home Stories» d’Eva Trobisch, radio ostalgie",
+      "url": "https://www.liberation.fr/culture/cinema/home-stories-deva-trobisch-radio-ostalgie-20260728_XEOMC3GDQREIVGVXXFOTI637UI/",
+      "summary": "Eva Trobisch suit une famille éparpillée et leur fille sélectionnée pour participer à un télécrochet dans l’ex-Allemagne de l’Est. Une métaphore mélancolique et paresseuse sur l’histoire du pays.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-28T16:53:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "9e6193c8ffce"
+    },
+    {
+      "title": "Est-il possible de se faire rembourser un séjour réservé en Gironde ou dans les Landes, mais dans une commune non évacuée ?",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/onvousrepond-est-il-possible-de-se-faire-rembourser-un-sejour-reserve-en-gironde-ou-dans-les-landes-mais-dans-une-commune-non-evacuee_8124248.html#xtor=RSS-3-[lestitres]",
+      "summary": "A l'approche de leurs vacances dans le Sud-Ouest, en proie à un violent incendie, certains touristes s'inquiètent et hésitent à annuler leur séjour. Mais quels sont les critères de remboursement en fonction des lieux de destination ?",
+      "image": "https://www.franceinfo.fr/pictures/b0GK4ytrYxd1iy-ddLZzZT2ua14/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/28/6a68a4b6b4a84594177233.jpg",
+      "published_at": "2026-07-28T18:43:27+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "f731363129b9"
+    },
+    {
+      "title": "Zidane intronisé, 14 reprises de feu en Gironde, 5 corps de bébés retrouvés à Orange… L’actu de ce mardi 28 juillet",
       "url": "https://www.liberation.fr/international/europe/zidane-intronise-14-reprises-de-feu-en-gironde-cinq-corps-de-bebes-retrouves-a-orange-lactu-de-ce-mardi-28-juillet-20260728_VBKZWME6NNHR3B5NS4SJNZ4YLM/",
       "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
@@ -48,19 +258,9 @@
       "summary": "Grand reporter puis rédacteur en chef du service francophone de la radio américaine Voice of America, il avait couvert de nombreux conflits en Afrique. Il est mort le 24 juillet, à l’âge de 72 ans.",
       "image": "https://img.lemde.fr/2026/07/28/1002/0/3264/1632/644/322/60/0/8c9be25_upload-1-lt0dx9h7akyu-cde3b769-125f-4021-a2cb-ccaf66a75773.jpg",
       "published_at": "2026-07-28T18:29:47+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "780d3fe8109c"
-    },
-    {
-      "title": "EN DIRECT - L’incendie en Gironde pas encore fixé, 14 reprises de feu identifiées ce mardi, annonce la préfète",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-en-france-en-gironde-lincendie-toujours-stabilises-apres-une-nuit-calme-20260728_43JT4ACCERGYRDWHIIVAOXZBAA/",
-      "summary": "Le retour d’une vague de chaleur dans la région ravive certains foyers à l’est de Bordeaux. Dans la matinée, les campings de Lacanau ont été évacués par précaution face à la dégradation attendue des conditions météo.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-28T16:29:47+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "b2a0bdad82f0"
     },
     {
       "title": "« J’ai pris la fuite pour protéger mes enfants, mais ça n’a pas suffi » : à Gaza, les missiles israéliens continuent de tuer des civils malgré le cessez-le-feu",
@@ -68,7 +268,7 @@
       "summary": "Depuis l’annonce du cessez-le-feu imposé par Donald Trump en octobre 2025, les frappes israéliennes ont causé la mort de plus de 1 100 Gazaouis. Parmi eux, près de 300 mineurs, selon l’Unicef, dont les quatre enfants de la famille Al-Masri, morts brûlés avec leurs parents dans l’incendie de leur maison touchée par un missile.",
       "image": "https://img.lemde.fr/2026/07/27/403/0/5500/2750/644/322/60/0/be8de6e_ftp-1-7mq3gfhzu949-2026-07-27t092608z-980240825-rc28mmayjy40-rtrmadp-3-israel-palestinians-gaza.JPG",
       "published_at": "2026-07-28T18:26:04+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "International",
       "id": "6791db0a0879"
     },
@@ -83,11 +283,11 @@
       "id": "2e13a7c397eb"
     },
     {
-      "title": "EN DIRECT, incendies : 14 reprises de feu ont été constatées aujourd’hui en Gironde mais « le feu est toujours stabilisé », assure la préfète",
+      "title": "EN DIRECT, incendies : 14 reprises de feu ont été constatées aujourd’hui en Gironde, mais « le feu est toujours stabilisé », assure la préfète ; dans le Var, le feu du Gros Bessillon est fixé",
       "url": "https://www.lemonde.fr/planete/live/2026/07/28/en-direct-incendies-14-reprises-de-feu-ont-ete-constatees-aujourd-hui-en-gironde-mais-le-feu-est-toujours-stabilise-assure-la-prefete_6730417_3244.html",
-      "summary": "« Nous allons proposer aux habitants de trois communes de réintégrer leur domicile », a précisé Sophie Brocas.",
+      "summary": "Sophie Brocas a annoncé que les habitants du Haillan et des quartiers « extra-rocade » de Mérignac et d’Eysines pourront réintégrer leur domicile s’ils le souhaitent, à condition de respecter les consignes de sécurité et de se tenir prêts à une nouvelle évacuation.",
       "image": "https://img.lemde.fr/2026/07/26/792/0/9504/4752/644/322/60/0/433eded_upload-1-emvibcekkup9-17-hlequeux-feux-gironde-dsc8558.jpg",
-      "published_at": "2026-07-28T18:13:05+02:00",
+      "published_at": "2026-07-28T18:13:01+02:00",
       "source": "Le Monde",
       "category": "Sport",
       "id": "112dc4bdeedf"
@@ -101,206 +301,6 @@
       "source": "Libération",
       "category": "Économie",
       "id": "8bc48b87fb25"
-    },
-    {
-      "title": "Séisme au Japon : tremblement de terre de magnitude 7,1, au moins un mort et des dizaines de blessés",
-      "url": "https://www.lemonde.fr/international/article/2026/07/28/seisme-au-japon-tremblement-de-terre-de-magnitude-7-1-au-moins-un-mort-et-des-dizaines-de-blesses_6734975_3211.html",
-      "summary": "Plusieurs dizaines de personnes sont également portées disparues. Le deuxième étage d’un centre commercial s’est effondré, piégeant de « nombreuses personnes ». Le trafic ferroviaire a été suspendu dans tout le sud du pays, sans anomalie signalée dans les centrales nucléaires.",
-      "image": "https://img.lemde.fr/2026/07/28/429/0/3968/1984/644/322/60/0/94c6968_ftp-1-fgfrm0f09tpz-2026-07-28t125137z-353104138-rc20nma5eaom-rtrmadp-3-japan-quake.JPG",
-      "published_at": "2026-07-28T18:07:52+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "6d622dec11b7"
-    },
-    {
-      "title": "Mort à 99 ans de Betye Saar, grande figure de l’art afro-américain",
-      "url": "https://www.liberation.fr/culture/arts/mort-a-99-ans-de-betye-saar-grande-figure-de-lart-afro-americain-20260728_BFLKXTSIKVHNDCDBZLLV56SBF4/",
-      "summary": "Célèbre pour ses assemblages, figure incontournable du Black Arts Movement, l’artiste afro-américaine Betye Saar a transformé les rebuts de l’Amérique en œuvres libératrices pour les noirs.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-28T16:02:34+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "16f57c7c41a0"
-    },
-    {
-      "title": "A la station Jaurès, le Tibet tient le bon goût",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/a-la-station-jaures-le-tibet-tient-le-bon-gout-20260728_MAYNMT7AFREOPJUUE7G7JUYQH4/",
-      "summary": "(4/6) En suivant la ligne 2 du métro, du côté de Jaurès, rencontre avec la diaspora tibétaine qui y a pris ses quartiers dans les années 2010, notamment en ouvrant des restaurants.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-28T16:00:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "5852f1f48666"
-    },
-    {
-      "title": "La lutte contre le sida menacée par la baisse des budgets d’aide internationale",
-      "url": "https://www.liberation.fr/societe/sante/la-lutte-contre-le-sida-menacee-par-la-baisse-des-budgets-daide-internationale-20260728_WHPXLXKYI5EPNOR6JXZOJCYU4U/",
-      "summary": "Alors qu’une conférence mondiale sur le VIH s’est ouverte le 26 juillet au Brésil, le recul des financements internationaux aux Etats-Unis et en Europe met en péril les programmes de prévention.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-28T15:56:44+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "b1fa7729c539"
-    },
-    {
-      "title": "\"La tendance s’est inversée\" : au Christine Cinéma Club, à Paris, les films cultes attirent un nouveau public jeune dans les salles obscures",
-      "url": "https://www.franceinfo.fr/culture/cinema/la-tendance-s-est-inversee-au-christine-cinema-club-a-paris-les-films-cultes-attirent-un-nouveau-public-jeune-dans-les-salles-obscures_8125133.html#xtor=RSS-3-[lestitres]",
-      "summary": "À l'occasion de la projection, dimanche dernier, de \"Thelma et Louise\", sorti en 1991, le cinéma club du 6e arrondissement de la capitale a accueilli en majorité des étudiants.",
-      "image": "https://www.franceinfo.fr/pictures/B4qrIZt0Vzr6F3rPdkyJe0uzwjo/0x0:1423x800/432x243/filters:format(jpg):quality(50)/2026/07/27/6a671e88ec4f3120751109.jpg",
-      "published_at": "2026-07-28T17:53:26+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "0cbd0a2f2a2f"
-    },
-    {
-      "title": "«I Want Your Sex» de Gregg Araki, parce qu’il le veut bien",
-      "url": "https://www.liberation.fr/culture/cinema/i-want-your-sex-de-gregg-araki-parce-quil-le-veut-bien-20260728_5SVFNQMR7FAATHE437PVJ2JAR4/",
-      "summary": "Dans une confrontation générationnelle amusée autour du consentement, Gregg Araki met en scène un post-ado paumé qui s’adonne à ses désirs BDSM sous l’autorité d’une femme-maîtresse implacable.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-07-28T15:52:00+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "75759e6ba3e3"
-    },
-    {
-      "title": "\"Le Porge a été sacrifié\" : un collectif d'habitants de cette commune de Gironde se constitue en vue d'une action judiciaire, après l'incendie qui a ravagé leurs maisons",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/info-franceinfo-le-porge-a-ete-sacrifie-un-collectif-d-habitants-de-cette-commune-de-gironde-se-constitue-en-vue-d-une-action-judiciaire-apres-l-incendie-qui-a-ravage-leurs-maisons_8125274.html#xtor=RSS-3-[lestitres]",
-      "summary": "Ces habitants soutiennent que la commune a été abandonnée face au feu, avec un résultat catastrophique puisque près de 200 maisons ont été détruites. Leur avocat annonce à franceinfo qu'il \"y aura sûrement un dépôt de plainte pénale\" et \"sans doute aussi des actions sur les plans administratif et civil\".",
-      "image": "https://www.franceinfo.fr/pictures/XxrJBuk3-7w5sr2Qc7NNiA_tmsI/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/28/6a68796172f34406691300.jpg",
-      "published_at": "2026-07-28T17:44:26+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "5deb8973d31e"
-    },
-    {
-      "title": "Marche des fiertés de Berlin : la justice accusée d’avoir fait preuve de laxisme à l’égard de l’auteur de l’attentat",
-      "url": "https://www.lemonde.fr/international/article/2026/07/28/marche-des-fiertes-de-berlin-la-justice-accusee-d-avoir-fait-preuve-de-laxisme-a-l-egard-de-l-auteur-de-l-attentat_6735292_3210.html",
-      "summary": "Reconnu coupable de préparation d’acte terroriste en mai, Abdul Ballout avait été condamné à 22 mois d’emprisonnement par la justice allemande. Le tribunal avait décidé de reporter l’exécution de cette peine, privilégiant le suivi d’un programme de déradicalisation, assorti d’une surveillance étroite par les forces de l’ordre.",
-      "image": "https://img.lemde.fr/2026/07/28/433/0/3664/1832/644/322/60/0/197cf54_ftp-1-1dlctd3fb8rb-5723313-01-06.jpg",
-      "published_at": "2026-07-28T17:42:37+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "6ad34e9d7ae1"
-    },
-    {
-      "title": "L'ONU s'alarme de la \"détérioration rapide\" de la situation en Cisjordanie",
-      "url": "https://www.franceinfo.fr/monde/palestine/l-onu-s-alarme-de-la-deterioration-rapide-de-la-situation-en-cisjordanie_8125781.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le représentant adjoint de l'ONU pour le Moyen-Orient a dénoncé mardi l'\"escalade\" des violences, notamment celles des colons israéliens contre les Palestiniens.",
-      "image": "https://www.franceinfo.fr/pictures/sh8jo15ZJawVhdslApgsVyZEh6k/0x80:1024x656/432x243/filters:format(jpg):quality(50)/2026/07/28/6a68cb823c6d3189508166.jpg",
-      "published_at": "2026-07-28T17:41:46+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "7fef06c43d62"
-    },
-    {
-      "title": "\"On a foncé tête baissée sur ce monstre\" : un pompier des Deux-Sèvres raconte le combat de son équipage contre l'incendie de Gironde",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/temoignage-on-a-fonce-tete-baissee-sur-ce-monstre-un-pompier-des-deux-sevres-raconte-le-combat-de-son-equipage-contre-l-incendie-de-gironde_8125673.html#xtor=RSS-3-[lestitres]",
-      "summary": "Depuis le début de l'incendie, des pompiers de la France entière sont envoyés en Gironde pour combattre les flammes. Même les plus expérimentés se sentent parfois impuissants.",
-      "image": "https://www.franceinfo.fr/pictures/AK-yv5ia4SclPab99E9WhWQc7DY/0x290:5574x3426/432x243/filters:format(jpg):quality(50)/2026/07/28/6a68c89f4a4ee293444035.jpg",
-      "published_at": "2026-07-28T17:41:24+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "35baebd73e6f"
-    },
-    {
-      "title": "De nouveaux scarabées japonais détectés dans les Alpes-Maritimes",
-      "url": "https://www.franceinfo.fr/environnement/biodiversite/animaux/de-nouveaux-scarabees-japonais-detectes-dans-les-alpes-maritimes_8125799.html#xtor=RSS-3-[lestitres]",
-      "summary": "Deux scarabées japonais ont également été capturés près de Strasbourg, dans le Bas-Rhin, depuis la fin du mois de juin.",
-      "image": "https://www.franceinfo.fr/pictures/tXB8n5wimCgnMycTypa16GxQmyM/0x208:4000x2458/432x243/filters:format(jpg):quality(50)/2025/07/20/075-friedman-japanese230816-npmem-687ca1c7c7026060156201.jpg",
-      "published_at": "2026-07-28T17:38:20+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "4201ef74d168"
-    },
-    {
-      "title": "Dans les yeux d'un pompier au cœur du brasier en Gironde",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/megafeu-en-gironde-dans-les-yeux-d-un-pompier-au-c-ur-du-brasier_8125739.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un pompier a filmé la lutte contre les flammes en Gironde, à l'aide de ses lunettes connectées. L'incendie a déjà ravagé plus de 42 000 hectares depuis près d'une semaine dans le département.",
-      "image": "https://www.franceinfo.fr/pictures/iYB1Kxg5Ma0KqrXlQoK3nUU3JIE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/28/6a68c56c5fdff512335914.jpg",
-      "published_at": "2026-07-28T17:35:27+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "51216fff6942"
-    },
-    {
-      "title": "Canicule : 16 départements, dont les Landes et la Gironde, passent en vigilance orange mercredi",
-      "url": "https://www.liberation.fr/environnement/climat/canicule-16-departements-dont-les-landes-et-la-gironde-passent-en-vigilance-orange-mercredi-20260728_BWB43LR7LJDVTKSMTDB5342T74/",
-      "summary": "La vague de chaleur va «se généraliser à une grande partie de la France» et la hausse des températures sera «durable sur le Centre-Est», rapporte Météo France ce mardi 28 juillet.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-28T15:33:13+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "fbcd9bbd57c2"
-    },
-    {
-      "title": "Affaire des \"biens mal acquis\" gabonais en France : le PNF demande le renvoi en correctionnelle de BNP Paribas et des enfants d'Omar Bongo",
-      "url": "https://www.franceinfo.fr/faits-divers/justice-proces/affaire-des-biens-mal-acquis-gabonais-en-france-le-pnf-demande-le-renvoi-en-correctionnelle-de-bnp-paribas-et-des-enfants-d-omar-bongo_8125766.html#xtor=RSS-3-[lestitres]",
-      "summary": "Au total, le Parquet national financier demande le renvoi de 23 personnes physiques ou morales : cinq sociétés dont la BNP Paribas et quatre sociétés immobilières, et 18 individus.",
-      "image": "https://www.franceinfo.fr/pictures/RuTX5iOFT6MbCEvAmnw4ndVn8DQ/0x0:4000x2250/432x243/filters:format(jpg):quality(50)/2026/07/28/6a68ca272c7db759515714.jpg",
-      "published_at": "2026-07-28T17:30:55+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "4b44085def3b"
-    },
-    {
-      "title": "Il n’y a « aucune somnolence au sommet de l’Etat » : au Cameroun, la controverse enfle sur l’absence prolongée du président Paul Biya, 93 ans",
-      "url": "https://www.lemonde.fr/afrique/article/2026/07/28/il-n-y-a-aucune-somnolence-au-sommet-de-l-etat-au-cameroun-la-controverse-enfle-sur-l-absence-prolongee-du-president-paul-biya-93-ans_6735290_3212.html",
-      "summary": "Le doyen des chefs d’Etat dans le monde n’est pas rentré à Yaoundé depuis le 7 juin, alimentant les interrogations sur son état de santé et l’inertie du pouvoir. Le pays n’a pas connu d’alternance politique depuis son indépendance, en 1960.",
-      "image": "https://img.lemde.fr/2026/07/27/344/0/4200/2100/644/322/60/0/300fe1f_upload-1-2g1sehxmb8tc-000-a89u9u8.jpg",
-      "published_at": "2026-07-28T17:30:22+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "8eb2c0cc2c59"
-    },
-    {
-      "title": "« Où est Günther ? » : Reinhold Messner hanté par le drame du frère disparu à ses côtés, dans l’Himalaya",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/28/ou-est-gunther-reinhold-messner-hante-par-le-drame-du-frere-disparu-a-ses-cotes-dans-l-himalaya_6735289_3451060.html",
-      "summary": "« Reinhold Messner, l’ivresse des sommets » (3/6). En 1970, les deux frères participent à une expédition à l’assaut du Nanga Parbat, redoutable colosse de l’Himalaya pakistanais. Le cadet n’en reviendra pas. Plus de cinquante ans après, les témoins de l’époque contestent le récit de Reinhold Messner, qui dénonce un complot monté contre lui.",
-      "image": "https://img.lemde.fr/2026/07/20/196/0/2359/1179/644/322/60/0/1fe789b_upload-1-7urmcke1hk5d-gu-nther-l1-k.jpg",
-      "published_at": "2026-07-28T17:30:12+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "0e317efe437b"
-    },
-    {
-      "title": "Demandeurs d’emploi : une hausse en trompe-l’œil à interpréter avec prudence",
-      "url": "https://www.lemonde.fr/politique/article/2026/07/28/demandeurs-d-emploi-une-hausse-en-trompe-l-il-a-interpreter-avec-prudence_6735288_823448.html",
-      "summary": "Le nombre d’inscrits à France Travail sans aucune activité a progressé de 0,8 % au deuxième trimestre 2026, selon des données rendues publiques mardi. Corrigée des changements réglementaires introduits en 2025, cette statistique enregistre en réalité un recul de 0,2 %.",
-      "image": "https://img.lemde.fr/2026/07/28/594/0/4108/2054/644/322/60/0/4d048cc_upload-1-ezwmfc42hivd-000-34qc6n9.jpg",
-      "published_at": "2026-07-28T17:30:01+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "f0f33e886baf"
-    },
-    {
-      "title": "Trois femmes blessées dans une attaque aux couteaux à Paris : la garde à vue du suspect levée pour raison psychiatrique",
-      "url": "https://www.liberation.fr/societe/police-justice/trois-personnes-blessees-dans-une-attaque-aux-couteaux-a-paris-un-suspect-interpelle-20260727_NXQIWVAYNFHUXAAHD2OULYJKNA/",
-      "summary": "Un homme armé de deux couteaux s’en est pris à des passantes âgées de 19, 24 et 36 ans, ce lundi 27 juillet en fin de matinée dans le nord-ouest de la capitale. Elles ont été transportées à l’hôpital.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-28T15:28:03+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "401be6634043"
-    },
-    {
-      "title": "La garde à vue du suspect dans l'attaque au couteau à Paris lundi a été levée pour raisons psychiatriques",
-      "url": "https://www.franceinfo.fr/faits-divers/la-garde-a-vue-du-suspect-dans-l-attaque-au-couteau-a-paris-a-ete-levee-pour-raison-psychiatrique_8125730.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le suspect est accusé d'avoir blessé trois femmes avec des couteaux de cuisine, lundi, à Paris. Rapidement arrêté, il a été placé en garde à vue du chef de tentatives de meurtre. Il a été conduit mardi à l'infirmerie psychiatrique de la préfecture de police de Paris.",
-      "image": "https://www.franceinfo.fr/pictures/GfvE2qJwkvtDUKUYYSQQlt-_6Vk/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/28/6a68c8052a241471074825.jpg",
-      "published_at": "2026-07-28T17:25:24+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "7f2b45e4a228"
-    },
-    {
-      "title": "Bâtiments endommagés, centre commercial effondré, pont éventré… Les dégâts provoqués par le séisme de magnitude 7,1 dans le sud du Japon",
-      "url": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/en-images-batiments-endommages-centre-commercial-effondre-pont-eventre-les-degats-provoques-par-le-seisme-de-magnitude-7-1-dans-le-sud-du-japon_8125514.html#xtor=RSS-3-[lestitres]",
-      "summary": "La préfecture de Kumamoto a été touchée par une secousse qui a fait au moins un mort et plus de 50 blessés. Le deuxième étage d'un centre commercial s'est effondré, piégeant de nombreuses personnes à l'intérieur, selon les pompiers.",
-      "image": "https://www.franceinfo.fr/pictures/Ywd7ykQJTPRr7frN4VcmSDJV1Rs/0x0:5000x2812/432x243/filters:format(jpg):quality(50)/2026/07/28/6a68ac600aa82710249670.jpg",
-      "published_at": "2026-07-28T17:22:02+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "b76097d322af"
     }
   ]
 }
