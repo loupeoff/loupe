@@ -1,16 +1,96 @@
 {
-  "generated_at": "2026-07-29T19:35:36.031579+00:00",
+  "generated_at": "2026-07-29T21:05:39.956066+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "EN DIRECT - Incendies et canicule : des reprises de feu signalées à Fontainebleau",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-et-canicule-en-france-en-gironde-une-nuit-calme-et-un-feu-toujours-stabilise-avant-une-journee-tres-chaude-20260729_64HFBBEKXBARJPG7VMBWG3SPNA/",
-      "summary": "Les Landes et la Gironde, toujours en proie aux feux, rebasculeront en vert dès l’aube, jeudi, à la faveur d’un «net rafraîchissement» sur la façade atlantique, annonce Météo-France.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-29T19:28:57+00:00",
-      "source": "Libération",
+      "title": "En Gironde, 80 hectares dédiés aux recherches forestières de l'Inrae ont brûlé dans l'incendie",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-gironde-80-hectares-dedies-aux-recherches-forestieres-de-l-inrae-ont-brule-dans-l-incendie_8127662.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les dispositifs comportaient notamment des parcelles destinées à tester le mélange d'espèces, à documenter l'effet du dérèglement climatique sur les arbres pour encore à étudier l'impact des bioagresseurs sur les écosystèmes forestiers.",
+      "image": "https://www.franceinfo.fr/pictures/DxngQlpFNUuBmkEXE5N9KvdRnTo/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a69c81a602540380686.jpg",
+      "published_at": "2026-07-29T23:01:15+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "f042c13bb20c"
+    },
+    {
+      "title": "L'incendie en Gironde \"n'a pas progressé\" mercredi malgré les fortes chaleurs, annonce la préfète",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/video-l-incendie-en-gironde-n-a-pas-progresse-mercredi-malgre-les-fortes-chaleurs-annonce-la-prefete_8127650.html#xtor=RSS-3-[lestitres]",
+      "summary": "La préfète de Gironde, Sophie Brocas, a déclaré, mercredi soir, \"envisager un retour à une vie plus normale\" si l'accalmie \"se confirme\".",
+      "image": "https://www.franceinfo.fr/pictures/810dkOqFjWQuMxpah3KrzkEPF08/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a6172d653b788618181.jpg",
+      "published_at": "2026-07-29T22:37:53+02:00",
+      "source": "France Info",
       "category": "Société",
+      "id": "24ba03423066"
+    },
+    {
+      "title": "\"Je me suis vu mourir\" : après avoir frôlé la mort dans un incendie il y a 20 ans, ce pompier poursuit sa carrière",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/je-me-suis-vu-mourir-apres-avoir-frole-la-mort-dans-un-incendie-il-y-a-20-ans-ce-pompier-poursuit-sa-carriere_8127593.html#xtor=RSS-3-[lestitres]",
+      "summary": "Parmi les pompiers engagés en Gironde, l’un d’eux sait mieux que quiconque ce que les flammes peuvent coûter. En 2004, Frédéric Maggiani a failli mourir dans un incendie de forêt. Il a été brûlé sur 37 % du corps et amputé de plusieurs doigts, mais il a pourtant repris son métier. Il témoigne auprès des équipes de France Télévisions.",
+      "image": "https://www.franceinfo.fr/pictures/t4ZJy7K-GRnw3VdEWVTNOmBYzkA/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a4afc3429e154130292.jpg",
+      "published_at": "2026-07-29T22:36:42+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "de93a9c786eb"
+    },
+    {
+      "title": "Incendies et canicule : Le mégafeu en Gironde «n’a pas progressé», un possible «retour à une vie plus normale» envisagé",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-et-canicule-en-france-en-gironde-une-nuit-calme-et-un-feu-toujours-stabilise-avant-une-journee-tres-chaude-20260729_64HFBBEKXBARJPG7VMBWG3SPNA/",
+      "summary": "Le mégafeu qui a ravagé 42 000 hectares «n’a pas progressé» mercredi malgré les fortes chaleurs ressenties qui laissaient craindre «une journée à haut risque», s’est félicité mercredi soir la préfète, disant pouvoir «envisager», si l’accalmie se confirme, un retour à la «normale».",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-29T20:35:40+00:00",
+      "source": "Libération",
+      "category": "Politique",
       "id": "c51bdba8209a"
+    },
+    {
+      "title": "Incendies : \"importante reprise de feu\" dans la forêt de Fontainebleau, 7 hectares brûlés",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-en-gironde-le-feu-reste-stabilise-apres-une-nouvelle-nuit-calme-selon-la-prefecture_8126570.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Il n'y a pas d'évacuations envisagées\", a cependant souligné mercredi soir un officier de communication du service départemental d''incendie et de secours (Sdis) de Seine-et-Marne. 7 départs de feu 3 encore actifs",
+      "image": "https://www.franceinfo.fr/pictures/_S_0uSFW3kp1iNS3V9YVmbzc31M/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a5e886bde9959428492.jpg",
+      "published_at": "2026-07-29T22:28:19+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "e146c9b115bb"
+    },
+    {
+      "title": "\"Nous survolons les 42 000 hectares brûlés\" : les images de l'incendie en Gironde vu d'un hélicoptère de l'armée",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/face-aux-incendies-en-gironde-l-helicoptere-caracal-permet-de-guider-les-pompiers_8127569.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le vent et la chaleur ont favorisé de nombreuses reprises de feu en Gironde. Les équipes de France Télévisions ont pu embarquer, dans la nuit du mardi 28 au mercredi 29 juillet, dans un hélicoptère Caracal de l’armée. Quand les Canadair et les Dash ne peuvent plus voler, les caméras thermiques guident les pompiers au sol.",
+      "image": "https://www.franceinfo.fr/pictures/zwjTkCWJ0_pSfGsnPi40VZca9i8/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a476f5ee96645760777.jpg",
+      "published_at": "2026-07-29T22:26:05+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "dc19c7b0db4f"
+    },
+    {
+      "title": "Un ancien pilote de chasse français mis en examen pour \"intelligence\" avec la Chine et \"divulgation de secret de défense nationale\"",
+      "url": "https://www.franceinfo.fr/faits-divers/un-ancien-pilote-de-chasse-francais-mis-en-examen-pour-intelligence-avec-la-chine-et-divulgation-de-secret-de-defense-nationale_8127635.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les faits reprochés avaient été signalés à la justice par le ministère des Armées au titre de l'article 40 du code de procédure pénale.",
+      "image": "https://www.franceinfo.fr/pictures/MJSvrfjPe7WZFs_YfrKz1p9oWu8/0x95:1024x671/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a5d248af41735784609.jpg",
+      "published_at": "2026-07-29T22:06:42+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "8e807fba645e"
+    },
+    {
+      "title": "Le groupe de K-pop BTS renonce aux Grammy Awards 2027 après l’introduction d’une nouvelle catégorie",
+      "url": "https://www.liberation.fr/culture/musique/le-groupe-de-k-pop-bts-renonce-aux-grammy-awards-2027-apres-lintroduction-dune-nouvelle-categorie-20260729_4QMXTAEWVZEMPLPAMRJINDXWBI/",
+      "summary": "L’association organisatrice a annoncé la création d’une nouvelle section consacrée à la pop asiatique. Les mégastars coréennes, préssenties pour briguer plusieurs prix, ont estimé que la musique ne devait pas être jugée «en fonction de la région ou de la langue».",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-07-29T19:44:02+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "ce5195d25499"
+    },
+    {
+      "title": "La SNCF maintient jusqu'à dimanche l'annulation des TGV au sud de Bordeaux",
+      "url": "https://www.franceinfo.fr/economie/transports/sncf/la-sncf-maintient-jusqu-a-dimanche-l-annulation-des-tgv-au-sud-de-bordeaux_8127581.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Le gouvernement a également décidé de prolonger jusqu'au 4 août inclus le dispositif exceptionnel de report et d'annulation, permettant aux voyageurs concernés de modifier leur réservation sans frais\", selon le ministre des Transports, Philippe Tabarot.",
+      "image": "https://www.franceinfo.fr/pictures/bSdFo2DwXYJaYfSw3Ji6hIkYAMk/0x52:1024x628/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a559418021354641747.jpg",
+      "published_at": "2026-07-29T21:34:45+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "fa5d6b02f8b1"
     },
     {
       "title": "Les régions du Centre-Est et du Sud-Est au cœur d’un quatrième épisode caniculaire probablement moins intense que les précédents",
@@ -23,24 +103,14 @@
       "id": "a6db99045eed"
     },
     {
-      "title": "« Je vous conseille de quitter les lieux assez vite, je veux dire : tout de suite » : à Lanton, en Gironde comment le pire a été évité face aux sautes de feu",
+      "title": "« Je vous conseille de quitter les lieux assez vite, je veux dire : tout de suite » : à Lanton, en Gironde, comment le pire a été évité face aux « sauts » du feu",
       "url": "https://www.lemonde.fr/planete/article/2026/07/29/je-vous-conseille-de-quitter-les-lieux-assez-vite-je-veux-dire-tout-de-suite-a-lanton-en-gironde-comment-le-pire-a-ete-evite-face-aux-sautes-de-feu_6736414_3244.html",
       "summary": "En quelques heures, mercredi 29 juillet, les pompiers et bénévoles, soutenus par les largages de Canadair et d’un Dash, ont pu stopper la progression fulgurante des flammes qui menaçaient des habitations, sur le front sud de l’incendie.",
       "image": "https://img.lemde.fr/2026/07/29/1584/0/9504/4752/644/322/60/0/c87f53d_upload-1-waiupetfmvbg-10-hlequeux-feux-gironde-dsc8762.jpg",
-      "published_at": "2026-07-29T21:12:49+02:00",
+      "published_at": "2026-07-29T21:12:45+02:00",
       "source": "Le Monde",
       "category": "Sport",
       "id": "e85f9c31cade"
-    },
-    {
-      "title": "\"Nous survolons les 42 000 hectares brûlés\" : les images de l'incendie en Gironde vu d'un hélicoptère de l'armée",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/face-aux-incendies-en-gironde-l-helicoptere-caracal-permet-de-guider-les-pompiers_8127569.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le vent et la chaleur ont favorisé de nombreuses reprises de feu en Gironde. Les équipes de France Télévisions ont pu embarquer, dans la nuit du mardi 28 au mercredi 29 juillet, dans un hélicoptère Caracal de l’armée. Quand les Canadair et les Dash ne peuvent plus voler, les caméras thermiques guident les pompiers au sol.",
-      "image": "https://www.franceinfo.fr/pictures/zwjTkCWJ0_pSfGsnPi40VZca9i8/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a476f5ee96645760777.jpg",
-      "published_at": "2026-07-29T21:06:06+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "dc19c7b0db4f"
     },
     {
       "title": "Le gouvernement rehausse le plafond d'aide d'urgence pour certains indépendants après les incendies en Nouvelle-Aquitaine",
@@ -75,9 +145,9 @@
     {
       "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis annoncent de nouvelles sanctions visant des entités iraniennes liées aux gardiens de la révolution",
       "url": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-les-etats-unis-annoncent-de-nouvelles-sanctions-visant-des-entites-iraniennes-liees-aux-gardiens-de-la-revolution_6725301_3210.html",
-      "summary": "L’annonce de ces sanctions, qui concernent des entités accusées d’imposer des « assurances » aux navires transitant par le détroit d’Ormuz, survient alors que Donald Trump a averti que les Etats-Unis allaient frapper « fort » l’Iran après des tirs iraniens contre des bases américaines en Jordanie.",
+      "summary": "L’annonce de ces sanctions, qui concernent des entités accusées d’imposer des « assurances » aux navires transitant par le détroit d’Ormuz, survient alors que Donald Trump a averti que les Etats-Unis allaient frapper « fort » l’Iran à la suite de tirs iraniens contre des bases américaines en Jordanie.",
       "image": "https://img.lemde.fr/2026/07/28/64/0/4698/2349/644/322/60/0/8aa1bc5_ftp-1-jzu3olb1424f-2026-07-28t185649z-949543134-rc26nma3xxo0-rtrmadp-3-people-lindsey-graham.JPG",
-      "published_at": "2026-07-29T20:39:39+02:00",
+      "published_at": "2026-07-29T20:39:36+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "710a4bf2cc09"
@@ -231,76 +301,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "b8067ce81592"
-    },
-    {
-      "title": "Pourquoi la préfecture de Seine-Saint-Denis veut fermer une mosquée à Aulnay-sous-Bois",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/29/pourquoi-la-prefecture-de-seine-saint-denis-veut-fermer-une-mosquee-a-aulnay-sous-bois_6736407_3224.html",
-      "summary": "Dans le viseur des autorités depuis plusieurs années, le lieu de culte est accusé de diffuser une « idéologie islamiste radicale » ou de « légitimer le djihad », notamment à travers des prêches d’imams invités. L’association gestionnaire a introduit un recours contre la décision préfectorale.",
-      "image": "https://img.lemde.fr/2026/07/29/0/64/4480/2240/644/322/60/0/95f8ba5_upload-1-h7sxwcqcvbqm-20260729lpa6789.jpg",
-      "published_at": "2026-07-29T19:30:12+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "41bf60b036d9"
-    },
-    {
-      "title": "Incendies : 263 personnes ont été interpellées par les forces de l'ordre dans le cadre d'enquêtes sur des départs de feu depuis en mois",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-en-gironde-le-feu-reste-stabilise-apres-une-nouvelle-nuit-calme-selon-la-prefecture_8126570.html#xtor=RSS-3-[lestitres]",
-      "summary": "Parmi les 263 personnes interpellées par les forces de l'ordre depuis le 28 juin, 92 sont mineures, a fait savoir Matignon.",
-      "image": "https://www.franceinfo.fr/pictures/QONrV6oAU2BGZUJyFnUc97qXpi4/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a171e1e4d8003653736.jpg",
-      "published_at": "2026-07-29T19:25:49+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "e146c9b115bb"
-    },
-    {
-      "title": "L’Ukraine vise de plus en plus les entrepôts de Wildberries, géant du commerce en ligne russe",
-      "url": "https://www.liberation.fr/international/europe/lukraine-vise-de-plus-en-plus-les-entrepots-de-wildberries-geant-du-commerce-en-ligne-russe-20260729_YLE6TAA2JRETNPUX2C7LMR2A5Y/",
-      "summary": "Les forces armées ukrainiennes ont de nouveau visé les entrepôts de l’entreprise russe, cette fois à Ryazan, une ville située à 200 kilomètres au sud-ouest de Moscou. «La Russie doit sentir que chaque jour de cette guerre ne lui coûtera que plus cher», a justifié le président Zelensky.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-07-29T17:24:41+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "b6ba5d4090e5"
-    },
-    {
-      "title": "Le feu de végétation se propage et détruit trois maisons, une centaine d'habitants évacués, un important dispositif de pompiers mobilisé",
-      "url": "https://france3-regions.franceinfo.fr/grand-est/vosges/le-feu-de-vegetation-se-propage-et-detruit-trois-maisons-une-centaine-d-habitants-evacues-un-important-dispositif-de-pompiers-mobilise-3394216.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un incendie important s'est déclaré, mercredi 29 juillet, à Vagney dans les Vosges. Le feu a pris dans une haie et s'est ensuite propagé pour atteindre des maisons. Une centaine d'habitants ont été évacués et une centaine de sapeurs-pompiers mobilisés pour éviter un feu de forêt.",
-      "image": "https://www.franceinfo.fr/pictures/t4V2LhHPziTUT0ixr-5Z-DT3jyI/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a28bc1c5c8877586953.jpg",
-      "published_at": "2026-07-29T19:23:52+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "06e40751d9d4"
-    },
-    {
-      "title": "Énorme panache de fumée dans le ciel : 20 hectares brûlés dans un violent incendie au sud de Dijon, 150 pompiers mobilisés",
-      "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/cote-d-or/enorme-panache-de-fumee-dans-le-ciel-un-incendie-se-declare-au-sud-de-dijon-3394111.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un incendie a démarré ce mercredi après-midi au sud de Dijon (Côte-d'Or), sur les hauteurs de Couchey. Une centaine de pompiers est mobilisée.",
-      "image": "https://www.franceinfo.fr/pictures/d4bNCesH75zARmDDQdE_q191Qi8/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a0b8d66490874847951.jpg",
-      "published_at": "2026-07-29T19:06:21+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "c9acf9f31c3f"
-    },
-    {
-      "title": "Brésil : la Cour suprême somme Jair Bolsonaro de s’expliquer sur un deepfake électoral en soutien de son fils candidat à la présidentielle",
-      "url": "https://www.lemonde.fr/international/article/2026/07/29/bresil-la-cour-supreme-somme-jair-bolsonaro-de-s-expliquer-sur-un-deepfake-electoral-en-soutien-de-son-fils-candidat-a-la-presidentielle_6736406_3210.html",
-      "summary": "L’ancien chef de l’Etat a interdiction de s’exprimer publiquement alors qu’il purge, à son domicile, une peine de vingt-sept ans de prison pour une tentative de coup d’Etat après sa défaite au scrutin de 2022.",
-      "image": "https://img.lemde.fr/2026/07/29/408/0/4900/2450/644/322/60/0/ff519c0_ftp-1-pzblof4kok31-2026-07-29t031508z-2037710400-rc24lmae6fd3-rtrmadp-3-brazil-politics-bolsonaro-ai.JPG",
-      "published_at": "2026-07-29T19:02:04+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "e7538af4cbe4"
-    },
-    {
-      "title": "La Syrie se promeut en plateforme énergétique et logistique alternative au détroit d’Ormuz",
-      "url": "https://www.lemonde.fr/international/article/2026/07/29/la-syrie-se-promeut-en-plateforme-energetique-et-logistique-alternative-au-detroit-d-ormuz_6736405_3210.html",
-      "summary": "Porté par les pays du Golfe, la Turquie et Washington, le président syrien, Ahmed Al-Charaa, mise sur la position géographique de son pays pour en faire un corridor énergétique incontournable entre le Golfe et l’Europe, et sortir le pays de son isolement après quatorze ans de guerre civile.",
-      "image": "https://img.lemde.fr/2026/07/29/923/0/8073/4036/644/322/60/0/66f86d3_upload-1-zijzs8vvglse-dsc-1159-1.jpg",
-      "published_at": "2026-07-29T19:00:09+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "8cdcf57c0d24"
     }
   ]
 }
