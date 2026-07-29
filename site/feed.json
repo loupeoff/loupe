@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-07-29T00:04:02.643627+00:00",
+  "generated_at": "2026-07-29T03:31:15.672417+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Au Japon, la crainte d’un lourd bilan après le puissant séisme survenu à Kumamoto",
+      "url": "https://www.lemonde.fr/planete/article/2026/07/29/au-japon-la-crainte-d-un-lourd-bilan-apres-le-puissant-seisme-survenu-a-kumamoto_6735905_3244.html",
+      "summary": "Le tremblement de terre de magnitude 7,1 a provoqué d’importants dégâts, mardi, à Kumamoto, dans le sud-ouest de l’Archipel. Le bilan pourrait être alourdi par la puissante explosion qui a dévasté un centre commercial.",
+      "image": "https://img.lemde.fr/2026/07/28/444/0/8256/4128/644/322/60/0/7403a24_ftp-1-zlgllsdr6zfr-5727745-01-06.jpg",
+      "published_at": "2026-07-29T05:00:10+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "f2317ac7cfde"
+    },
+    {
+      "title": "A Washington, Volodymyr Zelensky soigne sa nouvelle relation avec Donald Trump et décroche une victoire au Sénat américain",
+      "url": "https://www.lemonde.fr/international/article/2026/07/29/a-washington-volodymyr-zelensky-soigne-sa-nouvelle-relation-avec-donald-trump-et-decroche-une-victoire-au-senat-americain_6735906_3210.html",
+      "summary": "Alors que le locataire de la Maison Blanche se montre plus prévenant avec son homologue ukrainien, un nouveau paquet de sanctions contre la Russie a passé une étape décisive à la chambre haute du Congrès.",
+      "image": "https://img.lemde.fr/2026/07/28/51/0/3500/1750/644/322/60/0/3ae4143_ftp-1-xscegsbzewt0-5726856-01-06.jpg",
+      "published_at": "2026-07-29T05:00:03+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "3f7c682c52d6"
+    },
+    {
+      "title": "«Le Triangle d’or» d’Hélène Rosselet-Ruiz, major dame",
+      "url": "https://www.liberation.fr/culture/cinema/le-triangle-dor-dhelene-rosselet-ruiz-major-dame-20260729_SVNS5K76SJDTVBHRTVIHFC2WFM/",
+      "summary": "Dans un huis clos qui suit le «couple» formé par la maîtresse d’un prince saoudien et sa domestique, la cinéaste mêle ambiance anxiogène et critique des ultra riches.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-29T02:00:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "83dcf6d0c145"
+    },
+    {
+      "title": "« Musango matusadonaensis », un nouveau dinosaure découvert au Zimbabwe qui arpentait la brousse il y a 210 millions d’années",
+      "url": "https://www.lemonde.fr/sciences/article/2026/07/29/musango-matusadonaensis-un-nouveau-dinosaure-decouvert-au-zimbabwe-qui-arpentait-la-brousse-il-y-a-210-millions-d-annees_6735739_1650684.html",
+      "summary": "La découverte de cette espèce découle de l’examen d’un squelette déterré en 2018, dans le nord du Zimbabwe. Le dinosaure mesurait environ 4,5 m de long et pesait seulement 222 kg. Les chercheurs pensent qu’il était probablement herbivore ou omnivore.",
+      "image": "https://img.lemde.fr/2026/07/29/123/0/3992/1996/644/322/60/0/15ca580_upload-1-nuycdnuvhdkm-000-32hg4u2.jpg",
+      "published_at": "2026-07-29T02:40:36+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "4784af0f0788"
+    },
+    {
+      "title": "Etats-Unis : l’industrie spatiale pourrait bénéficier de règles environnementales allégées",
+      "url": "https://www.lemonde.fr/international/article/2026/07/29/etats-unis-l-industrie-spatiale-pourrait-beneficier-de-regles-environnementales-allegees_6735706_3210.html",
+      "summary": "L’administration Trump souhaite éliminer des exigences fédérales de protection de la nature pour « obtenir plus rapidement et plus facilement les autorisations nécessaires pour lancer des fusées et faire rentrer des engins spatiaux dans l’atmosphère ».",
+      "image": "https://img.lemde.fr/2026/07/28/293/0/3553/1776/644/322/60/0/68d4e88_ftp-1-xsjyluqwgvue-2026-07-28t194141z-3695135-rc2hkmazuysd-rtrmadp-3-space-exploration-licenses.JPG",
+      "published_at": "2026-07-29T02:03:35+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "83bf79ddf822"
+    },
     {
       "title": "Aux Etats-Unis, prison à vie pour un adolescent auteur d’une tuerie dans un lycée de Géorgie",
       "url": "https://www.lemonde.fr/international/article/2026/07/29/aux-etats-unis-prison-a-vie-pour-un-adolescent-auteur-d-une-tuerie-dans-un-lycee-de-georgie_6735673_3210.html",
@@ -251,56 +301,6 @@
       "source": "Libération",
       "category": "Économie",
       "id": "2ee99f72446f"
-    },
-    {
-      "title": "Incendies en Gironde : le «feu agit aux portes du camp» militaire de Souge, selon le maire de Martignas-sur-Jalle",
-      "url": "https://www.liberation.fr/environnement/incendies-en-gironde-le-feu-agit-aux-portes-du-camp-militaire-de-souge-selon-le-maire-de-martignas-sur-jalle-20260728_GABSW2XKFRGYPLXZJ5IATBBBSQ/",
-      "summary": "Face au brasier, certains points stratégiques sont au centre de toutes les inquiétudes, notamment le camp militaire de l’ouest de la métropole bordelaise. Des «experts et des moyens» ont été «déployés pour la sécurité des sites industriels», a fait savoir le ministère des Armées.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-07-28T18:57:13+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "9cf575d9a31b"
-    },
-    {
-      "title": "Volodymyr Zelensky et Donald Trump ont évoqué la production de missiles Patriot par l'Ukraine",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-et-donald-trump-ont-evoque-la-production-de-missiles-patriot-par-l-ukraine_8126009.html#xtor=RSS-3-[lestitres]",
-      "summary": "Début juillet, Donald Trump avait fait part de sa volonté d'autoriser l'Ukraine à produire ces missiles sol-air et leur rencontre intervient au moment où la Russie intensifie ses frappes sur l'Ukraine.",
-      "image": "https://www.franceinfo.fr/pictures/HPO-Vt6qrkh_1SKtF9grpalGFmg/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/28/6a68fb0da98c6115689891.jpg",
-      "published_at": "2026-07-28T20:56:06+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "d28910fbcfec"
-    },
-    {
-      "title": "De moins en moins de femmes parmi les préfets, s’alarme la Cour des comptes",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/28/de-moins-en-moins-de-femmes-parmi-les-prefets-s-alarme-la-cour-des-comptes_6735470_3224.html",
-      "summary": "Après une période de nette hausse, « le nombre comme la proportion de femmes préfètes ont diminué » depuis 2019, relève la Cour. Malgré les discours officiels, cette fonction reste un bastion masculin.",
-      "image": "https://img.lemde.fr/2026/07/24/663/0/7959/3979/644/322/60/0/5f5c9b3_ftp-1-rze4fgwjr2xh-5694686-01-06.jpg",
-      "published_at": "2026-07-28T20:51:44+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "8429fff9aaa4"
-    },
-    {
-      "title": "Un adolescent s'amuse à essayer d'étrangler Pascal \"Le Grand Frère\" : il répond par la violence",
-      "url": "https://france3-regions.franceinfo.fr/grand-est/champagne-ardenne/un-adolescent-s-amuse-a-essayer-d-etrangler-pascal-le-grand-frere-il-repond-par-la-violence-3393565.html#xtor=RSS-3-[lestitres]",
-      "summary": "Ce lundi 27 juillet, Pascal Soetens, connu pour son rôle de Pascal Le Grand Frère sur TF1, était en visite aux Fêtes de Sainte-Anne à Rethel (Ardennes). Son moment \"selfies et autographes\" ne s'est pas passé comme prévu : un jeune garçon l'a surpris en essayant de l'étrangler par derrière. L'ex-animateur s'est emporté. Une plainte a été déposée.",
-      "image": "https://www.franceinfo.fr/pictures/23DdHiv0l-kdutYliG0cYCxYhkM/432x243/filters:format(jpg):quality(50)/2026/07/28/6a68cf4bad6aa042691292.png",
-      "published_at": "2026-07-28T20:48:44+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "1f35b6922ce2"
-    },
-    {
-      "title": "Les pompiers, aidés par les habitants, luttent contre l'incendie en Gironde en traquant sans relâche les reprises de flammes",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/en-images-les-pompiers-aides-par-les-habitants-luttent-contre-l-incendie-en-gironde-en-traquant-sans-relache-les-reprises-de-flammes_8125871.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le gigantesque incendie ne progresse plus, mardi, mais le combat est loin d'être terminé. Les pompiers, épaulés par les forestiers, les agriculteurs et les habitants, poursuivent un combat de chaque instant pour empêcher le brasier de repartir.",
-      "image": "https://www.franceinfo.fr/pictures/8sjswLe_ykN6XpZVajmDFQIXg18/0x150:1600x1050/432x243/filters:format(jpg):quality(50)/2026/07/28/6a68e80bf41ac574608992.jpg",
-      "published_at": "2026-07-28T20:40:48+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "881dc6e7ba10"
     }
   ]
 }
