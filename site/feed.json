@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-07-29T21:05:39.956066+00:00",
+  "generated_at": "2026-07-29T23:05:08.951529+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Pakistan : l’attaque d’un poste de police fait au moins 15 morts et 22 blessés",
+      "url": "https://www.lemonde.fr/international/article/2026/07/30/pakistan-l-attaque-d-un-poste-de-police-fait-au-moins-15-morts-et-22-blesses_6736483_3210.html",
+      "summary": "L’attaque a eu lieu dans la province de Khyber Pakhtunkhwa, frontalière de l’Afghanistan, en proie à un nombre croissant de violences à l’origine desquelles on trouve le groupe islamiste Tehreek-i-Taliban Pakistan.",
+      "image": "https://img.lemde.fr/2026/07/29/125/0/1578/789/644/322/60/0/51c445b_upload-1-b7zbqecom09y-capture-d-e-cran-2026-07-30-a-00-13-43.png",
+      "published_at": "2026-07-30T00:31:11+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "3c15c8ee508c"
+    },
+    {
+      "title": "La Fed choisit de maintenir ses taux inchangés, malgré une forte inflation",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/30/la-fed-choisit-de-maintenir-ses-taux-inchanges-malgre-une-forte-inflation_6736482_3234.html",
+      "summary": "Le comité de la banque centrale affiche un niveau de dissension inédit car la pression en faveur d’une politique monétaire plus restrictive s’accroît aux Etats-Unis, afin de s’attaquer frontalement à l’inflation.",
+      "image": "https://img.lemde.fr/2026/07/28/372/0/3138/1569/644/322/60/0/1a12d41_ftp-1-nhyj4mqw4p6s-2026-07-28t100112z-2037426853-rc2uvlas1hyr-rtrmadp-3-usa-fed.JPG",
+      "published_at": "2026-07-30T00:04:31+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "123ebe01e3e3"
+    },
+    {
+      "title": "Un feu reprend en forêt de Fontainebleau, six hectares brûlés",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/un-feu-reprend-en-foret-de-fontainebleau-six-hectares-brules_8127677.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le sous-préfet, Yannis Bouzar, a souligné mercredi soir que l'incendie ne menaçait pas les habitations, situées à environ quatre kilomètres.",
+      "image": "https://www.franceinfo.fr/pictures/TtIbJ4njcxR1NI8YV6fXXbX2zeE/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a778f4d802711462557.jpg",
+      "published_at": "2026-07-30T00:01:14+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "e851222ee17c"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : des groupes armés pro-iraniens menacent de frapper l'Arabie saoudite, en riposte aux frappes américano-saoudiennes en Irak",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-ont-frappe-le-nord-ouest-de-l-iran-selon-la-television-d-etat-iranienne_8127041.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les frappes reprennent au Moyen-Orient après une accalmie des hostilités qui a duré plusieurs jours. Le cours du pétrole a bondi face à cette montée des tensions.",
+      "image": "https://www.franceinfo.fr/pictures/4HygSSm0QnuXwoRJk2GFAjbsPoU/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a1ce0a3494401329394.jpg",
+      "published_at": "2026-07-29T23:52:17+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "cc066d35ce4e"
+    },
+    {
+      "title": "Argentine : sept morts dans le crash d’un hélicoptère de lutte contre les incendies",
+      "url": "https://www.lemonde.fr/planete/article/2026/07/29/argentine-sept-morts-dans-le-crash-d-un-helicoptere-de-lutte-contre-les-incendies_6736449_3244.html",
+      "summary": "Le contact avait été perdu dans la matinée alors que l’appareil participait à une mission de formation avant d’être mobilisé pour lutter contre un incendie dans la province de La Rioja.",
+      "image": "https://img.lemde.fr/2026/07/29/34/0/1080/540/644/322/60/0/491bf25_upload-1-fthnsjfnnsag-573420016-18510824395069181-8594682981801876814-n.jpeg",
+      "published_at": "2026-07-29T23:51:05+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "9c30f5dfcf6f"
+    },
+    {
+      "title": "L'Arcom sanctionne une trentaine de sites pornographiques qui n'ont pas mis en place de système de vérification d'âge de leurs utilisateurs",
+      "url": "https://www.franceinfo.fr/societe/pornographie/l-arcom-sanctionne-une-trentaine-de-sites-pornographiques-qui-n-ont-pas-mis-en-place-de-systeme-de-verification-d-age-de-leurs-utilisateurs_8127671.html#xtor=RSS-3-[lestitres]",
+      "summary": "Depuis janvier 2025, la loi française oblige les éditeurs des sites diffusant du contenu pornographique à mettre en place un système d'identification empêchant les mineurs d'y accéder, sous peine de sanctions du gendarme du numérique et de l'audiovisuel.",
+      "image": "https://www.franceinfo.fr/pictures/NMOIcTOtVcQrVdpPl0hW1x-xA74/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a7512431ea013558788.jpg",
+      "published_at": "2026-07-29T23:49:22+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a1addd760e35"
+    },
+    {
+      "title": "L'acteur et chanteur Jared Leto accusé de violences sexuelles par plusieurs femmes dans une enquête de la BBC",
+      "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/l-acteur-jared-leto-accuse-de-violences-sexuelles-par-plusieurs-femmes-dans-une-enquete-de-la-bbc_8127479.html#xtor=RSS-3-[lestitres]",
+      "summary": "Au total, dix femmes témoignent dans le documentaire \"Jared Leto : le sombre secret de Hollywood\" de la BBC, dont neuf pour la première fois.",
+      "image": "https://www.franceinfo.fr/pictures/cX3p4BeHZ2_3plgMIiJxl8UR6ow/0x77:1024x653/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a2e57dacc4509515622.jpg",
+      "published_at": "2026-07-29T23:29:06+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "3fdb7d443e37"
+    },
+    {
+      "title": "En Côte-d'Or, un incendie s'est déclaré au sud de Dijon, plus de 50 hectares de végétation déjà brûlés",
+      "url": "https://www.franceinfo.fr/france/bourgogne-franche-comte/cote-d-or/en-cote-d-or-un-incendie-s-est-declare-au-sud-de-dijon-plus-de-50-hectares-de-vegetation-deja-brules_8127668.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Aucun blessé n'est à déplorer et aucune habitation n'a été touchée à cette heure\", a précisé la préfecture de Côte-d'Or mercredi soir.",
+      "image": "https://www.franceinfo.fr/pictures/v77vlwnafgt3d1WDbwUKh4Tq_sM/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a6faea78b4130733028.jpg",
+      "published_at": "2026-07-29T23:26:40+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "465cafb42cfe"
+    },
     {
       "title": "En Gironde, 80 hectares dédiés aux recherches forestières de l'Inrae ont brûlé dans l'incendie",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-gironde-80-hectares-dedies-aux-recherches-forestieres-de-l-inrae-ont-brule-dans-l-incendie_8127662.html#xtor=RSS-3-[lestitres]",
@@ -43,16 +123,6 @@
       "id": "c51bdba8209a"
     },
     {
-      "title": "Incendies : \"importante reprise de feu\" dans la forêt de Fontainebleau, 7 hectares brûlés",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-en-gironde-le-feu-reste-stabilise-apres-une-nouvelle-nuit-calme-selon-la-prefecture_8126570.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Il n'y a pas d'évacuations envisagées\", a cependant souligné mercredi soir un officier de communication du service départemental d''incendie et de secours (Sdis) de Seine-et-Marne. 7 départs de feu 3 encore actifs",
-      "image": "https://www.franceinfo.fr/pictures/_S_0uSFW3kp1iNS3V9YVmbzc31M/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a5e886bde9959428492.jpg",
-      "published_at": "2026-07-29T22:28:19+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "e146c9b115bb"
-    },
-    {
       "title": "\"Nous survolons les 42 000 hectares brûlés\" : les images de l'incendie en Gironde vu d'un hélicoptère de l'armée",
       "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/face-aux-incendies-en-gironde-l-helicoptere-caracal-permet-de-guider-les-pompiers_8127569.html#xtor=RSS-3-[lestitres]",
       "summary": "Le vent et la chaleur ont favorisé de nombreuses reprises de feu en Gironde. Les équipes de France Télévisions ont pu embarquer, dans la nuit du mardi 28 au mercredi 29 juillet, dans un hélicoptère Caracal de l’armée. Quand les Canadair et les Dash ne peuvent plus voler, les caméras thermiques guident les pompiers au sol.",
@@ -91,6 +161,16 @@
       "source": "France Info",
       "category": "Politique",
       "id": "fa5d6b02f8b1"
+    },
+    {
+      "title": "Personnes dénudées par l’IA sur Hugging Face : la haut-commissaire à l’enfance, Sarah El Haïry, saisit la Commission européenne",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/29/personnes-denudees-par-l-ia-sur-hugging-face-la-haut-commissaire-a-l-enfance-sarah-el-hairy-saisit-la-commission-europeenne_6736416_3224.html",
+      "summary": "Selon l’ONG AI Forensics, sept des neuf modèles d’IA de retouche d’images les plus mis en avant par la plateforme « permettent aux utilisateurs de déshabiller des personnes à l’aide de simples prompts ».",
+      "image": "https://img.lemde.fr/2026/07/29/11/0/7924/3962/644/322/60/0/90e3f9c_upload-1-xdiwx1h2hdyf-000-84w78ak.jpg",
+      "published_at": "2026-07-29T21:28:00+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "2bb4615c0431"
     },
     {
       "title": "Les régions du Centre-Est et du Sud-Est au cœur d’un quatrième épisode caniculaire probablement moins intense que les précédents",
@@ -178,7 +258,7 @@
       "summary": "A l’issue de sa traditionnelle réunion de deux jours, le comité de politique monétaire a décidé de maintenir ses taux dans la fourchette comprise entre 3,50 % et 3,75 %, pour la cinquième fois d’affilée.",
       "image": "https://img.lemde.fr/2026/07/28/972/0/5829/2914/644/322/60/0/e4f3771_ftp-1-batwoc4tm5ur-2026-07-28t100120z-1775192962-rc2ymma3gy1n-rtrmadp-3-usa-fed.JPG",
       "published_at": "2026-07-29T20:29:09+02:00",
-      "source": "Le Monde",
+      "source": "Le Monde Inter",
       "category": "International",
       "id": "5a2c57c436ee"
     },
@@ -221,86 +301,6 @@
       "source": "France Info",
       "category": "Économie",
       "id": "4bf710d9c0fd"
-    },
-    {
-      "title": "650 personnes évacuées, 60 hectares parcourus par les flammes : un violent incendie mobilise d'importants moyens à Brignoles",
-      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/draguignan/un-nouvel-incendie-se-declenche-dans-le-var-alors-que-celui-de-ponteves-est-a-peine-fixe-un-important-dispositif-deploye-3394114.html#xtor=RSS-3-[lestitres]",
-      "summary": "Alors que le feu parti de Pontevès est enfin fixé, deux incendies se sont déclenchés à Brignoles et Vidauban, dans le Var, ce mercredi 29 juillet. Celui de Brignoles a parcouru 60 hectares. Un important dispositif terrestre et aérien a été déployé pour limiter la propagation de ces incendies.",
-      "image": "https://www.franceinfo.fr/pictures/YYL0RP93zYsJkm4mO_2LyfbCVeU/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a145d79332636299823.jpg",
-      "published_at": "2026-07-29T20:04:06+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "f3d166b87954"
-    },
-    {
-      "title": "A Eysines, en Gironde, avec les évacués de retour chez eux : «Il y aura forcément un avant et un après l’incendie»",
-      "url": "https://www.liberation.fr/environnement/climat/a-eysines-en-gironde-avec-les-evacues-de-retour-chez-eux-il-y-aura-forcement-un-avant-et-un-apres-lincendie-20260729_BFBXUIQUXBAMLKM2TMYUMZC5MA/",
-      "summary": "Entre soulagement, incompréhension et crainte d’une reprise du feu, les habitants de cette banlieue résidentielle au nord-ouest de Bordeaux disent avoir été durablement marqués par ces quatre jours d’exil forcé.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-29T18:03:37+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "98f360f9f920"
-    },
-    {
-      "title": "Investisseurs privés dans la Fifa : le nouveau projet mégalo d’Infantino",
-      "url": "https://www.liberation.fr/sports/football/investisseurs-prives-dans-la-fifa-le-nouveau-projet-megalo-dinfantino-20260729_J66NH3TM35DEXJXYBWGYVNZD5Y/",
-      "summary": "La proposition de la Fédération internationale de s’ouvrir, via une société attenante, aux investissements scandalise depuis mardi 28 juillet une partie du monde du foot et des politiques. Sa branche européenne réfléchit à un boycott des futures compétitions.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-29T18:02:17+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "4747297e5576"
-    },
-    {
-      "title": "Restrictions budgétaires : le plan d’investissement France 2030 va être étalé sur deux à trois ans de plus",
-      "url": "https://www.lemonde.fr/politique/article/2026/07/29/restrictions-budgetaires-le-plan-d-investissement-france-2030-va-etre-etale-sur-deux-a-trois-ans-de-plus_6736408_823448.html",
-      "summary": "Plusieurs fois raboté par le gouvernement, le grand plan lancé par Emmanuel Macron en 2021 est en plein réaménagement. Certains projets vont être retardés. Les priorités vont aussi évoluer, au profit notamment du quantique.",
-      "image": "https://img.lemde.fr/2026/07/29/0/0/4397/2198/644/322/60/0/153baf2_upload-1-entglagsuepf-000-32n47kc.jpg",
-      "published_at": "2026-07-29T20:00:10+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "586b6a6bc3dd"
-    },
-    {
-      "title": "Incendies : quand les futurs ministre délégué à la transition écologique et maire de Bordeaux votaient contre une hausse des moyens pour les pompiers",
-      "url": "https://www.lemonde.fr/planete/article/2026/07/29/incendies-quand-les-futurs-ministre-delegue-a-la-transition-ecologique-et-maire-de-bordeaux-votaient-contre-une-hausse-des-moyens-pour-les-pompiers_6736409_3244.html",
-      "summary": "Lors des discussions en commission sur le projet de loi de finances pour 2023, Mathieu Lefèvre et Thomas Cazenave, alors députés EPR, avaient rejeté les amendements du rapporteur spécial sur la sécurité civile, qui demandait une augmentation budgétaire après les feux de l’été 2022.",
-      "image": "https://img.lemde.fr/2026/07/21/569/0/8000/4000/644/322/60/0/f2a0ad7_upload-1-j1tw5n2arn7k-jmug260720019.jpg",
-      "published_at": "2026-07-29T20:00:09+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "c24b791bf176"
-    },
-    {
-      "title": "Incendie en Gironde : pas de TGV vers le sud de Bordeaux, hormis Toulouse, jusqu’au dimanche 2 août inclus",
-      "url": "https://www.liberation.fr/economie/transports/incendie-en-gironde-pas-de-tgv-vers-le-sud-de-bordeaux-hormis-toulouse-jusquau-dimanche-2-aout-inclus-20260729_YXFKJJRUOZC3NAUNWIUJACTL3Q/",
-      "summary": "Arrêtées depuis dimanche 26 juillet, les circulations entre Bordeaux et Arcachon ou Hendaye via Dax seront de nouveau au point mort lors du premier week-end d’août. Même si l’arrêté préfectoral devait être rapidement levé, les équipes de la SNCF ont besoin de constater les dégâts sur le réseau.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-07-29T17:49:56+00:00",
-      "source": "Libération",
-      "category": "Tech",
-      "id": "8cceaa3db22b"
-    },
-    {
-      "title": "Un ancien pilote de l’aéronavale française mis en examen pour intelligence avec la Chine",
-      "url": "https://www.liberation.fr/international/asie-pacifique/un-ancien-pilote-de-laeronavale-francaise-mis-en-examen-pour-intelligence-avec-la-chine-20260729_CGFMOT4C7NEY7GUXZ67JBWJASQ/",
-      "summary": "Cet ex-pilote de chasse a été mis en examen le 23 juillet, a indiqué ce mercredi le parquet de Paris. Il est également poursuivi pour divulgation de secret de défense nationale par son dépositaire.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-07-29T17:34:04+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "e95e8df476d3"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky a rencontré Donald Tusk en Pologne",
-      "url": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-volodymyr-zelensky-a-rencontre-donald-tusk-en-pologne_6732775_3210.html",
-      "summary": "A son retour des Etats-Unis, le président ukrainien a fait escale à Lublin. Le premier ministre polonais a déclaré qu’ils avaient évoqué la coopération antibalistique, sans plus de précisions.",
-      "image": "https://img.lemde.fr/2026/07/27/0/0/5331/2665/644/322/60/0/a5354e7_ftp-1-wlo01wlv5ee7-2a280efc9c574eb482f99db41ac664f5-0-7a31c24cfcff40e1a2d43b49601ea18a.jpg",
-      "published_at": "2026-07-29T19:33:41+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "b8067ce81592"
     }
   ]
 }
