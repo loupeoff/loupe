@@ -1,26 +1,296 @@
 {
-  "generated_at": "2026-07-30T17:42:42.063086+00:00",
+  "generated_at": "2026-07-30T19:43:52.165681+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "«Le matériel est mis à rude épreuve» : en Gironde, les mécanos au front nuit et jour",
+      "title": "EN DIRECT - Incendies dans le Sud-Ouest : le feu «toujours stabilisé» en Gironde, «maîtrisé» dans les Landes",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-lincendie-toujours-stabilise-en-gironde-la-reprise-de-feu-fixee-a-fontainebleau-20260730_RLA3FHHDJNG7VLWRWRIJN3ABUM/",
+      "summary": "Les très fortes chaleurs vont se cantonner au quart sud-est du pays le 31 juillet, «avec des températures maximales de 34 à 38 °C», a indiqué Météo France dans son bulletin de 16 heures ce jeudi. Le danger de feux se réduit par l’Ouest, grâce à des conditions météorologiques plus favorables.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-30T19:39:15+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "98daa50d4d7d"
+    },
+    {
+      "title": "Neuf personnes sont mortes durant l'entrée massive de migrants à Ceuta, annonce le gouvernement espagnol",
+      "url": "https://www.franceinfo.fr/monde/espagne/neuf-migrants-sont-morts-en-tentant-de-rejoindre-l-enclave-de-ceuta-annonce-le-gouvernement-espagnol_8129108.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Neuf corps\" de migrants ont été repêchés, a déclaré une porte-parole de la délégation du gouvernement, sans donner plus de précisions.",
+      "image": "https://www.franceinfo.fr/pictures/bnORGNHyNvPZ4eDHl9D6zJUEzGA/0x80:1024x656/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b999fa97eb638917180.jpg",
+      "published_at": "2026-07-30T21:31:36+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "baa95c0fb312"
+    },
+    {
+      "title": "Annulation d’un concert par la mairie RN d’Orange : le show en hommage Queen finalement maintenu après un accord à l’amiable",
+      "url": "https://www.liberation.fr/culture/arts/annulation-dun-concert-par-la-mairie-rn-dorange-le-show-en-hommage-queen-finalement-maintenu-apres-un-accord-a-lamiable-20260730_JRYB3SWD4JBJVPLDA6XJBQXYLU/",
+      "summary": "Le maire et l’organisateur ont négocié un protocole d’accord, ce 30 juillet, qui laisse la quasi-exclusivité des frais au producteur du spectacle. Malgré les coûts engagés, David Hardit se félicite «de ne pas avoir plié» face à la municipalité.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-30T19:27:40+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "6a823dee49ff"
+    },
+    {
+      "title": "A Annecy, une enquête pour viol ouverte après une plainte contre un élu municipal",
+      "url": "https://www.franceinfo.fr/faits-divers/une-enquete-pour-viol-ouverte-apres-une-plainte-contre-un-elu-municipal_8129117.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'enquête préliminaire pour viol a été ouverte et confiée à la brigade des recherches d'Annecy, selon le parquet, qui précise que la personne mise en cause a été entendue par la gendarmerie.",
+      "image": "https://www.franceinfo.fr/pictures/OjnI3QSUSp1hW9hJyXFz9a-jGGs/0x80:1024x656/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6ba25d8e357343063506.jpg",
+      "published_at": "2026-07-30T21:14:39+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "b877b41cfc74"
+    },
+    {
+      "title": "Au moins neuf morts dans l’entrée de migrants à Ceuta, un morceau d’Europe enclavé au Maroc",
+      "url": "https://www.liberation.fr/international/europe/au-moins-neuf-morts-dans-lentree-de-migrants-a-ceuta-un-morceau-deurope-enclave-au-maroc-20260730_6EYSCVGVGZBINDZGBF4IMQAMDA/",
+      "summary": "De très nombreux jeunes hommes, dont des mineurs, se sont introduits illégalement dans ce territoire espagnol, jeudi. L’Espagne et le Maroc annoncent de prochaines expulsions express, pratique condamnée par le droit humanitaire international.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-30T18:57:46+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "981a54b216c7"
+    },
+    {
+      "title": "À cause du phénomène de \"feu zombie\", faudra-t-il des mois pour éteindre les incendies en Gironde ?",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/a-cause-du-phenomene-de-feu-zombie-faudra-t-il-des-mois-pour-eteindre-les-incendies-en-gironde_8129114.html#xtor=RSS-3-[lestitres]",
+      "summary": "Maîtriser les flammes ne signifie pas que le feu est éteint. Il peut continuer de brûler sous terre sans être visible, puis surgir plusieurs jours, voire plusieurs semaines plus tard. C’est ce que les pompiers appellent un \"feu zombie\". Le phénomène impose une surveillance constante.",
+      "image": "https://www.franceinfo.fr/pictures/5EYccMvMECjJeThBiYbmlPVKB4U/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b9c3b933fa014846051.jpg",
+      "published_at": "2026-07-30T20:51:16+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "72c60fc47684"
+    },
+    {
+      "title": "La Fondation du Patrimoine lance un appel à la générosité pour \"sauver les forêts\" en Gironde et dans les Landes après les incendies",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/la-fondation-du-patrimoine-lance-un-appel-a-la-generosite-pour-sauver-les-forets-en-gironde-et-dans-les-landes-apres-les-incendies_8129099.html#xtor=RSS-3-[lestitres]",
+      "summary": "À l'image de la collecte concernant le brasier de Fontainebleau, l'objectif fixé par la Fondation du Patrimoine s'élève à deux millions d'euros.",
+      "image": "https://www.franceinfo.fr/pictures/YqIyuilnq2uAcEgHsA_XS4cZlgE/0x261:5000x3074/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b9b2d8d4e0346212981.jpg",
+      "published_at": "2026-07-30T20:43:17+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "d105d1c589fa"
+    },
+    {
+      "title": "Bally Bagayoko ment-il en affirmant que «chaque élève de 3e» de sa ville «recevra un vélo gratuit» à la rentrée ?",
+      "url": "https://www.liberation.fr/checknews/bally-bagayoko-ment-il-en-affirmant-que-chaque-eleve-de-3e-de-sa-ville-recevra-un-velo-gratuit-a-la-rentree-20260730_K77KWJJKAJEFRNQRJM3NTWRBHE/",
+      "summary": "Le maire de Saint-Denis-Pierrefitte a fait la promotion mercredi 29 juillet de la mesure sur les réseaux sociaux. Encadré par un règlement, le dispositif prévoit que 1 000 vélos soient «confiés aux jeunes sur le modèle de mise à disposition».",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-30T18:30:52+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "3d982780d139"
+    },
+    {
+      "title": "L'arrêté d'expulsion contre Xenia Fedorova n'est \"pas une atteinte à la liberté d'expression\", affirme Laurent Nuñez",
+      "url": "https://www.franceinfo.fr/economie/medias/l-arrete-d-expulsion-contre-xenia-fedorova-n-est-pas-une-atteinte-a-la-liberte-d-expression-affirme-laurent-nunez_8129054.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"On est sur un sujet qui est très grave, qui est celui d'une atteinte aux intérêts fondamentaux de la nation\", a-t-il déclaré sur BFMTV jeudi soir, accusant Xenia Fedorova de ne faire que \"relayer la propagande russe\" sur le territoire français.",
+      "image": "https://www.franceinfo.fr/pictures/dLhlrLhsoCvOQfc9Y67TOgPTHSs/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b93bfece28822561068.jpg",
+      "published_at": "2026-07-30T20:30:20+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "bb935d45d963"
+    },
+    {
+      "title": "Au CHU de Bordeaux, une organisation millimétrée pour faire face à l’impact de l’incendie : « Si on a tenu, c’est grâce à la solidarité hospitalière »",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/30/au-chu-de-bordeaux-une-organisation-millimetree-pour-faire-face-a-l-impact-de-l-incendie-si-on-a-tenu-c-est-grace-a-la-solidarite-hospitaliere_6737069_3224.html",
+      "summary": "Cellule de crise quotidienne, ouverture de lits, appel aux volontaires… A l’hôpital Pellegrin, centre opérationnel de la prise en charge sanitaire, l’adaptation aux conséquences du mégafeu qui touche la Gironde depuis le 22 juillet s’est faite au jour le jour, selon les besoins.",
+      "image": "https://img.lemde.fr/2026/07/30/648/0/5312/2656/644/322/60/0/df664d4_upload-1-fl9dhy5v0yd6-chubx-004.JPG",
+      "published_at": "2026-07-30T20:30:06+02:00",
+      "source": "Le Monde Politique",
+      "category": "Société",
+      "id": "76d705c4320c"
+    },
+    {
+      "title": "«Une propagande qui vise à saper le fonctionnement démocratique en France» : Laurent Nuñez justifie l’arrêté d’expulsion contre Xenia Fedorova",
+      "url": "https://www.liberation.fr/international/europe/une-propagande-qui-vise-a-saper-le-fonctionnement-democratique-en-france-laurent-nunez-justifie-larrete-dexpulsion-contre-xenia-fedorova-20260730_DWKFVFFFTVHJDIQ567LYTC7EIM/",
+      "summary": "Le ministre de l’Intérieur a répondu ce jeudi 30 juillet aux groupes Canal + et Lagardère, qui avaient dénoncé la veille «une atteinte particulièrement grave à la liberté d’expression et au pluralisme des opinions».",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-30T18:29:06+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "eb1b954efd29"
+    },
+    {
+      "title": "Guerre en Iran : la rhétorique belliciste de Donald Trump, reflet de l’enlisement américain",
+      "url": "https://www.lemonde.fr/international/article/2026/07/30/guerre-en-iran-la-rhetorique-belliciste-de-donald-trump-reflet-de-l-enlisement-americain_6737068_3210.html",
+      "summary": "Depuis le lancement du conflit contre la République islamique par les Etats-Unis et Israël en février, le président américain multiplie les menaces et les déclarations de victoire, sans craindre de se contredire d’un jour sur l’autre. Et sans parvenir à infléchir la position de Téhéran.",
+      "image": "https://img.lemde.fr/2026/07/29/60/0/5054/2527/644/322/60/0/e8b037a_ftp-1-inv56wbgi2hp-4af34b505198405da4a364f93db7cd82-0-9176111411c745da9bb2c36915d46e35.jpg",
+      "published_at": "2026-07-30T20:25:22+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "722d909c7c0f"
+    },
+    {
+      "title": "Suicide de Joris Laurencin en Isère: un drame qui s’inscrit dans un racisme d’atmosphère",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/suicide-de-joris-laurencin-en-isere-un-drame-qui-sinscrit-dans-un-racisme-datmosphere-20260730_5LHSWNC33RHDJPALPESMPMDGZA/",
+      "summary": "Harcelé depuis des années en raison de ses origines, le jeune homme de 21 ans s’est donné la mort, dans une région où les déprédations d’extrême droite se multiplient ces dernières années. En parallèle avec la montée du RN.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-30T18:19:22+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "cd348036dce1"
+    },
+    {
+      "title": "EN DIRECT, guerre au Moyen-Orient : les gardiens de la révolution iraniens affirment avoir visé une base américaine à Bahreïn",
+      "url": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-iraniens-affirment-avoir-vise-une-base-americaine-a-bahrein_6725301_3210.html",
+      "summary": "L’Iran avait revendiqué plus tôt dans la journée la destruction de trois F-35 sur une base américaine en Jordanie, en représailles à une attaque américaine contre l’île iranienne de Qechm, des affirmations démenties par le commandement des forces américaines au Moyen-Orient.",
+      "image": "https://img.lemde.fr/2026/07/30/500/0/6000/3000/644/322/60/0/38405aa_ftp-1-zvqmeumlpnqr-2026-07-30t093154z-1719067678-rc26omaqe96o-rtrmadp-3-iran-crisis.JPG",
+      "published_at": "2026-07-30T20:17:18+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "c85af50b88b4"
+    },
+    {
+      "title": "L’Inde adopte une loi contre les fraudes aux examens, dénoncées par les étudiants",
+      "url": "https://www.lemonde.fr/international/article/2026/07/30/l-inde-adopte-une-loi-contre-les-fraudes-aux-examens-denoncees-par-les-etudiants_6737067_3210.html",
+      "summary": "La colère étudiante est née de fraudes massives lors d’un concours national d’entrée en médecine organisé en mai, auquel plus de 2 millions de candidats s’étaient présentés.",
+      "image": "https://img.lemde.fr/2026/07/25/0/0/7451/3725/644/322/60/0/31eb3a5_ftp-1-llvrsosmgxxm-5703421-01-06.jpg",
+      "published_at": "2026-07-30T20:16:15+02:00",
+      "source": "Le Monde Inter",
+      "category": "Société",
+      "id": "243fe51167f9"
+    },
+    {
+      "title": "Grève surprise à la SNCF : le trafic perturbé en Normandie entre vendredi et dimanche, week-end de chassé-croisé",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/30/greve-surprise-a-la-sncf-le-trafic-perturbe-en-normandie-de-vendredi-a-dimanche-week-end-de-chasse-croise_6737066_3234.html",
+      "summary": "Des suppressions de trains sont attendues sur plusieurs axes majeurs en Normandie, alors que la SNCF évoque un mouvement « local et inopiné » pour ce week-end de grands départs.",
+      "image": "https://img.lemde.fr/2026/07/30/907/0/5439/2719/644/322/60/0/2612c15_upload-1-6rgyun7rajke-000-15w078.jpg",
+      "published_at": "2026-07-30T20:15:57+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "94e91bfe7715"
+    },
+    {
+      "title": "Le patron de Telegram, Pavel Dourov, placé sur la liste des \"terroristes\" par la Russie",
+      "url": "https://www.franceinfo.fr/monde/russie/le-patron-de-telegram-pavel-durov-place-sur-la-liste-des-terroristes-par-la-russie_8129036.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le patron de Telegram a assuré jeudi qu'il avait été placé sur une liste des autorités russes recensant les personnes désignées \"terroristes\" parce qu'il a refusé de se plier aux exigences de Moscou en matière de \"surveillance de masse\" et de \"censure\" sur sa plateforme de messagerie.",
+      "image": "https://www.franceinfo.fr/pictures/jThMep3zeIDlC8XxNOBSbls9nVg/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b8e2dab6af131500541.jpg",
+      "published_at": "2026-07-30T20:12:21+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "3e133ba7a04b"
+    },
+    {
+      "title": "Guerre en Ukraine : Volodymyr Zelensky accuse la Corée du Nord d'avoir fourni à Moscou le missile ayant décimé une famille",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-accuse-la-coree-du-nord-d-avoir-fourni-a-moscou-le-missile-ayant-decime-une-famille_8129030.html#xtor=RSS-3-[lestitres]",
+      "summary": "Six membres d'une famille vivant près de Kryvyï Rig, en Ukraine, ont été tués lors de frappes russes dans la nuit de mercredi à jeudi.",
+      "image": "https://www.franceinfo.fr/pictures/cepLNWguI1k6UkMc1MBqfKA_TUA/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b8a1e901bb968844277.jpg",
+      "published_at": "2026-07-30T20:02:50+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "5f24a83cc42e"
+    },
+    {
+      "title": "Espagne : des centaines de personnes entrées illégalement dans l’enclave espagnole de Ceuta",
+      "url": "https://www.lemonde.fr/international/video/2026/07/30/espagne-des-centaines-de-personnes-entrees-illegalement-dans-l-enclave-espagnole-de-ceuta_6737065_3210.html",
+      "summary": "De nombreuses images montrent des dizaines d’hommes et d’adolescents arriver à la nage, du Maroc voisin, sur les côtes de l’enclave espagnole.",
+      "image": "https://img.lemde.fr/2026/07/30/246/0/2953/1476/644/322/60/0/8137e7a_ftp-1-davy29nmsvtp-b556f5e71ec14c74ad25de62abee66b7-0-a42e2af7e5ac44318a20c2175b38170d.jpg",
+      "published_at": "2026-07-30T20:00:10+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "a84825e256bf"
+    },
+    {
+      "title": "La fièvre xénophobe en Afrique du Sud provoque une vague de départs du pays",
+      "url": "https://www.liberation.fr/international/afrique/la-fievre-xenophobe-en-afrique-du-sud-provoque-une-vague-de-departs-du-pays-20260730_IL5DEXVTX5DEBDL2SLDSJ23L7U/",
+      "summary": "Sous la pression de groupes antimigrants, plus de 160 000 étrangers ont été expulsés ou ont fui la première économie du continent.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-30T17:57:07+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "ae340de54c9a"
+    },
+    {
+      "title": "Investisseurs privés à la Fifa : l’UEFA sort la menace d’un boycott des Coupes du monde",
+      "url": "https://www.liberation.fr/sports/football/investisseurs-prives-a-la-fifa-luefa-sort-la-menace-dun-boycott-des-coupes-du-monde-20260730_2X4G6F6O3FFLREAYN34FOEXMJA/",
+      "summary": "Principale opposante au projet, l’UEFA a annoncé ce jeudi 30 juillet après une réunion d’urgence qu’«aucune équipe nationale européenne ne participera à aucune compétition de la Fifa tant que ces propositions resteront d’actualité», à un an du Mondial féminin au Brésil.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-30T17:56:16+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "c8945e6cb33b"
+    },
+    {
+      "title": "Coupe du monde 2026 : l’Argentine veut interdire l’entrée aux étrangers auteurs de «messages de haine» contre son peuple ou son pays",
+      "url": "https://www.liberation.fr/international/amerique/coupe-du-monde-2026-largentine-veut-interdire-lentree-aux-etrangers-auteurs-de-messages-de-haine-contre-son-peuple-ou-son-pays-20260730_DEALAXRR4JCQHBYUUJEH2T3NGE/",
+      "summary": "Le décret, qui entre en vigueur dans l’attente de son examen parlementaire, a été publié dans un contexte de tensions diplomatiques entre l’Argentin, le Brésil et le Mexique. Javier Milei accuse ces pays d’avoir financé une «campagne anti-argentine» en marge du Mondial de football.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-30T17:56:10+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "720945376c80"
+    },
+    {
+      "title": "Konami a pris un gros risque pour ressusciter Silent Hill",
+      "url": "https://www.numerama.com/pop-culture/2304403-konami-a-pris-un-gros-risque-pour-ressusciter-silent-hill.html",
+      "summary": "Relancer la franchise Silent Hill après quelques années d'égarement n'était pas chose aisée. C'est pourtant ce qu'ont réussi Konami et le producteur de la série, Motoi Okamoto, via une stratégie qui a porté ses fruits.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-07-30T17:55:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "4ccc450741fc"
+    },
+    {
+      "title": "Xenia Fedorova, propagandiste russe, visée par un arrêté d’expulsion : Laurent Nuñez affirme que ce n’est « pas une atteinte à la liberté d’expression »",
+      "url": "https://www.lemonde.fr/politique/article/2026/07/30/xenia-fedorova-propagandiste-russe-visee-par-un-arrete-d-expulsion-laurent-nunez-affirme-que-ce-n-est-pas-une-atteinte-a-la-liberte-d-expression_6737064_823448.html",
+      "summary": "« On est sur un sujet qui est très grave, qui est celui d’une atteinte aux intérêts fondamentaux de la nation », a déclaré le ministre de l’intérieur, jeudi soir, accusant la chroniqueuse de ne faire que « relayer la propagande russe » sur le territoire français.",
+      "image": "https://img.lemde.fr/2026/07/29/267/0/3204/1602/644/322/60/0/efd8743_ftp-1-mzcqrfmoxlq4-5731402-01-06.jpg",
+      "published_at": "2026-07-30T19:53:15+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "55dfee0edf2b"
+    },
+    {
+      "title": "\"Je me vois en ces enfants\" : de retour à Nanterre où il a été formé, Victor Wembanyama inaugure un terrain de basket rénové",
+      "url": "https://www.franceinfo.fr/sports/basket/victor-wembanyama/reportage-je-me-vois-en-ces-enfants-de-retour-a-nanterre-ou-il-a-ete-forme-victor-wembanyama-inaugure-un-terrain-de-basket-renove_8128778.html#xtor=RSS-3-[lestitres]",
+      "summary": "De passage en France, la star des San Antonio Spurs en a profité pour montrer tout son attachement au club de ses débuts professionnels, avec du nouveau matériel et une pointe d'émotion.",
+      "image": "https://www.franceinfo.fr/pictures/hkAS1cUlubd5AXhng721rPvm7Vo/0x0:4077x2293/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b6981a79d3092763248.jpg",
+      "published_at": "2026-07-30T19:40:00+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "e85a9a4b5ab7"
+    },
+    {
+      "title": "Chez Sanofi, la nouvelle patronne garde le cap sur l’immunologie et les vaccins, mais revoit en profondeur la méthode",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/30/chez-sanofi-la-nouvelle-patronne-garde-le-cap-sur-l-immunologie-et-les-vaccins-mais-revoit-en-profondeur-la-methode_6737063_3234.html",
+      "summary": "Directrice générale du groupe pharmaceutique français depuis moins de trois mois, Belén Garijo veut resserrer la stratégie du laboratoire pharmaceutique français autour de la recherche et du développement.",
+      "image": "https://img.lemde.fr/2026/07/30/159/0/4000/2000/644/322/60/0/b887111_upload-1-rhqds5coge4k-abaca-1006878-014.jpg",
+      "published_at": "2026-07-30T19:39:54+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "07852da8ee5d"
+    },
+    {
+      "title": "Incendies en France : la \"première journée un peu optimiste\" en une semaine en Gironde, le feu est \"maîtrisé\" dans les Landes",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendies-en-france-la-reprise-de-feu-en-foret-de-fontainebleau-a-ete-fixee-6-hectares-ont-brule_8127944.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'incendie, survenu jeudi dernier près de Biscarrosse, dans les Landes, est maîtrisé, a annoncé jeudi le préfet des Landes lors d'un point-presse.",
+      "image": "https://www.franceinfo.fr/pictures/h_2IyU8SlIMjgH4XXeQZI1fr5us/0x52:1024x628/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b8048c7f6f674252841.jpg",
+      "published_at": "2026-07-30T19:38:33+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "d946f7c27a81"
+    },
+    {
+      "title": "Derrière «l’Odyssée» de Christopher Nolan, bataille épique entre la traductrice Emily Wilson et la romancière Joyce Carol Oates",
+      "url": "https://www.liberation.fr/culture/cinema/derriere-lodyssee-de-christopher-nolan-bataille-epique-entre-la-traductrice-emily-wilson-et-la-romanciere-joyce-carol-oates-20260730_HUBT4J3EYZE6VJ3YERXBVMD744/",
+      "summary": "Après que la traductrice, citée par le cinéaste en référence, a publié une critique du film au vitriol lundi 27 juillet, l’autrice de «Blonde» s’est offusquée de l’opprobre jeté sur le blockbuster, qui devrait rapidement franchir le cap du milliard de recettes.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-07-30T17:38:09+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "34c26730a9c2"
+    },
+    {
+      "title": "«Le matériel est mis à rude épreuve» : en Gironde, les mécanos au front nuit et jour face à l’incendie",
       "url": "https://www.liberation.fr/environnement/climat/le-materiel-est-mis-a-rude-epreuve-en-gironde-les-mecanos-au-front-nuit-et-jour-20260730_B6ZOEOGFEZB45FOV2UEEXI45KI/",
-      "summary": "Malgré une journée de jeudi «un peu optimiste», l’incendie n’est toujours pas fixé et les équipes travaillent sans répit à la réparation des camions-citernes, des véhicules tout-terrain et des bulldozers.",
+      "summary": "Malgré une journée de jeudi «un peu optimiste», le feu n’est toujours pas fixé et les équipes travaillent sans répit à la réparation des camions-citernes, des véhicules tout-terrain et des bulldozers.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
       "published_at": "2026-07-30T17:32:04+00:00",
       "source": "Libération",
       "category": "Politique",
       "id": "6adc5f23a383"
-    },
-    {
-      "title": "Guerre en Ukraine : Volodymyr Zelensky accuse la Corée du Nord d'avoir fourni à Moscou le missile ayant décimé une famille",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-accuse-la-coree-du-nord-d-avoir-fourni-a-moscou-le-missile-ayant-decime-une-famille_8129030.html#xtor=RSS-3-[lestitres]",
-      "summary": "Six membres d'une famille vivant près de Kryvyï Rig, en Ukraine, ont été tués lors de frappes russes dans la nuit du mercredi à jeudi.",
-      "image": "https://www.franceinfo.fr/pictures/5jnd5e8Wz0CL2-Hco1REA0UKL4k/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b8a1e901bb968844277.jpg",
-      "published_at": "2026-07-30T19:30:54+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "5f24a83cc42e"
     },
     {
       "title": "Japon : Kumamoto, une ville paralysée par les séismes et la crainte de répliques",
@@ -31,276 +301,6 @@
       "source": "Libération",
       "category": "Sport",
       "id": "6e14df5127c7"
-    },
-    {
-      "title": "Retour d’évacués en Gironde, l’UEFA menace de boycotter le Mondial 2030, baisse des naissances en France… L’actu de ce jeudi 30 juillet",
-      "url": "https://www.liberation.fr/international/europe/retour-devacues-en-gironde-luefa-menace-de-boycotter-le-mondial-2030-baisse-des-naissances-en-france-lactu-de-ce-jeudi-30-juillet-20260730_WPASO2ELYJGTPLXVG56FATJDOI/",
-      "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée du jeudi 30 juillet.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-30T17:13:08+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "b623158e3639"
-    },
-    {
-      "title": "Incendies en France : la \"première journée un peu optimiste\" en une semaine en Gironde, le feu est \"maîtrisé\" dans les Landes",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendies-en-france-la-reprise-de-feu-en-foret-de-fontainebleau-a-ete-fixee-6-hectares-ont-brule_8127944.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'incendie, survenu jeudi dernier près de Biscarrosse, dans les Landes, est maîtrisé, a annoncé vendredi, le préfet des Landes lors d'un point presse.",
-      "image": "https://www.franceinfo.fr/pictures/h_2IyU8SlIMjgH4XXeQZI1fr5us/0x52:1024x628/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b8048c7f6f674252841.jpg",
-      "published_at": "2026-07-30T19:09:23+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "d946f7c27a81"
-    },
-    {
-      "title": "A Orange, le spectacle « Queen Forever » devrait bien se jouer au Théâtre antique",
-      "url": "https://www.lemonde.fr/culture/article/2026/07/30/a-orange-le-spectacle-queen-forever-devrait-bien-se-jouer-au-theatre-antique_6737060_3246.html",
-      "summary": "Le nouveau maire RN d’Orange, Jean-Dominique Artaud, avait décidé de retirer, pour des raisons financières, ce programme de la programmation du Théâtre antique. Un accord entre le producteur David Hardit et la municipalité a finalement été trouvé.",
-      "image": "https://img.lemde.fr/2026/07/30/392/0/4724/2362/644/322/60/0/8f2d5a1_upload-1-l1p99ykn6upb-saifimages-lefrancq-5708-5708-orange-gil-0873-2.jpg",
-      "published_at": "2026-07-30T19:04:41+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "0e2b509d63ec"
-    },
-    {
-      "title": "« La sécurité civile doit être une grande priorité nationale » : l’appel de 150 élus",
-      "url": "https://www.lemonde.fr/idees/article/2026/07/30/la-securite-civile-doit-etre-une-grande-priorite-nationale-l-appel-de-150-elus_6737058_3232.html",
-      "summary": "Emmené par le maire Les Républicains de Mions (Rhône), Mickaël Paccaud, un collectif de plus de 150 élus et membres de services départementaux d’incendie et de secours estime dans une tribune au « Monde » que le Beauvau de la sécurité civile qui s’est achevé en septembre 2025 doit maintenant permettre l’adoption de mesures concrètes pour investir dans l’anticipation et la prévention.",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/532266b_upload-1-vzyiastnbr9w-frame-747.jpg",
-      "published_at": "2026-07-30T19:00:24+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "9632cd2739d8"
-    },
-    {
-      "title": "Dérèglement climatique : un «accélérateur» invisible des violences de genre",
-      "url": "https://www.liberation.fr/societe/droits-des-femmes/dereglement-climatique-un-accelerateur-invisible-des-violences-de-genre-20260730_ABMPDJUTSFGHPL6VA4UTNNF56I/",
-      "summary": "Selon plusieurs études scientifiques, les vagues de chaleur – de plus en plus récurrentes – sont corrélées à une augmentation des violences faites aux femmes. Ces situations viennent renforcer, comme dans le cas d’autres événements climatiques extrêmes, des mécanismes de domination patriarcale.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-30T16:54:58+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "ca4234cb05d8"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : après la chute d’un missile présumé russe en Pologne, le chancelier allemand, Friedrich Merz, dénonce « l’irresponsabilité de la Russie et sa volonté d’escalade »",
-      "url": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-apres-la-chute-d-un-missile-presume-russe-en-pologne-le-chancelier-allemand-friedrich-merz-denonce-l-irresponsabilite-de-la-russie-et-sa-volonte-d-escalade_6732775_3210.html",
-      "summary": "Le commandement des forces de l’OTAN en Europe a, de son côté, assuré jeudi être en « contact étroit » avec les autorités polonaises. La présidente de la Commission européenne, Ursula von der Leyen, a fustigé une nouvelle « violation inacceptable » de l’espace aérien de l’Union européenne.",
-      "image": "https://img.lemde.fr/2026/07/30/927/0/6048/3024/644/322/60/0/2dc7322_ftp-1-g555ajoupzmd-5741303-01-06.jpg",
-      "published_at": "2026-07-30T18:54:32+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "2cba08b6f4d0"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : les houthis nient être à l'origine de l'attaque dans un port égyptien",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-des-dizaines-de-cibles-visees-par-des-frappes-americaines-en-iran-trois-personnes-tuees_8128010.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'Egypte a annoncé jeudi qu'une frappe de drone était à l'origine d'un incendie sur deux navires dans le port de Damiette, situé dans le nord du pays.",
-      "image": "https://www.franceinfo.fr/pictures/oevBcxzxhv74UoG8do4t3YG_M30/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b59543379c885113300.jpg",
-      "published_at": "2026-07-30T18:52:53+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "573c705e6a63"
-    },
-    {
-      "title": "EN DIRECT - Incendies : «C’est la première journée un peu optimiste», se réjouit la préfère de Gironde",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-lincendie-toujours-stabilise-en-gironde-la-reprise-de-feu-fixee-a-fontainebleau-20260730_RLA3FHHDJNG7VLWRWRIJN3ABUM/",
-      "summary": "Les très fortes chaleurs vont se cantonner au quart sud-est du pays le 31 juillet, «avec des températures maximales de 34 à 38 °C», a indiqué Météo France dans son bulletin de 16 heures ce jeudi. Le danger de feux se réduit par l’Ouest, grâce à des conditions météorologiques plus favorables.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-30T16:49:49+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "98daa50d4d7d"
-    },
-    {
-      "title": "En Bulgarie, la baisse du Danube met au jour des ossements de mammouth",
-      "url": "https://www.liberation.fr/environnement/animaux/en-bulgarie-la-baisse-du-danube-met-au-jour-des-ossements-de-mammouth-20260730_H3UBNDZN5ZBORNB5TZJMULPMRY/",
-      "summary": "Le niveau exceptionnellement bas du fleuve a permis la découverte, mercredi 29 juillet, dans le nord du pays, d’ossements probablement issus d’un jeune mammouth laineux de la période glaciaire. Une nouvelle prospection de la zone est prévue.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-30T16:42:03+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "437950eb6f8e"
-    },
-    {
-      "title": "En Haute-Corse, le feu reprend à Biguglia, les pompiers toujours mobilisés",
-      "url": "https://france3-regions.franceinfo.fr/corse/haute-corse/incendies-en-haute-corse-le-feu-reprend-a-biguglia-les-pompiers-toujours-mobilises-3394723.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les sapeurs-pompiers de Haute-Corse restent fortement mobilisés ce jeudi 30 juillet sur plusieurs fronts. À Biguglia, où un incendie s'est déclaré le samedi 25 juillet, le feu a connu une reprise en début de matinée, mais a finalement été maîtrisé en fin de journée.",
-      "image": "https://www.franceinfo.fr/pictures/VWOJzvjMGuZfeWtbSieWPitEP8o/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b631537d7e855139654.jpg",
-      "published_at": "2026-07-30T18:39:15+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "f65c84ebdc37"
-    },
-    {
-      "title": "Stéphane Ricordel, circassien, codirecteur du Théâtre du Rond-Point, est mort",
-      "url": "https://www.lemonde.fr/disparitions/article/2026/07/30/stephane-ricordel-circassien-codirecteur-du-theatre-du-rond-point-est-mort_6737055_3382.html",
-      "summary": "Avec sa compagne, Laurence de Magalhaes, il avait créé Les Arts Sauts qui avaient révolutionné la voltige, puis dirigé le Théâtre Monfort à Paris avant de prendre les rênes du Théâtre du Rond-Point. Il s’est éteint jeudi à l’âge de 62 ans.",
-      "image": "https://img.lemde.fr/2026/06/08/101/0/7488/3744/644/322/60/0/6338b6d_upload-1-bcd0wrs6lbwr-000-33up4vc.jpg",
-      "published_at": "2026-07-30T18:38:13+02:00",
-      "source": "Le Monde",
-      "category": "Culture",
-      "id": "81af1c3bd222"
-    },
-    {
-      "title": "En Chine, le bilan du glissement de terrain à Chongqing, dans le sud-ouest du pays, s’alourdit à 51 morts",
-      "url": "https://www.lemonde.fr/international/article/2026/07/30/en-chine-le-bilan-du-glissement-de-terrain-a-chongqing-dans-le-sud-ouest-du-pays-s-alourdit-a-51-morts_6737053_3210.html",
-      "summary": "Ce glissement de terrain est survenu le 17 juillet, moins de deux semaines après un autre glissement de terrain dans la province du Gansu, dans le nord-ouest du pays, qui a fait 21 morts.",
-      "image": "https://img.lemde.fr/2026/07/20/923/0/8640/4320/644/322/60/0/555ba03_ftp-1-uiwx9vfaeowz-f1988e9d870d4a34afa80be255d431d2-1-0a593d2449d6406ab8d82d3816c84c1a.jpg",
-      "published_at": "2026-07-30T18:37:51+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "699cb0540e23"
-    },
-    {
-      "title": "Incendies : que sait-on du « retardant » rouge largué sur les forêts ?",
-      "url": "https://www.lemonde.fr/planete/article/2026/07/30/incendies-que-sait-on-du-retardant-rouge-largue-sur-les-forets_6737052_3244.html",
-      "summary": "Utilisé pour freiner la progression des flammes, le Fire-Trol 931 est constitué principalement d’eau et de polyphosphate d’ammonium. S’il n’est pas sans impact sur l’environnement, le risque reste sans commune mesure avec les effets des feux et de leurs fumées sur la santé et l’environnement.",
-      "image": "https://img.lemde.fr/2026/07/28/688/0/8256/4128/644/322/60/0/2957b74_ftp-1-wesr7ilbl7jz-997b6e171c724b42bc05462c05133014-1-ba2ea27e241942a4893d57c9eaa3b98d.jpg",
-      "published_at": "2026-07-30T18:30:05+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "0090c6d6a89f"
-    },
-    {
-      "title": "Au Burkina Faso, le capitaine Ibrahim Traoré écarte le numéro deux de la junte",
-      "url": "https://www.lemonde.fr/afrique/article/2026/07/30/au-burkina-faso-le-capitaine-ibrahim-traore-debranche-le-numero-deux-de-la-junte_6737051_3212.html",
-      "summary": "Mois après mois, le président burkinabé élimine tous ceux qui pourraient déstabiliser son régime. Denier à en faire les frais, le capitaine Oumarou Yabré, considéré jusque-là comme le second personnage de la junte au pouvoir à Ouagadougou.",
-      "image": "https://img.lemde.fr/2025/12/23/865/0/8192/4096/644/322/60/0/ca4595c_ftp-1-0du94fjqbm6q-11b581fe15214272a576bef1cf8dc41d-0-68843e8befc64704a127e6022394ec22.jpg",
-      "published_at": "2026-07-30T18:30:02+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "b116715f0bd6"
-    },
-    {
-      "title": "Neuf loups abattus illégalement, un charnier découvert, trois personnes interpellées... Un coup de filet contre le braconnage dans les Hautes-Alpes",
-      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/hautes-alpes/gap/neuf-loups-abattus-illegalement-un-charnier-decouvert-trois-personnes-interpellees-ce-que-l-on-sait-du-coup-de-filet-contre-le-braconnage-de-loups-3394741.html#xtor=RSS-3-[lestitres]",
-      "summary": "Trois personnes soupçonnées d’avoir abattu illégalement neuf loups dans les Hautes-Alpes ont été placées en garde à vue ce mardi 28 juillet 2026. Ressorties sous contrôle judiciaire, elles seront jugées devant le tribunal correctionnel de Gap.",
-      "image": "https://www.franceinfo.fr/pictures/VwOlFxz4_zQiLvRhIRZX87kc2_8/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b7aba0aa9e122749116.jpg",
-      "published_at": "2026-07-30T18:27:50+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "b8d89b1a673b"
-    },
-    {
-      "title": "\"La lutte, ça paye\" : ce qui attend les 270 salariés de l'usine Fibre Excellence de Saint-Gaudens, sauvée de la liquidation immédiate",
-      "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/la-lutte-ca-paye-l-usine-fibre-excellence-de-saint-gaudens-sauvee-de-la-liquidation-immediate-ce-qui-attend-les-270-salaries-d-ici-septembre-3394342.html#xtor=RSS-3-[lestitres]",
-      "summary": "Nouveau sursis jeudi 30 juillet 2026 pour l'usine Fibre Excellence de Saint-Gaudens (Haute-Garonne) : une offre de reprise consolidée pourra être déposée jusqu'au 24 août, portée par le groupe alsacien Soprema. Un soulagement pour les 270 salariés, au lendemain de la liquidation de l'usine jumelle de Tarascon.",
-      "image": "https://www.franceinfo.fr/pictures/-XIUKQ8xQdrzMDn0UGiN9dqtGII/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b2d2a3fe7f204590425.jpg",
-      "published_at": "2026-07-30T18:24:33+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "27ce79e0b17c"
-    },
-    {
-      "title": "IA : l’Europe met 5 milliards d’euros sur la table pour financer sept méga-usines et combler son retard sur les Etats-Unis et la Chine",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/30/ia-bruxelles-met-cinq-milliards-d-euros-sur-la-table-et-espere-combler-son-retard-sur-washington-et-pekin_6737050_3234.html",
-      "summary": "La Commission européenne a ouvert un appel d’offres pour financer ces gigantesques structures conçues pour l’entraînement de modèles d’intelligence artificielle. Les défis sont nombreux : incertitude budgétaire, respect des normes environnementales, dépendance aux Américains…",
-      "image": "https://img.lemde.fr/2026/07/30/523/0/5000/2500/644/322/60/0/57a8cb3_upload-1-gj9zqufqs36m-000-1uu5r6.jpg",
-      "published_at": "2026-07-30T18:23:48+02:00",
-      "source": "Le Monde Inter",
-      "category": "Tech",
-      "id": "d16286a75563"
-    },
-    {
-      "title": "Présidentielle : la justice déboute Attal sur l’utilisation du mot «renaissance» par Marine Le Pen pour sa campagne",
-      "url": "https://www.liberation.fr/politique/elections/presidentielle-la-justice-deboute-attal-sur-lutilisation-du-mot-renaissance-par-marine-le-pen-pour-sa-campagne-20260730_EPAG7JFFAFAJXPC36V36BJNLRE/",
-      "summary": "Le parti Renaissance avait assigné mi-juillet le RN, lui reprochant d’exploiter son nom dans sa première affiche. Le tribunal a toutefois estimé que cela ne créait aucune confusion. Il a également écarté les accusations de parasitisme.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-30T16:23:35+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "bb858fde219c"
-    },
-    {
-      "title": "«Taxi-boat» : quatre personnes retrouvées mortes dans le Nord et le Pas-de-Calais après avoir essayé de traverser la Manche",
-      "url": "https://www.liberation.fr/societe/police-justice/taxi-boat-quatre-personnes-retrouvees-mortes-dans-le-nord-et-le-pas-de-calais-apres-avoir-essaye-de-traverser-la-manche-20260730_VVWGTKED4BBWPLI6P5SUONCDEQ/",
-      "summary": "Dans la nuit de mercredi à jeudi 30 juillet, les corps sans vie de quatre individus ont été retrouvés au large et aux abords du littoral. Quatorze personnes sont décédées en tentant de rejoindre le Royaume-Uni en 2026.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-30T16:22:24+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "c737fb88f4cc"
-    },
-    {
-      "title": "«On a vu des animaux morts, asphyxiés par la fumée» : en Gironde, le difficile sauvetage des animaux domestiques des zones évacuées",
-      "url": "https://www.liberation.fr/environnement/animaux/on-a-vu-des-animaux-morts-asphyxies-par-la-fumee-en-gironde-le-difficile-sauvetage-des-animaux-domestiques-des-zones-evacuees-20260730_SQGCJTYGBNA5VL5L64ICSIYQUQ/",
-      "summary": "A Croignon, Mary-Line et David Avril ont mis leurs véhicules spécialisés à disposition pour aider les sinistrés. Plusieurs dizaines d’animaux ont été recueillis, dont certains resteront quelque temps dans leur pension.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-30T16:16:11+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "d08013c68cb0"
-    },
-    {
-      "title": "L'eurodéputée LFI Rima Hassan a porté plainte pour cyberharcèlement contre le journaliste Jean Quatremer",
-      "url": "https://www.franceinfo.fr/societe/harcelement/info-franceinfo-l-eurodeputee-lfi-rima-hassan-a-porte-plainte-pour-cyberharcelement-contre-le-journaliste-jean-quatremer_8128661.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'élue européenne de La France insoumise a déposé une plainte au parquet de Paris mercredi, dans laquelle elle fait état d'\"un acharnement\" du journaliste sur ses réseaux sociaux.",
-      "image": "https://www.franceinfo.fr/pictures/YmlaDN7Mr-qV4QTFbVDdy7cOJsc/0x556:5338x3559/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b65f25889a198319099.jpg",
-      "published_at": "2026-07-30T18:15:06+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "50572d345de4"
-    },
-    {
-      "title": "Après une année dans le rouge, Renault et Stellantis renouent avec les bénéfices",
-      "url": "https://www.liberation.fr/economie/apres-une-annee-dans-le-rouge-renault-et-stellantis-renouent-avec-les-benefices-20260730_LR7KUSB42ZDTZGTIRJORKARD2U/",
-      "summary": "Les deux groupes ont affiché de meilleurs résultats financiers et même des ventes de voitures en hausse pour Stellantis lors de la présentation de leurs résultats semestriels.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-30T16:13:45+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "8e5dda8e1e32"
-    },
-    {
-      "title": "L'UEFA menace de boycotter les Coupes du monde si le projet d'investisseurs privés présenté par la Fifa aboutit",
-      "url": "https://www.franceinfo.fr/sports/foot/l-uefa-menace-de-boycotter-les-coupes-du-monde-si-le-projet-d-investisseurs-prives-presente-par-la-fifa-aboutit_8128862.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les 55 nations membres de l'UEFA étaient conviées à une réunion d'urgence, jeudi, et ont décidé d'affirmer leur opposition unanime au projet de filiale de Gianni Infantino, président de la Fifa.",
-      "image": "https://www.franceinfo.fr/pictures/di_qIpikXcFoG3Zn4JYI9WbgR1Y/0x252:4944x3033/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b707ce34aa071838211.jpg",
-      "published_at": "2026-07-30T18:10:14+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "d61ac2a97111"
-    },
-    {
-      "title": "«C’était un accident» : des crampons roses aux pieds de tous les joueurs de la Coupe du monde de foot, les marques plaident la «coïncidence»",
-      "url": "https://www.liberation.fr/sports/football/cetait-un-accident-des-crampons-roses-aux-pieds-de-tous-les-joueurs-de-la-coupe-du-monde-de-foot-les-marques-plaident-la-coincidence-20260730_WMXERKHFK5BJ3HKKZJ33DZX7JA/",
-      "summary": "Des responsables d’Adidas et de Nike assurent qu’elles ne se sont pas mises d’accord en amont pour imposer le rose aux pieds des sportifs lors du Mondial cet été. Il s’agirait, selon eux, d’un hasard un peu «étrange».",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-30T16:10:05+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "e5d122789e91"
-    },
-    {
-      "title": "Qui se cache derrière «Até Chuet» le youtubeur, ex-pilote de l’armée française mis en examen pour intelligence avec la Chine",
-      "url": "https://www.liberation.fr/international/qui-se-cache-derriere-ate-chuet-le-youtubeur-ex-pilote-de-larmee-francaise-mis-en-examen-pour-intelligence-avec-la-chine-20260730_2R5UQUMBJBAQ7JUXYOPIPCOBQY/",
-      "summary": "Depuis le 23 juillet, une enquête est confiée à un juge d’instruction concernant Pierre-Henri Chuet, ex-militaire français, qui s’est rendu à deux reprises sur le sol chinois pour former ses homologues de l’armée de Pékin, alors qu’il était encore en poste.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-07-30T16:09:43+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "c31bdb41ae65"
-    },
-    {
-      "title": "Dons, jumelages : des collectivités d’Ile-de-France solidaires des communes incendiées",
-      "url": "https://www.liberation.fr/politique/dons-jumelages-des-collectivites-dile-de-france-solidaires-des-communes-incendiees-20260730_OBU7SZV2BJHOFFSVGQKZLLPOPA/",
-      "summary": "Portée par l’Association des maires de France, la région Ile-de-France et l’édile de Saint-Ouen Karim Bouamrane, l’initiative doit contribuer à la reconstruction des infrastructures détruites par le feu.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-30T16:05:13+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "aa924c1e8526"
-    },
-    {
-      "title": "Aux Etats-Unis, la croissance marque un peu le pas au deuxième trimestre sous l’effet de la guerre au Moyen-Orient",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/30/aux-etats-unis-la-croissance-marque-un-peu-le-pas-au-deuxieme-trimestre_6737049_3234.html",
-      "summary": "La hausse du produit intérieur brut reste largement soutenue par la consommation de ménages, qui compense un ralentissement des investissements, ainsi que l’augmentation des importations.",
-      "image": "https://img.lemde.fr/2026/07/29/478/0/3992/1996/644/322/60/0/46f72f0_ftp-1-q7hy2t9lbuat-5735492-01-06.jpg",
-      "published_at": "2026-07-30T18:02:01+02:00",
-      "source": "Le Monde Inter",
-      "category": "Économie",
-      "id": "22020fc1be97"
     }
   ]
 }
