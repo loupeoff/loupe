@@ -1,26 +1,276 @@
 {
-  "generated_at": "2026-07-31T17:46:57.236984+00:00",
+  "generated_at": "2026-07-31T19:45:23.845512+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Remis en liberté, le rappeur et cinéaste marocain Mehdi Black Wind espère retrouver son autre port d’attache, Marseille",
+      "url": "https://www.lemonde.fr/afrique/article/2026/07/31/remis-en-liberte-le-rappeur-et-cineaste-marocain-mehdi-black-wind-espere-retrouver-son-autre-port-d-attache-marseille_6737173_3212.html",
+      "summary": "Artiste touche-à-tout et engagé contre les inégalités dans son pays, le Maroc, Mehdi Black Wind, de son vrai nom El Mahdi Lyoubi avait été arrêté le 10 juillet sur sa terre natale. Son interpellation avait suscité un vaste élan de mobilisation.",
+      "image": "https://img.lemde.fr/2026/07/31/1000/0/6000/3000/644/322/60/0/ee4b7dc_upload-1-31ovstpik81q-elmahdlilyoubi.jpg",
+      "published_at": "2026-07-31T21:39:00+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "95d3bbeeaed6"
+    },
+    {
+      "title": "Coordonnées, adresse… Les données d’un «nombre important» d’agents de l’Education nationale pourraient (encore) avoir fuité",
+      "url": "https://www.liberation.fr/societe/education/coordonnees-adresse-les-donnees-dun-nombre-important-dagents-de-leducation-nationale-pourraient-encore-avoir-fuite-20260731_XUGCTPCZMVBSTEX2H6TRNL5B4U/",
+      "summary": "Le ministère annonce dans un communiqué ce vendredi qu’une «intrusion frauduleuse» a eu lieu le 25 juillet. Une plainte a été déposée.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-31T19:36:18+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "72aa65bac051"
+    },
+    {
+      "title": "En Gironde, le feu n'est pas fixé \"mais on progresse\", selon la préfète, 198 000 personnes évacuées ont pu rentrer chez eux",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-gironde-le-feu-n-est-pas-fixe-mais-on-progresse-selon-la-prefete-198-000-personnes-evacuees-ont-pu-rentrer-chez-eux_8130536.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Ça s'améliore vraiment de jour en jour\", a déclaré dans son point, vendredi soir, la préfète Sophie Brocas.",
+      "image": "https://www.franceinfo.fr/pictures/A4p2VWYof5VlRkTi0MV0RjJ537k/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6cdab65a374773605150.jpg",
+      "published_at": "2026-07-31T21:35:00+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "eac237d9f669"
+    },
+    {
+      "title": "Incendies : le feu dans le Var a parcouru 1 000 hectares et entraîné l’évacuation de 2 500 personnes, la situation s’améliore en Gironde",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-en-gironde-une-situation-stable-le-feu-contenu-dans-son-perimetre-20260731_HK7NMTUHYFAPRCM6PHKNOUAXKI/",
+      "summary": "Des habitants de Correns et de son camping ont dû fuir ce vendredi après-midi en raison d’une reprise de l’important incendie dans le Var. En Gironde, la majorité des évacués sont autorisés à rentrer.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-31T19:29:40+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "cb1554431b85"
+    },
     {
       "title": "EN DIRECT - Ceuta : plus de 48 000 migrants déjà rentrés au Maroc, l’UE ne constate pas de flux de migrants «vers le continent européen»",
       "url": "https://www.liberation.fr/international/europe/en-direct-ceuta-49-000-migrants-ont-traverse-la-frontiere-en-24-heures-le-premier-ministre-espagnol-attendu-sur-place-20260731_KHUFZEAPQVCW3AUWEEFNVVE36U/",
       "summary": "Alors que des dizaines de milliers de ressortissants marocains traversent depuis plusieurs jours la frontière qui mène à l’enclave espagnole, dans le nord du Maroc, ils sont presque 50 000 à avoir déjà fait le chemin en sens inverse. Il s’agit de l’arrivée de migrants la plus importante depuis 2021.",
       "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-07-31T17:30:06+00:00",
+      "published_at": "2026-07-31T19:25:34+00:00",
       "source": "Libération",
       "category": "Économie",
       "id": "d924f8495b6f"
     },
     {
-      "title": "EN DIRECT - Incendies : 2 000 évacués dans le Var alors que le feu «prend de l’ampleur», 198 000 personnes ont pu regagner leur habitation en Gironde",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-en-gironde-une-situation-stable-le-feu-contenu-dans-son-perimetre-20260731_HK7NMTUHYFAPRCM6PHKNOUAXKI/",
-      "summary": "Des habitants de Correns et de son camping ont dû fuir ce vendredi après-midi en raison d’une reprise de l’important incendie dans le Var. En Gironde, la majorité des évacués sont autorisés à rentrer.",
+      "title": "89 446 détenus en France au 1er juillet, un nouveau record",
+      "url": "https://www.liberation.fr/societe/police-justice/89-446-detenus-en-france-au-1er-juillet-un-nouveau-record-20260731_RR273X5JYBCS7CYBPOG7PHHYAE/",
+      "summary": "Ce record intervient alors que le ministère de la Justice compte ouvrir 3 000 places supplémentaires. Le nombre de places opérationnelles était au 1er juillet de 63 289.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-31T19:18:47+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "d0f96db5fe92"
+    },
+    {
+      "title": "Potentiel vol de données personnelles d'un \"nombre important\" d'agents de l'Education nationale",
+      "url": "https://www.franceinfo.fr/societe/education/potentiel-vol-de-donnees-personnelles-d-un-nombre-important-d-agents-de-l-education-nationale_8130599.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le système d'information visé par \"une intrusion frauduleuse\" \"ne contient ni données bancaires, ni mots de passe, ni données relatives aux élèves\", a précisé le ministère.",
+      "image": "https://www.franceinfo.fr/pictures/eO4XVE9lntsSbZhcDEVVplO10No/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6cf3dfd4262759977636.jpg",
+      "published_at": "2026-07-31T21:14:22+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "da2fe1088a50"
+    },
+    {
+      "title": "Les pompiers, un rempart au point de rupture ?",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/les-pompiers-un-rempart-au-point-de-rupture-20260731_LHW6AGLKS5CD5OS743EFYKY5IE/",
+      "summary": "Le dévouement sans fin et sans faille des femmes et hommes sur le front des incendies ne saurait pallier éternellement le manque de moyens auquel ils sont confrontés.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-31T19:00:19+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "ccef65d039d1"
+    },
+    {
+      "title": "Wim Wenders retire une scène d’un film où l’actrice Nastassja Kinski, alors adolescente, apparaissait en culotte",
+      "url": "https://www.liberation.fr/culture/cinema/wim-wenders-retire-une-scene-dun-film-ou-lactrice-nastassja-kinski-alors-adolescente-apparaissait-en-culotte-20260731_DYPBRIFI5NHYRE3VMVZZGSMIXQ/",
+      "summary": "Dans une déclaration commune rendue publique jeudi 30 juillet, le cinéaste de 80 ans dit accéder au souhait de la comédienne de couper les images contestées du film «Faux mouvement» et s’excuse auprès de la comédienne.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-07-31T18:56:36+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "49cf7f13505f"
+    },
+    {
+      "title": "«J’ai plus aucune confiance en l’Etat» : en Gironde, les colères et les leçons d’un «feu du siècle»",
+      "url": "https://www.liberation.fr/environnement/jai-plus-aucune-confiance-en-letat-en-gironde-les-coleres-et-les-lecons-du-feu-du-siecle-20260731_FFDVGYX6FVFMBNA4WQ2K77CGNU/",
+      "summary": "«Libé» est allé à la rencontre des élus et des habitants sinistrés du bassin d’Arcachon, qui déplorent la gestion de la crise par les autorités et songent à des solutions pour s’adapter à la récurrence inéluctable d’incendies hors norme.",
       "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-31T17:29:07+00:00",
+      "published_at": "2026-07-31T18:54:50+00:00",
       "source": "Libération",
       "category": "Société",
-      "id": "cb1554431b85"
+      "id": "a77acdf373e3"
+    },
+    {
+      "title": "Chute des Girondins de Bordeaux : le club vendu à un fonds d’investissement britannique, la liquidation s’éloigne",
+      "url": "https://www.liberation.fr/sports/football/chute-des-girondins-de-bordeaux-le-club-vendu-a-un-fonds-dinvestissement-britannique-la-liquidation-seloigne-20260731_OKEFBPX3JBFODDAIF3BJU7UDEE/",
+      "summary": "Alors qu’il était condamné à évoluer en Régional 1, faute d’avoir obtenu les financements nécessaires en juillet, le club six fois vainqueur de la Ligue 1 voit son problème en partie résolu avec son rachat ce vendredi 31 juillet par Sparta Capital.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-31T18:50:04+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "313632d4ea9f"
+    },
+    {
+      "title": "A Ceuta, une crise migratoire et un emballement sans précédent",
+      "url": "https://www.liberation.fr/international/europe/a-ceuta-une-crise-migratoire-et-un-emballement-sans-precedent-20260731_CXIFJIFUANFZRGL4QQDWOLJBRE/",
+      "summary": "Si la quasi-totalité des 50 000 arrivants clandestins est repartie vendredi, les dernières quarante-huit heures resteront comme un moment inédit dans l’enclave espagnole. Et un symbole de la panique des droites internationales.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-31T18:45:44+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "8fcbdeeeec25"
+    },
+    {
+      "title": "Incendie dans le Var : la reprise de feu \"prend de l'ampleur\", le préfet ordonne l'évacuation de 2 500 personnes",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-en-gironde-le-feu-est-contenu-dans-son-perimetre-rapporte-la-prefecture_8129489.html#xtor=RSS-3-[lestitres]",
+      "summary": "La reprise de l'incendie a été \"attisée\" par le vent violent \"qui a attisé les braises encore incandescentes\", selon le préfet du Var.",
+      "image": "https://www.franceinfo.fr/pictures/O2LE6E3Luh62BEyFWBcC4kN5UxQ/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6cbd902506f359078389.jpg",
+      "published_at": "2026-07-31T20:40:19+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "0bd79edc85c8"
+    },
+    {
+      "title": "Crise migratoire à Ceuta : le camp Maga en mission récupération",
+      "url": "https://www.liberation.fr/international/amerique/crise-migratoire-a-ceuta-le-camp-maga-en-mission-recuperation-20260731_D5KRZTP7TNG3DIQLCLAXUOMCFU/",
+      "summary": "La crise à la frontière de l’enclave espagnole fournit aux trumpistes une arme idéale pour attaquer de front immigration, Pedro Sánchez et la gauche européenne.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-31T18:35:22+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "aeb906af50bf"
+    },
+    {
+      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
+      "summary": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-07-31T18:28:45+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "db01394bbc86"
+    },
+    {
+      "title": "Décontaminer l’eau potable des résidus de pesticides et des PFAS pourrait coûter jusqu’à 5,7 milliards d’euros par an, selon un rapport",
+      "url": "https://www.lemonde.fr/planete/article/2026/07/31/decontaminer-l-eau-potable-des-residus-de-pesticides-et-des-pfas-pourrait-couter-jusqu-a-5-7-milliards-d-euros-par-an-selon-un-rapport_6737169_3244.html",
+      "summary": "Le rapport d’une mission d’inspection interministérielle publié jeudi identifie quatre scénarios de dépollution de l’eau potable, représentant des surcoûts allant de 1,3 milliard à 5,7 milliards d’euros par an.",
+      "image": "https://img.lemde.fr/2026/07/28/774/0/5000/2500/644/322/60/0/7f3bc19_upload-1-v6x4kcgvud35-eau-creuse-valerieteppe-hanslucas-54.jpg",
+      "published_at": "2026-07-31T20:23:55+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "037387dc776b"
+    },
+    {
+      "title": "Top départ des Championnats d’Europe de natation à Saint-Denis : «Il y a un petit goût de Paris deux ans après»",
+      "url": "https://www.liberation.fr/sports/top-depart-des-championnats-deurope-de-natation-a-saint-denis-il-y-a-un-petit-gout-de-paris-deux-ans-apres-20260731_V2AFN5IIOZAZTJZAYK2SVQSSKA/",
+      "summary": "L’Euro se déroule du 31 juillet au 16 août au Centre aquatique olympique (CAO) de Saint-Denis. L’occasion de retrouver les héros des Jeux de Paris, Léon Marchand et ses coéquipiers, Maxime Grousset ou Yohann Ndoye-Brouard.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-07-31T18:22:25+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "57caf6968140"
+    },
+    {
+      "title": "Maisons du monde finalise son plan de sauvetage et échappe au redressement judiciaire",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/31/maisons-du-monde-finalise-son-plan-de-sauvetage-et-echappe-au-redressement-judiciaire_6737168_3234.html",
+      "summary": "Le refinancement prévoit une prise de contrôle de 95 % du capital de Maisons du monde par le fonds Alteri Investors, spécialisé dans le commerce de détail en Europe, et le gestionnaire de fonds Eicos Investment Group.",
+      "image": "https://img.lemde.fr/2026/07/31/756/0/7387/3693/644/322/60/0/ac2b94f_upload-1-k1g68izeag74-000-a8ag6ud.jpg",
+      "published_at": "2026-07-31T20:20:38+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "e437863a35d1"
+    },
+    {
+      "title": "EN DIRECT, incendies : 1 000 hectares parcourus depuis le début de l’après-midi dans le Var, où 2 500 personnes ont été évacuées",
+      "url": "https://www.lemonde.fr/planete/live/2026/07/31/en-direct-incendies-2-000-personnes-evacuees-dans-le-var-apres-une-reprise-de-feu-en-gironde-la-crise-n-est-pas-finie-le-feu-n-est-pas-fixe-mais-on-progresse-declare-la-prefete_6737097_3244.html",
+      "summary": "Les flammes, attisées par un fort mistral, ont repris vers 13 h 30 au sud de l’incendie du massif du Gros Bessillon, qui avait été fixé mardi. En Gironde, « la crise n’est pas finie, le feu n’est pas fixé, mais on progresse », a déclaré la préfète Sophie Brocas. Près de 200 000 personnes ont pu rentrer chez elles dans une vingtaine de communes du département, sur un total de 220 000 déplacés.",
+      "image": "https://img.lemde.fr/2026/07/31/516/0/4744/2372/644/322/60/0/862812f_upload-1-k5r3cucylhey-abaca-1012258-030.jpg",
+      "published_at": "2026-07-31T20:19:09+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "78df07388407"
+    },
+    {
+      "title": "Crise des migrants à Ceuta : le renfort de policiers et gendarmes multiplié par cinq dès samedi à la frontière franco-espagnole, annonce Laurent Nuñez",
+      "url": "https://www.franceinfo.fr/monde/espagne/direct-crise-des-migrants-a-ceuta-la-france-va-renforcer-sans-attendre-les-controles-a-la-frontiere-espagnole-annonce-laurent-nunez_8129753.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette décision porte à 334 le nombre de policiers et gendarmes déployés en renfort à la frontière franco-espagnole.",
+      "image": "https://www.franceinfo.fr/pictures/dLhlrLhsoCvOQfc9Y67TOgPTHSs/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b93bfece28822561068.jpg",
+      "published_at": "2026-07-31T20:17:16+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "2bf2dca5b019"
+    },
+    {
+      "title": "Gianni Infantino désavoué par ses proches à la FIFA : son plan d’ouverture aux investisseurs privés « est le projet d’une seule personne »",
+      "url": "https://www.lemonde.fr/sport/article/2026/07/31/gianni-infantino-desavoue-par-ses-proches-a-la-fifa-son-plan-d-ouverture-aux-investisseurs-prives-est-le-projet-d-une-seule-personne_6737167_3242.html",
+      "summary": "Après l’annonce du boycott par l’UEFA des compétitions de la FIFA si l’instance poursuit son plan, annoncé mardi, deux proches collaborateurs du patron du football mondial ont critiqué un projet conçu dans le plus grand des secrets, y compris de la FIFA.",
+      "image": "https://img.lemde.fr/2026/07/14/344/0/3595/1797/644/322/60/0/bb17190_ftp-1-ei6c6r9yemw1-2026-07-14t190651z-1028615163-up1em7e1h3dj4-rtrmadp-3-soccer-worldcup-fra-esp.JPG",
+      "published_at": "2026-07-31T20:17:15+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "425128b2c606"
+    },
+    {
+      "title": "« En Inde, loin de verser dans la violence, les jeunes manifestants ont opté pour le rire, la danse et le chant »",
+      "url": "https://www.lemonde.fr/idees/article/2026/07/31/en-inde-loin-de-verser-dans-la-violence-les-jeunes-manifestants-ont-opte-pour-le-rire-la-danse-et-le-chant_6737165_3232.html",
+      "summary": "Les mobilisations d’étudiants et la démission du ministre de l’éducation indien, le 25 juillet, révèlent une crise sociale profonde, dont l’issue politique est incertaine, souligne le politiste Christophe Jaffrelot dans une tribune au « Monde ».",
+      "image": "https://img.lemde.fr/2026/07/25/688/0/8256/4128/644/322/60/0/ff58865_ftp-1-vc4u72kshjts-5702046-01-06.jpg",
+      "published_at": "2026-07-31T20:00:09+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "629480cf8374"
+    },
+    {
+      "title": "Incendies en Gironde : la commune du Porge a-t-elle été «sacrifiée» pour sauver les villas cossues du Cap Ferret ?",
+      "url": "https://www.liberation.fr/checknews/incendies-en-gironde-la-commune-du-porge-a-t-elle-ete-sacrifiee-pour-sauver-les-villas-cossues-du-cap-ferret-20260731_BRHGYJZT35HHXG5HXCGYTLPVBI/",
+      "summary": "A partir de témoignages d’habitants, de pompiers, d’images satellites et de déclarations des autorités, «CheckNews» a retracé, jour par jour, à partir du 22 juillet, le drame qui a touché la ville.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-31T17:59:26+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "82ae02fa1a1f"
+    },
+    {
+      "title": "«Il s’agit du projet d’une seule personne» : rififi à la Fifa en réaction au plan de Gianni Infantino",
+      "url": "https://www.liberation.fr/sports/football/il-sagit-du-projet-dune-seule-personne-rififi-a-la-fifa-en-reaction-au-plan-de-gianni-infantino-20260731_6J2FUTEPWVABPEOQFFI6DUXTCM/",
+      "summary": "La proposition ultralibérale du président de l’instance de créer la «Fifa Forward Enterprise» est désormais critiquée jusque dans son propre camp. Au risque de se retourner contre lui, alors qu’il avait course gagnée pour un troisième mandat en 2027.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-07-31T17:59:15+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "9ef54f3698e1"
+    },
+    {
+      "title": "Crise de Ceuta : pourquoi l’Espagne ne peut pas être exclue de l’espace Schengen",
+      "url": "https://www.liberation.fr/international/europe/crise-de-ceuta-pourquoi-lespagne-ne-peut-pas-etre-exclue-de-lespace-schengen-20260731_5NI7TGS7XFHE7KX7GTDCWOVMZ4/",
+      "summary": "Après l’arrivée de milliers de migrants à Ceuta, l’Italie, soutenue par plusieurs pays européens, a réclamé une fermeture de l’espace Schengen à l’Espagne. Une sanction qui ne repose sur aucun mécanisme prévu par le droit de l’UE.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-07-31T17:49:49+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "73f09df7aecb"
+    },
+    {
+      "title": "Surpopulation carcérale : au 1ᵉʳ juillet, le nombre de détenus dans les prisons françaises atteint 89 446, un chiffre inédit",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/31/surpopulation-carcerale-au-1-juillet-le-nombre-de-detenus-dans-les-prisons-francaises-atteint-89-446-un-nouveau-record_6737164_3224.html",
+      "summary": "Le taux de suroccupation dans les prisons et les maisons d’arrêt, où sont détenues les personnes condamnées à de courtes peines ou en attente de jugement, était de 141,3 % au 1ᵉʳ juillet.",
+      "image": "https://img.lemde.fr/2026/07/30/482/0/7117/3558/644/322/60/0/623eeea_ftp-1-mvtwiqfx6eok-5742474-01-06.jpg",
+      "published_at": "2026-07-31T19:48:36+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "05c6a20fb7f1"
+    },
+    {
+      "title": "EN DIRECT, guerre au Moyen-Orient : le trafic maritime est toujours impossible dans le détroit d’Ormuz, affirme l’Iran",
+      "url": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-au-moyen-orient-le-trafic-maritime-est-toujours-impossible-dans-le-detroit-d-ormuz-affirme-l-iran_6737099_3210.html",
+      "summary": "L’armée américaine assure que la voie de navigation « reste ouverte aux navires commerciaux ». « L’Iran n’en a pas le contrôle. Des milliers de navires ont emprunté cette voie navigable internationale au cours des quatre derniers mois », précise le commandement militaire américain pour le Moyen-Orient, sur X.",
+      "image": "https://img.lemde.fr/2026/07/30/47/0/5534/2767/644/322/60/0/6c5f5bd_ftp-1-7x6iaunvpjjy-2026-07-30t113328z-550808116-rc26ylaa7fi9-rtrmadp-3-iran-crisis-gulf-china.JPG",
+      "published_at": "2026-07-31T19:48:13+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "c0f9283d704d"
     },
     {
       "title": "El Niño, qui se renforce, « attise une planète déjà en feu », s’alarme le chef de l’ONU",
@@ -33,16 +283,6 @@
       "id": "74396eb5a092"
     },
     {
-      "title": "En Gironde, le feu n'est pas fixé \"mais on progresse\", selon la préfète, 198 000 personnes évacuées ont pu rentrer chez eux",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-gironde-le-feu-n-est-pas-fixe-mais-on-progresse-selon-la-prefete-198-000-personnes-evacuees-ont-pu-rentrer-chez-eux_8130536.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Ça s'améliore vraiment de jour en jour\", a déclaré dans son point, vendredi soir, la préfète Sophie Brocas.",
-      "image": "https://www.franceinfo.fr/pictures/A4p2VWYof5VlRkTi0MV0RjJ537k/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6cdab65a374773605150.jpg",
-      "published_at": "2026-07-31T19:28:27+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "eac237d9f669"
-    },
-    {
       "title": "Au Maroc, le rappeur El Mahdi Lyoubi remis en liberté mais toujours poursuivi : «On ne sait même pas quelle chanson est problématique»",
       "url": "https://www.liberation.fr/societe/police-justice/au-maroc-le-rappeur-el-mahdi-lyoubi-remis-en-liberte-mais-toujours-poursuivi-on-ne-sait-meme-pas-quelle-chanson-est-problematique-20260731_IDMODDNDAJCJTD3WBAYEE6P3SM/",
       "summary": "L’artiste marocain connu sous le nom de scène «Mehdi Black Wind» est sorti de détention ce vendredi 31 juillet après dix-huit jours de prison. Il est poursuivi pour ses propos critiques du gouvernement et son soutien au mouvement Gen Z du pays.",
@@ -53,16 +293,6 @@
       "id": "879087417801"
     },
     {
-      "title": "Incendie dans le Var : une reprise de feu \"prend de l'ampleur\", le préfet ordonne l'évacuation de 2 000 personnes",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-en-gironde-le-feu-est-contenu-dans-son-perimetre-rapporte-la-prefecture_8129489.html#xtor=RSS-3-[lestitres]",
-      "summary": "La reprise de l'incendie a été \"attisée\" par le vent violent \"avec des sautes de feu\", selon le préfet du Var.",
-      "image": "https://www.franceinfo.fr/pictures/O2LE6E3Luh62BEyFWBcC4kN5UxQ/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6cbd902506f359078389.jpg",
-      "published_at": "2026-07-31T19:04:20+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "0bd79edc85c8"
-    },
-    {
       "title": "En Serbie, la série « Opération Sabre » ravive les fantômes du passé",
       "url": "https://www.lemonde.fr/culture/article/2026/07/31/en-serbie-la-serie-operation-sabre-ravive-les-fantomes-du-passe_6737162_3246.html",
       "summary": "« Tour du monde en séries » (5/6). En retraçant l’assassinat du premier ministre Zoran Djindjic et l’enquête qui a suivi, la série serbe a attiré 1 million de spectateurs chaque semaine et ranimé les débats sur la corruption, le nationalisme et l’héritage des années Milosevic.",
@@ -71,236 +301,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "505ff62d785b"
-    },
-    {
-      "title": "Les migrants repartent de Ceuta, reprise de feu dans le Var, fronde contre Infantino… L’actu de ce vendredi 31 juillet",
-      "url": "https://www.liberation.fr/international/europe/les-migrants-repartent-de-ceuta-reprise-de-feu-dans-le-var-fronde-contre-infantino-lactu-de-ce-vendredi-31-juillet-20260731_3E5KN44CKFEC3M2FSNFZG4REYU/",
-      "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée du 31 juillet.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-31T16:58:34+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "01030a5cde52"
-    },
-    {
-      "title": "Retour massif des habitants et des touristes évacués : 198 000 personnes autorisées à rentrer chez elles, les campings de Lacanau rouvrent",
-      "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/incendie-en-gironde-les-habitants-de-biganos-et-audenge-autorises-a-rentrer-chez-eux-les-touristes-de-lacanau-de-retour-aussi-3395077.html#xtor=RSS-3-[lestitres]",
-      "summary": "La préfecture de Gironde vient d'autoriser la réintégration des habitants des communes de Biganos, Lanton, Andernos-les-Bains et Audenge ce vendredi 31 juillet, soit neuf jours après le début des incendies. Ils s'ajoutent aux douze autres communes qui avaient déjà obtenu une réintégration dans les jours précédents.",
-      "image": "https://www.franceinfo.fr/pictures/2VVqiMa7_C7rsaYFoI4fM3YhlJ4/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6c75dd21546710628098.jpg",
-      "published_at": "2026-07-31T18:58:00+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "6a1a8976a743"
-    },
-    {
-      "title": "Les journalistes de « Marianne » affirment que Jean Quatremer pourrait « tordre » l’ADN du magazine et « brusquer » ses lecteurs",
-      "url": "https://www.lemonde.fr/actualite-medias/article/2026/07/31/les-journalistes-de-marianne-affirment-que-jean-quatremer-pourrait-tordre-l-adn-du-magazine-et-brusquer-ses-lecteurs_6737160_3236.html",
-      "summary": "La directrice de la rédaction, Eve Szeftel, a cependant assuré que Jean Quatremer, qui vient de quitter le journal « Libération », « ne va exercer aucun rôle dans la direction de la rédaction, ni l’orientation du journal », mais « va exprimer une opinion ».",
-      "image": "https://img.lemde.fr/2026/07/31/754/0/2225/1112/644/322/60/0/f20a2ba_upload-1-fmqnythy2ek3-abaca-986747-060.jpg",
-      "published_at": "2026-07-31T18:52:34+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "8616125566ee"
-    },
-    {
-      "title": "OpenAI annonce avoir dépassé le milliard d'utilisateurs actifs, moins de quatre ans après le lancement de ChatGPT",
-      "url": "https://www.franceinfo.fr/internet/openai-annonce-avoir-depasse-le-milliard-d-utilisateurs-actifs-moins-de-quatre-ans-apres-le-lancement-de-chatgpt_8130446.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'entreprise a également précisé compter désormais deux millions de clients 'entreprise\".",
-      "image": "https://www.franceinfo.fr/pictures/Sa2i8-dglU3NIajrwPQ9KegccjM/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6cc24ab4f61325623593.jpg",
-      "published_at": "2026-07-31T18:50:51+02:00",
-      "source": "France Info",
-      "category": "Tech",
-      "id": "c92317a1a38f"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : Donald Trump dit vouloir faire « très attention » avant d’autoriser Kiev à produire des missiles Patriot",
-      "url": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-en-ukraine-donald-trump-dit-vouloir-faire-tres-attention-avant-d-autoriser-kiev-a-produire-des-missiles-patriot_6732775_3210.html",
-      "summary": "« Vous donnez cette technologie et, un jour, ils peuvent se retourner contre vous », a mis en garde le président américain, lors d’un conseil des ministres ouvert à la presse dans sa résidence de Camp David. Le président américain avait annoncé, le 8 juillet, son intention d’autoriser l’Ukraine à fabriquer des missiles Patriot, à l’issue du sommet de l’Organisation du traité de l’Atlantique Nord à",
-      "image": "https://img.lemde.fr/2026/07/31/178/0/2139/1069/644/322/60/0/f7f0e73_ftp-1-rzcxiawud27y-5750014-01-06.jpg",
-      "published_at": "2026-07-31T18:49:59+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "4b3087f7392d"
-    },
-    {
-      "title": "Quand reverra-t-on une éclipse solaire totale en France ?",
-      "url": "https://www.numerama.com/sciences/2252859-eclipse-solaire-totale-en-france-la-prochaine-naura-lieu-quen-2081.html",
-      "summary": "Quand une éclipse solaire se produit, la France n'a pas toujours la chance d'être dans sa zone de visibilité. Le 12 août 2026, nous pourrons voir une éclipse solaire partielle (et totale en Espagne). Jusqu'à quand faudra-t-il attendre pour revoir en France métropolitaine une éclipse totale de Soleil, comme en 1999 ?",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-31T16:40:57+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "7b8693aa5387"
-    },
-    {
-      "title": "La mère des cinq bébés morts découverts à Orange a été mise en examen et placée en détention provisoire",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/31/la-mere-des-cinq-bebes-morts-decouverts-a-orange-a-ete-mise-en-examen-et-placee-en-detention-provicoire_6737159_3224.html",
-      "summary": "Les ossements de quatre nourrissons et le corps d’un nouveau-né ont été retrouvés dans un appartement d’Orange (Vaucluse), au domicile d’une famille dont la femme a accouché dimanche d’un bébé en bonne santé.",
-      "image": "https://img.lemde.fr/2026/07/28/1256/0/7536/3768/644/322/60/0/ad25ec3_ftp-1-52sx9jpkxf3y-5722891-01-06.jpg",
-      "published_at": "2026-07-31T18:37:24+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "c0766ad5d20a"
-    },
-    {
-      "title": "Au Mali, des crimes de guerre documentés des deux côtés",
-      "url": "https://www.liberation.fr/international/afrique/ces-preuves-sont-irrefutables-au-mali-des-crimes-de-guerre-documentes-des-deux-cotes-20260731_FU65YDAE7NH3DGF22IHXKCUYLU/",
-      "summary": "Bombardements de civils, exécutions sommaires… Human Rights Watch et Amnesty International publient deux rapports documentant de nouvelles exactions commises par les belligérants.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-31T16:36:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "25cf4e0a9c6c"
-    },
-    {
-      "title": "\"Je suis raciste et je l’ai fait exprès\" : une haltérophile manque le sacre mondial après qu'un assistant avoue avoir délibérément pénalisé sa performance",
-      "url": "https://www.franceinfo.fr/sports/halterophilie/je-suis-raciste-et-je-l-ai-fait-expres-une-halterophile-manque-le-sacre-mondial-apres-qu-un-assistant-avoue-avoir-deliberement-penalise-sa-performance_8120840.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'haltérophile belge, Sonita Muluh, était proche d'un titre mondial en powerlifting en Lituanie, en juin dernier. Mais la jeune femme vient d'apprendre que sa performance a été pénalisée par un assistant, se revendiquant raciste.",
-      "image": "https://www.franceinfo.fr/pictures/TSnsEHJNNSR45YoVKW_8Hsmhavs/0x0:5124x2882/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6ccb7cb5c59315388528.jpg",
-      "published_at": "2026-07-31T18:31:41+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "3238eee620fc"
-    },
-    {
-      "title": "Incendie en Gironde : Sophie Brocas, préfète, et Marc Vermeulen, patron des pompiers du département, racontent dix jours de lutte contre le feu et expliquent leurs choix",
-      "url": "https://www.lemonde.fr/planete/article/2026/07/31/incendie-en-gironde-sophie-brocas-prefete-et-marc-vermeulen-patron-des-pompiers-du-departement-racontent-dix-jours-de-lutte-contre-le-feu-et-expliquent-leurs-choix_6737157_3244.html",
-      "summary": "Dans un entretien au « Monde », la préfète de Gironde et le directeur du Service départemental d’incendie et de secours reviennent sur leur gestion du mégafeu qui sévit dans le département depuis le 22 juillet.",
-      "image": "https://img.lemde.fr/2026/07/31/307/0/4500/2250/644/322/60/0/c269dac_upload-1-hsphvo8zko6p-30072026-1a0a8455-incendies-gironde-carrot.jpg",
-      "published_at": "2026-07-31T18:21:45+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "ce4635c7adca"
-    },
-    {
-      "title": "Crise des migrants à Ceuta : face aux levées de boucliers de nombreux dirigeants européens, le Premier ministre espagnol répond que \"ce n'est pas le moment de diviser\"",
-      "url": "https://www.franceinfo.fr/monde/espagne/direct-crise-des-migrants-a-ceuta-la-france-va-renforcer-sans-attendre-les-controles-a-la-frontiere-espagnole-annonce-laurent-nunez_8129753.html#xtor=RSS-3-[lestitres]",
-      "summary": "Selon le président de Ceuta, plus de 60 000 personnes avaient franchi la frontière entre l'enclave espagnole et le Maroc en quelques heures. Au moins 34 personnes sont mortes en tentant de rejoindre le territoire de 80 000 habitants.",
-      "image": "https://www.franceinfo.fr/pictures/IFiWpzh_r7uTqeAicmytrVaD-NI/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6cc873de55e534312609.jpg",
-      "published_at": "2026-07-31T18:17:26+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "2bf2dca5b019"
-    },
-    {
-      "title": "EN DIRECT, Ceuta : plus de 48 000 personnes sont déjà rentrées au Maroc, annonce le gouvernement espagnol ; face aux critiques, Pedro Sanchez appelle à l’unité des Européens",
-      "url": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-ceuta-37-500-des-50-000-personnes-entrees-illegalement-a-ceuta-sont-rentrees-au-maroc-face-aux-critiques-pedro-sanchez-appelle-a-l-unite-des-europeens_6737133_3210.html",
-      "summary": "Le ministère de l’intérieur espagnol avait annoncé plus tôt dans la journée que 50 000 personnes avaient afflué dans l’enclave depuis jeudi. Selon le quotidien « El Pais », 57 migrants sont morts en tentant de rejoindre le territoire à la nage.",
-      "image": "https://img.lemde.fr/2026/07/31/414/0/4968/2484/644/322/60/0/02bcbe5_ftp-1-oc0ey2ucadmy-559c94e727d34346ae892e17c2aaa268-0-1b758ced5d584de38814e1ce531025ee.jpg",
-      "published_at": "2026-07-31T18:15:39+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "8ae9456fcad4"
-    },
-    {
-      "title": "Le puissant El Niño s’apprête «à dominer les régimes climatiques mondiaux d’août à octobre», prévient l’OMM",
-      "url": "https://www.liberation.fr/environnement/le-puissant-el-nino-sapprete-a-dominer-les-regimes-climatiques-mondiaux-daout-a-octobre-previent-lomm-20260731_XOFIG7HCQFGL5IANOXSDQ24TLQ/",
-      "summary": "Selon l’Organisation météorologique mondiale, le phénomène naturel s’intensifie dans le Pacifique, avec pour conséquence une hausse du thermomètre mondial, un bouleversement du régime des précipitations et une mise sous tension des systèmes agricoles.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-07-31T16:15:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "bee56c63ffb6"
-    },
-    {
-      "title": "Afflux de migrants à Ceuta : la droite et l’extrême droite françaises mettent en cause le gouvernement de Pedro Sanchez, la gauche dénonce « des mensonges »",
-      "url": "https://www.lemonde.fr/politique/article/2026/07/31/afflux-de-migrants-a-ceuta-la-droite-et-l-extreme-droite-francaises-mettent-en-cause-le-gouvernement-de-pedro-sanchez-la-gauche-denonce-des-mensonges_6737156_823448.html",
-      "summary": "L’exécutif a annoncé avoir « renforcé » les contrôles à la frontière avec l’Espagne vendredi, après l’afflux de dizaines de milliers de personnes du Maroc vers l’enclave européenne depuis la veille.",
-      "image": "https://img.lemde.fr/2026/07/30/480/0/5757/2878/644/322/60/0/b34e641_ftp-1-feurids1mxwo-2026-07-30t213517z-1892169350-rc2loma448wi-rtrmadp-3-europe-migration-spain-ceuta.JPG",
-      "published_at": "2026-07-31T18:14:51+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "7df292a20359"
-    },
-    {
-      "title": "\"Cela va permettre de réaliser des projets sur Oléron\" : le Conseil constitutionnel valide les sanctions prévues par la loi dans l'affaire Airbnb",
-      "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/charente-maritime/la-rochelle/cela-va-nous-permettre-de-realiser-des-projets-sur-oleron-le-conseil-constitutionnel-valide-l-amende-de-8-6-millions-d-euros-infligee-a-airbnb-3395236.html#xtor=RSS-3-[lestitres]",
-      "summary": "Après cinq ans de procédure, selon la communauté de communes de l'île d'Oléron, c'est une bataille qu'elle remporte contre Airbnb. Le Conseil constitutionnel a validé la constitutionnalité des lois sanctionnant la plateforme. Un bon signe pour que l'amende de 8,6 millions d'euros soit finalement payée, selon les élus.",
-      "image": "https://www.franceinfo.fr/pictures/yT2MdDIchyhaduw0bX4Fly-5JMk/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6caf5dbac4a604210931.jpg",
-      "published_at": "2026-07-31T18:11:29+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "b7299424721a"
-    },
-    {
-      "title": "Après la découverte de cinq nouveau-nés morts à Orange, la mère de famille mise en examen et placée en détention provisoire",
-      "url": "https://www.franceinfo.fr/faits-divers/apres-la-decouverte-de-cinq-nouveau-nes-morts-a-orange-la-mere-de-famille-mise-en-examen-et-placee-en-detention-provisoire_8130455.html#xtor=RSS-3-[lestitres]",
-      "summary": "Son compagnon a été remis en liberté vendredi matin, a annoncé le parquet d'Avignon.",
-      "image": "https://www.franceinfo.fr/pictures/aogJqmj1N6AA4Mo_5c5jrVG8iDQ/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6cc850afb7a929621438.jpg",
-      "published_at": "2026-07-31T18:07:47+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "90627c4573c7"
-    },
-    {
-      "title": "Gaza : Trump annonce un accord sur le désarmement du Hamas, Nétanyahou muré dans le silence",
-      "url": "https://www.liberation.fr/international/moyen-orient/gaza-trump-annonce-un-accord-sur-le-desarmement-du-hamas-netanyahou-mure-dans-le-silence-20260731_MH3TWE7EC5GKVCPL56HDRCJ7KU/",
-      "summary": "Selon Washington, le mouvement islamiste a accepté de se désarmer ce vendredi 31 juillet. Mais il exige le retrait de l’armée israélienne de la bande de Gaza, ce qu’elle a toujours refusé de faire malgré le cessez-le-feu signé en octobre.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-07-31T16:01:16+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "7740d9554645"
-    },
-    {
-      "title": "Quand le gouvernement américain publie une carte fantaisiste de l’Afrique",
-      "url": "https://www.lemonde.fr/afrique/article/2026/07/31/quand-le-gouvernement-americain-publie-une-carte-fantaisiste-de-l-afrique_6737154_3212.html",
-      "summary": "Lors d’une conférence internationale sur le sida, au Brésil, fin juillet, le département d’Etat a présenté une carte de l’Afrique où la Côte d’Ivoire s’est retrouvée dans le sud du continent et le Nigeria enclavé dans le Sahara. Le Cameroun, quant à lui, est devenu un Etat fantôme.",
-      "image": "https://img.lemde.fr/2026/07/30/504/0/4032/2016/644/322/60/0/e857852_ftp-1-uw6kr3x3gva2-2026-07-30t130842z-266872612-rc2nlmav1qgq-rtrmadp-3-usa-africa-politics.JPG",
-      "published_at": "2026-07-31T18:00:07+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "a65fa6420913"
-    },
-    {
-      "title": "Labeyrie, la succession qui agite le bocal de foie gras",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/labeyrie-la-succession-qui-agite-le-bocal-de-foie-gras-20260731_X2RBZ462IREY5G3BK6P4EDFCJA/",
-      "summary": "Mort en 2020 à presque 97 ans, l’industriel landais qui a fondé un empire du luxe gastronomique laisse une fortune de plus de 15 millions d’euros. Mais ses enfants accusent sa seconde femme d’avoir voulu profiter de sa faiblesse.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-07-31T16:00:00+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "2be889dd961c"
-    },
-    {
-      "title": "De retour de vacances, une mère de famille découvre un cadavre sur le siège arrière de sa voiture stationnée sur un parking près de la gare",
-      "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/de-retour-de-vacances-une-mere-de-famille-decouvre-un-cadavre-sur-le-siege-arriere-de-sa-voiture-stationnee-sur-un-parking-pres-de-la-gare-3395287.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le corps d'un homme de 26 ans a été retrouvé dans une voiture par la propriétaire, qui avait stationné son véhicule près de la gare Sud de France à Montpellier, avant de partir en vacances.",
-      "image": "https://www.franceinfo.fr/pictures/X2n7xX8SYLt9n4XdnfRsQtY6x4g/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6cc4b60f162894312062.jpg",
-      "published_at": "2026-07-31T17:52:23+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "c60f744af0d6"
-    },
-    {
-      "title": "Ceuta, une enclave espagnole au cœur des tensions avec le Maroc",
-      "url": "https://www.liberation.fr/international/ceuta-une-enclave-espagnole-au-coeur-des-tensions-avec-le-maroc-20260731_B2F5QTIZOZDD3BKHH5QPBKZM7Y/",
-      "summary": "Le territoire ibérique coincé entre le royaume chérifien et la mer Méditerranée est confronté depuis jeudi 30 juillet à sa plus grosse vague migratoire depuis six ans, avec 60 000 personnes sur le territoire.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-07-31T15:49:37+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "1eac17fc2b49"
-    },
-    {
-      "title": "Ceuta : l’Espagne dénonce une « attaque » contre « son intégrité territoriale »",
-      "url": "https://www.lemonde.fr/international/video/2026/07/31/ceuta-l-espagne-denonce-une-attaque-contre-son-integrite-territoriale_6737152_3210.html",
-      "summary": "Le premier ministre espagnol, Pedro Sanchez, qui s’est rendu sur place dans une ambiance électrique, s’est attaqué à des rumeurs lancées par des « mafias de trafiquants d’êtres humains », les accusant d’être à l’origine de cet afflux.",
-      "image": "https://img.lemde.fr/2026/07/31/384/0/4608/2304/644/322/60/0/2b6f47c_ftp-1-gmf14h7raqmn-2026-07-31t095456z-1317439629-rc2womasd19c-rtrmadp-3-migration-europe-spain-morocco.JPG",
-      "published_at": "2026-07-31T17:45:17+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "c06ee5eb26c4"
-    },
-    {
-      "title": "Insultée par un syndicaliste agricole, Marine Tondelier réclame des excuses publiques... qu’elle obtient",
-      "url": "https://www.liberation.fr/politique/insultee-par-un-syndicaliste-agricole-marine-tondelier-reclame-des-excuses-publiques-20260731_A2OFPDCT6NDZBHKZQRLM4B2GBM/",
-      "summary": "Le président de la FDSEA de l’Oise s’en est pris sur Facebook à la secrétaire nationale des écolos, qui déplorait le vote récent de la loi d’urgence agricole.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-07-31T15:44:58+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "b7980b81eae0"
     }
   ]
 }
