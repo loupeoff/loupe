@@ -1,16 +1,196 @@
 {
-  "generated_at": "2026-08-01T13:45:22.897099+00:00",
+  "generated_at": "2026-08-01T15:08:18.909114+00:00",
   "article_count": 30,
   "articles": [
     {
+      "title": "La découverte d’une NES spéciale dans un love hotel relance une vieille légende urbaine sur Nintendo",
+      "url": "https://www.numerama.com/pop-culture/2303271-la-decouverte-dune-nes-speciale-dans-un-love-hotel-relance-une-vieille-legende-urbaine-sur-nintendo.html",
+      "summary": "Les légendes urbaines du jeu vidéo, on adore ça. Rien de mieux qu'un bon vieux mythe sur un jeu ou une console rétro pour partir dans une quête de savoir interminable et passionnante. Notre histoire d'aujourd'hui s'intéresse à un modèle particulier de NES retrouvé dans un love hotel au Japon.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-01T15:02:00+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "2c8b2446d122"
+    },
+    {
+      "title": "Avortement : au Chili, le projet d’obliger les femmes à « écouter le cœur » du fœtus ravive le débat sur ce droit restreint",
+      "url": "https://www.lemonde.fr/international/article/2026/08/01/avortement-au-chili-le-projet-d-obliger-les-femmes-a-ecouter-le-c-ur-du-f-tus-ravive-le-debat-sur-ce-droit-restreint_6737232_3210.html",
+      "summary": "Une proposition de loi de l’extrême droite relance le débat sur le droit à l’avortement, permis au Chili depuis 2017 dans trois cas d’urgence seulement. Le gouvernement de José Antonio Kast évite de se prononcer pour le moment.",
+      "image": "https://img.lemde.fr/2026/08/01/458/0/5500/2750/644/322/60/0/e032f91_ftp-1-gunqbnjxnsfn-2026-08-01t044318z-110084712-rc2cpmao5dl0-rtrmadp-3-chile-abortion.JPG",
+      "published_at": "2026-08-01T17:00:18+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "b5b078d6ee16"
+    },
+    {
+      "title": "\"Une zone à très haut risque\" : un après-midi périlleux dans le Var, où le feu est reparti et a pris \"de l'ampleur\"",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-france-des-renforts-sont-attendus-dans-le-var-ou-le-feu-est-reparti-et-progresse-plus-vite-qu-un-cheval-au-galop_8131010.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le retour du mistral, conjugué à des températures de 40 degrés, rend la zone, où le feu du massif du Gros Bessillon sévit, \"à très haut risque, entre 16 heures et 22 heures\", selon le ministre de l'Intérieur, Laurent Nuñez.",
+      "image": "https://www.franceinfo.fr/pictures/YJJ9OzvCBMYrM6PL1DANRr4EpI8/0x572:5494x3663/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6e0720aa58f562351843.jpg",
+      "published_at": "2026-08-01T16:57:03+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "939a8b8a2c19"
+    },
+    {
+      "title": "Derf Blackderf : «Je me suis inspiré de mes propres expériences de dessinateur politique raté quand j’étais jeune»",
+      "url": "https://www.liberation.fr/culture/bd/derf-blackderf-je-me-suis-inspire-de-mes-propres-experiences-de-dessinateur-politique-rate-quand-jetais-jeune-20260801_EYDYNUM5ABDNBPYMSQAT4HSWI4/",
+      "summary": "Cet été, «Libé» publie en avant-première les premières planches d’un nouvel album du dessinateur américain, «les Dissidents» : une immersion à la fois fiévreuse et documentaire dans les Etats-Unis de la Première Guerre mondiale, sous la plume des dessinateurs d’actualité.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-01T14:41:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "5d9011d26a59"
+    },
+    {
+      "title": "Crise des migrants à Ceuta : l’indignité des dirigeants européens",
+      "url": "https://www.liberation.fr/idees-et-debats/opinions/crise-des-migrants-a-ceuta-lindignite-des-dirigeants-europeens-20260801_YBAZF4HX4FCQRHRHRX35R6BVVM/",
+      "summary": "Plutôt que d’aider à résoudre la crise qui touchait l’exclave espagnole, la majeure partie de la droite et de l’extrême droite européennes s’est empressée de crier à la menace migratoire et d’attaquer le Premier ministre socialiste Pedro Sánchez.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-01T14:21:33+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "a72a6f90db1c"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky revendique des bombardements nocturnes contre trois raffineries russes",
+      "url": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-en-ukraine-volodymyr-zelensky-revendique-des-bombardements-nocturnes-contre-trois-raffineries-russes_6732775_3210.html",
+      "summary": "Le président ukrainien a précisé que les raffineries se situaient à près de 1 600 kilomètres des positions de son armée. Plus tôt dans la journée, le chef de la République de Bachkortostan, Radi Khabirov, avait dit avoir « repoussé une nouvelle attaque de drone » contre la ville d’Oufa.",
+      "image": "https://img.lemde.fr/2026/08/01/489/0/6048/3024/644/322/60/0/949cbe9_ftp-1-lzuz5jzeipl5-5753339-01-06.jpg",
+      "published_at": "2026-08-01T16:21:17+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "32e2ffb80521"
+    },
+    {
+      "title": "Au moins 11 blessés dans l'explosion d'un camion piégé en Colombie, à six jours de l'investiture du président pro-Trump",
+      "url": "https://www.franceinfo.fr/monde/au-moins-11-blesses-dans-l-explosion-d-un-camion-piege-en-colombie-a-six-jours-de-l-investiture-du-president-pro-trump_8131334.html#xtor=RSS-3-[lestitres]",
+      "summary": "Abelardo de la Espriella, qui prendra ses fonctions le 7 août, a promis d'intensifier la lutte contre les guérillas et les cartels de la drogue dans le pays, premier producteur de cocaïne au monde, et promis des campagnes de bombardements massifs contre ces puissants cartels.",
+      "image": "https://www.franceinfo.fr/pictures/tD5G5ctRcf6VgDQzZ2By3VL_SpQ/0x188:3696x2267/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6df733de7b9020852586.jpg",
+      "published_at": "2026-08-01T16:21:00+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "5da1d1d15b5c"
+    },
+    {
+      "title": "EN DIRECT - Incendies : le Var à «haut risque» cet après-midi, annonce Laurent Nuñez",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-dans-le-var-un-feu-qui-progresse-plus-vite-quun-cheval-au-galop-20260801_JK5HKTGTI5DYXJ27VARYLXNFKI/",
+      "summary": "Après avoir brûlé 42 000 hectares, le mégafeu de Gironde a cessé de progresser, s’est réjoui le ministre de l’Intérieur lors d’un point presse. C’est au tour du Var d’être en difficulté cet après-midi.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-01T14:18:21+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "1534b98c944f"
+    },
+    {
+      "title": "Séisme près de Naples : 300 personnes évacuées, de nouvelles secousses possibles",
+      "url": "https://www.liberation.fr/international/europe/seisme-pres-de-naples-300-personnes-evacuees-de-nouvelles-secousses-possibles-20260801_K6GJZBVIDJER3HTGRRRDUD2ARI/",
+      "summary": "L’épicentre du tremblement de terre, qui s’est produit vendredi soir à une profondeur de trois kilomètres, se situe dans la région des Champs Phlégréens, entre les communes de Pozzuoli et Quarto, à l’ouest de Naples, a annoncé l’Institut national de géophysique et de volcanologie d’Italie.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-01T14:17:24+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "9b7f692791bb"
+    },
+    {
+      "title": "Séisme au Japon : au moins 36 morts, les recherches dans le centre commercial prennent fin",
+      "url": "https://www.liberation.fr/international/asie-pacifique/seisme-au-japon-au-moins-36-morts-les-recherches-dans-le-centre-commercial-prennent-fin-20260801_XQFYF346HFH7TGJQCOBLMIETNE/",
+      "summary": "Selon l’exploitant du centre commercial, les sept dernières victimes extraites des décombres sont des employés de commerces locataires.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-01T14:13:34+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "72e5bc791ca3"
+    },
+    {
+      "title": "Poutres, palettes, cartons ou bois de chaudière… Que vont devenir les bois brûlés des incendies ?",
+      "url": "https://www.liberation.fr/economie/poutres-palettes-cartons-ou-bois-de-chaudiere-que-vont-devenir-les-bois-brules-des-incendies-20260801_UPORB43PNNGTVLRZYDSVBATU54/",
+      "summary": "Si les pertes causées par les feux dans les forêts des Landes de Gascogne ne sont pas encore exactement connues, les professionnels espèrent pouvoir évacuer rapidement les bois brûlés et en valoriser une partie. Car une autre menace pointe : le nématode du pin, un ver microscopique qui décime les conifères.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-01T14:10:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "72c70b832a82"
+    },
+    {
+      "title": "Léon Marchand sera bien présent aux championnats d'Europe de natation malgré une blessure à l'adducteur gauche pas totalement rétablie",
+      "url": "https://www.franceinfo.fr/sports/natation/championnats-d-europe/leon-marchand-sera-bien-present-aux-championnats-d-europe-de-natation-malgre-une-blessure-a-l-adducteur-gauche-pas-totalement-retablie_8131397.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le quadruple champion olympique a avoué, samedi, ne pas être totalement remis de sa blessure à l'adducteur gauche, survenue lors des Championnats de France en juin. S'il assure être bien présent aux Europe, il ne s'alignera toutefois pas sur toutes les courses qu'il avait prévues.",
+      "image": "https://www.franceinfo.fr/pictures/TIbd0QnuulSC-WC3BvRZy-bEJWU/0x108:4559x2672/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6df71d12ee6304789263.jpg",
+      "published_at": "2026-08-01T16:09:43+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "6b3e7aecb0bf"
+    },
+    {
+      "title": "Où précommander le film d’animation Memories dans sa sublime édition collector Blu-ray 4K ?",
+      "url": "https://www.numerama.com/pop-culture/2304949-ou-precommander-le-film-danimation-memories-dans-sa-sublime-edition-collector-blu-ray-4k.html",
+      "summary": "[Précommande] Alors oui, on achète de moins en moins de DVD et de Blu-ray ces derniers temps, le dématérialisé étant devenu le principal moyen de consommer des films et des séries. Pourtant, certaines éditions physiques valent encore sacrément le coup, à l’image de ce sublime coffret de Memories, actuellement disponible en précommande.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-01T14:00:00+00:00",
+      "source": "Numerama",
+      "category": "Culture",
+      "id": "669b27086182"
+    },
+    {
+      "title": "Bloctel tire sa révérence, Claude pirate trois entreprises par erreur et Google rebaptise ses hackers : on vous raconte la semaine Cyberguerre",
+      "url": "https://www.numerama.com/tech/2305275-bloctel-tire-sa-reverence-claude-pirate-trois-entreprises-par-erreur-et-google-rebaptise-ses-hackers-on-vous-raconte-la-semaine-cyberguerre.html",
+      "summary": "Trois actualités à retenir cette semaine : Bloctel ferme ses portes le 11 août, Anthropic reconnaît à son tour des cas de piratage involontaire par Claude, et Google harmonise en interne le nom de ses groupes de hackers.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-01T14:00:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "7850afa72138"
+    },
+    {
+      "title": "\"On n'est vraiment pas à l'abri\" : en Gironde, l'incendie est fixé mais la crainte d'une reprise du feu est dans toutes les têtes",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/reportage-on-n-est-vraiment-pas-a-l-abri-en-gironde-l-incendie-est-fixe-mais-la-crainte-d-une-reprise-du-feu-est-dans-toutes-les-tetes_8131358.html#xtor=RSS-3-[lestitres]",
+      "summary": "Si plusieurs milliers de personnes ont pu regagner leur logement à Marcheprime, Arès, Saumos ou Le Temple, le retour des flammes dans le Var vendredi soir suscite un scepticisme dans la région.",
+      "image": "https://www.franceinfo.fr/pictures/PusAromouIYNdziLpX7XL8_2TAk/0x232:4464x2743/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6df6bb0671c063621279.jpg",
+      "published_at": "2026-08-01T15:58:20+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "bf8f0f93d2ef"
+    },
+    {
+      "title": "Les professionnels de l'hôtellerie invitent les vacanciers à venir dans le Sud-Ouest, malgré les incendies",
+      "url": "https://www.franceinfo.fr/economie/tourisme/les-professionnels-de-l-hotellerie-invitent-les-vacanciers-a-venir-dans-le-sud-ouest-malgre-les-incendies_8131304.html#xtor=RSS-3-[lestitres]",
+      "summary": "La préfète de la Gironde, Sophie Brocas, avait déconseillé dimanche aux touristes de \"rejoindre la Gironde\" et incité ces derniers \"à envisager une autre destination\".",
+      "image": "https://www.franceinfo.fr/pictures/X_PsD2TAg2ws7hG9vyImHJOG2ls/0x100:1024x676/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6ddc1f40243966190478.jpg",
+      "published_at": "2026-08-01T15:52:17+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "39fa033f03c7"
+    },
+    {
+      "title": "« Je veux leur pardonner » : le premier ministre indien Modi s’adresse aux étudiants qui manifestent depuis plusieurs semaines",
+      "url": "https://www.lemonde.fr/videos/video/2026/08/01/je-veux-leur-pardonner-le-premier-ministre-indien-modi-s-adresse-aux-etudiants-qui-manifestent-depuis-plusieurs-semaines_6737229_1669088.html",
+      "summary": "Dans une vidéo publiée sur son compte Instagram, Narendra Modi déclare pardonner la jeunesse indienne qui manifestait depuis le mois de mai contre son gouvernement.",
+      "image": "https://img.lemde.fr/2026/07/26/527/0/6325/3162/644/322/60/0/499b901_ftp-1-d7iypsxovgbh-f1ac420807814a6ebe6479cbe511dccc-0-d3f5b64d504941c1a23fcca84e605cac.jpg",
+      "published_at": "2026-08-01T15:45:19+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "49f52bdfdd68"
+    },
+    {
       "title": "Amman, Jérusalem, Bagdad... Des ambassades américaines appellent leurs citoyens à \"envisager de quitter\" le Moyen-Orient \"en cas d'escalade\"",
       "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/des-ambassades-americaines-appellent-leurs-citoyens-a-envisager-de-quitter-le-moyen-orient-en-cas-d-escalade_8131340.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Les Américains actuellement au Moyen-Orient doivent faire preuve de prudence et d'une vigilance accrue et se préparer à d'éventuelles annulations de vols, à des fermetures périodiques de l'espace aérien\", a précisé une alerte de sécurité publiée sur les réseaux sociaux par les missions américaines à Amman, Jérusalem et Bagdad.",
+      "summary": "\"Les Américains actuellement au Moyen-Orient doivent faire preuve de prudence et d'une vigilance accrue et se préparer à d'éventuelles annulations de vols [et] à des fermetures périodiques de l'espace aérien\", a précisé une alerte de sécurité publiée sur les réseaux sociaux par les missions américaines à Amman, Jérusalem et Bagdad.",
       "image": "https://www.franceinfo.fr/pictures/GY7i3mYyZkouGUdhHUIBKfRyODk/0x243:3151x2016/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6df3086dd7c132883482.jpg",
       "published_at": "2026-08-01T15:44:34+02:00",
       "source": "France Info",
       "category": "Société",
       "id": "beb72d786b24"
+    },
+    {
+      "title": "Basket : champion en titre, Monaco privé de championnat professionnel",
+      "url": "https://www.liberation.fr/sports/basket-champion-en-titre-monaco-prive-de-championnat-professionnel-20260801_3GSXEGQR7ZDRFBVYOHWVHXX4AI/",
+      "summary": "Le gendarme financier de la Ligue nationale de basket avait refusé d’engager l’AS Monaco, sacrée championne de France le 23 juin mais en grosse difficulté financière, dans les championnats professionnels la saison prochaine.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-01T13:42:39+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "871fa6f2daeb"
     },
     {
       "title": "Avec «Denshattack !», malice dans un jeu vidéo de glisse",
@@ -38,7 +218,7 @@
       "summary": "A quelques jours de l’investiture d’Abelardo de la Espriella, figure de l’extrême droite, l’explosion près d’un commissariat de police à Cucuta ravive les inquiétudes sur la sécurité et la montée des tensions en Colombie.",
       "image": "https://img.lemde.fr/2026/07/27/212/0/2560/1280/644/322/60/0/198547e_ftp-1-gtv09sugk3tk-5715329-01-06.jpg",
       "published_at": "2026-08-01T15:32:41+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Sport",
       "id": "b7fcc3c97dc0"
     },
@@ -73,16 +253,6 @@
       "id": "b224ba7e45d2"
     },
     {
-      "title": "Mégafeu en Gironde : les 10 750 habitants de quatre communes évacuées peuvent regagner leur domicile, annonce la préfète",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-france-des-renforts-sont-attendus-dans-le-var-ou-le-feu-est-reparti-et-progresse-plus-vite-qu-un-cheval-au-galop_8131010.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les communes concernées sont Saumos, le Temple, Arès et Marcheprime. Au total, 208 000 personnes ont pu rejoindre leur domicile sur les 220 000 évacuées depuis le début du sinistre.",
-      "image": "https://www.franceinfo.fr/pictures/LyAefAlZjiGXBSbiKCyE6UmP548/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6dc28cd9e46208151605.jpg",
-      "published_at": "2026-08-01T15:21:35+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "939a8b8a2c19"
-    },
-    {
       "title": "Le trafic ferroviaire a progressivement repris samedi au sud de Bordeaux",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/le-trafic-ferroviaire-a-progressivement-repris-samedi-au-sud-de-bordeaux_8131352.html#xtor=RSS-3-[lestitres]",
       "summary": "Les trains ne circulaient plus depuis dimanche en raison des incendies en Gironde et dans les Landes. La moitié des TGV circule samedi entre Bordeaux et le Sud-Ouest, dans les deux sens de circulation. Dimanche, le service sera \"normal\" pour l'ensemble des lignes, a précisé SNCF Réseau.",
@@ -113,16 +283,6 @@
       "id": "baf18135b661"
     },
     {
-      "title": "EN DIRECT - Incendies : le Var à «haut risque» cet après-midi, annonce Laurent Nuñez",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-dans-le-var-un-feu-qui-progresse-plus-vite-quun-cheval-au-galop-20260801_JK5HKTGTI5DYXJ27VARYLXNFKI/",
-      "summary": "Après avoir brûlé 42 000 hectares, le mégafeu de Gironde a cessé de progresser, s’est réjoui le ministre de l’Intérieur lors d’un point presse. C’est au tour du Var d’être en difficulté cet après-midi.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-01T13:14:43+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "1534b98c944f"
-    },
-    {
       "title": "Sur les réseaux et en librairies, les livres prennent la vague de «l’Odyssée»",
       "url": "https://www.liberation.fr/culture/sur-les-reseaux-et-en-librairies-les-livres-prennent-la-vague-de-lodyssee-20260801_2YWPAEMQI5EB3HMISMKYUKMRYU/",
       "summary": "Les maisons d’édition, qui avaient anticipé la sortie du film de Christopher Nolan inspiré de l’épopée d’Homère, voient leurs ventes augmenter. Sur les plateformes comme TikTok, les livres inspirées de l’Antiquité ont le vent en poupe.",
@@ -141,166 +301,6 @@
       "source": "France Info",
       "category": "Sport",
       "id": "474b9afdaea5"
-    },
-    {
-      "title": "Ilots du Pacifique : Vanuatu prêt à porter son différend avec la France sur le terrain du droit international",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/01/ilots-du-pacifique-vanuatu-pret-a-porter-son-differend-avec-la-france-sur-le-terrain-du-droit-international_6737224_823448.html",
-      "summary": "A l’occasion de la fête de l’indépendance jeudi, Vanuatu a confirmé vouloir recourir aux instances internationales pour faire reconnaître sa souveraineté sur les îles Matthew et Hunter, qu’il revendique à la France.",
-      "image": "https://img.lemde.fr/2026/07/30/200/0/5794/2897/644/322/60/0/35b7932_upload-1-z3jfto3t6qvb-000-67kc8d8.jpg",
-      "published_at": "2026-08-01T15:00:03+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "ccdb63b3c479"
-    },
-    {
-      "title": "Bruxelles fait tomber le roi des échecs de Vladimir Poutine",
-      "url": "https://www.liberation.fr/international/europe/bruxelles-fait-tomber-le-roi-des-echecs-de-vladimir-poutine-20260801_VOIGH4CJMREM3EXHFNGXJYPPXQ/",
-      "summary": "Sanctionné par l’Union européenne pour son soutien à la guerre en Ukraine, Arkadi Dvorkovitch quitte la tête de la Fédération internationale des échecs. Une décision qui fragilise l’influence du Kremlin sur la gouvernance mondiale de la discipline.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-01T12:47:00+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "22cadc13ddb5"
-    },
-    {
-      "title": "«Je me suis rendu compte que je n’étais pas seule» : une pétition lancée contre les entraves à l’allaitement dans l’espace public",
-      "url": "https://www.liberation.fr/societe/familles/je-me-suis-rendu-compte-que-je-netais-pas-seule-une-petition-lancee-contre-les-entraves-a-lallaitement-dans-lespace-public-20260801_N7VZS4OCBZDFBKXMCI5JEFSFEA/",
-      "summary": "Par des remarques ou même des agressions, certaines femmes ont déjà fait l’expérience d’être empêchées de donner le sein à leur enfant, ce qui n’est pourtant pas interdit par la loi. Un collectif se mobilise pour que soit créé un délit d’entrave.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-01T12:45:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "d444b50879d6"
-    },
-    {
-      "title": "Cyclisme : Red Bull rejoint FDJ United-Suez comme partenaire majeur de la formation française",
-      "url": "https://www.franceinfo.fr/tour-de-france/femmes/cyclisme-red-bull-rejoint-fdj-united-suez-comme-partenaire-majeur-de-la-formation-francaise_8131313.html#xtor=RSS-3-[lestitres]",
-      "summary": "FDJ United-Suez et Red Bull ont profité du Grand Départ du Tour de France femmes 2026, samedi, pour annoncer ce nouveau partenariat.",
-      "image": "https://www.franceinfo.fr/pictures/NOYIaf_uSktNhflemB_2HGzZ7Zc/0x351:4912x3114/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6de2e61d19d434181670.jpg",
-      "published_at": "2026-08-01T14:34:42+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "40de6e52cac7"
-    },
-    {
-      "title": "Après le «retour à la normale» à Ceuta, l’Espagne critique le comportement «impardonnable» de certains dirigeants de l’UE",
-      "url": "https://www.liberation.fr/international/europe/apres-le-retour-a-la-normale-a-ceuta-lespagne-critique-le-comportement-impardonnable-de-certains-dirigeants-de-lue-20260801_W7EQ2OIAGFDOVCAKRR2I2O3MAM/",
-      "summary": "Remonté, l’exécutif espagnol, en décalage avec le reste de l’Union sur le plan migratoire, doit faire face à un front de 22 pays de l’UE qui souhaitent une réponse ferme aux événements de Ceuta ces derniers jours.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-01T12:21:06+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "6b455a01fcdf"
-    },
-    {
-      "title": "Nirmal Purja, star de l'alpinisme, est mort dans une avalanche",
-      "url": "https://www.franceinfo.fr/sports/nirmal-purja-star-de-l-alpinisme-est-mort-dans-une-avalanche_8131322.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Népalo-britannique avait été pris dans une avalanche avec dix autres personnes au Pakistan, jeudi.",
-      "image": "https://www.franceinfo.fr/pictures/sGUUOHKEKBrQmkMQ97-Uwj_63Gc/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6de34845cb8421598187.jpg",
-      "published_at": "2026-08-01T14:20:10+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "a188e69e664c"
-    },
-    {
-      "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran accuse les Etats-Unis de favoriser l’« escalade des tensions »",
-      "url": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-au-moyen-orient-l-iran-accuse-les-etats-unis-de-favoriser-l-escalade-des-tensions_6737099_3210.html",
-      "summary": "« Tout pays qui se dresse comme bouclier défensif de l’Amérique criminelle et agresseuse sera voué aux flammes de la guerre », a menacé le chef de l’armée iranienne, le général Ali Abdollahi.",
-      "image": "https://img.lemde.fr/2026/07/30/195/0/5784/2892/644/322/60/0/4892004_ftp-1-4oo8tgzkmso4-2026-07-30t093158z-1214824763-rc28omaaqj8v-rtrmadp-3-iran-crisis.JPG",
-      "published_at": "2026-08-01T14:14:29+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "93eb880d4a87"
-    },
-    {
-      "title": "EN DIRECT, Tour de France Femmes 2026 : la Française Océane Mahé et trois coureuses s’envolent à l’avant de la course",
-      "url": "https://www.lemonde.fr/sport/live/2026/08/01/en-direct-tour-de-france-femmes-2026-suivez-la-premiere-etape-a-lausanne-et-sur-les-routes-de-suisse_6737222_3242.html",
-      "summary": "Un an après le sacre de Pauline Ferrand-Prévot, les coureuses se lancent dans une nouvelle édition du Tour de France, avec une boucle entre les lacs de Neuchâtel et Léman, et un départ et une arrivée à Lausanne.",
-      "image": "https://img.lemde.fr/2026/08/01/776/0/5426/2713/644/322/60/0/dd36b05_ftp-1-l05yb480rnjt-2026-08-01t123023z-1660950921-up1em810yqlum-rtrmadp-3-cycling-france.JPG",
-      "published_at": "2026-08-01T14:10:06+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "5c91b84c3343"
-    },
-    {
-      "title": "«Luke, je suis ton père» : dites ce que Jedi, pas ce que je dis pas",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/luke-je-suis-ton-pere-dites-ce-que-jedi-pas-ce-que-je-dis-pas-20260801_OH2BZOOK5JGZBDL5LOPZVF4FII/",
-      "summary": "Faux souvenirs, erreurs mille fois répétées, quand la mémoire nous joue des tours… Aujourd’hui, la citation mythique de Star Wars, revue et corrigée.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-01T12:10:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "2f5a7d8e59ca"
-    },
-    {
-      "title": "Au moins 67 migrants sont morts en essayant d'entrer à Ceuta depuis le Maroc, selon un nouveau bilan des autorités espagnoles",
-      "url": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/au-moins-67-migrants-sont-morts-en-essayant-d-entrer-a-ceuta-depuis-le-maroc-selon-un-nouveau-bilan-des-autorites-espagnoles_8131166.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"En moins de quarante-huit heures, la situation à Ceuta n'a plus rien à voir et un retour à la normale est en cours\", a déclaré le ministre de l'Intérieur espagnol.",
-      "image": "https://www.franceinfo.fr/pictures/9zqDmqgzbCo2LZFpBR6AdgRp8h8/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6dbcf34b89c232877086.jpg",
-      "published_at": "2026-08-01T14:09:27+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "74244a8b7205"
-    },
-    {
-      "title": "Basket : Monaco, champion de France en titre, exclu de Betclic Elite et d'Elite 2",
-      "url": "https://www.franceinfo.fr/sports/basket/basket-monaco-champion-de-france-en-titre-exclu-de-betclic-elite-et-d-elite-2_8131298.html#xtor=RSS-3-[lestitres]",
-      "summary": "La chambre d’appel de la Fédération française de basket a confirmé, samedi, que l'AS Monaco était privé de championnat professionnel.",
-      "image": "https://www.franceinfo.fr/pictures/VHU1e_pkpe0DBrB3VYriWizTRa0/0x18:1024x594/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6dd7abd98aa766338702.jpg",
-      "published_at": "2026-08-01T14:02:35+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "a813d56f2c91"
-    },
-    {
-      "title": "Où voir les films Spider-Man en streaming ?",
-      "url": "https://www.numerama.com/pop-culture/2303693-ou-voir-les-films-spider-man-en-streaming.html",
-      "summary": "La sortie au cinéma de Spider-Man: Brand New Day vous a peut-être donné envie de voir ou revoir les précédents films centrés sur le tr_s apprécié super-héros Marvel. Vous ne savez pas où aller ? Suivez le guide.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-01T12:01:00+00:00",
-      "source": "Numerama",
-      "category": "Culture",
-      "id": "44d21a38f28c"
-    },
-    {
-      "title": "« Plutôt que de sacrifier le service public et ses usagers, nous plaidons pour leur redonner des moyens et du sens »",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/01/plutot-que-de-sacrifier-le-service-public-et-ses-usagers-nous-plaidons-pour-leur-redonner-des-moyens-et-du-sens_6737220_3232.html",
-      "summary": "Les politiques adoptées depuis un demi-siècle sur le modèle des entreprises privées conduisent à affaiblir le service public et à faire peser une pression sur ses agents, déplorent les sociologues Dominique Glaymann et Nadège Vezinat dans une tribune au « Monde »",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/92bf9dd_upload-1-lcuj0xu0vezc-frame-1021.jpg",
-      "published_at": "2026-08-01T14:00:10+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "1323e2eb745f"
-    },
-    {
-      "title": "Aux Etats-Unis, le débat monte autour des différents modèles d’IA, sur fond de concurrence chinoise",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/01/aux-etats-unis-le-debat-monte-autour-des-differents-modeles-d-ia-sur-fond-de-concurrence-chinoise_6737218_3234.html",
-      "summary": "Hormis Anthropic, les plus grosses sociétés américaines travaillant sur l’intelligence artificielle ont récemment demandé à Washington de soutenir le développement de la technologie dite « open weight », plus ouverte, dans laquelle s’illustre la Chine.",
-      "image": "https://img.lemde.fr/2026/07/17/0/0/4500/2250/644/322/60/0/0dae773_ftp-1-epl7rtxoyykd-2026-07-17t112840z-333895197-rc2jfma1jzgz-rtrmadp-3-china-ai.JPG",
-      "published_at": "2026-08-01T14:00:05+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "def18ccf0c83"
-    },
-    {
-      "title": "Incendies : le lourd tribut des pompiers, victimes des flammes et de cancers à long terme",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/01/incendies-le-lourd-tribut-des-pompiers-victimes-des-flammes-et-de-cancers-a-long-terme_6737219_3224.html",
-      "summary": "Outre quatre décès, au moins 129 pompiers ont été intoxiqués sur les feux en Gironde, dans les Landes et dans le Var, en juillet. Les équipements de protection sont insuffisants, déplorent les syndicats.",
-      "image": "https://img.lemde.fr/2026/07/29/798/0/8687/4343/644/322/60/0/87a92d1_upload-1-ibqk9dh4fral-21-hlequeux-feux-gironde-dsc6752.jpg",
-      "published_at": "2026-08-01T14:00:02+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "1cdebe6cab57"
-    },
-    {
-      "title": "Les professionnels de l'hôtellerie invitent les vacanciers à venir dans le Sud-Ouest, malgré les incendies",
-      "url": "https://www.franceinfo.fr/economie/tourisme/les-professionnels-de-l-hotellerie-invitent-les-vacanciers-a-venir-dans-le-sud-ouest-malgre-les-incendies_8131304.html#xtor=RSS-3-[lestitres]",
-      "summary": "La préfète de la Gironde, Sophie Brocas, avait déconseillé dimanche aux touristes de \"rejoindre la Gironde\" et incité \"les touristes présents à envisager une autre destination\".",
-      "image": "https://www.franceinfo.fr/pictures/X_PsD2TAg2ws7hG9vyImHJOG2ls/0x100:1024x676/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6ddc1f40243966190478.jpg",
-      "published_at": "2026-08-01T13:51:37+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "39fa033f03c7"
     }
   ]
 }
