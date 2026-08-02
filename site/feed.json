@@ -1,26 +1,266 @@
 {
-  "generated_at": "2026-08-02T17:09:02.252844+00:00",
+  "generated_at": "2026-08-02T19:21:51.192845+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Un incendie \"particulièrement complexe\" s'est déclaré dans l'Aude à hauteur de Carcassonne, en bordure de l'A61, 100 hectares déjà parcourus",
+      "title": "\"Nous saluons tout chemin de dialogue\", affirme le président vénézuélien déchu Nicolas Maduro, depuis sa prison aux Etats-Unis",
+      "url": "https://www.franceinfo.fr/monde/venezuela/nous-saluons-tout-chemin-de-dialogue-affirme-le-president-venezuelien-dechu-nicolas-maduro-depuis-sa-prison-aux-etats-unis_8132537.html#xtor=RSS-3-[lestitres]",
+      "summary": "Capturé par l'armée américaine début janvier, Nicolas Maduro a évoqué une \"renaissance nationale comme objectif commun\", alors que pouvoir et opposition vénézuéliennes vont entamer le dialogue politique la semaine prochaine, sous supervision américaine.",
+      "image": "https://www.franceinfo.fr/pictures/h_CLKn_ko3KS6_JkGQe8R6oGMVw/0x117:2264x1391/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f94facaa58031269389.jpg",
+      "published_at": "2026-08-02T21:12:06+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "90c9290e1068"
+    },
+    {
+      "title": "Incendies : en Gironde, réintégration autorisée lundi à Lège-Cap-Ferret et au Porge",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-dans-le-var-un-feu-qui-progresse-plus-vite-quun-cheval-au-galop-20260801_JK5HKTGTI5DYXJ27VARYLXNFKI/",
+      "summary": "Les deux communes girondines, particulièrement ciblées par les flammes figurent parmi les dernières à recevoir une autorisation de réintégration.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-02T19:02:36+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "1534b98c944f"
+    },
+    {
+      "title": "Nirmal Purja, la mort d’un alpiniste sans limites",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/08/02/nirmal-purja-la-mort-d-un-alpiniste-sans-limites_6737317_3382.html",
+      "summary": "Le Népalo-Britannique, dont les exploits avaient été médiatisés dans un documentaire sur Netflix en 2021, a été emporté par une avalanche en gravissant le Broad Peak, au Pakistan, jeudi 30 juillet. Il avait 43 ans.",
+      "image": "https://img.lemde.fr/2026/08/02/38/0/4092/2046/644/322/60/0/44a7fde_upload-1-qn6zzomq3a3u-000-8ze3hy.jpg",
+      "published_at": "2026-08-02T20:56:55+02:00",
+      "source": "Le Monde",
+      "category": "Culture",
+      "id": "6c0c83bc0895"
+    },
+    {
+      "title": "Une nouvelle ONG critique \"l'absence de communication officielle marocaine\", après l'afflux de migrants marocains dans l'enclave espagnole de Ceuta:",
+      "url": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/une-nouvelle-ong-critique-l-absence-de-communication-officielle-marocaine-apres-l-afflux-de-migrants-marocains-dans-l-enclave-espagnole-de-ceuta_8132531.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'Observatoire du nord des droits de l'Homme (ONDH) \"dénonce l'absence de communication officielle marocaine clarifiant la réalité des faits, fournissant un bilan précis des victimes, des disparus et des blessés, et expliquant la manière dont les différentes phases des événements ont été gérées\".",
+      "image": "https://www.franceinfo.fr/pictures/NIogBUt4hi_YRvnGaHYhI20g04I/0x315:3024x2016/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f92ac8f55a581060613.jpg",
+      "published_at": "2026-08-02T20:56:20+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "29e708921dd3"
+    },
+    {
+      "title": "37 degrés à Paris, 35 dans l’Est, le Sud-Est toujours dans la fournaise… l’épisode de chaleur va se poursuivre la semaine prochaine",
+      "url": "https://www.liberation.fr/environnement/climat/37-degres-a-paris-35-dans-lest-le-sud-est-toujours-dans-la-fournaise-lepisode-de-chaleur-va-se-poursuivre-la-semaine-prochaine-20260802_MH44IZPCLJHR3B6TWQ372PJSJQ/",
+      "summary": "Le phénomène devrait concerner le nord du pays en début de semaine, avant d’être atténué par les orages prévus au même moment, pour mieux se concentrer sur le quart sud-est au moins jusqu’à vendredi.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-02T18:45:16+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "d0ece90ae1d8"
+    },
+    {
+      "title": "Matignon annonce un renforcement du contrôle de l'Etat sur les achats d'entreprises des secteurs sensibles par des investisseurs étrangers",
+      "url": "https://www.franceinfo.fr/economie/entreprises/matignon-annonce-un-renforcement-du-controle-de-l-etat-sur-les-achats-d-entreprises-des-secteurs-sensibles-par-des-investisseurs-etrangers_8132510.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les services du Premier ministre justifient ce décret par un contexte géopolitique \"marqué par de fortes tensions\" \"pour se prémunir de prises de participations opportunistes non européennes dans des entreprises françaises cotées hors de l’UE et pouvant présenter des menaces pour la sécurité nationale\".",
+      "image": "https://www.franceinfo.fr/pictures/TeRFOC_BMZoH2nvlOf9XXWL2p_4/0x0:6054x3405/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f8ed6cc9fd642823242.jpg",
+      "published_at": "2026-08-02T20:44:34+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "4c044fe2a7a2"
+    },
+    {
+      "title": "Dans les Landes, après les incendies, «il faut s’occuper des clients qui sont de retour pour limiter la casse»",
+      "url": "https://www.liberation.fr/societe/dans-les-landes-apres-les-incendies-il-faut-soccuper-des-clients-qui-sont-de-retour-pour-limiter-la-casse-20260802_7SDI2BMLZJHMXFGX4RBC7KDRKA/",
+      "summary": "A Biscarrosse et aux alentours, la fréquentation touristique a très timidement redémarré. Les professionnels de l’hôtellerie-restauration oscillent entre crainte des annulations et espoirs de reprise.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-02T18:44:24+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "631fa01d250a"
+    },
+    {
+      "title": "Incendies en Grèce : deux hélicoptères entrent en collision, deux personnes sont mortes",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-grece-deux-helicopteres-entrent-en-collision-deux-personnes-sont-mortes_8132519.html#xtor=RSS-3-[lestitres]",
+      "summary": "En Grèce, les incendies sont toujours virulents et les pompiers luttent au péril de leur vie. En pleine intervention, dimanche 2 août, deux hélicoptères sont entrés en collision. Le pilote et le copilote de l'un d'entre eux ont été tués.",
+      "image": "https://www.franceinfo.fr/pictures/gdhcVigh94zxqCXgh0W7UuVFpZI/0x27:1184x693/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f8de5adb6f052702731.jpg",
+      "published_at": "2026-08-02T20:44:07+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "2348396f70bf"
+    },
+    {
+      "title": "Accident de bus en Algérie : le chauffeur avait consommé des stupéfiants et roulait à plus de 120 km/h",
+      "url": "https://www.liberation.fr/international/afrique/accident-de-bus-en-algerie-le-chauffeur-avait-consomme-des-stupefiants-et-roulait-a-plus-de-120-kmh-20260802_S3VW3PVVVZG2BEH2YFTKDY6VYA/",
+      "summary": "Le parquet a dévoilé dimanche 2 août les premiers résultats de l’enquête sur l’accident qui a fait 28 morts et 36 blessés, vendredi 31 juillet dans le nord du pays. Le véhicule transportait par ailleurs davantage de passagers que sa capacité autorisée.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-02T18:33:33+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "17a7b7808a1e"
+    },
+    {
+      "title": "Incendie dans l'Aude : le feu \"particulièrement complexe\" aux portes de Carcassonne est \"contenu\" et \"sous contrôle\"",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-megafeu-en-gironde-aller-en-vacances-dans-le-departement-est-un-geste-de-solidarite-declare-sebastien-lecornu_8131925.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Des mesures de confinement ont été préconisées pour le quartier de Montlegun et [les communes] de Palaja et Cazilhac\", a annoncé sur franceinfo le directeur du Service départemental d'incendie et de secours de l'Aude. L'A61 est coupée en direction de Toulouse et de Narbonne entre les sorties 24 et 23.",
-      "image": "https://www.franceinfo.fr/pictures/pnYnxB-Rw1-90My-BvmZn2mJsVo/0x18:1301x750/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f6fba2de55350286484.png",
-      "published_at": "2026-08-02T19:04:50+02:00",
+      "summary": "L’autoroute A61 est fermée dans les deux sens entre Carcassonne Est et Carcassonne Ouest.",
+      "image": "https://www.franceinfo.fr/pictures/CA6JMv2DBO8LI0wmsGkuQDt2IgA/0x309:2970x1980/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f855daa3c0783538972.jpg",
+      "published_at": "2026-08-02T20:31:16+02:00",
       "source": "France Info",
       "category": "Politique",
       "id": "9a2feaf5d0e5"
     },
     {
-      "title": "EN DIRECT - Incendies : une voiture provoque un départ de feu de végétation et paralyse l’A61 près de Carcassonne",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-dans-le-var-un-feu-qui-progresse-plus-vite-quun-cheval-au-galop-20260801_JK5HKTGTI5DYXJ27VARYLXNFKI/",
-      "summary": "Le feu s’est déclaré ce dimanche après-midi dans le sens Narbonne-Toulouse, avant de gagner les abords de l’autoroute. Une centaine de pompiers sont mobilisés, tandis qu’un bouchon de 15 kilomètres s’est formé.",
+      "title": "En Moselle, le confinement de 30 000 habitants levé après l'incendie d'un site classé Seveso",
+      "url": "https://www.franceinfo.fr/france/grand-est/moselle/en-moselle-le-confinement-de-30-000-habitants-leve-apres-l-incendie-d-un-site-classe-seveso_8132507.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dimanche 2 août a été une journée angoissante pour les 30 000 habitants de Moselle confinés chez eux en raison d’un incendie dans un entrepôt de déchets industriels à Gandrange. La préfecture a annoncé la levée du confinement, quelques heures plus tard.",
+      "image": "https://www.franceinfo.fr/pictures/VRff__1CZf0XfzhLTa8I2xx5yF4/60x0:972x513/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f8a00ecf8c935800850.jpg",
+      "published_at": "2026-08-02T20:27:37+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "6aa4d0ab907c"
+    },
+    {
+      "title": "Gaza : treize morts dans des bombardements israéliens nocturnes après l’accord annoncé sur le désarmement du Hamas",
+      "url": "https://www.liberation.fr/international/moyen-orient/gaza-huit-morts-dans-des-bombardements-israeliens-nocturnes-apres-laccord-annonce-sur-le-desarmement-du-hamas-20260802_RJWA7SPLIFABBGJGTZTTV5HWSI/",
+      "summary": "Israël, qui n’a pas réagi après l’annonce de l’entente annoncée jeudi par le président américain, continue ses attaques sur le territoire. Elles ont visé des habitations dans la nuit de samedi à dimanche 2 août, rapporte la Défense civile.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-02T18:26:30+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "f154d58d675f"
+    },
+    {
+      "title": "Au Brésil, Lula, 80 ans, lance sa campagne pour décrocher un quatrième mandat",
+      "url": "https://www.lemonde.fr/international/article/2026/08/02/au-bresil-lula-80-ans-lance-sa-campagne-pour-decrocher-un-quatrieme-mandat_6737314_3210.html",
+      "summary": "Revenu en 2023 au pouvoir après deux premiers mandats (2003-2010), le président sortant de gauche a été investi lors d’une convention de son Parti des travailleurs. Il affrontera Flavio Bolsonaro, fils de l’ex-président d’extrême droite.",
+      "image": "https://img.lemde.fr/2026/08/02/540/0/6480/3240/644/322/60/0/65bca99_ftp-1-kclu3bt1yjs2-fbbd494abad044f0a85ca2def51fcc61-0-41672c98109d413280ebf02721530d78.jpg",
+      "published_at": "2026-08-02T20:24:28+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "ecd81c57baf7"
+    },
+    {
+      "title": "La crise de Ceuta mérite mieux que les crises d’hystérie de la droite et de l’extrême droite",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/la-crise-de-ceuta-merite-mieux-que-les-crises-dhysterie-de-la-droite-et-de-lextreme-droite-20260802_BBQJRSY34BFG7OBFLCIHWXNOSY/",
+      "summary": "Les populistes européens agitent le chiffon rouge d’une «invasion» venue de l’enclave espagnole. La plupart des candidats à l’exil sont pourtant repartis au Maroc mais une centaine d’entre eux ont péri noyés.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-02T18:22:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "07a82abdf756"
+    },
+    {
+      "title": "A Ceuta, après le drame migratoire, le retour au calme",
+      "url": "https://www.liberation.fr/international/afrique/a-ceuta-apres-le-drame-migratoire-le-retour-au-calme-20260802_DCVNSG7KKFAN7CHMY4UYVLPBAU/",
+      "summary": "Après les arrivées massives de migrants, le 30 et 31 juillet, plus de 69 000 personnes ont été reconduites à la frontière avec le Maroc par les militaires espagnols. Cet afflux inédit d’exilés a surtout permis à l’extrême droite de renforcer sa rhétorique xénophobe.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-02T18:17:58+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "96ff6ff49d1e"
+    },
+    {
+      "title": "En Gironde, environ 20 000 entreprises sont \"en difficulté\", estime le président de la chambre de commerce et d'industrie du département",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/sur-les-40-000-entreprises-impactees-directement-ou-indirectement-par-l-incendie-en-gironde-environ-20-000-sont-en-difficulte-estime-le-president-de-la-chambre-de-commerce-et-d-industrie-du-departement_8132504.html#xtor=RSS-3-[lestitres]",
+      "summary": "Un numéro vert ainsi qu'une cellule de crise ont été mis en place afin de \"répondre directement aux questions, aux attentes des chefs d'entreprises impactés\".",
+      "image": "https://www.franceinfo.fr/pictures/0DNv0ChgRGt9egiT_9glrTMboFs/0x312:6000x3687/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6da1963f32c696869360.jpg",
+      "published_at": "2026-08-02T20:16:37+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "a98a57077169"
+    },
+    {
+      "title": "A 80 ans, le président brésilien Lula se dit \"en pleine forme\" et se porte candidat pour un quatrième et dernier mandat",
+      "url": "https://www.franceinfo.fr/monde/bresil/a-80-ans-le-president-bresilien-lula-se-dit-en-pleine-forme-et-se-porte-candidat-pour-un-quatrieme-et-dernier-mandat_8132498.html#xtor=RSS-3-[lestitres]",
+      "summary": "Candidat pour la septième fois, l'ancien ouvrier et leader syndical, figure dominante de la politique brésilienne des dernières décennies, briguera un quatrième mandat face à Flavio Bolsonaro, fils de l'ex-président d'extrême droite Jair Bolsonaro, condamné à vingt-sept ans de prison.",
+      "image": "https://www.franceinfo.fr/pictures/Q2j7LAC8jVxpizRBqugQ6I9Oojo/0x156:3000x1844/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f862694462011596476.jpg",
+      "published_at": "2026-08-02T20:04:13+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "f9b0f75895d9"
+    },
+    {
+      "title": "Brésil : Lula, 80 ans, se présente en anti-Trump pour un quatrième mandat à la présidence",
+      "url": "https://www.liberation.fr/international/amerique/bresil-lula-80-ans-se-presente-en-anti-trump-pour-un-quatrieme-mandat-a-la-presidence-20260802_2CZEDCMWIVFOPGAUXWW4C5I6XQ/",
+      "summary": "Le président issu du Parti des travailleurs, qui fait face à Flavio Bolsonaro, fils de l’ancien président d’extrême droite soutenu par le dirigeant américain, a fait acte de candidature ce dimanche à Sao Paulo.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-02T18:00:43+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "7f1f75d7850d"
+    },
+    {
+      "title": "Abdul Samad Rabiu, l’autre industriel multimilliardaire qui veut changer le Nigeria",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/02/abdul-samad-rabiu-l-autre-industriel-multimilliardaire-qui-veut-changer-le-nigeria_6737313_3212.html",
+      "summary": "« Fortunes africaines ». Son parcours rappelle celui d’Aliko Dangote, première fortune d’Afrique. Plus discret, le patron du groupe BUA a lui aussi bâti un empire dans le ciment et le sucre. Et lui aussi est originaire de Kano, carrefour millénaire du commerce transsaharien.",
+      "image": "https://img.lemde.fr/2026/07/16/0/0/3543/1771/644/322/60/0/b8457a2_upload-1-9woiufqsjpwr-monde-serie-fortunesafricaines-rabiu-300dpi.jpg",
+      "published_at": "2026-08-02T20:00:08+02:00",
+      "source": "Le Monde Inter",
+      "category": "Économie",
+      "id": "27f4575a5da5"
+    },
+    {
+      "title": "\"Notre objectif, c'est le retour à la vie\" : la presqu’île du Cap Ferret et Le Porge accessibles dès lundi après plus d'une semaine d'évacuation",
+      "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/incendie-en-gironde-la-presqu-ile-du-cap-ferret-et-le-porge-seront-de-nouveau-accessibles-ce-lundi-apres-plus-d-une-semaine-d-evacuation-3395890.html#xtor=RSS-3-[lestitres]",
+      "summary": "Elles étaient les deux dernières villes encore évacuées. Après 12 jours d'incendie, la préfecture de Gironde a annoncé, ce dimanche 2 août, la réintégration des communes de Lège-Cap-Ferret et du Porge à partir du 3 août, à 14h. Certaines zones restent cependant encore inaccessibles en raison des risques toujours trop importants.",
+      "image": "https://www.franceinfo.fr/pictures/M_G1cs1P6KdoBcgXesKc19GDqmE/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f7efcd0ec5314584858.jpg",
+      "published_at": "2026-08-02T19:53:16+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "682e4d148740"
+    },
+    {
+      "title": "Incendies : Sébastien Lecornu veut amorcer le temps de la réparation et des indemnisations",
+      "url": "https://www.liberation.fr/economie/incendies-sebastien-lecornu-veut-amorcer-le-temps-de-la-reparation-et-des-indemnisations-20260802_VGCPMSDPDBH4DP2IKVKE37H7CM/",
+      "summary": "Le Premier ministre a annoncé dans «la Tribune Dimanche» la création d’un coordinateur national pour piloter la reconstruction du bâti brûlé en Gironde mais aussi dans les Landes et le Var. L’attitude des assureurs sera par ailleurs particulièrement scrutée.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-02T17:45:43+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "e5aea5631e70"
+    },
+    {
+      "title": "Tour de France : Lorena Wiebes encore servie à Genève",
+      "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-lorena-wiebes-encore-servie-a-geneve-20260802_K4ACWJB4NVG7HAMRSMURZYOLAY/",
+      "summary": "La sprinteuse néerlandaise a maté dimanche 2 août ses concurrentes en Suisse, décrochant son deuxième succès en deux étapes, et conservant son maillot jaune.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-02T17:04:35+00:00",
+      "published_at": "2026-08-02T17:27:32+00:00",
       "source": "Libération",
       "category": "Sport",
-      "id": "1534b98c944f"
+      "id": "8aa344beb4cf"
+    },
+    {
+      "title": "L'avocat Antoine Vey, ex-associé d'Eric Dupond-Moretti, mis en examen pour harcèlement moral et abus de confiance",
+      "url": "https://www.franceinfo.fr/societe/justice/l-avocat-antoine-vey-ex-associe-de-dupond-moretti-mis-en-examen-pour-harcelement-moral-et-abus-de-confiance_8132333.html#xtor=RSS-3-[lestitres]",
+      "summary": "Il a également été placé sous le statut de témoin assisté pour les faits de harcèlement sexuel. Le pénaliste est connu pour avoir défendu le Chilien Nicolas Zepeda, l'ex-ministre français Jérôme Cahuzac, le lanceur d'alerte Julian Assange ou encore Mohed Altrad, pilier du rugby et PDG du géant du BTP éponyme.",
+      "image": "https://www.franceinfo.fr/pictures/D1OKfS60Tdn1vFR1B77mGyNRUdM/0x0:5472x3078/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f554aae3b7636955046.jpg",
+      "published_at": "2026-08-02T19:23:30+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "3c69463fe6d0"
+    },
+    {
+      "title": "Privatisation de la Coupe du monde : après son échec, Infantino mis sous pression par l’UEFA et la Concacaf",
+      "url": "https://www.liberation.fr/sports/football/investisseurs-prives-a-la-fifa-isole-gianni-infantino-renonce-enfin-a-son-projet-20260801_5QXLV35NLNHQ3FUH5NIX7A4SWM/",
+      "summary": "Les deux associations, regroupant pour l’une les fédérations de football d’Europe, pour l’autre celles d’Amérique centrale et du Nord, ne se satisfont pas de l’abandon du projet de commercialisation de la compétition.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-02T17:16:52+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "f9956fe8c2ba"
+    },
+    {
+      "title": "Maillot jaune, deux victoires d’étape… Le début de Tour de France femmes rêvé pour Lorena Wiebes, bien plus que la meilleure sprinteuse du monde",
+      "url": "https://www.franceinfo.fr/tour-de-france/femmes/maillot-jaune-deux-victoires-d-etape-le-debut-de-tour-de-france-femmes-reve-pour-lorena-wiebes-bien-plus-que-la-meilleure-sprinteuse-du-monde_8132480.html#xtor=RSS-3-[lestitres]",
+      "summary": "La Néerlandaise de 27 ans a remporté les deux premières étapes du Tour de France femmes 2026.",
+      "image": "https://www.franceinfo.fr/pictures/_o7l8JM_TKcMbC7D28YmAqC3-A8/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f7663e1dbd169558993.jpg",
+      "published_at": "2026-08-02T19:11:13+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "2e34e276c87a"
+    },
+    {
+      "title": "Ce qu’il faut retenir de l’actualité du week-end des 1ᵉʳ et 2 août",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/08/02/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-1-et-2-aout_6737311_4355770.html",
+      "summary": "Vous n’avez pas suivi l’actualité ? Voici ce qu’il s’est passé pendant ces dernières quarante-huit heures.",
+      "image": "https://img.lemde.fr/2026/08/01/436/0/4656/2328/644/322/60/0/7611b25_ftp-1-f4pfkywm63dz-2026-08-01t092531z-529523271-rc2lpmaxrs0c-rtrmadp-3-europe-weather-france-wildfires.JPG",
+      "published_at": "2026-08-02T19:00:05+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "56f27842f51e"
     },
     {
       "title": "72 morts à Ceuta, les pompiers toujours mobilisés en Gironde et dans le Var, abandon du projet d’Infantino… L’actu de ce week-end des 1er et 2 août",
@@ -61,246 +301,6 @@
       "source": "Le Monde",
       "category": "Sport",
       "id": "d9ae99afc5da"
-    },
-    {
-      "title": "Nouvelle victoire pour la maillot jaune Lorena Wiebes, encore une fois irrésistible au sprint lors de la 2e étape du Tour de France femmes",
-      "url": "https://www.franceinfo.fr/tour-de-france/femmes/nouvelle-victoire-pour-la-maillot-jaune-lorena-wiebes-encore-une-fois-irresistible-au-sprint-lors-de-la-2e-etape-du-tour-de-france-femmes_8132249.html#xtor=RSS-3-[lestitres]",
-      "summary": "La Néerlandaise a signé sa septième victoire sur la Grande Boucle, dimanche, en devançant Elisa Balsamo et Marianne Vos à Genève.",
-      "image": "https://www.franceinfo.fr/pictures/MfbryQO5DtJ_Q2RKjU90Jy-aKOE/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f6dae3ba29518026749.jpg",
-      "published_at": "2026-08-02T18:41:29+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "07ad2547da24"
-    },
-    {
-      "title": "Après la crise à Ceuta, des dirigeants européens toujours plus fanatiques sur l’immigration",
-      "url": "https://www.liberation.fr/international/europe/apres-la-crise-a-ceuta-des-dirigeants-europeens-toujours-plus-fanatiques-sur-limmigration-20260802_JV4L3IRTTNHQ7DCVZ5ZIFJWOYA/",
-      "summary": "Plusieurs pays ont réclamé la suspension de l’Espagne de l’espace Schengen, alors que l’exclave n’en fait pas partie, et critiqué la politique de régularisation espagnole, qui attirerait les migrants. Une réunion des ministres de l’Intérieur de l’UE est prévue mardi 4 août.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-02T16:40:36+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "c2bb0834553c"
-    },
-    {
-      "title": "\"Un simple studio, c’est 2 750 euros par mois\" : en Irlande, la présence des Gafam crée une crise du logement inédite à Dublin",
-      "url": "https://www.franceinfo.fr/monde/europe/un-simple-studio-c-est-2-750-euros-par-mois-en-irlande-l-installation-des-gafam-cree-une-crise-du-logement-inedite_8131346.html#xtor=RSS-3-[lestitres]",
-      "summary": "Amazon, Google, Meta... Ces colosses d'internet ont choisi il y a 30 ans d'installer leur siège européen dans la capitale irlandaise. Si l'économie de Dublin en a été redynamisée, le prix à payer reste élevé : les loyers ont flambé et de moins en moins de personnes peuvent se loger dans la ville.",
-      "image": "https://www.franceinfo.fr/pictures/5YQwj-KlXktZuu_GW-wqy9wUmQM/0x0:4000x2250/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6e0cc5d1080630087710.jpg",
-      "published_at": "2026-08-02T18:39:41+02:00",
-      "source": "France Info",
-      "category": "Tech",
-      "id": "0a777fb56d4f"
-    },
-    {
-      "title": "AI Act : l’Union européenne peut désormais contrôler et sanctionner les grands modèles d’intelligence artificielle",
-      "url": "https://www.liberation.fr/economie/economie-numerique/ai-act-lunion-europeenne-peut-desormais-controler-et-sanctionner-les-grands-modeles-dintelligence-artificielle-20260802_DFRYYATMWVCAVLWY3B7OS2M56I/",
-      "summary": "Plusieurs dispositions de l’AI Act sont entrées en vigueur dimanche 2 août. Bruxelles a notamment obtenu le pouvoir d’évaluer les modèles les plus puissants, d’enquêter sur les entreprises et de limiter leur déploiement.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-02T16:31:54+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "f47294e8ee18"
-    },
-    {
-      "title": "Tour de France : Lorena Wiebes encore servie à Genève",
-      "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-lorena-wiebes-encore-servie-a-geneve-20260802_K4ACWJB4NVG7HAMRSMURZYOLAY/",
-      "summary": "La sprinteuse néerlandaise a maté dimanche 2 août ses concurrentes en Suisse, décrochant son deuxième succès en deux étapes, et conservant son maillot jaune.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-02T16:23:57+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "8aa344beb4cf"
-    },
-    {
-      "title": "Le PSG annonce le transfert de son attaquant Randal Kolo Muani vers la Juventus",
-      "url": "https://www.franceinfo.fr/sports/foot/le-psg-annonce-le-transfert-de-son-attaquant-randal-kolo-muani-vers-la-juventus_8132447.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le transfert s'élève à 38 millions d'euros. L'international français a rejoint le club parisien en 2023, mais n'y a joué que 54 matchs avant d'être prêté au club italien puis à Tottenham pour la saison 2025-2026.",
-      "image": "https://www.franceinfo.fr/pictures/R2bQcHOdjO24lvjL6ENHQTBdjGU/0x0:4300x2418/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f6ef8ad504572931819.jpg",
-      "published_at": "2026-08-02T18:23:52+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "0c37d5b1f3d2"
-    },
-    {
-      "title": "A Ceuta, toute l’extrême droite rapplique pour instrumentaliser la crise migratoire",
-      "url": "https://www.liberation.fr/international/europe/a-ceuta-toute-lextreme-droite-rapplique-pour-instrumentaliser-la-crise-migratoire-20260802_CJBS7HPVKJCCVAIQ2OABIBLEYY/",
-      "summary": "Après l’arrivée de plus de 50 000 migrants en un temps record, entre jeudi 30 et vendredi 31 juillet, des leaders et influenceurs d’extrême droite se sont précipités vers l’enclave, venant de toute l’Espagne pour une récupération politique.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-02T16:21:20+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "9d9db26e4693"
-    },
-    {
-      "title": "En Roumanie, le Danube asséché fragilise l’économie dépendante du fleuve",
-      "url": "https://www.liberation.fr/international/europe/en-roumanie-le-danube-asseche-fragilise-leconomie-dependante-du-fleuve-20260802_DGSQPXJRF5BGZEJ2MZWXYMKZ3E/",
-      "summary": "Le deuxième plus long fleuve d’Europe connaît un niveau historiquement bas en Europe centrale et orientale, notamment en Roumanie. La sécheresse perturbe la navigation, menace l’irrigation et commence à affecter les infrastructures énergétiques du pays.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-02T16:19:47+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "e0c14ae363e6"
-    },
-    {
-      "title": "Sept personnes en situation de handicap, 40 enfants, 38 femmes... Pas moins de 112 corps retrouvés sous des décombres à Gaza, selon la Défense civile",
-      "url": "https://www.franceinfo.fr/monde/palestine/gaza/sept-personnes-en-situation-de-handicap-40-enfants-38-femmes-pas-moins-de-112-corps-retrouves-sous-des-decombres-a-gaza-selon-la-defense-civile_8132405.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les opérations ont été menées pendant environ deux semaines dans un secteur résidentiel. Selon le responsable du projet d'extraction des dépouilles, 157 autres personnes étaient portées disparues sous les décombres du site.",
-      "image": "https://www.franceinfo.fr/pictures/wIhX9A2Peb76A0dcUoIHlJZY7sU/0x700:6720x4480/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f6dea6f80e409076340.jpg",
-      "published_at": "2026-08-02T18:19:46+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "561589311d90"
-    },
-    {
-      "title": "Au Pakistan, un attentat-suicide fait au moins neuf morts et 20 blessés",
-      "url": "https://www.lemonde.fr/international/article/2026/08/02/au-pakistan-un-attentat-suicide-fait-au-moins-neuf-morts-et-20-blesses_6737308_3210.html",
-      "summary": "Un homme a activé sa ceinture d’explosifs devant un commissariat. Les autorités font face à l’insurrection de plus en plus intensive du Tehrik-e-Taliban Pakistan, qui a revendiqué la plupart des attentats qui ont frappé le pays depuis fin 2007 et causé la mort de plus de 4 000 personnes.",
-      "image": "https://img.lemde.fr/2026/08/02/415/0/5241/2620/644/322/60/0/c853e10_ftp-1-pp4unzxs1jzk-5760846-01-06.jpg",
-      "published_at": "2026-08-02T18:19:41+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "50c59489dd94"
-    },
-    {
-      "title": "Moselle : l’incendie dans une usine Seveso «maîtrisé», le confinement levé",
-      "url": "https://www.liberation.fr/environnement/pollution/moselle-une-usine-classee-seveso-prend-feu-30-000-habitants-appeles-a-se-confiner-20260802_SJBMWZSC4FHTBI3S3ZQYQFZM6M/",
-      "summary": "Pour la protéger des fumées toxiques, la préfecture de Moselle avait demandé à la population de cinq communes du bassin industriel de Gandrange de se calfeutrer chez elle, dimanche 2 août.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-02T16:19:36+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "581d8c7e8bfa"
-    },
-    {
-      "title": "Le Maroc donne le nom de Donald Trump à un axe routier vers le Sahara occidental",
-      "url": "https://www.liberation.fr/international/afrique/le-maroc-donne-le-nom-de-donald-trump-a-un-axe-routier-vers-le-sahara-occidental-20260802_YWI42AU3BVGB7JRBMKHYARDZ6E/",
-      "summary": "Mohammed VI dit vouloir remercier le président américain pour sa reconnaissance, en 2020, de la souveraineté marocaine sur le territoire disputé. L’infrastructure de 1 055 kilomètres n’est pas encore achevée.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-02T16:11:14+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "aeaa1fd604a6"
-    },
-    {
-      "title": "Brouillage, lasers et « satellites kamikazes » : à quoi ressemble vraiment une arme spatiale ?",
-      "url": "https://www.numerama.com/tech/2302511-brouillage-lasers-et-satellites-kamikazes-a-quoi-ressemble-vraiment-une-arme-spatiale.html",
-      "summary": "Entre lasers orbitaux, brouillage GPS et missiles sol-espace, la notion d'arme spatiale dépasse largement le cadre de la science-fiction. Voici comment le renseignement américain découpe cette menace bien réelle.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-02T16:01:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "73b6233317cc"
-    },
-    {
-      "title": "« Dominican Sisters Open Mic » : des nonnes américaines font vœu de podcast et triomphent en ligne",
-      "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/08/02/dominican-sisters-open-mic-des-nonnes-americaines-font-v-u-de-podcast-et-triomphent-en-ligne_6737306_6038514.html",
-      "summary": "En quelques mois, la foi fervente et enjouée des religieuses de l’ordre Sisters of Mary, Mother of the Eucharist ont conquis sur les réseaux sociaux un public qui dépasse le cercle catholique. Un mode d’évangélisation assumé, à l’ère de TikTok.",
-      "image": "https://img.lemde.fr/2026/07/29/714/0/5712/2856/644/322/60/0/2f4254c_upload-1-4oifjetazy21-image00010.jpeg",
-      "published_at": "2026-08-02T18:00:19+02:00",
-      "source": "Le Monde Inter",
-      "category": "Sport",
-      "id": "5e647e26ca60"
-    },
-    {
-      "title": "Gianni Infantino, un président de la FIFA fragilisé par sa soif de profits",
-      "url": "https://www.lemonde.fr/sport/article/2026/08/02/gianni-infantino-un-president-de-la-fifa-fragilise-par-sa-soif-de-profits_6737305_3242.html",
-      "summary": "Sous pression, le président de l’instance dirigeante du football a renoncé, samedi, à son projet destiné à l’ouvrir aux investisseurs privés. Ses opposants le soupçonnaient de vouloir devenir le patron rémunéré d’une société commerciale, une fois son dernier mandat achevé, en 2031.",
-      "image": "https://img.lemde.fr/2026/07/11/118/0/3920/1960/644/322/60/0/5865324_ftp-1-nuxc7ozqxwnh-b884a52e74b6421da9a37f2d83ec46dd-0-9e3dc496ac04434aacdfb4323d0f092e.jpg",
-      "published_at": "2026-08-02T18:00:12+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "f31f6991f151"
-    },
-    {
-      "title": "Le mont Gangkhar Puensum, un rêve de Bhoutan en bout",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/le-mont-gangkhar-puensum-un-reve-de-bhoutan-en-bout-20260802_NZU7IYY4QZGBZDZV2XSBPDH2Q4/",
-      "summary": "Toute la Terre a été explorée. Toute ? Non ! Quelques lieux perdus résistent encore et toujours au grand public. Aujourd’hui, le mont sacré Gangkhar Puensum, un sommet protégé par son pays.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-02T16:00:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "b61cd4b49f00"
-    },
-    {
-      "title": "L’avocat Antoine Vey mis en examen pour harcèlement moral",
-      "url": "https://www.liberation.fr/societe/police-justice/lavocat-antoine-vey-mis-en-examen-pour-harcelement-moral-20260802_IKRS45SCGRDRHCMGFHK7ARZ6MU/",
-      "summary": "Pénaliste reconnu, l’ancien associé d’Eric Dupond-Moretti, inculpé le 9 juillet, fait l’objet d’une enquête pénale ouverte en 2024 pour son attitude vis-à-vis de ses collaborateurs et employés, révélée en 2023 par «Libération».",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-02T15:58:39+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "2754ed25eb78"
-    },
-    {
-      "title": "\"Généré par IA\" : on vous explique ce que change la nouvelle loi de l'Union européenne sur l'intelligence artificielle",
-      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/genere-par-ia-on-vous-explique-ce-que-change-la-nouvelle-loi-de-l-union-europeenne-sur-l-intelligence-artificielle_8132225.html#xtor=RSS-3-[lestitres]",
-      "summary": "A partir du 2 août, des icônes officielles doivent informer les utilisateurs lorsqu'un contenu est généré ou modifié par l'IA. L'Union européenne va également disposer de davantage de pouvoir pour réguler le secteur.",
-      "image": "https://www.franceinfo.fr/pictures/V4hM3RixYm1sVNYMM3CyvQJF8uc/0x257:5000x3070/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f600e04ff5766897193.jpg",
-      "published_at": "2026-08-02T17:52:03+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "5006da5c3601"
-    },
-    {
-      "title": "Gaza : treize morts dans des bombardements israéliens nocturnes après l’accord annoncé sur le désarmement du Hamas",
-      "url": "https://www.liberation.fr/international/moyen-orient/gaza-huit-morts-dans-des-bombardements-israeliens-nocturnes-apres-laccord-annonce-sur-le-desarmement-du-hamas-20260802_RJWA7SPLIFABBGJGTZTTV5HWSI/",
-      "summary": "Israël, qui n’a pas réagi après l’annonce de l’entente annoncée jeudi par le président américain, continue ses attaques sur le territoire. Elles ont visé des habitations dans la nuit de samedi à dimanche 2 août, rapporte la Défense civile.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-02T15:47:03+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "f154d58d675f"
-    },
-    {
-      "title": "«Les séances sont prises d’assaut» : à Montpellier, l’engouement exceptionnel autour de «l’Odyssée» de Christopher Nolan",
-      "url": "https://www.liberation.fr/culture/cinema/les-seances-sont-prises-dassaut-a-montpellier-lengouement-exceptionnel-autour-de-lodyssee-de-christopher-nolan-20260802_YOPY3TKGMZAOJKBBO7I6QTCOCQ/",
-      "summary": "Dans la ville héraultaise, la seule en France pouvant projeter l’adaptation de l’œuvre d’Homère en Imax 70 mm, les spectateurs, pour certains venus de loin, ressortent de la séance émerveillés. Un emballement qui se traduit aussi par l’explosion de fréquentation que connaît le Pathé Odysseum ces derniers jours.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-02T15:43:46+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "201318cad52d"
-    },
-    {
-      "title": "Bande de Gaza : des bombardements israéliens font au moins 13 morts malgré l’accord annoncé",
-      "url": "https://www.lemonde.fr/international/article/2026/08/02/bande-de-gaza-des-bombardements-israeliens-font-au-moins-13-morts-malgre-l-accord-annonce_6737303_3210.html",
-      "summary": "Les frappes israéliennes et les tirs qui se sont poursuivis dans la nuit de samedi à dimanche ont touché plusieurs immeubles d’habitation.",
-      "image": "https://img.lemde.fr/2026/08/02/130/0/6000/3000/644/322/60/0/00bc96a_ftp-1-cpwgieml7weh-2026-08-02t121953z-1005783615-rc2bqmanfkou-rtrmadp-3-israel-palestinians-gaza.JPG",
-      "published_at": "2026-08-02T17:41:25+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "9e14ac453570"
-    },
-    {
-      "title": "Treize Palestiniens tués par des frappes israéliennes sur Gaza, malgré le cessez-le-feu",
-      "url": "https://www.franceinfo.fr/monde/palestine/gaza/treize-palestiniens-tues-par-des-frappes-israeliennes-sur-gaza-malgre-le-cessez-le-feu_8132387.html#xtor=RSS-3-[lestitres]",
-      "summary": "Ces attaques surviennent au lendemain de frappes ayant tué sept personnes et gravement endommagé des entrepôts de fournitures médicales d'un hôpital.",
-      "image": "https://www.franceinfo.fr/pictures/ISBRNtk_slaK8EZSddSdMNYNqZY/0x700:6720x4480/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f61ca5be57092508482.jpg",
-      "published_at": "2026-08-02T17:32:18+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "78e0a3fa414d"
-    },
-    {
-      "title": "En Grèce, deux hélicoptères se percutent alors que les incendies restent « extrêmement difficiles » à maîtriser",
-      "url": "https://www.lemonde.fr/international/article/2026/08/02/en-grece-deux-helicopteres-se-percutent-alors-que-les-incendies-restent-extremement-difficiles-a-maitriser_6737302_3210.html",
-      "summary": "En une semaine, plus de 12 000 hectares de forêts et de terres agricoles ont brûlé dans ce pays touché de plein fouet par la crise climatique, comme l’ensemble du pourtour méditerranéen.",
-      "image": "https://img.lemde.fr/2026/08/02/294/0/4202/2101/644/322/60/0/0366d9b_ftp-1-nupvr9ztu4w6-5759583-01-06.jpg",
-      "published_at": "2026-08-02T17:24:44+02:00",
-      "source": "Le Monde Inter",
-      "category": "Sport",
-      "id": "cb90efbb9e3a"
-    },
-    {
-      "title": "La récente JBL Go 5, l’une des meilleures enceintes Bluetooth pour l’été, voit son prix chuter",
-      "url": "https://www.numerama.com/tech/2305127-la-recente-jbl-go-5-lune-des-meilleures-enceintes-bluetooth-pour-lete-voit-son-prix-chuter.html",
-      "summary": "[Deal du jour] Besoin de changer d’enceinte Bluetooth parce que la vôtre commence à perdre en qualité sonore ou voit son autonomie décliner ? Ça tombe bien, la JBL Go 5 baisse son prix.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-02T15:15:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "4b475db25c99"
     }
   ]
 }
