@@ -1,7 +1,207 @@
 {
-  "generated_at": "2026-08-02T06:40:00.255197+00:00",
+  "generated_at": "2026-08-02T09:15:28.710771+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Immigration en Europe : quelle place occupent Ceuta et Melilla ?",
+      "url": "https://www.lemonde.fr/international/article/2026/08/02/immigration-en-europe-quelle-place-occupent-ceuta-et-melilla_6737279_3210.html",
+      "summary": "Si l’Espagne fait partie des principaux pays d’entrée dans l’Union européenne, aux côtés de la Grèce et de l’Italie, les flux arrivant dans ses deux enclaves du continent africain sont comparables à ceux d’autres routes.",
+      "image": "https://img.lemde.fr/2026/08/01/509/0/4848/2424/644/322/60/0/fee25e9_ftp-1-fbg3adod4kqh-5ecada5f3584476e82ed3f38efc8af5a-0-e2cff63cadca4e81af4973f250b77ad8.jpg",
+      "published_at": "2026-08-02T11:12:59+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "1312c5811acd"
+    },
+    {
+      "title": "\"La première fois en quarante-quatre ans\" : la Hongrie annonce l'arrêt inédit de sa centrale nucléaire à cause de la canicule",
+      "url": "https://www.franceinfo.fr/environnement/energie/nucleaire/la-premiere-fois-en-44-ans-la-hongrie-annonce-l-arret-inedit-de-sa-centrale-nucleaire-a-cause-de-la-canicule_8132042.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'exploitant de la centrale avait prévenu, vendredi, que la baisse du niveau du fleuve pourrait contraindre la centrale à être complètement mise à l'arrêt vers le milieu de la semaine prochaine.",
+      "image": "https://www.franceinfo.fr/pictures/GkzbKoCOcG6ZX3WGIQXvbxI5iec/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6ef71f0c748361519317.jpg",
+      "published_at": "2026-08-02T11:06:03+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "257413ead34c"
+    },
+    {
+      "title": "La vigilance orange canicule maintenue dans 20 départements de l'est et du sud-est de l'Hexagone",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-vigilance-orange-canicule-maintenue-dans-20-departements-de-l-est-et-du-sud-est-de-l-hexagone_8132021.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cet épisode caniculaire concerne le pays entier, \"mais les plus fortes chaleurs persistent dans un large quart sud-est\", précise l'institut de prévisions.",
+      "image": "https://www.franceinfo.fr/pictures/24JOuRKeSFv7wZNoemYHR8KchGU/0x18:1024x594/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6ef43dc7920410501815.jpg",
+      "published_at": "2026-08-02T11:04:20+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a4b6ed7bc7f2"
+    },
+    {
+      "title": "L'acteur américain Vincent Pastore, connu pour son rôle de \"Big Pussy\" dans \"Les Soprano\", est mort à l'âge de 80 ans",
+      "url": "https://www.franceinfo.fr/culture/cinema/l-acteur-americain-vincent-pastore-connu-pour-son-role-de-big-pussy-dans-les-soprano-est-mort-a-l-age-de-80-ans_8132009.html#xtor=RSS-3-[lestitres]",
+      "summary": "Souvent vu en gangster, brièvement dans \"Les Affranchis\" de Martin Scorcese et \"L'Impasse\" de Brian de Palma, il est surtout connu pour avoir incarné \"Big Pussy\" dans \"Les Soprano\".",
+      "image": "https://www.franceinfo.fr/pictures/AnI6C-gbvp_InzzQ943yQAg6Uxs/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6eed260a012236723906.jpg",
+      "published_at": "2026-08-02T11:02:53+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "0d0a6253191a"
+    },
+    {
+      "title": "Le crash d'un avion transportant des touristes au Pérou fait treize morts",
+      "url": "https://www.franceinfo.fr/faits-divers/le-crash-d-un-avion-transportant-des-touristes-au-perou-fait-treize-morts_8131931.html#xtor=RSS-3-[lestitres]",
+      "summary": "Onze touristes étaient à bord de l'avion : sept Italiens, deux Allemands et deux Espagnols. Les victimes sont âgées de 24 à 78 ans.",
+      "image": "https://www.franceinfo.fr/pictures/Yzp_TlhRxmXKi7btVWvBMP_59jA/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6ed6443ede3804756955.jpg",
+      "published_at": "2026-08-02T10:47:51+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "678d74802184"
+    },
+    {
+      "title": "Incendie dans le Var : le périmètre du feu n'a pas évolué, la majorité des mesures d'évacuation levées, selon le préfet",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-megafeu-en-gironde-aller-en-vacances-dans-le-departement-est-un-geste-de-solidarite-declare-sebastien-lecornu_8131925.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Les pompiers poursuivent le travail des points chauds et le traitement des lisières\", a déclaré le préfet. Le feu a parcouru environ 1 800 hectares.",
+      "image": "https://www.franceinfo.fr/pictures/c_UGj0fi48aV1wqsiy8fM027fx0/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6edb463f2df321742822.jpg",
+      "published_at": "2026-08-02T10:33:41+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "9a2feaf5d0e5"
+    },
+    {
+      "title": "\"Comme s'il voulait diriger le monde à lui tout seul\" : une majorité d'Américains désapprouve la gestion du conflit iranien par Donald Trump",
+      "url": "https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/comme-s-il-voulait-diriger-le-monde-a-lui-tout-seul-une-majorite-d-americains-desapprouve-la-gestion-du-conflit-iranien-par-donald-trump_8132003.html#xtor=RSS-3-[lestitres]",
+      "summary": "La guerre avec l'Iran est devenue un handicap politique pour Donald Trump. Selon un sondage de l'agence AP, deux Américains sur trois jugent, cinq mois après son début, qu’elle n'en valait pas la peine.",
+      "image": "https://www.franceinfo.fr/pictures/ECm_dRBUVrMB5fYDc4XQNRpQBk4/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6ef1ca6f63a200996934.jpg",
+      "published_at": "2026-08-02T10:29:09+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "4729274a5732"
+    },
+    {
+      "title": "EN IMAGES - Sur la ligne 2 du métro parisien, direction Nation(s)",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/sur-la-ligne-2-du-metro-parisien-direction-nations-20260802_5IJZS7RWIJD27PGHMEEJZMLELQ/",
+      "summary": "Dans la capitale, rencontre en images avec les diasporas qui font vivre leur quartier. Les Algériens de Barbès, les Tamouls de La Chapelle, les Soudanais de Stalingrad, les Tibétains de Jaurès, les Chinois de Belleville et les Tunisiens de Couronnes.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-02T08:00:00+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "279b496a041c"
+    },
+    {
+      "title": "Ces superbes dioramas de Final Fantasy VII et Metal Gear Solid sortent bientôt, et sont en précommande",
+      "url": "https://www.numerama.com/pop-culture/2305221-ces-superbes-dioramas-de-final-fantasy-vii-et-metal-gear-solid-sortent-bientot-et-sont-en-precommande.html",
+      "summary": "[Précommande] Oui, ils sont magnifiques. Et oui, ils rendraient parfaitement bien sur une bibliothèque. Ces deux dioramas représentant des scènes cultes de deux jeux vidéo cultes ont en plus l’audace de ne pas être trop chers. Que demander de plus ?",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-02T08:00:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "ae49230252e3"
+    },
+    {
+      "title": "Sonneries à deux tons, prix à trois chiffres… Les dumbphones de luxe gagnent du terrain",
+      "url": "https://www.liberation.fr/lifestyle/hightech/sonneries-a-deux-tons-prix-a-trois-chiffres-les-dumbphones-de-luxe-debarquent-20260802_2BNPPOXX3FCJNGAISDSZ4MUI6A/",
+      "summary": "Face à leur dépendance aux écrans, de plus en plus d’utilisateurs se tournent vers ce téléphone dépouillé de toute fonction superflue. Mais le retour à la simplicité se paie parfois (trop) cher.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-02T07:48:24+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "c900b2b9b33e"
+    },
+    {
+      "title": "Sri Lanka : l’armée déployée pour une nouvelle émeute en prison",
+      "url": "https://www.lemonde.fr/international/article/2026/08/02/sri-lanka-l-armee-deployee-pour-une-nouvelle-emeute-en-prison_6737276_3210.html",
+      "summary": "L’établissement abrite 4 100 détenus, quatre fois sa capacité, une suroccupation fréquente dans les prisons de l’île, où une émeute a déjà fait 31 morts au début du mois de juillet.",
+      "image": "https://img.lemde.fr/2026/08/02/617/0/7406/3703/644/322/60/0/03df805_ftp-1-oi1zn50ik3ey-5759424-01-06.jpg",
+      "published_at": "2026-08-02T09:35:13+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "49c27acef557"
+    },
+    {
+      "title": "Tennis : à Los Cabos au Mexique, Arthur Gea remporte son premier titre ATP en carrière",
+      "url": "https://www.franceinfo.fr/sports/tennis/tennis-a-los-cabos-au-mexique-arthur-gea-remporte-son-premier-titre-atp-en-carriere_8132012.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Français de 21 ans a remporté, samedi, son premier titre ATP (250) face au Canadien Denis Shapovalov, tenant du titre.",
+      "image": "https://www.franceinfo.fr/pictures/7HvrwG3L_SbmsEfjvMMZzs6yOys/0x0:3200x1800/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6eef1da39d1164039981.jpg",
+      "published_at": "2026-08-02T09:23:17+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "865f5b2c92c5"
+    },
+    {
+      "title": "Présidentielle : 350 députés, retraite par capitalisation, «quotas limitatifs» pour l’immigration... les propositions au pas de charge de Gabriel Attal",
+      "url": "https://www.liberation.fr/politique/elections/presidentielle-350-deputes-retraite-par-capitalisation-quotas-limitatifs-pour-limmigration-les-propositions-au-pas-de-charge-de-gabriel-attal-20260802_UT5RRQABIVERTE2UD5B64JRPQU/",
+      "summary": "Dans une interview au «Journal du Dimanche», dimanche 2 août, le candidat de Renaissance multiplie les annonces dans l’espoir de reprendre la main dans son duel avec Edouard Philippe.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-02T07:21:04+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "aa666bae1a90"
+    },
+    {
+      "title": "«J’ai beau tout faire pour être exemplaire, je resterai toujours un petit arabe» : rencontre avec le magistrat Youssef Badr, victime de la haine de l’extrême droite",
+      "url": "https://www.liberation.fr/societe/police-justice/jai-beau-tout-faire-pour-etre-exemplaire-je-resterai-toujours-un-petit-arabe-rencontre-avec-le-magistrat-youssef-badr-victime-de-la-haine-de-lextreme-droite-20260802_ZU7XFGXIL5AAHKAZHLSP4IXPKA/",
+      "summary": "Le premier vice-président adjoint au tribunal judiciaire de Bobigny vient d’être la cible d’une violente campagne orchestrée par l’extrême droite. Pour ses soutiens, ces attaques témoignent d’un climat particulièrement hostile aux magistrats.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-02T07:11:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "a16aee1ab233"
+    },
+    {
+      "title": "A la frontière entre Ceuta et le Maroc, paroles d’éphémères exilés",
+      "url": "https://www.liberation.fr/international/europe/a-la-frontiere-entre-ceuta-et-le-maroc-paroles-dephemeres-exiles-20260802_SYUYWBOFXJBHRLYH5MHOEEXJ6Q/",
+      "summary": "Arrivés massivement en fin de semaine, des milliers de Marocains sont repartis quasi immédiatement. Trois d’entre eux racontent leur parcours à «Libération».",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-02T06:52:28+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "244c94d74c6f"
+    },
+    {
+      "title": "Explosion meurtrière dans un café de Moscou, la Russie détruit 635 drones ukrainiens… L’actu de la guerre en Ukraine ce week-end des 1er et 2 août",
+      "url": "https://www.liberation.fr/international/europe/explosion-meurtriere-dans-un-cafe-de-moscou-la-russie-detruit-635-drones-ukrainiens-lactu-de-la-guerre-en-ukraine-ce-week-end-des-1er-et-2-aout-20260802_T6MEYVNJV5HVZDSWWM7CEOR5AE/",
+      "summary": "L’essentiel des informations récentes sur la guerre entre l’Ukraine et la Russie.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-08-02T06:51:23+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "a6d8c09be49b"
+    },
+    {
+      "title": "\"On est à l'aube d'un désastre sanitaire dans les rangs des pompiers\", alerte le syndicat SUD face au manque d'équipements",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/on-est-a-l-aube-d-un-desastre-sanitaire-dans-les-rangs-des-pompiers-alerte-le-syndicat-sud-face-au-manque-d-equipements_8131988.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"On intervient sur les feux avec des bouts de tissus sur la bouche et sur le nez\", déplore le porte-parole du syndicat qui rappelle que quatre pompiers sont morts ces dernières semaines en intervention.",
+      "image": "https://www.franceinfo.fr/pictures/_-GM5ECR0UNNU-hUEJpUVighU1M/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6ee84ac7622032274373.jpg",
+      "published_at": "2026-08-02T08:50:15+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "218df7058da6"
+    },
+    {
+      "title": "La Corée du Sud enregistre un nouveau record de température, à 42,5 °C",
+      "url": "https://www.lemonde.fr/international/article/2026/08/02/la-coree-du-sud-enregistre-un-nouveau-record-de-temperature-a-42-5-c_6737275_3210.html",
+      "summary": "Selon l’agence météorologique nationale KMA, le nombre annuel moyen de jours de vagues de chaleurs dans le pays est passé de huit dans les années 1970 à 19 sur les cinq dernières années.",
+      "image": "https://img.lemde.fr/2026/07/31/316/0/3793/1896/644/322/60/0/ed037a4_ftp-1-iu041waw6ty3-2026-07-31t153650z-1682946751-rc2yoma0wnx5-rtrmadp-3-southkorea-weather-heatwave.JPG",
+      "published_at": "2026-08-02T08:48:47+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "f4eb13438535"
+    },
+    {
+      "title": "EN DIRECT - Incendies : le feu dans le Var «pas du tout fixé» mais «stabilisé»",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-dans-le-var-un-feu-qui-progresse-plus-vite-quun-cheval-au-galop-20260801_JK5HKTGTI5DYXJ27VARYLXNFKI/",
+      "summary": "Dans le Var, les flammes ont été contenues dans la nuit du samedi 1er au dimanche 2 août. Ce sont désormais 1 800 hectares qui ont été parcourus, a annoncé le préfet dimanche matin.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-02T06:46:16+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "1534b98c944f"
+    },
+    {
+      "title": "Une frappe de drones ukrainiens fait deux morts dans le sud-ouest de la Russie",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-frappe-de-drones-ukrainiens-fait-deux-morts-dans-le-sud-ouest-de-la-russie_8131979.html#xtor=RSS-3-[lestitres]",
+      "summary": "Face à la persistance des frappes de Moscou sur son territoire, l'Ukraine multiplie les frappes contre des sites civils en Russie et en territoire occupé.",
+      "image": "https://www.franceinfo.fr/pictures/kGqDrhcoNd8mT7jTrk115fxm2v0/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6ee615c56c1198179971.jpg",
+      "published_at": "2026-08-02T08:44:42+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "b6207cf29c95"
+    },
     {
       "title": "Recharge ultra-rapide : la grande lotterie des puissances de charge",
       "url": "https://www.numerama.com/vroom/2304575-recharge-ultra-rapide-la-grande-lotterie-des-puissances-de-charge.html",
@@ -48,29 +248,19 @@
       "summary": "Conseiller municipal de Rio de Janeiro, Rick Azevedo est à l’origine de la réforme, en cours d’adoption, instaurant un second jour de repos hebdomadaire pour les salariés. Lancé sur les réseaux sociaux, son mouvement La Vie au-delà du travail a rencontré un large écho populaire, et a imposé le trentenaire comme une nouvelle figure de la gauche radicale.",
       "image": "https://img.lemde.fr/2026/07/28/90/0/1500/750/644/322/60/0/dd0252d_ftp-1-qfeh7k2v13wf-437180-3490920.jpg",
       "published_at": "2026-08-02T08:00:24+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Sport",
       "id": "01c9cdffba49"
     },
     {
       "title": "\"Plus jamais ça\" : les habitants de Ceuta réclament une surveillance accrue de la frontière après l'arrivée de plus de 60 000 migrants en quelques jours",
       "url": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/reportage-plus-jamais-ca-les-habitants-de-ceuta-reclament-une-surveillance-accrue-de-la-frontiere-apres-l-arrivee-de-plus-de-60-000-migrants-en-quelques-jours_8131943.html#xtor=RSS-3-[lestitres]",
-      "summary": "Madrid assure que la quasi-totalité des migrants entrés illégalement dans l'enclave espagnole est repartie samedi. Mais à Ceuta, la soudaine invasion a laissé des traces.",
+      "summary": "Madrid assure que la quasi-totalité des migrants entrés illégalement dans l'enclave espagnole est repartie samedi. Mais à Ceuta, cette arrivée massive a laissé des traces.",
       "image": "https://www.franceinfo.fr/pictures/bYLkSESMbdvJrCO2Zmxsa78lkDM/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6edb5fdcf56427019518.jpg",
       "published_at": "2026-08-02T07:59:34+02:00",
       "source": "France Info",
       "category": "Politique",
       "id": "7fa1c8954be5"
-    },
-    {
-      "title": "Mégafeu en Gironde : aller en vacances dans le département est \"un geste de solidarité\", déclare Sébastien Lecornu",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-megafeu-en-gironde-aller-en-vacances-dans-le-departement-est-un-geste-de-solidarite-declare-sebastien-lecornu_8131925.html#xtor=RSS-3-[lestitres]",
-      "summary": "La préfète de la Gironde, Sophie Brocas, avait déconseillé dimanche dernier aux vacanciers de \"rejoindre\" le département et incité \"les touristes présents à envisager une autre destination\".",
-      "image": "https://www.franceinfo.fr/pictures/c_UGj0fi48aV1wqsiy8fM027fx0/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6edb463f2df321742822.jpg",
-      "published_at": "2026-08-02T07:56:02+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "9a2feaf5d0e5"
     },
     {
       "title": "Gaza : sept morts après des bombardements israéliens",
@@ -93,16 +283,6 @@
       "id": "a76fbfc32ed6"
     },
     {
-      "title": "Le crash d'un avion transportant des touristes au Pérou fait treize morts",
-      "url": "https://www.franceinfo.fr/faits-divers/le-crash-d-un-avion-transportant-des-touristes-au-perou-fait-treize-morts_8131931.html#xtor=RSS-3-[lestitres]",
-      "summary": "Onze touristes étaient à bord de l'avion : sept Italiens, deux Allemands et deux Espagnols. Les victimes étaient âgées de 24 à 78 ans.",
-      "image": "https://www.franceinfo.fr/pictures/Yzp_TlhRxmXKi7btVWvBMP_59jA/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6ed6443ede3804756955.jpg",
-      "published_at": "2026-08-02T07:36:33+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "678d74802184"
-    },
-    {
       "title": "EN DIRECT, guerre en Ukraine : la Russie annonce avoir détruit 635 drones ukrainiens dans la nuit",
       "url": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-la-russie-annonce-avoir-detruit-635-drones-ukrainiens-dans-la-nuit_6737250_3210.html",
       "summary": "Les frappes ukrainiennes ont fait deux morts dans l’oblast de Saratov. Un incendie s’est par ailleurs déclaré dans un entrepôt de Wildberries dans la région russe de Samara.",
@@ -121,186 +301,6 @@
       "source": "Le Monde",
       "category": "Tech",
       "id": "aa07fc2001ae"
-    },
-    {
-      "title": "Injections esthétiques illégales : \"Combien de morts faudra-t-il encore Madame la Ministre ?\", interpellent 5 000 médecins dans une tribune",
-      "url": "https://www.franceinfo.fr/sante/injections-esthetiques-illegales-combien-de-morts-faudra-t-il-encore-madame-la-ministre-interpellent-5-000-medecins-dans-une-tribune_8131880.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les praticiens dénoncent la multiplication des actes réalisés par des personnes sans compétences médicales. Deux jeunes femmes sont mortes ces derniers mois après des injections esthétiques illégales. Les médecins réclament un durcissement des sanctions.",
-      "image": "https://www.franceinfo.fr/pictures/oBdq-3qi1VVs-z0dtydYJNMZHZc/0x181:3543x2174/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6ed1b3ca825145749614.jpg",
-      "published_at": "2026-08-02T07:13:54+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "59cf8fc4eed7"
-    },
-    {
-      "title": "\"C'est une bouée de sauvetage face à la sécheresse\" : dans les Pyrénées-Orientales, les eaux usées des touristes irriguent les vergers des agriculteurs",
-      "url": "https://www.franceinfo.fr/environnement/actions-ecologiques/en-toute-sobriete-face-a-la-crise-climatique/reportage-c-est-une-bouee-de-sauvetage-face-a-la-secheresse-dans-les-pyrenees-orientales-les-eaux-usees-des-touristes-irriguent-les-vergers-des-agriculteurs_8126768.html#xtor=RSS-3-[lestitres]",
-      "summary": "Notre série \"En toute sobriété\" met en avant des solutions locales pour réduire nos consommations et agir face à l'urgence climatique. Dans cet épisode, une communauté de communes a mis en place une installation de traitement de l'eau pour recycler cette ressource de plus en plus précieuse.",
-      "image": "https://www.franceinfo.fr/pictures/pNhJNm6Y553E3nI5BgY4KtU60fU/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6c8cad707d7966633787.jpg",
-      "published_at": "2026-08-02T07:00:56+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "803d31f241a6"
-    },
-    {
-      "title": "« Le premier mandat de Donald Trump annonçait déjà la débâcle actuelle au Moyen-Orient »",
-      "url": "https://www.lemonde.fr/un-si-proche-orient/article/2026/08/02/le-premier-mandat-de-donald-trump-annoncait-deja-la-debacle-actuelle-au-moyen-orient_6737267_6116995.html",
-      "summary": "Dès 2020, le président Trump avait fragilisé les Etats-Unis en capitulant face aux talibans, tandis que l’Iran et ses partisans multipliaient déjà les attaques contre les bases américaines.",
-      "image": "https://img.lemde.fr/2026/07/31/48/0/3254/1627/644/322/60/0/18e35e7_ftp-1-a3sbqz01x5cr-28a4c8a1fadc4ce9b80a518011f6e5e7-0-086239de8d3f487ea225d0d0ebaec6bb.jpg",
-      "published_at": "2026-08-02T07:00:11+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "9cc21d87ef08"
-    },
-    {
-      "title": "Ceuta : entre fausse invasion et vraies images, le combo parfait pour l’imaginaire de la submersion",
-      "url": "https://www.liberation.fr/politique/ceuta-entre-fausse-invasion-et-vraies-images-le-combo-parfait-pour-limaginaire-de-la-submersion-20260802_7DDF54NPAVFU3PXO7XNLMI2YZ4/",
-      "summary": "En demandant au ministre de l’Intérieur français de surveiller la frontière avec l’Espagne, Emmanuel Macron participe à la grosse manipulation de l’extrême droite, laissant penser contre toute évidence que les débarqués de Ceuta peuvent se retrouver en France.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-02T05:00:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "d65e1748cab1"
-    },
-    {
-      "title": "Horaires, protection, pourcentage d'obscurité… Quatre questions pour y voir clair lors de l'éclipse solaire du 12 août",
-      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/horaires-protection-pourcentage-d-obscurite-quatre-questions-pour-y-voir-clair-lors-de-l-eclipse-solaire-du-12-aout_8110232.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le mercredi 12 août, une éclipse sera visible au-dessus de la France. Avant d'admirer le spectacle, quelques précautions sont à prendre.",
-      "image": "https://www.franceinfo.fr/pictures/qehf5YNOJNb5T8t7gM9rlOqer5U/0x185:2334x1498/432x243/filters:format(jpg):quality(50)/2026/07/17/6a5a1aa28938d773866493.jpg",
-      "published_at": "2026-08-02T06:59:46+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "38a08db69fdd"
-    },
-    {
-      "title": "EN DIRECT, incendies : des feux « sous contrôle » mais une situation qui reste « évolutive », tempère le gouvernement",
-      "url": "https://www.lemonde.fr/planete/live/2026/08/02/en-direct-incendies-des-feux-sous-controle-mais-une-situation-qui-reste-evolutive-tempere-le-gouvernement_6737097_3244.html",
-      "summary": "En Gironde, où les flammes ont brûlé 42 000 hectares pendant dix jours, « nous sommes revenus à une situation plus stable », a déclaré le premier ministre, Sébastien Lecornu. Le feu dans les Var est aussi stabilisé mais la vigilance demeure en raison des vents imprévisibles.",
-      "image": "https://img.lemde.fr/2026/08/01/343/0/6000/3000/644/322/60/0/d411c0b_ftp-1-uo1vyjujvoox-5755728-01-06.jpg",
-      "published_at": "2026-08-02T06:50:14+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "fa0c1acacb9a"
-    },
-    {
-      "title": "\"On peut crever\" : au pied des dunes de Lège-Cap-Ferret, les pompiers livrent encore une bataille difficile contre le feu, compliquée par les difficultés d'accès",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/reportage-on-peut-crever-au-pied-des-dunes-de-lege-cap-ferret-les-pompiers-livrent-encore-une-bataille-difficile-contre-le-feu-compliquee-par-les-difficultes-d-acces_8131691.html#xtor=RSS-3-[lestitres]",
-      "summary": "Même si la plupart des habitants des communes les plus touchées par l'incendie en Gironde ont pu regagner leur logement vendredi, les pompiers restent en première ligne et réalisent un travail minutieux pour étouffer les foyers restants.",
-      "image": "https://www.franceinfo.fr/pictures/eshb3p1maDXoH7w93Hncct-6ft8/0x0:6000x3375/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6e5cd916cae995047966.jpg",
-      "published_at": "2026-08-02T06:47:32+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "4c13b59e5a75"
-    },
-    {
-      "title": "Un poche pour la plage : «le Secret des secrets», «A la gorge», «l’Italien»…",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/un-poche-pour-la-plage-le-secret-des-secrets-a-la-gorge-litalien-20260802_GVX4AS7OKZCZLDH5WVMTCH2Q6U/",
-      "summary": "Chaque semaine de l’été, «Libé» vous conseille six livres à glisser dans votre sac de voyage. Cette semaine, une course-poursuite entre Prague, Londres et New York, un polar sur l’île de Ré et une histoire d’amour pendant la Seconde Guerre mondiale.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-02T04:45:00+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "9b13ad7f1934"
-    },
-    {
-      "title": "A Fnideq, près de Ceuta, la désillusion des jeunes Marocains après une traversée éclair en Europe",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/02/a-fnideq-pres-de-ceuta-la-desillusion-des-jeunes-marocains-apres-une-traversee-eclair-en-europe_6737266_3212.html",
-      "summary": "Alors que 50 000 personnes, de jeunes Marocains pour l’essentiel, se ruaient sur l’enclave espagnole jeudi et vendredi, Ceuta est désormais désertée, la plupart des candidats à l’exil ayant fait demi-tour.",
-      "image": "https://img.lemde.fr/2026/08/01/184/0/7194/3597/644/322/60/0/002e51f_ftp-1-s3uex6hirack-1ed47e2b47cb42eabfa26decf8843ea8-0-5fdcb166185e46359097aee46a1d710c.jpg",
-      "published_at": "2026-08-02T06:35:10+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "d799c79ba8fa"
-    },
-    {
-      "title": "L’Eglise de France se prépare à la visite historique du pape Léon XIV en septembre, avec une messe géante sur les Champs-Elysées en point d’orgue",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/02/l-eglise-de-france-se-prepare-a-la-visite-historique-du-pape-leon-xiv-en-septembre-avec-une-messe-geante-sur-les-champs-elysees-en-point-d-orgue_6737262_3224.html",
-      "summary": "Le souverain pontife se rendra à Paris, à Lourdes et à Metz entre le 25 et le 28 septembre. Il s’agit de la première visite pontificale formelle en France depuis près de vingt ans.",
-      "image": "https://img.lemde.fr/2026/07/26/160/0/4638/2319/644/322/60/0/99af81f_ftp-1-mghmi9wsu3kf-5710005-01-06.jpg",
-      "published_at": "2026-08-02T06:30:08+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "588c646e1456"
-    },
-    {
-      "title": "VIDEO - Mappemonde - La Russie de Poutine peut-elle encore contrôler l’Arctique ?",
-      "url": "https://www.lemonde.fr/international/video/2026/08/02/la-russie-de-poutine-peut-elle-encore-controler-l-arctique_6737263_3210.html",
-      "summary": "De l’empire des tsars à Vladimir Poutine, l’Arctique est depuis plus d’un siècle le moteur économique et militaire de la Russie. Mais la diminution des financements menace aujourd’hui le rêve de puissance du président russe dans le Grand Nord.",
-      "image": "https://img.lemde.fr/2026/07/17/0/0/1920/960/644/322/60/0/82385a2_upload-1-wk6ne2znropv-mappemonde-arctique-sirius.png",
-      "published_at": "2026-08-02T06:30:04+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "05bd6280dc59"
-    },
-    {
-      "title": "Vincent Pastore, connu pour son rôle de « Big Pussy » dans la série « Les Soprano », est mort",
-      "url": "https://www.lemonde.fr/disparitions/article/2026/08/02/mort-de-l-acteur-americain-vincent-pastore-connu-pour-son-role-de-big-pussy-dans-la-serie-les-soprano_6737260_3382.html",
-      "summary": "Le comédien, âgé de 80 ans, a également été vu dans « Les Affranchis », de Martin Scorcese, et « L’Impasse », de Brian de Palma. Son assassinat à la fin de la deuxième saison des « Soprano » est resté l’une des scènes les plus emblématiques de la série.",
-      "image": "https://img.lemde.fr/2026/08/01/0/0/6300/3150/644/322/60/0/6223f0d_ftp-1-xpzz6x2nueyl-ad8ad102598b4e07951dace29d7be5e2-1-3d3786d95a934da79eb258e501857bd6.jpg",
-      "published_at": "2026-08-02T06:17:47+02:00",
-      "source": "Le Monde",
-      "category": "Culture",
-      "id": "4416bc3f8e72"
-    },
-    {
-      "title": "\"Girl\" : Shu Qi, actrice culte de \"Millennium Mambo\", signe un premier film glaçant sur les violences intrafamiliales",
-      "url": "https://www.franceinfo.fr/culture/cinema/girl-shu-qi-actrice-culte-de-millennium-mambo-signe-un-premier-film-glacant-sur-les-violences-intrafamiliales_8111378.html#xtor=RSS-3-[lestitres]",
-      "summary": "Présenté en compétition à la Mostra de Venise en 2025 et après onze années de travail, \"Girl\" est un film sur les blessures de la violence au sein de la famille.",
-      "image": "https://www.franceinfo.fr/pictures/jNKR4frBnSj7XdHVOTRrJkfzVfM/0x0:6000x3375/432x243/filters:format(jpg):quality(50)/2026/07/17/6a59f69e01f2a825010529.jpg",
-      "published_at": "2026-08-02T06:05:04+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "0f6d7cf28a82"
-    },
-    {
-      "title": "\"Des fleurs pour Tokyo\" : un premier film sur une famille en débris dans une capitale japonaise en ébullition",
-      "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/des-fleurs-pour-tokyo-un-premier-film-sur-une-famille-en-debris-dans-une-capitale-japonaise-en-ebullition_8086802.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le film du jeune réalisateur Yuiga Danzuka a été présenté lors de la Quinzaine des réalisateurs au Festival de Cannes 2025",
-      "image": "https://www.franceinfo.fr/pictures/-uRLWthUI_Moiof-O6hY3UlmaM8/71x0:1209x640/432x243/filters:format(jpg):quality(50)/2026/06/30/6a43cd7880842821622845.jpeg",
-      "published_at": "2026-08-02T06:05:02+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "7fe160dcf5f1"
-    },
-    {
-      "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump assure suspendre les frappes contre l’Iran à la demande de Téhéran et de pays de la région, dans l’attente d’un accord rapide",
-      "url": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-au-moyen-orient-donald-trump-assure-suspendre-des-frappes-contre-l-iran-a-la-demande-de-teheran-et-de-pays-de-la-region-dans-l-attente-d-un-accord-rapide_6737099_3210.html",
-      "summary": "Selon le président américain, qui avait menacé, vendredi lors d’un conseil des ministres, de frapper l’Iran « très fort », l’accord doit inclure « l’ouverture immédiate complète et totale du détroit d’Ormuz, ainsi que la fin de la menace nucléaire iranienne ».",
-      "image": "https://img.lemde.fr/2026/07/31/405/0/5500/2750/644/322/60/0/9adf15b_ftp-1-v29190ge3edw-2026-07-31t183037z-1766312476-rc23pmaanx1h-rtrmadp-3-usa-trump.JPG",
-      "published_at": "2026-08-02T06:01:37+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "1f330da1cb2a"
-    },
-    {
-      "title": "La ville de Colombes et l’« entrisme islamiste » : anatomie d’une controverse",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/02/la-ville-de-colombes-et-l-entrisme-islamiste-anatomie-d-une-controverse_6737259_3224.html",
-      "summary": "Le maire sortant écologiste a été sous le feu des critiques après la fermeture, en 2025, d’un institut aux activités suspectes dirigé par son directeur de cabinet. Le préfet des Hauts-de-Seine veut faire de la ville un exemple de la lutte contre les Frères musulmans, mais, sur place, des acteurs locaux l’accusent de mener une croisade politique.",
-      "image": "https://img.lemde.fr/2026/05/23/657/0/4000/2000/644/322/60/0/29b2d47_upload-1-caauv1m0evgi-raf-colombes-003.JPG",
-      "published_at": "2026-08-02T06:00:30+02:00",
-      "source": "Le Monde Politique",
-      "category": "Sport",
-      "id": "915279829311"
-    },
-    {
-      "title": "Jacques Bonnaffé, acteur : « Beaucoup de mots attendent qu’on les entende »",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/02/jacques-bonnaffe-acteur-beaucoup-de-mots-attendent-qu-on-les-entende_6737257_3451060.html",
-      "summary": "« Un château de sable avec… », saison 7 (3/6). Chaque dimanche, durant l’été, « Le Monde » accompagne un ou une artiste à la plage. Rencontre à Wissant, dans le Pas-de-Calais, avec le comédien qui joue depuis deux ans « Abysses », une pièce de Davide Enia.",
-      "image": "https://img.lemde.fr/2026/06/24/563/0/4252/2126/644/322/60/0/d1653f8_upload-1-sm5dvmk6cpu4-jacquesbonnaffe-02.jpg",
-      "published_at": "2026-08-02T06:00:15+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "4d450d40c846"
-    },
-    {
-      "title": "Au Chili, le poison de la contamination aux déchets miniers importés de Suède : « Les gens organisaient des tombolas pour payer les frais médicaux »",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/02/au-chili-le-poison-de-la-contamination-aux-dechets-miniers-importes-de-suede-les-gens-organisaient-des-tombolas-pour-payer-les-frais-medicaux_6737256_3244.html",
-      "summary": "Quarante ans après le dépôt de rebuts d’une entreprise suédoise contenant des métaux lourds à Arica, dans le nord du Chili, les graves conséquences de santé de l’intoxication au plomb et à l’arsenic se font encore sentir. Les habitants espèrent une condamnation de l’Etat chilien pour sa responsabilité environnementale.",
-      "image": "https://img.lemde.fr/2026/06/09/416/0/5000/2500/644/322/60/0/683cf55_upload-1-nn1ekyadfsaw-heavy-metals-chile-tm-050.jpg",
-      "published_at": "2026-08-02T06:00:12+02:00",
-      "source": "Le Monde Inter",
-      "category": "Économie",
-      "id": "a2f0c8bfc1a4"
     }
   ]
 }
