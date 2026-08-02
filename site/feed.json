@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-08-02T19:21:51.192845+00:00",
+  "generated_at": "2026-08-02T21:03:29.078078+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Incendie dans l'Aude : le feu \"particulièrement complexe\" aux portes de Carcassonne est désormais fixé, annonce la préfecture",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-megafeu-en-gironde-aller-en-vacances-dans-le-departement-est-un-geste-de-solidarite-declare-sebastien-lecornu_8131925.html#xtor=RSS-3-[lestitres]",
+      "summary": "A 23 heures, l'autoroute A61 était toujours fermée dans les deux sens entre Carcassonne Est et Carcassonne Ouest.",
+      "image": "https://www.franceinfo.fr/pictures/CA6JMv2DBO8LI0wmsGkuQDt2IgA/0x309:2970x1980/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f855daa3c0783538972.jpg",
+      "published_at": "2026-08-02T22:55:09+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "9a2feaf5d0e5"
+    },
+    {
+      "title": "EN DIRECT, incendies : la préfète de Gironde autorise le retour à partir de lundi à Lège-Cap-Ferret et au Porge ; le feu près de Carcassonne est fixé",
+      "url": "https://www.lemonde.fr/planete/live/2026/08/02/en-direct-incendies-la-prefete-de-gironde-autorise-le-retour-a-partir-de-lundi-a-lege-cap-ferret-et-au-porge-le-feu-pres-de-carcassonne-est-fixe_6737310_3244.html",
+      "summary": "Un nouvel incendie s’est déclaré à Carcassonne, dans l’Aude, à proximité de l’autoroute A61. En Gironde, où le mégafeu a dévoré 42 000 hectares en onze jours, celui-ci, fixé depuis samedi, « n’évolue plus » mais n’est toutefois pas « éteint ».",
+      "image": "https://img.lemde.fr/2026/08/01/1024/0/8192/4096/644/322/60/0/161cf85_ftp-1-yjsvmla8t677-071a5a2abc0e4a45892b653b27278a05-0-d41a6608479b4f57ab8f7413bd751fac.jpg",
+      "published_at": "2026-08-02T22:27:31+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "f73e30c63731"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : en une semaine, 1 900 drones et 144 missiles russes ont visé 16 régions ukrainiennes, selon Volodymyr Zelensky",
+      "url": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-en-une-semaine-1-900-drones-et-144-missiles-russes-ont-vise-16-regions-ukrainiennes-selon-volodymyr-zelensky_6737250_3210.html",
+      "summary": "Le président ukrainien a dressé le bilan d’une semaine de frappes russes contre l’Ukraine. Il y dénombre 16 régions visées, environ 1 900 drones, près de 1 600 bombes aériennes et 144 missiles de différents types, dont des missiles balistiques tirés en direction de l’Ukraine.",
+      "image": "https://img.lemde.fr/2026/08/02/483/0/5798/2899/644/322/60/0/30b51b0_ftp-1-4hfoljpdlddk-5760068-01-06.jpg",
+      "published_at": "2026-08-02T22:26:45+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "2b8f319feeb8"
+    },
+    {
+      "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran dit être proche d’un accord avec Oman sur un nouvel itinéraire de transit des navires dans le détroit d’Ormuz",
+      "url": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-au-moyen-orient-l-iran-dit-etre-proche-d-un-accord-avec-oman-sur-un-nouvel-itineraire-de-transit-des-navires-dans-le-detroit-d-ormuz_6737099_3210.html",
+      "summary": "Des efforts seraient par ailleurs en cours pour ranimer le protocole d’accord avec Washington après que Donald Trump a annoncé suspendre de nouvelles frappes sur l’Iran.",
+      "image": "https://img.lemde.fr/2026/06/15/176/0/3804/1902/644/322/60/0/f2ed41f_ftp-1-tewmqrw3k4jk-2026-06-15t040321z-411865900-rc24ula5jepg-rtrmadp-3-iran-crisis-oman-hormuz.JPG",
+      "published_at": "2026-08-02T22:21:56+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "bf495498c5f8"
+    },
+    {
+      "title": "Incendies : en Gironde, réintégration autorisée lundi à Lège-Cap-Ferret et au Porge",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-dans-le-var-un-feu-qui-progresse-plus-vite-quun-cheval-au-galop-20260801_JK5HKTGTI5DYXJ27VARYLXNFKI/",
+      "summary": "Les deux communes girondines, particulièrement ciblées par les flammes figurent parmi les dernières à recevoir une autorisation de réintégration.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-02T19:22:30+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "1534b98c944f"
+    },
+    {
+      "title": "En première ligne face aux incendies, les pompiers mettent leur santé en danger",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-premiere-ligne-face-aux-incendies-les-pompiers-mettent-leur-sante-en-danger_8132534.html#xtor=RSS-3-[lestitres]",
+      "summary": "Depuis le début des incendies en Gironde, près d'une centaine de pompiers ont été intoxiqués. Selon les témoignages recueillis par France Télévisions, l'exposition aux fumées toxiques provoque des pathologies graves, dont quatre cancers désormais reconnus comme maladies professionnelles.",
+      "image": "https://www.franceinfo.fr/pictures/sUNl2KUsn5NbuK0uKT7IfqPcK7g/0x0:1536x864/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f96d1b93ab095653487.jpg",
+      "published_at": "2026-08-02T21:14:17+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "dd332e8b9563"
+    },
     {
       "title": "\"Nous saluons tout chemin de dialogue\", affirme le président vénézuélien déchu Nicolas Maduro, depuis sa prison aux Etats-Unis",
       "url": "https://www.franceinfo.fr/monde/venezuela/nous-saluons-tout-chemin-de-dialogue-affirme-le-president-venezuelien-dechu-nicolas-maduro-depuis-sa-prison-aux-etats-unis_8132537.html#xtor=RSS-3-[lestitres]",
@@ -13,21 +73,11 @@
       "id": "90c9290e1068"
     },
     {
-      "title": "Incendies : en Gironde, réintégration autorisée lundi à Lège-Cap-Ferret et au Porge",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-dans-le-var-un-feu-qui-progresse-plus-vite-quun-cheval-au-galop-20260801_JK5HKTGTI5DYXJ27VARYLXNFKI/",
-      "summary": "Les deux communes girondines, particulièrement ciblées par les flammes figurent parmi les dernières à recevoir une autorisation de réintégration.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-02T19:02:36+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "1534b98c944f"
-    },
-    {
       "title": "Nirmal Purja, la mort d’un alpiniste sans limites",
       "url": "https://www.lemonde.fr/disparitions/article/2026/08/02/nirmal-purja-la-mort-d-un-alpiniste-sans-limites_6737317_3382.html",
       "summary": "Le Népalo-Britannique, dont les exploits avaient été médiatisés dans un documentaire sur Netflix en 2021, a été emporté par une avalanche en gravissant le Broad Peak, au Pakistan, jeudi 30 juillet. Il avait 43 ans.",
       "image": "https://img.lemde.fr/2026/08/02/38/0/4092/2046/644/322/60/0/44a7fde_upload-1-qn6zzomq3a3u-000-8ze3hy.jpg",
-      "published_at": "2026-08-02T20:56:55+02:00",
+      "published_at": "2026-08-02T20:56:50+02:00",
       "source": "Le Monde",
       "category": "Culture",
       "id": "6c0c83bc0895"
@@ -91,16 +141,6 @@
       "source": "Libération",
       "category": "Sport",
       "id": "17a7b7808a1e"
-    },
-    {
-      "title": "Incendie dans l'Aude : le feu \"particulièrement complexe\" aux portes de Carcassonne est \"contenu\" et \"sous contrôle\"",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-megafeu-en-gironde-aller-en-vacances-dans-le-departement-est-un-geste-de-solidarite-declare-sebastien-lecornu_8131925.html#xtor=RSS-3-[lestitres]",
-      "summary": "L’autoroute A61 est fermée dans les deux sens entre Carcassonne Est et Carcassonne Ouest.",
-      "image": "https://www.franceinfo.fr/pictures/CA6JMv2DBO8LI0wmsGkuQDt2IgA/0x309:2970x1980/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f855daa3c0783538972.jpg",
-      "published_at": "2026-08-02T20:31:16+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "9a2feaf5d0e5"
     },
     {
       "title": "En Moselle, le confinement de 30 000 habitants levé après l'incendie d'un site classé Seveso",
@@ -261,46 +301,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "56f27842f51e"
-    },
-    {
-      "title": "72 morts à Ceuta, les pompiers toujours mobilisés en Gironde et dans le Var, abandon du projet d’Infantino… L’actu de ce week-end des 1er et 2 août",
-      "url": "https://www.liberation.fr/international/europe/72-morts-a-ceuta-les-pompiers-toujours-mobilises-en-gironde-et-dans-le-var-abandon-du-projet-dinfantino-lactu-de-ce-week-end-des-1er-et-2-aout-20260802_2GE6KQFDBJAC7OF7A5MHKEO66U/",
-      "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée de ce samedi et ce dimanche.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-02T16:48:40+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "954a1cd1f850"
-    },
-    {
-      "title": "J’adore le Lego X-Files, mais certainement pas à ce prix",
-      "url": "https://www.numerama.com/pop-culture/2305071-jadore-le-lego-x-files-mais-certainement-pas-a-ce-prix.html",
-      "summary": "Alors qu'un reboot est en préparation, la série culte X-Files a à son tour droit à un Lego, intégré à la gamme Ideas. Le set est réussi, mais son prix élevé risque de dissuader bien des fans de Mulder et Scully.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-02T16:45:00+00:00",
-      "source": "Numerama",
-      "category": "Culture",
-      "id": "d3ef4f4e31cb"
-    },
-    {
-      "title": "\"Un homme a tenté de pénétrer dans le commissariat\" : 13 morts et 22 blessés dans un attentat-suicide pendant une manifestation au Pakistan",
-      "url": "https://www.franceinfo.fr/monde/asie/un-homme-a-tente-de-penetrer-dans-le-commissariat-13-morts-et-22-blesses-dans-un-attentat-suicide-pendant-une-manifestation-au-pakistan_8132354.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le district de Swat, où a eu lieu l'attaque, se trouve dans la province frontalière de l'Afghanistan de Khyber Pakhtunkhwa, où les autorités font face à l'insurrection de plus en plus vaste du Tehreek-i-Taliban Pakistan (TTP). Aucun groupe n'a dans l'immédiat revendiqué cet attentat.",
-      "image": "https://www.franceinfo.fr/pictures/-CcoJlk6BLcYqofngB0zl3XAuMc/0x272:5241x3221/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f726ee2494130749301.jpg",
-      "published_at": "2026-08-02T18:44:58+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "79e0d55cb876"
-    },
-    {
-      "title": "EN DIRECT, l’incendie n’est « pas encore fixé » dans le Var ; les sapeurs-pompiers bataillent contre un nouveau feu à Carcassonne",
-      "url": "https://www.lemonde.fr/planete/live/2026/08/02/en-direct-l-incendie-n-est-pas-encore-fixe-dans-le-var-les-sapeurs-pompiers-bataillent-contre-un-nouveau-feu-a-carcassonne_6737310_3244.html",
-      "summary": "Un nouvel incendie s’est déclaré à Carcassonne, dans l’Aude, à proximité de l’autoroute A61. En Gironde, où le mégafeu a dévoré 42 000 hectares en onze jours, celui-ci, fixé depuis samedi, « n’évolue plus » mais n’est toutefois pas « éteint ».",
-      "image": "https://img.lemde.fr/2026/08/02/482/0/5792/2896/644/322/60/0/4e4a9fd_ftp-1-sk70xxwdyvsy-2026-08-02t164323z-197667513-rc2gqmaz3mzu-rtrmadp-3-europe-weather-france-wildfires.JPG",
-      "published_at": "2026-08-02T18:43:24+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "d9ae99afc5da"
     }
   ]
 }
