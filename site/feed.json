@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-08-02T22:04:42.502237+00:00",
+  "generated_at": "2026-08-02T23:06:02.029476+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Soudan : une ONG accuse l’armée d’avoir tué 35 personnes dans une frappe de drone sur un tribunal du Darfour",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/03/soudan-une-ong-accuse-l-armee-d-avoir-tue-35-personnes-dans-une-frappe-de-drone-sur-un-tribunal-du-darfour_6737320_3212.html",
+      "summary": "Le conflit entre l’armée et les Forces de soutien rapide, qui a éclaté en 2023, a fait des dizaines de milliers de morts, provoqué le déplacement de millions de personnes et déclenché ce que les Nations unies décrivent comme la plus grave crise de la faim au monde.",
+      "image": "https://img.lemde.fr/2026/07/20/1219/0/5500/2750/644/322/60/0/170960b_ftp-1-bh74iyri1pgp-2026-07-20t233753z-513008380-rc2v6iasrd3s-rtrmadp-3-un-refugees-usa.JPG",
+      "published_at": "2026-08-03T00:52:00+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "5bdcb30f3e88"
+    },
     {
       "title": "Zitata TV, une petite chaîne dynamique au plus près des Martiniquais",
       "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/03/zitata-tv-une-petite-chaine-dynamique-au-plus-pres-des-martiniquais_6737319_3451060.html",
@@ -63,13 +73,13 @@
       "id": "2b8f319feeb8"
     },
     {
-      "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran dit être proche d’un accord avec Oman sur un nouvel itinéraire de transit des navires dans le détroit d’Ormuz",
+      "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce des discussions avec l’Iran à partir de lundi",
       "url": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-au-moyen-orient-l-iran-dit-etre-proche-d-un-accord-avec-oman-sur-un-nouvel-itineraire-de-transit-des-navires-dans-le-detroit-d-ormuz_6737099_3210.html",
-      "summary": "Des efforts seraient par ailleurs en cours pour ranimer le protocole d’accord avec Washington après que Donald Trump a annoncé suspendre de nouvelles frappes sur l’Iran.",
-      "image": "https://img.lemde.fr/2026/06/15/176/0/3804/1902/644/322/60/0/f2ed41f_ftp-1-tewmqrw3k4jk-2026-06-15t040321z-411865900-rc24ula5jepg-rtrmadp-3-iran-crisis-oman-hormuz.JPG",
-      "published_at": "2026-08-02T22:21:56+02:00",
+      "summary": "Après avoir déclaré, la veille, avoir renoncé à de nouvelles frappes sur l’Iran à condition qu’un accord soit rapidement conclu, le président américain a affirmé, dimanche, que des pourparlers avec Téhéran étaient prévus lundi après-midi.",
+      "image": "https://img.lemde.fr/2026/08/02/140/0/5659/2829/644/322/60/0/7f602d3_ftp-1-j62iqz7gpt5i-cbac7923bf1643098ea1f34d60dd0fae-0-9e9ab42579304381903d85c3713ff932.jpg",
+      "published_at": "2026-08-02T22:21:51+02:00",
       "source": "Le Monde",
-      "category": "International",
+      "category": "Politique",
       "id": "bf495498c5f8"
     },
     {
@@ -237,7 +247,7 @@
       "url": "https://www.lemonde.fr/afrique/article/2026/08/02/abdul-samad-rabiu-l-autre-industriel-multimilliardaire-qui-veut-changer-le-nigeria_6737313_3212.html",
       "summary": "« Fortunes africaines ». Son parcours rappelle celui d’Aliko Dangote, première fortune d’Afrique. Plus discret, le patron du groupe BUA a lui aussi bâti un empire dans le ciment et le sucre. Et lui aussi est originaire de Kano, carrefour millénaire du commerce transsaharien.",
       "image": "https://img.lemde.fr/2026/07/16/0/0/3543/1771/644/322/60/0/b8457a2_upload-1-9woiufqsjpwr-monde-serie-fortunesafricaines-rabiu-300dpi.jpg",
-      "published_at": "2026-08-02T20:00:08+02:00",
+      "published_at": "2026-08-02T20:00:03+02:00",
       "source": "Le Monde",
       "category": "Économie",
       "id": "27f4575a5da5"
@@ -291,16 +301,6 @@
       "source": "Libération",
       "category": "Sport",
       "id": "f9956fe8c2ba"
-    },
-    {
-      "title": "Maillot jaune, deux victoires d’étape… Le début de Tour de France femmes rêvé pour Lorena Wiebes, bien plus que la meilleure sprinteuse du monde",
-      "url": "https://www.franceinfo.fr/tour-de-france/femmes/maillot-jaune-deux-victoires-d-etape-le-debut-de-tour-de-france-femmes-reve-pour-lorena-wiebes-bien-plus-que-la-meilleure-sprinteuse-du-monde_8132480.html#xtor=RSS-3-[lestitres]",
-      "summary": "La Néerlandaise de 27 ans a remporté les deux premières étapes du Tour de France femmes 2026.",
-      "image": "https://www.franceinfo.fr/pictures/_o7l8JM_TKcMbC7D28YmAqC3-A8/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f7663e1dbd169558993.jpg",
-      "published_at": "2026-08-02T19:11:13+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "2e34e276c87a"
     }
   ]
 }
