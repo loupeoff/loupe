@@ -7,9 +7,39 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Sun, 02 Aug 2026 21:03:29 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 02 Aug 2026 22:04:42 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>Zitata TV, une petite chaîne dynamique au plus près des Martiniquais</title>
+    <link>https://www.lemonde.fr/series-d-ete/article/2026/08/03/zitata-tv-une-petite-chaine-dynamique-au-plus-pres-des-martiniquais_6737319_3451060.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/series-d-ete/article/2026/08/03/zitata-tv-une-petite-chaine-dynamique-au-plus-pres-des-martiniquais_6737319_3451060.html</guid>
+    <pubDate>Mon, 03 Aug 2026 00:00:12 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Politique</source>
+    <description><![CDATA[« Echos locaux » (4/6). Née en 2021, la station antillaise, située en périphérie de Fort-de-France, a trouvé son audience grâce à des programmes alliant ancrage local, exigence de qualité et volonté de visibiliser les différentes communautés de l’île.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/07/27/125/0/1500/750/644/322/60/0/a4028f0_ftp-1-oicgz3ban7p4-437368-3492009.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Incendies en Grèce : deux hélicoptères entrent en collision, deux personnes sont mortes</title>
+    <link>https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-grece-deux-helicopteres-entrent-en-collision-deux-personnes-sont-mortes_8132519.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-grece-deux-helicopteres-entrent-en-collision-deux-personnes-sont-mortes_8132519.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Sun, 02 Aug 2026 23:04:46 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[En Grèce, les incendies sont toujours virulents et les pompiers luttent au péril de leur vie. En pleine intervention, dimanche 2 août, deux hélicoptères sont entrés en collision. Le pilote et le copilote de l'un d'entre eux ont été tués.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/gdhcVigh94zxqCXgh0W7UuVFpZI/0x27:1184x693/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f8de5adb6f052702731.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>En Moselle, le confinement de 30 000 habitants levé après l&apos;incendie d&apos;un site classé Seveso</title>
+    <link>https://www.franceinfo.fr/france/grand-est/moselle/en-moselle-le-confinement-de-30-000-habitants-leve-apres-l-incendie-d-un-site-classe-seveso_8132507.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/france/grand-est/moselle/en-moselle-le-confinement-de-30-000-habitants-leve-apres-l-incendie-d-un-site-classe-seveso_8132507.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Sun, 02 Aug 2026 23:01:36 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Dimanche 2 août a été une journée angoissante pour les 30 000 habitants de Moselle confinés chez eux en raison d’un incendie dans un entrepôt de déchets industriels à Gandrange. La préfecture a annoncé la levée du confinement, quelques heures plus tard.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/VRff__1CZf0XfzhLTa8I2xx5yF4/60x0:972x513/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f8a00ecf8c935800850.jpg" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>Incendie dans l&apos;Aude : le feu &quot;particulièrement complexe&quot; aux portes de Carcassonne est désormais fixé, annonce la préfecture</title>
     <link>https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-megafeu-en-gironde-aller-en-vacances-dans-le-departement-est-un-geste-de-solidarite-declare-sebastien-lecornu_8131925.html#xtor=RSS-3-[lestitres]</link>
@@ -131,16 +161,6 @@
     <enclosure url="https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>Incendies en Grèce : deux hélicoptères entrent en collision, deux personnes sont mortes</title>
-    <link>https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-grece-deux-helicopteres-entrent-en-collision-deux-personnes-sont-mortes_8132519.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-grece-deux-helicopteres-entrent-en-collision-deux-personnes-sont-mortes_8132519.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sun, 02 Aug 2026 20:44:07 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[En Grèce, les incendies sont toujours virulents et les pompiers luttent au péril de leur vie. En pleine intervention, dimanche 2 août, deux hélicoptères sont entrés en collision. Le pilote et le copilote de l'un d'entre eux ont été tués.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/gdhcVigh94zxqCXgh0W7UuVFpZI/0x27:1184x693/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f8de5adb6f052702731.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
     <title>Accident de bus en Algérie : le chauffeur avait consommé des stupéfiants et roulait à plus de 120 km/h</title>
     <link>https://www.liberation.fr/international/afrique/accident-de-bus-en-algerie-le-chauffeur-avait-consomme-des-stupefiants-et-roulait-a-plus-de-120-kmh-20260802_S3VW3PVVVZG2BEH2YFTKDY6VYA/</link>
     <guid isPermaLink="true">https://www.liberation.fr/international/afrique/accident-de-bus-en-algerie-le-chauffeur-avait-consomme-des-stupefiants-et-roulait-a-plus-de-120-kmh-20260802_S3VW3PVVVZG2BEH2YFTKDY6VYA/</guid>
@@ -149,16 +169,6 @@
     <source url="https://loupeoff.github.io/loupe">Libération</source>
     <description><![CDATA[Le parquet a dévoilé dimanche 2 août les premiers résultats de l’enquête sur l’accident qui a fait 28 morts et 36 blessés, vendredi 31 juillet dans le nord du pays. Le véhicule transportait par ailleurs davantage de passagers que sa capacité autorisée.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>En Moselle, le confinement de 30 000 habitants levé après l&apos;incendie d&apos;un site classé Seveso</title>
-    <link>https://www.franceinfo.fr/france/grand-est/moselle/en-moselle-le-confinement-de-30-000-habitants-leve-apres-l-incendie-d-un-site-classe-seveso_8132507.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/france/grand-est/moselle/en-moselle-le-confinement-de-30-000-habitants-leve-apres-l-incendie-d-un-site-classe-seveso_8132507.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sun, 02 Aug 2026 20:27:37 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Dimanche 2 août a été une journée angoissante pour les 30 000 habitants de Moselle confinés chez eux en raison d’un incendie dans un entrepôt de déchets industriels à Gandrange. La préfecture a annoncé la levée du confinement, quelques heures plus tard.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/VRff__1CZf0XfzhLTa8I2xx5yF4/60x0:972x513/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f8a00ecf8c935800850.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Gaza : treize morts dans des bombardements israéliens nocturnes après l’accord annoncé sur le désarmement du Hamas</title>
@@ -177,7 +187,7 @@
     <pubDate>Sun, 02 Aug 2026 20:24:28 +0000</pubDate>
     <category>Politique</category>
     <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Revenu en 2023 au pouvoir après deux premiers mandats (2003-2010), le président sortant de gauche a été investi lors d’une convention de son Parti des travailleurs. Il affrontera Flavio Bolsonaro, fils de l’ex-président d’extrême droite.]]></description>
+    <description><![CDATA[Revenu en 2023 au pouvoir après deux premiers mandats (2003-2010), le président sortant de gauche a été investi lors d’une convention de son Parti des travailleurs. Il affrontera Flavio Bolsonaro, fils de l’ex-président d’extrême droite, lors du scrutin en octobre.]]></description>
     <enclosure url="https://img.lemde.fr/2026/08/02/540/0/6480/3240/644/322/60/0/65bca99_ftp-1-kclu3bt1yjs2-fbbd494abad044f0a85ca2def51fcc61-0-41672c98109d413280ebf02721530d78.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
@@ -236,7 +246,7 @@
     <guid isPermaLink="true">https://www.lemonde.fr/afrique/article/2026/08/02/abdul-samad-rabiu-l-autre-industriel-multimilliardaire-qui-veut-changer-le-nigeria_6737313_3212.html</guid>
     <pubDate>Sun, 02 Aug 2026 20:00:08 +0000</pubDate>
     <category>Économie</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[« Fortunes africaines ». Son parcours rappelle celui d’Aliko Dangote, première fortune d’Afrique. Plus discret, le patron du groupe BUA a lui aussi bâti un empire dans le ciment et le sucre. Et lui aussi est originaire de Kano, carrefour millénaire du commerce transsaharien.]]></description>
     <enclosure url="https://img.lemde.fr/2026/07/16/0/0/3543/1771/644/322/60/0/b8457a2_upload-1-9woiufqsjpwr-monde-serie-fortunesafricaines-rabiu-300dpi.jpg" type="image/jpeg" length="0" />
   </item>
@@ -299,16 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">France Info</source>
     <description><![CDATA[La Néerlandaise de 27 ans a remporté les deux premières étapes du Tour de France femmes 2026.]]></description>
     <enclosure url="https://www.franceinfo.fr/pictures/_o7l8JM_TKcMbC7D28YmAqC3-A8/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f7663e1dbd169558993.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Ce qu’il faut retenir de l’actualité du week-end des 1ᵉʳ et 2 août</title>
-    <link>https://www.lemonde.fr/les-decodeurs/article/2026/08/02/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-1-et-2-aout_6737311_4355770.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/les-decodeurs/article/2026/08/02/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-1-et-2-aout_6737311_4355770.html</guid>
-    <pubDate>Sun, 02 Aug 2026 19:00:05 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Vous n’avez pas suivi l’actualité ? Voici ce qu’il s’est passé pendant ces dernières quarante-huit heures.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/08/01/436/0/4656/2328/644/322/60/0/7611b25_ftp-1-f4pfkywm63dz-2026-08-01t092531z-529523271-rc2lpmaxrs0c-rtrmadp-3-europe-weather-france-wildfires.JPG" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>
