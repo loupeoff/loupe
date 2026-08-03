@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-08-03T21:13:24.240013+00:00",
+  "generated_at": "2026-08-03T23:12:14.608744+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Le nord-ouest des Etats-Unis confronté à une saison des feux « exceptionnelle », la ville de Spokane ressemble à une « zone de guerre »",
+      "url": "https://www.lemonde.fr/international/article/2026/08/04/le-nord-ouest-des-etats-unis-confronte-a-une-saison-des-feux-exceptionnelle-la-ville-de-spokane-ressemble-a-une-zone-de-guerre_6737776_3210.html",
+      "summary": "Aucun des trois incendies qui ont détruit plusieurs quartiers de cette ville de 230 000 habitants, dans l’Etat de Washington, où l’état d’urgence a été déclaré samedi, n’est pour l’instant contenu.",
+      "image": "https://img.lemde.fr/2026/08/03/332/0/3984/1992/644/322/60/0/6520d94_ftp-1-ufzjz5simbrs-8a4aee10d32e42f8be40b90d9c0a7503-0-09cbd625b7e84c27972cef6b07d1ee02.jpg",
+      "published_at": "2026-08-04T00:48:50+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "89515dfc73c4"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky limoge l’ambassadrice ukrainienne aux Etats-Unis",
+      "url": "https://www.lemonde.fr/international/live/2026/08/04/en-direct-guerre-en-ukraine-volodymyr-zelensky-limoge-l-ambassadrice-ukrainienne-aux-etats-unis_6737250_3210.html",
+      "summary": "Le président ukrainien a démis de ses fonctions Olga Stefanishyna, qui était en poste depuis deux ans. Cette dernière a expliqué qu’il s’agissait d’une démission « dictée par des circonstances personnelles ».",
+      "image": "https://img.lemde.fr/2026/08/03/165/0/5500/2750/644/322/60/0/f2bc495_ftp-1-xfy4o2vcts52-2026-08-03t182241z-1467155215-rc2gsjaehain-rtrmadp-3-ukraine-crisis-anniversary-usa.JPG",
+      "published_at": "2026-08-04T00:39:47+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "77b36084df88"
+    },
+    {
+      "title": "Au Venezuela, le bilan grimpe à plus de 6 000 morts après le double séisme qui a secoué le nord du pays",
+      "url": "https://www.franceinfo.fr/monde/venezuela/au-venezuela-le-bilan-grimpe-a-plus-de-6-000-morts-apres-le-double-seisme-qui-a-secoue-le-nord-du-pays_8133701.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le gouvernement n'a pas précisé le nombre de personnes portées disparues dans ses nouveaux chiffres relatifs à la catastrophe du 24 juin. Des milliers de personnes vivent désormais dans des camps.",
+      "image": "https://www.franceinfo.fr/pictures/oCHUmLoo2SFnAOhq9mKT8m5_iiU/0x322:6192x3805/432x243/filters:format(jpg):quality(50)/2026/08/03/6a71079001dbb202057872.jpg",
+      "published_at": "2026-08-03T23:43:27+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "c90a0abad6a3"
+    },
+    {
+      "title": "A Tarascon, les salariés de Fibre Excellence espèrent toujours « un miracle »",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/03/a-tarascon-les-salaries-de-fibre-excellence-esperent-toujours-un-miracle_6737743_3234.html",
+      "summary": "Les 270 employés de l’usine de pâte à papier mise en liquidation, multiplient les actions pour pousser les pouvoirs publics à sauver leur site, dans un bassin d’emploi très fragile.",
+      "image": "https://img.lemde.fr/2026/08/03/427/0/4439/2219/644/322/60/0/086662e_upload-1-iwjccpjdfsi7-000-c3fl37c.jpg",
+      "published_at": "2026-08-03T23:35:04+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "791f430f8857"
+    },
     {
       "title": "Dix-huit départements du Sud-Est toujours en vigilance orange à la canicule ce mardi, plus aucun département pour les orages",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/sept-departements-du-quart-sud-ouest-passent-en-vigilance-orange-aux-orages-a-partir-de-16-heures-20-departements-toujours-en-alerte-orange-canicule_8132735.html#xtor=RSS-3-[lestitres]",
@@ -17,7 +57,7 @@
       "url": "https://www.lemonde.fr/economie/article/2026/08/03/droits-de-douane-de-donald-trump-25-etats-americains-democrates-saisissent-la-justice_6737710_3234.html",
       "summary": "Ces nouvelles surtaxes, de 10 % ou de 12,5 % selon les pays, sont entrées en vigueur le 24 juillet.",
       "image": "https://img.lemde.fr/2026/07/27/371/0/3743/1871/644/322/60/0/36c6a08_ftp-1-r8pck4a3zmya-5720284-01-06.jpg",
-      "published_at": "2026-08-03T22:55:46+02:00",
+      "published_at": "2026-08-03T22:55:41+02:00",
       "source": "Le Monde",
       "category": "International",
       "id": "ee76cd9e43ea"
@@ -51,16 +91,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "a76f4240782f"
-    },
-    {
-      "title": "Cyberattaque : 300 000 clients d’Intermarché concernés par une fuite de données",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/03/cyberattaque-300-000-clients-d-intermarche-concernes-par-une-fuite-de-donnees_6737677_4408996.html",
-      "summary": "Plusieurs informations ont été dérobées, comme les noms ou adresses de clients du drive, mais aucune donnée bancaire ou aucun mot de passe, affirme l’enseigne.",
-      "image": "https://img.lemde.fr/2025/06/23/50/0/5000/2500/644/322/60/0/59ee76f_ftp-import-images-1-dqlq8rrsgulg-5230473-01-06.jpg",
-      "published_at": "2026-08-03T22:13:38+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "5e87e745ef12"
     },
     {
       "title": "La rotation incontrôlée du remorqueur LINK est quasi stabilisée grâce à ses propulseurs",
@@ -101,6 +131,16 @@
       "source": "Libération",
       "category": "Politique",
       "id": "2ac2e00fc4f9"
+    },
+    {
+      "title": "\"Il est temps pour moi de partir\" : des incendies dans le nord-ouest des États-Unis entraînent l'évacuation de dizaines de milliers de personnes",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/il-est-temps-pour-moi-de-partir-des-incendies-dans-le-nord-ouest-des-etats-unis-entrainent-l-evacuation-de-dizaines-de-milliers-de-personnes_8133611.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dans l’État de Washington, au nord-ouest des États-Unis, trois incendies hors de contrôle ravagent Spokane et ses environs. Au total, 60 000 personnes ont reçu l’ordre d’évacuer, et au moins 600 bâtiments ont été détruits.",
+      "image": "https://www.franceinfo.fr/pictures/YyuY9jYwz56vn92xIyUr7Qhp4io/0x46:1184x712/432x243/filters:format(jpg):quality(50)/2026/08/03/6a70e51312f8d875160981.png",
+      "published_at": "2026-08-03T21:55:42+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "72fa7ebb1970"
     },
     {
       "title": "\"Quand on y est, ça fait du mal\" : au Porge, en Gironde, le retour des habitants dans une commune meurtrie",
@@ -193,26 +233,6 @@
       "id": "b06d22078bc1"
     },
     {
-      "title": "EN DIRECT, guerre en Ukraine : l’ambassadrice ukrainienne aux Etats-Unis limogée par Volodymyr Zelensky",
-      "url": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-en-ukraine-l-ambassadrice-ukrainienne-aux-etats-unis-limogee-par-volodymyr-zelensky_6737250_3210.html",
-      "summary": "Le président ukrainien a démis de ses fonctions Olga Stefanishyna, qui était en poste depuis deux ans. Cette dernière a expliqué qu’il s’agissait d’une démission « dictée par des circonstances personnelles ».",
-      "image": "https://img.lemde.fr/2026/08/03/418/0/5017/2508/644/322/60/0/34e82a4_upload-1-jjlzd2iizh3a-000-98tv3zq.jpg",
-      "published_at": "2026-08-03T20:31:16+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "f9a1acd88a59"
-    },
-    {
-      "title": "Incendie dans le Var : le feu \"hors norme\" n'est toujours pas fixé, mais il n'y a pas eu de nouvelles évacuations aujourd'hui",
-      "url": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendie-dans-l-aude-l-autoroute-a61-a-rouvert-dans-les-deux-sens-le-feu-fixe-mais-encore-sous-surveillance_8132693.html#xtor=RSS-3-[lestitres]",
-      "summary": "La situation est \"stabilisée\", a annoncé le préfet du Var, Simon Fabre, qui a toutefois renouvelé son appel à une \"extrême vigilance\".",
-      "image": "https://www.franceinfo.fr/pictures/tBoRP_jknwPLOJ8BZb6_Ys_MdB8/0x112:6000x3487/432x243/filters:format(jpg):quality(50)/2026/08/03/6a70d62c7fdaf482856806.jpg",
-      "published_at": "2026-08-03T20:23:34+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "bca15d3e158c"
-    },
-    {
       "title": "Intermarché victime d'une cyberattaque visant les fichiers clients associés à son service Drive, 300 000 clients concernés",
       "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/intermarche-victime-d-une-cyberattaque-visant-les-fichiers-clients-associes-a-son-service-drive-300-000-clients-concernes_8133584.html#xtor=RSS-3-[lestitres]",
       "summary": "Des investigations sont en cours afin de déterminer l'étendue de l'incident.",
@@ -257,7 +277,7 @@
       "url": "https://www.lemonde.fr/economie/article/2026/08/03/le-boeing-737-max-7-certifie-avec-sept-ans-de-retard_6737611_3234.html",
       "summary": "Cet avion, plus petite version de la famille des 737 MAX, dont la livraison devait commencer en 2019, devrait pouvoir entrer en service en 2027.",
       "image": "https://img.lemde.fr/2026/08/03/423/0/4614/2307/644/322/60/0/2e9eee1_upload-1-rq4epaiuugxs-2020-09-30t181830z-1051623895-rc269j9tlofe-rtrmadp-3-boeing-737max.JPG",
-      "published_at": "2026-08-03T19:59:13+02:00",
+      "published_at": "2026-08-03T19:59:11+02:00",
       "source": "Le Monde",
       "category": "Sport",
       "id": "e9c209390fd7"
@@ -281,26 +301,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "75b3bae777e8"
-    },
-    {
-      "title": "Affrontements en Ethiopie : comment le Tigré est devenu une poudrière régionale",
-      "url": "https://www.liberation.fr/international/afrique/affrontements-en-ethiopie-comment-le-tigre-est-devenu-une-poudriere-regionale-20260803_WDSDXK6NJVB5XIQLL2AYSMUGPI/",
-      "summary": "Les combats qui se sont déroulés samedi 1er août, dans le nord du pays, entre les troupes gouvernementales et les rebelles tigréens ont fait craindre un embrasement de cette région frontalière.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-03T17:35:58+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "90fb8cf238ca"
-    },
-    {
-      "title": "Limogé par Grasset, Olivier Nora lance sa propre maison d’édition, Bartleby, et pourrait rejoindre Editis",
-      "url": "https://www.liberation.fr/culture/livres/limoge-par-grasset-olivier-nora-lance-sa-propre-maison-dedition-bartleby-et-pourrait-rejoindre-editis-20260803_B5EKV6OGYRGYVKAGDU5BOFHXJU/",
-      "summary": "L’initiative de l’éditeur, dont l’éviction avait été à l’origine d’un important mouvement de contestation de la mainmise de Bolloré sur l’industrie du livre, a été révélée par «le Canard enchaîné» ce lundi 3 août.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-03T17:34:33+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "e49a7919ca8e"
     }
   ]
 }
