@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-08-05T21:19:59.963132+00:00",
+  "generated_at": "2026-08-05T23:09:47.953568+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Des avions hybrides ou électriques pourraient effectuer une partie des vols de moins de 500 kilomètres en Europe à partir de 2030",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/06/des-avions-hybrides-ou-electriques-pourraient-effectuer-une-partie-des-vols-de-moins-de-500-kilometres-en-europe-a-partir-de-2030_6739501_3234.html",
+      "summary": "L’association Transport & Environment et trois constructeurs, dont le français Aura Aero, affirment que l’industrie européenne sera prête dans les prochaines années à produire des avions à batteries capables de transporter de 10 à 90 personnes sur de courtes distances. Mais plusieurs étapes restent encore à franchir.",
+      "image": "https://img.lemde.fr/2025/07/22/595/0/6300/3150/644/322/60/0/dd248a0_ftp-import-images-1-hspttw35fh0h-5470554-01-06.jpg",
+      "published_at": "2026-08-06T01:00:04+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "bb02be807ef1"
+    },
+    {
+      "title": "Entente sur les prix aux Etats-Unis : des producteurs vont devoir payer 3,3 millions de dollars et donner 53 millions d’œufs",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/05/entente-sur-les-prix-aux-etats-unis-des-producteurs-vont-devoir-payer-3-3-millions-de-dollars-et-donner-53-millions-d-ufs_6739468_3244.html",
+      "summary": "Trois géants du secteur ont conclu un accord avec la justice américaine pour s’être entendus sur les prix pendant plusieurs années. Ils devront remettre ces œufs à des banques alimentaires et à des ONG.",
+      "image": "https://img.lemde.fr/2026/07/23/417/0/5000/2500/644/322/60/0/00c7ba7_ftp-1-0uks07u7eb6w-2026-07-23t061122z-1506243743-rc249da4mqr0-rtrmadp-3-usa-fda-recalls-eggs.JPG",
+      "published_at": "2026-08-05T23:56:45+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "aaf6e2782507"
+    },
+    {
+      "title": "La communication avec l'invisible guide suprême est \"très difficile en ce moment\", déclare le président iranien Massoud Pezeshkian",
+      "url": "https://www.franceinfo.fr/monde/iran/la-communication-avec-le-guide-supreme-est-tres-difficile-en-ce-moment-declare-le-president-iranien-massoud-pezeshkian_8136440.html#xtor=RSS-3-[lestitres]",
+      "summary": "Mojtaba Khamenei n'est toujours pas apparu en public depuis sa nomination en mars, ce qui nourrit les spéculations sur son état de santé.",
+      "image": "https://www.franceinfo.fr/pictures/rFzuet9kHAGcuOtxkFhvvBDdVBc/1x0:764x429/432x243/filters:format(jpg):quality(50)/2026/08/05/6a73ad033174a952496791.png",
+      "published_at": "2026-08-05T23:44:26+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "aa70096b1117"
+    },
+    {
+      "title": "Jules Bouyer décroche l'argent sur le plongeon à 3 mètres et offre à la France sa première médaille aux championnats d'Europe de natation",
+      "url": "https://www.franceinfo.fr/sports/natation/jules-bouyer-decroche-l-argent-sur-le-plongeon-a-3-metres-et-offre-a-la-france-sa-premiere-medaille-aux-championnats-d-europe-de-natation_8136431.html#xtor=RSS-3-[lestitres]",
+      "summary": "Il n'avait pris que la dixième place des qualifications, avant de repartir de l'avant en finale.",
+      "image": "https://www.franceinfo.fr/pictures/W1GaexyOlX_OBd4LkeWwkuNgq8s/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/05/6a73a84410f48960445147.jpg",
+      "published_at": "2026-08-05T23:19:50+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "3cd3f045d08f"
+    },
+    {
+      "title": "Chikungunya, dengue, West Nile… De nouveaux cas autochtones identifiés dans le sud de la France",
+      "url": "https://www.liberation.fr/societe/sante/chikungunya-dengue-west-nile-de-nouveaux-cas-autochtones-identifies-dans-le-sud-de-la-france-20260805_VFDFJOOTXZBN5IVKTUQNOTWWAE/",
+      "summary": "Santé publique France a recensé plusieurs cas de maladies transmises par des moustiques sur le territoire français. Jusqu’à présent, les cas étaient importés par des personnes ayant voyagé dans des régions où ces virus circulent.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-05T21:19:41+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "a0b079e2e616"
+    },
     {
       "title": "Au Guatemala, l'éruption du volcan de Fuego est désormais terminée, annoncent les experts",
       "url": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/eruptions-volcaniques/au-guatemala-l-eruption-du-volcan-de-fuego-est-desormais-terminee-annoncent-les-experts_8136413.html#xtor=RSS-3-[lestitres]",
@@ -37,9 +87,9 @@
       "url": "https://www.lemonde.fr/planete/article/2026/08/05/au-guatemala-l-eruption-du-volcan-fuego-a-pris-fin_6739467_3244.html",
       "summary": "Aucune victime ni aucun dégât matériel n’ont été enregistrés, alors que son activité s’est amplifiée dans la nuit de lundi à mardi.",
       "image": "https://img.lemde.fr/2026/08/05/688/0/8256/4128/644/322/60/0/5d7a53a_ftp-1-58oxcdlaoz6t-5778588-01-06.jpg",
-      "published_at": "2026-08-05T22:24:36+02:00",
-      "source": "Le Monde",
-      "category": "Société",
+      "published_at": "2026-08-05T22:24:35+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
       "id": "f4dbc9c00346"
     },
     {
@@ -47,9 +97,9 @@
       "url": "https://www.lemonde.fr/afrique/article/2026/08/05/au-nigeria-plus-de-300-victimes-d-enlevements-ont-ete-liberees_6739466_3212.html",
       "summary": "Les victimes ont été libérées d’un lieu situé dans la forêt du parc national du lac Kainji.",
       "image": "https://img.lemde.fr/2026/01/20/400/0/4928/2464/644/322/60/0/1d79472_ftp-1-zhwbblvts1br-2026-01-20t171015z-928877345-rc2y4ja3u6kl-rtrmadp-3-nigeria-security.JPG",
-      "published_at": "2026-08-05T22:22:50+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
+      "published_at": "2026-08-05T22:22:48+02:00",
+      "source": "Le Monde",
+      "category": "Société",
       "id": "2fd3b5f1551c"
     },
     {
@@ -57,7 +107,7 @@
       "url": "https://www.lemonde.fr/international/article/2026/08/05/la-communication-avec-le-guide-supreme-iranien-est-tres-difficile-en-ce-moment-affirme-le-president-iranien_6739465_3210.html",
       "summary": "Blessé lors des attaques dans lesquelles son père a été tué au premier jour de la guerre, Mojtaba Khamenei n’est pas apparu en public depuis sa nomination, en mars.",
       "image": "https://img.lemde.fr/2026/03/08/291/0/3500/1750/644/322/60/0/6109f98_ftp-1-ra8ckek8psbf-5411190-01-06.jpg",
-      "published_at": "2026-08-05T22:11:10+02:00",
+      "published_at": "2026-08-05T22:11:08+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "471e0f9a2c4b"
@@ -85,7 +135,7 @@
     {
       "title": "\"Nos vies sont en suspens\" : des centaines de propriétaires ne verront jamais leur logement, le promoteur Fiducim au cœur des interrogations",
       "url": "https://www.franceinfo.fr/societe/justice/nos-vies-sont-en-suspens-des-centaines-de-proprietaires-ne-verront-jamais-leur-logement-le-promoteur-fiducim-au-c-ur-des-interrogations_8136374.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le promoteur nordiste Fiducim a été placé en liquidation judiciaire et les chantiers de quelque 1 200 logements sont à l’arrêt, certains depuis plusieurs années. Et des acquéreurs sont contraints de rembourser un crédit pour un logement qu’ils n’ont jamais reçu.",
+      "summary": "Le promoteur nordiste Fiducim a été placé en liquidation judiciaire et les chantiers de quelque 1 200 logements sont à l’arrêt, certains depuis plusieurs années. Des acquéreurs sont contraints de rembourser un crédit pour un logement qu’ils n’ont jamais reçu.",
       "image": "https://www.franceinfo.fr/pictures/dsGBbmeHD6wG3DcIhCGBSeTwVNg/0x39:1492x879/432x243/filters:format(jpg):quality(50)/2026/08/05/6a7390e9cb5c4837502112.jpg",
       "published_at": "2026-08-05T21:42:37+02:00",
       "source": "France Info",
@@ -173,19 +223,9 @@
       "id": "f75f05000c93"
     },
     {
-      "title": "Tour de France Femmes : Demi Vollering et les favorites creusent un « écart irrécupérable » avec Pauline Ferrand-Prévot, à nouveau distancée",
-      "url": "https://www.lemonde.fr/sport/article/2026/08/05/tour-de-france-femmes-demi-vollering-et-les-favorites-creusent-un-ecart-irrecuperable-avec-pauline-ferrand-prevot-a-nouveau-distancee_6739461_3242.html",
-      "summary": "Vainqueure l’an passé, la coureuse française a de nouveau flanché, mercredi, et se retrouve à plus de cinq minutes de retard de Demi Vollering, vainqueure devant la maillot jaune, Marlen Reusser et Katarzyna Niewiadoma-Phinney.",
-      "image": "https://img.lemde.fr/2026/08/05/0/0/6652/3326/644/322/60/0/e029141_ftp-1-4cu2f7pzjg0c-5779584-01-06.jpg",
-      "published_at": "2026-08-05T20:49:17+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "73678b492b7f"
-    },
-    {
       "title": "Incendies : dans la Drôme, le feu est «stable» mais toujours pas fixé",
       "url": "https://www.liberation.fr/environnement/en-direct-incendies-apres-une-nuit-calme-les-pompiers-de-la-drome-sattendent-a-une-journee-difficile-20260805_WJYUHXJDYNC2NIOHOPWQAEN5DQ/",
-      "summary": "La surface brûlée par ce brasier qui a débuté lundi a été revue à la baisse ce mercredi 5 août, à environ 240 hectares. Mais «des points chauds subsistent, notamment sur le flanc gauche», a précisé le lieutenant-colonel Alain Pradon.",
+      "summary": "La surface brûlée par ce brasier qui a débuté lundi a été revue à la baisse ce mercredi 5 août, à environ 240 hectares, alors qu’une enquête est en cours pour déterminer l’origine de la violente reprise d’incendie, désormais fixé dans le Var.",
       "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
       "published_at": "2026-08-05T18:48:52+00:00",
       "source": "Libération",
@@ -261,46 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "c39c5d951481"
-    },
-    {
-      "title": "\"Pour le général, c'est irrécupérable\", concède Pauline Ferrand-Prévôt qui ne conservera vraisemblablement pas son titre sur le Tour de France femmes",
-      "url": "https://www.franceinfo.fr/tour-de-france/femmes/les-autres-sont-au-dessus-pour-le-general-c-est-irrecuperable-concede-pauline-ferrand-prevot-qui-ne-conservera-pas-son-titre-sur-le-tour-de-france-femmes_8136278.html#xtor=RSS-3-[lestitres]",
-      "summary": "Distancée dans les monts du Beaujolais, mercredi, la Française compte cinq minutes de retard sur la tête de course, après cinq étapes.",
-      "image": "https://www.franceinfo.fr/pictures/X8p2Ecd6lJ4YNBlm4Xo8wcK3DLU/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/05/6a73749d31980686690064.jpg",
-      "published_at": "2026-08-05T19:47:51+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "a7a013198432"
-    },
-    {
-      "title": "L’Iran dit avoir trouvé un accord avec Oman sur un nouveau tracé dans le détroit d’Ormuz",
-      "url": "https://www.lemonde.fr/international/article/2026/08/05/l-iran-dit-avoir-trouve-un-accord-avec-oman-sur-un-nouveau-trace-dans-le-detroit-d-ormuz_6739360_3211.html",
-      "summary": "Le porte-parole de la diplomatie iranienne a annoncé que les coordonnées géographiques du tracé envisagé par les deux parties ont été approuvées. Les représentants d’Oman n’ont pas encore confirmé l’accord.",
-      "image": "https://img.lemde.fr/2026/08/03/386/0/2609/1304/644/322/60/0/8f6cb8d_ftp-1-9xbsxkbwr3gb-2026-08-03t073334z-269669342-rc2rqma1tkmq-rtrmadp-3-iran-crisis-shipping.JPG",
-      "published_at": "2026-08-05T19:42:12+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "922e65e7b22a"
-    },
-    {
-      "title": "Conversations ambiguës avec des mineures, banalisation du racisme et du sexisme, management toxique : l’animateur Guillaume Pley épinglé par «les Inrocks»",
-      "url": "https://www.liberation.fr/economie/medias/conversations-ambigues-avec-des-mineures-banalisation-du-racisme-et-du-sexisme-management-toxique-lanimateur-guillaume-pley-epingle-par-les-inrocks-20260805_G2KN4MCB35B2JHOXRNP5RVK76U/",
-      "summary": "Plusieurs ex-fans accusent le podcasteur de 41 ans de les avoir draguées par messages alors qu’elles étaient mineures, rapporte le magazine dans une enquête publiée ce mercredi 5 août. Des témoignages décrivent également une ambiance de travail délétère dans son média «Legend».",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-05T17:37:47+00:00",
-      "source": "Libération",
-      "category": "Tech",
-      "id": "24dfe20663bf"
-    },
-    {
-      "title": "La Suissesse Lara Gut-Behrami, triple médaillée olympique et double vainqueure de la Coupe du monde de ski alpin, annonce sa retraite",
-      "url": "https://www.franceinfo.fr/sports/sports-d-hiver/ski-alpin/la-suissesse-lara-gut-behrami-triple-medaillee-olympique-et-double-vainqueur-de-la-coupe-du-monde-de-ski-alpin-annonce-sa-retraite_8136293.html#xtor=RSS-3-[lestitres]",
-      "summary": "La championne olympique de super-G à Pékin, en 2022, avait dû mettre un terme à sa saison l'hiver dernier après avoir été victime, en novembre 2025, d'une fracture de deux ligaments et d'une lésion au ménisque du genou gauche.",
-      "image": "https://www.franceinfo.fr/pictures/5_7sZstpGxvURVW-3Dir9ebQfwE/0x0:4272x2403/432x243/filters:format(jpg):quality(50)/2026/08/05/6a73736a968cd725166190.jpg",
-      "published_at": "2026-08-05T19:33:21+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "94cc190f066d"
     }
   ]
 }
