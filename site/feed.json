@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-08-07T21:48:33.567564+00:00",
+  "generated_at": "2026-08-07T22:47:03.357504+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Investi président de la Colombie, Abelardo de la Espriella promet une offensive contre le narcotrafic",
+      "url": "https://www.lemonde.fr/international/article/2026/08/08/investi-president-de-la-colombie-abelardo-de-la-espriella-promet-une-offensive-contre-le-narcotrafic_6740541_3210.html",
+      "summary": "Le nouveau chef de l’Etat d’extrême droite, avocat millionnaire de 48 ans, entend mettre fin aux pourparlers de paix par lesquels le président sortant a tenté, sans succès, de négocier le désarmement des organisations impliquées dans le narcotrafic.",
+      "image": "https://img.lemde.fr/2026/08/07/0/0/3764/1882/644/322/60/0/b388b93_ftp-1-h0pflht2isj6-be19a30e1e1c49ee8525d529e6790b30-0-6babc736bb124827acd44981c7c58220.jpg",
+      "published_at": "2026-08-08T00:37:32+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "8c87337fe7e9"
+    },
+    {
+      "title": "Incendie dans le Var : le feu du Gros Bessillon est fixé après 18 jours d'une mobilisation inédite des pompiers",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendie-dans-le-var-le-feu-du-gros-bessillon-est-fixe-apres-18-jours-d-une-mobilisation-inedite-des-pompiers_8139155.html#xtor=RSS-3-[lestitres]",
+      "summary": "La vigilance est toujours de mise, a précisé la préfecture, soulignant que 450 pompiers resteront mobilisés sur le terrain tout le week-end.",
+      "image": "https://www.franceinfo.fr/pictures/wDJzbjtl35qdkHn0aCxbLq8_1M0/0x373:7172x4408/432x243/filters:format(jpg):quality(50)/2026/08/07/6a76532247b60006508957.jpg",
+      "published_at": "2026-08-07T23:54:32+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "b194d9771e60"
+    },
     {
       "title": "La déforestation dans l'Amazonie brésilienne est au plus bas sur un an, selon les dernières données satellite",
       "url": "https://www.franceinfo.fr/monde/bresil/la-deforestation-dans-l-amazonie-bresilienne-est-au-plus-bas-sur-un-an-selon-les-dernieres-donnees-satellite_8139152.html#xtor=RSS-3-[lestitres]",
@@ -61,16 +81,6 @@
       "source": "France Info",
       "category": "Économie",
       "id": "86776068da97"
-    },
-    {
-      "title": "Incendie dans le Var : le feu du Gros Bessillon est fixé après 18 jours de mobilisation des pompiers",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendies-les-flammes-progressent-dans-la-drome-trois-departements-en-risque-tres-eleve-de-feux-de-foret_8138174.html#xtor=RSS-3-[lestitres]",
-      "summary": "Il faudra encore plusieurs jours pour le maîtriser et l'éteindre, tempère la préfecture, et 450 pompiers vont rester mobilisés sur le site.",
-      "image": "https://www.franceinfo.fr/pictures/7INLnjDZzOSKatW-YY52Japj49c/0x0:3359x1889/432x243/filters:format(jpg):quality(50)/2026/08/07/6a75dc4ac2cb3116322209.jpg",
-      "published_at": "2026-08-07T22:10:22+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "5b959a5dabe8"
     },
     {
       "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky est arrivé en Serbie, alliée de Moscou, une première depuis le début de l’invasion russe",
@@ -291,16 +301,6 @@
       "source": "Libération",
       "category": "International",
       "id": "cbfbfe927766"
-    },
-    {
-      "title": "L'OMS appelle à organiser un essai clinique avec l'ancien vaccin Ervebo pour lutter contre l'épidémie d'Ebola en République démocratique du Congo",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-oms-appelle-a-organiser-un-essai-clinique-avec-l-ancien-vaccin-ervebo-pour-lutter-contre-le-nouveau-variant-d-ebola-qui-sevit-en-republique-democratique-du-congo_8138966.html#xtor=RSS-3-[lestitres]",
-      "summary": "Certaines données préliminaires sont encourageantes, et aucun problème de sécurité majeur n'a été relevé. A terme, l'objectif reste de trouver un vaccin spécifique.",
-      "image": "https://www.franceinfo.fr/pictures/p2cwqR4SOXtz9kmZEWXwGWTp8wY/0x325:6240x3835/432x243/filters:format(jpg):quality(50)/2026/08/07/6a7613d47eeab171651276.jpg",
-      "published_at": "2026-08-07T19:33:58+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "fabf5e56afdd"
     }
   ]
 }
