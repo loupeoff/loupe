@@ -7,11 +7,21 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Fri, 07 Aug 2026 22:47:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 23:40:15 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
   <item>
-    <title>Investi président de la Colombie, Abelardo de la Espriella promet une offensive contre le narcotrafic</title>
+    <title>La déforestation de l’Amazonie brésilienne poursuit une baisse historique, dans la lignée de la promesse de campagne de Lula</title>
+    <link>https://www.lemonde.fr/planete/article/2026/08/08/la-deforestation-de-l-amazonie-bresilienne-poursuit-une-baisse-historique-dans-la-lignee-de-la-promesse-de-campagne-de-lula_6740574_3244.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/planete/article/2026/08/08/la-deforestation-de-l-amazonie-bresilienne-poursuit-une-baisse-historique-dans-la-lignee-de-la-promesse-de-campagne-de-lula_6740574_3244.html</guid>
+    <pubDate>Sat, 08 Aug 2026 01:22:50 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[D’août 2025 à juillet 2026, 2 874 km2 ont été déboisés dans la partie brésilienne de la plus grande forêt tropicale du monde, une chute de 37 % par rapport aux douze mois précédents. La déforestation avait connu un pic à 10 278 km2 sur l’année civile 2022, sous Jair Bolsonaro, le prédécesseur de Lula.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/08/05/477/0/7420/3710/644/322/60/0/abf3867_ftp-1-y64ir7hvwf2z-5781699-01-06.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Investi président de la Colombie, Abelardo de la Espriella promet de combattre « sans répit le narcoterrorisme » dans le pays</title>
     <link>https://www.lemonde.fr/international/article/2026/08/08/investi-president-de-la-colombie-abelardo-de-la-espriella-promet-une-offensive-contre-le-narcotrafic_6740541_3210.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/08/08/investi-president-de-la-colombie-abelardo-de-la-espriella-promet-une-offensive-contre-le-narcotrafic_6740541_3210.html</guid>
     <pubDate>Sat, 08 Aug 2026 00:37:32 +0000</pubDate>
@@ -64,7 +74,7 @@
     <title>Crise de Ceuta : l’Union européenne demande à Meta et TikTok de renforcer la surveillance et la vérification des faits</title>
     <link>https://www.lemonde.fr/international/article/2026/08/07/crise-de-ceuta-l-union-europeenne-demande-a-meta-et-tiktok-de-renforcer-la-surveillance-et-la-verification-des-faits_6740540_3210.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/08/07/crise-de-ceuta-l-union-europeenne-demande-a-meta-et-tiktok-de-renforcer-la-surveillance-et-la-verification-des-faits_6740540_3210.html</guid>
-    <pubDate>Fri, 07 Aug 2026 23:06:52 +0000</pubDate>
+    <pubDate>Fri, 07 Aug 2026 23:06:50 +0000</pubDate>
     <category>Tech</category>
     <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[« Les plateformes doivent agir de manière décisive pour préserver l’intégrité de l’espace numérique, en particulier en situation de crise », a déclaré Henna Virkkunen, après des discussions menées entre la Commission européenne et les deux plateformes.]]></description>
@@ -239,16 +249,6 @@
     <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[Aucun auteur n’a été « identifié ou désigné » et il n’y a pas eu d’interpellation, selon la procureure de la République de Lorient.]]></description>
     <enclosure url="https://img.lemde.fr/2026/08/07/500/0/6000/3000/644/322/60/0/7c36909_upload-1-gjq4nrdiowpm-000-b2vl49e.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Trenitalia commande 19 trains à Hitachi et confirme l’ouverture de la liaison Paris-Londres en 2029</title>
-    <link>https://www.lemonde.fr/economie/article/2026/08/07/trenitalia-commande-19-trains-a-hitachi-et-confirme-l-ouverture-de-la-liaison-paris-londres-en-2029_6740535_3234.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/economie/article/2026/08/07/trenitalia-commande-19-trains-a-hitachi-et-confirme-l-ouverture-de-la-liaison-paris-londres-en-2029_6740535_3234.html</guid>
-    <pubDate>Fri, 07 Aug 2026 20:09:05 +0000</pubDate>
-    <category>Économie</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Les nouveaux trains de la filiale du groupe ferroviaire italien seront conçus pour circuler sur les principaux réseaux européens à grande vitesse. Ils doivent encore être homologués pour le tunnel sous la Manche et pour le marché britannique.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/08/07/767/0/5540/2770/644/322/60/0/c6b71af_upload-1-qbwidxk57y4m-000-628c4g4.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Tour de France : Kasia Niewiadoma première dame du Ventoux</title>
