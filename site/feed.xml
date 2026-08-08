@@ -7,16 +7,26 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Sat, 08 Aug 2026 19:36:33 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 20:38:56 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>Antibes n&apos;a pas connu de températures en dessous de 30 degrés depuis deux mois</title>
+    <link>https://www.franceinfo.fr/replay-jt/france-2/20-heures/antibes-n-a-pas-connu-de-temperatures-en-dessous-de-30-degres-depuis-deux-mois_8140124.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/replay-jt/france-2/20-heures/antibes-n-a-pas-connu-de-temperatures-en-dessous-de-30-degres-depuis-deux-mois_8140124.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Sat, 08 Aug 2026 21:35:18 +0000</pubDate>
+    <category>Société</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[À Antibes (Alpes-Maritimes), voilà deux mois que les températures ne sont pas descendues en dessous des 30 degrés l’après-midi. Les habitants cherchent désespérément un peu de fraîcheur.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/6R0lOyPGJGmweErC9LMQ6B2Eeb8/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/08/6a7777244dd70451566527.jpg" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>Colombie : l’attaque d’un péage imputée aux dissidents des Farc au lendemain de l’investiture du nouveau président</title>
     <link>https://www.lemonde.fr/international/article/2026/08/08/colombie-l-attaque-d-un-peage-imputee-aux-dissidents-des-farc-au-lendemain-de-l-investiture-du-nouveau-president_6741582_3210.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/08/08/colombie-l-attaque-d-un-peage-imputee-aux-dissidents-des-farc-au-lendemain-de-l-investiture-du-nouveau-president_6741582_3210.html</guid>
     <pubDate>Sat, 08 Aug 2026 21:27:49 +0000</pubDate>
     <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[Des explosifs ont détruit un péage en construction sur la route panaméricaine, près de Cali, selon l’armée. La veille, lors de son investiture, Abelardo de la Espriella a promis de combattre « sans répit le narcoterrorisme et toutes les organisations criminelles ».]]></description>
     <enclosure url="https://img.lemde.fr/2026/08/08/456/0/5472/2736/644/322/60/0/ce52c68_ftp-1-qdrspc5wi1sp-acf073a858c34cf684c59fe9f42c17d2-1-5de2a2214fad45d2a3261e82d6f1ef5e.jpg" type="image/jpeg" length="0" />
   </item>
@@ -49,16 +59,6 @@
     <source url="https://loupeoff.github.io/loupe">France Info</source>
     <description><![CDATA[Le site de la Bundeswehr stocke équipements et pièces de rechange dans un dépôt souterrain aménagé à 130 mètres de profondeur. Il abrite aussi des éléments du système américain de défense antiaérienne Patriot, destiné à intercepter les missiles de croisière et balistiques ainsi que les aéronefs.]]></description>
     <enclosure url="https://www.franceinfo.fr/pictures/AYGvP4opnKv2KhNy6IZuVJgoQCs/0x74:1024x650/432x243/filters:format(jpg):quality(50)/2026/08/08/6a7776b172667185804527.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Antibes n&apos;a pas connu de températures en dessous de 30 degrés depuis deux mois</title>
-    <link>https://www.franceinfo.fr/replay-jt/france-2/20-heures/antibes-n-a-pas-connu-de-temperatures-en-dessous-de-30-degres-depuis-deux-mois_8140124.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/replay-jt/france-2/20-heures/antibes-n-a-pas-connu-de-temperatures-en-dessous-de-30-degres-depuis-deux-mois_8140124.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sat, 08 Aug 2026 20:39:45 +0000</pubDate>
-    <category>Société</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[À Antibes (Alpes-Maritimes), voilà deux mois que les températures ne sont pas descendues en dessous des 30 degrés l’après-midi. Les habitants cherchent désespérément un peu de fraîcheur.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/6R0lOyPGJGmweErC9LMQ6B2Eeb8/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/08/6a7777244dd70451566527.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Ce que l&apos;on sait de l&apos;explosion d&apos;un drone en Bulgarie, près d&apos;un gazoduc situé à la frontière avec la Roumanie</title>
@@ -131,6 +131,16 @@
     <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
   </item>
   <item>
+    <title>Les moulinets hypnotiques d’André Pailloux, peintre-ouvrier disciple du vent et des couleurs</title>
+    <link>https://www.lemonde.fr/series-d-ete/article/2026/08/08/les-moulinets-hypnotiques-d-andre-pailloux-peintre-ouvrier-disciple-du-vent-et-des-couleurs_6741515_3451060.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/series-d-ete/article/2026/08/08/les-moulinets-hypnotiques-d-andre-pailloux-peintre-ouvrier-disciple-du-vent-et-des-couleurs_6741515_3451060.html</guid>
+    <pubDate>Sat, 08 Aug 2026 19:00:04 +0000</pubDate>
+    <category>Société</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[« La France de l’art brut » (6/6). A Brem-sur-Mer, en Vendée, cet ancien peintre de chantier naval a créé un jardin extraordinaire, jungle de PVC et de bois de récupération.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/07/21/1051/0/3467/1733/644/322/60/0/4dfebba_upload-1-p4ml1il224jb-20260708-cl-artbrut-andrepailloux-13.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
     <title>EN DIRECT, guerre en Ukraine : Kiev assure ne pas avoir visé « délibérément » la Bulgarie, après la chute d’un drone correspondant à ceux utilisés par l’armée ukrainienne</title>
     <link>https://www.lemonde.fr/international/live/2026/08/08/en-direct-guerre-en-ukraine-kiev-assure-ne-pas-avoir-vise-deliberement-la-bulgarie-apres-la-chute-d-un-drone-correspondant-a-ceux-utilises-par-l-armee-ukrainienne_6737250_3210.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/08/08/en-direct-guerre-en-ukraine-kiev-assure-ne-pas-avoir-vise-deliberement-la-bulgarie-apres-la-chute-d-un-drone-correspondant-a-ceux-utilises-par-l-armee-ukrainienne_6737250_3210.html</guid>
@@ -146,7 +156,7 @@
     <guid isPermaLink="true">https://www.lemonde.fr/societe/article/2026/08/08/hebergement-d-urgence-l-etat-condamne-a-verser-plus-de-500-000-euros-a-la-ville-de-strasbourg-pour-carence_6741514_3224.html</guid>
     <pubDate>Sat, 08 Aug 2026 18:47:00 +0000</pubDate>
     <category>Économie</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Politique</source>
     <description><![CDATA[Cette somme correspond aux frais d’hébergement dans un gymnase municipal de plusieurs personnes sans abri à Strasbourg. En mars et novembre 2025, l’Etat avait déjà été condamné pour « carence fautive » à indemniser les villes de Grenoble et Bordeaux.]]></description>
     <enclosure url="https://img.lemde.fr/2017/03/30/555/0/4600/2300/644/322/60/0/5f5695a_2535-hfcsuh.jhwt7c766r.jpg" type="image/jpeg" length="0" />
   </item>
@@ -256,7 +266,7 @@
     <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/08/08/crise-de-ceuta-en-espagne-debut-des-controles-aux-frontieres-pour-les-voyageurs-venant-d-italie-en-reponse-aux-mesures-similaires-prises-par-rome_6741510_3210.html</guid>
     <pubDate>Sat, 08 Aug 2026 17:59:22 +0000</pubDate>
     <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
     <description><![CDATA[Les autorités espagnoles effectueront des contrôles sur les liaisons aériennes et maritimes avec l’Italie « de manière aléatoire » jusqu’au 7 septembre, a précisé, samedi, le ministère de l’intérieur.]]></description>
     <enclosure url="https://img.lemde.fr/2026/08/08/60/0/1920/960/644/322/60/0/b13355a_ftp-1-9midavsxi1ql-2026-08-08t113635z-1715947274-rc2bumakzmt3-rtrmadp-3-migration-europe-spain-ceuta-rome.JPG" type="image/jpeg" length="0" />
   </item>
@@ -289,16 +299,6 @@
     <source url="https://loupeoff.github.io/loupe">Libération</source>
     <description><![CDATA[Un drone a explosé samedi 8 août près de la frontière roumaine et d’une installation gazière stratégique. Il pourrait s’agir d’un engin utilisé par l’armée ukrainienne, selon le ministère bulgare de la Défense.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>La mort de William Orbit, compositeur électro de génie et producteur de l’album « Ray of Light » de Madonna</title>
-    <link>https://www.lemonde.fr/disparitions/article/2026/08/08/la-mort-de-william-orbit-compositeur-electro-de-genie-et-producteur-de-l-album-ray-of-light-de-madonna_6741444_3382.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/disparitions/article/2026/08/08/la-mort-de-william-orbit-compositeur-electro-de-genie-et-producteur-de-l-album-ray-of-light-de-madonna_6741444_3382.html</guid>
-    <pubDate>Sat, 08 Aug 2026 17:14:06 +0000</pubDate>
-    <category>Culture</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Le musicien britannique avait mis son talent au service de nombreux artistes ou groupes, comme Etienne Daho, Blur ou U2. Il s’est éteint le 23 juillet à 69 ans.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/08/07/216/0/3000/1500/644/322/60/0/5de4d9a_upload-1-1kiuukdvhxd8-maxpeoplefr417858.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Les Emirats arabes unis affirment qu&apos;un pétrolier émirati a été ciblé par l&apos;Iran dans le détroit d&apos;Ormuz</title>
