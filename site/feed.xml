@@ -7,9 +7,19 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Sat, 08 Aug 2026 22:37:40 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 23:36:11 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>EN DIRECT, guerre en Ukraine : le drone qui s’est écrasé samedi en Bulgarie est d’un type « largement utilisé par les forces armées ukrainiennes »</title>
+    <link>https://www.lemonde.fr/international/live/2026/08/09/en-direct-guerre-en-ukraine-le-drone-qui-s-est-ecrase-samedi-en-bulgarie-est-d-un-type-largement-utilise-par-les-forces-armees-ukrainiennes_6737250_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/08/09/en-direct-guerre-en-ukraine-le-drone-qui-s-est-ecrase-samedi-en-bulgarie-est-d-un-type-largement-utilise-par-les-forces-armees-ukrainiennes_6737250_3210.html</guid>
+    <pubDate>Sun, 09 Aug 2026 01:24:19 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[Le ministère de la défense bulgare a nuancé ses propos en précisant qu’« à l’heure actuelle, rien ne permet de penser qu’il s’agit d’un incident délibéré ». La diplomatie ukrainienne a assuré que l’Ukraine n’avait pas visé « délibérément » la Bulgarie avec cet engin, et promis une enquête pour éclaircir les circonstances de sa chute.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/08/08/586/0/5753/2876/644/322/60/0/876bad3_ftp-1-bcuoe4nuvlsp-5799333-01-06.jpg" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>Dans le Vaucluse, un ancien légionnaire placé en détention provisoire pour le meurtre de son ex-compagne</title>
     <link>https://www.lemonde.fr/societe/article/2026/08/09/dans-le-vaucluse-un-ancien-legionnaire-place-en-detention-provisoire-pour-le-meurtre-de-son-ex-compagne_6741648_3224.html</link>
@@ -141,14 +151,14 @@
     <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>EN DIRECT, guerre en Ukraine : Kiev assure ne pas avoir visé « délibérément » la Bulgarie, après la chute d’un drone correspondant à ceux utilisés par l’armée ukrainienne</title>
-    <link>https://www.lemonde.fr/international/live/2026/08/08/en-direct-guerre-en-ukraine-kiev-assure-ne-pas-avoir-vise-deliberement-la-bulgarie-apres-la-chute-d-un-drone-correspondant-a-ceux-utilises-par-l-armee-ukrainienne_6737250_3210.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/08/08/en-direct-guerre-en-ukraine-kiev-assure-ne-pas-avoir-vise-deliberement-la-bulgarie-apres-la-chute-d-un-drone-correspondant-a-ceux-utilises-par-l-armee-ukrainienne_6737250_3210.html</guid>
-    <pubDate>Sat, 08 Aug 2026 18:58:26 +0000</pubDate>
-    <category>International</category>
+    <title>Les moulinets hypnotiques d’André Pailloux, peintre-ouvrier disciple du vent et des couleurs</title>
+    <link>https://www.lemonde.fr/series-d-ete/article/2026/08/08/les-moulinets-hypnotiques-d-andre-pailloux-peintre-ouvrier-disciple-du-vent-et-des-couleurs_6741515_3451060.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/series-d-ete/article/2026/08/08/les-moulinets-hypnotiques-d-andre-pailloux-peintre-ouvrier-disciple-du-vent-et-des-couleurs_6741515_3451060.html</guid>
+    <pubDate>Sat, 08 Aug 2026 19:00:01 +0000</pubDate>
+    <category>Société</category>
     <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Ce drone a explosé ce matin près de la frontière avec la Roumanie et d’un gazoduc. « Nous sommes en contact étroit avec la partie bulgare afin de clarifier les circonstances » de l’incident, a affirmé en fin d’après-midi le porte-parole du ministère ukrainien des affaires étrangères.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/08/08/772/0/5424/2712/644/322/60/0/9b89b53_ftp-1-p47ehykg6wzf-2026-08-08t115356z-1282797557-rc2i9maw3h8j-rtrmadp-3-bulgaria-drone-explosion.JPG" type="image/jpeg" length="0" />
+    <description><![CDATA[« La France de l’art brut » (6/6). A Brem-sur-Mer, en Vendée, cet ancien peintre de chantier naval a créé un jardin extraordinaire, jungle de PVC et de bois de récupération.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/07/21/1051/0/3467/1733/644/322/60/0/4dfebba_upload-1-p4ml1il224jb-20260708-cl-artbrut-andrepailloux-13.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Hébergement d’urgence : l’Etat condamné à verser plus de 500 000 euros à la ville de Strasbourg pour « carence »</title>
@@ -286,7 +296,7 @@
     <guid isPermaLink="true">https://www.lemonde.fr/disparitions/article/2026/08/08/jorge-messi-le-pere-et-agent-du-ballon-d-or-lionel-messi-est-mort-a-l-age-de-68-ans_6741477_3382.html</guid>
     <pubDate>Sat, 08 Aug 2026 17:35:27 +0000</pubDate>
     <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
     <description><![CDATA[Figure tutélaire tout au long de la carrière de son fils, il avait été son premier entraîneur en Argentine, son unique compagnon dans les débuts difficiles à Barcelone, avant de devenir son agent et de négocier en son nom des contrats astronomiques.]]></description>
     <enclosure url="https://img.lemde.fr/2026/08/08/275/0/4943/2472/644/322/60/0/1165ad7_ftp-1-eff01juu3nv7-5797517-01-06.jpg" type="image/jpeg" length="0" />
   </item>
@@ -299,16 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">Libération</source>
     <description><![CDATA[Un drone a explosé samedi 8 août près de la frontière roumaine et d’une installation gazière stratégique. Il pourrait s’agir d’un engin utilisé par l’armée ukrainienne, selon le ministère bulgare de la Défense.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Les Emirats arabes unis affirment qu&apos;un pétrolier émirati a été ciblé par l&apos;Iran dans le détroit d&apos;Ormuz</title>
-    <link>https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-emirats-arabes-unis-affirment-qu-un-petrolier-emirati-a-ete-cible-dans-le-detroit-d-ormuz-par-l-iran_8139770.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-emirats-arabes-unis-affirment-qu-un-petrolier-emirati-a-ete-cible-dans-le-detroit-d-ormuz-par-l-iran_8139770.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sat, 08 Aug 2026 17:10:04 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Un navire a bien été ciblé samedi par "un projectile" dans le détroit d'Ormuz, a alerté l'agence maritime britannique UKMTO sans en préciser l'origine. Oman a par ailleurs estimé que les discussions avec Téhéran sur la future gestion du corridor maritime étaient "positives".]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/7gCWUrAuRymOtdNI83NYHlxzapY/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/08/6a771a4fa5e14055812011.jpg" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>
