@@ -1,16 +1,156 @@
 {
-  "generated_at": "2026-08-09T16:45:14.869978+00:00",
+  "generated_at": "2026-08-09T17:38:29.993225+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Incendie dans la Drôme : \"Deux réactivations importantes\" ont été observées dimanche matin, annonce la préfecture",
+      "title": "Découvrez Letter Up, notre jeu de société de la semaine, mélange de deux genres que tout oppose",
+      "url": "https://www.numerama.com/pop-culture/2308447-letter-up.html",
+      "summary": "Imaginez que le Scrabble et le Risk aient un bébé… Letter Up, c’est un peu ça. Un étonnant mélange entre jeu de lettres et conquête de territoires, le tout dans une version très, très légère. Un mariage des genres pour le moins surprenant ! Comment ça se joue ? Quel est notre avis ? On vous dit tout.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-09T17:31:00+00:00",
+      "source": "Numerama",
+      "category": "Sport",
+      "id": "cf68a794eb88"
+    },
+    {
+      "title": "Canicules et sécheresse : le jour sans fin des agriculteurs",
+      "url": "https://www.liberation.fr/idees-et-debats/canicules-et-secheresse-le-jour-sans-fin-des-agriculteurs-20260809_LBLY7666ORCXNKKZYXDJYPART4/",
+      "summary": "Cultivateurs et éleveurs sont à bout de souffle. Cette fois, les pansements provisoires pour répondre aux crises ne suffiront plus. C’est tout un modèle de fonctionnement, d’existence, qui doit être profondément repensé.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-09T17:27:53+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "daf8df51e499"
+    },
+    {
+      "title": "EN DIRECT – Vague de chaleur : 22 départements du quart sud-est placés en vigilance orange canicule lundi",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-un-feu-en-cours-sur-un-camp-militaire-en-gironde-dans-une-zone-polluee-et-impenetrable-20260809_GINLHM4TYRBTTGBN7BSTCMEAEY/",
+      "summary": "Dans son bulletin de 16 heures, Météo France précise qu’un nouvel épisode caniculaire va s’étendre à de nombreuses régions de France dans les prochains jours, après un «léger repli à l’échelle nationale» lundi.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-09T17:27:30+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "a9498cb153c5"
+    },
+    {
+      "title": "Championnats d’Europe de natation à Saint-Denis : «Les nageurs ont vraiment enclenché la machine vers les Jeux olympiques»",
+      "url": "https://www.liberation.fr/sports/championnats-deurope-de-natation-a-saint-denis-les-nageurs-ont-vraiment-enclenche-la-machine-vers-les-jeux-olympiques-20260809_44XXLW5ZIVH3ZASMQFMVEVPNHM/",
+      "summary": "Les championnats d’Europe qui débutent ce lundi 10 août se situent pile entre les Jeux de Paris et Los Angeles. Un point d’étape qui influence la préparation et l’état d’esprit des athlètes, selon Mathieu Neuillet, l’un des entraîneurs des tricolores.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-09T17:27:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "0ab90f8f9b1d"
+    },
+    {
+      "title": "Vingt-deux départements, du Cher à la Corse, placés en vigilance orange \"canicule\" pour la journée de lundi",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/huit-departements-du-sud-ouest-de-la-france-hexagonale-passeront-en-vigilance-orange-orage-dimanche-en-fin-d-apres-midi-treize-autres-departements-en-vigilance-orange-canicule_8140418.html#xtor=RSS-3-[lestitres]",
+      "summary": "Huit départements du Sud-Ouest sont par ailleurs placés en vigilance orange aux orages dimanche, treize autres en alerte orange \"canicule\".",
+      "image": "https://www.franceinfo.fr/pictures/Ts4fUXJVxTOvUYjX9mLk4_oDcI4/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/09/6a788c3087e91369090099.jpg",
+      "published_at": "2026-08-09T19:22:48+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a2c6bd26407f"
+    },
+    {
+      "title": "Incendies en France : en Lozère, un feu parcourt plus de 100 hectares, une vingtaine d'habitations évacuées",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-direct-incendie-dans-la-drome-deux-reactivations-importantes-observees-dimanche-matin_8140745.html#xtor=RSS-3-[lestitres]",
       "summary": "Le feu déclenché lundi a brûlé 320 hectares. Un peu plus de 400 pompiers sont toujours mobilisés par la lutte contre l'incendie.",
-      "image": "https://www.franceinfo.fr/pictures/lB88doVCeSR9FVNLJKKbzlL_DWI/0x346:4800x3046/432x243/filters:format(jpg):quality(50)/2026/08/09/6a7861cdf1207346416103.jpg",
-      "published_at": "2026-08-09T18:37:20+02:00",
+      "image": "https://www.franceinfo.fr/pictures/cAXWmwkUzr9yJeJoMoM0cyFVtG0/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/09/6a78ae9081cd9051636508.jpg",
+      "published_at": "2026-08-09T19:13:15+02:00",
       "source": "France Info",
       "category": "Sport",
       "id": "c74c071a05b9"
+    },
+    {
+      "title": "Tour de France : Demi Vollering remporte un deuxième titre après avoir roulé sa boss",
+      "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-demi-vollering-remporte-un-deuxieme-titre-apres-avoir-roule-sa-boss-20260809_7ZLRDYPRS5FHTJ2IH6LXXDH7SM/",
+      "summary": "La Néerlandaise de 29 ans a remporté sa deuxième Grande Boucle ce dimanche 9 août, après avoir fait céder sa rivale polonaise Katarzyna Niewiadoma au cours du week-end.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-09T17:05:22+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "520041968e64"
+    },
+    {
+      "title": "Mis en cause par des syndicats, Gérald Darmanin publie le contenu de son courrier sur les défaillances des enquêtes pour violences sexuelles sur mineurs",
+      "url": "https://www.franceinfo.fr/societe/justice/mis-en-cause-par-des-syndicats-gerald-darmanin-publie-le-contenu-de-son-courrier-sur-les-defaillances-des-enquetes-pour-violences-sexuelles-sur-mineurs_8140910.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"On a l'impression que Gérald Darmanin\" découvre \"l'état des services de police et de gendarmerie\", avait critiqué la secrétaire nationale du Syndicat de la magistrature, après la publication la veille par \"Le Monde\" d'un document revenant sur les défaillances dans le traitement des dossiers de violences sexuelles faites aux enfants.",
+      "image": "https://www.franceinfo.fr/pictures/CLVaT-JuYh2bWFRKTT5WYUCAohU/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/09/6a78a3cb5a8a5851966140.jpg",
+      "published_at": "2026-08-09T19:04:32+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "ba1ec7c2195d"
+    },
+    {
+      "title": "Ce qu’il faut retenir de l’actualité du week-end des 8 et 9 août",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/08/09/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-8-et-9-aout_6742708_4355770.html",
+      "summary": "Vous n’avez pas suivi l’actualité ? Voici ce qu’il s’est passé pendant ces dernières quarante-huit heures.",
+      "image": "https://img.lemde.fr/2026/07/22/471/0/5649/2824/644/322/60/0/ae9f8d1_ftp-1-rpjjanj93cwd-2026-07-22t102716z-1512992204-rc2yimaseen5-rtrmadp-3-france-politics.JPG",
+      "published_at": "2026-08-09T19:00:08+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "df123d3eac9b"
+    },
+    {
+      "title": "Demi Vollering parachève son deuxième sacre sur le Tour de France femmes en remportant la 9e et dernière étape en solitaire",
+      "url": "https://www.franceinfo.fr/tour-de-france/femmes/demi-vollering-paracheve-son-deuxieme-sacre-sur-le-tour-de-france-femmes-en-remportant-la-9e-et-derniere-etape-en-solitaire_8141015.html#xtor=RSS-3-[lestitres]",
+      "summary": "Déjà sacrée en 2023, la Néerlandaise a fait mieux que défendre son maillot jaune sur les pentes du col d'Eze, gravi quatre fois par les coureuses pour le dénouement du Tour.",
+      "image": "https://www.franceinfo.fr/pictures/QBZ7zFO1p2b3yy62hS_v8OwoifA/0x0:6096x3429/432x243/filters:format(jpg):quality(50)/2026/08/09/6a78b85d289f3374824303.jpg",
+      "published_at": "2026-08-09T18:58:08+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "fa19f1dfae89"
+    },
+    {
+      "title": "Jannik Sinner forfait à Cincinnati, de mauvais augure à trois semaines de l'US Open ?",
+      "url": "https://www.franceinfo.fr/sports/tennis/jannik-sinner-forfait-a-cincinnati-de-mauvais-augure-a-trois-semaines-de-l-us-open_8141009.html#xtor=RSS-3-[lestitres]",
+      "summary": "Blessé au genou droit, le numéro un mondial ne participera pas au tournoi dans l'Ohio a annoncé, dimanche, la direction.",
+      "image": "https://www.franceinfo.fr/pictures/UEfu8DrwYIXpzau7XiffhsMVOqc/0x211:3239x2033/432x243/filters:format(jpg):quality(50)/2026/05/28/6a186f4e0649a260062812.jpg",
+      "published_at": "2026-08-09T18:55:08+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a98076312c5d"
+    },
+    {
+      "title": "Confrontée aux canicules et à la sécheresse, l’agriculture française cherche de l’air",
+      "url": "https://www.liberation.fr/economie/confrontee-aux-canicules-et-a-la-secheresse-lagriculture-francaise-cherche-de-lair-20260809_TT7K3HSCLRASVP7JVZQNB436LQ/",
+      "summary": "Face à une production de fruits et légumes, de lait et de fourrage en chute libre, les syndicats agricoles demandent à la grande distribution de rogner sur ses marges et réclament de l’aide aux pouvoirs publics.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-09T16:48:00+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "531c198d6855"
+    },
+    {
+      "title": "En images, trente ans après le meurtre de Tupac Shakur, le procès s’ouvre",
+      "url": "https://www.lemonde.fr/videos/video/2026/08/09/en-images-trente-ans-apres-le-meurtre-de-tupac-shakur-le-proces-s-ouvre_6742706_1669088.html",
+      "summary": "Le procès de l’ancien chef de gang Duane « Keefe D » Davis, accusé d’avoir organisé et participé au meurtre du célèbre rappeur, s’ouvre ce lundi.",
+      "image": "https://img.lemde.fr/2026/08/04/447/0/3685/1842/644/322/60/0/f0d8962_ftp-1-yyc1ovv6w1d7-2026-08-04t214303z-2072508668-rc2trma9zotk-rtrmadp-3-people-tupac-shakur.JPG",
+      "published_at": "2026-08-09T18:46:11+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "4ce1b53594bd"
+    },
+    {
+      "title": "Népal : les corps de cinq alpinistes récupérés sur le mont Yalung Ri, huit mois après leur disparition dans une avalanche",
+      "url": "https://www.lemonde.fr/international/article/2026/08/09/nepal-les-corps-de-cinq-alpinistes-recuperes-sur-le-mont-yalung-ri-huit-mois-apres-leur-disparition-dans-une-avalanche_6742705_3210.html",
+      "summary": "Deux Népalais, un Italo-Canadien, un Allemand et un Italien avaient été emportés par une avalanche en novembre 2025 sur les flancs de ce mont qui culmine à 5 630 mètres. Leurs corps ont été retrouvés jeudi.",
+      "image": "https://img.lemde.fr/2026/08/08/270/0/8640/4320/644/322/60/0/8a27e0c_upload-1-rhoircthnrwq-071-741-6922.jpg",
+      "published_at": "2026-08-09T18:46:07+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "a2b195e2a743"
+    },
+    {
+      "title": "En campagne, Gabriel Attal promet un plan \"massif\" sur l'eau s'il est élu président",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/en-campagne-gabriel-attal-promet-un-plan-massif-sur-l-eau-s-il-est-elu-president_8140991.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le candidat à la présidentielle en 2027 affirme, s'il est élu, vouloir \"lancer la plus grande chasse au gâchis (...) jamais menée\".",
+      "image": "https://www.franceinfo.fr/pictures/yu9Ckgw_y3K0rCWUUKLB9AAZ8g0/0x66:1024x642/432x243/filters:format(jpg):quality(50)/2026/08/09/6a78abd5dfbfe575076912.jpg",
+      "published_at": "2026-08-09T18:45:43+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "83a83285beeb"
     },
     {
       "title": "Le typhon Dolphin a touché terre en Chine, vols suspendus et évacuations",
@@ -53,44 +193,14 @@
       "id": "34e86cee6249"
     },
     {
-      "title": "EN DIRECT – Vague de chaleur : 22 départements du quart sud-est placés en vigilance orange canicule lundi",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-un-feu-en-cours-sur-un-camp-militaire-en-gironde-dans-une-zone-polluee-et-impenetrable-20260809_GINLHM4TYRBTTGBN7BSTCMEAEY/",
-      "summary": "Dans son bulletin de 16 heures, Météo France précise qu’un nouvel épisode caniculaire va s’étendre à de nombreuses régions de France dans les prochains jours, après un «léger repli à l’échelle nationale» lundi.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-09T16:16:41+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "a9498cb153c5"
-    },
-    {
       "title": "EN DIRECT, guerre en Ukraine : un drone de combat explose en Moldavie, près de la frontière entre les deux pays",
       "url": "https://www.lemonde.fr/international/live/2026/08/09/en-direct-guerre-en-ukraine-un-drone-de-combat-explose-en-moldavie-pres-de-la-frontiere-entre-les-deux-pays_6741928_3210.html",
       "summary": "Une « puissante explosion », qui serait due à un drone de combat, a été signalée dans le village de Crocmaz, dans le sud-est de la Moldavie. Les fragments sont analysés par des spécialistes.",
-      "image": "https://img.lemde.fr/2026/08/09/418/0/3657/1828/644/322/60/0/d3de027_ftp-1-tzmkamoh9bfr-2026-08-09t071817z-1761331309-rc2tuma1agk3-rtrmadp-3-ukraine-crisis-attack-kharkiv.JPG",
+      "image": "https://img.lemde.fr/2026/08/09/1300/0/7390/3695/644/322/60/0/74be74e_upload-1-vg6ymteglrvc-000-93z879g.jpg",
       "published_at": "2026-08-09T18:10:59+02:00",
       "source": "Le Monde",
       "category": "International",
       "id": "e76d42c35e95"
-    },
-    {
-      "title": "Tour de France femmes 2026 : suivez la 9e et dernière étape qui attend les coureuses de la Grande Boucle",
-      "url": "https://www.franceinfo.fr/tour-de-france/femmes/en-direct-tour-de-france-femmes-2026-une-derniere-etape-cruciale-attend-les-coureuses-de-la-grand-boucle_8140544.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les coureuses du Tour de France se mesurent au col d'Eze lors de la 9e et dernière étape.",
-      "image": "https://www.franceinfo.fr/pictures/NCOGuPiKWdn61-csf2No-fWHlUM/0x0:3110x1749/432x243/filters:format(jpg):quality(50)/2026/08/09/6a783ada5a9e3929757254.jpg",
-      "published_at": "2026-08-09T18:07:34+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "3663326f89ce"
-    },
-    {
-      "title": "Vingt-deux départements, du Cher à la Corse, placés en vigilance orange \"canicule\" pour la journée de lundi",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/huit-departements-du-sud-ouest-de-la-france-hexagonale-passeront-en-vigilance-orange-orage-dimanche-en-fin-d-apres-midi-treize-autres-departements-en-vigilance-orange-canicule_8140418.html#xtor=RSS-3-[lestitres]",
-      "summary": "Huit départements du Sud-Ouest sont par ailleurs placés en vigilance orange aux orages dimanche, treize autres en alerte orange \"canicule\".",
-      "image": "https://www.franceinfo.fr/pictures/Ts4fUXJVxTOvUYjX9mLk4_oDcI4/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/09/6a788c3087e91369090099.jpg",
-      "published_at": "2026-08-09T18:04:10+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "a2c6bd26407f"
     },
     {
       "title": "L’été contrarié de Léon Marchand, diminué par une blessure à l’approche des championnats d’Europe de natation à Paris",
@@ -131,16 +241,6 @@
       "source": "France Info",
       "category": "International",
       "id": "89fb1d4381dd"
-    },
-    {
-      "title": "Au Festival de Salzbourg, une bouleversante « Carmen » mise en scène par Gabriela Carrizo et dirigée par Teodor Currentzis",
-      "url": "https://www.lemonde.fr/culture/article/2026/08/09/au-festival-de-salzbourg-une-bouleversante-carmen-mise-en-scene-par-gabriela-carrizo-et-dirigee-par-teodor-currentzis_6742637_3246.html",
-      "summary": "Rarement donné dans la ville de Mozart, le chef-d’œuvre de Georges Bizet ajoute au répertoire de la fascinante soprano lituanienne Asmik Grigorian, qui incarne un personnage à la mesure de sa démesure.",
-      "image": "https://img.lemde.fr/2026/08/07/754/0/8192/4096/644/322/60/0/a2190f8_upload-1-ks2adhhbj6as-001-carmen-2026-c-sf-virginia-rota-0-5m3a3349-h.jpg",
-      "published_at": "2026-08-09T17:30:04+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "9c849a6eb082"
     },
     {
       "title": "«Un véritable musée submergé» : une épave romaine vieille d’au moins 2 100 ans et chargée de centaines d’amphores découverte au large de la Sicile",
@@ -201,106 +301,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "1a8fa34d3faa"
-    },
-    {
-      "title": "\"Tout ce qui peut être plus transparent est forcément une bonne nouvelle\", se félicite une association après un nouveau décret sur l'encadrement des Ehpad",
-      "url": "https://www.franceinfo.fr/sante/senior/maltraitance-dans-les-ehpad/tout-ce-qui-peut-etre-plus-transparent-est-forcement-une-bonne-nouvelle-se-felicite-une-association-apres-un-nouveau-decret-sur-l-encadrement-des-ehpad_8140889.html#xtor=RSS-3-[lestitres]",
-      "summary": "D'après un décret paru dimanche au Journal officiel, les Ehpad devront désormais transmettre chaque année trois nouveaux indicateurs à la Caisse nationale de solidarité pour l'autonomie, qui les publiera à destination du grand public.",
-      "image": "https://www.franceinfo.fr/pictures/TWnSUUq7xn1SblZk4N2cHVtra0M/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/02/05/000-8z36bh-69843f2f58e2b581223155.jpg",
-      "published_at": "2026-08-09T16:57:56+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "a899d1e79da5"
-    },
-    {
-      "title": "Une compagnie pétrolière proche de Donald Trump s’apprête à forer au Groenland sans autorisation",
-      "url": "https://www.liberation.fr/international/une-compagnie-petroliere-proche-de-donald-trump-sapprete-a-forer-au-groenland-sans-autorisation-20260809_N742MDTUUNBBPAGXXGDCG25TLA/",
-      "summary": "Le gouvernement de l’île arctique a lancé un «avertissement ferme» à Greenland Energy, qui a fait débarquer du matériel de forage dans une région reculée du Groenland afin d’extraire du pétrole.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-09T14:50:31+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "de8331df154a"
-    },
-    {
-      "title": "Les frères Achiba : «On prenait en cachette la Renault de papa pour aller acheter des sandwichs la nuit…»",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/les-freres-achiba-on-prenait-en-cachette-la-renault-de-papa-pour-aller-acheter-des-sandwichs-la-nuit-20260809_O2J25X3W6JGF5FMBXODDKFSHOY/",
-      "summary": "Quels souvenirs garde-t-on de ces «vacances» particulières ? Aujourd’hui, Mounir, ingénieur à la SNCF et Fouad, cadre dans l’administration, se remémorent leur jeunesse dans le quartier du Parc des Francs, à Tourcoing où «les journées commençaient et se terminaient tard».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-09T14:32:10+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "71a8512c7f4e"
-    },
-    {
-      "title": "\"Si nous rentrons, nous témoignerons\" : Cécile Kohler et Jacques Paris écrivent un livre sur leur captivité en Iran",
-      "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/deux-sevres/niort/si-nous-rentrons-nous-temoignerons-cecile-kohler-et-jacques-paris-ecrivent-un-livre-sur-leur-captivite-en-iran-3398944.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les deux Français détenus puis retenus en Iran pendant quatre ans, Cécile Kohler et Jacques Paris, ont rendu visite à leur comité de soutien niortais ce samedi 8 août. Ils partagent leur retour à la liberté et un nouveau projet, l'écriture d'un livre pour témoigner de leur expérience en captivité.",
-      "image": "https://www.franceinfo.fr/pictures/uyRdL07Zl7qlNIAREaLCzQrEnGs/432x243/filters:format(jpg):quality(50)/2026/08/09/6a785c6f0e187688323212.jpg",
-      "published_at": "2026-08-09T16:30:32+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "257715518cc8"
-    },
-    {
-      "title": "La comédienne Dominique Frot est morte à l’âge de 68 ans",
-      "url": "https://www.liberation.fr/culture/cinema/la-comedienne-dominique-frot-est-morte-a-lage-de-68-ans-20260809_6Q72BX7IORB3RB2ZCB3ID4C7GI/",
-      "summary": "Connue pour son rôle dans la série «Soda» et dans de nombreux longs métrages, la sœur cadette de Catherine Frot est morte vendredi 9 août, ont annoncé ce dimanche sa famille et son agent.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-09T14:13:48+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "8a1eb47b5fc1"
-    },
-    {
-      "title": "La guerre des serviettes : « Vous avez vu ce qui s’est passé en Catalogne ? »",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/09/la-guerre-des-serviettes-vous-avez-vu-ce-qui-s-est-passe-en-catalogne_6742571_3451060.html",
-      "summary": "« Les douleurs des vacances » (4/7). Au bord de la piscine, le drap de bain posé sur un transat vide vaut titre de propriété. La course à la privatisation commence donc dès l’aube et peut parfois aller jusqu’au tribunal. Une situation alarmante pour les établissements touristiques.",
-      "image": "https://img.lemde.fr/2026/08/03/218/0/1512/756/644/322/60/0/ebfe8a9_upload-1-9ku3fmgacufm-4-transats.jpg",
-      "published_at": "2026-08-09T16:12:17+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "16b583adac08"
-    },
-    {
-      "title": "Canicules : au centre de soins de la faune sauvage à Maisons-Alfort, on en a plein les pattes",
-      "url": "https://www.liberation.fr/environnement/biodiversite/canicules-au-centre-de-soins-de-la-faune-sauvage-a-maisons-alfort-on-en-a-plein-les-pattes-20260809_7B7WFRYHKZB2FMFTTHOWCJ7RVA/",
-      "summary": "Le seul établissement «toutes espèces» d’Ile-de-France a connu un mois de juin exceptionnel, avec plus de 1 100 animaux accueillis en une semaine, conséquence de la vague de chaleur historique coïncidant avec la période des juvéniles.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-09T14:03:28+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "4c59e8429d46"
-    },
-    {
-      "title": "Des attaques des rebelles houthistes font onze morts au Yémen et ciblent une raffinerie saoudienne",
-      "url": "https://www.lemonde.fr/international/article/2026/08/09/des-attaques-des-rebelles-houthistes-font-onze-morts-au-yemen-et-ciblent-une-raffinerie-saoudienne_6742168_3211.html",
-      "summary": "Les hostilités dans le conflit yéménite ont repris le mois dernier, nouvelle étape de l’embrasement régional consécutif à la guerre entre les Etats-Unis et l’Iran.",
-      "image": "https://img.lemde.fr/2026/07/28/671/0/9930/4965/644/322/60/0/4b3ebbb_ftp-1-0mtwdgn80jf0-2026-07-28t132534z-2084743202-rc21nmag76qg-rtrmadp-3-iran-crisis-saudi.JPG",
-      "published_at": "2026-08-09T16:01:32+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "6000bc95faaa"
-    },
-    {
-      "title": "En Ukraine, un entrepôt de l'Organisation mondiale de la santé a été détruit, annonce le patron de l'institution",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-un-entrepot-de-l-organisation-mondiale-de-la-sante-a-ete-detruit-annonce-le-patron-de-l-institution_8140844.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'entrepôt \"contenait des fournitures médicales humanitaires destinées aux établissements de santé de la ligne de front, principalement des fournitures d'urgence de l'OMS\", a annoncé dimanche le dirigeant de l'OMS, Tedros Adhanom Ghebreyesus.",
-      "image": "https://www.franceinfo.fr/pictures/wvHPTcqF4R9nS36EomHPZgCJx_g/0x100:1024x676/432x243/filters:format(jpg):quality(50)/2026/08/09/6a7881719a4ac740955800.jpg",
-      "published_at": "2026-08-09T15:58:52+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "8232663c665b"
-    },
-    {
-      "title": "En Espagne, l’incendie dans le sud-ouest du pays est toujours actif mais les autorités sont « un peu plus optimistes »",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/09/en-espagne-l-incendie-dans-le-sud-ouest-du-pays-est-toujours-actif-mais-les-autorites-sont-un-peu-plus-optimistes_6742570_3244.html",
-      "summary": "Plus de 500 personnes, dont 250 membres de l’Unité militaire d’urgence, sont mobilisées pour lutter contre ce feu qui a parcouru près de 8 000 hectares et provoqué l’évacuation préventive d’environ 470 personnes.",
-      "image": "https://img.lemde.fr/2026/08/08/500/0/6000/3000/644/322/60/0/c5f95dd_ftp-1-otu0folabuh7-2026-08-08t222835z-134322948-rc2humasosfc-rtrmadp-3-europe-weather-spain-wildfire.JPG",
-      "published_at": "2026-08-09T15:55:17+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "ac55988739e5"
     }
   ]
 }
