@@ -1,7 +1,147 @@
 {
-  "generated_at": "2026-08-09T15:38:54.528179+00:00",
+  "generated_at": "2026-08-09T16:45:14.869978+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Incendie dans la Drôme : \"Deux réactivations importantes\" ont été observées dimanche matin, annonce la préfecture",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-direct-incendie-dans-la-drome-deux-reactivations-importantes-observees-dimanche-matin_8140745.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le feu déclenché lundi a brûlé 320 hectares. Un peu plus de 400 pompiers sont toujours mobilisés par la lutte contre l'incendie.",
+      "image": "https://www.franceinfo.fr/pictures/lB88doVCeSR9FVNLJKKbzlL_DWI/0x346:4800x3046/432x243/filters:format(jpg):quality(50)/2026/08/09/6a7861cdf1207346416103.jpg",
+      "published_at": "2026-08-09T18:37:20+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "c74c071a05b9"
+    },
+    {
+      "title": "Le typhon Dolphin a touché terre en Chine, vols suspendus et évacuations",
+      "url": "https://www.liberation.fr/international/asie-pacifique/annulations-de-vols-evacuations-et-declenchement-de-lalerte-maximale-en-chine-a-lapproche-du-typhon-dolphin-20260809_ODMEHX7TEVAO7L2W6Q6BF6B3FM/",
+      "summary": "La tempête a entraîné l’annulation de plus de 1 500 vols et le déclenchement d’une alerte de niveau maximal.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-08-09T16:34:38+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "884f4ba6a052"
+    },
+    {
+      "title": "Israël rejette un accord pour Gaza, la vague de chaleur s’intensifie, un Tour de France femmes à suspense… L’actu de ce week-end du 8 et 9 août",
+      "url": "https://www.liberation.fr/international/europe/israel-rejette-un-accord-pour-gaza-la-vague-de-chaleur-sintensifie-un-tour-de-france-femmes-a-suspense-lactu-de-ce-week-end-du-8-et-9-aout-20260809_ACFOM2JNFFGGHKCPZDMS7C7A6E/",
+      "summary": "La rédaction de «Libération» récapitule les principales actualités du samedi 8 et dimanche 9 août.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-08-09T16:33:52+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "1b127f3fea8f"
+    },
+    {
+      "title": "On a classé les vieux films X-Men, du pire au meilleur",
+      "url": "https://www.numerama.com/pop-culture/2305835-on-a-classe-les-vieux-films-x-men-du-pire-au-meilleur.html",
+      "summary": "Les X-Men s'apprêtent à revenir en force dans le Marvel Cinematic Universe. Les anciens feront une apparition remarquée dans Avengers: Doomsday, et une nouvelle génération est déjà prévue pour l'après Avengers: Secret Wars. L'excuse idéale pour classer les six films produits par la Fox.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-09T16:30:00+00:00",
+      "source": "Numerama",
+      "category": "Culture",
+      "id": "7898948581da"
+    },
+    {
+      "title": "José Reyes à Arles, tout feu tout flamenco",
+      "url": "https://www.liberation.fr/culture/musique/jose-reyes-a-arles-tout-feu-tout-flamenco-20260809_YOHC735UVRCO7AXS2ZQWIMHODA/",
+      "summary": "Le père des Gipsy Kings à «l’allure d’un baron» fait l’objet d’un hommage dans la ville qui l’a vu naître et dont il a incarné l’esprit gitan jusqu’au Carnegie Hall.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-09T16:18:17+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "34e86cee6249"
+    },
+    {
+      "title": "EN DIRECT – Vague de chaleur : 22 départements du quart sud-est placés en vigilance orange canicule lundi",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-un-feu-en-cours-sur-un-camp-militaire-en-gironde-dans-une-zone-polluee-et-impenetrable-20260809_GINLHM4TYRBTTGBN7BSTCMEAEY/",
+      "summary": "Dans son bulletin de 16 heures, Météo France précise qu’un nouvel épisode caniculaire va s’étendre à de nombreuses régions de France dans les prochains jours, après un «léger repli à l’échelle nationale» lundi.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-09T16:16:41+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "a9498cb153c5"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : un drone de combat explose en Moldavie, près de la frontière entre les deux pays",
+      "url": "https://www.lemonde.fr/international/live/2026/08/09/en-direct-guerre-en-ukraine-un-drone-de-combat-explose-en-moldavie-pres-de-la-frontiere-entre-les-deux-pays_6741928_3210.html",
+      "summary": "Une « puissante explosion », qui serait due à un drone de combat, a été signalée dans le village de Crocmaz, dans le sud-est de la Moldavie. Les fragments sont analysés par des spécialistes.",
+      "image": "https://img.lemde.fr/2026/08/09/418/0/3657/1828/644/322/60/0/d3de027_ftp-1-tzmkamoh9bfr-2026-08-09t071817z-1761331309-rc2tuma1agk3-rtrmadp-3-ukraine-crisis-attack-kharkiv.JPG",
+      "published_at": "2026-08-09T18:10:59+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "e76d42c35e95"
+    },
+    {
+      "title": "Tour de France femmes 2026 : suivez la 9e et dernière étape qui attend les coureuses de la Grande Boucle",
+      "url": "https://www.franceinfo.fr/tour-de-france/femmes/en-direct-tour-de-france-femmes-2026-une-derniere-etape-cruciale-attend-les-coureuses-de-la-grand-boucle_8140544.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les coureuses du Tour de France se mesurent au col d'Eze lors de la 9e et dernière étape.",
+      "image": "https://www.franceinfo.fr/pictures/NCOGuPiKWdn61-csf2No-fWHlUM/0x0:3110x1749/432x243/filters:format(jpg):quality(50)/2026/08/09/6a783ada5a9e3929757254.jpg",
+      "published_at": "2026-08-09T18:07:34+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "3663326f89ce"
+    },
+    {
+      "title": "Vingt-deux départements, du Cher à la Corse, placés en vigilance orange \"canicule\" pour la journée de lundi",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/huit-departements-du-sud-ouest-de-la-france-hexagonale-passeront-en-vigilance-orange-orage-dimanche-en-fin-d-apres-midi-treize-autres-departements-en-vigilance-orange-canicule_8140418.html#xtor=RSS-3-[lestitres]",
+      "summary": "Huit départements du Sud-Ouest sont par ailleurs placés en vigilance orange aux orages dimanche, treize autres en alerte orange \"canicule\".",
+      "image": "https://www.franceinfo.fr/pictures/Ts4fUXJVxTOvUYjX9mLk4_oDcI4/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/09/6a788c3087e91369090099.jpg",
+      "published_at": "2026-08-09T18:04:10+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a2c6bd26407f"
+    },
+    {
+      "title": "L’été contrarié de Léon Marchand, diminué par une blessure à l’approche des championnats d’Europe de natation à Paris",
+      "url": "https://www.lemonde.fr/sport/article/2026/08/09/l-ete-contrarie-de-leon-marchand-diminue-par-une-blessure-a-l-approche-des-championnats-d-europe-de-natation-a-paris_6742704_3242.html",
+      "summary": "Le Toulousain de 24 ans sera la tête d’affiche de la compétition continentale, qui débute lundi à Saint-Denis. Mais une blessure survenue en juin, puis une rechute ont freiné sa préparation, changé son programme et remis un temps en question sa participation.",
+      "image": "https://img.lemde.fr/2026/08/09/626/0/7509/3754/644/322/60/0/3a43ec9_ftp-1-8loprwv6y0ma-5802797-01-06.jpg",
+      "published_at": "2026-08-09T18:00:03+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "7c8907b6c651"
+    },
+    {
+      "title": "Damas affirme avoir trouvé un accord avec Moscou sur le sort des bases russes toujours présentes en Syrie",
+      "url": "https://www.franceinfo.fr/monde/revolte-en-syrie/damas-affirme-avoir-trouve-un-accord-avec-moscou-sur-le-sort-des-bases-russes-toujours-presentes-en-syrie_8140877.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les installations militaires de l'aéroport de Tartous et du port de Hmeimim seront transformées \"en centres conjoints de formation\", a déclaré dimanche le ministère des Affaires étrangères syrien.",
+      "image": "https://www.franceinfo.fr/pictures/B4blmZMeYGLnbVBd__VgTFCCkP0/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/09/6a789242918f4116147234.jpg",
+      "published_at": "2026-08-09T17:59:07+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "39db61d507fd"
+    },
+    {
+      "title": "Thaïlande : après une fusillade mortelle dans un lycée, le débat sur les armes relancé",
+      "url": "https://www.lemonde.fr/international/article/2026/08/09/thailande-apres-une-fusillade-mortelle-dans-un-lycee-le-debat-sur-les-armes-relance_6742671_3210.html",
+      "summary": "Le 7 août, un adolescent de 14 ans a tué huit personnes par arme à feu, dont six dans son collège-lycée. Malgré une législation relativement stricte, près de 10 millions d’armes sont en circulation dans le pays, où sévit un important marché clandestin.",
+      "image": "https://img.lemde.fr/2026/08/09/481/0/5775/2887/644/322/60/0/91089bf_ftp-1-hgz5fgef26tx-2026-08-09t050241z-1919453419-rc2sumafqkpu-rtrmadp-3-thailand-shooting.JPG",
+      "published_at": "2026-08-09T17:49:59+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "f2005ad6f4b8"
+    },
+    {
+      "title": "Discussions entre l'Iran et Oman, exigences envers les Etats-Unis : où en sont les négociations sur le détroit d'Ormuz ?",
+      "url": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/discussions-entre-l-iran-et-oman-exigences-envers-les-etats-unis-ou-en-sont-les-negociations-sur-le-detroit-d-ormuz_8140562.html#xtor=RSS-3-[lestitres]",
+      "summary": "Samedi, Téhéran a posé un nouvel ultimatum à Washington : si les Etats-Unis ne se plient pas aux exigences iraniennes, ils devront assumer la responsabilité de la paralysie quasi-totale de cette voie maritime cruciale.",
+      "image": "https://www.franceinfo.fr/pictures/1GYZ4G2-biMoZBpGv9nhMhpG04E/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/09/6a78692536a4f130533472.jpg",
+      "published_at": "2026-08-09T17:40:35+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "89fb1d4381dd"
+    },
+    {
+      "title": "Au Festival de Salzbourg, une bouleversante « Carmen » mise en scène par Gabriela Carrizo et dirigée par Teodor Currentzis",
+      "url": "https://www.lemonde.fr/culture/article/2026/08/09/au-festival-de-salzbourg-une-bouleversante-carmen-mise-en-scene-par-gabriela-carrizo-et-dirigee-par-teodor-currentzis_6742637_3246.html",
+      "summary": "Rarement donné dans la ville de Mozart, le chef-d’œuvre de Georges Bizet ajoute au répertoire de la fascinante soprano lituanienne Asmik Grigorian, qui incarne un personnage à la mesure de sa démesure.",
+      "image": "https://img.lemde.fr/2026/08/07/754/0/8192/4096/644/322/60/0/a2190f8_upload-1-ks2adhhbj6as-001-carmen-2026-c-sf-virginia-rota-0-5m3a3349-h.jpg",
+      "published_at": "2026-08-09T17:30:04+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "9c849a6eb082"
+    },
     {
       "title": "«Un véritable musée submergé» : une épave romaine vieille d’au moins 2 100 ans et chargée de centaines d’amphores découverte au large de la Sicile",
       "url": "https://www.liberation.fr/international/europe/un-veritable-musee-submerge-une-epave-romaine-vieille-dau-moins-2-100-ans-et-chargee-de-centaines-damphores-decouverte-au-large-de-la-sicile-20260809_BJRRVUMD7VGAPDIEROGSD45CZQ/",
@@ -43,26 +183,6 @@
       "id": "1722b104f992"
     },
     {
-      "title": "EN DIRECT – Vague de chaleur : 22 départements du quart sud-est placés en vigilance orange canicule lundi",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-un-feu-en-cours-sur-un-camp-militaire-en-gironde-dans-une-zone-polluee-et-impenetrable-20260809_GINLHM4TYRBTTGBN7BSTCMEAEY/",
-      "summary": "Dans son bulletin de 16 heures, Météo France précise qu’un nouvel épisode caniculaire va s’étendre à de nombreuses régions de France dans les prochains jours, après un «léger repli à l’échelle nationale» lundi.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-09T15:03:15+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "a9498cb153c5"
-    },
-    {
-      "title": "Vingt-deux départements, du Cher à la Corse, placés en vigilance orange \"canicule\" pour la journée de lundi",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/huit-departements-du-sud-ouest-de-la-france-hexagonale-passeront-en-vigilance-orange-orage-dimanche-en-fin-d-apres-midi-treize-autres-departements-en-vigilance-orange-canicule_8140418.html#xtor=RSS-3-[lestitres]",
-      "summary": "Huit départements du Sud-Ouest placés sont par ailleurs placés en vigilance orange aux orages dimanche, treize autres en alerte orange \"canicule\".",
-      "image": "https://www.franceinfo.fr/pictures/Ts4fUXJVxTOvUYjX9mLk4_oDcI4/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/09/6a788c3087e91369090099.jpg",
-      "published_at": "2026-08-09T17:01:58+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "a2c6bd26407f"
-    },
-    {
       "title": "On vous explique le RAG : la mécanique invisible derrière chaque source citée par une IA",
       "url": "https://www.numerama.com/tech/2308149-on-vous-explique-le-rag-la-mecanique-invisible-derriere-chaque-source-citee-par-une-ia.html",
       "summary": "Il y a encore trois ans, une IA qui citait ses sources tenait de l'exception. Aujourd'hui, c'est presque devenu la norme. Entre les deux, l'avènement d'une technique née dans un labo de recherche : le RAG.",
@@ -71,6 +191,16 @@
       "source": "Numerama",
       "category": "Tech",
       "id": "617f50d669e9"
+    },
+    {
+      "title": "Clémence Girard, directrice de la section criminalité organisée du parquet de Paris : « L’Ile-de-France est une importante destination de stupéfiants »",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/09/clemence-girard-directrice-de-la-section-criminalite-organisee-du-parquet-de-paris-l-ile-de-france-est-une-importante-destination-de-stupefiants_6742604_3224.html",
+      "summary": "Témoin de l’évolution du narcobanditisme dans la région, Clémence Girard, directrice de la section criminalité organisée du parquet de Paris, revient, dans un entretien au « Monde », sur la montée en puissance des factions criminelles et leur organisation à partir du territoire francilien.",
+      "image": "https://img.lemde.fr/2026/07/22/250/0/3000/1500/644/322/60/0/609d986_upload-1-bca5dmdqeouu-clemencegirard-jirs-asurp-203379.jpg",
+      "published_at": "2026-08-09T17:00:02+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "1a8fa34d3faa"
     },
     {
       "title": "\"Tout ce qui peut être plus transparent est forcément une bonne nouvelle\", se félicite une association après un nouveau décret sur l'encadrement des Ehpad",
@@ -91,16 +221,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "de8331df154a"
-    },
-    {
-      "title": "Damas affirme avoir trouvé un accord avec Moscou sur le sort des bases russes toujours présentes en Syrie",
-      "url": "https://www.franceinfo.fr/monde/revolte-en-syrie/damas-affirme-avoir-trouve-un-accord-avec-moscou-sur-le-sort-des-bases-russes-toujours-presentes-en-syrie_8140877.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les installations militaires de l'aéroport de Tartous et du port de Hmeimim seront transformées \"en centres conjoints de formation (...)\", a déclaré dimanche le ministère des Affaires étrangères syrien.",
-      "image": "https://www.franceinfo.fr/pictures/B4blmZMeYGLnbVBd__VgTFCCkP0/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/09/6a789242918f4116147234.jpg",
-      "published_at": "2026-08-09T16:47:26+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "39db61d507fd"
     },
     {
       "title": "Les frères Achiba : «On prenait en cachette la Renault de papa pour aller acheter des sandwichs la nuit…»",
@@ -153,16 +273,6 @@
       "id": "4c59e8429d46"
     },
     {
-      "title": "Tour de France femmes 2026 : suivez la 9e et dernière étape qui attend les coureuses de la Grande Boucle",
-      "url": "https://www.franceinfo.fr/tour-de-france/femmes/en-direct-tour-de-france-femmes-2026-une-derniere-etape-cruciale-attend-les-coureuses-de-la-grand-boucle_8140544.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les coureuses du Tour de France vont se mesurer au col d'Eze lors de la 9e et dernière étape.",
-      "image": "https://www.franceinfo.fr/pictures/NCOGuPiKWdn61-csf2No-fWHlUM/0x0:3110x1749/432x243/filters:format(jpg):quality(50)/2026/08/09/6a783ada5a9e3929757254.jpg",
-      "published_at": "2026-08-09T16:03:09+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "3663326f89ce"
-    },
-    {
       "title": "Des attaques des rebelles houthistes font onze morts au Yémen et ciblent une raffinerie saoudienne",
       "url": "https://www.lemonde.fr/international/article/2026/08/09/des-attaques-des-rebelles-houthistes-font-onze-morts-au-yemen-et-ciblent-une-raffinerie-saoudienne_6742168_3211.html",
       "summary": "Les hostilités dans le conflit yéménite ont repris le mois dernier, nouvelle étape de l’embrasement régional consécutif à la guerre entre les Etats-Unis et l’Iran.",
@@ -191,116 +301,6 @@
       "source": "Le Monde Inter",
       "category": "International",
       "id": "ac55988739e5"
-    },
-    {
-      "title": "EN DIRECT, Tour de France Femmes 2026 : Marlen Reusser chute dans la descente du col d’Eze, onze coureuses en tête à mi-parcours",
-      "url": "https://www.lemonde.fr/sport/live/2026/08/09/en-direct-tour-de-france-femmes-2026-suivez-la-neuvieme-et-derniere-etape_6742569_3242.html",
-      "summary": "Qui va remporter cette édition 2026 ? Le peloton s’élance, dimanche, dans quatre boucles autour de Nice à l’occasion de la neuvième et dernière étape, à l’issue de laquelle sera connue la successeure de Pauline Ferrand-Prévot.",
-      "image": "https://img.lemde.fr/2026/08/09/570/0/6839/3419/644/322/60/0/70a2725_ftp-1-r6qvjlc4gyol-5803504-01-06.jpg",
-      "published_at": "2026-08-09T15:55:01+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "695deca221f6"
-    },
-    {
-      "title": "Un enfant gravement brûlé par un jouet anti-stress dans le Pas-de-Calais, le parquet ouvre une enquête pour \"blessures involontaires\"",
-      "url": "https://www.franceinfo.fr/faits-divers/dans-le-pas-de-calais-un-enfant-gravement-brule-par-un-jouet-anti-stress-une-enquete-ouverte-pour-blessures-involontaires_8140832.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les investigations doivent déterminer les circonstances exactes de l'incident et si celui-ci est imputable à une \"défectuosité du produit\".",
-      "image": "https://www.franceinfo.fr/pictures/K_CckLd8bOYNKV0aXj7PeANJdKw/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/09/6a787cbd1d617493417691.jpg",
-      "published_at": "2026-08-09T15:41:12+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "f940d32242c0"
-    },
-    {
-      "title": "Quand la nuit tombe en plein jour : la folle histoire des éclipses qui ont révolutionné la science",
-      "url": "https://www.numerama.com/sciences/2307551-eclipse-solaire-du-12-aout-2026-fonctionnement-mythes-et-verites-dun-evenement-astronomique-rare.html",
-      "summary": "Une première depuis 1999, le 12 août 2026, une éclipse solaire totale sera visible en Europe. En France hexagonale, ce spectacle astronomique parmi les plus marquants sera observable jusqu’à 99 % selon les régions. Découvrez comment se produit ce phénomène et pourquoi on ne l’observe pas tous les mois. Les éclipses ont toujours fasciné et sont à l’origine de nombreux mythes, mais aussi de découver",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-09T13:31:00+00:00",
-      "source": "Numerama",
-      "category": "Économie",
-      "id": "772dafa05f1b"
-    },
-    {
-      "title": "Benyamin Nétanyahou \"rejette\" le plan américain pour Gaza et écarte tout retrait israélien tant que le Hamas n'est pas \"réellement désarmé\"",
-      "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/benyamin-netanyahou-rejette-le-plan-americain-pour-gaza-et-ecarte-tout-retrait-israelien-tant-que-le-hamas-n-est-pas-reellement-desarme_8140775.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'accord accepté par le Hamas liait notamment le désarmement du mouvement à un retrait progressif des troupes israéliennes du territoire palestinien.",
-      "image": "https://www.franceinfo.fr/pictures/3GOXGF-U9XwA4yhb6GSgYQmd73A/0x93:1024x669/432x243/filters:format(jpg):quality(50)/2026/08/09/6a7862a736048446366480.jpg",
-      "published_at": "2026-08-09T15:29:54+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "910bd47f0b55"
-    },
-    {
-      "title": "Nétanyahou «rejette» le plan américain pour Gaza accepté par le Hamas, conditionnant tout retrait israélien à un «véritable» désarmement",
-      "url": "https://www.liberation.fr/international/moyen-orient/netanyahou-rejette-le-plan-americain-pour-gaza-accepte-par-le-hamas-conditionnant-tout-retrait-israelien-a-un-veritable-desarmement-20260809_RK5ODSZHY5DY3P2RRTEDEKLJEA/",
-      "summary": "«Israël rejette le document en 15 points» présenté fin juillet par le «Conseil de Paix» de Donald Trump, a annoncé le Premier ministre israélien ce dimanche 9 août.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-09T13:26:18+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "fcb0fb570afd"
-    },
-    {
-      "title": "Le nombre de noyades est en hausse : 274 morts entre mai et mi-juillet",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/le-nombre-de-noyades-est-en-hausse-274-morts-entre-mai-et-mi-juillet_8140772.html#xtor=RSS-3-[lestitres]",
-      "summary": "C’est l'une des conséquences des fortes chaleurs en France : le nombre de noyades est en hausse. Un enfant de 4 ans est mort samedi 8 août dans un étang en Moselle. Près de Lyon, dans le Rhône, une petite fille a été sauvée in extremis.",
-      "image": "https://www.franceinfo.fr/pictures/gIAgLnoW9YiB_FWT2zEbprM4-ZY/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/09/6a7862eb54b1d833000069.jpg",
-      "published_at": "2026-08-09T15:22:08+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "1b45a6373641"
-    },
-    {
-      "title": "En Italie, le Parlement se projette sur la création de son propre CNC",
-      "url": "https://www.liberation.fr/culture/cinema/en-italie-le-parlement-se-projette-sur-la-creation-de-son-propre-cnc-20260809_UF4ZPED7VZASBA4Y5FGTNTUHRQ/",
-      "summary": "S’inspirant du modèle français, le gouvernement italien souhaite réformer le cinéma en créant une agence publique autonome. Une «bonne chose» pour les professionnels du secteur, qui déplorent tout de même un manque de «vision» concernant le financement de la structure.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-09T13:21:23+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "929d6ea58656"
-    },
-    {
-      "title": "Damas dit avoir trouvé un accord avec Moscou sur le sort des bases russes en Syrie",
-      "url": "https://www.lemonde.fr/international/article/2026/08/09/damas-dit-avoir-trouve-un-accord-avec-moscou-sur-le-sort-des-bases-russes-en-syrie_6742535_3210.html",
-      "summary": "Les installations militaires du port de Tartous et la base aérienne de Hmeimim, sur la côte méditerranéenne, seront transformées « en centres conjoints de formation », a annoncé la diplomatie syrienne.",
-      "image": "https://img.lemde.fr/2026/08/09/845/0/8064/4032/644/322/60/0/8dfd4f8_upload-1-lbliydoyz9h8-000-36zq7yj.jpg",
-      "published_at": "2026-08-09T15:21:03+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "b9bebe45921b"
-    },
-    {
-      "title": "Imposons la culture dans le débat présidentiel !",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/imposons-la-culture-dans-le-debat-presidentiel-20260809_7M3BYIJM7ZAGDJCI6KVX3ULDPI/",
-      "summary": "Le secteur demeure absent du débat politique. Pourtant, l’écosystème du livre subit des coupes budgétaires historiques, le statut des artistes se précarise et notre exception culturelle fait l’objet d’offensives idéologiques inédites, relève l’éditeur et metteur en scène Alexandre Curnier.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-09T13:10:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "41735f5b3b88"
-    },
-    {
-      "title": "Un ouvrier agricole en garde à vue après la série d'incendies dans le Maine-et-Loire et les Deux-Sèvres",
-      "url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/maine-et-loire/angers/un-ouvrier-agricole-en-garde-a-vue-apres-la-serie-d-incendies-dans-le-maine-et-loire-et-les-deux-sevres-3398896.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le parquet de Saumur (Maine-et-Loire) confirme ce 9 août qu'un ouvrier agricole est en garde à vue à Thouars (Deux-Sèvres) pour \"destruction par incendies\". Il pourrait être à l'origine de plusieurs départs de feu dans les deux départements.",
-      "image": "https://www.franceinfo.fr/pictures/Xj3M8H_x_fvBLfsfP6E47v_X1_g/432x243/filters:format(jpg):quality(50)/2026/08/09/6a7845c0a1113181293332.jpg",
-      "published_at": "2026-08-09T14:59:03+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "3c437391863b"
-    },
-    {
-      "title": "A Hongkong, les derniers libraires indépendants sommés de fermer boutique",
-      "url": "https://www.liberation.fr/international/asie-pacifique/a-hongkong-les-derniers-libraires-independants-sommes-de-fermer-boutique-20260809_X7U2WV2J4ZHTFEYNUMDLYWNQOQ/",
-      "summary": "Sous la pression du pouvoir pro-Pékin, trois établissements ont définitivement baissé le rideau cet été. Les autorités hongkongaises étouffent les derniers espaces où pouvaient encore circuler des voix dissidentes.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-09T12:48:04+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "5bedb6712b0c"
     }
   ]
 }
