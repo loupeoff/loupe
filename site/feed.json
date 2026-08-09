@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-08-09T18:53:14.953536+00:00",
+  "generated_at": "2026-08-09T19:39:55.760918+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "La Gironde de nouveau frappée par les orages et les incendies",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/la-gironde-de-nouveau-frappee-par-les-orages-et-les-incendies_8141132.html#xtor=RSS-3-[lestitres]",
+      "summary": "Après les fortes chaleurs des derniers jours dans le Sud et avant une nouvelle canicule partout en France, place aux orages. La foudre a provoqué plusieurs départs de feux en Gironde, samedi 8 août.",
+      "image": "https://www.franceinfo.fr/pictures/Ms1cwM6yg8rRTEjlxoX0jI-a9eY/9x0:1524x852/432x243/filters:format(jpg):quality(50)/2026/08/09/6a78c8f92e527189725689.png",
+      "published_at": "2026-08-09T21:34:19+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "aeb5ee0f404b"
+    },
+    {
+      "title": "L’incendie dans la Drôme s’est étendu, un total de 370 hectares brûlés et quatre pompiers blessés",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/09/l-incendie-dans-la-drome-s-est-etendu-un-total-de-370-hectares-brules-et-quatre-pompiers-blesses_6742401_3245.html",
+      "summary": "Parti lundi près de Bellegarde-en-Diois, dans le massif du Claps, le feu a connu deux reprises dans la matinée de dimanche. Un autre incendie, qui s’est déclaré dimanche midi en Lozère, avait déjà parcouru plus de 100 hectares en fin d’après-midi, selon les pompiers locaux.",
+      "image": "https://img.lemde.fr/2026/08/08/400/0/4800/2400/644/322/60/0/9cd2c8d_upload-1-6xyhlxbfhsei-maxnewsspecialtwo683942.jpg",
+      "published_at": "2026-08-09T21:30:54+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "c542e3426e72"
+    },
+    {
+      "title": "Les Etats-Unis ne font que \"semi-négocier\" avec l'Iran, affirme Donald Trump",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-etats-unis-ne-font-que-semi-negocier-avec-l-iran-affirme-donald-trump_8141159.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Nous nous contentons d'observer l'Iran, avec son inflation galopante et le fait qu'il n'a plus d'argent\", a déclaré le président américain auprès du média \"Axios\".",
+      "image": "https://www.franceinfo.fr/pictures/8D74uJnSgr_dx8A0BdkSlcwPvfk/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/09/6a78ce053785c600922221.jpg",
+      "published_at": "2026-08-09T21:01:38+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "4ffcdddbb9f8"
+    },
+    {
+      "title": "Violences sexuelles sur mineurs : la police judiciaire dénonce une « trahison » de Gérald Darmanin",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/09/violences-sexuelles-sur-mineurs-la-police-judiciaire-denonce-une-trahison-de-gerald-darmanin_6742840_3224.html",
+      "summary": "L’Association nationale de police judiciaire a réagi, dimanche, au courrier – révélé par « Le Monde » – adressé par le ministre de la justice à son homologue de l’intérieur, Laurent Nuñez, dévoilant les graves défaillances des services d’enquête dans la prise en compte des violences faites aux mineurs.",
+      "image": "https://img.lemde.fr/2026/07/21/458/0/5502/2751/644/322/60/0/f7b8e11_ftp-1-e1ybdxcxqcxm-2026-07-21t142732z-463735455-rc2eimasv0a0-rtrmadp-3-france-politics.JPG",
+      "published_at": "2026-08-09T21:01:08+02:00",
+      "source": "Le Monde Politique",
+      "category": "Société",
+      "id": "750ae68abc23"
+    },
+    {
+      "title": "\"Le feu bouge incroyablement vite\" : un incendie dévaste 10 000 hectares au Canada",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/le-feu-bouge-incroyablement-vite-un-incendie-devaste-10-000-hectares-au-canada_8141162.html#xtor=RSS-3-[lestitres]",
+      "summary": "Au Canada, l’État d’urgence a été décrété. Depuis le vendredi 7 août, un gigantesque incendie sévit en Colombie-Britannique, à l’ouest du pays. Plus de 10 000 hectares ont brûlé et 20 000 personnes ont dû être évacuées.",
+      "image": "https://www.franceinfo.fr/pictures/QE8JRWiFtmlBdCBgPFDhGOIPVCg/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/09/6a78cc6d8d203257052497.jpg",
+      "published_at": "2026-08-09T20:54:21+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "ae2aaaa6c6a6"
+    },
     {
       "title": "Défaillances des enquêtes pour violences sexuelles sur mineurs : l’association de la police judiciaire dénonce la «trahison» de Darmanin, ex-ministre de l’Intérieur",
       "url": "https://www.liberation.fr/societe/police-justice/defaillances-des-enquetes-pour-violences-sexuelles-sur-mineurs-lassociation-de-la-police-judiciaire-denonce-la-trahison-de-darmanin-ex-ministre-de-linterieur-20260809_MVDZMIAYTBG7VLQBLES2JTMPTY/",
@@ -11,6 +61,16 @@
       "source": "Libération",
       "category": "Société",
       "id": "bb1fb4dfe070"
+    },
+    {
+      "title": "Une directrice du parquet de Paris appelle à \"prendre très au sérieux\" les menaces sur les magistrats traitant de dossiers de criminalité organisée",
+      "url": "https://www.franceinfo.fr/societe/justice/une-directrice-du-parquet-de-paris-appelle-a-prendre-tres-au-serieux-les-menaces-sur-les-magistrats-traitant-de-dossiers-de-criminalite-organisee_8141138.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ces menaces \"ne sont pas fantasmées, elles ont déjà visé un certain nombre de collègues, qui, pour certains, ont dû bénéficier d'une protection\", alerte, dans \"Le Monde\", Clémence Girard, directrice de la section criminalité organisée du parquet de Paris.",
+      "image": "https://www.franceinfo.fr/pictures/MW3U0XtGr-j2Qww61tDTNhkMN-E/0x61:1024x637/432x243/filters:format(jpg):quality(50)/2026/08/09/6a78ca4c5acfc618458294.jpg",
+      "published_at": "2026-08-09T20:44:06+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "182923abf261"
     },
     {
       "title": "L’Odyssée triomphale de Demi Vollering pour son deuxième sacre sur le Tour de France femmes, entre sérénité et coups de force",
@@ -51,6 +111,16 @@
       "source": "France Info",
       "category": "Sport",
       "id": "25a57ae99a7b"
+    },
+    {
+      "title": "Le résumé de l'ultime démonstration de Demi Vollering, qui rafle la dernière étape et le classement général du Tour de France femmes",
+      "url": "https://www.franceinfo.fr/tour-de-france/femmes/video-le-resume-de-l-ultime-demonstration-de-demi-vollering-qui-rafle-la-derniere-etape-et-le-classement-general-du-tour-de-france-femmes_8141090.html#xtor=RSS-3-[lestitres]",
+      "summary": "La Néerlandaise s'est imposée sur la promenade des Anglais pour le deuxième jour de suite, dimanche, validant son deuxième sacre.",
+      "image": "https://www.franceinfo.fr/pictures/wL8QETHckbi0hDbSDaf9AQdRYqY/0x0:4379x2463/432x243/filters:format(jpg):quality(50)/2026/08/09/6a78bc40c4aa1385617765.jpg",
+      "published_at": "2026-08-09T19:57:29+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "2cff6380aa33"
     },
     {
       "title": "Des vols suspendus et des habitations évacuées en Chine après l'arrivée du typhon Dolphin",
@@ -123,16 +193,6 @@
       "id": "a2c6bd26407f"
     },
     {
-      "title": "Incendies en France : en Lozère, un feu parcourt plus de 100 hectares, une vingtaine d'habitations évacuées",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-direct-incendie-dans-la-drome-deux-reactivations-importantes-observees-dimanche-matin_8140745.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le feu déclenché lundi a brûlé 320 hectares. Un peu plus de 400 pompiers sont toujours mobilisés par la lutte contre l'incendie.",
-      "image": "https://www.franceinfo.fr/pictures/cAXWmwkUzr9yJeJoMoM0cyFVtG0/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/09/6a78ae9081cd9051636508.jpg",
-      "published_at": "2026-08-09T19:13:15+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "c74c071a05b9"
-    },
-    {
       "title": "Tour de France : Demi Vollering remporte un deuxième titre après avoir roulé sa boss",
       "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-demi-vollering-remporte-un-deuxieme-titre-apres-avoir-roule-sa-boss-20260809_7ZLRDYPRS5FHTJ2IH6LXXDH7SM/",
       "summary": "La Néerlandaise de 29 ans a remporté sa deuxième Grande Boucle ce dimanche 9 août, après avoir fait céder sa rivale polonaise Katarzyna Niewiadoma au cours du week-end.",
@@ -183,6 +243,16 @@
       "id": "a98076312c5d"
     },
     {
+      "title": "Un feu se déclare au Massegros en Lozère : 100 hectares de forêt déjà brûlés, deux hameaux évacués",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/lozere/mende/un-feu-se-declare-au-massegros-en-lozere-100-hectares-de-foret-deja-brules-deux-hameaux-evacues-3399103.html#xtor=RSS-3-[lestitres]",
+      "summary": "À midi ce dimanche 9 août, un incendie s'est déclaré sur la commune du Massegros Causses Gorges en Lozère. 300 pompiers sont mobilisés et 100 hectares ont déjà brûlé. Un feu de voiture serait à l'origine du sinistre, qui a nécessité l'évacuation d'une vingtaine de maisons.",
+      "image": "https://www.franceinfo.fr/pictures/HrsMA_4THEORZKHjDEKaW0Z1oRE/432x243/filters:format(jpg):quality(50)/2026/08/09/6a78ae7d432ed341649220.jpg",
+      "published_at": "2026-08-09T18:52:41+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "106d37757222"
+    },
+    {
       "title": "Confrontée aux canicules et à la sécheresse, l’agriculture française cherche de l’air",
       "url": "https://www.liberation.fr/economie/confrontee-aux-canicules-et-a-la-secheresse-lagriculture-francaise-cherche-de-lair-20260809_TT7K3HSCLRASVP7JVZQNB436LQ/",
       "summary": "Face à une production de fruits et légumes, de lait et de fourrage en chute libre, les syndicats agricoles demandent à la grande distribution de rogner sur ses marges et réclament de l’aide aux pouvoirs publics.",
@@ -231,76 +301,6 @@
       "source": "Libération",
       "category": "International",
       "id": "884f4ba6a052"
-    },
-    {
-      "title": "Israël rejette un accord pour Gaza, la vague de chaleur s’intensifie, un Tour de France femmes à suspense… L’actu de ce week-end du 8 et 9 août",
-      "url": "https://www.liberation.fr/international/europe/israel-rejette-un-accord-pour-gaza-la-vague-de-chaleur-sintensifie-un-tour-de-france-femmes-a-suspense-lactu-de-ce-week-end-du-8-et-9-aout-20260809_ACFOM2JNFFGGHKCPZDMS7C7A6E/",
-      "summary": "La rédaction de «Libération» récapitule les principales actualités du samedi 8 et dimanche 9 août.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-09T16:33:52+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "1b127f3fea8f"
-    },
-    {
-      "title": "On a classé les vieux films X-Men, du pire au meilleur",
-      "url": "https://www.numerama.com/pop-culture/2305835-on-a-classe-les-vieux-films-x-men-du-pire-au-meilleur.html",
-      "summary": "Les X-Men s'apprêtent à revenir en force dans le Marvel Cinematic Universe. Les anciens feront une apparition remarquée dans Avengers: Doomsday, et une nouvelle génération est déjà prévue pour l'après Avengers: Secret Wars. L'excuse idéale pour classer les six films produits par la Fox.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-09T16:30:00+00:00",
-      "source": "Numerama",
-      "category": "Culture",
-      "id": "7898948581da"
-    },
-    {
-      "title": "José Reyes à Arles, tout feu tout flamenco",
-      "url": "https://www.liberation.fr/culture/musique/jose-reyes-a-arles-tout-feu-tout-flamenco-20260809_YOHC735UVRCO7AXS2ZQWIMHODA/",
-      "summary": "Le père des Gipsy Kings à «l’allure d’un baron» fait l’objet d’un hommage dans la ville qui l’a vu naître et dont il a incarné l’esprit gitan jusqu’au Carnegie Hall.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-09T16:18:17+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "34e86cee6249"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : un drone de combat explose en Moldavie, près de la frontière entre les deux pays",
-      "url": "https://www.lemonde.fr/international/live/2026/08/09/en-direct-guerre-en-ukraine-un-drone-de-combat-explose-en-moldavie-pres-de-la-frontiere-entre-les-deux-pays_6741928_3210.html",
-      "summary": "Une « puissante explosion », qui serait due à un drone de combat, a été signalée dans le village de Crocmaz, dans le sud-est de la Moldavie. Les fragments sont analysés par des spécialistes.",
-      "image": "https://img.lemde.fr/2026/08/09/1300/0/7390/3695/644/322/60/0/74be74e_upload-1-vg6ymteglrvc-000-93z879g.jpg",
-      "published_at": "2026-08-09T18:10:59+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "e76d42c35e95"
-    },
-    {
-      "title": "L’été contrarié de Léon Marchand, diminué par une blessure à l’approche des championnats d’Europe de natation à Paris",
-      "url": "https://www.lemonde.fr/sport/article/2026/08/09/l-ete-contrarie-de-leon-marchand-diminue-par-une-blessure-a-l-approche-des-championnats-d-europe-de-natation-a-paris_6742704_3242.html",
-      "summary": "Le Toulousain de 24 ans sera la tête d’affiche de la compétition continentale, qui débute lundi à Saint-Denis. Mais une blessure survenue en juin, puis une rechute ont freiné sa préparation, changé son programme et remis un temps en question sa participation.",
-      "image": "https://img.lemde.fr/2026/08/09/626/0/7509/3754/644/322/60/0/3a43ec9_ftp-1-8loprwv6y0ma-5802797-01-06.jpg",
-      "published_at": "2026-08-09T18:00:03+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "7c8907b6c651"
-    },
-    {
-      "title": "Damas affirme avoir trouvé un accord avec Moscou sur le sort des bases russes toujours présentes en Syrie",
-      "url": "https://www.franceinfo.fr/monde/revolte-en-syrie/damas-affirme-avoir-trouve-un-accord-avec-moscou-sur-le-sort-des-bases-russes-toujours-presentes-en-syrie_8140877.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les installations militaires de l'aéroport de Tartous et du port de Hmeimim seront transformées \"en centres conjoints de formation\", a déclaré dimanche le ministère des Affaires étrangères syrien.",
-      "image": "https://www.franceinfo.fr/pictures/B4blmZMeYGLnbVBd__VgTFCCkP0/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/09/6a789242918f4116147234.jpg",
-      "published_at": "2026-08-09T17:59:07+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "39db61d507fd"
-    },
-    {
-      "title": "Thaïlande : après une fusillade mortelle dans un lycée, le débat sur les armes relancé",
-      "url": "https://www.lemonde.fr/international/article/2026/08/09/thailande-apres-une-fusillade-mortelle-dans-un-lycee-le-debat-sur-les-armes-relance_6742671_3210.html",
-      "summary": "Le 7 août, un adolescent de 14 ans a tué huit personnes par arme à feu, dont six dans son collège-lycée. Malgré une législation relativement stricte, près de 10 millions d’armes sont en circulation dans le pays, où sévit un important marché clandestin.",
-      "image": "https://img.lemde.fr/2026/08/09/481/0/5775/2887/644/322/60/0/91089bf_ftp-1-hgz5fgef26tx-2026-08-09t050241z-1919453419-rc2sumafqkpu-rtrmadp-3-thailand-shooting.JPG",
-      "published_at": "2026-08-09T17:49:59+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "f2005ad6f4b8"
     }
   ]
 }
