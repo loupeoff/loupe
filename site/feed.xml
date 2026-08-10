@@ -7,17 +7,27 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Mon, 10 Aug 2026 22:47:58 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 23:42:34 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
   <item>
-    <title>EN DIRECT, guerre en Ukraine : Nouvelles frappes russes sur Kiev</title>
+    <title>La maison mère de Truth Social, le réseau de Donald Trump, affiche 240 millions de dollars de pertes au deuxième trimestre</title>
+    <link>https://www.lemonde.fr/economie/article/2026/08/11/la-maison-mere-de-truth-social-le-reseau-de-donald-trump-affiche-240-millions-de-dollars-de-pertes-au-deuxieme-trimestre_6743610_3234.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/economie/article/2026/08/11/la-maison-mere-de-truth-social-le-reseau-de-donald-trump-affiche-240-millions-de-dollars-de-pertes-au-deuxieme-trimestre_6743610_3234.html</guid>
+    <pubDate>Tue, 11 Aug 2026 01:28:43 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[A l’issue du premier trimestre, Trump Media & Technology Group – dont le milliardaire est le principal actionnaire – avait déjà fait état d’une perte de plus de 400 millions de dollars.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/08/01/278/0/3335/1667/644/322/60/0/0a26ce5_ftp-1-e6f7uvkt54ev-86b39af0de0e41bd984a7cc7e3349392-1-9c45b073b2b446be9d4134d5ffd1ae13.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>EN DIRECT, guerre en Ukraine : nouvelles frappes russes dans la nuit, au moins cinq morts à Zaporijia</title>
     <link>https://www.lemonde.fr/international/live/2026/08/11/en-direct-guerre-en-ukraine-nouvelles-frappes-russes-sur-kiev_6741928_3210.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/08/11/en-direct-guerre-en-ukraine-nouvelles-frappes-russes-sur-kiev_6741928_3210.html</guid>
-    <pubDate>Tue, 11 Aug 2026 00:32:40 +0000</pubDate>
+    <pubDate>Tue, 11 Aug 2026 00:32:37 +0000</pubDate>
     <category>International</category>
     <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[La capitale ukrainienne a été la cible de nouvelles frappes russes dans la nuit. Cette attaque intervient alors que le président ukrainien, Volodymyr Zelensky, avait affirmé la veille que la Russie se préparait à déployer davantage de soldats nord-coréens sur son territoire et avait reçu de nouveaux missiles balistiques en provenance de Pyongyang.]]></description>
+    <description><![CDATA[Kiev et Zaporijia ont été les cibles de nouvelles frappes russes dans la nuit. Cette attaque intervient alors que le président ukrainien, Volodymyr Zelensky, avait affirmé la veille que la Russie se préparait à déployer davantage de soldats nord-coréens sur son territoire et avait reçu de nouveaux missiles balistiques en provenance de Pyongyang.]]></description>
     <enclosure url="https://img.lemde.fr/2026/08/10/118/0/6000/3000/644/322/60/0/2512ad9_ftp-1-krqen5weh1od-acdef6fa7f6040e3bc39fa5d284328d7-2-b45a740b06e64cefb0b6150792f49876.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
@@ -299,16 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">Numerama</source>
     <description><![CDATA[Le lancement d'une fusée Longue Marche 7A a viré au fiasco ce 10 août 2026. Moins de deux minutes après s'être arraché du sol, le lanceur s'est brutalement désintégré dans le ciel de Wenchang, entraînant la perte de sa charge utile.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Rencontres d’Arles : les livres de photos pour enfants, petites merveilles et signatures prestigieuses</title>
-    <link>https://www.lemonde.fr/culture/article/2026/08/10/rencontres-d-arles-les-livres-de-photos-pour-enfants-petites-merveilles-et-signatures-prestigieuses_6743505_3246.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/culture/article/2026/08/10/rencontres-d-arles-les-livres-de-photos-pour-enfants-petites-merveilles-et-signatures-prestigieuses_6743505_3246.html</guid>
-    <pubDate>Mon, 10 Aug 2026 20:42:22 +0000</pubDate>
-    <category>Culture</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Curiosités et trésors d’inventivité alternent au fil du parcours de l’exposition « R comme regarder », qui rassemble une centaine d’ouvrages publiés dans différents pays, des années 1930 à aujourd’hui.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/08/06/373/0/6111/3055/644/322/60/0/ac54026_upload-1-5r3ez7p2whyn-lol.jpg" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>
