@@ -1,306 +1,306 @@
 {
-  "generated_at": "2026-08-10T06:16:18.631593+00:00",
+  "generated_at": "2026-08-10T08:45:23.159923+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Blizzard Entertainment est une lueur d’espoir dans la période morose traversée par Xbox",
-      "url": "https://www.numerama.com/pop-culture/2308677-blizzard-entertainment-est-une-lueur-despoir-dans-la-periode-morose-traversee-par-xbox.html",
-      "summary": "En s'offrant Activision il y a quelques années, Microsoft s'est aussi payé Blizzard Entertainment. Et l'entreprise derrière Diablo, Warcraft ou encore Overwatch est désormais le studio numéro 1 de la multinationale.",
+      "title": "EN DIRECT - Incendies : le feu fixé en Lozère",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-22-departements-en-vigilance-orange-des-incendies-en-cours-dans-la-drome-et-en-lozere-20260810_F5XEKZLHD5BJRA42V6PENSF2ME/",
+      "summary": "Environ 150 hectares ont été brûlés à environ 140 km au nord-ouest de Montpellier. En parallèle, la vague de chaleur continue de gagner du terrain ce lundi. Le pic sera atteint entre mercredi et vendredi : les 35 °C concerneront une grande partie du pays, y compris le nord de la France, selon Météo France.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-10T08:33:22+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "a5c3d3444db3"
+    },
+    {
+      "title": "Revolut annonce l'obtention d'une licence bancaire en France",
+      "url": "https://www.franceinfo.fr/economie/la-neobanque-revolut-annonce-l-obtention-d-une-licence-bancaire-en-france_8141600.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'entreprise a connu ces dernières années une croissance fulgurante et disposait déjà d'une licence dans l'Union européenne, en Lituanie. Elle doit inaugurer l'an prochain à Paris son siège pour l'Europe de l'Ouest.",
+      "image": "https://www.franceinfo.fr/pictures/YC-EMWU1MFk-94f6qnpFlET3R8M/0x522:5000x3335/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7989dca5ff1046662847.jpg",
+      "published_at": "2026-08-10T10:32:40+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "eb5d41b61158"
+    },
+    {
+      "title": "Eclipse solaire du 21 août : comment vérifier la qualité de ses lunettes en sécurité",
+      "url": "https://www.numerama.com/sciences/2308717-eclipse-solaire-du-21-aout-comment-verifier-la-qualite-de-ses-lunettes-en-securite.html",
+      "summary": "À quelques jours de l'éclipse solaire du 12 août 2026, posséder des lunettes certifiées ne suffit pas : encore faut-il s'assurer qu'elles sont en parfait état. De la simple inspection visuelle aux tests sous la lampe, voici comment vérifier la fiabilité de votre équipement avant le jour J.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-10T08:30:00+00:00",
+      "source": "Numerama",
+      "category": "Sport",
+      "id": "f5ae64352a01"
+    },
+    {
+      "title": "Meurtre de 2Pac : ouverture du procès de Duane Davis, ex-chef de gang de Compton",
+      "url": "https://www.liberation.fr/international/amerique/meurtre-de-2pac-ouverture-du-proces-de-duane-davis-ex-chef-de-gang-de-compton-20260810_WIMLFTZ4QBESVEHZPM4LYXXYPA/",
+      "summary": "Le sexagénaire est accusé d’avoir commandité le meurtre du rappeur charismatique de la West Coast le 7 septembre 1996, sur fond de guerre de gangs et d’ego. Duane Davis a notamment avoué dans ses mémoires avoir fourni l’arme au tireur, avant de se rétracter. Il clame aujourd’hui son innocence.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-10T08:29:56+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "80abdff12630"
+    },
+    {
+      "title": "Casque et gilet fluo en trottinette, mais pas à vélo : la nouvelle absurdité des pistes cyclables franciliennes",
+      "url": "https://www.numerama.com/vroom/2308733-casque-et-gilet-fluo-en-trottinette-mais-pas-a-velo-la-nouvelle-absurdite-des-pistes-cyclables-franciliennes.html",
+      "summary": "Un arrêté préfectoral du 7 août 2026 impose le casque et les équipements réfléchissants pour les trottinettes (et autres EDPM) à Paris et en Petite Couronne. Une situation qui vire un peu à l’absurde sur les pistes cyclables alors que les vélos ne sont pas concernés.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-10T08:14:13+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "b2d81b3e4cf2"
+    },
+    {
+      "title": "En Inde, des étudiants marchent vers l’assemblée législative du Jharkhand pour dénoncer des fraudes aux examens universitaires",
+      "url": "https://www.lemonde.fr/international/article/2026/08/10/en-inde-des-etudiants-marchent-vers-l-assemblee-legislative-du-jharkhand-pour-denoncer-des-fraudes-aux-examens-universitaires_6743162_3210.html",
+      "summary": "Les manifestants exigent l’annulation de plusieurs examens, qui ont été organisés par une entreprise privée au nom du gouvernement, et une enquête de la police fédérale sur la manière dont ils se sont déroulés.",
+      "image": "https://img.lemde.fr/2026/08/07/439/0/3434/1717/644/322/60/0/d1ee5b5_ftp-1-opat0qqyjsip-5792883-01-06.jpg",
+      "published_at": "2026-08-10T10:13:13+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "fe41e34d8ebb"
+    },
+    {
+      "title": "Organiser une primaire pour la présidentielle incluant les socialistes \"n'a pas de sens\", estime le secrétaire général des Républicains",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/organiser-une-primaire-pour-la-presidentielle-incluant-les-socialistes-n-a-pas-de-sens-estime-le-secretaire-general-des-republicains_8141564.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le centriste François Bayrou a plaidé dimanche pour que \"tous ceux qui rejettent les extrêmes\" se réunissent pour désigner un candidat unique. Othman Nasrou défend de son côté la nécessité \"d'un projet de rupture\".",
+      "image": "https://www.franceinfo.fr/pictures/Uy5l3K1RSAbCZb5XmCKWciwgM0Q/224x0:1197x547/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79847f22219173079988.jpg",
+      "published_at": "2026-08-10T10:11:39+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "07118c49932e"
+    },
+    {
+      "title": "La Russie annonce avoir abattu 456 drones dans la nuit, douze morts recensés côté russe, cinq côté ukrainien",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-annonce-avoir-abattu-456-drones-dans-la-nuit-cinq-morts-recenses-cote-ukrainien_8141477.html#xtor=RSS-3-[lestitres]",
+      "summary": "Plus de quatre ans après le début de l'offensive russe à grande échelle contre l'Ukraine, la diplomatie est au point mort et les deux pays continuent leurs frappes à longue portée, causant un nombre croissant de victimes civiles.",
+      "image": "https://www.franceinfo.fr/pictures/PI1OLpAl2YszYOpx_xcKNxJ03ag/0x312:6000x3687/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79851522729550313524.jpg",
+      "published_at": "2026-08-10T10:10:52+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "53f2128d2d57"
+    },
+    {
+      "title": "Vingt-deux département placés en vigilance orange canicule lundi, au premier jour d'une semaine qui s'annonce particulièrement chaude",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-quelque-22-departement-places-en-vigilance-orange-canicule-lundi-au-premier-jour-d-une-semaine-qui-s-annonce-particulierement-chaude_8141534.html#xtor=RSS-3-[lestitres]",
+      "summary": "Météo-France avertit d'un \"nouvel épisode caniculaire\" mardi, la chaleur \"s'étendant à de nombreuses régions de France\" avec des maximales atteignant 39°C dans le Sud, avant un pic attendu \"vers le milieu de la semaine\".",
+      "image": "https://www.franceinfo.fr/pictures/DxKLfujzzTsEF4LBnc-pnOx_WSE/0x32:1024x608/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7982e755714054523868.jpg",
+      "published_at": "2026-08-10T10:04:59+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "171b8970dda0"
+    },
+    {
+      "title": "L'incendie déclaré dimanche à Massegros Causses Gorges, en Lozère, a parcouru 153 hectares et est désormais \"fixé\", annonce la préfecture",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-l-incendie-declare-dimanche-a-massegros-causses-gorges-en-lozere-a-parcouru-153-hectares-et-est-desormais-fixe-annonce-la-prefecture_8141315.html#xtor=RSS-3-[lestitres]",
+      "summary": "Deux hameaux avaient été évacués à titre préventif. La \"quinzaine d'habitants\" concernée a pu regagner leur domicile dès dimanche soir, \"vers 22 heures\".",
+      "image": "https://www.franceinfo.fr/pictures/d6PaONvDLxaE7YeIk1a-bsg5vyk/0x260:5000x3073/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7976ef84bee972201337.jpg",
+      "published_at": "2026-08-10T10:00:35+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "3e58019c4567"
+    },
+    {
+      "title": "ASO refuse de rembourser les communes corréziennes privées de la 9e étape du Tour de France à cause de la canicule, regrettent les maires",
+      "url": "https://www.franceinfo.fr/tour-de-france/aso-refuse-de-rembourser-les-communes-correziennes-privees-de-la-9e-etape-du-tour-de-france-a-cause-de-la-canicule-regrettent-les-maires_8141537.html#xtor=RSS-3-[lestitres]",
+      "summary": "La 9e étape a été raccourcie de 30 kilomètres, privant huit communes du sud-Corrèze du passage des coureurs, le 12 juillet dernier. Outre les fonds engagés, c'est à la déception des habitants, heureux de fêter le Tour de France, que les élus pensent.",
+      "image": "https://www.franceinfo.fr/pictures/GVPCHMKt0x-iFHUEFoEEWGit39k/0x0:1600x900/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7981ee72d00757743710.jpg",
+      "published_at": "2026-08-10T09:47:52+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "284f7cca1c01"
+    },
+    {
+      "title": "C’est officiel, Revolut devient une vraie banque française",
+      "url": "https://www.numerama.com/cyberguerre/2308695-cest-officiel-revolut-devient-une-vraie-banque-francaise.html",
+      "summary": "Après un an d'instruction, Revolut annonce avoir obtenu son agrément bancaire français de plein exercice. Sa nouvelle entité Revolut Bank S.A. opérera depuis Paris pour toute l'Europe de l'Ouest. Ce nouveau statut ouvre la porte aux produits réglementés français, comme le Livret A ou le PEA.",
       "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-10T06:11:26+00:00",
+      "published_at": "2026-08-10T07:45:50+00:00",
       "source": "Numerama",
       "category": "Économie",
-      "id": "40d29d231190"
+      "id": "046454be0581"
     },
     {
-      "title": "Une octogénaire meurt en tentant de quitter son domicile pour échapper au vaste feu de forêt qui ravage l'ouest du Canada",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/une-octogenaire-meurt-en-tentant-de-quitter-son-domicile-pour-echapper-au-vaste-feu-de-foret-qui-ravage-l-ouest-du-canada_8141318.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Il n'y a pas d'autre décès connu pour le moment\", a assuré la gendarmerie. Cet incendie, qui s'est déclaré vendredi après-midi près du lac Okanagan, a très rapidement pris de l'ampleur et entraîné l'évacuation de plus de 20 000 personnes.",
-      "image": "https://www.franceinfo.fr/pictures/etA7KxF51OckWEwoteKTDek0C20/0x323:6500x3980/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79643a3c719815640809.jpg",
-      "published_at": "2026-08-10T08:00:16+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "79be8c563e93"
-    },
-    {
-      "title": "\"C'est important de lui donner les moyens de faire entendre un message de paix\" : l'Église lance une collecte pour financer la visite du pape en France",
-      "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/c-est-important-de-lui-donner-les-moyens-de-faire-entendre-un-message-de-paix-l-eglise-lance-une-collecte-pour-financer-la-visite-du-pape-en-france_8141468.html#xtor=RSS-3-[lestitres]",
-      "summary": "Son, écrans, sanitaires... Selon le diocèse de Paris, le budget du déplacement du pape dans la capitale varie entre 10 et 15 millions d'euros.",
-      "image": "https://www.franceinfo.fr/pictures/R89tG-ECdxem5A12JW-neP5ZEVk/0x203:3900x2397/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79689b69e90156340767.jpg",
-      "published_at": "2026-08-10T08:00:09+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "75a8939f9d3e"
-    },
-    {
-      "title": "Championnats d’Europe d’athlétisme : Duplantis, Gressier, Werro… Quelles sont les stars à suivre et les chances françaises ?",
-      "url": "https://www.liberation.fr/sports/championnats-deurope-dathletisme-duplantis-gressier-werro-quelles-sont-les-stars-a-suivre-et-les-chances-francaises-20260810_FUSIJIFDZRD3NC6AULS72GRI3I/",
-      "summary": "Alors que les meilleurs athlètes européens vont s’affronter à partir du lundi 10 août et pendant une semaine sur le tartan de Birmingham, tour d’horizon des principaux favoris et autres temps forts.",
+      "title": "Et si les Dark Souls avaient été en vue FPS ?",
+      "url": "https://www.numerama.com/pop-culture/2308685-et-si-les-dark-souls-avaient-ete-en-vue-fps.html",
+      "summary": "Une vieille présentation, attachée à un vieux prototype de Demon's Souls, montre que FromSoftware a un temps songé à proposer une vue à la première personne (FPS). Ce qui aurait pu changer le regard que l'on porte sur le RPG et ses héritiers.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-10T05:52:00+00:00",
-      "source": "Libération",
+      "published_at": "2026-08-10T07:45:00+00:00",
+      "source": "Numerama",
       "category": "Politique",
-      "id": "5410b2101d36"
+      "id": "c6f9d459cb86"
     },
     {
-      "title": "\"La parole publique doit être plus efficace\" : le gouvernement souhaite ramener les dépenses de communication de l'Etat d'un milliard à 700 millions d'euros",
-      "url": "https://www.franceinfo.fr/politique/la-parole-publique-doit-etre-plus-efficace-le-gouvernement-souhaite-ramener-les-depenses-de-communication-de-l-etat-de-1-milliard-a-700-millions-d-euros_8141450.html#xtor=RSS-3-[lestitres]",
-      "summary": "Selon le Premier ministre Sébastien Lecornu, les dépenses de communication de l'Etat ont augmenté de 45% entre 2019 et 2024. Ainsi, les campagnes destinées au grand public, notamment sur la santé, la sécurité routière ou la lutte contre le narcotrafic seront davantage interministérielles.",
-      "image": "https://www.franceinfo.fr/pictures/xZ21verFN-y8EyZMBjq5jd6kIkA/0x0:4710x2649/432x243/filters:format(jpg):quality(50)/2026/08/10/6a795f3225907897372152.jpg",
-      "published_at": "2026-08-10T07:50:15+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "f8a6118284b1"
-    },
-    {
-      "title": "Plus de 400 plaintes pour vols de câbles électriques déposées par des fournisseurs depuis le début de l'année, selon l'association Charge France",
-      "url": "https://www.franceinfo.fr/faits-divers/plus-de-400-plaintes-pour-vols-de-cables-electriques-deposees-par-des-fournisseurs-depuis-le-debut-de-l-annee-selon-l-association-charge-france_8141447.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les bornes de charge pour les voitures électriques sont devenues une nouvelle cible pour les voleurs d'or rouge, le cuivre. Un fléau qui se chiffre \"en millions\", selon le PDG d'Atlante.",
-      "image": "https://www.franceinfo.fr/pictures/WghBIOVbILWWSD4E8-bImR7kNnc/0x100:1920x1180/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7965b132011431149327.jpg",
-      "published_at": "2026-08-10T07:47:55+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "ae767794696b"
-    },
-    {
-      "title": "Vingt-deux départements, du Cher à la Corse, placés en vigilance orange \"canicule\" lundi",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/vingt-deux-departements-du-cher-a-la-corse-places-en-vigilance-orange-canicule_8141435.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les zones concernées sont majoritairement concentrées dans le sud-est de la France. Par ailleurs, il n'y a plus aucun département en vigilance orange aux \"orages\". La vague de chaleur va s'accentuer et s'étendre mardi, a averti Météo-France.",
-      "image": "https://www.franceinfo.fr/pictures/DXBaskKc_VhW_hYtsUoWG_BEoJg/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/10/6a795ced1544e142107534.jpg",
-      "published_at": "2026-08-10T07:45:02+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "e6b7e8e14e99"
-    },
-    {
-      "title": "Souviens-toi l’été d’avant la présidentielle : en 2006, et si Mélenchon avait raté le coche avec les anticapitalistes ?",
-      "url": "https://www.liberation.fr/politique/elections/souviens-toi-lete-davant-la-presidentielle-en-2006-et-si-melenchon-avait-rate-le-coche-avec-les-anticapitalistes-20260810_CNT6B5IR3NDWVKFPPSJMVFOZIA/",
-      "summary": "Un an après le «non» au référendum sur le traité constitutionnel européen, la gauche radicale pense avoir une carte à jouer pour le scrutin de 2007, et cherche à mettre sur orbite une candidature unique. En vain.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-10T05:31:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "af6864faf98e"
-    },
-    {
-      "title": "\"En l'espace de 15 jours, l'eau a changé\" : comment les cyanobactéries envahissent les lacs comme celui de Brionne, en Normandie",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/en-l-espace-de-15-jours-l-eau-a-change-comment-les-cyanobacteries-envahissent-les-lacs-comme-celui-de-brionne-en-normandie_8141096.html#xtor=RSS-3-[lestitres]",
-      "summary": "Des dizaines de plans d'eau sont interdits à la baignade cet été en France, à cause de la prolifération de cyanobactéries.",
-      "image": "https://www.franceinfo.fr/pictures/FElnU_VEEYALwu9YLhZVtXcKdRQ/432x243/filters:format(jpg):quality(50)/2026/07/03/6a474c6837c8c505040172.jpg",
-      "published_at": "2026-08-10T07:29:22+02:00",
-      "source": "France Info",
+      "title": "En Grèce, un nouvel incendie se déclare au sud-est d’Athènes, attisé par de forts vents",
+      "url": "https://www.lemonde.fr/international/article/2026/08/10/en-grece-un-nouvel-incendie-se-declare-au-sud-est-d-athenes-attise-par-de-forts-vents_6743159_3210.html",
+      "summary": "Au moins 172 pompiers et une quarantaine de véhicules ont été déployés pour lutter contre le feu à Kouvaras. La protection civile a ordonné l’évacuation d’Agios Stylianos, un village proche de cette commune.",
+      "image": "https://img.lemde.fr/2026/08/10/459/0/5500/2750/644/322/60/0/9dec432_ftp-1-c6v5uiqw48kx-2026-08-10t050026z-640448011-rc24rma3jcye-rtrmadp-3-europe-economy-heatwaves.JPG",
+      "published_at": "2026-08-10T09:42:12+02:00",
+      "source": "Le Monde Inter",
       "category": "Sport",
-      "id": "2853a69f5ac2"
+      "id": "fc069fc69a7d"
     },
     {
-      "title": "\"Il va tout faire pour faire capoter\" : les Israéliens divisés après le rejet du plan pour Gaza par Benyamin Nétanyahou",
-      "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/il-va-tout-faire-pour-faire-capoter-les-israeliens-divises-apres-le-rejet-du-plan-pour-gaza-par-benyamin-netanyahou_8141204.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Premier ministre israélien Benyamin Nétanyahou a rejeté dimanche le plan américain pour Gaza. Ce refus net suscite de vives réactions au sein d'une opinion publique profondément divisée.",
-      "image": "https://www.franceinfo.fr/pictures/tKPSgJV7Q7bgD6bDQN4Zw4RVGgc/0x312:6000x3687/432x243/filters:format(jpg):quality(50)/2026/03/30/69ca16a9586d9878797793.jpg",
-      "published_at": "2026-08-10T07:19:59+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "aa3c6e027f9e"
-    },
-    {
-      "title": "L'ancien conseiller militaire du guide suprême iranien, Mohsen Rezaï, nommé à la tête de la plus haute instance sécuritaire du pays",
-      "url": "https://www.franceinfo.fr/monde/iran/l-ancien-conseiller-militaire-du-guide-supreme-iranien-mohsen-rezai-nomme-a-la-tete-de-la-plus-haute-instance-securitaire-du-pays_8141309.html#xtor=RSS-3-[lestitres]",
-      "summary": "Mohsen Rezaï, 71 ans, a dirigé de 1981 à 1997 le Corps des Gardiens de la Révolution, l'armée idéologique iranienne.",
-      "image": "https://www.franceinfo.fr/pictures/JJm1tVG1J4vJ558j37GkOPZdLV4/0x0:2000x1125/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7958324b40d252994118.jpg",
-      "published_at": "2026-08-10T07:14:10+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "b97f6cd0d782"
-    },
-    {
-      "title": "La Cité internationale de la tapisserie d'Aubusson dévoile un nouveau projet avec le studio d'animation Ghibli",
-      "url": "https://www.franceinfo.fr/culture/cinema/films-animation/la-cite-internationale-de-la-tapisserie-d-aubusson-devoile-un-nouveau-projet-avec-le-studio-d-animation-ghibli_8141405.html#xtor=RSS-3-[lestitres]",
-      "summary": "Après avoir réalisé six œuvres inspirées du réalisateur japonais, l'institution creusoise s'attaque au \"Conte de la princesse Kaguya\", un film du co-fondateur du studio Ghibli, Isao Takahata, révèle ICI Creuse.",
-      "image": "https://www.franceinfo.fr/pictures/f5QKDytCSJdumqRpfGSqdVrZQg0/0x0:944x531/432x243/filters:format(jpg):quality(50)/2026/08/10/6a795babc3513804377020.jpg",
-      "published_at": "2026-08-10T07:09:56+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "f254e06576bb"
-    },
-    {
-      "title": "Comme Henry David Thoreau, finissons-en avec les paillassons, par Gaspard Koenig",
-      "url": "https://www.liberation.fr/idees-et-debats/comme-henry-david-thoreau-finissons-en-avec-les-paillassons-par-gaspard-koenig-20260810_AARK6OTT6BBSZFC5SZHRMMRHLM/",
-      "summary": "En s’y essuyant les pieds, on laisse le monde derrière soi. Retirer les paillassons, c’est transformer nos résidences en habitats et renouer de plain-pied avec notre écosystème, théorise l’essayiste libéral et écolo.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-10T05:09:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "610997353f1d"
-    },
-    {
-      "title": "\"Je veux être double champion d'Europe, c'est l'objectif\"... Désormais champion du monde, Jimmy Gressier à l'épreuve de la confirmation aux Europe d'athlétisme",
-      "url": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/je-veux-etre-double-champion-d-europe-c-est-l-objectif-desormais-champion-du-monde-jimmy-gressier-a-l-epreuve-de-la-confirmation-aux-europe-d-athletisme_8140778.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Nordiste a moins couru en compétition sur piste cette saison. Porté par le rêve d'un doublé doré, il espère engranger de la confiance sur sa première finale, le 5 000 m lundi, avant les 25 tours du 10 000 m samedi.",
-      "image": "https://www.franceinfo.fr/pictures/VU5gUB8JjvaQ420fKOyTKCuQqnc/0x255:4912x3018/432x243/filters:format(jpg):quality(50)/2026/08/09/6a78af2f4a2d3713468704.jpg",
-      "published_at": "2026-08-10T07:00:02+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "298c4ecc29ed"
-    },
-    {
-      "title": "OM et PSG : une haine éternelle et pas mal artificielle",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/om-et-psg-une-haine-eternelle-et-pas-mal-artificielle-20260810_B36X6NAF6VBYFEQKUMY37X5NHQ/",
-      "summary": "Du «coup de génie» de Tapie à l’essoufflement actuel, la plus grande rivalité du foot français a traversé trente-cinq années ponctuées de coups bas, de tragédies, de fulgurances et de matchs légendaires.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-10T05:00:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "2fe921664baf"
-    },
-    {
-      "title": "\"Les gens étaient vraiment au bord de la crise de nerfs\" : la mairie de Boivre-la-Vallée dans la Vienne a pris un arrêté contre les aboiements de chiens",
-      "url": "https://www.franceinfo.fr/environnement/biodiversite/animaux/les-gens-etaient-vraiment-au-bord-de-la-crise-de-nerfs-la-mairie-de-boivre-la-vallee-dans-la-vienne-a-pris-un-arrete-contre-les-aboiements-de-chiens_8141369.html#xtor=RSS-3-[lestitres]",
-      "summary": "Avec la canicule, les gens ont dormi les fenêtres ouvertes mais c'était sans compter les concerts d'aboiements des chiens du voisinage. Les signalements se sont multipliés contraignant le maire à agir. Les propriétaires des chiens risquent des amendes de 135 euros.",
-      "image": "https://www.franceinfo.fr/pictures/3w15VzTBI77ajVSJcKA-3Txj-fs/0x471:5315x3461/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79551d4c46c320728716.jpg",
-      "published_at": "2026-08-10T06:47:27+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "a3ecd10f8d6e"
-    },
-    {
-      "title": "En Ouzbékistan, pour les habitants des routes de la soie, «le tourisme est un tueur en série»",
-      "url": "https://www.liberation.fr/international/asie-pacifique/en-ouzbekistan-pour-les-habitants-des-routes-de-la-soie-le-tourisme-est-un-tueur-en-serie-20260810_N4WCM7AIHRGLNKVW7PLB2ZERYY/",
-      "summary": "En quelques années, l’Etat d’Asie centrale et ses paysages de carte postale se sont imposés comme une nouvelle destination à la mode. Rendant les cités des «routes de la soie» chères et inhospitalières pour ses résidents.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-10T04:38:00+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "79ba8561d85b"
-    },
-    {
-      "title": "En Colombie, six membres de groupes armés tués lors des premières opérations militaires du nouveau président",
-      "url": "https://www.lemonde.fr/international/article/2026/08/10/en-colombie-six-membres-de-groupes-armes-tues-lors-des-premieres-operations-militaires-du-nouveau-president_6743087_3210.html",
-      "summary": "Ces manœuvres envoient « un message clair et percutant pour tous les bandits », a déclaré Abelardo de la Espriella, qui a dit vouloir interrompre les négociations de paix engagées par son prédécesseur de gauche, Gustavo Petro, avec les guérilleros.",
-      "image": "https://img.lemde.fr/2026/08/08/54/0/3249/1624/644/322/60/0/5fb7d9a_ftp-1-kmmjljmzk6nm-953d2d7c85c94b8aa2a82cd336cc0f97-1-87d962daa82c4187b92ae20a70535802.jpg",
-      "published_at": "2026-08-10T06:33:59+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "64770259eb4b"
-    },
-    {
-      "title": "\"J'ai vécu des journées à ne plus savoir quoi faire\" : face à la succession de phénomènes climatiques extrêmes, l'éco-anxiété en forte augmentation",
-      "url": "https://www.franceinfo.fr/environnement/crise-climatique/j-ai-vecu-des-journees-a-ne-plus-savoir-quoi-faire-face-a-la-succession-de-phenomenes-climatiques-extremes-l-eco-anxiete-en-forte-augmentation_8140811.html#xtor=RSS-3-[lestitres]",
-      "summary": "Alors que nous traversons un été exceptionnellement chaud, marquée par de violents incendies et une importante sécheresse, les Français s'inquiètent de plus en plus de l'avenir.",
-      "image": "https://www.franceinfo.fr/pictures/Rh3-pPSJBRWnCOtEgUC3Di1gUP4/0x47:5874x3348/432x243/filters:format(jpg):quality(50)/2021/11/03/php3Ap9Fy.jpg",
-      "published_at": "2026-08-10T06:32:43+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "8e3031b2790a"
-    },
-    {
-      "title": "Pour la présidentielle de 2027, François Bayrou souhaite une grande primaire entre \"tous ceux qui rejettent les extrêmes\" pour désigner un candidat unique",
-      "url": "https://www.franceinfo.fr/elections/presidentielle/pour-la-presidentielle-de-2027-francois-bayrou-souhaite-une-grande-primaire-entre-tous-ceux-qui-rejettent-les-extremes-pour-designer-un-candidat-unique_8141312.html#xtor=RSS-3-[lestitres]",
-      "summary": "Pour l'ex-Premier ministre, \"le risque maximum, c'est un deuxième tour entre l'extrême droite et l'extrême gauche\", et cette \"catastrophe\" se produira \"si nous ne portons pas au deuxième tour un candidat capable de rassembler tous les démocrates réformistes\".",
-      "image": "https://www.franceinfo.fr/pictures/EgyneKa8LzXiLC1IsgOWDNCduM8/0x0:5868x3300/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7951a67a84c270196112.jpg",
-      "published_at": "2026-08-10T06:32:20+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "171d8d9e5352"
-    },
-    {
-      "title": "Les océans n'avaient jamais connu de mois de juillet aussi chaud qu'en 2026, annonce Copernicus",
-      "url": "https://www.franceinfo.fr/environnement/crise-climatique/les-oceans-n-avaient-jamais-connu-de-mois-de-juillet-aussi-chaud-qu-en-2026-annonce-copernicus_8139884.html#xtor=RSS-3-[lestitres]",
-      "summary": "Dans son dernier bulletin, l'observatoire européen revient notamment sur une situation \"exceptionnelle\" marquée par des températures records en Europe occidentale.",
-      "image": "https://www.franceinfo.fr/pictures/bfyg8_5ZojNPsxE9zHNWV3gdGcQ/0x351:6829x4193/432x243/filters:format(jpg):quality(50)/2026/08/09/6a78421d8978b922468066.jpg",
-      "published_at": "2026-08-10T06:16:45+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "4c536e73edf4"
-    },
-    {
-      "title": "\"Ça a pris une dimension incroyable\"... Après cinq ans d’existence, le Tour de France femmes s’est bien installé malgré un écosystème encore fragile",
-      "url": "https://www.franceinfo.fr/tour-de-france/femmes/ca-a-pris-une-dimension-incroyable-apres-cinq-ans-d-existence-le-tour-de-france-femmes-s-est-bien-installe-malgre-un-ecosysteme-encore-fragile_8140682.html#xtor=RSS-3-[lestitres]",
-      "summary": "Relancé en 2022 après six éditions dans les années 1980, le Tour de France femmes est la locomotive d’un cyclisme féminin en plein essor.",
-      "image": "https://www.franceinfo.fr/pictures/0JPdRnm8FdsuDSEjL_MfGvQsFEI/0x414:4500x2945/432x243/filters:format(jpg):quality(50)/2026/08/09/6a784f1436de7320961358.jpg",
-      "published_at": "2026-08-10T06:15:01+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "be99a800a21c"
-    },
-    {
-      "title": "Championnats d’Europe de natation à Saint-Denis : cinq moments à ne manquer sous aucun prétexte",
-      "url": "https://www.liberation.fr/sports/championnats-deurope-de-natation-a-saint-denis-cinq-moments-a-ne-manquer-sous-aucun-pretexte-20260810_OM6Y6MCBFBEVDM3GDICPTFW574/",
-      "summary": "Aux côtés des athlètes français, la multimédaillée Sarah Sjöström et l’imbattable David Popovici seront au casting de la compétition.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-10T04:11:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "816455c13882"
-    },
-    {
-      "title": "La fermeture du pôle spectacle vivant de l’agence culturelle du Grand-Est, cas d’école des restrictions budgétaires qui touchent la culture",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/10/la-fermeture-du-pole-spectacle-vivant-de-l-agence-culturelle-du-grand-est-cas-d-ecole-des-restrictions-budgetaires-qui-touchent-la-culture_6743086_823448.html",
-      "summary": "A Sélestat, dans le Bas-Rhin, la structure accompagnant le spectacle vivant était un rouage essentiel dans la diffusion culturelle en milieu rural. Des pôles similaires sont fragilisés par les restrictions budgétaires des exécutifs régionaux qui expliquent que la culture ne fait pas partie de leur compétence obligatoire.",
-      "image": "https://img.lemde.fr/2026/08/06/695/0/4999/2499/644/322/60/0/103c4ca_upload-1-kbm0bjez9wuq-20260806dna1700.jpg",
-      "published_at": "2026-08-10T06:00:55+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "e5fee3a3d6c0"
-    },
-    {
-      "title": "En Iran, la répression martèle la société civile",
-      "url": "https://www.lemonde.fr/international/article/2026/08/10/en-iran-la-repression-s-est-intensifiee-depuis-le-debut-de-la-guerre_6743083_3210.html",
-      "summary": "Les autorités accentuent la pression sur les espaces de liberté. La photojournaliste Yalda Moaiery a été condamnée à quinze ans d’emprisonnement, les exécutions se multiplient, les artistes sont convoqués par les services de sécurité ou les autorités judiciaires et les cafés sont fermés.",
-      "image": "https://img.lemde.fr/2026/02/02/683/0/1125/562/644/322/60/0/fe11b63_ftp-1-u01eo9yea0uq-415248-3457284.jpg",
-      "published_at": "2026-08-10T06:00:27+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "1d08508d9309"
-    },
-    {
-      "title": "« La seule chance pour que le pays se relève » : au Venezuela, le rebond de l’activité pétrolière sous le contrôle « néocolonial » des Etats-Unis",
-      "url": "https://www.lemonde.fr/international/article/2026/08/10/la-seule-chance-pour-que-le-pays-se-releve-au-venezuela-le-rebond-de-l-activite-petroliere-sous-le-controle-neocolonial-des-etats-unis_6743081_3210.html",
-      "summary": "Alors que Donald Trump affiche sa volonté de mettre sous tutelle l’exploitation du pétrole vénézuélien, les experts fustigent l’« opacité totale » de la gestion des revenus de cette activité. Les organisations citoyennes dénoncent l’absence de retombées économiques dans les régions productrices d’hydrocarbures, polluées et « abandonnées » par Caracas.",
-      "image": "https://img.lemde.fr/2026/08/07/497/0/5209/2604/644/322/60/0/e71db92_upload-1-eezzuceib28l-000-92466kf.jpg",
-      "published_at": "2026-08-10T06:00:21+02:00",
+      "title": "La Syrie restreint la présence militaire de la Russie sur le littoral méditerranéen",
+      "url": "https://www.lemonde.fr/international/article/2026/08/10/la-syrie-restreint-la-presence-militaire-de-la-russie-sur-le-littoral-mediterraneen_6743158_3210.html",
+      "summary": "Damas a annoncé, dimanche 9 août, un accord qui fixe un nouveau cadre à la présence militaire russe sur ses deux dernières bases en Syrie. Elle en rétrograde la portée, tout en laissant la porte ouverte à un rôle de Moscou dans la formation des forces syriennes.",
+      "image": "https://img.lemde.fr/2026/08/09/458/0/5500/2750/644/322/60/0/8041c07_ftp-1-kt3ohb3kq5vg-2026-08-09t130436z-699510682-rc2ambabi4ju-rtrmadp-3-syria-russia.JPG",
+      "published_at": "2026-08-10T09:40:07+02:00",
       "source": "Le Monde Inter",
       "category": "International",
-      "id": "eaf35bf70de3"
+      "id": "43e0917e55b0"
     },
     {
-      "title": "Aux Etats-Unis, le camp républicain face aux vents contraires avant les élections de mi-mandat",
-      "url": "https://www.lemonde.fr/international/article/2026/08/10/aux-etats-unis-le-camp-republicain-face-aux-vents-contraires-avant-les-elections-de-mi-mandat_6743085_3210.html",
-      "summary": "A trois mois des midterms, l’inflation persistante et les chiffres décevants de l’emploi contribuent aux sondages en berne le « Grand Old Party ». Des fissures apparaissent dans la sphère MAGA, qui reconstitue son unité en accusant les démocrates d’être une « alliance de communistes et d’islamistes ».",
-      "image": "https://img.lemde.fr/2026/08/08/734/0/8070/4035/644/322/60/0/32fc286_ftp-1-vr3w31tju6z5-5797634-01-06.jpg",
-      "published_at": "2026-08-10T06:00:16+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "1af547251546"
+      "title": "La Russie intercepte 456 drones ukrainiens et évoque un bilan de 13 morts",
+      "url": "https://www.liberation.fr/international/europe/la-russie-intercepte-456-drones-ukrainiens-et-evoque-un-bilan-de-13-morts-20260810_MYTUIXYJQVAYRBKKLWP3Q6AUCQ/",
+      "summary": "Les frappes ont visé une quinzaine de régions russes et la Crimée annexée dans la nuit de dimanche à lundi.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-08-10T07:38:55+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "0edf39fbedc9"
     },
     {
-      "title": "A La Roche-Guyon, une « expérience de visite complètement repensée » pour réveiller le château troglodytique",
-      "url": "https://www.lemonde.fr/culture/article/2026/08/10/a-la-roche-guyon-une-experience-de-visite-completement-repensee-pour-reveiller-le-chateau-troglodytique_6743078_3246.html",
-      "summary": "Depuis son arrivée à la tête de l’établissement en août 2025, Emmanuel Morin veut faire dialoguer l’histoire et le mobilier retrouvé avec la création contemporaine.",
-      "image": "https://img.lemde.fr/2026/08/06/450/0/3264/1632/644/322/60/0/fd54eb9_upload-1-sd8br9rnkb8y-cha-teau-de-la-roche-guyon-photo-amand-berteigne.jpg",
-      "published_at": "2026-08-10T06:00:07+02:00",
+      "title": "Revolut annonce l’obtention d’une licence bancaire en France",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/10/revolut-annonce-l-obtention-d-une-licence-bancaire-en-france_6743157_3234.html",
+      "summary": "La banque en ligne britannique a connu ces dernières années une croissance fulgurante. Elle disposait déjà d’une licence en Lituanie et au Royaume-Uni.",
+      "image": "https://img.lemde.fr/2024/09/16/513/0/3076/1538/644/322/60/0/2df011b_1726522757770-000-33dm2n2.jpg",
+      "published_at": "2026-08-10T09:37:02+02:00",
       "source": "Le Monde",
-      "category": "Sport",
-      "id": "fd8ee0b85564"
+      "category": "Politique",
+      "id": "12cffa865ceb"
+    },
+    {
+      "title": "Le nouveau personnage d’Overwatch est D.Va 2.0, mais Blizzard assure que ce n’est pas D.Va 2.0",
+      "url": "https://www.numerama.com/pop-culture/2308687-le-nouveau-personnage-doverwatch-est-d-va-2-0-mais-blizzard-assure-que-ce-nest-pas-d-va-2-0.html",
+      "summary": "Yuna « D.Mon » Lee sera le nouveau personnage qui rejoindra le casting très fourni d'Overwatch. Et si elle vous dit quelque chose, c'est normal : D.Mon est le deuxième héros pilotant un mécha après D.Va, et les ressemblances ne s'arrêtent pas là.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-10T07:32:39+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "f2b72bc8679c"
     },
     {
       "title": "Demi Vollering reine du Tour, Arthur Fils brille à Montréal, Léon Marchand forfait sur le 4 nages... Le récap' sport du week-end",
       "url": "https://www.franceinfo.fr/sports/demi-vollering-reine-du-tour-arthur-fils-brille-a-montreal-leon-marchand-forfait-sur-le-4-nages-le-recap-sport-du-week-end_8140706.html#xtor=RSS-3-[lestitres]",
       "summary": "La Néerlandaise a remporté, dimanche, le deuxième Tour de France de sa carrière en résistant à la Polonaise Kasia Niewiadoma.",
       "image": "https://www.franceinfo.fr/pictures/SzHW_FtoqaYIjeM3b8g7cUFBgTg/0x0:2000x1125/432x243/filters:format(jpg):quality(50)/2026/08/09/6a78b20254c1b084088374.png",
-      "published_at": "2026-08-10T06:00:01+02:00",
+      "published_at": "2026-08-10T09:27:26+02:00",
       "source": "France Info",
       "category": "Sport",
       "id": "5a3641e8213f"
     },
     {
-      "title": "Quiz : des vers plein de fruits",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/quiz-des-vers-plein-de-fruits-20260810_ETWUTSYEHJELDDQLUZYODGYKRU/",
-      "summary": "(20/30) A base de pommes, poires ou prunes, saurez-vous déguster les titres de ces chansons?",
+      "title": "Une édition inédite au Royaume-Uni, Gressier pour un premier sacre européen sur piste, Duplantis chasse le quadruplé... Ce qu'il faut savoir des championnats d'Europe d'athlétisme",
+      "url": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/une-edition-inedite-au-royaume-uni-gressier-pour-un-premier-sacre-europeen-sur-piste-duplantis-chasse-le-quadruple-ce-qu-il-faut-savoir-des-championnats-d-europe-d-athletisme_8136887.html#xtor=RSS-3-[lestitres]",
+      "summary": "La compétition continentale se tiendra du 10 au 16 août à Birmingham, en Angleterre.",
+      "image": "https://www.franceinfo.fr/pictures/DywoUtNWQXiRmsvcRvZUmVR9aV4/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/06/6a74571f0d60c819187607.jpg",
+      "published_at": "2026-08-10T09:25:16+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "b939f3a2349f"
+    },
+    {
+      "title": "Présidentielle 2027 : François Bayrou souhaite une grande primaire entre « tous ceux qui rejettent les extrêmes », « du PS jusqu’aux gaullistes »",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/10/presidentielle-2027-francois-bayrou-souhaite-une-grande-primaire-entre-tous-ceux-qui-rejettent-les-extremes-du-ps-jusqu-aux-gaullistes_6743156_823448.html",
+      "summary": "« Le risque maximum, c’est un deuxième tour entre l’extrême droite et l’extrême gauche », affirme l’ex-premier ministre, qui estime que cette « catastrophe » se produira « si nous ne portons pas au deuxième tour un candidat capable de rassembler tous les démocrates réformistes ».",
+      "image": "https://img.lemde.fr/2026/08/10/639/0/6192/3096/644/322/60/0/f5ce1e3_upload-1-qegymw15rjga-000-a4bd83t.jpg",
+      "published_at": "2026-08-10T09:06:51+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "c3106027ca31"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : une attaque de drones ukrainienne a fait au moins 13 morts et des dizaines de blessés au Tatarstan",
+      "url": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-une-attaque-de-drones-ukrainienne-fait-au-moins-douze-morts-et-des-dizaines-de-blesses-au-tatarstan_6741928_3210.html",
+      "summary": "Le raid a visé Nijnekamsk, une ville industrielle située à environ 1 600 kilomètres à l’est de la frontière ukrainienne, dans la République du Tatarstan, en Russie. Moscou a affirmé lundi avoir abattu plus de 450 drones ukrainiens dans la nuit au-dessus d’une quinzaine de régions et de la Crimée annexée.",
+      "image": "https://img.lemde.fr/2026/08/10/805/0/8144/4072/644/322/60/0/3a448ce_ftp-1-7wg8wwv1rnpy-15142ab4ef7d42a5932ae50530325e22-3-59b753911223404bae7466408242091e.jpg",
+      "published_at": "2026-08-10T09:05:47+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "5c1ce52caec4"
+    },
+    {
+      "title": "Présidentielle 2027 : François Bayrou appelle à organiser une grande primaire entre «tous ceux qui rejettent les extrêmes»",
+      "url": "https://www.liberation.fr/politique/presidentielle-2027-francois-bayrou-appelle-a-organiser-une-grande-primaire-entre-tous-ceux-qui-rejettent-les-extremes-20260810_HI6DN4CYPBHUTN3BUNV6GTL3M4/",
+      "summary": "L’ex-Premier ministre propose dans un entretien au «Figaro» un vote avant l’élection entre les candidats potentiels de la branche «sociale-démocrate» du Parti Socialiste, «jusqu’aux gaullistes», pour éviter son scénario «catastrophe» d’un deuxième tour Mélenchon-Le Pen en 2027.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-10T07:05:47+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "56bcfa005ba5"
+    },
+    {
+      "title": "\"Ils viennent et prennent n'importe qui\" : aux Etats-Unis, la communauté haïtienne vit dans la peur depuis la fin de leur statut de protection",
+      "url": "https://www.franceinfo.fr/monde/usa/reportage-ils-viennent-et-prennent-n-importe-qui-aux-etats-unis-la-communaute-haitienne-vit-dans-la-peur-depuis-la-fin-de-leur-statut-de-protection_8140865.html#xtor=RSS-3-[lestitres]",
+      "summary": "Des centaines de milliers d'Haïtiens risquent de devoir quitter d'eux-mêmes les États-Unis ou d'être expulsés, depuis la révocation d'un statut de protection temporaire qui leur permettait depuis 2010 de vivre et de travailler légalement dans le pays.",
+      "image": "https://www.franceinfo.fr/pictures/DNfV_5ygdqGSHeE_WIGQmYNz1RE/0x223:4300x2642/432x243/filters:format(jpg):quality(50)/2026/05/18/6a0ad3aba1b0c826094452.jpg",
+      "published_at": "2026-08-10T08:59:28+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "2b8a4eaf9142"
+    },
+    {
+      "title": "L'hôpital privé d'Arès en Gironde a retrouvé un \"fonctionnement normal\", plus de deux semaines après avoir été évacué à cause du feu",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/l-hopital-prive-d-ares-en-gironde-a-retrouve-un-fonctionnement-normal-plus-de-deux-semaines-apres-avoir-ete-evacue-a-cause-du-feu_8141498.html#xtor=RSS-3-[lestitres]",
+      "summary": "Tous les services ont rouvert et l'Ehpad a récupéré l'ensemble de ses résidents, annonce le directeur de l'établissement. Le nettoyage a nécessité plus d'une semaine de travail. L'incendie s'est arrêté à un kilomètre de l'hôpital.",
+      "image": "https://www.franceinfo.fr/pictures/Xit0Ls6TCAgr8KkUeAujWCuyLN4/43x0:1236x671/432x243/filters:format(jpg):quality(50)/2026/08/10/6a797458bfbd0429586428.jpg",
+      "published_at": "2026-08-10T08:53:28+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "2b8522c1760b"
+    },
+    {
+      "title": "Records de chaleur en Europe de l’Ouest, l’Iran n’est pas prête à rouvrir le détroit d’Ormuz, début des championnats d’Europe de natation… L’actu de ce lundi 10 août au matin",
+      "url": "https://www.liberation.fr/international/europe/records-de-chaleur-en-europe-de-louest-liran-nest-pas-prete-a-rouvrir-le-detroit-dormuz-debut-des-championnats-deurope-de-natation-lactu-de-ce-lundi-10-aout-au-matin-20260810_W5YHFGW5QVAILG254FFPO7MXDY/",
+      "summary": "La rédaction de «Libération» compile les principales infos du jour",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-10T04:00:00+00:00",
+      "published_at": "2026-08-10T06:43:07+00:00",
       "source": "Libération",
       "category": "Sport",
-      "id": "d2019636b103"
+      "id": "b2d57b5b2d87"
+    },
+    {
+      "title": "Mon budget vacances : «En tandem, dans le Nord et en Belgique, à 720 euros pour deux»",
+      "url": "https://www.liberation.fr/lifestyle/voyages/mon-budget-vacances-en-tandem-dans-le-nord-et-en-belgique-a-720-euros-pour-deux-20260810_HIAJYYORJJHZDBJ4EGSZJWSX4M/",
+      "summary": "Plutôt voyages en éco ou en première classe ? S’il y a bien un moment de l’année où l’on s’autorise quelques folies, c’est l’été. Dans notre premier épisode, Anatole enfourche son vélo deux places pour un périple abordable dans le Nord.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-10T06:42:00+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "7fed4d5f2b8a"
+    },
+    {
+      "title": "Visé par une nouvelle affaire, Gianni Infantino peut-il sauver sa tête ?",
+      "url": "https://www.franceinfo.fr/sports/foot/giovanni-infantino/vise-par-une-nouvelle-affaire-gianni-infantino-peut-il-sauver-sa-tete_8141495.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le président de la FIFA, Gianni Infantino, est une nouvelle fois dans la tourmente. Une enquête du Telegraph évoque le versement d’une importante somme d’argent à une collaboratrice présentée comme sa maîtresse supposée, à l'époque où il était à la tête de l’UEFA.",
+      "image": "https://www.franceinfo.fr/pictures/2yzNUuhQcvnTmJ5wAmFCYD5qhJI/0x30:1342x785/432x243/filters:format(jpg):quality(50)/2026/08/10/6a796f037c9ab826070650.jpg",
+      "published_at": "2026-08-10T08:27:25+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "6bc314e64b38"
+    },
+    {
+      "title": "«Je gère comme je peux» : blessé, Léon Marchand a dû revoir à la baisse ses ambitions pour l’Euro de natation",
+      "url": "https://www.liberation.fr/sports/je-gere-comme-je-peux-blesse-leon-marchand-a-du-revoir-a-la-baisse-ses-ambitions-pour-leuro-de-natation-20260810_T6S6753OFJH55ASATQWCP7OT6Q/",
+      "summary": "Le quadruple champion olympique, souffrant d’une lésion à l’adducteur droit, n’a pu s’entraîner comme il le souhaitait dans la dernière ligne droite. Il a finalement renoncé à participer à ses épreuves fétiches des 200 et 400 m quatre nages, mais veut se tester sur le 400 m nage libre.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-10T06:26:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "c0dfe8963fda"
+    },
+    {
+      "title": "En Colombie, six membres de groupes armés tués lors d'opérations lancées par le nouveau président pro-Trump",
+      "url": "https://www.franceinfo.fr/monde/en-colombie-six-membres-de-groupes-armes-tues-lors-d-operations-lancees-par-le-nouveau-president-pro-trump_8141321.html#xtor=RSS-3-[lestitres]",
+      "summary": "Lors de son investiture vendredi, Abelardo de la Espriella avait promis de combattre \"sans répit le narcoterrorisme et toutes les organisations criminelles\", et affirmé que l'option du dialogue avec les principaux groupes armés était complètement épuisée.",
+      "image": "https://www.franceinfo.fr/pictures/onUKELrcheKZrGY-QWCdoM4VUxA/697x375:2932x1632/432x243/filters:format(jpg):quality(50)/2026/08/10/6a796bfe04a9c390890865.jpg",
+      "published_at": "2026-08-10T08:17:58+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "c6e4754dabd3"
     }
   ]
 }
