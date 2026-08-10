@@ -1,7 +1,187 @@
 {
-  "generated_at": "2026-08-10T11:54:25.681407+00:00",
+  "generated_at": "2026-08-10T13:34:15.944009+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "La Russie annonce avoir abattu 456 drones dans la nuit, 13 morts recensés côté russe, au moins six côté ukrainien",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-annonce-avoir-abattu-456-drones-dans-la-nuit-cinq-morts-recenses-cote-ukrainien_8141477.html#xtor=RSS-3-[lestitres]",
+      "summary": "Plus de quatre ans après le début de l'offensive russe à grande échelle contre l'Ukraine, la diplomatie est au point mort et les deux pays continuent leurs frappes à longue portée, causant un nombre croissant de victimes civiles.",
+      "image": "https://www.franceinfo.fr/pictures/PI1OLpAl2YszYOpx_xcKNxJ03ag/0x312:6000x3687/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79851522729550313524.jpg",
+      "published_at": "2026-08-10T15:31:30+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "53f2128d2d57"
+    },
+    {
+      "title": "Colombie : un fort séisme de magnitude 6,6 ressenti à Bogota",
+      "url": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
+      "summary": "D’intenses secousses ont frappé le pays ce lundi 10 août jusqu’à la frontière du Venezuela. Des immeubles de la capitale ont été évacués.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-10T13:26:38+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "d935ffb834e6"
+    },
+    {
+      "title": "Sécheresse : la situation des nappes phréatiques françaises est plus dégradée qu'en 2025, alors que l'Hexagone traverse une nouvelle canicule",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-quelque-22-departement-places-en-vigilance-orange-canicule-lundi-au-premier-jour-d-une-semaine-qui-s-annonce-particulierement-chaude_8141534.html#xtor=RSS-3-[lestitres]",
+      "summary": "Près de 70% du territoire métropolitain français fait l'objet de mesures de restrictions de l'usage de l'eau, selon le ministère de la Transition écologique.",
+      "image": "https://www.franceinfo.fr/pictures/h7bXnlEUzLZ3L2Hl1DS3NPUyB_0/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79cbe71dc34418663178.jpg",
+      "published_at": "2026-08-10T15:23:53+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "171b8970dda0"
+    },
+    {
+      "title": "«Grande primaire» : Monsieur Bayrou, laissez la gauche en dehors de ça !",
+      "url": "https://www.liberation.fr/politique/elections/grande-primaire-monsieur-bayrou-laissez-la-gauche-en-dehors-de-ca-20260810_IN7DGFWHGVDTXPBIRAAWGLSKY4/",
+      "summary": "Le patron du Modem propose ce lundi dans «le Figaro» «une compétition entre les candidats potentiels» qui «rejettent les extrêmes». Une primaire du PS à LR n’aurait aucun sens politique.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-10T13:16:51+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "f14519b08ff8"
+    },
+    {
+      "title": "La Russie intercepte 456 drones ukrainiens et évoque un bilan de 14 morts",
+      "url": "https://www.liberation.fr/international/europe/la-russie-intercepte-456-drones-ukrainiens-et-evoque-un-bilan-de-13-morts-20260810_MYTUIXYJQVAYRBKKLWP3Q6AUCQ/",
+      "summary": "Les frappes ont visé une quinzaine de régions russes et la Crimée annexée dans la nuit de dimanche à lundi. L’attaque sur le Tatarstan, à 1 600 km de la frontière, est l’une des plus meurtrières sur le sol russe depuis le début de la guerre.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-08-10T13:12:47+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "0edf39fbedc9"
+    },
+    {
+      "title": "Présidentielle 2027 : Raphaël Glucksmann soutenu par Daniel Cohn-Bendit, qui vante son « positionnement nouveau »",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/10/presidentielle-2027-raphael-glucksmann-soutenu-par-daniel-cohn-bendit-qui-vante-son-positionnement-nouveau_6743338_823448.html",
+      "summary": "Pour l’ancien député européen, le leader de Place publique, qui doit encore confirmer sa participation à la primaire de l’espace social-démocrate, est le seul qui « formule ou ébauche une politique de transformation du réformisme de gauche ».",
+      "image": "https://img.lemde.fr/2026/08/10/530/0/5120/2560/644/322/60/0/b6686fe_upload-1-kaiq250zljzk-000-863z74p.jpg",
+      "published_at": "2026-08-10T15:08:17+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "9c9035fd4890"
+    },
+    {
+      "title": "Sécheresse : près de 70 % de la France fait l’objet de mesures de restriction de l’usage de l’eau",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/10/secheresse-pres-de-70-de-la-france-fait-l-objet-de-mesures-de-restriction-de-l-usage-de-l-eau_6743337_3244.html",
+      "summary": "Dimanche, 99 départements étaient au minimum au niveau « vigilance ». Parmi eux, 67 sont au niveau « crise », ce qui signifie que l’eau est réservée aux usages prioritaires : santé, sécurité civile, eau potable, salubrité.",
+      "image": "https://img.lemde.fr/2026/07/29/746/0/5000/2500/644/322/60/0/5bfcdc1_upload-1-mei44a121l9v-eau-creuse-valerieteppe-hanslucas-71.jpg",
+      "published_at": "2026-08-10T14:53:47+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "985743cbe4f2"
+    },
+    {
+      "title": "Après l'afflux de migrants à Ceuta, Edouard Philippe propose des mesures pour limiter l'immigration et les régularisations de sans-papiers dans l'Union européenne",
+      "url": "https://www.franceinfo.fr/societe/immigration/apres-l-afflux-de-migrants-a-ceuta-edouard-philippe-propose-des-mesures-pour-limiter-l-immigration-et-les-regularisations-de-sans-papiers-dans-l-union-europeenne_8141837.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le candidat de centre-droit à l'élection présidentielle de 2027 propose notamment de suspendre les demandes d'asile à Mayotte ou en Guyane, et de soumettre à l'accord des pays membres de l'espace Schengen les plans de régularisations de sans-papiers.",
+      "image": "https://www.franceinfo.fr/pictures/erulgFp0wcvbmYqg_CVkusIgTKs/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79c84f3b4c0019568424.jpg",
+      "published_at": "2026-08-10T14:51:21+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "820d999c4ea4"
+    },
+    {
+      "title": "La Smart #2 dévoile de nouvelles caractéristiques et fait revivre l’esprit de la Fortwo",
+      "url": "https://www.numerama.com/vroom/2308969-la-smart-2-devoile-de-nouvelles-caracteristiques-et-fait-revivre-lesprit-de-la-fortwo.html",
+      "summary": "Les fiches d’homologation publiées par les autorités chinoises donnent quelques informations supplémentaires concernant la remplaçante de la Fortwo : 2,75 mètres, un moteur de 80 ch et une vitesse de pointe à 140 km/h. Mais une question importante reste en suspens.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-10T12:49:08+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "73b2b641fcc1"
+    },
+    {
+      "title": "EN DIRECT - Sécheresse : en Allemagne, le Rhin en passe d’être coupé en deux",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-22-departements-en-vigilance-orange-des-incendies-en-cours-dans-la-drome-et-en-lozere-20260810_F5XEKZLHD5BJRA42V6PENSF2ME/",
+      "summary": "Déjà à des niveaux historiquement bas faute de précipitations durables, le Rhin pourrait bientôt ne plus être navigable sur l’ensemble de son cours en Allemagne et se retrouver coupé en deux, a averti lundi la Fédération allemande de la navigation intérieure (BDB).",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-10T12:47:49+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "a5c3d3444db3"
+    },
+    {
+      "title": "\"C'est n'importe quoi\" : la proposition de primaire \"du PS aux gaullistes\" de François Bayrou décriée à l'unanimité",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/c-est-n-importe-quoi-la-proposition-de-primaire-du-ps-aux-gaullistes-de-francois-bayrou-decriee-a-l-unanimite_8141822.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'ex-Premier ministre centriste François Bayrou plaide pour une grande primaire de \"tous ceux qui rejettent les extrêmes\", afin de désigner un candidat unique à la présidentielle 2027, d'ici février.",
+      "image": "https://www.franceinfo.fr/pictures/QNQE8R1zCmtHpPPPLy-rR5Q7iFg/0x40:3320x1907/432x243/filters:format(jpg):quality(50)/2025/09/05/000-739t22c-68baf1ca3ad6a100330490.jpg",
+      "published_at": "2026-08-10T14:36:03+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "4f6d68f678d3"
+    },
+    {
+      "title": "« Saturn V était meilleure » : le patron de la NASA flingue 20 ans de choix stratégiques",
+      "url": "https://www.numerama.com/sciences/2308885-saturn-v-etait-meilleure-le-patron-de-la-nasa-flingue-20-ans-de-choix-strategiques.html",
+      "summary": "Dans un réquisitoire, Jared Isaacman a étrillé les choix passés de la NASA, du lanceur SLS à la station orbitale Gateway. L'objectif du patron de l'agence : mettre fin au saupoudrage pour reprendre la main face à la Chine et accélérer le virage vers le nucléaire.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-10T12:31:00+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "4a1347eae7fb"
+    },
+    {
+      "title": "Aux Philippines, des pluies torrentielles font au moins treize morts",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/10/aux-philippines-des-pluies-torrentielles-font-au-moins-treize-morts_6743335_3244.html",
+      "summary": "Ces pluies, renforcées par des tempêtes tropicales, ont contraint les autorités à fermer les écoles et les bâtiments publics dans l’île principale, Luçon. Les rues de la capitale, Manille, ont été inondées.",
+      "image": "https://img.lemde.fr/2026/08/10/374/0/4500/2250/644/322/60/0/f1ee412_ftp-1-2hkm7tgf5o9u-5808484-01-06.jpg",
+      "published_at": "2026-08-10T14:10:11+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "3c635f29beb6"
+    },
+    {
+      "title": "Decathlon baisse le prix de son récent VTT électrique conçu pour les randonnées",
+      "url": "https://www.numerama.com/vroom/2308863-decathlon-baisse-le-prix-de-son-recent-vtt-electrique-concu-pour-les-randonnees.html",
+      "summary": "[Deal du jour] Parmi les références de vélos électriques que Decathlon propose, le Stilus OffRoad+ est un VTT idéal pour les randonnées. Son prix en promotion baisse de 400 €.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-10T12:05:31+00:00",
+      "source": "Numerama",
+      "category": "Sport",
+      "id": "91db627126c1"
+    },
+    {
+      "title": "Allemagne : le Rhin, à des niveaux historiquement bas, pourrait bientôt ne plus être navigable de manière continue",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/10/allemagne-le-rhin-a-des-niveaux-historiquement-bas-pourrait-bientot-ne-plus-etre-navigable-de-maniere-continue_6743334_3244.html",
+      "summary": "En raison du manque de pluie, le niveau d’eau à Kaub, entre Coblence et Mayence, point de référence essentiel pour la navigation et l’économie, devrait tomber pour la première fois cette semaine sous les 10 centimètres d’eau.",
+      "image": "https://img.lemde.fr/2026/08/10/386/0/4632/2316/644/322/60/0/1062814_ftp-1-a2wozbpi1ymd-f0b0a17d22cd4edd85ee0d72c252542c-0-dda5482fac314a9b9ff0513cecf0e6dc.jpg",
+      "published_at": "2026-08-10T14:03:14+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "df51538d43a1"
+    },
+    {
+      "title": "Il demande à son agent IA de réserver un cours de sport, il se retrouve à pirater la salle",
+      "url": "https://www.numerama.com/cyberguerre/2308783-il-demande-a-son-agent-ia-de-reserver-un-cours-de-sport-il-se-retrouve-a-pirater-la-salle.html",
+      "summary": "L'agent IA d'un australien, chargé de réserver un cours de sport, a exploité une faille du site de sa salle pour le faire grimper dans la liste d'attente.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-10T12:00:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "e678c4ef92b8"
+    },
+    {
+      "title": "Sécheresse : en Allemagne, le Rhin pourrait être coupé en deux à cause du manque de pluie, alerte la fédération de la navigation",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/secheresse-en-allemagne-le-rhin-pourrait-etre-coupe-en-deux-a-cause-du-manque-de-pluie-alerte-la-federation-de-la-navigation_8141804.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le niveau d'eau à Kaub, point de référence essentiel pour la navigation et l'économie, devrait tomber pour la première fois sous les 10 centimètres.",
+      "image": "https://www.franceinfo.fr/pictures/aYw641es7IcJrEaBKxP-r7wHYcU/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79bbb6655c7693227203.jpg",
+      "published_at": "2026-08-10T13:58:15+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "ced6a8603324"
+    },
+    {
+      "title": "DZ Mafia : les deux cadres de l’organisation interpellés en Algérie y ont été écroués, annonce Darmanin",
+      "url": "https://www.liberation.fr/societe/police-justice/dz-mafia-les-deux-cadres-de-lorganisation-interpelles-en-algerie-y-ont-ete-ecroues-annonce-darmanin-20260810_A3LU4V7GUVH3DAAZPYRQV7HYHE/",
+      "summary": "Mehdi Laribi, chef présumé de l’organisation criminelle DZ Mafia, et Djamel Djeha, «objectifs prioritaires de la justice française, ont été placés en détention provisoire en Algérie à la demande du parquet d’Alger», a annoncé le garde des Sceaux ce lundi 10 août.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-10T11:54:51+00:00",
+      "source": "Libération",
+      "category": "Tech",
+      "id": "b84028a138b7"
+    },
     {
       "title": "Alors que près de 70% de l'Hexagone est soumis à des restrictions d'eau, vérifiez si vous êtes concernés par ces mesures",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/carte-verifiez-si-vous-etes-concernes-par-des-restrictions-d-eau-alors-que-la-france-souffre-de-la-secheresse-et-des-canicules_8109944.html#xtor=RSS-3-[lestitres]",
@@ -13,17 +193,7 @@
       "id": "0182290755a4"
     },
     {
-      "title": "EN DIRECT - Sécheresse : près de 70% de la France sous des mesures de restrictions d’eau",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-22-departements-en-vigilance-orange-des-incendies-en-cours-dans-la-drome-et-en-lozere-20260810_F5XEKZLHD5BJRA42V6PENSF2ME/",
-      "summary": "Environ 150 hectares ont été brûlés à environ 140 km au nord-ouest de Montpellier. En parallèle, la vague de chaleur continue de gagner du terrain ce lundi. Le pic sera atteint entre mercredi et vendredi : les 35 °C concerneront une grande partie du pays, y compris le nord de la France, selon Météo France.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-10T11:49:06+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "a5c3d3444db3"
-    },
-    {
-      "title": "Mehdi Laribi et Djamel Djeha, deux cadres présumés du narcotrafic interpellés en Algérie, ont été incarcérés, annonce Gérald Darmanin",
+      "title": "Mehdi Laribi et Djamel Djeha, deux « importants narcotrafiquants » interpellés en Algérie, ont été incarcérés, annonce Gérald Darmanin",
       "url": "https://www.lemonde.fr/societe/article/2026/08/10/mehdi-laribi-et-djamel-djeha-deux-cadres-presumes-du-narcotrafic-interpelles-en-algerie-ont-ete-incarceres-annonce-gerald-darmanin_6743300_3224.html",
       "summary": "Les deux narcotrafiquants franco-algériens « ne sont donc plus sous simple contrôle judiciaire », a précisé le ministre de la justice, lundi, remerciant les autorités judiciaires algériennes pour leur « collaboration ».",
       "image": "https://img.lemde.fr/2026/07/14/241/0/7501/3750/644/322/60/0/a0a32f2_ftp-1-8vbfexg7uoeo-2026-07-14t122813z-80590702-rc2mdmadkrxv-rtrmadp-3-france-nationalday.JPG",
@@ -31,16 +201,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "7eb71b64ec61"
-    },
-    {
-      "title": "Sécheresse : le Rhin en passe d'être coupé en deux à cause de la sécheresse en Allemagne, alerte la fédération de la navigation",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-quelque-22-departement-places-en-vigilance-orange-canicule-lundi-au-premier-jour-d-une-semaine-qui-s-annonce-particulierement-chaude_8141534.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le niveau d'eau à Kaub, point de référence essentiel pour la navigation et l'économie, devrait tomber pour la première fois cette semaine sous les 10 centimètres. En France, vingt-deux département sont placés en vigilance orange canicule lundi.",
-      "image": "https://www.franceinfo.fr/pictures/OrIJIgMnhb3xWvug0w0F6E8zS8w/0x52:1024x628/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79b6c4ce4d3229524390.jpg",
-      "published_at": "2026-08-10T13:35:14+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "171b8970dda0"
     },
     {
       "title": "Les narcotrafiquants Mehdi Laribi et Djamel Djeha ont été placés en détention provisoire en Algérie, annonce le ministre de la Justice Gérald Darmanin",
@@ -63,7 +223,7 @@
       "id": "8c7be44acd67"
     },
     {
-      "title": "EN DIRECT, guerre en Ukraine : Kiev revendique une attaque contre une raffinerie au Tatarstan ; la Russie fait état d’au moins 13 morts et de dizaines de blessés",
+      "title": "EN DIRECT, guerre en Ukraine : ce qu’il faut retenir de l’attaque de la raffinerie au Tatarstan, revendiquée par Kiev et qui a fait 13 morts",
       "url": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-kiev-revendique-une-attaque-contre-une-raffinerie-au-tatarstan-la-russie-fait-etat-d-au-moins-13-morts-et-des-dizaines-de-blesses_6741928_3210.html",
       "summary": "Le raid a visé Nijnekamsk, une ville industrielle située à environ 1 600 kilomètres de la frontière ukrainienne, dans la République du Tatarstan, dans le centre-ouest de la Russie. L’armée ukrainienne dit y avoir frappé la raffinerie Taneko, « dans le cadre de la réduction du potentiel militaire de l’agresseur russe ».",
       "image": "https://img.lemde.fr/2026/08/10/805/0/8144/4072/644/322/60/0/3a448ce_ftp-1-7wg8wwv1rnpy-15142ab4ef7d42a5932ae50530325e22-3-59b753911223404bae7466408242091e.jpg",
@@ -71,6 +231,16 @@
       "source": "Le Monde",
       "category": "International",
       "id": "0715b6c4d729"
+    },
+    {
+      "title": "\"C’est l’histoire de beaucoup d’entre nous\" : en Grèce, les jeunes expatriés sont de retour au pays",
+      "url": "https://www.franceinfo.fr/monde/grece/c-est-l-histoire-de-beaucoup-d-entre-nous-en-grece-les-jeunes-expatries-sont-de-retour-au-pays_8140988.html#xtor=RSS-3-[lestitres]",
+      "summary": "Après des années de crise économiques, la Grèce apparaît désormais bien plus attrayante pour les jeunes hautement diplômés qui ont quitté le pays.",
+      "image": "https://www.franceinfo.fr/pictures/bJpEsDVhvaT6rtSsGt8yHRTP1KE/0x235:4893x2985/432x243/filters:format(jpg):quality(50)/2020/01/27/phpffoJFM.jpg",
+      "published_at": "2026-08-10T13:06:17+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "f286ca8a2b79"
     },
     {
       "title": "La transition écologique ne conduira ni à la victoire des métropoles ni à la revanche des campagnes",
@@ -81,6 +251,26 @@
       "source": "Libération",
       "category": "Société",
       "id": "edd95a5c5875"
+    },
+    {
+      "title": "Le ministre grec des Migrations se dit \"admirateur de Trump\" pour avoir \"changé\" la donne sur l'immigration en Europe",
+      "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/le-ministre-grec-des-migrations-se-dit-admirateur-de-trump-pour-avoir-change-la-donne-sur-l-immigration-en-europe_8141681.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le ministre grec Thanos Plevris estime que \"la meilleure chose que le président Trump ait faite, c'est d'avoir changé la politique migratoire aux Etats-Unis\".",
+      "image": "https://www.franceinfo.fr/pictures/TwJCiQjrU2W5ffA2S-3nffxSJgw/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79a9c73a927439420532.jpg",
+      "published_at": "2026-08-10T13:02:21+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a040566eafe6"
+    },
+    {
+      "title": "Camille Dormoy, sociologue : « L’économie circulaire demande de reprendre le temps qu’on nous a appris à ne plus perdre »",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/10/camille-dormoy-sociologue-l-economie-circulaire-demande-de-reprendre-le-temps-qu-on-nous-a-appris-a-ne-plus-perdre_6743267_3232.html",
+      "summary": "Dans une société fondée sur la vitesse, l’injonction à trier, réparer et valoriser les objets se heurte au manque de temps. Un angle mort des politiques publiques centrées sur les comportements, estime la chercheuse dans une tribune au « Monde ».",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/2abc471_upload-1-bxghsvckpxoj-frame-733.jpg",
+      "published_at": "2026-08-10T13:00:07+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "1ab904a55990"
     },
     {
       "title": "Attendez, cette version VR de The Legend of Zelda: Breath of the Wild est incroyable",
@@ -111,196 +301,6 @@
       "source": "Libération",
       "category": "Société",
       "id": "7769d39d5b58"
-    },
-    {
-      "title": "«Rupture fondamentale de confiance» : l’UEFA, la Concacaf et l’AFC accentuent la pression sur Gianni Infantino dans une lettre ouverte",
-      "url": "https://www.liberation.fr/sports/football/rupture-fondamentale-de-confiance-luefa-la-concacaf-et-lafc-accentuent-la-pression-sur-gianni-infantino-dans-une-lettre-ouverte-20260810_NPNWS6SKZNGY7FZUJMSX7NOQPI/",
-      "summary": "En s’adressant à la «famille du football», les trois instances essaient ce lundi 10 août de dissiper les craintes que pourraient nourrir les fédérations restées fidèles au patron de la Fifa, tentées par la manne financière qu’il leur promettait.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-10T10:43:03+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "c5a1250dc8a1"
-    },
-    {
-      "title": "Incendies : 17 départements en risque \"élevé\" de feux de forêt, les flammes poursuivent leur \"progression lente\" dans la Drôme",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-l-incendie-declare-dimanche-a-massegros-causses-gorges-en-lozere-a-parcouru-153-hectares-et-est-desormais-fixe-annonce-la-prefecture_8141315.html#xtor=RSS-3-[lestitres]",
-      "summary": "En Lozère, l'incendie qui s'est déclaré dimanche après-midi sur la commune de Massegros Causses Gorges est désormais \"fixé\".",
-      "image": "https://www.franceinfo.fr/pictures/7wop6uIkFkGT9EWN5kptMf4FCC0/0x0:3543x1992/432x243/filters:format(jpg):quality(50)/2026/08/10/6a799fed1cac1879610845.jpg",
-      "published_at": "2026-08-10T12:41:04+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "3e58019c4567"
-    },
-    {
-      "title": "Célibataire, vous avez arrêté de chercher l'amour ? Racontez-nous",
-      "url": "https://www.franceinfo.fr/societe/appel-a-temoignages-celibataire-vous-avez-arrete-de-chercher-l-amour-racontez-nous_8141615.html#xtor=RSS-3-[lestitres]",
-      "summary": "La France compte de plus en plus de célibataires. Loin des clichés, ce statut n'est pas toujours subi : près d'une personne concernée sur deux assure avoir choisi son célibat, selon une étude de l'Institut national d'études démographiques.",
-      "image": "https://www.franceinfo.fr/pictures/CaBy7vpKjg4RfWGd2MHKp-mGlZI/0x32:1024x608/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7997870749a885017452.jpg",
-      "published_at": "2026-08-10T12:40:42+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "d15acac7626c"
-    },
-    {
-      "title": "\"Le trafic de drogue est alimenté par ces bateaux\" : au Portugal, les forces de l'ordre traquent les \"narcolanchas\"",
-      "url": "https://www.franceinfo.fr/societe/drogue/reportage-le-trafic-de-drogue-est-alimente-par-ces-bateaux-au-portugal-les-forces-de-l-ordre-traquent-les-narcolanchas_8141759.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les autorités s'inquiètent de la multiplication des \"narcolanchas\", ces embarcations utilisées par les trafiquants de drogue. Franceinfo a embarqué avec les garde-côtes de la gendarmerie portugaise lors d'une patrouille de nuit.",
-      "image": "https://www.franceinfo.fr/pictures/-1wrnYCNSKY5LurHB-M9aKrtVLU/0x0:6008x3379/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79a9ab7003c399899821.jpg",
-      "published_at": "2026-08-10T12:38:32+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "098be5dc3b05"
-    },
-    {
-      "title": "Cette météorite comble un grand vide dans l’histoire de Mars",
-      "url": "https://www.numerama.com/sciences/2308839-cette-meteorite-comble-un-grand-vide-dans-lhistoire-de-mars.html",
-      "summary": "Une météorite récemment découverte provient de Mars et peut nous renseigner sur son passé lointain. Mais celle-ci est un peu différente des autres roches martiennes analysées jusqu'ici, et vient d'une époque très mal connue de la planète rouge.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-10T10:31:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "6c8edcaf7a14"
-    },
-    {
-      "title": "A Montpellier, un jeune de 16 ans tué dans une rixe, trois personnes interpellées",
-      "url": "https://www.liberation.fr/societe/police-justice/a-montpellier-un-jeune-de-16-ans-tue-dans-une-rixe-trois-personnes-interpellees-20260810_HFTBXEVXSZC7FN5HFEWUOXEYFM/",
-      "summary": "Dans la soirée dimanche 9 août, un adolescent a été poignardé à mort lors d’une rixe entre deux groupes. Un mineur s’est présenté ce lundi au commissariat en «se désignant comme l’auteur des coups de couteau».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-10T10:28:36+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "8c4b95e952bf"
-    },
-    {
-      "title": "Canicule, pic ou vague de chaleur : comment faire la différence ?",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-pic-ou-vague-de-chaleur-comment-faire-la-difference_8141462.html#xtor=RSS-3-[lestitres]",
-      "summary": "La France fait face à sa troisième vague de chaleur de l'année. Entre les différents termes employés par Météo-France lors des épisodes de fortes chaleurs, il est compliqué de s'y retrouver. Franceinfo fait le point.",
-      "image": "https://www.franceinfo.fr/pictures/G--HhSgti1IoedO3Ej3ZTCUb8-U/0x59:1024x635/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79743273c4b075946763.jpg",
-      "published_at": "2026-08-10T12:24:31+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "cc5ebc1ff0a1"
-    },
-    {
-      "title": "A Montpellier, un adolescent de 16 ans tué dans une rixe",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/10/a-montpellier-un-adolescent-de-16-ans-tue-dans-une-rixe_6743234_3224.html",
-      "summary": "Trois jeunes ont été interpellés, dont l’un, âgé de 17 ans, s’est présenté lundi matin au commissariat « en se désignant comme l’auteur des coups de couteau », a annoncé le procureur de la Répubique de Montpellier.",
-      "image": "https://img.lemde.fr/2024/10/24/121/0/2250/1125/644/322/60/0/fb05b64_1729786778193-frame-157.jpg",
-      "published_at": "2026-08-10T12:24:09+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "2bf12eb0caca"
-    },
-    {
-      "title": "Le maire de Saumos demande à Emmanuel Macron \"d'entendre le rappel à l'ordre de la nature\" et d'écouter les élus locaux après l'incendie",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/le-maire-de-saumos-demande-a-emmanuel-macron-d-entendre-le-rappel-a-l-ordre-de-la-nature-et-d-ecouter-les-elus-locaux-apres-l-incendie_8141714.html#xtor=RSS-3-[lestitres]",
-      "summary": "Didier Chautard craint les propositions \"formulées dans l'urgence\" et appelle les pouvoirs publics à \"une réflexion collective\", afin que le territoire \"ne soit pas sacrifié une seconde fois au nom de décisions prises sans lui\".",
-      "image": "https://www.franceinfo.fr/pictures/AsR-CaXjg_F4mX9Zd4JHDzUumBc/0x73:1024x649/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79a254406ec498880782.jpg",
-      "published_at": "2026-08-10T12:13:09+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "5771f5d2e60e"
-    },
-    {
-      "title": "Après le rejet du plan pour Gaza par Israël, Donald Trump est \"fragilisé politiquement\"",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-fragilise-politiquement-face-a-netanyahou-et-a-l-iran-le-president-americain-en-difficulte_8141723.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le président américain peine à imposer sa stratégie dans le conflit avec l'Iran, alors que son allié, Benyamin Nétanyahou, refuse de suivre le calendrier proposé. Donald Trump reste puissant au sein de son parti, mais est \"fragilisé politiquement\", estime Jérôme Viala-Gaudefroy, spécialiste des présidents américains.",
-      "image": "https://www.franceinfo.fr/pictures/wtm9gM-jWxJGbJYvomjI7mq-PLk/0x0:5212x2931/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79a06dbef5a147599194.jpg",
-      "published_at": "2026-08-10T12:07:08+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "50f4005aae5d"
-    },
-    {
-      "title": "Le Grand Ouest américain avec le photographe suisse Christian Lutz",
-      "url": "https://www.liberation.fr/culture/photographie/le-grand-ouest-americain-avec-le-photographe-suisse-christian-lutz-20260810_ET2GGEAVLRHDFJI7JYBDXPSY7A/",
-      "summary": "Pour sa 13e édition, le festival de photographie Présence(s), en Vallée du Rhône, convie une sélection d’autrices et d’auteurs venus de Suisse, autour d’un fil conducteur, «quel usage du monde», en référence à l’ouvrage du voyageur et photographe Nicolas Bouvier.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-10T10:06:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "2bb21d09e6fe"
-    },
-    {
-      "title": "En Iran, deux Britanniques emprisonnés en 2025 cessent la grève de la faim visant à protester contre leur détention",
-      "url": "https://www.lemonde.fr/international/article/2026/08/10/en-iran-deux-britanniques-emprisonnes-en-2025-cessent-la-greve-de-la-faim-visant-a-protester-contre-leur-detention_6743201_3210.html",
-      "summary": "Lindsay et Craig Foreman avaient été arrêtés en Iran au début de 2025 et condamnés en février à dix ans de prison pour espionnage. Cette action pour protester « contre leur traitement et celui de leurs codétenus a pesé très lourdement sur leur santé physique », a fait savoir leur famille.",
-      "image": "https://img.lemde.fr/2026/08/10/381/0/3746/1873/644/322/60/0/4fd06e9_upload-1-ylfr7z4xhu3v-000-68k229c.jpg",
-      "published_at": "2026-08-10T12:05:29+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "0276ecf48996"
-    },
-    {
-      "title": "Éclipse solaire du 12 août : où trouver des lunettes à la dernière minute ?",
-      "url": "https://www.numerama.com/sciences/2308751-eclipse-solaire-du-12-aout-ou-trouver-des-lunettes-a-la-derniere-minute.html",
-      "summary": "À deux jours de l’éclipse solaire du 12 août 2026, commander des lunettes sur Internet n'est plus vraiment une option. Si vous n'êtes pas encore équipés, voici les dernières solutions qu'il vous reste pour observer l'éclipse en toute sécurité.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-10T10:00:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "adb55b7ba73e"
-    },
-    {
-      "title": "\"J'ai réservé un logement il y a deux ans\" : comment les passionnés d'astronomie s'organisent pour voir l'éclipse solaire du 12 août dans les meilleures conditions",
-      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/temoignages-j-ai-reserve-un-logement-il-y-a-deux-ans-comment-les-passionnes-d-astronomie-s-organisent-pour-voir-l-eclipse-solaire-du-12-aout-dans-les-meilleures-conditions_8120324.html#xtor=RSS-3-[lestitres]",
-      "summary": "De la location d'un camping-car au repérage des zones les plus éloignées de la foule, les personnes interrogées par franceinfo ont pensé à tout pour assister à un spectacle qui s'annonce grandiose, notamment dans le nord de l'Espagne. Seule incertitude : les conditions météo incertaines.",
-      "image": "https://www.franceinfo.fr/pictures/ewLNcB-D6ENOPX_5UP6cQb7kMxw/0x46:1024x622/432x243/filters:format(jpg):quality(50)/2026/07/24/6a6396023ba90198445280.jpg",
-      "published_at": "2026-08-10T11:57:39+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "524976fea1c9"
-    },
-    {
-      "title": "Un mineur de 16 ans poignardé à mort dans une rixe à Montpellier, trois personnes placées en garde à vue",
-      "url": "https://www.franceinfo.fr/faits-divers/un-mineur-de-16-ans-poignarde-a-mort-dans-une-rixe-a-montpellier-trois-personnes-placees-en-garde-a-vue_8141699.html#xtor=RSS-3-[lestitres]",
-      "summary": "Transporté à l'hôpital, le jeune homme n'a pas survécu à ses blessures. Un mineur de 17 ans s'est présenté lundi matin au commissariat de police de Montpellier, \"se désignant comme l'auteur des coups de couteau\".",
-      "image": "https://www.franceinfo.fr/pictures/bidVGR6ay-KdFF5h3AT44iDSfQo/0x0:1948x1096/432x243/filters:format(jpg):quality(50)/2026/08/10/6a799ec1d926d421255073.jpg",
-      "published_at": "2026-08-10T11:50:48+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "01bbfb34aec5"
-    },
-    {
-      "title": "Championnat d’Europe d’athlétisme : un guide pour éviter les plans télé qui sexualisent les corps des sportives",
-      "url": "https://www.liberation.fr/sports/championnat-deurope-dathletisme-un-guide-pour-eviter-les-plans-tele-qui-sexualisent-les-corps-des-sportives-20260810_22HSGWZO6ZBPTJH4IHQJQW77UA/",
-      "summary": "A la veille de la compétition, qui débute ce lundi 10 août, l’Union européenne de radio-télévision, qui regroupe les médias de service public de 57 pays, publie des conseils pour éviter les angles de caméras suggestifs dont sont victimes les femmes sportives.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-10T09:40:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "705a3e1b44b5"
-    },
-    {
-      "title": "\"Autrefois vecteur tropical, le moustique tigre devient une menace française\" : plus de 70% de la France touchée d'ici 2085, selon une étude",
-      "url": "https://www.franceinfo.fr/environnement/crise-climatique/autrefois-vecteur-tropical-le-moustique-tigre-devient-une-menace-francaise-plus-de-70-de-la-france-touchee-d-ici-2085-selon-une-etude_8141672.html#xtor=RSS-3-[lestitres]",
-      "summary": "En une vingtaine d'années, le moustique tigre a été détecté dans plus de 80 départements. Il n'était présent que dans un seul en 2004.",
-      "image": "https://www.franceinfo.fr/pictures/3asSNpkETEHICPTdaxSG2ol6Kuk/0x2:1200x677/432x243/filters:format(jpg):quality(50)/2026/08/10/6a799a5e812c1411281863.jpeg",
-      "published_at": "2026-08-10T11:34:03+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "162460970b21"
-    },
-    {
-      "title": "Une édition inédite au Royaume-Uni, Gressier pour un premier sacre européen sur piste, Duplantis chasse le quadruplé... Ce qu'il faut savoir des championnats d'Europe d'athlétisme",
-      "url": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/une-edition-inedite-au-royaume-uni-gressier-pour-un-premier-sacre-europeen-sur-piste-duplantis-chasse-le-quadruple-ce-qu-il-faut-savoir-des-championnats-d-europe-d-athletisme_8136887.html#xtor=RSS-3-[lestitres]",
-      "summary": "La compétition continentale se tiendra du 10 au 16 août à Birmingham, en Angleterre.",
-      "image": "https://www.franceinfo.fr/pictures/DywoUtNWQXiRmsvcRvZUmVR9aV4/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/06/6a74571f0d60c819187607.jpg",
-      "published_at": "2026-08-10T11:33:16+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "b939f3a2349f"
-    },
-    {
-      "title": "Une femme enceinte et ses deux enfants meurent dans l'incendie de leur habitation de fortune à Mayotte",
-      "url": "https://www.franceinfo.fr/faits-divers/incendie/une-femme-enceinte-et-ses-deux-enfants-meurent-dans-l-incendie-de-leur-habitation-de-fortune-a-mayotte_8141654.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'habitat précaire reste massif dans le département le plus pauvre de France : les cases en tôle représentaient encore quatre logements sur dix début 2024, une proportion stable depuis près de trente ans, selon une enquête de l'Insee.",
-      "image": "https://www.franceinfo.fr/pictures/vwWd3pzbRTtH-EeQiS2b5WBOXXY/0x253:4899x3009/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7997e0a327e951099028.jpg",
-      "published_at": "2026-08-10T11:32:28+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "28b03c34d550"
     }
   ]
 }
