@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-08-09T23:39:04.346720+00:00",
+  "generated_at": "2026-08-10T02:25:36.243813+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Réchauffement climatique : avec 20,96 °C en moyenne, les océans franchissent un nouveau record de chaleur pour un mois de juillet",
+      "url": "https://www.liberation.fr/environnement/climat/rechauffement-climatique-avec-2096-c-en-moyenne-les-oceans-franchissent-un-nouveau-record-de-chaleur-pour-un-mois-de-juillet-20260810_HZBMJ2JBF5GW5H6FGQ34LDJNQM/",
+      "summary": "Les eaux ont atteint, en surface, 0,07 °C de plus qu’en juillet 2023, qui avait déjà enregistré un niveau inédit, selon les données du programme européen Copernicus publiées ce lundi.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-10T02:00:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "85f6e5079990"
+    },
     {
       "title": "Le chef présumé de la « mafia irlandaise », Daniel Kinahan, inculpé après son extradition de Dubaï",
       "url": "https://www.lemonde.fr/international/article/2026/08/10/le-chef-presume-de-la-mafia-irlandaise-daniel-kinahan-inculpe-apres-son-extradition-de-dubai_6742908_3210.html",
@@ -291,16 +301,6 @@
       "source": "France Info",
       "category": "Sport",
       "id": "106d37757222"
-    },
-    {
-      "title": "Confrontée aux canicules et à la sécheresse, l’agriculture française cherche de l’air",
-      "url": "https://www.liberation.fr/economie/confrontee-aux-canicules-et-a-la-secheresse-lagriculture-francaise-cherche-de-lair-20260809_TT7K3HSCLRASVP7JVZQNB436LQ/",
-      "summary": "Face à une production de fruits et légumes, de lait et de fourrage en chute libre, les syndicats agricoles demandent à la grande distribution de rogner sur ses marges et réclament de l’aide aux pouvoirs publics.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-09T16:48:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "531c198d6855"
     }
   ]
 }
