@@ -1,16 +1,226 @@
 {
-  "generated_at": "2026-08-10T17:55:51.861628+00:00",
+  "generated_at": "2026-08-10T19:07:24.642900+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Canicule : 43 départements en vigilance orange mardi, des trains Intercités supprimés mercredi et jeudi entre Paris et Clermont",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-quelque-22-departement-places-en-vigilance-orange-canicule-lundi-au-premier-jour-d-une-semaine-qui-s-annonce-particulierement-chaude_8141534.html#xtor=RSS-3-[lestitres]",
+      "summary": "Près de 70% du territoire métropolitain français fait l'objet de mesures de restrictions de l'usage de l'eau, selon le ministère de la Transition écologique.",
+      "image": "https://www.franceinfo.fr/pictures/ZBswf5vMCwauL7-f6r9oy96WMTE/0x95:1024x671/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7a1a94b49c8807528781.jpg",
+      "published_at": "2026-08-10T20:59:45+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "171b8970dda0"
+    },
+    {
+      "title": "Alexandria Ocasio-Cortez, figure de la gauche américaine, chronique sa congélation d’ovocytes sur les réseaux sociaux",
+      "url": "https://www.liberation.fr/international/amerique/alexandria-ocasio-cortez-figure-de-la-gauche-americaine-chronique-sa-congelation-dovocytes-sur-les-reseaux-sociaux-20260810_WZ27EMFN3ZFV7KHLU4NDKVNDDU/",
+      "summary": "La démocrate de 36 ans a publié, dimanche 9 août, une vidéo sur Instagram afin de partager son expérience, a-t-elle expliqué, et lutter contre l’invisibilisation des parcours liés à la fertilité féminine.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-10T18:56:31+00:00",
+      "source": "Libération",
+      "category": "Tech",
+      "id": "c0436a2a4dc9"
+    },
+    {
+      "title": "Un séisme de magnitude 7,4 fait au moins 111 morts dans l'ouest de la Colombie, le président décrète l'état d'urgence",
+      "url": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-7-4-en-colombie-fait-au-moins-18-morts-et-des-degats-dans-l-ouest-du-pays_8142011.html#xtor=RSS-3-[lestitres]",
+      "summary": "Des \"dommages importants\" ont été observés à Cali, la troisième ville du pays, selon les autorités locales.",
+      "image": "https://www.franceinfo.fr/pictures/vvlXpgOgsvSIeE_-1Ix0FZtz_VM/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7a0d121ccf4123274314.jpg",
+      "published_at": "2026-08-10T20:55:50+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "1d72bc7dbbcc"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Kiev revendique l’attaque du complexe pétrochimique de Tobolsk-Neftekhim ; des bombardements russes dans la région de Dnipropetrovsk font quatre morts",
+      "url": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-kiev-revendique-l-attaque-du-complexe-petrochimique-de-tobolsk-neftekhim-des-bombardements-russes-dans-la-region-de-dnipropetrovsk-font-quatre-morts_6741928_3210.html",
+      "summary": "L’état-major ukrainien a déclaré que ce complexe situé dans la région de Tioumen avait été touché. Plusieurs vidéos publiées dans des médias rapportent les dégâts causés par l’attaque ukrainienne.",
+      "image": "https://img.lemde.fr/2026/08/10/355/0/704/352/644/322/60/0/57343ce_upload-1-p6okwh69b62b-unnamed-1.jpg",
+      "published_at": "2026-08-10T20:53:38+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "0e9f5b007df1"
+    },
+    {
+      "title": "Oman prend des mesures pour contenir une marée noire près de ses côtes",
+      "url": "https://www.lemonde.fr/international/article/2026/08/10/oman-prend-des-mesures-pour-contenir-une-maree-noire-pres-de-ses-cotes_6743507_3210.html",
+      "summary": "Le pétrolier « Caroline-Bezengi », sous sanctions britanniques, est soupçonné de faire partie de la flotte fantôme russe. Il avait été endommagé par trois explosions d’origine inconnue le 6 juin.",
+      "image": "https://img.lemde.fr/2026/08/10/606/0/960/480/644/322/60/0/6abd4e0_ftp-1-yuhaxn3rbqqu-2026-08-10t165834z-1880781917-rc2svmaa1map-rtrmadp-3-mideast-gulf-shipping-spill.JPG",
+      "published_at": "2026-08-10T20:53:17+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "9750abd61d98"
+    },
+    {
+      "title": "Colombie : le pays en «état d’urgence» après un puissant séisme qui a fait au moins 111 morts et 87 blessés dans l’ouest du pays",
+      "url": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
+      "summary": "D’intenses secousses ont été ressenties jusqu’à Bogotá ce lundi 10 août au matin. De nombreuses victimes ont été décomptées dans plusieurs régions, notamment à Pereira, Manizales et Cali, la troisième ville du pays. Six aéroports ont été mis à l’arrêt.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-10T18:52:37+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "d935ffb834e6"
+    },
+    {
+      "title": "Avec les chiffres du chômage en hausse, les oppositions accusent dix ans de gouvernance : «Macron aurait menti, ben alors ça !!!»",
+      "url": "https://www.liberation.fr/politique/avec-les-chiffres-du-chomage-en-hausse-les-oppositions-accusent-dix-ans-de-gouvernance-macron-aurait-menti-ben-alors-ca-20260810_I6PXFZF32RBAPOOO5KGBD7QFH4/",
+      "summary": "Depuis l’annonce, vendredi 7 août par l’Insee, de la hausse des chiffres du chômage pour le 2e trimestre 2026, une première depuis 2020, les responsables politiques s’en donnent à cœur joie contre Emmanuel Macron.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-10T18:45:57+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "c7c26a41c19f"
+    },
+    {
+      "title": "Séisme en Colombie : au moins 111 morts ; le président Abelardo de La Espriella décrète « l’état d’urgence »",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/10/seisme-en-colombie-au-moins-111-morts-le-gouvernement-decrete-l-etat-d-urgence_6743410_3245.html",
+      "summary": "« Il a été décidé de déclarer l’état d’urgence », a annoncé le chef de l’Etat depuis Bogota, en présentant un bilan actualisé après le tremblement de terre de magnitude 7,4 qui a provoqué d’importantes destructions.",
+      "image": "https://img.lemde.fr/2026/08/10/498/0/5977/2988/644/322/60/0/0a90d3a_ftp-1-ks688q3l1nxt-c91e7cf667264f9db866c7248f0724bc-1-fbcf8f654073413d810b55718d97f915.jpg",
+      "published_at": "2026-08-10T20:45:06+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "b5e2abfa10b9"
+    },
+    {
+      "title": "Une fusée chinoise explose en plein vol 85 secondes après son décollage",
+      "url": "https://www.numerama.com/sciences/2309229-une-fusee-explose-en-plein-vol-peu-apres-son-decollage.html",
+      "summary": "Le lancement d'une fusée Longue Marche 7A a viré au fiasco ce 10 août 2026. Moins de deux minutes après s'être arraché du sol, le lanceur s'est brutalement désintégré dans le ciel de Wenchang, entraînant la perte de sa charge utile.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-10T18:43:11+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "1ee9b8ac9a52"
+    },
+    {
+      "title": "Rencontres d’Arles : les livres de photos pour enfants, petites merveilles et signatures prestigieuses",
+      "url": "https://www.lemonde.fr/culture/article/2026/08/10/rencontres-d-arles-les-livres-de-photos-pour-enfants-petites-merveilles-et-signatures-prestigieuses_6743505_3246.html",
+      "summary": "Curiosités et trésors d’inventivité alternent au fil du parcours de l’exposition « R comme regarder », qui rassemble une centaine d’ouvrages publiés dans différents pays, des années 1930 à aujourd’hui.",
+      "image": "https://img.lemde.fr/2026/08/06/373/0/6111/3055/644/322/60/0/ac54026_upload-1-5r3ez7p2whyn-lol.jpg",
+      "published_at": "2026-08-10T20:42:22+02:00",
+      "source": "Le Monde",
+      "category": "Culture",
+      "id": "c8d92ad9f598"
+    },
+    {
+      "title": "Etats-Unis : un burrito à 20 dollars entraîne un séisme politique",
+      "url": "https://www.liberation.fr/international/amerique/etats-unis-un-burrito-a-20-dollars-entraine-un-seisme-politique-20260810_3JXAC3PNFRB35EC4EVQICCA7IU/",
+      "summary": "A trois mois des élections de mi-mandat prévues le 3 novembre, le mépris des élus conservateurs face à la colère étudiante sur la hausse du prix du sandwich mexicain pourrait bouleverser le scrutin.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-10T18:41:13+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "16e647ddb446"
+    },
+    {
+      "title": "En Russie, la justice interdit au seul parti opposé à la guerre en Ukraine de présenter des candidats aux législatives de septembre",
+      "url": "https://www.franceinfo.fr/monde/russie/en-russie-la-justice-interdit-au-seul-parti-oppose-a-la-guerre-en-ukraine-de-presenter-des-candidats-aux-legislatives-de-septembre_8142296.html#xtor=RSS-3-[lestitres]",
+      "summary": "La Cour suprême prive ainsi les électeurs opposés au conflit de la possibilité de réclamer d'y mettre fin via leur bulletin de vote.",
+      "image": "https://www.franceinfo.fr/pictures/xivTZIA6s82EM1-6o3ImRUMJFW8/0x32:1024x608/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7a1790a4af6398534838.jpg",
+      "published_at": "2026-08-10T20:38:12+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "b432bc66ebe6"
+    },
+    {
+      "title": "EN DIRECT - Canicule : 43 départements dont la Manche et la pointe bretonne en vigilance orange mardi à partir de midi",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-22-departements-en-vigilance-orange-des-incendies-en-cours-dans-la-drome-et-en-lozere-20260810_F5XEKZLHD5BJRA42V6PENSF2ME/",
+      "summary": "Concentrées sur le quart sud-est de la France ce lundi, les fortes chaleurs frapperont jusqu’au Finistère dès demain. «Entre mercredi et vendredi, les 35 °C concerneront une grande partie du pays», alerte Météo France.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-10T18:37:10+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "a5c3d3444db3"
+    },
+    {
+      "title": "Les chiffres du chômage en hausse, une illustration des promesses brisées d’Emmanuel Macron",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/les-chiffres-du-chomage-en-hausse-une-illustration-des-promesses-brisees-demmanuel-macron-20260810_5GHEQ6CVL5BMRHX5JGHTPNF6NI/",
+      "summary": "Obnubilé par ses «premiers de cordée» et sa politique de l’offre, le Président termine ses deux mandats avec la plupart des indicateurs économiques dans le rouge.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-10T18:28:22+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "cb9004a4ddea"
+    },
+    {
+      "title": "Donald Trump réclame des compensations à l’Iran, « pour tous les gens qu’ils ont tués et blessés »",
+      "url": "https://www.lemonde.fr/international/article/2026/08/10/donald-trump-demande-lui-aussi-des-compensations-a-l-iran-pour-tous-les-gens-qu-ils-ont-tues-et-blesses_6743472_3210.html",
+      "summary": "Le président américain a publié un message sur son réseau, Truth Social, où il assure que cette demande de compensation sera exprimée « fermement » durant les négociations, en réponse aux exigences iraniennes.",
+      "image": "https://img.lemde.fr/2026/08/10/0/0/2135/1067/644/322/60/0/0f5d637_upload-1-x0fslkjvkkcr-ap26222653098448.jpg",
+      "published_at": "2026-08-10T20:14:37+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "11781bd38183"
+    },
     {
       "title": "Mis sur orbite par Léon Marchand, le relais français décroche l'argent sur le 4x200 mètres masculin des championnats d'Europe de natation",
       "url": "https://www.franceinfo.fr/sports/natation/championnats-d-europe/idealement-lance-par-leon-marchand-le-relais-francais-decroche-l-argent-sur-le-4x200-m-masculin-des-championnats-d-europe-de-natation_8142206.html#xtor=RSS-3-[lestitres]",
       "summary": "Avec Pierre Largeron, Sauveur Christofini et Roman Fuchs, le quadruple champion olympique a décroché sa première médaille européenne, lundi.",
-      "image": "https://www.franceinfo.fr/pictures/goqCAomnARqUoG7_jWqSzGe4-MQ/0x575:6248x4089/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7a02777d6b5396066667.jpg",
-      "published_at": "2026-08-10T19:52:30+02:00",
+      "image": "https://www.franceinfo.fr/pictures/2vu0v1F4Y6W4OLB-ByyoK3VdylA/0x69:5721x3287/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7a10dfd5f7b500219645.jpg",
+      "published_at": "2026-08-10T20:14:14+02:00",
       "source": "France Info",
       "category": "Sport",
       "id": "55966a976178"
+    },
+    {
+      "title": "Le relais supersonique de Léon Marchand, qui a porté la France à la médaille d'argent sur le relais 4x200 m des championnats d'Europe",
+      "url": "https://www.franceinfo.fr/sports/natation/championnats-d-europe-de-natation/video-le-relais-supersonique-de-leon-marchand-qui-a-porte-la-france-a-la-medaille-d-argent-sur-le-relais-4x200-m-des-championnats-d-europe_8137208.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les Bleus ont été devancés par la Grande-Bretagne, lundi, à Saint-Denis, mais décrochent déjà leur première médaille en grand bassin sur ces championnats d'Europe.",
+      "image": "https://www.franceinfo.fr/pictures/lkl7xDwhbCs3lZr7yvY5ZYaBXQM/0x0:6653x3742/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7a1264af5a4246009057.jpg",
+      "published_at": "2026-08-10T20:10:24+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "0766a50e1944"
+    },
+    {
+      "title": "Chômage, déficit, dette… Les paris économiques perdus des quinquennats Macron",
+      "url": "https://www.liberation.fr/economie/chomage-deficit-dette-les-paris-economiques-perdus-des-quinquennats-macron-20260810_ZIORE655HNFPZBWRYDRQIOSGPQ/",
+      "summary": "Emmanuel Macron avait promis le plein-emploi et la réduction du déficit. Alors qu’il s’apprête à quitter l’Elysée, ces promesses électorales semblent bel et bien compromises. La proportion des demandeurs d’emploi vient de monter à 8,3 % des actifs.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-10T18:10:11+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "9bcaf1a969f8"
+    },
+    {
+      "title": "Plongée, nouvelle zone sous-marine… Le DLC de Pokémon Pokopia vaut-il le coup de débourser 34,99 euros ?",
+      "url": "https://www.numerama.com/pop-culture/2308887-plongee-nouvelle-zone-sous-marine-le-dlc-de-pokemon-pokopia-vaut-il-ses-3499-euros.html",
+      "summary": "Avec les Fonds-Bulleux, Pokémon Pokopia nous invite à abandonner temporairement la terre ferme pour bâtir et explorer sous l’eau. Une première extension dépaysante et réussie, mais qui doit encore prouver que le pass à 34,99 euros vaut réellement le plongeon.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-10T18:01:00+00:00",
+      "source": "Numerama",
+      "category": "Économie",
+      "id": "86b95fefb17b"
+    },
+    {
+      "title": "Euro de natation : le relais français du 4x200 m médaillé d’argent avec Léon Marchand",
+      "url": "https://www.liberation.fr/sports/euro-de-natation-le-relais-francais-du-4x200-m-medaille-dargent-avec-leon-marchand-20260810_U46QYJL52VB45KSOTWXXWMKJEQ/",
+      "summary": "Portés par le nageur français, les Bleus ont remporté la médaille d’argent lundi aux Championnats d’Europe de natation de Paris.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-10T18:00:20+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "6789be8127f5"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : Trump annonce qu’il va réclamer des «compensations» à l’Iran",
+      "url": "https://www.liberation.fr/international/amerique/guerre-au-moyen-orient-trump-annonce-quil-va-reclamer-des-compensations-a-liran-20260810_FQMQIPKD2RCQVKU5VY5KRJV75U/",
+      "summary": "Le président américain affirme ce lundi 10 août que Téhéran doit payer pour les morts liées à des attaques menées par l’Iran ces dernières décennies contre ses adversaires à l’étranger ou contre des manifestants iraniens. Ce qui rend encore plus improbable un accord rapide entre les deux pays.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-10T17:59:15+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "a33cfcf9fad2"
+    },
+    {
+      "title": "Lancé par un immense Léon Marchand, le relais français du 4 x 200 m nage libre remporte la médaille d’argent aux championnats d’Europe",
+      "url": "https://www.lemonde.fr/sport/article/2026/08/10/lance-par-un-immense-leon-marchand-le-relais-francais-du-4-x-200-m-nage-libre-remporte-la-medaille-d-argent-aux-championnats-d-europe_6743470_3242.html",
+      "summary": "La France a ouvert son compteur de médaille en natation course, lundi, grâce au relais masculin du 4 x 200 m nage libre. Renforcé par la présence de Léon Marchand en finale, il s’est classé 2ᵉ, derrière la Grande-Bretagne.",
+      "image": "https://img.lemde.fr/2026/08/10/180/0/5060/2530/644/322/60/0/338ddc9_ftp-1-cwkzd9yk3pme-5810262-01-06.jpg",
+      "published_at": "2026-08-10T19:52:12+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "3450a8afdfb5"
     },
     {
       "title": "Cochons décomposés : enquête ouverte contre un élevage porcin des Côtes-d’Armor, «l’un des pires cas d’abandon documenté par L214»",
@@ -21,16 +231,6 @@
       "source": "Libération",
       "category": "Culture",
       "id": "d6ab05f94d48"
-    },
-    {
-      "title": "Un séisme de magnitude 7,4 fait au moins 69 morts dans l'ouest de la Colombie",
-      "url": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-7-4-en-colombie-fait-au-moins-18-morts-et-des-degats-dans-l-ouest-du-pays_8142011.html#xtor=RSS-3-[lestitres]",
-      "summary": "Des \"dommages importants\" ont été observés à Cali, la troisième ville du pays, après ce tremblement de terre qui a été ressenti dans des pays voisins.",
-      "image": "https://www.franceinfo.fr/pictures/vvlXpgOgsvSIeE_-1Ix0FZtz_VM/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7a0d121ccf4123274314.jpg",
-      "published_at": "2026-08-10T19:44:24+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "1d72bc7dbbcc"
     },
     {
       "title": "Seul candidat en lice, Jordan Bardella assuré d'être réélu président du Rassemblement national en octobre",
@@ -53,16 +253,6 @@
       "id": "be38276461a1"
     },
     {
-      "title": "EN DIRECT - Canicule : 43 départements dont la Manche et la pointe bretonne en vigilance orange mardi à partir de midi",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-22-departements-en-vigilance-orange-des-incendies-en-cours-dans-la-drome-et-en-lozere-20260810_F5XEKZLHD5BJRA42V6PENSF2ME/",
-      "summary": "Concentrées sur le quart sud-est de la France ce lundi, les fortes chaleurs frapperont jusqu’au Finistère dès demain. «Entre mercredi et vendredi, les 35 °C concerneront une grande partie du pays», alerte Météo France.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-10T17:32:34+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "a5c3d3444db3"
-    },
-    {
       "title": "Iran : le général des gardiens Ali Abdollahi Aliabadi nommé chef des forces armées par le Guide suprême",
       "url": "https://www.lemonde.fr/international/article/2026/08/10/iran-le-general-des-gardiens-ali-abdollahi-aliabadi-nomme-chef-des-forces-armees-par-le-guide-supreme_6743437_3210.html",
       "summary": "Cet officier commandait auparavant le quartier général central Khatam Al-Anbiya, une structure interarmées de premier plan chargée de superviser et de coordonner les opérations militaires.",
@@ -73,16 +263,6 @@
       "id": "0a5466543693"
     },
     {
-      "title": "Guerre au Moyen-Orient : Trump annonce qu’il va réclamer des «compensations» à l’Iran",
-      "url": "https://www.liberation.fr/international/amerique/guerre-au-moyen-orient-trump-annonce-quil-va-reclamer-des-compensations-a-liran-20260810_FQMQIPKD2RCQVKU5VY5KRJV75U/",
-      "summary": "Le président américain affirme ce lundi 10 août que Téhéran doit payer pour des actions menées par l’Iran ces dernières années contre ses adversaires à l’étranger ou contre des manifestants sur le sol iranien.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-10T17:28:03+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "a33cfcf9fad2"
-    },
-    {
       "title": "Jean-Michel Baylet porte plainte pour agression, un couple comparaîtra pour « violence sur élu »",
       "url": "https://www.lemonde.fr/politique/article/2026/08/10/jean-michel-baylet-porte-plainte-pour-agression-un-couple-comparaitra-pour-violence-sur-elu_6743436_823448.html",
       "summary": "L’ancien ministre et patron du journal « La Dépêche du Midi », maire de Valence-d’Agen, affirme avoir été « bousculé » et avoir reçu un « coup de poing sur la poitrine » de la part d’un homme qui lui a également « craché dessus ».",
@@ -91,16 +271,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "4184fbb7be6b"
-    },
-    {
-      "title": "Colombie : un fort séisme de magnitude 7,4 dans l’ouest du pays, le bilan s’alourdit à 69 morts",
-      "url": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
-      "summary": "D’intenses secousses ont été ressenties jusqu’à Bogotá ce lundi 10 août. Des victimes sont à déplorer dans plusieurs régions, notamment à Pereira, Manizales et Cali, la troisième ville du pays. Six aéroports ont été mis à l’arrêt en raison des dégâts matériels.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-10T17:24:27+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "d935ffb834e6"
     },
     {
       "title": "Royaume-Uni : des fans de Harry Potter parviennent à faire relocaliser un projet de câble électrique pour protéger la «tombe» de Dobby",
@@ -123,16 +293,6 @@
       "id": "0b1cd95d556c"
     },
     {
-      "title": "Séisme en Colombie : au moins 69 morts selon les autorités locales ; les secousses ressenties au Panama",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/10/seisme-en-colombi-au-moins-69-morts-selon-les-autorites-locales-les-secousses-ressenties-au-panama_6743410_3245.html",
-      "summary": "Le tremblement de terre, de magnitude 6,6 selon le service géologique colombien et de magnitude 7,4 selon le service géologique des Etats-Unis, s’est produit à une centaine de kilomètres de profondeur.",
-      "image": "https://img.lemde.fr/2026/08/10/278/0/8256/4128/644/322/60/0/7a4f961_ftp-1-hki7msizd4lg-5809420-01-06.jpg",
-      "published_at": "2026-08-10T19:16:14+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "056fd163a231"
-    },
-    {
       "title": "Incendies : 42 départements placés en risque \"élevé\" de départs de feux de forêt pour la journée de mardi, contre 17 lundi",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-l-incendie-declare-dimanche-a-massegros-causses-gorges-en-lozere-a-parcouru-153-hectares-et-est-desormais-fixe-annonce-la-prefecture_8141315.html#xtor=RSS-3-[lestitres]",
       "summary": "Le retour des fortes chaleurs cette semaine à l'échelle nationale s'accompagne d'une vigilance particulière sur le front des incendies",
@@ -141,166 +301,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "3e58019c4567"
-    },
-    {
-      "title": "Sécheresse : un record absolu en France et en Suisse en juillet ; près des trois quarts de l’Angleterre concernés",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/10/secheresse-un-record-absolu-en-france-et-en-suisse-en-juillet-pres-des-trois-quarts-de-l-angleterre-concernes_6743433_3244.html",
-      "summary": "A l’échelle de l’Union européenne, plus de la moitié des sols sont secs. Ce mois de juillet 2026 est le deuxième mois de juillet le plus sec jamais enregistré, après celui de 2022.",
-      "image": "https://img.lemde.fr/2026/08/10/510/0/6124/3062/644/322/60/0/1a30740_ftp-1-7eh3qzht2oxd-5808233-01-06.jpg",
-      "published_at": "2026-08-10T19:13:47+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "7129243eecec"
-    },
-    {
-      "title": "Affaire Lyhanna : Gérald Darmanin contraint de constater son propre échec",
-      "url": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-gerald-darmanin-contraint-de-constater-son-propre-echec-20260810_S3LOA3MVGJGA3B5UHE7O357AMM/",
-      "summary": "Après avoir refusé durant des semaines d’évoquer les difficultés structurelles dans le traitement des plaintes pour violences sexuelles, le ministre de la Justice a fini par acter l’évidence, reconnaissant en creux les insuffisances de son passage place Beauvau.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-10T17:10:43+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "afb5c15d65f3"
-    },
-    {
-      "title": "Santé publique France lance une enquête pour évaluer l’impact de la canicule sur la santé et le bien-être des Français",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/sante-publique-france-lance-une-enquete-pour-evaluer-l-impact-de-la-canicule-sur-la-sante-et-le-bien-etre-des-francais_8142104.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'enquête doit permettre de mesurer les impacts des fortes chaleurs sur la santé physique et mentale, \"d'éclairer les politiques de santé publique et d'affiner les messages de prévention\".",
-      "image": "https://www.franceinfo.fr/pictures/clta-EX71uLj94SWkH_elUC3Ueg/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79f42ee4e56310785885.jpg",
-      "published_at": "2026-08-10T19:04:30+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "c10d82cbdf68"
-    },
-    {
-      "title": "Guillaume Pley, accusé d’échanges ambigus avec des mineures, tente de se défendre : «Ce qui était peut-être acceptable à l’époque ne l’est plus»",
-      "url": "https://www.liberation.fr/economie/medias/guillaume-pley-accuse-dechanges-ambigus-avec-des-mineures-tente-de-se-defendre-ce-qui-etait-peut-etre-acceptable-a-lepoque-ne-lest-plus-20260810_LSCPPO5Z6NFL5MGZ3TXD5477E4/",
-      "summary": "L’animateur de «Legend» a répondu samedi dans un communiqué sur Instagram à l’enquête publiée par «les Inrocks» le 5 août. Mais d’anciens collaborateurs mettent à mal sa défense tandis que «Le Monde» publie un nouveau témoignage accablant.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-10T17:00:59+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "357784587d02"
-    },
-    {
-      "title": "Les étudiants marocains touchés de plein fouet par la hausse des frais d’inscription en France",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/10/les-etudiants-marocains-touches-de-plein-fouet-par-la-hausse-des-frais-d-inscription-en-france_6743431_3212.html",
-      "summary": "Un décret, pris le 19 mai, restreint les possibilités d’exonération des droits d’inscription différenciés pour les étudiants non européens. Parmi eux, les Marocains sont les plus nombreux à étudier dans les facultés françaises.",
-      "image": "https://img.lemde.fr/2026/08/05/729/0/8809/4404/644/322/60/0/601d9e6_upload-1-mlscd8cycu2d-hl-ebroncard-3157665.jpg",
-      "published_at": "2026-08-10T19:00:22+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "19389c7ff640"
-    },
-    {
-      "title": "La prochaine grande exclusivité de la Switch 2 est maintenant en précommande",
-      "url": "https://www.numerama.com/pop-culture/2309137-la-prochaine-grande-exclusivite-de-la-switch-2-est-maintenant-en-precommande.html",
-      "summary": "[Précommande] Chaque épisode de Fire Emblem est attendu et le prochain opus ne déroge pas à la règle. La série connaît succès sur succès depuis 1990, et Fortune’s Weave, dont la date de sortie est prévue pour le 17 septembre 2026, est déjà attendu comme peu de jeux avant lui sur la Switch 2. Voilà où le précommander au meilleur prix.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-10T17:00:00+00:00",
-      "source": "Numerama",
-      "category": "Culture",
-      "id": "99b2de0d1e12"
-    },
-    {
-      "title": "Aux championnats d’Europe de natation, Maxime Grousset (r)assure malgré sa blessure",
-      "url": "https://www.liberation.fr/sports/aux-championnats-deurope-de-natation-maxime-grousset-rassure-malgre-sa-blessure-20260810_DGPZVYOIFNFUZF434WUKMG2ENA/",
-      "summary": "Le champion du monde s’est qualifié en finale du 50 mètres papillon en livrant d’impressionnantes prestations dans le bassin du Centre aquatique olympique, alors même que sa participation avait été compromise par une fracture au pied.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-10T16:58:28+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "935ee90faac8"
-    },
-    {
-      "title": "Cadeaux, chauffeurs privés… Jordan Bardella se fait retoquer certaines dépenses de campagne pour les européennes",
-      "url": "https://www.liberation.fr/politique/cadeaux-chauffeurs-prives-jordan-bardella-se-fait-retoquer-certaines-depenses-de-campagne-pour-les-europeennes-20260810_P7YJEKVGOZH3XIGPO662YNN7GM/",
-      "summary": "Une bouteille de champagne offerte à son allié espagnol ou encore un contrat de protection rapprochée par des gardes du corps armés «surévalué» : la tête de liste du RN en 2024 a vu une partie de ses frais de campagne rejetés.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-10T16:56:40+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "ac11060be6fd"
-    },
-    {
-      "title": "«L’intention est louable, mais j’ai des doutes sur l’efficacité réelle» : la fin du démarchage téléphonique est-elle vraiment pour demain ?",
-      "url": "https://www.liberation.fr/societe/lintention-est-louable-mais-jai-des-doutes-sur-lefficacite-reelle-la-fin-du-demarchage-telephonique-est-elle-vraiment-pour-demain-20260810_YNTWCQKJWVDQ7OSL324PPVSEFU/",
-      "summary": "A partir de ce mardi 11 août, les entreprises devront recueillir le consentement des consommateurs avant de procéder à du démarchage téléphonique. Une avancée législative certaine qui risque toutefois de se heurter à la réalité du milieu, tempèrent les associations de consommateurs.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-10T16:55:05+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "ec1124be887e"
-    },
-    {
-      "title": "«On n’a ni eau ni électricité, on dort dans le village voisin» : dans le sud du Liban, la vie fragile en «zone pilote»",
-      "url": "https://www.liberation.fr/international/moyen-orient/on-na-ni-eau-ni-electricite-on-dort-dans-le-village-voisin-au-sud-du-liban-la-vie-fragile-en-zone-pilote-20260810_VJ4ULQZ7XJF75PQ4JLS7DXJPXQ/",
-      "summary": "Le village de Zaoutar al-Gharbiyeh se trouve dans l’une des premières parties du territoire censées permettre un retrait progressif de l’armée israélienne. Entre maisons dynamitées, incursions militaires de Tsahal et retour timide des habitants, l’existence y est bouleversée.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-10T16:54:26+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "68b1a533e938"
-    },
-    {
-      "title": "Entre le Liban et Israël, des négociations toujours dans l’impasse",
-      "url": "https://www.liberation.fr/international/moyen-orient/entre-le-liban-et-israel-des-negociations-toujours-dans-limpasse-20260810_KNO7ZY5WYRB5HJXFQTP2KLF2WQ/",
-      "summary": "Après sept cycles de pourparlers, le dialogue entre les deux pays bute sur le retrait israélien du sud du pays. Alors que Beyrouth réclame l’élargissement des «zones pilotes», Tel-Aviv refuse de céder certaines positions stratégiques et poursuit ses opérations.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-10T16:51:58+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "3fe2f7f89f8f"
-    },
-    {
-      "title": "Championnats d’Europe de natation : Léon Marchand très attendu malgré sa blessure",
-      "url": "https://www.franceinfo.fr/sports/natation/leon-marchand/championnats-d-europe-de-natation-leon-marchand-tres-attendu-malgre-sa-blessure_8141957.html#xtor=RSS-3-[lestitres]",
-      "summary": "Deux ans après son triomphe, Léon Marchand est de retour à Paris pour les Championnats d’Europe de natation. Diminué par une blessure, le quadruple champion olympique ne va disputer que deux épreuves individuelles, le 200m papillon et le 400m nage libre. Un programme allégé qui n'entame pas l'enthousiasme de ses fans.",
-      "image": "https://www.franceinfo.fr/pictures/hW1hmyw7wHOD2p9z_inCNVOzeJE/0x40:1482x874/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79d96666e3f629285652.png",
-      "published_at": "2026-08-10T18:47:53+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "8463ad54b145"
-    },
-    {
-      "title": "La primaire proposée par François Bayrou peine à convaincre : «Personne n’est d’accord sur les participants»",
-      "url": "https://www.liberation.fr/politique/la-primaire-proposee-par-francois-bayrou-peine-a-convaincre-personne-nest-daccord-sur-les-participants-20260810_SJSD7LDHSJCTLGWQJILML5LCTM/",
-      "summary": "La nouvelle méthode de départage allant du Parti socialiste à la droite «gaulliste», voulue par l’ancien Premier ministre, n’a pour l’instant trouvé aucun écho chez les intéressés.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-10T16:45:42+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "2b0dae6d62af"
-    },
-    {
-      "title": "Alexandria Ocasio-Cortez, figure de la gauche américaine, partage son parcours de congélation d’ovocytes sur Instagram et veut « normaliser » le débat sur la fertilité",
-      "url": "https://www.lemonde.fr/international/article/2026/08/10/alexandria-ocasio-cortez-figure-de-la-gauche-americaine-partage-son-parcours-de-congelation-d-ovocytes-sur-instagram-et-veut-normaliser-le-debat-sur-la-fertilite_6743428_3210.html",
-      "summary": "La députée à la Chambre des représentants des Etats-Unis, âgée de 36 ans, a notamment mis en ligne une vidéo la montrant dans les locaux de la chaîne ABC, en train de s’injecter des médicaments dans le ventre avant de donner une interview.",
-      "image": "https://img.lemde.fr/2026/08/10/528/0/1080/540/644/322/60/0/3a27c3f_upload-1-mz0thbih6pk2-unnamed-2.jpg",
-      "published_at": "2026-08-10T18:37:48+02:00",
-      "source": "Le Monde Inter",
-      "category": "Tech",
-      "id": "4aa452f68373"
-    },
-    {
-      "title": "« Pour gagner la guerre hybride menée par la Russie contre l’Europe, il faut accepter de terroriser le Kremlin comme lui-même cherche à nous terroriser »",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/10/pour-gagner-la-guerre-hybride-menee-par-la-russie-contre-l-europe-il-faut-accepter-de-terroriser-le-kremlin-comme-lui-meme-cherche-a-nous-terroriser_6743426_3232.html",
-      "summary": "Dans une tribune au « Monde », l’historien Antoine Arjakovsky appelle la coalition des volontaires et l’Union européenne à répondre coup pour coup aux attaques russes, après l’attaque au drone explosif contre l’aéroport de Leipzig-Halle, en Allemagne.",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/effc97e_upload-1-myd5dvgloxwz-frame-1276.jpg",
-      "published_at": "2026-08-10T18:30:09+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "2f9b4179bf83"
-    },
-    {
-      "title": "VIDEO Colombie : le nouveau président déjà en guerre contre les groupes armés",
-      "url": "https://www.lemonde.fr/international/video/2026/08/10/colombie-six-membres-de-groupes-armes-tues-lors-des-premieres-operations-militaires-du-nouveau-president_6743425_3210.html",
-      "summary": "Ces manœuvres envoient « un message clair et percutant pour tous les bandits », a déclaré Abelardo de la Espriella, qui est entré en fonction le 7 août 2026.",
-      "image": "https://img.lemde.fr/2026/08/08/479/0/5748/2874/644/322/60/0/4cc0884_ftp-1-potyvmh3bgfl-1002135968c74996806ca07bcc749f9f-2-0d786438a3ba43f5936df50de0c56a11.jpg",
-      "published_at": "2026-08-10T18:29:35+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "0725e4eda986"
     }
   ]
 }
