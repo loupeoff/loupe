@@ -1,26 +1,166 @@
 {
-  "generated_at": "2026-08-11T04:26:12.451559+00:00",
+  "generated_at": "2026-08-11T05:57:54.558171+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Mon budget vacances : «Je dépense 821 euros au Portugal, un peu moins que prévu»",
+      "url": "https://www.liberation.fr/lifestyle/voyages/mon-budget-vacances-je-depense-821-euros-au-portugal-un-peu-moins-que-prevu-20260811_KBGOIWP4SJD6LM2VGYYHRAX7MA/",
+      "summary": "Plutôt voyages en éco ou en première classe ? S’il y a bien un moment de l’année où l’on s’autorise quelques folies, c’est l’été. Dans notre deuxième épisode, Lalie espérait faire la fête à bas coût. Aveu en partie d’échec.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-11T05:48:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "d02875ad015f"
+    },
+    {
+      "title": "Canicule : un nouvel épisode de fortes chaleurs s'installe en France ce mardi",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/en-direct-canicule-un-nouvel-episode-de-fortes-chaleurs-s-installe-en-france_8142731.html#xtor=RSS-3-[lestitres]",
+      "summary": "Météo-France prévoit de placer 24 départements supplémentaires, dont Paris et sa petite couronne, à partir de mercredi midi. L'organsime table sur un \"pic probable de l'épisode vers le milieu de semaine\".",
+      "image": "https://www.franceinfo.fr/pictures/X2OzXej_o6hg760XaneXyTu9k34/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7ab59182dcf256552696.jpg",
+      "published_at": "2026-08-11T07:40:05+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "5c770d0e0f64"
+    },
+    {
+      "title": "Le bouleversement des fréquences FM de France Musique déroute et agace des auditeurs",
+      "url": "https://www.liberation.fr/economie/medias/le-bouleversement-des-frequences-fm-de-france-musique-deroute-et-agace-des-auditeurs-20260811_BGNCUDQNLJGIZJENOHYAGTLTDY/",
+      "summary": "Le 22 juillet, Radio France a profondément modifié son réseau FM, réduisant fortement le nombre d’émetteurs dédiés à la station musicale, qui a vu sa couverture analogique passer de 93 % à 70 % de la population.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-11T05:29:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "bd8c2886fbc2"
+    },
+    {
+      "title": "Manque d’eau : en Bourgogne, habitants et animaux au cœur d’un été où «tout grille»",
+      "url": "https://www.liberation.fr/environnement/manque-deau-en-bourgogne-habitants-et-animaux-au-coeur-dun-ete-ou-tout-grille-20260811_ZNGOWSOQOJCXRFO5UFDL6Y6ULQ/",
+      "summary": "A cause des canicules et de l’absence de précipitations, deux communes de Côte-d’Or doivent être alimentées en eau par des camions-citernes. Habitants, éleveurs et apiculteurs tentent de s’organiser, en attendant des solutions pérennes.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-11T05:25:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "e7c3a528b908"
+    },
+    {
+      "title": "Au Maroc, la fin du démarchage téléphonique vers la France menace plus de 40 000 emplois",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/11/au-maroc-la-fin-du-demarchage-telephonique-vers-la-france-menace-plus-de-40-000-emplois_6694226_3213.html",
+      "summary": "Une loi adoptée en France interdit toute prospection sans accord explicite du client à partir du 11 août. Elle met en danger des dizaines de milliers de salariés dans les centres d’appels marocains, largement dépendants du marché hexagonal.",
+      "image": "https://img.lemde.fr/2026/05/26/224/0/3184/1592/644/322/60/0/74892fc_upload-1-qfdim1t5pere-000-arp1772887.jpg",
+      "published_at": "2026-08-11T07:16:07+02:00",
+      "source": "Le Monde Inter",
+      "category": "Économie",
+      "id": "cadb80ae60ac"
+    },
+    {
+      "title": "Championnats du monde d'équitation : les cavaliers français débutent la course aux JO 2028 à Aix-la-Chapelle",
+      "url": "https://www.franceinfo.fr/sports/equitation/championnats-du-monde-d-equitation-les-cavaliers-francais-debutent-la-course-aux-jo-2028-a-aix-la-chapelle_8141561.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'équipe de France est attendue, mardi, pour son entrée en lice dans la compétition en Allemagne.",
+      "image": "https://www.franceinfo.fr/pictures/bL8YS1ZBTmDwVJlyO9Ffj9MXJZ0/0x0:4096x2304/432x243/filters:format(jpg):quality(50)/2026/08/10/6a798b811a11d817000207.jpg",
+      "published_at": "2026-08-11T07:00:02+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "b927506c5637"
+    },
+    {
+      "title": "«Rumours», la thérapie de groupe de Fleetwood Mac",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/rumours-la-therapie-de-groupe-de-fleetwood-mac-20260811_DAS3A76IPZBS7CY53U6BW2R4BA/",
+      "summary": "L’album, sorti en 1977, un des plus gros succès de tous les temps, est pourtant un disque de règlements de comptes où les membres du groupe s’invectivent par chansons interposées. Une mise en scène de leurs hostilités aussi brillante que lucrative, qui se poursuivra pendant des décennies.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-11T05:00:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "c13e9e7d0837"
+    },
+    {
+      "title": "En 1880, l’éclipse du 12 août était déjà à l’agenda de l’astronome Camille Flammarion",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/en-1880-leclipse-du-12-aout-etait-deja-a-lagenda-de-lastronome-camille-flammarion-20260811_2VLDUE6AWZHP3BTZOUIJ2OYULM/",
+      "summary": "Il y a près de deux siècles, le scientifique expliquait qu’il faudrait attendre 2026 pour revoir une éclipse totale en France. Alors que le Soleil s’effacera derrière l’ombre de la Lune mercredi, c’est ce futur que nous incarnons, relève la chercheuse Elsa Courant.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-11T05:00:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "d3a0d482ac44"
+    },
+    {
+      "title": "\"Beaucoup ont le sida\" : à Marseille, la consommation de crack explose dans les rues du centre-ville",
+      "url": "https://www.franceinfo.fr/sante/drogue-addictions/beaucoup-ont-le-sida-a-marseille-la-consommation-de-crack-explose-dans-les-rues-du-centre-ville_8142299.html#xtor=RSS-3-[lestitres]",
+      "summary": "Depuis l'abandon d'un projet de Halte soins addictions, il y a deux ans, les petites associations de la cité phocéenne tentent malgré tout de limiter les risques de maladies auprès des consommateurs de drogue.",
+      "image": "https://www.franceinfo.fr/pictures/ASAQk9f0Q6iNGLGumqUd--gI6pM/0x403:4195x2760/432x243/filters:format(jpg):quality(50)/2025/08/06/maxnewsworldsix423484-68932385b4016207651543.jpg",
+      "published_at": "2026-08-11T06:58:34+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "0ac0c86782de"
+    },
+    {
+      "title": "«Je dois m’approcher du record du monde» : l’audacieux Yohann Ndoye-Brouard lance sa semaine parisienne avec le 200 m dos",
+      "url": "https://www.liberation.fr/sports/je-dois-mapprocher-du-record-du-monde-laudacieux-yohann-ndoye-brouard-lance-sa-semaine-parisienne-avec-le-200-m-dos-20260811_DRDOIDL5DFAE3BNCLMFN2WLBGM/",
+      "summary": "Le nageur français entre en piste, ce mardi 11 août à Saint-Denis, avec l’envie et la stature pour décrocher une nouvelle médaille européenne, voire «monter sur le toit de l’Europe».",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-11T04:45:00+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "a4fabc4e4f69"
+    },
+    {
+      "title": "Philippe Brun sur la hausse du chômage : «Ce que démontre la situation du pays, c’est d’abord la chute de la consommation des ménages»",
+      "url": "https://www.liberation.fr/politique/philippe-brun-sur-la-hausse-du-chomage-ce-que-demontre-la-situation-du-pays-cest-dabord-la-chute-de-la-consommation-des-menages-20260811_BRMT32H62BB7JHL5VOS26CG6OU/",
+      "summary": "Le député de l’Eure et candidat à la primaire du Parti socialiste attribue l’accroissement du chômage à la baisse du pouvoir d’achat des Français, causée notamment par la crise des prix de l’énergie.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-11T04:44:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "a6ef4d804ba0"
+    },
+    {
+      "title": "Canicule : 43 départements en vigilance orange mardi, des températures maximales attendues entre 35 ºC et 37 ºC",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/11/canicule-43-departements-en-vigilance-orange-mardi-et-des-temperatures-nettement-a-la-hausse_6743761_3244.html",
+      "summary": "Mardi à 5 heures, Météo-France relevait déjà 27 ºC au Luc (Var), 26 ºC à Montpellier (Hérault) et 25 ºC à Clermont-Ferrand (Puy-de-Dôme).",
+      "image": "https://img.lemde.fr/2026/08/10/903/0/12288/6144/644/322/60/0/8a922de_ftp-1-yvepcn44omuc-5806759-01-06.jpg",
+      "published_at": "2026-08-11T06:43:48+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "062385415809"
+    },
+    {
+      "title": "Jean-Jacques Muyembe, virologue congolais : « Ebola se propage à une vitesse que nous n’avions encore jamais observée »",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/11/jean-jacques-muyembe-virologue-congolais-ebola-se-propage-a-une-vitesse-que-nous-n-avions-encore-jamais-observee_6743759_3212.html",
+      "summary": "Le codécouvreur du virus, en 1976, revient, dans un entretien au « Monde », sur l’actuelle propagation de l’épidémie due à Ebola en République démocratique du Congo. En seulement trois mois, le nombre de morts s’approche du bilan humain de l’épidémie de 2018, qui avait duré vingt-deux mois.",
+      "image": "https://img.lemde.fr/2026/05/20/635/0/5407/2703/644/322/60/0/d25ee75_ftp-1-ads3coq5symv-5091175-01-06.jpg",
+      "published_at": "2026-08-11T06:30:08+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "a59a7cd70ec0"
+    },
+    {
+      "title": "Courir moins vite, tactique... Comment Femke Broeders-Bol, double championne du monde du 400 m haies, s'est invitée parmi les meilleures sur 800 m en dix mois",
+      "url": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/courir-moins-vite-tactique-comment-femke-broeders-bol-double-championne-du-monde-du-400-m-haies-s-est-invitee-parmi-les-meilleures-sur-800-m-en-dix-mois_8102747.html#xtor=RSS-3-[lestitres]",
+      "summary": "La détentrice du record d'Europe du 400 m haies s'est lancée, en octobre dernier, sur le 800 m en vue des JO 2028. La Néerlandaise tentera, à partir de mardi, d'atteindre la finale des championnats d'Europe de Birmingham.",
+      "image": "https://www.franceinfo.fr/pictures/hlyqVnhgrXqa2GHlnQafP9-t_rE/0x0:4452x2504/432x243/filters:format(jpg):quality(50)/2026/07/10/6a50e6b21d381758586179.jpg",
+      "published_at": "2026-08-11T06:30:02+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "4734c665e799"
+    },
+    {
+      "title": "Vingt-quatre nouveaux départements placés en vigilance orange \"canicule\" à partir de mercredi , 67 concernés au total",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-23-departements-de-la-region-parisienne-du-sud-ouest-et-du-centre-de-la-france-places-a-leur-tour-en-vigilance-orange-a-partir-de-mercredi_8142656.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Mercredi, la chaleur s'accentue encore et les conditions caniculaires gagnent encore du terrain : les maximales sont de l'ordre de 36°C à 39°C sur les départements placés en vigilance orange\", écrit Météo-France dans son bulletin publié mardi matin.",
+      "image": "https://www.franceinfo.fr/pictures/UB8kto7h0ny_c5XOuM_9rOJlIt0/0x32:1024x608/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7aa3bae014b306799113.jpg",
+      "published_at": "2026-08-11T06:26:58+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "5aa86a8b5565"
+    },
     {
       "title": "Après un puissant séisme en Colombie, la recherche de survivants et le décompte des victimes",
       "url": "https://www.lemonde.fr/planete/article/2026/08/11/apres-un-puissant-seisme-en-colombie-la-recherche-de-survivants-et-le-decompte-des-victimes_6743758_3244.html",
       "summary": "Le tremblement de terre d’une magnitude de 7,4 a frappé Cali et d’autres villes de l’ouest du pays, lundi 10 août, faisant au moins 132 morts et de nombreux dégâts. Le président, Abelardo de la Espriella, a décrété l’état de catastrophe nationale.",
-      "image": "https://img.lemde.fr/2026/08/11/370/0/2916/1458/644/322/60/0/5c0f976_ftp-1-kzzqiu7q3x8f-2026-08-11t025942z-355485087-rc2yvmauvxvq-rtrmadp-3-colombia-quake.JPG",
-      "published_at": "2026-08-11T06:17:03+02:00",
+      "image": "https://img.lemde.fr/2026/08/11/605/0/5000/2500/644/322/60/0/69fe626_ftp-1-satwxe2n8drx-2026-08-11t045315z-1384048504-rc2zvma6whvt-rtrmadp-3-colombia-quake.JPG",
+      "published_at": "2026-08-11T06:17:01+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "736637d47167"
-    },
-    {
-      "title": "En Hongrie, premières interrogations sur la « désorbanisation » à marche forcée de Péter Magyar",
-      "url": "https://www.lemonde.fr/international/article/2026/08/11/en-hongrie-premieres-interrogations-sur-la-desorbanisation-a-marche-forcee-de-peter-magyar_6743756_3210.html",
-      "summary": "Trois mois après son arrivée au pouvoir, le premier ministre s’apprête à faire élire, mardi, l’ancien juge constitutionnel Andras Baka à la présidence de la République. Sa nomination, décidée sans concertation, soulève des questions sur la pratique du pouvoir du successeur de Viktor Orban, jugée par certains comme trop expéditive et centralisée.",
-      "image": "https://img.lemde.fr/2026/08/10/688/0/8256/4128/644/322/60/0/384992a_upload-1-lap6qfdd2oc7-000-b8339wg.jpg",
-      "published_at": "2026-08-11T06:00:42+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "2c01ea0617e9"
     },
     {
       "title": "Yannick Jadot : « Climatosceptiques et climato-arrangeants sont des capitulards qui nous condamnent au pire »",
@@ -33,14 +173,34 @@
       "id": "fb3d9656a690"
     },
     {
+      "title": "Pourquoi l’IA provoque un nouveau séisme dans les médias, fragilisés par vingt ans de mutations numériques",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/11/pourquoi-l-ia-provoque-un-nouveau-seisme-dans-les-medias-fragilises-par-vingt-ans-de-mutations-numeriques_6743753_3234.html",
+      "summary": "Le déferlement de l’intelligence artificielle, qui pille les contenus journalistiques, favorise les deepfakes et bouleverse la façon de s’informer, met à l’épreuve ce secteur où les plans sociaux se multiplient.",
+      "image": "https://img.lemde.fr/2026/08/07/125/184/2658/1329/644/322/60/0/0b37c0e_upload-1-dfimpsomz1sm-dessin-hd-ia-et-presse-3000x2000px-themonde.jpg",
+      "published_at": "2026-08-11T06:00:31+02:00",
+      "source": "Le Monde",
+      "category": "Tech",
+      "id": "ffbe054a6198"
+    },
+    {
       "title": "Sénatoriales 2026 : les candidats en campagne, à l’écoute de leurs « pairs », les grands électeurs",
       "url": "https://www.lemonde.fr/politique/article/2026/08/11/senatoriales-2026-les-candidats-en-campagne-a-l-ecoute-de-leurs-pairs-les-grands-electeurs_6743754_823448.html",
-      "summary": "Depuis le début de l’été, les prétendants aux élections du 27 septembre, à l’occasion desquelles 178 sièges de la Haute Assemblée seront renouvelés, arpentent leur département afin de nouer un lien de confiance avec les élus locaux.",
+      "summary": "Depuis le début de l’été, les prétendants aux élections du 27 septembre, à l’occasion desquelles 178 sièges seront renouvelés, arpentent leur département afin de nouer un lien de confiance avec les élus locaux.",
       "image": "https://img.lemde.fr/2026/08/06/0/0/5976/2988/644/322/60/0/7f93a48_upload-1-vjvybegkol0n-daj26017d34.JPG",
-      "published_at": "2026-08-11T06:00:34+02:00",
+      "published_at": "2026-08-11T06:00:22+02:00",
       "source": "Le Monde Politique",
       "category": "Politique",
       "id": "727a67bf0b5c"
+    },
+    {
+      "title": "En Hongrie, premières interrogations sur la « désorbanisation » à marche forcée de Péter Magyar",
+      "url": "https://www.lemonde.fr/international/article/2026/08/11/en-hongrie-premieres-interrogations-sur-la-desorbanisation-a-marche-forcee-de-peter-magyar_6743756_3210.html",
+      "summary": "Trois mois après son arrivée au pouvoir, le premier ministre s’apprête à faire élire, mardi, l’ancien juge constitutionnel Andras Baka à la présidence de la République. Sa nomination, décidée sans concertation, soulève des questions sur la pratique du pouvoir du successeur de Viktor Orban, jugée par certains comme trop expéditive et centralisée.",
+      "image": "https://img.lemde.fr/2026/08/10/688/0/8256/4128/644/322/60/0/384992a_upload-1-lap6qfdd2oc7-000-b8339wg.jpg",
+      "published_at": "2026-08-11T06:00:11+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "2c01ea0617e9"
     },
     {
       "title": "Mattias Grafström, le numéro deux de la FIFA qui n’a pas pu s’émanciper de Gianni Infantino",
@@ -71,6 +231,16 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "be81f529dc25"
+    },
+    {
+      "title": "\"Une affaire turque\" de Huseyin Aydin Gursoy : un thriller politique enflammé sur les traces d'un transfuge de classe",
+      "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/une-affaire-turque-de-huseyin-aydin-gursoy-un-thriller-politique-enflamme-sur-les-traces-d-un-transfuge-de-classe_8088011.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le réalisateur franco-turc signe un film bouleversant sur les identités blessées et sur l'émancipation. Une œuvre portée par un excellent Lionel Erdogan tout en intériorité.",
+      "image": "https://www.franceinfo.fr/pictures/sX5LVtG93kPTgIIw5L4siOXMmh8/204x0:1395x670/432x243/filters:format(jpg):quality(50)/2026/06/19/6a351278332c5052154257.jpg",
+      "published_at": "2026-08-11T06:00:01+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "775c9d341058"
     },
     {
       "title": "Quiz : les années en 6",
@@ -115,9 +285,9 @@
     {
       "title": "L’Allemagne s’inquiète de sa vulnérabilité face à des incursions de drones qui se multiplient sur son territoire",
       "url": "https://www.lemonde.fr/international/article/2026/08/11/l-allemagne-s-inquiete-de-sa-vulnerabilite-face-a-des-incursions-de-drones-qui-se-multiplient-sur-son-territoire_6743745_3210.html",
-      "summary": "Après la collision d’un engin portant de l’explosif et d’un avion ukrainien au sol à Leipzig, le 5 août, la Russie est montrée du doigt par de nombreux observateurs mais le chancelier Friedrich Merz reste, pour l’heure, sur la réserve.",
+      "summary": "Après la collision d’un engin chargé d’explosif et d’un avion ukrainien au sol à Leipzig, le 5 août, la Russie est montrée du doigt par de nombreux observateurs mais le chancelier Friedrich Merz reste, pour l’heure, sur la réserve.",
       "image": "https://img.lemde.fr/2026/08/05/762/0/4574/2287/644/322/60/0/7fb374f_ftp-1-cutwcikiea2x-1aa94f2e7f234124837efd52a6b149e7-1-1f56b2b6ceae4baabf1afff8ea20e668.jpg",
-      "published_at": "2026-08-11T05:31:11+02:00",
+      "published_at": "2026-08-11T05:31:09+02:00",
       "source": "Le Monde",
       "category": "International",
       "id": "f8e1e1059fc7"
@@ -131,176 +301,6 @@
       "source": "Le Monde",
       "category": "Tech",
       "id": "eaf3f3dbca1e"
-    },
-    {
-      "title": "Donald Trump aurait quitté le sommet de l’OTAN en Turquie en juillet à bord d’un avion secret en raison des menaces de l’Iran",
-      "url": "https://www.lemonde.fr/international/article/2026/08/11/donald-trump-aurait-quitte-le-sommet-de-l-otan-en-turquie-en-juillet-a-bord-d-un-avion-secret-en-raison-des-menaces-de-l-iran_6743710_3210.html",
-      "summary": "Selon le « Washington Post », le président américain, après être monté à bord de l’avion présidentiel Air Force One sous l’œil des caméras, aurait été secrètement débarqué dans un camion de restauration aéroportuaire pour emprunter un avion plus petit.",
-      "image": "https://img.lemde.fr/2026/08/11/486/0/5831/2915/644/322/60/0/b063960_ftp-1-edj02u9lvrl2-577581f7824e411082bc488aaf940402-0-e4adf1d5dffe41d9bb20a733daf46e7b.jpg",
-      "published_at": "2026-08-11T05:15:43+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "0d8c716f8dd0"
-    },
-    {
-      "title": "Aux Etats-Unis, Donald Trump relance son offensive contre la vaccination",
-      "url": "https://www.lemonde.fr/international/article/2026/08/11/aux-etats-unis-donald-trump-relance-son-offensive-contre-la-vaccination_6743643_3210.html",
-      "summary": "Faisant un lien avec l’autisme, le président américain a signé un décret contenant de nouvelles recommandations en matière de vaccins ; il en limite notamment le nombre et demande à espacer leur administration aux enfants.",
-      "image": "https://img.lemde.fr/2026/08/10/982/0/5894/2947/644/322/60/0/9f64939_ftp-1-ns30q5fdz29k-5810648-01-06.jpg",
-      "published_at": "2026-08-11T01:45:09+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "eacb91e5743e"
-    },
-    {
-      "title": "La maison mère de Truth Social, le réseau de Donald Trump, affiche 240 millions de dollars de pertes au deuxième trimestre",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/11/la-maison-mere-de-truth-social-le-reseau-de-donald-trump-affiche-240-millions-de-dollars-de-pertes-au-deuxieme-trimestre_6743610_3234.html",
-      "summary": "A l’issue des trois premiers mois de l’année, Trump Media & Technology Group – dont le milliardaire est le principal actionnaire – avait déjà fait état d’une perte de plus de 400 millions de dollars.",
-      "image": "https://img.lemde.fr/2026/08/01/278/0/3335/1667/644/322/60/0/0a26ce5_ftp-1-e6f7uvkt54ev-86b39af0de0e41bd984a7cc7e3349392-1-9c45b073b2b446be9d4134d5ffd1ae13.jpg",
-      "published_at": "2026-08-11T01:28:40+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "19128bced56c"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : nouvelles frappes russes dans la nuit, au moins cinq morts à Zaporijia",
-      "url": "https://www.lemonde.fr/international/live/2026/08/11/en-direct-guerre-en-ukraine-nouvelles-frappes-russes-sur-kiev_6741928_3210.html",
-      "summary": "Kiev et Zaporijia ont été les cibles de nouvelles frappes russes dans la nuit. Cette attaque intervient alors que le président ukrainien, Volodymyr Zelensky, avait affirmé la veille que la Russie se préparait à déployer davantage de soldats nord-coréens sur son territoire et avait reçu de nouveaux missiles balistiques en provenance de Pyongyang.",
-      "image": "https://img.lemde.fr/2026/08/11/81/0/1280/640/644/322/60/0/5613cac_upload-1-nbtt4reifgap-2026-08-11-02-57-32.jpg",
-      "published_at": "2026-08-11T00:32:37+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "790b804d96a1"
-    },
-    {
-      "title": "Robots attrapeurs de moustiques, élevages en laboratoire, inspections à domicile... A Singapour, mobilisation générale contre les insectes vecteurs de la dengue",
-      "url": "https://www.franceinfo.fr/sante/c-est-quelque-chose-que-tout-le-monde-doit-avoir-en-tete-a-singapour-pas-de-pitie-pour-les-moustiques_8142326.html#xtor=RSS-3-[lestitres]",
-      "summary": "À Singapour, où 10 000 personnes en moyenne contractent la dengue chaque année, les moustiques sont un enjeu de santé publique. La cité Etat leur mène une guerre sans relâche jusque chez les habitants.",
-      "image": "https://www.franceinfo.fr/pictures/dHDGCXDa4LOFRq1w0FC8it8Y8uw/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7a474cae224985098293.jpg",
-      "published_at": "2026-08-10T23:49:14+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "f7f80d630ff9"
-    },
-    {
-      "title": "Visite du pape en France : le Stade de France \"affiche complet\", plus de 200 000 inscrits pour la messe aux Champs-Elysées en quelques heures",
-      "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-en-france-le-stade-de-france-affiche-complet-plus-de-200-000-inscrits-pour-la-messe-aux-champs-elysees-en-quelques-heures_8142470.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Votre mobilisation est très forte en vue de la venue du pape à Paris\", s'est réjoui, lundi, le diocèse de la capitale.",
-      "image": "https://www.franceinfo.fr/pictures/2dAO4AbKdDAHz7scGWDRPVvMI7k/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7a44119c162512895285.jpg",
-      "published_at": "2026-08-10T23:35:41+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "d5fafee1de67"
-    },
-    {
-      "title": "\"On attend encore qu'elle tombe, la station Mir\" : 27 ans après l'éclipse de 1999, les Français s'amusent encore des prédictions de Paco Rabanne",
-      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/on-attend-encore-qu-elle-tombe-la-station-mir-27-ans-apres-l-eclipse-de-1999-les-francais-s-amusent-encore-des-predictions-de-paco-rabanne_8142389.html#xtor=RSS-3-[lestitres]",
-      "summary": "L’éclipse solaire du mercredi 12 août rappellera peut-être à certains celle de 1999. Le phénomène avait aussi inspiré les prédictions les plus folles, notamment Paco Rabanne, qui annonçait la chute de la station spatiale Mir sur Paris et le Gers. Retour sur place, 27 ans plus tard.",
-      "image": "https://www.franceinfo.fr/pictures/gGGoGRJGiPk2JwTQzF8L47WzrKU/0x102:1574x988/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7a26f443131630492266.png",
-      "published_at": "2026-08-10T23:10:24+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "d53db07f3934"
-    },
-    {
-      "title": "La Turquie adopte une loi historique sur la réintégration des combattants kurdes du PKK",
-      "url": "https://www.franceinfo.fr/monde/turquie/la-turquie-adopte-une-loi-historique-sur-la-reintegration-des-combattants-kurdes-du-pkk_8142449.html#xtor=RSS-3-[lestitres]",
-      "summary": "Ce texte censé sceller le processus de paix entamé il y a près de deux ans par Ankara prévoit le retour à la vie civile d'une partie des combattants du PKK renonçant aux armes.",
-      "image": "https://www.franceinfo.fr/pictures/otaNryc5yEsLBbr4wgZayBqPeJk/0x208:4000x2458/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7a3b291d8a9461328697.jpg",
-      "published_at": "2026-08-10T22:57:19+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "376526f887b4"
-    },
-    {
-      "title": "\"Je ne pensais pas pouvoir nager aussi vite\" : le retour du roi Léon Marchand rallume la folie de Paris avec l'éclosion du relais français 4x200 m nage libre",
-      "url": "https://www.franceinfo.fr/sports/natation/championnats-d-europe-de-natation/je-ne-pensais-pas-pouvoir-nager-aussi-vite-le-retour-du-roi-leon-marchand-rallume-la-folie-de-paris-avec-l-eclosion-du-relais-francais-4x200-m-nage-libre_8142374.html#xtor=RSS-3-[lestitres]",
-      "summary": "La star mondiale de la natation a décroché, lundi à Saint-Denis, sa première médaille européenne en compagnie de Pierre Largeron, Sauveur Cristofini et Roman Fuchs.",
-      "image": "https://www.franceinfo.fr/pictures/PrH3UB3--gXVhJCglRX3ahjSuv0/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7a1a0e0424f177217406.jpg",
-      "published_at": "2026-08-10T22:57:10+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "a737dd9c7f6a"
-    },
-    {
-      "title": "Première médaille européenne pour Etienne Daguinos en bronze sur le 5 000 m, désillusion pour Jimmy Gressier",
-      "url": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/video-premiere-medaille-europeenne-pour-etienne-daguinos-en-bronze-sur-le-5-000-m-desillusion-pour-jimmy-gressier_8141975.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Français de 25 ans a été devancé par le Norvégien Jakob Ingebrigtsen et l'Allemand Florian Bremm, lundi, à Birmingham.",
-      "image": "https://www.franceinfo.fr/pictures/sUhyiqijSSwEtj7eM4DDyWEyj0A/0x0:4841x2723/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7a3419520df113561001.jpg",
-      "published_at": "2026-08-10T22:34:38+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "7f93c16289d9"
-    },
-    {
-      "title": "\"J'ai vu les murs commencer à craquer\" : en Colombie, un séisme meurtrier dévaste l'ouest du pays",
-      "url": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/colombie-un-violent-seisme-fait-au-moins-69-morts_8142356.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'ouest de la Colombie a été frappé par un séisme de magnitude 7,4, lundi. Au moins 111 personnes ont été tuées, selon un bilan provisoire communiqué dans la soirée.",
-      "image": "https://www.franceinfo.fr/pictures/8a4WRYS-p0_XawRFg7XM8S-9xN0/0x225:4337x2665/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7a2ac40b5c5402484178.jpg",
-      "published_at": "2026-08-10T22:27:45+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "e48fdc9c82b5"
-    },
-    {
-      "title": "Le prix de référence du gaz va augmenter de 5,6% en septembre pour une majorité d'abonnés français",
-      "url": "https://www.franceinfo.fr/environnement/energie/le-prix-de-reference-du-gaz-va-augmenter-de-5-6-en-septembre-pour-une-majorite-d-abonnes-francais_8142440.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cette hausse est \"entièrement liée à l'augmentation des prix du gaz sur les marchés\", alimentée par le conflit persistant au Moyen-Orient, selon la Commission de régulation de l'énergie.",
-      "image": "https://www.franceinfo.fr/pictures/KIoU6Nf04zaA5HxiKZ6hBYggeKs/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7a32e90b507372197354.jpg",
-      "published_at": "2026-08-10T22:26:04+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "a9b09b2f3051"
-    },
-    {
-      "title": "Etienne Daguinos s’offre le bronze sur 5 000 m aux championnats d’Europe d’athlétisme, Jimmy Gressier termine au pied du podium",
-      "url": "https://www.lemonde.fr/sport/article/2026/08/10/etienne-daguinos-decroche-la-medaille-de-bronze-du-5-000-m-aux-championnats-d-europe-d-athletisme_6743544_3242.html",
-      "summary": "Le fondeur français a doublé sur le fil son compatriote, qui s’était paré du bronze mondial sur la distance à Tokyo en 2025, pour s’offrir la 3ᵉ place d’une course remportée par la légende norvégienne Jakob Ingebrigtsen.",
-      "image": "https://img.lemde.fr/2026/08/10/193/0/5400/2700/644/322/60/0/f5b226a_ftp-1-6e2flrzcskyu-a30fe2c4e6e44a35a06a6c38468c011e-0-a585146e424444ada7a9ff9999f80440.jpg",
-      "published_at": "2026-08-10T22:14:48+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "6e198cdab468"
-    },
-    {
-      "title": "Une enquête ouverte à Caen après la diffusion d'une vidéo montrant l'agression raciste de jeunes femmes",
-      "url": "https://www.franceinfo.fr/societe/racisme/une-enquete-ouverte-a-caen-apres-la-diffusion-d-une-video-montrant-l-agression-raciste-de-jeunes-femmes_8142413.html#xtor=RSS-3-[lestitres]",
-      "summary": "Une des deux victimes a filmé la scène et postée la vidéo sur les réseaux sociaux, qui cumule plus de deux millions de vues.",
-      "image": "https://www.franceinfo.fr/pictures/AHw18CQ7CBlaljimBKRflPizphk/432x243/filters:format(jpg):quality(50)/2026/07/10/6a509989c3d99402702895.jpg",
-      "published_at": "2026-08-10T22:02:34+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "23205fc721be"
-    },
-    {
-      "title": "La Turquie adopte une loi historique sur la réintégration des combattants du PKK ; le sort d’Abdullah Öcalan reste à régler",
-      "url": "https://www.lemonde.fr/international/article/2026/08/10/la-turquie-adopte-une-loi-historique-sur-la-reintegration-des-combattants-du-pkk-le-sort-d-abdullah-ocalan-reste-a-regler_6743543_3210.html",
-      "summary": "Le fondateur de la guérilla kurde du Parti des travailleurs du Kurdistan, Abdullah Öcalan, 77 ans, condamné à la prison à vie, avait appelé l’an passé les combattants du PKK à déposer les armes.",
-      "image": "https://img.lemde.fr/2026/08/10/482/0/5170/2585/644/322/60/0/348d68e_upload-1-64dvkpy5qyba-ap26081504366829.jpg",
-      "published_at": "2026-08-10T22:01:23+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "3f46c8d3311b"
-    },
-    {
-      "title": "Une nouvelle arrestation dans l’affaire de l’attentat à l’explosif contre le journaliste italien Sigfrido Ranucci",
-      "url": "https://www.lemonde.fr/international/article/2026/08/10/une-nouvelle-arrestation-dans-l-affaire-de-l-attentat-a-l-explosif-contre-le-journaliste-italien-sigfrido-ranucci_6743542_3210.html",
-      "summary": "Le 16 octobre 2025, un engin explosif avait été déclenché devant le domicile du journaliste, menacé par la mafia, détruisant ses deux voitures sans faire de victimes dans un quartier résidentiel de Pomezia, à une vingtaine de kilomètres au sud de Rome.",
-      "image": "https://img.lemde.fr/2025/10/17/234/0/2808/1404/644/322/60/0/0c44c68_ftp-import-images-1-rmh2lgsaikmt-6e0e80b559b04ebe8472a058112a6f3d-0-50b233c5df5d4c60b01b0dff9639a2fa.jpg",
-      "published_at": "2026-08-10T21:53:52+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "1449c55aae00"
-    },
-    {
-      "title": "Euro de natation : le relais français du 4x200 m médaillé d’argent grâce à un immense Léon Marchand",
-      "url": "https://www.liberation.fr/sports/euro-de-natation-le-relais-francais-du-4x200-m-medaille-dargent-avec-leon-marchand-20260810_U46QYJL52VB45KSOTWXXWMKJEQ/",
-      "summary": "Portés par leur star et ses prodigieuses coulées, les Bleus ont terminé à la deuxième place de leur finale, lundi aux Championnats d’Europe de natation à Saint-Denis.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-10T19:38:00+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "6789be8127f5"
     }
   ]
 }
