@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-08-11T22:52:43.513483+00:00",
+  "generated_at": "2026-08-11T23:50:55.841343+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "La Corée du Nord a tiré un missile balistique en direction de la mer du Japon, selon Séoul, son deuxième en une semaine",
+      "url": "https://www.lemonde.fr/international/article/2026/08/12/la-coree-du-nord-a-tire-un-missile-balistique-en-direction-de-la-mer-du-japon-selon-seoul-son-deuxieme-en-une-semaine_6744396_3210.html",
+      "summary": "Cette démonstration de Pyongyang, mercredi 12 août, intervient alors que la Corée du Sud et les Etats-Unis s’apprêtent à mener conjointement leurs exercices militaires annuels.",
+      "image": "https://img.lemde.fr/2026/08/11/152/0/2960/1480/644/322/60/0/501c3f0_upload-1-bvwc1hiikhau-000-a8ck9kl.jpg",
+      "published_at": "2026-08-12T01:37:09+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "1612bcefbe60"
+    },
     {
       "title": "Canicule : l'épisode de fortes chaleurs s'étend encore, 78 départements en vigilance orange mercredi",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/en-direct-canicule-un-nouvel-episode-de-fortes-chaleurs-s-installe-en-france_8142731.html#xtor=RSS-3-[lestitres]",
@@ -88,7 +98,7 @@
       "summary": "Ces bombardements sont les dernières en date dans le conflit entre Israël et le Hezbollah pro-iranien malgré la trêve en cours.",
       "image": "https://img.lemde.fr/2026/06/19/504/0/4032/2016/644/322/60/0/0b0a8dc_upload-1-yz5r64pdkgfr-whatsapp-image-2026-06-19-at-12-23-58.jpeg",
       "published_at": "2026-08-11T21:56:24+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "cf1b263a7e96"
     },
@@ -291,16 +301,6 @@
       "source": "Le Monde",
       "category": "International",
       "id": "f3b9b906802e"
-    },
-    {
-      "title": "« Compte tenu des dangers extrêmes » sur la Lune, les sorties d’astronautes seront très rares",
-      "url": "https://www.numerama.com/sciences/2309741-compte-tenu-des-dangers-extremes-sur-la-lune-les-sorties-dastronautes-seront-tres-rares.html",
-      "summary": "Fini le temps des longues balades en scaphandre sur la Lune. Face aux « dangers extrêmes » de la surface, le patron de la NASA Jared Isaacman veut réduire au strict minimum les sorties en combinaison pour confier l'essentiel des chantiers à la robotique.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-11T18:00:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "b322489cf665"
     }
   ]
 }

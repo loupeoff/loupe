@@ -7,9 +7,19 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Tue, 11 Aug 2026 22:52:43 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 23:50:55 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>La Corée du Nord a tiré un missile balistique en direction de la mer du Japon, selon Séoul, son deuxième en une semaine</title>
+    <link>https://www.lemonde.fr/international/article/2026/08/12/la-coree-du-nord-a-tire-un-missile-balistique-en-direction-de-la-mer-du-japon-selon-seoul-son-deuxieme-en-une-semaine_6744396_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/08/12/la-coree-du-nord-a-tire-un-missile-balistique-en-direction-de-la-mer-du-japon-selon-seoul-son-deuxieme-en-une-semaine_6744396_3210.html</guid>
+    <pubDate>Wed, 12 Aug 2026 01:37:09 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[Cette démonstration de Pyongyang, mercredi 12 août, intervient alors que la Corée du Sud et les Etats-Unis s’apprêtent à mener conjointement leurs exercices militaires annuels.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/08/11/152/0/2960/1480/644/322/60/0/501c3f0_upload-1-bvwc1hiikhau-000-a8ck9kl.jpg" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>Canicule : l&apos;épisode de fortes chaleurs s&apos;étend encore, 78 départements en vigilance orange mercredi</title>
     <link>https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/en-direct-canicule-un-nouvel-episode-de-fortes-chaleurs-s-installe-en-france_8142731.html#xtor=RSS-3-[lestitres]</link>
@@ -96,7 +106,7 @@
     <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/08/11/au-liban-une-double-frappe-israelienne-fait-un-mort-et-endommage-une-ambulance_6744330_3210.html</guid>
     <pubDate>Tue, 11 Aug 2026 21:56:24 +0000</pubDate>
     <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[Ces bombardements sont les dernières en date dans le conflit entre Israël et le Hezbollah pro-iranien malgré la trêve en cours.]]></description>
     <enclosure url="https://img.lemde.fr/2026/06/19/504/0/4032/2016/644/322/60/0/0b0a8dc_upload-1-yz5r64pdkgfr-whatsapp-image-2026-06-19-at-12-23-58.jpeg" type="image/jpeg" length="0" />
   </item>
@@ -299,16 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[Dans un entretien au « Monde », l’analyste militaire allemand estime que l’attentat manqué au drone explosif, dans la nuit du 4 au 5 août, à l’aéroport de Leipzig-Halle, marque un tournant dans la guerre hybride de la Russie contre l’Europe.]]></description>
     <enclosure url="https://img.lemde.fr/2026/08/11/834/922/5164/2582/644/322/60/0/c68c6e3_upload-1-pk7cloah5zvy-sipa-sipausa30545146-000012.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>« Compte tenu des dangers extrêmes » sur la Lune, les sorties d’astronautes seront très rares</title>
-    <link>https://www.numerama.com/sciences/2309741-compte-tenu-des-dangers-extremes-sur-la-lune-les-sorties-dastronautes-seront-tres-rares.html</link>
-    <guid isPermaLink="true">https://www.numerama.com/sciences/2309741-compte-tenu-des-dangers-extremes-sur-la-lune-les-sorties-dastronautes-seront-tres-rares.html</guid>
-    <pubDate>Tue, 11 Aug 2026 18:00:00 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Numerama</source>
-    <description><![CDATA[Fini le temps des longues balades en scaphandre sur la Lune. Face aux « dangers extrêmes » de la surface, le patron de la NASA Jared Isaacman veut réduire au strict minimum les sorties en combinaison pour confier l'essentiel des chantiers à la robotique.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>
