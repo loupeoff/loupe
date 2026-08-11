@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-08-11T19:13:23.671203+00:00",
+  "generated_at": "2026-08-11T20:55:55.817240+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Au Liban, une double frappe israélienne fait un mort et endommage une ambulance",
+      "url": "https://www.lemonde.fr/international/article/2026/08/11/au-liban-une-double-frappe-israelienne-fait-un-mort-et-endommage-une-ambulance_6744330_3210.html",
+      "summary": "Ces bombardements sont les dernières en date dans le conflit entre Israël et le Hezbollah pro-iranien malgré la trêve en cours.",
+      "image": "https://img.lemde.fr/2026/06/19/504/0/4032/2016/644/322/60/0/0b0a8dc_upload-1-yz5r64pdkgfr-whatsapp-image-2026-06-19-at-12-23-58.jpeg",
+      "published_at": "2026-08-11T21:56:24+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "cf1b263a7e96"
+    },
+    {
+      "title": "L’armée américaine dit avoir tiré sur un navire qui violait son blocus des ports iraniens",
+      "url": "https://www.lemonde.fr/international/article/2026/08/11/l-armee-americaine-dit-avoir-tire-sur-un-navire-qui-violait-son-blocus-des-ports-iraniens_6744297_3210.html",
+      "summary": "C’est la troisième fois que l’armée américaine utilise la force pour faire respecter son blocus des ports iraniens. Depuis sa remise en place, le 14 juillet, les forces américaines affirment avoir redirigé 55 navires qui tentaient de passer.",
+      "image": "https://img.lemde.fr/2026/08/11/169/0/5404/2702/644/322/60/0/c0ec25a_ftp-1-mcsruima30sp-2026-08-11t165226z-843926744-rc2ro6a4t2ki-rtrmadp-3-iran-crisis-shipping.JPG",
+      "published_at": "2026-08-11T21:38:59+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "01153c81964b"
+    },
+    {
+      "title": "Spotify va lancer un badge permettant d'identifier les comptes d'artistes générés par intelligence artificielle",
+      "url": "https://www.franceinfo.fr/internet/streaming/spotify/spotify-va-lancer-un-badge-permettant-d-identifier-la-musique-generee-par-intelligence-artificielle_8143382.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le badge \"AI Persona\" pourra être appliqué de force par Spotify ou volontairement par les gestionnaires des profils artificiels. Les profils labellisés n'apparaîtront pas dans les recommandations, sauf s'ils sont déjà suivis par l'utilisateur.",
+      "image": "https://www.franceinfo.fr/pictures/2pj8bAI_l6yYIlVKHjj4VZvIGsY/0x66:1024x642/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7b41c43e3d4878840535.jpg",
+      "published_at": "2026-08-11T21:36:59+02:00",
+      "source": "France Info",
+      "category": "Tech",
+      "id": "83db3a4d5cdf"
+    },
+    {
+      "title": "Le relais mixte français en or ! Revivez le 4x100 m 4 nages victorieux aux championnats d'Europe",
+      "url": "https://www.franceinfo.fr/sports/natation/championnats-d-europe/video-le-relais-mixte-francais-en-or-revivez-le-4x100-m-4-nages-victorieux-aux-championnats-d-europe_8143637.html#xtor=RSS-3-[lestitres]",
+      "summary": "Mary-Ambre Moluh (dos), Carl Aitkaci (brasse), Maxime Grousset (papillon) et Marie Wattel (crawl) ont apporté une première médaille d'or à la France lors des championnats d'Europe de natation 2026, à Saint-Denis.",
+      "image": "https://www.franceinfo.fr/pictures/LlI_Xnz8WmkpLwjSoJPtO56PNAg/0x0:4913x2763/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7b7378149c8586463569.jpg",
+      "published_at": "2026-08-11T21:18:01+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "63642cfa490a"
+    },
+    {
+      "title": "Google répond avoir mis à jour sa méthode de rémunération de la presse après l'attaque de quotidiens français sur les résumés effectués par l'intelligence artificielle",
+      "url": "https://www.franceinfo.fr/internet/google/google-repond-avoir-mis-a-jour-sa-methode-de-remuneration-de-la-presse-apres-l-attaque-de-quotidiens-francais-sur-les-resumes-effectues-par-l-intelligence-artificielle_8143670.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'entreprise américaine soutient \"bien prendre en considération l'affichage du contenu protégé au sein des aperçus IA et d'AI Mode\", après la saisie de l'Autorité de la concurrence par environ 300 titres de presses français.",
+      "image": "https://www.franceinfo.fr/pictures/ku5muWA8VrLE6rvSzZ2SSASK8wM/0x194:900x701/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6cd0278f042875443239.jpg",
+      "published_at": "2026-08-11T21:17:38+02:00",
+      "source": "France Info",
+      "category": "Tech",
+      "id": "45bb866ace85"
+    },
+    {
+      "title": "Donald Trump a secrètement changé d'avion à bord d'un conteneur en Turquie en raison de menaces iraniennes, affirme la presse américaine",
+      "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-n-a-pas-quitte-le-sommet-de-l-oran-a-bord-d-air-force-one-et-a-secretement-change-d-avion-selon-la-presse-americaine_8142824.html#xtor=RSS-3-[lestitres]",
+      "summary": "Selon des révélations du \"Washington Post\", le président des Etats-Unis a été exfiltré d'Air Force One à bord d'un conteneur de ravitaillement, en juillet, en Turquie, après un sommet de l'Otan, pour rejoindre un autre avion.",
+      "image": "https://www.franceinfo.fr/pictures/muG15X5xCsIkkrems2PiePc0AsE/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7aca7b2b7a1716470545.jpg",
+      "published_at": "2026-08-11T21:16:44+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "c22b026bbbf9"
+    },
     {
       "title": "EN DIRECT, guerre en Ukraine : le renseignement ukrainien affirme que la Russie prépare une mobilisation pour l’automne, déclare Volodymyr Zelensky",
       "url": "https://www.lemonde.fr/international/live/2026/08/11/en-direct-guerre-en-ukraine-le-renseignement-ukrainien-affirme-que-la-russie-prepare-une-mobilisation-pour-l-automne-declare-volodymyr-zelensky_6741928_3210.html",
@@ -13,7 +73,7 @@
       "id": "cbec2f28ca5b"
     },
     {
-      "title": "Poutine libère un ancien Marine américain détenu en Russie depuis 2022, pour raisons «humanitaires»",
+      "title": "Poutine libère pour raisons «humanitaires», un ancien Marine américain détenu en Russie depuis 2022",
       "url": "https://www.liberation.fr/international/amerique/poutine-libere-un-ancien-marine-detenu-en-russie-depuis-2022-pour-raisons-humanitaires-20260811_5MVMFLZXHFF4JNDNJFA3TPB5OU/",
       "summary": "Robert Gilman avait été condamné à quatre ans et demi de prison pour «violences» contre un policier. Donald Trump a assuré ce mardi qu’il avait obtenu cette victoire grâce à ses «discussions» avec le président russe.",
       "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
@@ -31,6 +91,16 @@
       "source": "Libération",
       "category": "Sport",
       "id": "fe740dd5ee08"
+    },
+    {
+      "title": "Incendie en Gironde : plus de 1 500 consultations en deux semaines assurées par la cellule d'urgence médico-psychologique",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/incendie-en-gironde-plus-de-1-500-consultations-en-deux-semaines-assurees-par-la-cellule-d-urgence-medico-psychologique_8143625.html#xtor=RSS-3-[lestitres]",
+      "summary": "Deux semaines après l’incendie qui a ravagé 42 000 hectares en Gironde, cette cellule d’urgence médico-psychologique reste active pour accompagner les personnes touchées.",
+      "image": "https://www.franceinfo.fr/pictures/b96Er9fXZNVaMtn2ShR1oJkO4Sg/0x308:5929x3644/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6c47226e05e441521399.jpg",
+      "published_at": "2026-08-11T20:44:53+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "7f004997244f"
     },
     {
       "title": "Euro de natation : la France remporte le relais mixte 4x100 m 4 nages et arrache sa première médaille d’or",
@@ -68,7 +138,7 @@
       "summary": "En cumul à fin juillet, le constructeur européen mène nettement le match de la demande, avec 1 090 appareils commandés cette année, contre 483 pour son rival américain.",
       "image": "https://img.lemde.fr/2026/08/11/571/0/6552/3276/644/322/60/0/6bebbfb_upload-1-wcd6uddr3ryv-000-34kh7vd.jpg",
       "published_at": "2026-08-11T20:38:48+02:00",
-      "source": "Le Monde",
+      "source": "Le Monde Inter",
       "category": "Sport",
       "id": "a29abd53b7f9"
     },
@@ -85,7 +155,7 @@
     {
       "title": "Le relais français sacré champion d’Europe du 4 × 100 m quatre nages mixte, premier titre pour la délégation tricolore",
       "url": "https://www.lemonde.fr/sport/article/2026/08/11/le-relais-francais-sacre-champion-d-europe-du-4-100-m-quatre-nages-mixte_6744228_3242.html",
-      "summary": "Au lendemain de l’argent de Léon Marchand et ses coéquipiers, et quelques heures après les médailles individuelles de Pauline Mahieu et Maxime Grousset, les Bleus ont fait vibrer les gradins du Centre aquatique olympique de Saint-Denis.",
+      "summary": "Au lendemain de l’argent de Léon Marchand et ses coéquipiers, et quelques heures après les médailles individuelles de Pauline Mahieu et Maxime Grousset, mardi, les Bleus ont fait vibrer les gradins du Centre aquatique olympique de Saint-Denis.",
       "image": "https://img.lemde.fr/2026/08/11/0/0/4913/2456/644/322/60/0/d4208c5_ftp-1-ire832ptzjrv-5816477-01-06.jpg",
       "published_at": "2026-08-11T20:26:39+02:00",
       "source": "Le Monde",
@@ -133,26 +203,6 @@
       "id": "cb1df6fab2aa"
     },
     {
-      "title": "Le Liban vote l'abolition de la peine de mort, une première au Moyen-Orient",
-      "url": "https://www.franceinfo.fr/monde/proche-orient/liban/le-liban-vote-l-abolition-de-la-peine-de-mort-une-premiere-au-moyen-orient_8143175.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les crimes commis avant l'entrée en vigueur de cette loi seront passibles d'une peine d'emprisonnement à perpétuité.",
-      "image": "https://www.franceinfo.fr/pictures/W599qyuEb9LNXsxrViONnC_NOWg/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7b1706e3108213437924.jpg",
-      "published_at": "2026-08-11T20:04:42+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "4d22f9d14bc1"
-    },
-    {
-      "title": "Carlo Masala, spécialiste des questions de sécurité : « L’Allemagne est visée parce qu’elle est le principal pilier du soutien européen à l’Ukraine »",
-      "url": "https://www.lemonde.fr/international/article/2026/08/11/carlo-masala-specialiste-des-questions-de-securite-l-allemagne-est-visee-parce-qu-elle-est-le-principal-pilier-du-soutien-europeen-a-l-ukraine_6744160_3210.html",
-      "summary": "Dans un entretien au « Monde », l’analyste militaire allemand estime que l’attentat manqué au drone explosif, dans la nuit du 4 au 5 août, à l’aéroport de Leipzig-Halle, marque un tournant dans la guerre hybride de la Russie contre l’Europe.",
-      "image": "https://img.lemde.fr/2026/08/11/536/0/6434/3217/644/322/60/0/c68c6e3_upload-1-pk7cloah5zvy-sipa-sipausa30545146-000012.jpg",
-      "published_at": "2026-08-11T20:00:14+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "f3b9b906802e"
-    },
-    {
       "title": "Les entreprises françaises encore peu affectées par les vagues de chaleur et les incendies",
       "url": "https://www.lemonde.fr/economie/article/2026/08/11/les-entreprises-francaises-encore-peu-affectees-par-les-vagues-de-chaleur-et-les-incendies_6744159_3234.html",
       "summary": "L’activité des entreprises a un peu ralenti au mois de juillet, mais leurs dirigeants anticipent une légère amélioration en août, selon l’enquête mensuelle de la Banque de France qui suggère, à ce stade, une croissance de 0,2 % au troisième trimestre.",
@@ -161,6 +211,16 @@
       "source": "Le Monde",
       "category": "Économie",
       "id": "38c90c470782"
+    },
+    {
+      "title": "Carlo Masala, spécialiste des questions de sécurité : « L’Allemagne est visée parce qu’elle est le principal pilier du soutien européen à l’Ukraine »",
+      "url": "https://www.lemonde.fr/international/article/2026/08/11/carlo-masala-specialiste-des-questions-de-securite-l-allemagne-est-visee-parce-qu-elle-est-le-principal-pilier-du-soutien-europeen-a-l-ukraine_6744160_3210.html",
+      "summary": "Dans un entretien au « Monde », l’analyste militaire allemand estime que l’attentat manqué au drone explosif, dans la nuit du 4 au 5 août, à l’aéroport de Leipzig-Halle, marque un tournant dans la guerre hybride de la Russie contre l’Europe.",
+      "image": "https://img.lemde.fr/2026/08/11/536/0/6434/3217/644/322/60/0/c68c6e3_upload-1-pk7cloah5zvy-sipa-sipausa30545146-000012.jpg",
+      "published_at": "2026-08-11T20:00:09+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "f3b9b906802e"
     },
     {
       "title": "« Compte tenu des dangers extrêmes » sur la Lune, les sorties d’astronautes seront très rares",
@@ -241,66 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "73f4664a4a34"
-    },
-    {
-      "title": "Bruno Foucher, l’ambassadeur de France en Centrafrique, visé par une procédure disciplinaire du Quai d’Orsay",
-      "url": "https://www.lemonde.fr/international/article/2026/08/11/bruno-foucher-l-ambassadeur-de-france-en-centrafrique-vise-par-une-procedure-disciplinaire-du-quai-d-orsay_6744093_3210.html",
-      "summary": "Le diplomate a fait venir dans ses appartements privés de la résidence une trentaine de jeunes femmes entre janvier 2024 et mars 2026, poussant les services de protection à signaler une faille de sécurité, selon « Le Canard enchaîné ». Il reconnaît avoir eu des relations sexuelles avec deux d’entre elles.",
-      "image": "https://img.lemde.fr/2026/08/11/0/0/4736/2368/644/322/60/0/b059b42_upload-1-tjij0xkizaw1-000-19f77n.jpg",
-      "published_at": "2026-08-11T19:37:56+02:00",
-      "source": "Le Monde Inter",
-      "category": "Sport",
-      "id": "b3dc396f69d9"
-    },
-    {
-      "title": "«Arcobaleno» de Pablo Cirès, dancing ruines",
-      "url": "https://www.liberation.fr/culture/cinema/arcobaleno-de-pablo-cires-dancing-ruines-20260811_WQ65G5Z2Q5F65PNNFFDLW3RTGE/",
-      "summary": "Dans le sud de Rome, le cinéaste a filmé pendant cinq ans la survie d’un club de soirées dansantes, dressant le portrait sensible d’une microsociété face au temps qui passe.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-11T17:33:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "cfec441c2613"
-    },
-    {
-      "title": "Séisme en Colombie : au moins 240 morts et plus de 1 000 blessés, selon un nouveau bilan",
-      "url": "https://www.lemonde.fr/international/article/2026/08/11/seisme-en-colombie-au-moins-240-morts-et-plus-de-600-blesses-selon-un-nouveau-bilan_6743869_3211.html",
-      "summary": "Les villes de Cali, Pereira, Manizales et Quibdo, dans l’ouest du pays, ont été touchées par ce séisme de magnitude 7,4, le plus violent du XXIᵉ siècle dans le pays, selon le Service géologique colombien.",
-      "image": "https://img.lemde.fr/2026/08/11/577/0/6928/3464/644/322/60/0/651544e_ftp-1-yga9n96f3ypc-bb65e0604b5d433a877682395465af1e-0-dd09673b296b4d4d91489e230afade6d.jpg",
-      "published_at": "2026-08-11T19:31:11+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "71bd3eec9026"
-    },
-    {
-      "title": "Colombie : le pays en «état d’urgence» après un puissant séisme qui a fait au moins 240 morts et plus de 1 300 blessés dans l’ouest du pays",
-      "url": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
-      "summary": "D’intenses secousses ont été ressenties jusqu’à Bogotá lundi. De nombreuses victimes ont été décomptées dans plusieurs régions, notamment à Pereira, Manizales et Cali, la troisième ville du pays.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-11T17:22:34+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "d935ffb834e6"
-    },
-    {
-      "title": "Champion du monde en titre, Maxime Grousset se contente de la médaille d'argent sur 50 m papillon aux championnats d'Europe de natation",
-      "url": "https://www.franceinfo.fr/sports/natation/championnats-d-europe/champion-du-monde-en-titre-maxime-grousset-se-contente-de-la-medaille-d-argent-sur-50-m-papillon-aux-championnats-d-europe-de-natation_8143430.html#xtor=RSS-3-[lestitres]",
-      "summary": "Battu pour deux centièmes par le Russe Egor Kornev, mardi, le Néo-Calédonien de 27 ans manque l'opportunité de remporter son premier titre européen individuel.",
-      "image": "https://www.franceinfo.fr/pictures/V_Rp-T_nhh_dP-cWWacxPuFHI-I/0x181:4000x2431/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7b45dca01e4154692041.jpg",
-      "published_at": "2026-08-11T19:16:53+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "037b3b3a16c0"
-    },
-    {
-      "title": "Le Quai d’Orsay a ouvert une procédure disciplinaire contre l’ambassadeur de France en Centrafrique",
-      "url": "https://www.liberation.fr/international/afrique/le-quai-dorsay-a-ouvert-une-procedure-disciplinaire-contre-lambassadeur-de-france-en-centrafrique-20260811_REXDCWDZWRFI5OSDTQO4B3YTCM/",
-      "summary": "Bruno Foucher est accusé d’avoir fait venir à la résidence une trentaine de jeunes femmes et d’avoir eu des relations sexuelles avec certaines, poussant les services de protection à signaler une faille de sécurité, révèle «le Canard Enchaîné» à paraître mercredi.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-11T17:16:36+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "adc59cb49fb2"
     }
   ]
 }
