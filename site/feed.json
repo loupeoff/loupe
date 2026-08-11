@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-08-10T23:42:34.814645+00:00",
+  "generated_at": "2026-08-11T02:19:05.538548+00:00",
   "article_count": 30,
   "articles": [
     {
+      "title": "Aux Etats-Unis, Donald Trump relance son offensive contre la vaccination",
+      "url": "https://www.lemonde.fr/international/article/2026/08/11/aux-etats-unis-donald-trump-relance-son-offensive-contre-la-vaccination_6743643_3210.html",
+      "summary": "Faisant un lien avec l’autisme, le président américain a signé un décret contenant de nouvelles recommandations en matière de vaccins ; il en limite notamment le nombre et demande à espacer leur administration aux enfants.",
+      "image": "https://img.lemde.fr/2026/08/10/982/0/5894/2947/644/322/60/0/9f64939_ftp-1-ns30q5fdz29k-5810648-01-06.jpg",
+      "published_at": "2026-08-11T01:45:09+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "eacb91e5743e"
+    },
+    {
       "title": "La maison mère de Truth Social, le réseau de Donald Trump, affiche 240 millions de dollars de pertes au deuxième trimestre",
       "url": "https://www.lemonde.fr/economie/article/2026/08/11/la-maison-mere-de-truth-social-le-reseau-de-donald-trump-affiche-240-millions-de-dollars-de-pertes-au-deuxieme-trimestre_6743610_3234.html",
-      "summary": "A l’issue du premier trimestre, Trump Media & Technology Group – dont le milliardaire est le principal actionnaire – avait déjà fait état d’une perte de plus de 400 millions de dollars.",
+      "summary": "A l’issue des trois premiers mois de l’année, Trump Media & Technology Group – dont le milliardaire est le principal actionnaire – avait déjà fait état d’une perte de plus de 400 millions de dollars.",
       "image": "https://img.lemde.fr/2026/08/01/278/0/3335/1667/644/322/60/0/0a26ce5_ftp-1-e6f7uvkt54ev-86b39af0de0e41bd984a7cc7e3349392-1-9c45b073b2b446be9d4134d5ffd1ae13.jpg",
-      "published_at": "2026-08-11T01:28:43+02:00",
-      "source": "Le Monde Inter",
+      "published_at": "2026-08-11T01:28:40+02:00",
+      "source": "Le Monde",
       "category": "International",
       "id": "19128bced56c"
     },
@@ -16,7 +26,7 @@
       "title": "EN DIRECT, guerre en Ukraine : nouvelles frappes russes dans la nuit, au moins cinq morts à Zaporijia",
       "url": "https://www.lemonde.fr/international/live/2026/08/11/en-direct-guerre-en-ukraine-nouvelles-frappes-russes-sur-kiev_6741928_3210.html",
       "summary": "Kiev et Zaporijia ont été les cibles de nouvelles frappes russes dans la nuit. Cette attaque intervient alors que le président ukrainien, Volodymyr Zelensky, avait affirmé la veille que la Russie se préparait à déployer davantage de soldats nord-coréens sur son territoire et avait reçu de nouveaux missiles balistiques en provenance de Pyongyang.",
-      "image": "https://img.lemde.fr/2026/08/10/118/0/6000/3000/644/322/60/0/2512ad9_ftp-1-krqen5weh1od-acdef6fa7f6040e3bc39fa5d284328d7-2-b45a740b06e64cefb0b6150792f49876.jpg",
+      "image": "https://img.lemde.fr/2026/08/11/81/0/1280/640/644/322/60/0/5613cac_upload-1-nbtt4reifgap-2026-08-11-02-57-32.jpg",
       "published_at": "2026-08-11T00:32:37+02:00",
       "source": "Le Monde",
       "category": "International",
@@ -285,22 +295,12 @@
     {
       "title": "Séisme en Colombie : au moins 111 morts ; le président Abelardo de la Espriella décrète l’« état d’urgence »",
       "url": "https://www.lemonde.fr/planete/article/2026/08/10/seisme-en-colombie-au-moins-111-morts-le-gouvernement-decrete-l-etat-d-urgence_6743410_3245.html",
-      "summary": "« Il a été décidé de déclarer l’état d’urgence », a annoncé le chef de l’Etat, en présentant un bilan actualisé après le tremblement de terre de magnitude 7,4 qui a provoqué d’importantes destructions dans le pays sud-américain.",
-      "image": "https://img.lemde.fr/2026/08/10/498/0/5977/2988/644/322/60/0/0a90d3a_ftp-1-ks688q3l1nxt-c91e7cf667264f9db866c7248f0724bc-1-fbcf8f654073413d810b55718d97f915.jpg",
+      "summary": "Le tremblement de terre, d’une magnitude de 7,4, a provoqué d’importantes destructions dans le pays sud-américain. Les Etats-Unis ont annoncé une aide de 15,5 millions de dollars.",
+      "image": "https://img.lemde.fr/2026/08/10/330/0/5977/2988/644/322/60/0/0a90d3a_ftp-1-ks688q3l1nxt-c91e7cf667264f9db866c7248f0724bc-1-fbcf8f654073413d810b55718d97f915.jpg",
       "published_at": "2026-08-10T20:45:06+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "b5e2abfa10b9"
-    },
-    {
-      "title": "Une fusée chinoise explose en plein vol 85 secondes après son décollage",
-      "url": "https://www.numerama.com/sciences/2309229-une-fusee-explose-en-plein-vol-peu-apres-son-decollage.html",
-      "summary": "Le lancement d'une fusée Longue Marche 7A a viré au fiasco ce 10 août 2026. Moins de deux minutes après s'être arraché du sol, le lanceur s'est brutalement désintégré dans le ciel de Wenchang, entraînant la perte de sa charge utile.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-10T18:43:11+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "1ee9b8ac9a52"
     }
   ]
 }
