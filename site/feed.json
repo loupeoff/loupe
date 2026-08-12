@@ -1,26 +1,66 @@
 {
-  "generated_at": "2026-08-12T18:02:20.409014+00:00",
+  "generated_at": "2026-08-12T19:14:27.040765+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "EN DIRECT - Eclipse solaire : à Paris, le spectacle commence, «la Lune a croqué un petit bout»",
+      "title": "EN DIRECT - L’éclipse solaire atteint son pic en France, une partie de l’Espagne plongée dans l’obscurité",
       "url": "https://www.liberation.fr/sciences/espace/en-direct-eclipse-solaire-du-12-aout-le-deroule-de-cette-journee-historique-heure-par-heure-20260812_2W7UZPF2JVDZHH3VMOKHJYHQLE/",
-      "summary": "La Lune a commencé sa trajectoire devant le Soleil. L’éclipse sera totale en Espagne et en Islande, et partielle sur le territoire français. Dans la capitale française, le spectacle a débuté à 19 h 22.",
+      "summary": "L’Espagne où l’éclipse est totale, a plongé dans le noir à 20 h 31. Sur le territoire français, où le phénomène est partiel, la Lune a recouvert en partie le Soleil. Dans la capitale française, le spectacle a atteint son pic à 20 h 20.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-12T17:55:47+00:00",
+      "published_at": "2026-08-12T19:10:25+00:00",
       "source": "Libération",
       "category": "Politique",
       "id": "0a5ea311f3d7"
     },
     {
-      "title": "Le Soleil a rendez-vous avec la Lune : observez avec nous la première éclipse solaire totale visible en Europe depuis 1999",
+      "title": "\"Je ne regrette pas d'avoir fait 800 km pour un tel spectacle\" : l'éclipse solaire a traversé la France et une partie de l'Europe",
       "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/direct-suivez-avec-nous-l-eclipse-solaire-partielle-la-premiere-aussi-visible-dans-l-hexagone-depuis-1999_8144207.html#xtor=RSS-3-[lestitres]",
-      "summary": "Des millions d'Européens et de passionnés du monde entier contemplent mercredi le ciel avec émerveillement. Dans le nord de l'Espagne, une rare éclipse solaire totale plongera très brièvement la Terre dans l'obscurité.",
-      "image": "https://www.franceinfo.fr/pictures/wq8cw0r7OcdEtQGu7ZWbglFSc3k/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7cb2522d53f751858018.jpg",
-      "published_at": "2026-08-12T19:50:39+02:00",
+      "summary": "Des millions d'Européens et de passionnés du monde entier ont contemplé mercredi le ciel avec émerveillement. Dans le nord de l'Espagne, une rare éclipse solaire totale a plongé très brièvement la Terre dans l'obscurité.",
+      "image": "https://www.franceinfo.fr/pictures/1e1AUAymzR2Ns8FG9M720VGXZaQ/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7cc3a79f537796433185.jpg",
+      "published_at": "2026-08-12T21:04:12+02:00",
       "source": "France Info",
-      "category": "Économie",
+      "category": "Politique",
       "id": "a7c7858b2a7d"
+    },
+    {
+      "title": "\"C'est assez impressionnant à vivre\" : revivez l'éclipse solaire totale filmée depuis l'Espagne",
+      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/video-c-est-assez-impressionnant-a-vivre-revivez-l-eclipse-solaire-totale-filmee-depuis-l-espagne_8145248.html#xtor=RSS-3-[lestitres]",
+      "summary": "Une équipe de France Télévisions a assisté au spectacle, mercredi soir, depuis les environs de Burgos, avec des chasseurs d'éclipses.",
+      "image": "https://www.franceinfo.fr/pictures/gPMWUOL6_JuZG_SseHYMEKpdduI/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7cbf695298b851314537.jpg",
+      "published_at": "2026-08-12T20:58:19+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "c6250ecce2b6"
+    },
+    {
+      "title": "Sarah Sjöström, Hubert Kós et David Popovici : à Saint-Denis, le plein d’or des cadors",
+      "url": "https://www.liberation.fr/sports/sarah-sjostrom-hubert-kos-et-david-popovici-a-saint-denis-le-plein-dor-des-cadors-20260812_56ZGKAHMHVDVXA3UEC3MNI22OE/",
+      "summary": "Tous sacrés sur leurs finales respectives aux championnats d’Europe ce mercredi 12 août, la Suédoise, le Hongrois et le Roumain ont continué à martyriser la concurrence.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-12T18:33:23+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "79ad73aae86e"
+    },
+    {
+      "title": "L'Eurovision annonce que les pays en guerre ne pourront plus accueillir le concours à l'avenir",
+      "url": "https://www.franceinfo.fr/culture/musique/eurovision/l-eurovision-annonce-que-les-pays-en-guerre-ne-pourront-plus-accueillir-le-concours-a-l-avenir_8145236.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette évolution du règlement du concours intervient alors qu'Israël a failli remporter le télécrochet ces deux dernières années, terminant à chaque fois à la deuxième place.",
+      "image": "https://www.franceinfo.fr/pictures/o4tqCHjmhj3KCcXbpzdi9gINRbU/0x336:5914x3663/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7cac236a140624599983.jpg",
+      "published_at": "2026-08-12T20:00:24+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "528b90f105fa"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : l’ONU a appelé la Russie à lever l’interdiction faite au seul parti antiguerre de participer aux élections législatives",
+      "url": "https://www.lemonde.fr/international/live/2026/08/12/en-direct-guerre-en-ukraine-l-onu-a-appele-la-russie-a-lever-l-interdiction-faite-au-seul-parti-antiguerre-de-participer-aux-elections-legislatives_6741928_3210.html",
+      "summary": "La Cour suprême russe a interdit, mardi, au parti Iabloko de participer aux élections. Son chef, Nikolaï Rybakov, avait annoncé qu’il ferait appel de la décision. La plupart des opposants au président Vladimir Poutine sont emprisonnés, en exil ou morts, et Iabloko est le seul parti libéral encore en activité en Russie.",
+      "image": "https://img.lemde.fr/2026/08/10/471/0/4645/2322/644/322/60/0/bf99cd7_ftp-1-zwnyg1mzexgo-2026-08-10t182129z-137277310-rc2tvmaw0yvj-rtrmadp-3-ukraine-crisis-russia-politics.JPG",
+      "published_at": "2026-08-12T20:00:07+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "3f8b1c6359e2"
     },
     {
       "title": "Face à Trump, les démocrates toujours partagés sur la marche à suivre",
@@ -43,16 +83,6 @@
       "id": "743d9fc2435b"
     },
     {
-      "title": "L'Eurovision annonce que les pays en guerre ne pourront plus accueillir le concours à l'avenir",
-      "url": "https://www.franceinfo.fr/culture/musique/eurovision/l-eurovision-annonce-que-les-pays-en-guerre-ne-pourront-plus-accueillir-le-concours-a-l-avenir_8145236.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cette évolution du règlement du concours intervient alors qu'Israël a failli remporter le télécrochet ces deux dernières années, terminant à chaque fois à la deuxième place.",
-      "image": "https://www.franceinfo.fr/pictures/o4tqCHjmhj3KCcXbpzdi9gINRbU/0x336:5914x3663/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7cac236a140624599983.jpg",
-      "published_at": "2026-08-12T19:23:52+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "528b90f105fa"
-    },
-    {
       "title": "«Ce n’est pas un lancement de campagne» : pour son anniversaire, les proches de François Hollande lui offrent une campagne d’affichage",
       "url": "https://www.liberation.fr/politique/elections/ce-nest-pas-un-lancement-de-campagne-pour-son-anniversaire-les-proches-de-francois-hollande-lui-offrent-une-campagne-daffichage-20260812_BC4FICZY2FHHFOYKPB6HUEZZHM/",
       "summary": "Pour les 72 ans de l’ancien président, ce mercredi 12 août, une équipe de soutien a collé partout en France des affiches vantant son bilan à l’Elysée. Une initiative en forme de cadeau, qui ne révèle en rien des intentions du député de Corrèze pour 2027, assure Philippe Buisson, maire de Libourne.",
@@ -68,9 +98,29 @@
       "summary": "Le conseiller spécial du président Donald Trump Massad Boulos cherche un accord entre les familles Haftar et Dbeibah, qui se partagent le pays.",
       "image": "https://img.lemde.fr/2026/08/12/210/0/2528/1264/644/322/60/0/ab4df13_upload-1-tawk95eq28in-000-93vh6nu.jpg",
       "published_at": "2026-08-12T19:00:07+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "64c334f7492d"
+    },
+    {
+      "title": "EN DIRECT, PSG-Aston Villa : les Parisiens en quête d’un deuxième sacre de suite en Supercoupe d’Europe",
+      "url": "https://www.lemonde.fr/sport/live/2026/08/12/en-direct-psg-aston-villa-suivez-le-match-de-la-supercoupe-d-europe-de-football_6745088_3242.html",
+      "summary": "Les Parisiens, vainqueurs de la Ligue des champions, lancent officiellement leur saison et leur quête de trophées mercredi à Salzbourg (Autriche), face aux Anglais, lauréats de la Ligue Europa.",
+      "image": "https://img.lemde.fr/2026/08/12/285/0/3415/1707/644/322/60/0/4c711a5_ftp-1-thy1fcumytv9-d99536a14b5c4dd9a2d8f65e753d44b5-0-297ad6780e9a48a38c4c24ba7a344393.jpg",
+      "published_at": "2026-08-12T19:00:02+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "3040573ac416"
+    },
+    {
+      "title": "Le peintre Emil Nolde et sa palette flamboyante inspirée de son jardin à Seebüll, en Allemagne",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/12/le-peintre-emil-nolde-et-sa-palette-flamboyante-inspiree-de-son-jardin-a-seebull-en-allemagne_6745090_3451060.html",
+      "summary": "« Artistes en leur jardin » (3/6). A partir de la fin des années 1920, l’artiste allemand a conçu et planté un lieu atypique, un réservoir de couleurs qui nourissent ses toiles et une œuvre d’art en soi, vivante et changeante.",
+      "image": "https://img.lemde.fr/2026/07/29/270/0/2953/1476/644/322/60/0/d3ac16f_upload-1-4y4nwa1iw56w-nolde-garden-and-nolde-house-photo-c-sieber-nolde-stiftung-seebu-ll.jpg",
+      "published_at": "2026-08-12T19:00:02+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "7e55d2397f84"
     },
     {
       "title": "La Ligue des droits de l’Homme conteste un arrêté du maire RN de Carcassonne : «Le seul argument de moralité d’une tenue ne peut être retenu»",
@@ -133,10 +183,10 @@
       "id": "356e4dd965f9"
     },
     {
-      "title": "EN DIRECT, éclipse solaire : le phénomène a commencé en France métropolitaine et en Espagne ; suivez-le avec nos journalistes",
+      "title": "EN DIRECT, éclipse solaire : applaudissements et exclamations en France métropolitaine et en Espagne, alors que la Lune se retire du disque solaire",
       "url": "https://www.lemonde.fr/sciences/live/2026/08/12/en-direct-eclipse-solaire-d-ici-une-heure-le-phenomene-commence-en-france-metropolitaine-suivez-le-avec-nos-journalistes_6745061_1650684.html",
-      "summary": "Une éclipse partielle du Soleil est observable en France métropolitaine, ce soir depuis 19 h 20. Elle sera quasi totale à Biarritz avec 99,5 % d’obscuration. En Espagne, l’intégralité du disque solaire sera masquée par la Lune, donnant lieu à une éclipse totale. Il est impératif de porter des lunettes de protection conformes pour l’observer.",
-      "image": "https://img.lemde.fr/2026/08/12/288/0/3460/1730/644/322/60/0/ec36db2_ftp-1-epjohgpa7xuw-0ca4dbe61be44593b9cf91c979aa2828-0-0bea1cfadeb8460fbcc2ceb8f1044bd4.jpg",
+      "summary": "Une éclipse partielle du Soleil est observable en France métropolitaine, ce soir depuis 19 h 20. Elle est quasi totale à Biarritz avec 99,5 % d’obscuration. En Espagne, l’intégralité du disque solaire est masquée par la Lune, donnant lieu à une éclipse totale. Il est impératif de porter des lunettes de protection conformes pour l’observer.",
+      "image": "https://img.lemde.fr/2026/08/12/516/0/5500/2750/644/322/60/0/4b4895e_ftp-1-qfkvj1o4xckn-2026-08-12t184009z-698280044-rc26xmavyrgn-rtrmadp-3-solar-eclipse-spain.JPG",
       "published_at": "2026-08-12T18:30:44+02:00",
       "source": "Le Monde",
       "category": "Politique",
@@ -183,9 +233,9 @@
       "id": "8365675e5d81"
     },
     {
-      "title": "EN DIRECT, canicule : 80 départements seront placés en vigilance orange jeudi ; des températures encore « très élevées » au moment de l’éclipse solaire, en particulier dans l’Ouest",
+      "title": "EN DIRECT, canicule : 80 départements seront placés en vigilance orange jeudi ; la journée de mercredi devient la plus chaude de cette troisième vague de chaleur",
       "url": "https://www.lemonde.fr/climat/live/2026/08/12/en-direct-canicule-80-departements-seront-places-en-vigilance-orange-jeudi-des-temperatures-encore-tres-elevees-au-moment-de-l-eclipse-solaire-en-particulier-a-l-ouest_6744636_1652612.html",
-      "summary": "Au total en Europe, au moins 92 millions de personnes devraient connaître des températures supérieures à 35 °C à un moment de la journée mercredi, dont 30 millions en France, selon l’AFP. Vers 20 heures, les températures seront souvent comprises entre 30 °C et 35 °C, entre 25 °C et 28 °C le long de la Manche, a fait savoir Météo-France.",
+      "summary": "Au total, en Europe, au moins 92 millions de personnes devraient connaître des températures supérieures à 35 °C à un moment de la journée mercredi, dont 30 millions en France, selon l’AFP.",
       "image": "https://img.lemde.fr/2026/08/12/394/0/5000/2500/644/322/60/0/4668fbc_ftp-1-8xc4m0kkiui2-5820357-01-06.jpg",
       "published_at": "2026-08-12T18:12:10+02:00",
       "source": "Le Monde",
@@ -251,56 +301,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "9885e6c1c055"
-    },
-    {
-      "title": "« Ils me glissent une écharpe de Miss autour de l’épaule et m’invitent à m’asseoir sur le trône » : le pot de départ royal de Muriel, employée d’un hypermarché",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/12/ils-me-glissent-une-echarpe-de-miss-autour-de-l-epaule-et-m-invitent-a-m-asseoir-sur-le-trone-le-pot-de-depart-royal-de-muriel-employee-d-un-hypermarche_6745084_3451060.html",
-      "summary": "« Bon vent ! » (9/18). Un tour en transpalette dans le Leclerc de Sarrebourg (Moselle), assise sur le fauteuil du Père Noël : dans la grande surface où elle a travaillé toute sa vie, Muriel Jamet, 63 ans, a eu droit à tous les honneurs.",
-      "image": "https://img.lemde.fr/2026/06/25/125/0/1500/750/644/322/60/0/a531e78_upload-1-g5dkeaivcsyo-ftanet-lemonde-potdedepart-ho-9.jpg",
-      "published_at": "2026-08-12T18:00:08+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "cf2a8030f00f"
-    },
-    {
-      "title": "Canicule : 80 départements en vigilance orange jeudi en France, où la pollution et la sécheresse ne cessent de s’aggraver",
-      "url": "https://www.liberation.fr/environnement/climat/canicule-80-departements-en-vigilance-orange-jeudi-en-france-ou-la-pollution-et-la-secheresse-ne-cessent-de-saggraver-20260812_RMWEHEN36JHMDPYFMRBF7WDOLI/",
-      "summary": "L’Oise et l’Aisne s’ajoutent aux 78 départements déjà en vigilance orange pour la journée de jeudi, alors que l’épisode caniculaire atteindra «son pic» jusqu’à vendredi, alerte Météo France.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-12T15:58:55+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "59011cd9700a"
-    },
-    {
-      "title": "Iran : une trentaine de pays, dont la France, le Royaume-Uni et le Canada, condamnent les exécutions de manifestants",
-      "url": "https://www.lemonde.fr/international/article/2026/08/12/iran-26-pays-dont-la-france-le-royaume-uni-et-le-canada-condamnent-les-executions-de-manifestants_6745081_3210.html",
-      "summary": "Le pouvoir a reconnu plus de 3 000 morts, imputant les violences à des « actes terroristes » orchestrés par les Etats-Unis et Israël.",
-      "image": "https://img.lemde.fr/2026/08/12/185/0/6526/3263/644/322/60/0/8e2978f_upload-1-p2o84oo11pc3-000-c2eb2ke.jpg",
-      "published_at": "2026-08-12T17:56:53+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "8c5c90d8897e"
-    },
-    {
-      "title": "NBA : les Los Angeles Lakers vendus pour une somme record de 12,5 milliards de dollars",
-      "url": "https://www.franceinfo.fr/sports/basket/nba/nba-les-los-angeles-lakers-vendus-pour-une-somme-record-de-12-5-milliards-de-dollars_8144813.html#xtor=RSS-3-[lestitres]",
-      "summary": "La franchise de Los Angeles avait été achetée, il y a un peu plus d'un an seulement, par Mark Walter pour un montant déjà record de 10 milliards de dollars.",
-      "image": "https://www.franceinfo.fr/pictures/IXrrsIVGIhwNMwZDU1SsQaxpGpc/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c9243841d0272978386.jpg",
-      "published_at": "2026-08-12T17:45:07+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "90fbfc920c27"
-    },
-    {
-      "title": "Aux obsèques de Kavinsky, des fans venus lui rendre hommage en nombre : «Il a bercé mon enfance»",
-      "url": "https://www.liberation.fr/culture/musique/aux-obseques-de-kavinsky-ses-fans-venus-lui-rendre-hommage-en-nombre-il-a-berce-mon-enfance-20260812_DFXKLUGOJVEHROJ6KEOK72JMSE/",
-      "summary": "En présence d’incontournables de la musique électronique, comme le cofondateur des Daft Punk, Thomas Bangalter, la cérémonie, riche en chansons, s’est déroulée à Montmartre ce mercredi 12 août.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-12T15:40:26+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "9c3b720560cf"
     }
   ]
 }
