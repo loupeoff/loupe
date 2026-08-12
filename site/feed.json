@@ -1,16 +1,66 @@
 {
-  "generated_at": "2026-08-12T20:55:32.114378+00:00",
+  "generated_at": "2026-08-12T21:55:07.698191+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Chez easyJet, la grève des personnels de cabine français en plein week-end du 15 août pourrait être très suivie",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/12/chez-easyjet-la-greve-des-personnels-de-cabine-francais-en-plein-week-end-du-15-aout-pourrait-etre-tres-suivie_6745136_3234.html",
+      "summary": "Les syndicats des hôtesses et stewards de la compagnie à bas coût en France appellent à un arrêt de travail, samedi et dimanche, après l’échec de discussions, mercredi, avec la direction sur l’amélioration des conditions de travail.",
+      "image": "https://img.lemde.fr/2026/08/06/770/0/6940/3470/644/322/60/0/92ba041_ftp-1-cs7ioryosy2b-5785794-01-06.jpg",
+      "published_at": "2026-08-12T23:30:08+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "1e46115ecc65"
+    },
+    {
+      "title": "Avec le retour de ses stars, le PSG domine Aston Villa et conserve la Supercoupe d'Europe",
+      "url": "https://www.franceinfo.fr/sports/foot/psg/avec-le-retour-de-ses-stars-le-psg-remporte-la-supercoupe-d-europe-face-a-aston-villa_8145368.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le PSG n’est que le troisième club de l'histoire à remporter deux fois la Supercoupe d’Europe consécutivement depuis sa création en 1973.",
+      "image": "https://www.franceinfo.fr/pictures/dU8TTKrPvOCW5x8z6tLvIxxzmJE/0x12:1024x588/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7ce1b0db088399797263.jpg",
+      "published_at": "2026-08-12T23:13:17+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "0a3e08e897de"
+    },
+    {
+      "title": "La production d'énergie solaire a diminué d'un tiers durant l'éclipse partielle en France, selon le gestionnaire RTE",
+      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/direct-suivez-avec-nous-l-eclipse-solaire-partielle-la-premiere-aussi-visible-dans-l-hexagone-depuis-1999_8144207.html#xtor=RSS-3-[lestitres]",
+      "summary": "Des millions d'Européens et de passionnés du monde entier ont contemplé mercredi le ciel avec émerveillement. Dans le nord de l'Espagne, une rare éclipse solaire totale a plongé très brièvement la Terre dans l'obscurité.",
+      "image": "https://www.franceinfo.fr/pictures/3xnPGwzOjmg5DxJkmQBuAaBKKHQ/0x301:5795x3561/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7ce18712c71478988712.jpg",
+      "published_at": "2026-08-12T23:11:42+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a7c7858b2a7d"
+    },
+    {
+      "title": "Trois Français en finale et une quatrième médaille pour les Bleus : Just Kwaou-Mathey en argent sur le 110 mètres haies des championnats d'Europe",
+      "url": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/video-trois-francais-en-finale-et-une-quatrieme-medaille-pour-les-bleus-just-kwaou-mathey-en-argent-sur-le-110-metres-haies-des-championnats-d-europe_8145116.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Français a réalisé son meilleur chrono de la saison mais a été battu par le Suisse Jason Joseph, mercredi, à Birmingham.",
+      "image": "https://www.franceinfo.fr/pictures/pYU0ruDJvDZBDefqYeEUg8UQpKw/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7cdfccd6652465450699.jpg",
+      "published_at": "2026-08-12T23:09:05+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "ef2a68229d3e"
+    },
     {
       "title": "Revivez la soirée unique où l’éclipse solaire a émerveillé une grande partie de l’Europe",
       "url": "https://www.liberation.fr/sciences/espace/en-direct-eclipse-solaire-du-12-aout-le-deroule-de-cette-journee-historique-heure-par-heure-20260812_2W7UZPF2JVDZHH3VMOKHJYHQLE/",
       "summary": "Le phénomène qui a duré environ deux heures, ce 12 août, a plongé le nord de l’Espagne et l’Islande dans l’obscurité pendant deux minutes. En France, où l’éclipse a été partielle, le spectacle s’est achevé peu avant 21 h 30.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-12T20:43:35+00:00",
+      "published_at": "2026-08-12T20:49:05+00:00",
       "source": "Libération",
       "category": "Politique",
       "id": "0a5ea311f3d7"
+    },
+    {
+      "title": "\"C'est comme un serre-tête qui brille\" : face à l'éclipse, petits et grands avec des étoiles plein les yeux",
+      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/c-est-un-petit-croissant-de-soleil-partout-en-france-des-etoiles-plein-les-yeux-face-a-l-eclipse_8145305.html#xtor=RSS-3-[lestitres]",
+      "summary": "De Paris à Biarritz, les spectateurs ont tenté à leur manière de décrire ce phénomène rare en France. \"C'est marrant, parce qu'on a l'habitude de voir un petit croissant de Lune. Et là, c'est un petit croissant de soleil.\"",
+      "image": "https://www.franceinfo.fr/pictures/zHLYTHeGSS834t9SKw6DMxYTtbY/0x128:1432x934/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7cc8ed6e696879833060.png",
+      "published_at": "2026-08-12T22:44:58+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "dea2ec09bd4c"
     },
     {
       "title": "Eclipse solaire : à Paris, des milliers de curieux rassemblés pour «une expérience rare»",
@@ -31,6 +81,16 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "d5685733ee79"
+    },
+    {
+      "title": "Muhammad Abdallah Kounta et Just Kwaou-Mathey rapportent deux médailles d’argent à la France aux championnats d’Europe d’athlétisme",
+      "url": "https://www.lemonde.fr/sport/article/2026/08/12/muhammad-abdallah-kounta-en-argent-sur-400-m-aux-championnats-d-europe-d-athletisme_6745100_3242.html",
+      "summary": "Muhammad Abdallah Kounta a décroché l’argent, mercredi, sur le 400 m, imité quelques dizaines de minutes plus tard par Just Kwaou-Mathey sur le 110 m haies. Le clan tricolore compte désormais quatre médailles à l’Euro d’athlétisme.",
+      "image": "https://img.lemde.fr/2026/08/12/493/0/5206/2603/644/322/60/0/c885ce5_ftp-1-0di3jdbbfetw-2026-08-12t200525z-68881731-up1em8c1jszck-rtrmadp-3-athletics-european.JPG",
+      "published_at": "2026-08-12T22:29:31+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "c3747626982f"
     },
     {
       "title": "La ville israélienne de Tel-Aviv baptise \"place des otages\" l'esplanade des manifestations organisées pour la libération des captifs à Gaza",
@@ -173,16 +233,6 @@
       "id": "c6250ecce2b6"
     },
     {
-      "title": "\"Je ne regrette pas d'avoir fait 800 km pour un tel spectacle\" : l'éclipse solaire a traversé la France et une partie de l'Europe",
-      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/direct-suivez-avec-nous-l-eclipse-solaire-partielle-la-premiere-aussi-visible-dans-l-hexagone-depuis-1999_8144207.html#xtor=RSS-3-[lestitres]",
-      "summary": "Des millions d'Européens et de passionnés du monde entier ont contemplé mercredi le ciel avec émerveillement. Dans le nord de l'Espagne, une rare éclipse solaire totale a plongé très brièvement la Terre dans l'obscurité.",
-      "image": "https://www.franceinfo.fr/pictures/1e1AUAymzR2Ns8FG9M720VGXZaQ/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7cc3a79f537796433185.jpg",
-      "published_at": "2026-08-12T21:04:12+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "a7c7858b2a7d"
-    },
-    {
       "title": "Sarah Sjöström, Hubert Kós et David Popovici : à Saint-Denis, le plein d’or des cadors",
       "url": "https://www.liberation.fr/sports/sarah-sjostrom-hubert-kos-et-david-popovici-a-saint-denis-le-plein-dor-des-cadors-20260812_56ZGKAHMHVDVXA3UEC3MNI22OE/",
       "summary": "Tous sacrés sur leurs finales respectives aux championnats d’Europe ce mercredi 12 août, la Suédoise, le Hongrois et le Roumain ont continué à martyriser la concurrence.",
@@ -251,56 +301,6 @@
       "source": "Le Monde",
       "category": "International",
       "id": "64c334f7492d"
-    },
-    {
-      "title": "EN DIRECT, PSG-Aston Villa : les Parisiens reprennent l’avantage grâce à Désiré Doué",
-      "url": "https://www.lemonde.fr/sport/live/2026/08/12/en-direct-psg-aston-villa-suivez-le-match-de-la-supercoupe-d-europe-de-football_6745088_3242.html",
-      "summary": "Les Parisiens, vainqueurs de la Ligue des champions, lancent officiellement leur saison et leur quête de trophées mercredi à Salzbourg (Autriche), face aux Anglais, lauréats de la Ligue Europa, lors de la Supercoupe d’Europe.",
-      "image": "https://img.lemde.fr/2026/08/12/0/0/5366/2683/644/322/60/0/9f36ebb_ftp-1-1jjspusrdjr8-5824626-01-06.jpg",
-      "published_at": "2026-08-12T19:00:02+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "3040573ac416"
-    },
-    {
-      "title": "La Ligue des droits de l’Homme conteste un arrêté du maire RN de Carcassonne : «Le seul argument de moralité d’une tenue ne peut être retenu»",
-      "url": "https://www.liberation.fr/politique/la-ligue-des-droits-de-lhomme-conteste-un-arrete-du-maire-rn-de-carcassonne-le-seul-argument-de-moralite-dune-tenue-ne-peut-etre-retenu-20260812_KKPP7IYGJRFNJI34THGT2WJV6Y/",
-      "summary": "Le maire Christophe Barthès est de nouveau dans la tourmente après un amendement interdisant d’être torse nu ou en maillot de bain dans sa ville. La Ligue des droits de l’Homme attaque sa décision.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-12T16:54:38+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "efeaa474a80f"
-    },
-    {
-      "title": "Face aux arnaques financières, des voies de recours encore trop insuffisantes",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/face-aux-arnaques-financieres-des-voies-de-recours-encore-trop-insuffisantes-20260812_ARJOFIJECVDQFGSDSD4L6V3NCY/",
-      "summary": "De plus en plus de Français sont piégés par de faux investissements, pour un montant qui dépasserait largement les 500 millions d’euros chaque année. «Libération» a suivi une association qui débusque les fraudeurs et aide les victimes.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-12T16:51:47+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "899d86bbe717"
-    },
-    {
-      "title": "\"J’attendais la pierre qui me serait fatale\" : un alpiniste échappe de peu à la mort dans le massif du Mont-Blanc",
-      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/haute-savoie/chamonix/videos-j-attendais-la-pierre-qui-me-serait-fatale-un-alpiniste-echappe-de-peu-a-la-mort-dans-le-massif-du-mont-blanc-3400375.html#xtor=RSS-3-[lestitres]",
-      "summary": "Mardi 11 août, Loris Bianco, jeune alpiniste amateur, s’est retrouvé pris au piège par de violentes chutes de pierres dans le couloir du Goûter. Des images impressionnantes et un témoignage glaçant qui interviennent alors que le maire de Saint-Gervais vient d'ordonner la fermeture des refuges de Tête Rousse et du Goûter, sur la voie normale d’accès au mont Blanc.",
-      "image": "https://www.franceinfo.fr/pictures/IwTlP5lKV3GfmFaiz25K-Ih5UGE/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c8bb696a6b660917136.jpg",
-      "published_at": "2026-08-12T18:45:23+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "22cf87e0b6bb"
-    },
-    {
-      "title": "Au Festival de Salzbourg, « Ariane à Naxos » explose en plein vol spatial",
-      "url": "https://www.lemonde.fr/culture/article/2026/08/12/au-festival-de-salzbourg-ariane-a-naxos-explose-en-plein-vol-spatial_6745087_3246.html",
-      "summary": "Pour sa première participation à la manifestation d’art lyrique, le metteur en scène allemand d’origine turque Ersan Mondtag déçoit. Grevée par la direction routinière de Manfred Honeck, la partie musicale, malgré une distribution de qualité, ne parvient pas à s’imposer.",
-      "image": "https://img.lemde.fr/2026/08/11/836/0/6048/3024/644/322/60/0/0b811a1_upload-1-6l68jnclzi0g-ariadne-auf-naxos-c-sf-thomas-aurin-07.jpg",
-      "published_at": "2026-08-12T18:45:08+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "79672c708abb"
     }
   ]
 }
