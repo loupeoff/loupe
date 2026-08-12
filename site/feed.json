@@ -1,7 +1,257 @@
 {
-  "generated_at": "2026-08-12T06:20:42.570938+00:00",
+  "generated_at": "2026-08-12T08:24:31.914169+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "EN DIRECT - Eclipse solaire du 12 août : début du spectacle à 19 h 18, la canicule devrait favoriser l’observation",
+      "url": "https://www.liberation.fr/sciences/espace/en-direct-eclipse-solaire-du-12-aout-le-deroule-de-cette-journee-historique-heure-par-heure-20260812_2W7UZPF2JVDZHH3VMOKHJYHQLE/",
+      "summary": "Ce mercredi en début de soirée, la Lune passera devant le Soleil. L’éclipse sera totale en Espagne et en Islande, et partielle sur le territoire français.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-12T08:19:19+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "0a5ea311f3d7"
+    },
+    {
+      "title": "Eclipse solaire : \"Il n'y a pas de polémique à chercher\" sur le nombre de lunettes de protection disponibles, affirme le gouvernement",
+      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/direct-suivez-avec-nous-l-eclipse-solaire-partielle-la-premiere-aussi-visible-dans-l-hexagone-depuis-1999_8144207.html#xtor=RSS-3-[lestitres]",
+      "summary": "Tous les yeux sont rivés vers l'ouest mercredi, pour observer l'éclipse partielle qui s'annonce remarquable depuis l'Hexagone, avec un taux d'occultation du Soleil par la Lune allant jusqu'à 99% dans le Sud-Ouest. L'événement va débuter autour de 19h10, mais cet horaire est variable en fonction de votre région.",
+      "image": "https://www.franceinfo.fr/pictures/Pp5EZYKJR7k_VoLfKWxdcL-8UqQ/0x0:1023x575/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c25ffbf5f2528944984.jpg",
+      "published_at": "2026-08-12T10:08:10+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a7c7858b2a7d"
+    },
+    {
+      "title": "Au moins 216 morts en Colombie, le bilan du séisme revu à la baisse",
+      "url": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/au-moins-216-morts-en-colombie-le-bilan-du-seisme-revu-a-la-baisse_8144102.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le tremblement de terre survenu lundi a par ailleurs fait plus de 1 600 blessés et détruit des centaines de bâtiments, selon l'Association des maires.",
+      "image": "https://www.franceinfo.fr/pictures/OzzzuT25eJIugMOBp5IVML1Veyg/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7bf9f975c98779129724.jpg",
+      "published_at": "2026-08-12T10:02:42+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "eec5260b3212"
+    },
+    {
+      "title": "Accusé de rendre délibérément Facebook et Instagram addictifs pour les mineurs, Meta affronte un nouveau procès",
+      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/accuse-de-rendre-deliberement-facebook-et-instagram-addictifs-pour-les-mineurs-meta-affronte-un-nouveau-proces_8144234.html#xtor=RSS-3-[lestitres]",
+      "summary": "Après une sélection des jurés mercredi, les débats s'ouvriront le 18 août. Les plaignants réclament notamment des modifications et restrictions de fonctionnement d'Instagram et Facebook pour les mineurs.",
+      "image": "https://www.franceinfo.fr/pictures/SE0EhvDi2YXCohQVW7bMs10ATxU/0x107:1024x683/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c2158acabe906706699.jpg",
+      "published_at": "2026-08-12T10:00:44+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "223b9c8af7af"
+    },
+    {
+      "title": "Allemagne : « La solitude politique de Friedrich Merz nourrit un doute sur sa capacité à convaincre durablement »",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/12/allemagne-la-solitude-politique-de-friedrich-merz-nourrit-un-doute-sur-sa-capacite-a-convaincre-durablement_6744843_3232.html",
+      "summary": "Le chancelier allemand, qui s’isole de plus en plus, jusque dans son propre parti, multiplie les maladresses et ne parvient pas à imprimer un cap politique clair outre-Rhin, déplore, dans une tribune au « Monde », l’auteur franco-allemand Nils Minkmar.",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/3203262_upload-1-5au9xz3hmb61-frame-1402.jpg",
+      "published_at": "2026-08-12T10:00:13+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "a0bc15a1bf1f"
+    },
+    {
+      "title": "Ma «house» n’a pas de murs, par le chorégraphe Vinii Revlon",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/ma-house-na-pas-de-murs-par-le-choregraphe-vinii-revlon-20260812_4KDNEB7X7ZCGZMI3EIWZXR7BBU/",
+      "summary": "Nées dans la communauté LGBT + noire et latino-américaine de New York dans les années 70, les «houses» de voguing, cette danse urbaine inspirées des poses de mannequins du magazine «Vogue», constituent des refuges pour des jeunes rejetés de chez eux, raconte le chorégraphe Vinii Revlon.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-12T08:00:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "c83c231b3a6b"
+    },
+    {
+      "title": "«Un texte qui trahit les générations futures» : une nouvelle esquisse du traité plastique critiquée pour son manque d’ambition",
+      "url": "https://www.liberation.fr/environnement/pollution/un-texte-qui-trahit-les-generations-futures-une-nouvelle-esquisse-du-traite-plastique-critiquee-pour-son-manque-dambition-20260812_XNMV7PTLXRFEXIBDEJ7U3DTVIA/",
+      "summary": "Depuis une résolution votée en mars 2022 visant à préparer un instrument international juridiquement contraignant sur la pollution, notamment en milieu marin, les négociateurs de 185 pays peinent à trouver un terrain d’entente entre deux grands blocs.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-12T07:58:06+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "b622c0ba04d8"
+    },
+    {
+      "title": "Arrêtez tout, The Elder Scrolls 6 est jouable !",
+      "url": "https://www.numerama.com/pop-culture/2309931-arretez-tout-the-elder-scrolls-6-est-jouable.html",
+      "summary": "Il n'y a pas que GTA qui a un sixième épisode attendu de pied ferme. La saga The Elder Scrolls aussi va voir débarquer The Elder Scrolls VI dans pas longtemps (comprendre : dans quelques années, en temps Bethesda). Pour l'instant, Asha Sharma, la PDG de Xbox, a eu la chance d'y jouer.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-12T07:54:38+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "559553b0141e"
+    },
+    {
+      "title": "Soudan : des frappes de drones visent Khartoum et deux autres villes du nord du pays après des mois d’accalmie",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/12/soudan-des-frappes-de-drones-visent-khartoum-et-deux-autres-villes-du-nord-du-pays-apres-des-mois-d-accalmie_6744808_3212.html",
+      "summary": "Cette attaque, mercredi à l’aube, semble coordonnée par les paramilitaires des Forces de soutien rapide, après plusieurs mois de calme relatif dans la guerre qui les oppose, depuis avril 2023, à l’armée soudanaise.",
+      "image": "https://img.lemde.fr/2026/07/16/361/0/5272/2636/644/322/60/0/1612cd7_ftp-1-go7t4t5lxwb3-5638467-01-06.jpg",
+      "published_at": "2026-08-12T09:50:36+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "3efe976b3944"
+    },
+    {
+      "title": "Pourquoi la survie des Porsche thermiques dépend désormais d’un constructeur chinois",
+      "url": "https://www.numerama.com/vroom/2309949-pourquoi-la-survie-des-porsche-thermiques-depend-desormais-dun-constructeur-chinois.html",
+      "summary": "Porsche ne fera plus pool commun avec le groupe Volkswagen pour la réglementation CO₂ européenne. Un accord avec Xpeng permet à Porsche de soulager le groupe allemand.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-12T07:37:20+00:00",
+      "source": "Numerama",
+      "category": "Économie",
+      "id": "7f6f8f3bcfd1"
+    },
+    {
+      "title": "Horizon dégagé, météo... Comment trouver le bon endroit pour observer l'éclipse",
+      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/horizon-degage-meteo-comment-trouver-le-bon-endroit-pour-observer-l-eclipse-solaire-du-12-aout_8134073.html#xtor=RSS-3-[lestitres]",
+      "summary": "Plusieurs conditions doivent être réunies pour pouvoir la regarder dans les meilleures conditions.",
+      "image": "https://www.franceinfo.fr/pictures/3mw5rHCjg5Sw6xLvCUe01pwRVN4/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/04/6a71e60fe07fb504067366.jpg",
+      "published_at": "2026-08-12T09:34:47+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "d4b8a3f1d05b"
+    },
+    {
+      "title": "\"Un droit de vie ou de mort\" sur les médias : le directeur de \"La Dépêche\" fustige le déploiement des résumés dopés à l'IA sur Google",
+      "url": "https://www.franceinfo.fr/internet/google/via-ses-resumes-ia-google-a-un-droit-de-vie-ou-de-mort-sur-les-medias-condamne-le-directeur-general-de-la-depeche_8144249.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'Alliance de la presse d'information générale a saisi l'Autorité de la concurrence pour dénoncer le déploiement par Google de ces résumés.",
+      "image": "https://www.franceinfo.fr/pictures/kbXrGzGEAQgKLp8mVMR5TnY1dFQ/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c217217719728021849.png",
+      "published_at": "2026-08-12T09:34:00+02:00",
+      "source": "France Info",
+      "category": "Tech",
+      "id": "03165b1416fb"
+    },
+    {
+      "title": "Euro d’athlétisme : Laeticia Bapté décroche une 2e médaille pour la France en arrachant le bronze sur le 100 m haies",
+      "url": "https://www.liberation.fr/sports/euro-dathletisme-laeticia-bapte-decroche-une-2e-medaille-pour-la-france-en-arrachant-le-bronze-sur-le-100-m-haies-20260812_IBKA7UE4PFF75FVHPHTIQP5UUA/",
+      "summary": "La coureuse de 27 ans a brillé à Birmingham, montant sur son premier podium international. L’autre française en lice, Sacha Alessandrini, est elle arrivée à la sixième place.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-12T07:33:37+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "e7a45af4b663"
+    },
+    {
+      "title": "Liban : l’abolition de la peine de mort, une étape symbolique importante, mais qui ne change rien aux dysfonctionnements de la justice libanaise",
+      "url": "https://www.lemonde.fr/international/article/2026/08/12/liban-l-abolition-de-la-peine-de-mort-une-etape-symbolique-importante-mais-qui-ne-change-rien-aux-dysfonctionnements-de-la-justice-libanaise_6744775_3210.html",
+      "summary": "La Chambre des députés a adopté à la majorité, mardi, l’abolition de la peine de mort, mettant un terme à un combat mené depuis les années 1990 par des militants de la société civile. Si le pays n’avait plus procédé à des exécutions capitales depuis 2004, 85 condamnés à mort étaient encore recensés dans ses prisons.",
+      "image": "https://img.lemde.fr/2026/08/12/110/0/2835/1417/644/322/60/0/1641cfc_upload-1-yp5lyffg87yy-068-aa-11102013-144.jpg",
+      "published_at": "2026-08-12T09:27:54+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "ee08a73f4677"
+    },
+    {
+      "title": "Séisme en Colombie : au moins 216 morts et plus de 1 600 blessés selon un dernier bilan, des rescapés secourus",
+      "url": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
+      "summary": "Trois jours après la catastrophe, de nombreuses victimes ont été décomptées dans plusieurs régions, notamment à Pereira, Manizales et Cali, la troisième ville du pays, tandis que les recherches de survivants se poursuivent.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-12T07:16:35+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "d935ffb834e6"
+    },
+    {
+      "title": "Où suivre en direct la grande éclipse solaire totale du 12 août 2026 ?",
+      "url": "https://www.numerama.com/sciences/2301395-suivez-en-direct-la-grande-eclipse-solaire-totale-du-12-aout-2026.html",
+      "summary": "L'Europe est aux premières loges de l'éclipse solaire du mercredi 12 août 2026. Cette éclipse de Soleil est totale. Pour les Français, l'éclipse est partielle, avec jusqu'à 99 % d'occultation à certains endroits. Ce phénomène astronomique magistral est aussi à vivre en direct et en ligne.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-12T07:14:41+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "a4650c925294"
+    },
+    {
+      "title": "Pour le troisième film Mortal Kombat, ça sent le sapin",
+      "url": "https://www.numerama.com/pop-culture/2309915-pour-le-troisieme-film-mortal-kombat-ca-sent-le-sapin.html",
+      "summary": "Le réalisateur Simon McQuoid a déclaré que l'avenir des films Mortal Kombat est hautement incertain. Le deuxième opus, sorti en 2026, a fait un four au box-office mondial.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-12T07:05:00+00:00",
+      "source": "Numerama",
+      "category": "Culture",
+      "id": "09db0882ac29"
+    },
+    {
+      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
+      "summary": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-12T07:03:16+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "db01394bbc86"
+    },
+    {
+      "title": "Au Venezuela, la photographe Silvana Trevale saisit les instants de joie de ceux qui résistent au « tourbillon de l’effondrement »",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/12/au-venezuela-la-photographe-silvana-trevale-saisit-les-instants-de-joie-de-ceux-qui-resistent-au-tourbillon-de-l-effondrement_6744708_3451060.html",
+      "summary": "« Jeunesse en milieux hostiles » (5/7). Ayant fui le Venezuela en crise, comme des millions de ses compatriotes, Silvana Trevale y revient régulièrement pour photographier la jeunesse. Dans ses images, souvent empreintes de douceur, la trentenaire capte les moments d’insouciance de garçons et de filles qui, malgré l’absence de perspectives, incarnent l’élan vital de la société vénézuélienne.",
+      "image": "https://img.lemde.fr/2026/07/16/320/0/1500/750/644/322/60/0/fa2cf66_ftp-1-nlukx1wbiwg6-436426-3488739.jpg",
+      "published_at": "2026-08-12T09:00:03+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "74fa7498a295"
+    },
+    {
+      "title": "Comment suivre la conférence Google Pixel 11 avec Trevor Noah à l’animation",
+      "url": "https://www.numerama.com/tech/2309913-comment-suivre-la-conference-google-pixel-11-avec-trevor-noah-a-lanimation.html",
+      "summary": "L'ex-animateur du Daily Show, qui s'était notamment fait connaître ici en attaquant l'Équipe de France en 2018, succède à Jimmy Fallon dans l'animation de la conférence Google Pixel. Le géant américain devrait dévoiler 4 nouveaux téléphones dans la soirée du 12 août.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-12T06:58:33+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "2be9713336e6"
+    },
+    {
+      "title": "Eclipse historique, la France face à la canicule, les Bleus brillent aux championnats d’Europe… L’actu de ce mercredi 12 août au matin",
+      "url": "https://www.liberation.fr/international/europe/eclipse-historique-la-france-face-a-la-canicule-les-bleus-brillent-aux-championnats-deurope-lactu-de-ce-mercredi-12-aout-au-matin-20260812_447XGRKCU5ERFA3L2MEPDHPASE/",
+      "summary": "La rédaction de «Libération» compile les principales infos du jour.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-12T06:54:55+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "c11d3150a001"
+    },
+    {
+      "title": "Un incendiaire condamné à de la prison ferme pour 11 départs de feu",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/un-incendiaire-condamne-a-de-la-prison-ferme-pour-11-departs-de-feu_8144213.html#xtor=RSS-3-[lestitres]",
+      "summary": "Un homme de 45 ans a été condamné mardi 11 août par le tribunal de Niort (Deux-Sèvres) à deux ans de prison ferme. Il avait provoqué 11 départs de feu à l’aide d’un chalumeau dans les Deux-Sèvres et dans le Maine-et-Loire.",
+      "image": "https://www.franceinfo.fr/pictures/7PE4XaJ7ACD6aCf8WCeDNbYyluY/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c1544aef64701601213.jpg",
+      "published_at": "2026-08-12T08:43:25+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "4e62bd6c1206"
+    },
+    {
+      "title": "Rivières à sec, restrictions d'eau, déficit de pluie... Visualisez la sécheresse historique que traverse la France en quatre graphiques",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/rivieres-a-sec-restrictions-d-eau-deficit-de-pluie-visualisez-la-secheresse-historique-que-traverse-la-france-en-quatre-graphiques_8142944.html#xtor=RSS-3-[lestitres]",
+      "summary": "La sécheresse frappe l'Hexagone et la Corse à des niveaux exceptionnels qui rappellent l'été 2022. Sans pluie significative depuis des mois et pour faire face à des cours d'eau asséchés et des nappes phréatiques qui se vident, les autorités enchaînent les arrêtés de restriction d'usage de l'eau.",
+      "image": "https://www.franceinfo.fr/pictures/PcCM5HaQ38dYhZ0qjWvYGlHFnL4/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7b2b2e0bbdf040294743.jpg",
+      "published_at": "2026-08-12T08:34:37+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "9328e5f2a852"
+    },
+    {
+      "title": "\"Ça se vend comme des petits pains\" : où peut-on encore trouver des lunettes pour regarder l'éclipse solaire ?",
+      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/ca-se-vend-comme-des-petits-pains-ou-peut-on-encore-trouver-des-lunettes-pour-regarder-l-eclipse-solaire_8142905.html#xtor=RSS-3-[lestitres]",
+      "summary": "Alors que certains comptent les heures avant de pouvoir voir l'éclipse solaire, mercredi dans la soirée, d'autres sont toujours à la recherche de lunettes de protection avant l'événement. Mais l'indispensable outil d'observation est bien difficile à trouver, surtout à la dernière minute.",
+      "image": "https://www.franceinfo.fr/pictures/8Ngr11OfY6eEdvPv31goY-U6mJM/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7b1ee168858202252207.jpg",
+      "published_at": "2026-08-12T08:34:00+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "ec421fcdc023"
+    },
+    {
+      "title": "Oiseaux qui cessent de chanter, températures qui chutent… Que se passe-t-il dans la nature durant une éclipse solaire totale ?",
+      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/oiseaux-qui-cessent-de-chanter-temperatures-qui-chutent-que-se-passe-t-il-dans-la-nature-durant-une-eclipse-solaire-totale_8135903.html#xtor=RSS-3-[lestitres]",
+      "summary": "Mercredi, la bande de totalité de l'éclipse va passer par l'Atlantique Nord, l'Islande et le nord de l'Espagne avant de s'achever sur les Baléares. Dans cette zone, de curieux phénomènes devraient se produire durant quelques minutes.",
+      "image": "https://www.franceinfo.fr/pictures/rmC7uS_7ujpkhI4SAharYBCpaQc/0x0:3651x2053/432x243/filters:format(jpg):quality(50)/2026/08/06/6a744a34b97dc673731755.jpg",
+      "published_at": "2026-08-12T08:33:26+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "890f11eaea7c"
+    },
     {
       "title": "La toute première Nintendo Switch 2 collector risque de ravir les fans de Zelda",
       "url": "https://www.numerama.com/pop-culture/2309903-la-toute-premiere-nintendo-switch-2-collector-risque-de-ravir-les-fans-de-zelda.html",
@@ -13,9 +263,9 @@
       "id": "ebdded6452c8"
     },
     {
-      "title": "Face à un regain de «violences», les agents du ministère de la Transition écologique se disent «abandonnés» par Monique Barbut",
+      "title": "Face à un regain de «violences», des agents du ministère de la Transition écologique se disent «abandonnés» par Monique Barbut",
       "url": "https://www.liberation.fr/environnement/agriculture/face-a-un-regain-de-violences-les-agents-du-ministere-de-la-transition-ecologique-se-disent-abandonnes-par-monique-barbut-20260812_2ZEPCMQB6ZFRNDQ2A2YAJJ5BFY/",
-      "summary": "Les fonctionnaires chargés de faire respecter le droit de l’environnement, en particulier ceux de l’Office français de la biodiversité, dénoncent un manque de soutien face aux pressions dont ils font l’objet ces dernières semaines, notamment de la part de certains syndicats agricoles. Un climat qu’ils estiment dégradé depuis l’adoption de la loi d’urgence agricole.",
+      "summary": "Un syndicat de fonctionnaires chargés de faire respecter le droit de l’environnement dénonce un manque de soutien face aux pressions dont ils font l’objet ces dernières semaines, notamment de la part de certains syndicats agricoles. Un climat qu’il estime dégradé depuis l’adoption de la loi d’urgence agricole.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
       "published_at": "2026-08-12T06:12:00+00:00",
       "source": "Libération",
@@ -31,16 +281,6 @@
       "source": "France Info",
       "category": "Société",
       "id": "dca17ad17bda"
-    },
-    {
-      "title": "EN DIRECT - Eclipse solaire du 12 août : le déroulé de cette journée historique, heure par heure",
-      "url": "https://www.liberation.fr/sciences/espace/en-direct-eclipse-solaire-du-12-aout-le-deroule-de-cette-journee-historique-heure-par-heure-20260812_2W7UZPF2JVDZHH3VMOKHJYHQLE/",
-      "summary": "Ce mercredi en début de soirée, la Lune passera devant le soleil. L’éclipse sera totale en Espagne et en Islande, et partielle sur le territoire français.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-12T06:07:07+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "0a5ea311f3d7"
     },
     {
       "title": "«Une Aube nouvelle» de Yoshitoshi Shinomiya, tel père tel édifice",
@@ -61,246 +301,6 @@
       "source": "Le Monde",
       "category": "Économie",
       "id": "33cecfa69a3f"
-    },
-    {
-      "title": "Mon budget de vacances : «Ce voyage à Minorque nous coûte environ 6 500 euros pour trois personnes»",
-      "url": "https://www.liberation.fr/lifestyle/voyages/mon-budget-de-vacances-ce-voyage-a-minorque-nous-coute-environ-6-500-euros-pour-trois-personnes-20260812_72M3KCWBLJF7ZBR7TNJZBQX2GU/",
-      "summary": "Plutôt voyages en éco ou en première classe ? S’il y a bien un moment de l’année où l’on s’autorise quelques folies, c’est l’été. Dans le troisième épisode de notre série, Carine raconte comment, même en «all inclusive», elle a dépensé plus que prévu.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-12T05:58:00+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "86d2f76d1dfc"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir intercepté 502 drones ukrainiens dans la nuit de mardi à mercredi",
-      "url": "https://www.lemonde.fr/international/live/2026/08/12/en-direct-guerre-en-ukraine-la-russie-affirme-avoir-intercepte-502-drones-ukrainiens-dans-la-nuit-de-mardi-a-mercredi_6741928_3210.html",
-      "summary": "Le ministère de la défense russe a précisé que ces attaques avaient visé les oblasts de Belgorod, Briansk, Kalouga, Koursk, Lipetsk, Oriol Krasnodar, la Crimée et la mer Noire. Le gouverneur de la région de Krasnodar a fait état de 2 morts et de 12 blessés après une attaque ukrainienne nocturne à Novorossiïsk, Anapa, Gelendjik et Temiourk.",
-      "image": "https://img.lemde.fr/2026/07/24/164/0/2953/1476/644/322/60/0/fc302e6_upload-1-db9v17nvqfw2-2026-07-19-heg-ukraine-0926.JPG",
-      "published_at": "2026-08-12T07:44:25+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "c162a5f2f2d4"
-    },
-    {
-      "title": "La Corée du Nord a tiré un missile balistique vers la mer du Japon, selon l'armée sud-coréenne",
-      "url": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-a-tire-un-missile-balistique-vers-la-mer-du-japon-selon-l-armee-sud-coreenne_8144150.html#xtor=RSS-3-[lestitres]",
-      "summary": "Il s'agit du deuxième missile lancé en moins d'une semaine par la Corée du Nord. Ce tir survient quelques jours avant le début d'exercices conjoints entre les Etats-Unis et la Corée du Sud.",
-      "image": "https://www.franceinfo.fr/pictures/4u4KuCLwtUGJSvXMDsJOF5BOyJ4/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c072936c29631295912.jpg",
-      "published_at": "2026-08-12T07:42:21+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "fa7d3d963db3"
-    },
-    {
-      "title": "Donald Trump confirme avoir secrètement changé d'avion face à une \"menace\" début juillet",
-      "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-confirme-avoir-secretement-change-d-avion-face-a-une-menace-debut-juillet_8144138.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le 8 juillet, pour quitter le sommet de l'Otan en Turquie, le président des Etats-Unis a été exfiltré dans un conteneur de ravitaillement vers un autre appareil qu'Air Force One, en raisons de menaces iraniennes, a révélé la presse américaine lundi.",
-      "image": "https://www.franceinfo.fr/pictures/dCl5qXLKEZcNTFm9Gr4IKL6BIoA/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c024724ab0637191166.jpg",
-      "published_at": "2026-08-12T07:19:52+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "6ef5c1f0a623"
-    },
-    {
-      "title": "Pourquoi l'observation de l'éclipse solaire est un puits d'informations pour les chercheurs en astrophysique",
-      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/pourquoi-l-observation-de-l-eclipse-solaire-est-un-puits-d-informations-pour-les-chercheurs-en-astrophysique_8143322.html#xtor=RSS-3-[lestitres]",
-      "summary": "Mercredi, alors que la Lune va cacher le Soleil pendant un peu plus d'une heure, de nombreux scientifiques seront mobilisés pour approfondir leurs connaissances sur le sujet.",
-      "image": "https://www.franceinfo.fr/pictures/9SO4MhRL_XOWe-msouR3JXDsBv4/0x209:4000x2459/432x243/filters:format(jpg):quality(50)/2020/02/11/phpyZ9uvu.jpg",
-      "published_at": "2026-08-12T07:19:37+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "6a30affe9682"
-    },
-    {
-      "title": "«Un Grand Raccourci», détours vers le futur",
-      "url": "https://www.liberation.fr/culture/cinema/un-grand-raccourci-detours-vers-le-futur-20260812_3LU3IJTKYJFNXJS7WNZ4CQTIN4/",
-      "summary": "Ce premier long métrage suit le destin de deux garçons et deux filles où se mêle système D et âge des possibles, dans une comédie délicieuse et d’une justesse rare.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-12T05:17:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "6f972600b2a2"
-    },
-    {
-      "title": "À quoi ressemblait l'éclipse du 11 août 1999 en France et dans le reste du monde, il y a 27 ans ?",
-      "url": "https://www.franceinfo.fr/diaporama/en-images-a-quoi-ressemblait-l-eclipse-du-11-aout-1999-en-france-et-dans-le-reste-du-monde-il-y-a-27-ans_8143265.html#xtor=RSS-3-[lestitres]",
-      "summary": "Avant l'éclipse du 12 août, il y avait celle du 11 août 1999. Avec des lunettes adaptées ou sans, lors d'un mariage ou à bord d'un ferry, de nombreux photographes ont capturé ce \"mercredi noir\" il y a 27 ans, afin d'observer le phénomène.",
-      "image": "https://www.franceinfo.fr/pictures/MNxRGk3i8-e5ByY8luXbx0c5OTM/0x35:2048x1187/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7b4ad1cf583144486455.jpg",
-      "published_at": "2026-08-12T07:01:26+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "110137659a77"
-    },
-    {
-      "title": "Louis XI vs Charles le Téméraire : entre roi et duc, bluff bourguignon",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/louis-xi-vs-charles-le-temeraire-entre-roi-et-duc-bluff-bourguignon-20260812_P3UH4QHFWFDBNH6U2VXFYKBXZI/",
-      "summary": "L’un règne sur une France affaiblie par la guerre de Cent Ans, l’autre est le duc tout-puissant d’une Bourgogne riche et brillante. Leur conflit, aussi géopolitique que personnel, structurera la carte de l’Europe.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-12T05:00:00+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "a4a62a7826d9"
-    },
-    {
-      "title": "Comment le réseau électrique français compense la baisse de production photovoltaïque due à l'éclipse solaire",
-      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/comment-le-reseau-electrique-francais-compense-la-baisse-de-production-photovoltaique-due-a-l-eclipse-solaire_8143313.html#xtor=RSS-3-[lestitres]",
-      "summary": "Mercredi, pendant un peu plus d'une heure, la Lune va passer devant le Soleil, bloquant ses rayons. La production d'électricité d'origine photovoltaïque va diminuer.",
-      "image": "https://www.franceinfo.fr/pictures/vwycTwZHJZWzNOfQpynvl8OTq2M/432x243/filters:format(jpg):quality(50)/2026/07/18/6a5afb8542ff5169059277.jpg",
-      "published_at": "2026-08-12T06:51:41+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "fd2193237bfe"
-    },
-    {
-      "title": "Au moins 216 morts en Colombie, le bilan du séisme revu à la baisse",
-      "url": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/au-moins-216-morts-en-colombie-le-bilan-du-seisme-revu-a-la-baisse_8144102.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le tremblement de terre survenu lundi a par ailleurs fait plus de 1 600 blessés et détruit des centaines de bâtiments, selon l'Association des maires.",
-      "image": "https://www.franceinfo.fr/pictures/OzzzuT25eJIugMOBp5IVML1Veyg/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7bf9f975c98779129724.jpg",
-      "published_at": "2026-08-12T06:51:34+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "eec5260b3212"
-    },
-    {
-      "title": "Sébastien Lecornu missionne sept parlementaires pour proposer de nouvelles mesures contre les feux de forêt",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/info-radio-france-sebastien-lecornu-missionne-sept-parlementaires-pour-proposer-de-nouvelles-mesures-contre-les-feux-de-foret_8144075.html#xtor=RSS-3-[lestitres]",
-      "summary": "Selon les informations de France Inter, les quatre députés et trois sénateurs nommés doivent rendre leurs conclusions d'ici le 21 septembre et proposer des mesures destinées à enrichir le projet de loi \"Sécurité civile\" et le budget 2027.",
-      "image": "https://www.franceinfo.fr/pictures/ni1uMBlSHogdLY9ZPWxrEyWoLtI/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7bf62ab450b374819859.jpg",
-      "published_at": "2026-08-12T06:42:34+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "703e604ad1e8"
-    },
-    {
-      "title": "Au Venezuela, un chef indigène enlevé par des guérilleros colombiens retrouvé mort",
-      "url": "https://www.lemonde.fr/international/article/2026/08/12/au-venezuela-un-chef-indigene-enleve-par-des-guerilleros-colombiens-retrouve-mort_6744638_3210.html",
-      "summary": "Le leader autochtone Julio Rodriguez avait été kidnappé, le 2 août, dans une localité minière du sud du pays, près de la Colombie. Le territoire de son peuple, les Jivi Ekunay, abrite une partie des richesses souterraines du Venezuela.",
-      "image": "https://img.lemde.fr/2026/08/12/543/0/5572/2786/644/322/60/0/b6ec66a_upload-1-6mvloicphhvq-000-334z6gt.jpg",
-      "published_at": "2026-08-12T06:36:13+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "0d0a0ce163f7"
-    },
-    {
-      "title": "Au moins 216 morts, 165 bâtiments effondrés, des survivants recherchés… Les dégâts du séisme en Colombie",
-      "url": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/en-images-au-moins-132-morts-86-batiments-effondres-recherche-de-survivants-les-degats-du-seisme-en-colombie_8142965.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le pays a été frappé par un séisme de magnitude 7,4, lundi. Les recherches de survivants sont toujours en cours.",
-      "image": "https://www.franceinfo.fr/pictures/TuNsYHyVoMPJDr-tWk-LPWJZwuo/0x27:1024x603/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7ae9afaf6b1826446226.jpg",
-      "published_at": "2026-08-12T06:35:20+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "a2ced313eb9f"
-    },
-    {
-      "title": "Canicule : l'Aisne et l'Oise seront à leur tour en vigilance orange jeudi, 80 départements concernés au total",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-deux-departements-du-nord-de-la-france-places-a-leur-tour-en-vigilance-orange-jeudi-80-departements-concernes-au-total_8144045.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les températures maximales seront supérieures à 35°C jeudi dans les départements en vigilance orange \"canicule\", prévient Météo-France.",
-      "image": "https://www.franceinfo.fr/pictures/my9AxcnV9VmyWW6r65utYsi3kow/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7bf4ff06e25076919571.jpg",
-      "published_at": "2026-08-12T06:26:13+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "482004e0c58a"
-    },
-    {
-      "title": "Gang-bang «libertins», prostitution… Dignité «versus» liberté, est-ce bien le débat ?",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/gang-bang-libertins-prostitution-dignite-versus-liberte-est-ce-bien-le-debat-20260812_JL7ITXFQEFAWLEZ5BANPIGNZVU/",
-      "summary": "En réponse au juriste Daniel Borrillo, qui a critiqué dans «Libération» l’interdiction de soirées gang-bang «libertines» au nom de la «dignité humaine», le politiste Alain Policar estime que nous devons admettre des restrictions de liberté si l’exercice de celle-ci conduit à aliéner une part de notre autonomie.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-12T04:26:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "eafba0b7f5cb"
-    },
-    {
-      "title": "\"Je sais que ça va finir par le faire\"... Opportunité manquée aux championnats d'Europe après une saison de haute volée pour le lanceur de marteau Yann Chaussinand",
-      "url": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/je-sais-que-ca-va-finir-par-le-faire-opportunite-manquee-aux-championnats-d-europe-apres-une-saison-de-haute-volee-pour-le-lanceur-de-marteau-yann-chaussinand_8143706.html#xtor=RSS-3-[lestitres]",
-      "summary": "Après avoir récemment battu le record de France de la discipline, le Français est passé à travers sa finale, mardi soir, aux championnats d'Europe de Birmingham.",
-      "image": "https://www.franceinfo.fr/pictures/awoH5-gYi7v7V49xVycVMFI8gx4/0x589:5658x3772/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7b8dc7d2c34860223463.jpg",
-      "published_at": "2026-08-12T06:15:02+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "b6e0e58505ac"
-    },
-    {
-      "title": "EN DIRECT, canicule : la vigilance orange gagne la quasi-totalité du pays ; des températures allant jusqu’à 39 °C par endroits",
-      "url": "https://www.lemonde.fr/climat/live/2026/08/12/en-direct-canicule-la-vigilance-orange-gagne-la-quasi-totalite-du-pays-avec-des-temperatures-allant-jusqu-a-39-c-par-endroits_6744636_1652612.html",
-      "summary": "Soixante-dix-huit départements sont classés mercredi en vigilance orange canicule par Météo-France, contre 43, mardi. Ce nouvel épisode de fortes chaleurs devrait durer plusieurs jours.",
-      "image": "https://img.lemde.fr/2026/08/12/0/0/3000/1500/644/322/60/0/786fe01_upload-1-eoda9lx7bkhp-canicule-asurp-107962.jpg",
-      "published_at": "2026-08-12T06:14:09+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "befe2dc93ba8"
-    },
-    {
-      "title": "La condamnation d’ex-responsables du régime Al-Assad, un test pour la justice transitionnelle en Syrie",
-      "url": "https://www.lemonde.fr/international/article/2026/08/12/la-condamnation-d-ex-responsables-du-regime-al-assad-un-test-pour-la-justice-transitionnelle-en-syrie_6744635_3210.html",
-      "summary": "L’ancien général Atef Najib a été condamné, mardi, à la peine de mort pour « crimes contre l’humanité ». Si les victimes du régime se réjouissent, plusieurs ONG dénoncent un procès inique.",
-      "image": "https://img.lemde.fr/2026/08/12/1426/0/7258/3629/644/322/60/0/8c99e89_upload-1-j8twyfytj6ji-000-a8zh7t4.jpg",
-      "published_at": "2026-08-12T06:13:17+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "187c31e19071"
-    },
-    {
-      "title": "Euro de natation : après son absence, Sarah Sjöström donne renaissance",
-      "url": "https://www.liberation.fr/sports/euro-de-natation-apres-son-absence-sarah-sjostrom-donne-renaissance-20260812_EFJLOF47KBDKBINQKJZFJYWCT4/",
-      "summary": "Tout juste de retour de grossesse, la triple championne olympique a signé des temps canons cette saison. Alignée à Saint-Denis sur deux épreuves de sprint, elle est bien partie pour compléter son palmarès, déjà hors-norme.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-12T04:09:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "f1a7f064d586"
-    },
-    {
-      "title": "« Le français fait désormais partie du patrimoine intellectuel, scientifique et culturel de l’Algérie »",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/12/le-francais-fait-desormais-partie-du-patrimoine-intellectuel-scientifique-et-culturel-de-l-algerie_6744599_3232.html",
-      "summary": "Un collectif d’intellectuels et de citoyens algériens ou issus de la diaspora s’inquiète, dans une tribune au « Monde », de la marginalisation progressive du français au profit de l’anglais, davantage pour répondre à des considérations idéologiques qu’à une véritable stratégie linguistique cohérente.",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/4d82f62_upload-1-hlmg9me5zj9e-frame-1403.jpg",
-      "published_at": "2026-08-12T06:00:14+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "1b6af13ac2eb"
-    },
-    {
-      "title": "Le ministère de la Santé avait recensé 250 lésions des yeux lors de l'éclipse solaire du 11 août 1999",
-      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/le-ministere-de-la-sante-avait-recense-250-lesions-des-yeux-lors-de-l-eclipse-solaire-du-11-aout-1999_8143709.html#xtor=RSS-3-[lestitres]",
-      "summary": "Parmi ces 250 personnes, sept personnes sont malvoyantes des deux yeux, rapporte Santé publique France.",
-      "image": "https://www.franceinfo.fr/pictures/dmvXotQyVTgHJmYCYZwQHgCKVrI/432x243/filters:format(jpg):quality(50)/2026/08/07/6a75597a3b3ca440885882.jpg",
-      "published_at": "2026-08-12T06:00:03+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "7230f54815b7"
-    },
-    {
-      "title": "Avec des joueurs tout juste revenus de vacances, quelle équipe pour le PSG face à Aston Villa en Supercoupe d’Europe ?",
-      "url": "https://www.franceinfo.fr/sports/foot/psg/avec-des-joueurs-tout-juste-revenus-de-vacances-quelle-equipe-pour-le-psg-face-a-aston-villa-en-supercoupe-d-europe_8143469.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le PSG, vainqueur de la Ligue des champions, affronte Aston Villa, vainqueur de la Ligue Europa, en Supercoupe d'Europe, mercredi à Salzbourg (Autriche) à 21 heures.",
-      "image": "https://www.franceinfo.fr/pictures/9OvxKDHPVqoS-fUBGtUJJJAjI-Y/0x0:4565x2567/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7b4b91667e6806909566.jpg",
-      "published_at": "2026-08-12T06:00:03+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "e2244c8f9328"
-    },
-    {
-      "title": "\"La Fin d'Oak Street\" : Anne Hathaway et Ewan McGregor combattent des dinosaures dans leur calme banlieue américaine",
-      "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/la-fin-d-oak-street-anne-hathaway-et-ewan-mcgregor-combattent-des-dinosaures-dans-leur-calme-banlieue-americaine_8141978.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le dernier film du réalisateur d'\"It Follows\" quitte l'horreur pour rejoindre le fantastique et la science-fiction, dans un hommage à Steven Spielberg et aux années 1980.",
-      "image": "https://www.franceinfo.fr/pictures/ZqROR5scs9cCSGzqJE1adwFVGJg/1x0:1502x844/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7b2d71ced73212135814.jpeg",
-      "published_at": "2026-08-12T06:00:01+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "597418e005df"
-    },
-    {
-      "title": "Quiz : éclipse, le Soleil en total look Lune",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/quiz-eclipse-le-soleil-en-total-look-lune-20260812_J24MGAKP2VEJDCDKGCYJVC4WHI/",
-      "summary": "(22/30) Que va-t-on voir ? Quand sera la prochaine ? Ce 12 août, les astres s’alignent.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-12T04:00:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "becee38a2834"
     }
   ]
 }
