@@ -1,16 +1,176 @@
 {
-  "generated_at": "2026-08-12T19:14:27.040765+00:00",
+  "generated_at": "2026-08-12T20:55:32.114378+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "EN DIRECT - L’éclipse solaire atteint son pic en France, une partie de l’Espagne plongée dans l’obscurité",
+      "title": "Revivez la soirée unique où l’éclipse solaire a émerveillé une grande partie de l’Europe",
       "url": "https://www.liberation.fr/sciences/espace/en-direct-eclipse-solaire-du-12-aout-le-deroule-de-cette-journee-historique-heure-par-heure-20260812_2W7UZPF2JVDZHH3VMOKHJYHQLE/",
-      "summary": "L’Espagne où l’éclipse est totale, a plongé dans le noir à 20 h 31. Sur le territoire français, où le phénomène est partiel, la Lune a recouvert en partie le Soleil. Dans la capitale française, le spectacle a atteint son pic à 20 h 20.",
+      "summary": "Le phénomène qui a duré environ deux heures, ce 12 août, a plongé le nord de l’Espagne et l’Islande dans l’obscurité pendant deux minutes. En France, où l’éclipse a été partielle, le spectacle s’est achevé peu avant 21 h 30.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-12T19:10:25+00:00",
+      "published_at": "2026-08-12T20:43:35+00:00",
       "source": "Libération",
       "category": "Politique",
       "id": "0a5ea311f3d7"
+    },
+    {
+      "title": "Eclipse solaire : à Paris, des milliers de curieux rassemblés pour «une expérience rare»",
+      "url": "https://www.liberation.fr/sciences/espace/eclipse-solaire-a-paris-des-milliers-de-curieux-rassembles-pour-une-experience-rare-20260812_LVZ3YNNBIZCBLN3UFA6O4NTZBA/",
+      "summary": "Au parc André-Citroën, dans le XVe arrondissement, astronomes amateurs et passionnés ont applaudi, euphoriques, à l’éclipse partielle du Soleil, dont 92 % du disque a été masqué par la Lune.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-12T20:39:21+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "0549b68d2c68"
+    },
+    {
+      "title": "Eclipse solaire : les photos de ce rare spectacle qui a émerveillé des millions de personnes à travers le monde",
+      "url": "https://www.lemonde.fr/sciences/article/2026/08/12/eclipse-solaire-les-photos-de-ce-rare-spectacle-qui-a-emerveille-des-millions-de-personnes-a-travers-le-monde_6745101_1650684.html",
+      "summary": "Des millions d’Européens et de passionnés du monde entier ont contemplé le ciel avec émerveillement, lors d’une rare éclipse solaire totale ou partielle, qui a plongé très brièvement le nord de l’Espagne dans l’obscurité en plein jour.",
+      "image": "https://img.lemde.fr/2026/08/12/197/0/2340/1170/644/322/60/0/ba604cc_ftp-1-jygheyblem6g-2026-08-12t190526z-1632901635-rc26xmaxanb3-rtrmadp-3-solar-eclipse-spain.JPG",
+      "published_at": "2026-08-12T22:33:04+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "d5685733ee79"
+    },
+    {
+      "title": "La ville israélienne de Tel-Aviv baptise \"place des otages\" l'esplanade des manifestations organisées pour la libération des captifs à Gaza",
+      "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/la-ville-israelienne-de-tel-aviv-baptise-place-des-otages-l-esplanade-des-manifestations-organisees-pour-la-liberation-des-captifs-a-gaza_8145335.html#xtor=RSS-3-[lestitres]",
+      "summary": "Entre 2023 et 2025, des Israéliens s'y étaient rassemblés chaque samedi soir pour presser le gouvernement d'œuvrer à la libération des otages enlevés par le Hamas.",
+      "image": "https://www.franceinfo.fr/pictures/MWI4QQOx5B1K-fsYEQrqAcSCehk/0x0:1023x575/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7cd63c0c334875617482.jpg",
+      "published_at": "2026-08-12T22:28:03+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "bb0ad2723eb2"
+    },
+    {
+      "title": "Donald Trump annonce le départ de sa porte-parole Karoline Leavitt",
+      "url": "https://www.lemonde.fr/international/article/2026/08/12/donald-trump-annonce-le-depart-de-sa-porte-parole-karoline-leavitt_6745099_3210.html",
+      "summary": "Cette native du New Hampshire (nord-est) a piloté une stratégie de communication agressive, riche en attaques contre les médias traditionnels.",
+      "image": "https://img.lemde.fr/2026/08/12/279/0/3356/1678/644/322/60/0/55b3174_ftp-1-dnua6af9ozmr-2026-08-12t195549z-1216621119-rc2mwman0itd-rtrmadp-3-usa-trump.JPG",
+      "published_at": "2026-08-12T22:27:55+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "dd59a7fcc1db"
+    },
+    {
+      "title": "EN DIRECT, canicule : des températures qui ont dépassé 40 °C dans le Cher et la Vienne ; 80 départements en vigilance orange jeudi",
+      "url": "https://www.lemonde.fr/climat/live/2026/08/12/en-direct-canicule-des-temperatures-qui-ont-depasse-40-c-dans-le-cher-et-la-vienne-80-departements-en-vigilance-orange-jeudi_6744636_1652612.html",
+      "summary": "Les chaleurs caniculaires ont continué de gagner du terrain, s’étendant à quasiment toute la France, et le gouvernement estime que leur succession cet été pourrait coûter jusqu’à 15 milliards d’euros à la France.",
+      "image": "https://img.lemde.fr/2026/08/12/250/0/3000/1500/644/322/60/0/d06bb83_upload-1-ooqlbtfbboob-canicule-asurp-107947.jpg",
+      "published_at": "2026-08-12T22:26:44+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "c5ff7889c818"
+    },
+    {
+      "title": "Muhammad Abdallah Kounta décroche l'argent sur le 400 mètres, troisième médaille pour la délégation française aux championnats d'Europe",
+      "url": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/muhammad-abdallah-kounta-decroche-l-argent-sur-le-400-metres-troisieme-medaille-pour-la-delegation-francaise_8145227.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le coureur de 31 ans a terminé entre le vainqueur, le Britannique Matthew Hudson-Smith, et le Néerlandais Jonas Phijffers, mercredi, à Birmingham.",
+      "image": "https://www.franceinfo.fr/pictures/6tMY39snG2K5Ow4H74UwyZFT8TQ/0x0:7482x4208/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7cd3d237e67044491698.jpg",
+      "published_at": "2026-08-12T22:24:17+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "4c43bf870a38"
+    },
+    {
+      "title": "De la France à l'Angleterre en passant par l'Espagne, retrouvez les plus belles photos de l'éclipse solaire observée en Europe",
+      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/en-images-de-la-france-au-groenland-en-passant-par-l-espagne-retrouvez-les-plus-belles-photos-de-l-eclipse-solaire-observee-en-europe_8144786.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'éclipse solaire, totale dans une partie de l'Espagne et partielle en France, a offert à des millions de personnes un spectacle à couper le souffle, mercredi soir.",
+      "image": "https://www.franceinfo.fr/pictures/88HfBTD80KMFoFboKfToqLQ0Dk8/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7cc4751d5cf211502001.jpg",
+      "published_at": "2026-08-12T22:20:47+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a80e16b2c47e"
+    },
+    {
+      "title": "EN IMAGES - L’éclipse du 12 août à travers le monde : t’as d’beaux cieux, tu sais",
+      "url": "https://www.liberation.fr/sciences/espace/en-images-leclipse-du-12-aout-a-travers-le-monde-tas-dbeaux-cieux-tu-sais-20260812_PCCJAPMSWFC2NNQPQELWXJNLMU/",
+      "summary": "Pour la première fois depuis vingt-sept ans, la France a pu assister ce mercredi à une éclipse solaire quasi-totale. Le spectacle astronomique, entièrement visible en Espagne et en Islande, a été mitraillé sous tous ses angles.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-12T20:03:55+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "70ef0ad4a406"
+    },
+    {
+      "title": "Mort d’Olivier Echaudemaison, maquilleur de stars et ancien directeur créatif chez Guerlain",
+      "url": "https://www.liberation.fr/culture/mort-dolivier-echaudemaison-maquilleur-de-stars-et-ancien-directeur-creatif-chez-guerlain-20260812_ANWMRC7WOJG3LEIHJ5EBWHSERI/",
+      "summary": "Le spécialiste de la beauté est mort à l’âge de 84 ans, a annoncé mercredi 12 août, la marque de luxe qu’il avait rejointe en 2000.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-12T20:03:55+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "b1439f82bf9c"
+    },
+    {
+      "title": "«Certains sont en tongs» : malgré les risques, l’éruption de l’Etna en Sicile attire les touristes",
+      "url": "https://www.liberation.fr/international/europe/certains-sont-en-tongs-malgre-les-risques-leruption-de-letna-en-sicile-attire-les-touristes-20260812_SRJNAB2KPJH2TF3VQPAR2Z5V6Q/",
+      "summary": "Des milliers de curieux cherchent à se rapprocher des coulées de lave autour du plus haut volcan actif d’Europe. Les guides locaux alertent sur le danger de certaines pratiques.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-12T19:49:27+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "ab13c0db74a8"
+    },
+    {
+      "title": "L'éclipse solaire vue depuis Biarritz, avec un taux d'obscuration de 99,5 %",
+      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/l-eclipse-solaire-vue-depuis-biarritz-avec-un-taux-d-obscuration-de-99-5_8145323.html#xtor=RSS-3-[lestitres]",
+      "summary": "La Lune rencontre le Soleil mercredi 12 août à Biarritz. Au Pays basque, l'éclipse solaire est visible à près de 99,5%. Revivez ce moment avec nous.",
+      "image": "https://www.franceinfo.fr/pictures/za6BeOMS19GYqjTUbrE6ycR1bAc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/12/6a7ccc73ac90c671573720.png",
+      "published_at": "2026-08-12T21:41:57+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "aaf8e37acaeb"
+    },
+    {
+      "title": "Des incendies en cours sur le littoral du Pas-de-Calais, 1 200 vacanciers brièvement évacués d'un camping à Camiers",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-deux-departements-du-nord-de-la-france-places-a-leur-tour-en-vigilance-orange-jeudi-80-departements-concernes-au-total_8144045.html#xtor=RSS-3-[lestitres]",
+      "summary": "Météo-France a placé 80 départements en vigilance orange pour la journée de jeudi.",
+      "image": "https://www.franceinfo.fr/pictures/gY8hNf4COh5kvUU_gfq22TbgtYI/0x195:3744x2301/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7cc99c12fce304233188.jpg",
+      "published_at": "2026-08-12T21:32:21+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "482004e0c58a"
+    },
+    {
+      "title": "Grève au Samusocial de Paris : la préfecture demande l’évacuation du parvis après cinquante jours de conflit",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/12/greve-au-samusocial-de-paris-la-prefecture-demande-l-evacuation-du-parvis-apres-cinquante-jours-de-conflit_6745096_3224.html",
+      "summary": "De nombreuses familles sans domicile occupent les lieux. Elles ont rejoint les salariés en grève, qui alertent sur le manque de moyens dévolus à l’hébergement d’urgence.",
+      "image": "https://img.lemde.fr/2026/08/12/750/0/4000/2000/644/322/60/0/daa642e_upload-1-4uthezdjpghw-raf-paris-samusocial-009.JPG",
+      "published_at": "2026-08-12T21:30:46+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "29f85ab5f8be"
+    },
+    {
+      "title": "Discord : le Brésil ordonne la suspension des directs sur la plateforme après le suicide d’une adolescente",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/12/discord-le-bresil-ordonne-la-suspension-des-directs-sur-la-plateforme-apres-le-suicide-d-une-adolescente_6745095_4408996.html",
+      "summary": "Le commissaire Alessandro Barreto, coordinateur du service de lutte contre les crimes cybernétiques au ministère de la justice, a dénoncé de « terribles failles de modération » de la plateforme dans la transmission qui a duré environ 45 minutes.",
+      "image": "https://img.lemde.fr/2026/08/12/688/0/8256/4128/644/322/60/0/ab7a5ad_ftp-1-pk1cak4cilnx-5822392-01-06.jpg",
+      "published_at": "2026-08-12T21:18:26+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "2cd1cb278404"
+    },
+    {
+      "title": "Eurovision : les pays en guerre ne pourront plus accueillir le concours à l’avenir",
+      "url": "https://www.liberation.fr/culture/eurovision-les-pays-en-guerre-ne-pourront-plus-accueillir-le-concours-a-lavenir-20260812_P67TM3PTXRAQLJOFUIZ2MOBNWQ/",
+      "summary": "«Le diffuseur lauréat sera automatiquement inéligible pour accueillir le concours si un conflit armé, une situation géopolitique sensible ou toute autre situation» affecte la sécurité de son territoire, ont annoncé les organisateurs ce mercredi 12 août. Tous les artistes devront aussi être désormais âgés d’au moins 18 ans.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-12T19:16:47+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "dc4fa0c58ee6"
+    },
+    {
+      "title": "\"C'est assez impressionnant à vivre\" : revivez l'éclipse solaire totale filmée depuis l'Espagne",
+      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/video-c-est-assez-impressionnant-a-vivre-revivez-l-eclipse-solaire-totale-filmee-depuis-l-espagne_8145248.html#xtor=RSS-3-[lestitres]",
+      "summary": "Une équipe de France Télévisions a assisté au spectacle, mercredi soir, depuis les environs de Burgos, avec des chasseurs d'éclipse.",
+      "image": "https://www.franceinfo.fr/pictures/gPMWUOL6_JuZG_SseHYMEKpdduI/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7cbf695298b851314537.jpg",
+      "published_at": "2026-08-12T21:11:05+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "c6250ecce2b6"
     },
     {
       "title": "\"Je ne regrette pas d'avoir fait 800 km pour un tel spectacle\" : l'éclipse solaire a traversé la France et une partie de l'Europe",
@@ -21,16 +181,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "a7c7858b2a7d"
-    },
-    {
-      "title": "\"C'est assez impressionnant à vivre\" : revivez l'éclipse solaire totale filmée depuis l'Espagne",
-      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/video-c-est-assez-impressionnant-a-vivre-revivez-l-eclipse-solaire-totale-filmee-depuis-l-espagne_8145248.html#xtor=RSS-3-[lestitres]",
-      "summary": "Une équipe de France Télévisions a assisté au spectacle, mercredi soir, depuis les environs de Burgos, avec des chasseurs d'éclipses.",
-      "image": "https://www.franceinfo.fr/pictures/gPMWUOL6_JuZG_SseHYMEKpdduI/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7cbf695298b851314537.jpg",
-      "published_at": "2026-08-12T20:58:19+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "c6250ecce2b6"
     },
     {
       "title": "Sarah Sjöström, Hubert Kós et David Popovici : à Saint-Denis, le plein d’or des cadors",
@@ -78,7 +228,7 @@
       "summary": "A la mi-juin, la présidente de la Métropole de Lyon avait annoncé le retrait temporaire des délégations de M. Aulas et de deux autres élus après une plainte pour viol déposée par une militante d’une vingtaine d’années contre le directeur de communication du candidat.",
       "image": "https://img.lemde.fr/2026/06/11/446/0/5360/2680/644/322/60/0/0d9b355_ftp-1-2f6gpvpd8mm8-5286796-01-06.jpg",
       "published_at": "2026-08-12T19:24:28+02:00",
-      "source": "Le Monde",
+      "source": "Le Monde Politique",
       "category": "Politique",
       "id": "743d9fc2435b"
     },
@@ -95,32 +245,22 @@
     {
       "title": "En Libye, le retour diplomatique des Américains, après quinze ans d’effacement",
       "url": "https://www.lemonde.fr/afrique/article/2026/08/12/en-libye-le-retour-diplomatique-des-americains-apres-quinze-ans-d-effacement_6745089_3212.html",
-      "summary": "Le conseiller spécial du président Donald Trump Massad Boulos cherche un accord entre les familles Haftar et Dbeibah, qui se partagent le pays.",
+      "summary": "Le conseiller spécial de Donald Trump pour les affaires arabes et africaines, Massad Boulos, cherche un accord entre les familles Haftar et Dbeibah, qui se partagent le pays.",
       "image": "https://img.lemde.fr/2026/08/12/210/0/2528/1264/644/322/60/0/ab4df13_upload-1-tawk95eq28in-000-93vh6nu.jpg",
-      "published_at": "2026-08-12T19:00:07+02:00",
+      "published_at": "2026-08-12T19:00:02+02:00",
       "source": "Le Monde",
-      "category": "Politique",
+      "category": "International",
       "id": "64c334f7492d"
     },
     {
-      "title": "EN DIRECT, PSG-Aston Villa : les Parisiens en quête d’un deuxième sacre de suite en Supercoupe d’Europe",
+      "title": "EN DIRECT, PSG-Aston Villa : les Parisiens reprennent l’avantage grâce à Désiré Doué",
       "url": "https://www.lemonde.fr/sport/live/2026/08/12/en-direct-psg-aston-villa-suivez-le-match-de-la-supercoupe-d-europe-de-football_6745088_3242.html",
-      "summary": "Les Parisiens, vainqueurs de la Ligue des champions, lancent officiellement leur saison et leur quête de trophées mercredi à Salzbourg (Autriche), face aux Anglais, lauréats de la Ligue Europa.",
-      "image": "https://img.lemde.fr/2026/08/12/285/0/3415/1707/644/322/60/0/4c711a5_ftp-1-thy1fcumytv9-d99536a14b5c4dd9a2d8f65e753d44b5-0-297ad6780e9a48a38c4c24ba7a344393.jpg",
+      "summary": "Les Parisiens, vainqueurs de la Ligue des champions, lancent officiellement leur saison et leur quête de trophées mercredi à Salzbourg (Autriche), face aux Anglais, lauréats de la Ligue Europa, lors de la Supercoupe d’Europe.",
+      "image": "https://img.lemde.fr/2026/08/12/0/0/5366/2683/644/322/60/0/9f36ebb_ftp-1-1jjspusrdjr8-5824626-01-06.jpg",
       "published_at": "2026-08-12T19:00:02+02:00",
       "source": "Le Monde",
       "category": "Sport",
       "id": "3040573ac416"
-    },
-    {
-      "title": "Le peintre Emil Nolde et sa palette flamboyante inspirée de son jardin à Seebüll, en Allemagne",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/12/le-peintre-emil-nolde-et-sa-palette-flamboyante-inspiree-de-son-jardin-a-seebull-en-allemagne_6745090_3451060.html",
-      "summary": "« Artistes en leur jardin » (3/6). A partir de la fin des années 1920, l’artiste allemand a conçu et planté un lieu atypique, un réservoir de couleurs qui nourissent ses toiles et une œuvre d’art en soi, vivante et changeante.",
-      "image": "https://img.lemde.fr/2026/07/29/270/0/2953/1476/644/322/60/0/d3ac16f_upload-1-4y4nwa1iw56w-nolde-garden-and-nolde-house-photo-c-sieber-nolde-stiftung-seebu-ll.jpg",
-      "published_at": "2026-08-12T19:00:02+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "7e55d2397f84"
     },
     {
       "title": "La Ligue des droits de l’Homme conteste un arrêté du maire RN de Carcassonne : «Le seul argument de moralité d’une tenue ne peut être retenu»",
@@ -161,146 +301,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "79672c708abb"
-    },
-    {
-      "title": "Accusé d’échanges à caractère sexuel avec des mineurs, Guillaume Pley annonce déposer plainte en diffamation, rapporte BFMTV",
-      "url": "https://www.liberation.fr/economie/medias/accuse-dechanges-a-caractere-sexuel-avec-des-mineurs-guillaume-pley-annonce-deposer-plainte-en-diffamation-rapporte-bfmtv-20260812_SMHYGALEAJHRBANTEAIYCT3XOM/",
-      "summary": "Les procédures visent notamment le youtubeur TPZ, «le Monde» et «les Inrockuptibles», qui ont publié des captures d’écrans de messages de l’animateur avec des fans alors adolescentes. Son avocate soutient que plusieurs personnes animaient ses réseaux sociaux.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-12T16:39:35+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "0778c8153f85"
-    },
-    {
-      "title": "En Norvège, le fonds souverain réalise un bond record au premier semestre",
-      "url": "https://www.liberation.fr/economie/conso/en-norvege-le-fonds-souverain-realise-un-bond-record-au-premier-semestre-20260812_UEBZOS4J3RHBJAECUQQJHM3NRM/",
-      "summary": "Les ressources souveraines de la Norvège ont enregistré une hausse de 160 milliards d’euros au premier semestre 2026, grâce aux investissements dans les semi-conducteurs et l’intelligence artificielle.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-12T16:35:40+00:00",
-      "source": "Libération",
-      "category": "Tech",
-      "id": "356e4dd965f9"
-    },
-    {
-      "title": "EN DIRECT, éclipse solaire : applaudissements et exclamations en France métropolitaine et en Espagne, alors que la Lune se retire du disque solaire",
-      "url": "https://www.lemonde.fr/sciences/live/2026/08/12/en-direct-eclipse-solaire-d-ici-une-heure-le-phenomene-commence-en-france-metropolitaine-suivez-le-avec-nos-journalistes_6745061_1650684.html",
-      "summary": "Une éclipse partielle du Soleil est observable en France métropolitaine, ce soir depuis 19 h 20. Elle est quasi totale à Biarritz avec 99,5 % d’obscuration. En Espagne, l’intégralité du disque solaire est masquée par la Lune, donnant lieu à une éclipse totale. Il est impératif de porter des lunettes de protection conformes pour l’observer.",
-      "image": "https://img.lemde.fr/2026/08/12/516/0/5500/2750/644/322/60/0/4b4895e_ftp-1-qfkvj1o4xckn-2026-08-12t184009z-698280044-rc26xmavyrgn-rtrmadp-3-solar-eclipse-spain.JPG",
-      "published_at": "2026-08-12T18:30:44+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "0d0f619e0a73"
-    },
-    {
-      "title": "Aides sociales et avantages fiscaux des familles : un rapport propose 4,2 milliards d’euros d’économies sur ces dispositifs",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/12/aides-sociales-et-avantages-fiscaux-des-familles-un-rapport-propose-4-2-milliards-d-euros-d-economies-sur-ces-dispositifs_6745086_823448.html",
-      "summary": "Dans un rapport commandé par le gouvernement et dévoilé fin juillet, l’inspection générale des finances et l’inspection générale des affaires sociales proposent d’améliorer la « cohérence » des politiques familiales.",
-      "image": "https://img.lemde.fr/2026/06/08/250/0/3000/1500/644/322/60/0/fc67dac_upload-1-86qwexictk8l-frame-157.jpg",
-      "published_at": "2026-08-12T18:30:00+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "cff27a1e8618"
-    },
-    {
-      "title": "Eclipse solaire imminente, coût des canicules, incendie dans le Pas-de-Calais… l’actu de ce mercredi 12 août",
-      "url": "https://www.liberation.fr/international/europe/eclipse-solaire-imminente-cout-des-canicules-incendie-dans-le-pas-de-calais-lactu-de-ce-mercredi-12-aout-20260812_27DFNIBJUZAADKDUV7N6TWZFFU/",
-      "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-12T16:20:50+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "ba674258ad82"
-    },
-    {
-      "title": "En Europe, les stocks de gaz pour l’hiver, au plus bas, ravivent les craintes sur les prix fin 2026 et début 2027",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/12/en-europe-les-stocks-de-gaz-pour-l-hiver-au-plus-bas-ravivent-les-craintes-sur-les-prix-fin-2026-et-debut-2027_6745085_3234.html",
-      "summary": "Le taux de remplissage actuel des réserves européennes est inférieur à 60 %, contre près de 75 % ces deux dernières années, notamment en raison de prix estivaux élevés liés au blocage du détroit d’Ormuz.",
-      "image": "https://img.lemde.fr/2026/08/05/464/0/5568/2784/644/322/60/0/aa067d5_ftp-1-5u3ysd43z4xe-2026-08-05t170253z-399625914-rc2s3t9a2rk4-rtrmadp-3-europe-gas-storage.JPG",
-      "published_at": "2026-08-12T18:15:06+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "0015bcfa141b"
-    },
-    {
-      "title": "Rachat de SFR : le cas pratique d’une casse sociale",
-      "url": "https://www.liberation.fr/economie/social/rachat-de-sfr-le-cas-pratique-dune-casse-sociale-20260812_I3JVKWUW5FEZVCKI5BG7A5BFXM/",
-      "summary": "Avec la vente de l’opérateur de téléphonie à trois concurrents – Orange, Bouygues et Free – que vont devenir les 8 000 salariés de SFR ? Pour l’heure, la majorité d’entre eux ne sera pas reprise par les acquéreurs et l’Etat ne semble guère disposé à s’en mêler.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-12T16:14:32+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "8365675e5d81"
-    },
-    {
-      "title": "EN DIRECT, canicule : 80 départements seront placés en vigilance orange jeudi ; la journée de mercredi devient la plus chaude de cette troisième vague de chaleur",
-      "url": "https://www.lemonde.fr/climat/live/2026/08/12/en-direct-canicule-80-departements-seront-places-en-vigilance-orange-jeudi-des-temperatures-encore-tres-elevees-au-moment-de-l-eclipse-solaire-en-particulier-a-l-ouest_6744636_1652612.html",
-      "summary": "Au total, en Europe, au moins 92 millions de personnes devraient connaître des températures supérieures à 35 °C à un moment de la journée mercredi, dont 30 millions en France, selon l’AFP.",
-      "image": "https://img.lemde.fr/2026/08/12/394/0/5000/2500/644/322/60/0/4668fbc_ftp-1-8xc4m0kkiui2-5820357-01-06.jpg",
-      "published_at": "2026-08-12T18:12:10+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "31adb0f1ec6a"
-    },
-    {
-      "title": "Météo-France place 78 départements en vigilance orange canicule pour la journée de mercredi, 80 concernés jeudi",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/meteo-france-place-78-departements-en-vigilance-orange-canicule-pour-la-journee-de-mercredi-80-concernes-jeudi_8145137.html#xtor=RSS-3-[lestitres]",
-      "summary": "Jeudi, les maximales seront \"voisines de 38°C\" en Ile-de-France et comprises entre 38 et 40°C \"du Centre-Val de Loire à la Nouvelle-Aquitaine\".",
-      "image": "https://www.franceinfo.fr/pictures/6bLWPQro72DmfXU74ddw6K1ipxs/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c9b1a8d2da481593192.jpg",
-      "published_at": "2026-08-12T18:11:58+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "02acd0f16a8c"
-    },
-    {
-      "title": "Incendie dans des dunes sur le littoral du Pas-de-Calais, un camping évacué",
-      "url": "https://www.liberation.fr/environnement/incendie-dans-des-dunes-sur-le-littoral-du-pas-de-calais-un-camping-evacue-20260812_WNQEBSPEDFB4ZOZKGYJJPTCVS4/",
-      "summary": "1 200 personnes ont dû se mettre à l’abri dans la précipitation ce mercredi après-midi au camping Cristal d’Opale à Camiers après plusieurs départs de feu. Les pompiers sur place luttent toujours contre les flammes.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-12T16:11:09+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "2db56434dca7"
-    },
-    {
-      "title": "Incendies : environ 1 200 clients d'un camping du Pas-de-Calais évacués à cause d'incendies dans des dunes du littoral",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-deux-departements-du-nord-de-la-france-places-a-leur-tour-en-vigilance-orange-jeudi-80-departements-concernes-au-total_8144045.html#xtor=RSS-3-[lestitres]",
-      "summary": "Météo-France a placé 80 départements en vigilance orange pour la journée de jeudi.",
-      "image": "https://www.franceinfo.fr/pictures/F3s0XkFdsuL5ZzOVweS3Ua5luPY/0x313:6000x3688/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c9796c41bf594191515.jpg",
-      "published_at": "2026-08-12T18:01:49+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "482004e0c58a"
-    },
-    {
-      "title": "Guerre en Ukraine : la Corée du Nord profite de ses liens avec la Russie pour consolider son régime",
-      "url": "https://www.liberation.fr/international/asie-pacifique/guerre-en-ukraine-la-coree-du-nord-profite-de-ses-liens-avec-la-russie-pour-consolider-son-regime-20260812_UN6P63RQINDGBNB7U223NXV6PQ/",
-      "summary": "Depuis l’invasion russe du 24 février 2022, la collaboration militaire et économique s’est intensifiée entre Moscou et Pyongyang. Le conflit offre à Kim Jong-un une opportunité pour contourner les sanctions onusiennes.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-12T16:01:09+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "85389fcb4fb3"
-    },
-    {
-      "title": "Des panneaux signalant le passage de Lynx testés dans le Parc naturel régional du Haut-Jura pour éviter les risques de collision",
-      "url": "https://www.franceinfo.fr/environnement/biodiversite/des-panneaux-signalant-le-passage-de-lynx-testes-dans-le-parc-naturel-regional-du-haut-jura-pour-eviter-les-risques-de-collision_8145119.html#xtor=RSS-3-[lestitres]",
-      "summary": "Ces panneaux seront installés à partir de septembre sur plusieurs tronçons de routes nationales et départementales du Parc naturel régional du Haut-Jura, pour une expérimentation d'une durée de trois ans.",
-      "image": "https://www.franceinfo.fr/pictures/gsAi2-b3ju9UyQ1bnEN__o5ZYkE/0x34:4300x2452/432x243/filters:format(jpg):quality(50)/2025/05/22/maxnewsfrfour600975-682ef13727c24053697869.jpg",
-      "published_at": "2026-08-12T18:01:05+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "65484702f1dc"
-    },
-    {
-      "title": "« Tous ces migrants illégaux qui arrivent sur nos côtes prennent les emplois des Britanniques » : dans la station balnéaire de Jaywick, le vote pour Nigel Farage est nourri par la peur de l’étranger",
-      "url": "https://www.lemonde.fr/international/article/2026/08/12/tous-ces-migrants-illegaux-qui-arrivent-sur-nos-cotes-prennent-les-emplois-des-britanniques-dans-la-station-balneaire-de-jaywick-le-vote-pour-nigel-farage-est-nourri-par-la-peur-de-l-etranger_6745082_3210.html",
-      "summary": "Déstabilisé par la révélation d’un don non déclaré, le chef de Reform UK a provoqué une élection législative partielle en démissionnant et en cherchant à se faire réélire dans sa circonscription de Clacton-on-Sea. Travaillistes et conservateurs ont décidé de boycotter le scrutin, prévu jeudi 13 août.",
-      "image": "https://img.lemde.fr/2026/08/06/458/0/5500/2750/644/322/60/0/d327b0f_ftp-1-qph4zy4rgdtx-2026-08-06t172103z-1183343334-rc23tmasdxdr-rtrmadp-3-britain-politics-clacton.JPG",
-      "published_at": "2026-08-12T18:00:08+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "9885e6c1c055"
     }
   ]
 }
