@@ -7,16 +7,46 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Tue, 11 Aug 2026 23:50:55 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 02:34:09 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>Avec «Undertone», Ian Tuason nous donne mal au casque</title>
+    <link>https://www.liberation.fr/culture/cinema/avec-undertone-ian-tuason-nous-donne-mal-au-casque-20260812_KTCXY7HWQVFLFK2S67XPYOZYX4/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/culture/cinema/avec-undertone-ian-tuason-nous-donne-mal-au-casque-20260812_KTCXY7HWQVFLFK2S67XPYOZYX4/</guid>
+    <pubDate>Wed, 12 Aug 2026 01:02:00 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Le premier long métrage du cinéaste canadien promet une horreur sèche passant par le son, avant de noyer son idée dans une surenchère de thèmes et d’effets.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>L’Olympique lyonnais renverse le Sparta Prague et se qualifie pour les barrages de la Ligue des champions</title>
+    <link>https://www.lemonde.fr/football/article/2026/08/12/l-olympique-lyonnais-renverse-le-sparta-prague-et-se-qualifie-pour-les-barrages-de-la-ligue-des-champions_6744429_1616938.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/football/article/2026/08/12/l-olympique-lyonnais-renverse-le-sparta-prague-et-se-qualifie-pour-les-barrages-de-la-ligue-des-champions_6744429_1616938.html</guid>
+    <pubDate>Wed, 12 Aug 2026 02:40:10 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[Revenu avec une composition plus offensive qu’au match aller, le club rhodanien s’est imposé face à l’équipe tchèque (3-0), mardi, à domicile.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/08/11/115/0/5475/2737/644/322/60/0/ea7b3ff_ftp-1-uq6wfdrbfo6x-5816983-01-06.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>EN DIRECT, guerre en Ukraine : Moscou se prépare à une mobilisation massive d’ici la fin de l’année, affirme Volodymyr Zelensky</title>
+    <link>https://www.lemonde.fr/international/live/2026/08/12/en-direct-guerre-en-ukraine-moscou-se-prepare-a-une-mobilisation-massive-d-ici-la-fin-de-l-annee-affirme-volodymyr-zelensky_6741928_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/08/12/en-direct-guerre-en-ukraine-moscou-se-prepare-a-une-mobilisation-massive-d-ici-la-fin-de-l-annee-affirme-volodymyr-zelensky_6741928_3210.html</guid>
+    <pubDate>Wed, 12 Aug 2026 02:28:38 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[Selon le président ukrainien, qui cite des documents internes russes transmis par ses services de renseignement, « plusieurs centaines de milliers de Russes » seront mobilisés « pour l’automne, juste après une simulation d’élections parlementaires ». M. Zelensky a ajouté que son pays se préparait à rendre la mise en œuvre de ces plans aussi difficile que possible.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/08/12/138/0/5272/2636/644/322/60/0/c78fdf0_upload-1-rcpxgt0r6e6k-2026-01-21t160655z-1488129991-rc2p5jai00kt-rtrmadp-3-ukraine-crisis-russia.JPG" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>La Corée du Nord a tiré un missile balistique en direction de la mer du Japon, selon Séoul, son deuxième en une semaine</title>
     <link>https://www.lemonde.fr/international/article/2026/08/12/la-coree-du-nord-a-tire-un-missile-balistique-en-direction-de-la-mer-du-japon-selon-seoul-son-deuxieme-en-une-semaine_6744396_3210.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/08/12/la-coree-du-nord-a-tire-un-missile-balistique-en-direction-de-la-mer-du-japon-selon-seoul-son-deuxieme-en-une-semaine_6744396_3210.html</guid>
     <pubDate>Wed, 12 Aug 2026 01:37:09 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <category>Société</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[Cette démonstration de Pyongyang, mercredi 12 août, intervient alors que la Corée du Sud et les Etats-Unis s’apprêtent à mener conjointement leurs exercices militaires annuels.]]></description>
     <enclosure url="https://img.lemde.fr/2026/08/11/152/0/2960/1480/644/322/60/0/501c3f0_upload-1-bvwc1hiikhau-000-a8ck9kl.jpg" type="image/jpeg" length="0" />
   </item>
@@ -161,16 +191,6 @@
     <enclosure url="https://www.franceinfo.fr/pictures/muG15X5xCsIkkrems2PiePc0AsE/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7aca7b2b7a1716470545.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>EN DIRECT, guerre en Ukraine : le renseignement ukrainien affirme que la Russie prépare une mobilisation pour l’automne, déclare Volodymyr Zelensky</title>
-    <link>https://www.lemonde.fr/international/live/2026/08/11/en-direct-guerre-en-ukraine-le-renseignement-ukrainien-affirme-que-la-russie-prepare-une-mobilisation-pour-l-automne-declare-volodymyr-zelensky_6741928_3210.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/08/11/en-direct-guerre-en-ukraine-le-renseignement-ukrainien-affirme-que-la-russie-prepare-une-mobilisation-pour-l-automne-declare-volodymyr-zelensky_6741928_3210.html</guid>
-    <pubDate>Tue, 11 Aug 2026 20:59:46 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[« Tout est confirmé par des documents russes internes : ils la préparent pour l’automne, juste après une simulation d’élections parlementaires », a dit le président ukrainien. Selon lui, « plusieurs centaines de milliers de Russes » seront mobilisés d’ici à la fin de l’année, « plus autant l’année suivante ». M. Zelensky a ajouté que l’Ukraine se préparait à rendre la mise en œuvre de ces plans au]]></description>
-    <enclosure url="https://img.lemde.fr/2026/08/08/42/0/5086/2543/644/322/60/0/8ec3e8f_ftp-1-lllac2kqbuhg-5796665-01-06.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
     <title>Poutine libère pour raisons «humanitaires», un ancien Marine américain détenu en Russie depuis 2022</title>
     <link>https://www.liberation.fr/international/amerique/poutine-libere-un-ancien-marine-detenu-en-russie-depuis-2022-pour-raisons-humanitaires-20260811_5MVMFLZXHFF4JNDNJFA3TPB5OU/</link>
     <guid isPermaLink="true">https://www.liberation.fr/international/amerique/poutine-libere-un-ancien-marine-detenu-en-russie-depuis-2022-pour-raisons-humanitaires-20260811_5MVMFLZXHFF4JNDNJFA3TPB5OU/</guid>
@@ -289,26 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[Le groupe propriétaire de Facebook et d’Instagram, accusé de favoriser l’addiction aux réseaux sociaux, comparaît en Californie à partir de mercredi. Poursuivie par quatre Etats américains, la firme de Mark Zuckerberg risque une lourde sanction financière.]]></description>
     <enclosure url="https://img.lemde.fr/2026/07/20/75/0/1232/616/644/322/60/0/89bd598_ftp-1-omjnzqi6wfju-2026-07-20t100030z-1714391889-rc2gojalwnzz-rtrmadp-3-meta-trial-tennessee.JPG" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Les entreprises françaises encore peu affectées par les vagues de chaleur et les incendies</title>
-    <link>https://www.lemonde.fr/economie/article/2026/08/11/les-entreprises-francaises-encore-peu-affectees-par-les-vagues-de-chaleur-et-les-incendies_6744159_3234.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/economie/article/2026/08/11/les-entreprises-francaises-encore-peu-affectees-par-les-vagues-de-chaleur-et-les-incendies_6744159_3234.html</guid>
-    <pubDate>Tue, 11 Aug 2026 20:00:10 +0000</pubDate>
-    <category>Économie</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[L’activité des entreprises a un peu ralenti au mois de juillet, mais leurs dirigeants anticipent une légère amélioration en août, selon l’enquête mensuelle de la Banque de France qui suggère, à ce stade, une croissance de 0,2 % au troisième trimestre.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/08/11/363/0/4724/2362/644/322/60/0/1b8b4dc_upload-1-og3kogamy2do-hanslucas-hl-jffort-3239183.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Carlo Masala, spécialiste des questions de sécurité : « L’Allemagne est visée parce qu’elle est le principal pilier du soutien européen à l’Ukraine »</title>
-    <link>https://www.lemonde.fr/international/article/2026/08/11/carlo-masala-specialiste-des-questions-de-securite-l-allemagne-est-visee-parce-qu-elle-est-le-principal-pilier-du-soutien-europeen-a-l-ukraine_6744160_3210.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/08/11/carlo-masala-specialiste-des-questions-de-securite-l-allemagne-est-visee-parce-qu-elle-est-le-principal-pilier-du-soutien-europeen-a-l-ukraine_6744160_3210.html</guid>
-    <pubDate>Tue, 11 Aug 2026 20:00:09 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Dans un entretien au « Monde », l’analyste militaire allemand estime que l’attentat manqué au drone explosif, dans la nuit du 4 au 5 août, à l’aéroport de Leipzig-Halle, marque un tournant dans la guerre hybride de la Russie contre l’Europe.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/08/11/834/922/5164/2582/644/322/60/0/c68c6e3_upload-1-pk7cloah5zvy-sipa-sipausa30545146-000012.jpg" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>
