@@ -1,14 +1,204 @@
 {
-  "generated_at": "2026-08-13T02:35:55.866348+00:00",
+  "generated_at": "2026-08-13T04:58:42.064504+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "\"L'eau va devenir plus chère que le vin\" : en Côte-d'Or, la sécheresse contraint Quincy-le-Vicomte à se ravitailler par camion citerne",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/reportage-l-eau-va-devenir-plus-chere-que-le-vin-en-cote-d-or-la-secheresse-contraint-quincy-le-vicomte-a-se-ravitailler-par-camion-citerne_8141777.html#xtor=RSS-3-[lestitres]",
+      "summary": "La source des Prâles ne fournit pas suffisamment d'eau depuis le début de l'été. Pour avoir de l'eau au robinet, la population doit compter sur des livraisons par la route, qui restent coûteuses malgré le volontariat d'habitants.",
+      "image": "https://www.franceinfo.fr/pictures/YKlDL9UkxNmvDyB5lzFDAwopss4/0x350:6720x4130/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c89527fee1681030191.jpg",
+      "published_at": "2026-08-13T06:51:45+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "b2020c5a6805"
+    },
+    {
+      "title": "Le préfet de police abaisse la vitesse de 20km/h jeudi en Île-de-France à cause de la pollution à l'ozone",
+      "url": "https://www.franceinfo.fr/environnement/pollution/pollution-de-l-air/le-prefet-de-police-abaisse-la-vitesse-de-20km-h-jeudi-en-ile-de-france-a-cause-de-la-pollution-a-l-ozone_8145587.html#xtor=RSS-3-[lestitres]",
+      "summary": "La qualité de l'air est mauvaise en raison des fortes chaleurs. Il est recommandé aux personnes sensibles d'éviter de sortir aux heures les plus chaudes.",
+      "image": "https://www.franceinfo.fr/pictures/TTvKNBDVdDCptCWc2pSqf11pKfo/0x101:1024x677/432x243/filters:format(jpg):quality(50)/2026/08/13/6a7d4b56cb4fb057631072.jpg",
+      "published_at": "2026-08-13T06:45:15+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "0ee7408b6be9"
+    },
+    {
+      "title": "La Chine veut traquer ses ultrariches qui vivent à l’étranger, pour mieux les taxer",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/13/la-chine-veut-traquer-ses-ultrariches-qui-vivent-a-l-etranger-pour-mieux-les-taxer_6745542_3234.html",
+      "summary": "Pour combler son déficit budgétaire, Pékin durcit la réglementation sur les trusts établis hors de Chine utilisés par les grandes fortunes chinoises pour échapper à l’impôt.",
+      "image": "https://img.lemde.fr/2026/08/12/305/0/6000/3000/644/322/60/0/86dfd41_upload-1-rzortkk457q9-063-2218513004.jpg",
+      "published_at": "2026-08-13T06:30:04+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "7d23dc1aaf93"
+    },
+    {
+      "title": "«Aust» d’Emilien Chesnot : forces de frictions poétiques",
+      "url": "https://www.liberation.fr/culture/livres/aust-demilien-chesnot-forces-de-frictions-poetiques-20260813_F57T4HLPHBB6LPJUR4W2JZMQ2I/",
+      "summary": "L’auteur se retourne sur une expérience, où il vit les mots se métamorphoser en mouches. Et met en relation ce délitement avec l’écriture d’actes d’état civil, son métier pendant un temps.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-13T04:20:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "e28206e09d82"
+    },
+    {
+      "title": "Championnats d'Europe de gym : on vous explique l'imbroglio autour des visas des gymnastes russes",
+      "url": "https://www.franceinfo.fr/sports/gymnastique/championnats-d-europe-de-gym-on-vous-explique-l-imbroglio-autour-des-visas-des-gymnastes-russes_8144615.html#xtor=RSS-3-[lestitres]",
+      "summary": "Privée un temps de visas pour entrer sur le sol croate, l'équipe russe de gymnastique devrait finalement pouvoir se rendre à Zagreb pour les championnats d'Europe de la discipline, qui débutent jeudi.",
+      "image": "https://www.franceinfo.fr/pictures/aLJkYyGX_Q96ydmUzijQPjWa_9w/0x39:1024x615/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c7b3bef69b272264920.jpg",
+      "published_at": "2026-08-13T06:15:02+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "776e2184abb9"
+    },
+    {
+      "title": "\"C'était quand même impressionnant !\" A La Corogne, une éclipse solaire un peu gâchée par les nuages pour des milliers de spectateurs",
+      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/reportage-c-etait-quand-meme-impressionnant-a-la-corogne-une-eclipse-solaire-un-peu-gachee-par-les-nuages-pour-des-milliers-de-spectateurs_8144789.html#xtor=RSS-3-[lestitres]",
+      "summary": "Environ 125 000 personnes se sont massées mercredi soir sur la plage de cette ville du nord-ouest de l'Espagne, selon la mairie. Le jour a laissé place à la nuit pendant une minute et 17 secondes, mais une couverture nuageuse a en partie caché le spectacle tant attendu.",
+      "image": "https://www.franceinfo.fr/pictures/sKA8-Ejg0LOABoIHuw2kE5vm-kg/0x350:6720x4130/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7cde8dd98a2111045828.jpg",
+      "published_at": "2026-08-13T06:11:31+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "de39e74d5321"
+    },
+    {
+      "title": "\"On est dans un système qu'il faut réviser\" : un sapeur-pompier explique pourquoi les soldats du feu sont appelés à la grève jeudi",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/on-est-dans-un-systeme-qu-il-faut-reviser-un-sapeur-pompier-explique-pourquoi-les-soldats-du-feu-sont-appeles-a-la-greve-jeudi_8144441.html#xtor=RSS-3-[lestitres]",
+      "summary": "Alors que neuf organisations syndicales appellent les pompiers à la grève jeudi, Ludovic Goblet, lieutenant au Service départemental d'incendie et de secours de la Somme, réclame davantage de moyens et une meilleure protection des soldats du feu.",
+      "image": "https://www.franceinfo.fr/pictures/egZYJsQfS8YidCBdWF7aJGLGd5I/0x524:5000x3337/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c8d2f0e8f1722480373.jpg",
+      "published_at": "2026-08-13T06:10:00+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "cba55523c1a6"
+    },
+    {
+      "title": "Elections au Royaume-Uni : dans la ville paupérisée de Clacton-on-Sea, «grâce à Nigel Farage, on parle de nous»",
+      "url": "https://www.liberation.fr/international/europe/elections-au-royaume-uni-dans-la-ville-pauperisee-de-clacton-on-sea-grace-a-nigel-farage-on-parle-de-nous-20260813_BMVIXW4T3FGK7I2CXQUJYVUSAY/",
+      "summary": "Le leader britannique d’extrême droite a provoqué un scrutin partiel en démissionnant de son mandat de député, avant de se représenter aussitôt. Dans la station balnéaire pauvre à la population vieillissante, devenue son fief, il espère être réélu en majesté ce jeudi.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-13T04:05:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "acffd30d253d"
+    },
+    {
+      "title": "Comment Fidel Castro est-il devenu le père de la révolution cubaine ? Comprendre en trois minutes",
+      "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/08/13/comment-fidel-castro-est-il-devenu-le-pere-de-la-revolution-cubaine-comprendre-en-trois-minutes_6745541_6176282.html",
+      "summary": "Né il y a cent ans, Fidel Casto échange sa robe d’avocat contre le treillis des guérilleros dans les années 1950 pour devenir le chef de l’une des plus importantes révolutions du XXᵉ siècle.",
+      "image": "https://img.lemde.fr/2026/08/05/547/0/4003/2001/644/322/60/0/f3d3ee9_upload-1-mjttm2nw1rhi-000-arp1573727.jpg",
+      "published_at": "2026-08-13T06:00:46+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "0c90d2b6695f"
+    },
+    {
+      "title": "Guerre en Ukraine : face à Moscou, les alliés de Kiev sont entrés dans une phase accrue d’incertitude",
+      "url": "https://www.lemonde.fr/international/article/2026/08/13/guerre-en-ukraine-face-a-moscou-les-allies-de-kiev-sont-entres-dans-une-phase-accrue-d-incertitude_6745505_3210.html",
+      "summary": "La Russie intensifie ses frappes en profondeur en Ukraine et poursuit sa guerre hybride contre l’Europe, au moment où le soutien des Etats-Unis s’essouffle. Washington alerte sur une possible agression russe pour tester les défenses occidentales.",
+      "image": "https://img.lemde.fr/2026/08/06/263/0/3606/1803/644/322/60/0/0e773dc_ftp-1-08kkhbtuhw0w-916fef3dcc314fb2ab5762574abd1828-0-f29b181d664049dc96b7d9b9df26dfa4.jpg",
+      "published_at": "2026-08-13T06:00:18+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "93f2d54c5a90"
+    },
+    {
+      "title": "« On essaie de bousculer les habitudes » : pour la présidentielle 2027, les formations de jeunesse des partis politiques comptent bien jouer leur carte",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/13/on-essaie-de-bousculer-les-habitudes-pour-la-presidentielle-2027-les-formations-de-jeunesse-des-partis-politiques-comptent-bien-jouer-leur-carte_6745504_823448.html",
+      "summary": "Sur le terrain tout l’été, les organisations de jeunes de LFI, d’Horizons, de LR ou du PS tentent d’exister dans la campagne présidentielle et sont particulièrement actives pour mobiliser les jeunes électeurs.",
+      "image": "https://img.lemde.fr/2026/08/05/264/0/6036/3018/644/322/60/0/38e83e6_upload-1-m0h9litlnuth-000-b4gz9nt.jpg",
+      "published_at": "2026-08-13T06:00:07+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "3a4e64dc39a8"
+    },
+    {
+      "title": "\"La peur dans tout ce qu'il y a de plus primaire\" : quand le blocage mental s'invite dans l'épreuve du saut à la perche",
+      "url": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/la-peur-dans-tout-ce-qu-il-y-a-de-plus-primaire-quand-le-blocage-mental-s-invite-dans-l-epreuve-du-saut-a-la-perche_8099705.html#xtor=RSS-3-[lestitres]",
+      "summary": "De nombreux perchistes traversent au cours de leur carrière une période où ils ne peuvent plus \"piquer\", et ne parviennent donc pas à sauter. Les origines de ce blocage sont diverses et laissent souvent impuissants les entraîneurs.",
+      "image": "https://www.franceinfo.fr/pictures/B04ckk3Q1SMo8NrB0suklsPP5JY/0x0:7002x3938/432x243/filters:format(jpg):quality(50)/2026/07/10/6a50c21daa168730672595.jpg",
+      "published_at": "2026-08-13T06:00:02+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "b068086fb4c8"
+    },
+    {
+      "title": "Quiz : des clips à portée de clic",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/quiz-des-clips-a-portee-de-clic-20260813_SHV7QWYBOFFQJHZU6XPX2H2A5Q/",
+      "summary": "(23/30) Le plus déjanté, le plus cher, le plus visionné… Envoyez les images !",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-13T04:00:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "3f9d932f8d0d"
+    },
+    {
+      "title": "Le recours à des outils d’IA pourrait doper l’extraction de pétrole dans le monde, augmentant encore les émissions de CO₂",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/13/le-recours-a-des-outils-d-ia-pourrait-doper-l-extraction-de-petrole-dans-le-monde-augmentant-encore-les-emissions-de-co_6745502_3234.html",
+      "summary": "Une étude publiée dans « Nature » souligne que l’intelligence artificielle va permettre de récupérer plusieurs milliards de barils dans les gisements existants, de diminuer les coûts de forage et d’exploiter des ressources autrefois jugées non rentables.",
+      "image": "https://img.lemde.fr/2026/08/12/202/0/5735/2867/644/322/60/0/6dee617_upload-1-t7eozyu1i2ws-2026-04-24t123126z-1593179579-rc2cskap0c4c-rtrmadp-3-global-oil-kazakhstan.JPG",
+      "published_at": "2026-08-13T05:59:23+02:00",
+      "source": "Le Monde",
+      "category": "Tech",
+      "id": "582f357179eb"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : selon Volodymyr Zelensky, Kiev a besoin d’au moins 5 % des missiles Patriot de Washington pour contrer les attaques balistiques russes",
+      "url": "https://www.lemonde.fr/international/live/2026/08/13/en-direct-guerre-en-ukraine-selon-volodymyr-zelensky-kiev-a-besoin-d-au-moins-5-des-missiles-patriot-de-washington-pour-contrer-les-attaques-balistiques-russes_6741928_3210.html",
+      "summary": "Avec un tel niveau d’achat de missiles intercepteurs, « nous passerons l’hiver et sauverons des vies », a déclaré, à CNN, le président ukrainien, précisant en recevoir actuellement 1 % seulement.",
+      "image": "https://img.lemde.fr/2026/08/04/562/0/6749/3374/644/322/60/0/ec5913b_ftp-1-ejhwgcagbotm-08d3d6a9f568413daa1d6264f5c4810f-0-d29b185e13e44722bc7206c56e8ca889.jpg",
+      "published_at": "2026-08-13T05:52:28+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "aca65a11dd53"
+    },
+    {
+      "title": "Royaume-Uni : aux élections de Clacton-on-Sea, «le comte à tête de poubelle» rejoue les agitateurs face à Farage",
+      "url": "https://www.liberation.fr/international/europe/royaume-uni-aux-elections-de-clacton-on-sea-le-comte-a-tete-de-poubelle-rejoue-les-agitateurs-face-a-farage-20260813_FDOPGZICNRBXPIT2OCOCHSEDQQ/",
+      "summary": "Malgré ses faibles chances de succès lors du scrutin législatif de ce jeudi 13 août, Count Binface, candidat satirique au look spatial, s’est imposé comme favori des anti-Farage, avec son programme ridiculisant l’extrême droite. Et s’inscrit dans une longue tradition britannique.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-13T03:34:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "29b626fbd382"
+    },
+    {
+      "title": "« J’étais au bord des larmes » : l’éclipse solaire, un bref moment de « communion » pour des millions de curieux, en Espagne et en France",
+      "url": "https://www.lemonde.fr/sciences/article/2026/08/13/j-etais-au-bord-des-larmes-l-eclipse-solaire-un-bref-moment-de-communion-pour-des-millions-de-curieux-en-espagne-et-en-france_6745468_1650684.html",
+      "summary": "L’événement, rarissime, a rassemblé des foules d’observateurs en Europe, en début de soirée, les yeux rivés vers le ciel, pour voir la Lune recouvrir progressivement le Soleil puis le masquer pendant un peu plus d’une minute.",
+      "image": "https://img.lemde.fr/2026/08/13/427/0/3392/1696/644/322/60/0/1f1d851_upload-1-xjjygkhtumaj-2026-08-12-eclipse-buitrago-de-lozoya-pablo-garcia-95.jpg",
+      "published_at": "2026-08-13T05:31:43+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "561bb9cca08e"
+    },
+    {
+      "title": "« C’était soit l’exil soit la prison » : rencontre avec Boris Nadejdine, l’opposant au Kremlin poursuivi à Moscou et réfugié à Paris depuis début août",
+      "url": "https://www.lemonde.fr/international/article/2026/08/13/c-etait-soit-l-exil-soit-la-prison-rencontre-avec-boris-nadejdine-l-opposant-au-kremlin-poursuivi-a-moscou-et-refugie-a-paris-depuis-debut-aout_6745435_3210.html",
+      "summary": "Le vétéran de la politique russe, âgé de 63 ans, a essayé de lutter contre le régime de Vladimir Poutine et sa guerre en Ukraine par les voies légales et électorales. En vain. Menacé d’arrestation, il s’est résolu à quitter la Russie. Il a accordé au « Monde » ses premiers mots depuis son arrivée en France.",
+      "image": "https://img.lemde.fr/2026/08/12/573/0/5664/2832/644/322/60/0/9d020a4_upload-1-dtevebg34ny6-000-c2ba6t3.jpg",
+      "published_at": "2026-08-13T05:30:02+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "29cc1c8c9bd2"
+    },
+    {
+      "title": "Au Venezuela, le pouvoir et l’opposition annoncent des points d’accord autour d’une réforme judiciaire",
+      "url": "https://www.lemonde.fr/international/article/2026/08/13/au-venezuela-le-pouvoir-et-l-opposition-annoncent-des-points-d-accord-autour-d-une-reforme-judiciaire_6745434_3210.html",
+      "summary": "A l’issue d’une semaine de pourparlers à Caracas, les deux parties ont aussi déclaré s’unir pour demander à récupérer des fonds gelés au Royaume-Uni en raison de sanctions contre le pays sous la présidence de Nicolas Maduro.",
+      "image": "https://img.lemde.fr/2026/08/13/267/0/5500/2750/644/322/60/0/a3c543c_ftp-1-ovdguwqzgygx-2026-08-13t014743z-109536550-rc2bxmahb1vv-rtrmadp-3-venezuela-politics.JPG",
+      "published_at": "2026-08-13T05:26:49+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "b354c73cfc48"
+    },
     {
       "title": "L’administration Trump annule un rapport de référence sur l’Arctique, une nouvelle atteinte à la science du climat aux Etats-Unis",
       "url": "https://www.lemonde.fr/planete/article/2026/08/13/l-administration-trump-annule-un-rapport-de-reference-sur-l-arctique-une-nouvelle-atteinte-a-la-science-du-climat-aux-etats-unis_6745334_3244.html",
       "summary": "Publié chaque année depuis 2006, ce document est très estimé par la communauté scientifique, qui subit l’offensive climatosceptique du gouvernement américain.",
       "image": "https://img.lemde.fr/2025/03/27/497/0/3886/1943/644/322/60/0/fa0f23f_ftp-import-images-1-hpeswh4z3mnx-5440089-01-06.jpg",
-      "published_at": "2026-08-13T04:00:17+02:00",
-      "source": "Le Monde Inter",
+      "published_at": "2026-08-13T04:00:14+02:00",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "b1efb08c7946"
     },
@@ -23,22 +213,12 @@
       "id": "66b5d1dda350"
     },
     {
-      "title": "A Montpellier, un adolescent mis en examen après la mort d’un mineur de 16 ans poignardé lors d’une rixe",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/13/a-montpellier-un-adolescent-mis-en-examen-apres-la-mort-d-un-mineur-de-16-ans-poignarde-lors-d-une-rixe_6745268_3224.html",
-      "summary": "L’auteur des coups de couteau, âgé de 17 ans, s’était rendu volontairement au commissariat, lundi 10 août, au lendemain de l’altercation.",
-      "image": "https://img.lemde.fr/2026/05/26/250/0/3000/1500/644/322/60/0/3333cf8_upload-1-4dyxyjockhaz-frame-1142.jpg",
-      "published_at": "2026-08-13T02:21:31+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "df1bd813f14a"
-    },
-    {
       "title": "Les côtes d’Oman touchées par une marée noire qui menace une réserve naturelle",
       "url": "https://www.lemonde.fr/international/article/2026/08/13/les-cotes-d-oman-touchees-par-une-maree-noire-qui-menace-une-reserve-naturelle_6745235_3210.html",
       "summary": "Les conditions météorologiques compliquent les opérations pour contenir une fuite de pétrole provoquée par l’échouement, en juin, d’un navire soupçonné de faire partie de la « flotte fantôme » russe.",
       "image": "https://img.lemde.fr/2026/08/10/0/0/4057/2028/644/322/60/0/8027d7d_ftp-1-cf18bj49ri3s-2026-08-10t144731z-294802801-rc2qvmadl5re-rtrmadp-3-mideast-gulf-shipping-spill.JPG",
       "published_at": "2026-08-13T01:45:58+02:00",
-      "source": "Le Monde",
+      "source": "Le Monde Inter",
       "category": "Politique",
       "id": "9241b84366d4"
     },
@@ -63,26 +243,6 @@
       "id": "9a5184ce0b30"
     },
     {
-      "title": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne va limiter la diffusion de données sur les frappes de missiles russes",
-      "url": "https://www.lemonde.fr/international/live/2026/08/13/en-direct-guerre-en-ukraine-l-armee-ukrainienne-va-limiter-la-diffusion-de-donnees-sur-les-frappes-de-missiles-russes_6741928_3210.html",
-      "summary": "Les restrictions portent sur « le nombre des cibles lancées, abattues, neutralisées ou n’ayant pas atteint leurs objectifs », a expliqué le commandement militaire au moment où la Russie intensifie ses attaques avec des armes que l’Ukraine a de plus en plus de mal à intercepter.",
-      "image": "https://img.lemde.fr/2026/08/04/562/0/6749/3374/644/322/60/0/ec5913b_ftp-1-ejhwgcagbotm-08d3d6a9f568413daa1d6264f5c4810f-0-d29b185e13e44722bc7206c56e8ca889.jpg",
-      "published_at": "2026-08-13T00:21:10+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "bfc226dd63fc"
-    },
-    {
-      "title": "\"C'est comme un serre-tête qui brille\" : face à l'éclipse, petits et grands ont eu des étoiles plein les yeux",
-      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/c-est-un-petit-croissant-de-soleil-partout-en-france-des-etoiles-plein-les-yeux-face-a-l-eclipse_8145305.html#xtor=RSS-3-[lestitres]",
-      "summary": "De Paris à Biarritz, les spectateurs ont tenté à leur manière de décrire ce phénomène rare en France. \"C'est marrant, parce qu'on a l'habitude de voir un petit croissant de Lune. Et là, c'est un petit croissant de soleil.\"",
-      "image": "https://www.franceinfo.fr/pictures/zHLYTHeGSS834t9SKw6DMxYTtbY/0x128:1432x934/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7cc8ed6e696879833060.png",
-      "published_at": "2026-08-13T00:16:15+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "dea2ec09bd4c"
-    },
-    {
       "title": "En difficulté, l'Ukraine restreint la diffusion de ses données sur les frappes de missiles russes",
       "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-difficulte-l-ukraine-restreint-la-diffusion-de-donnees-sur-les-frappes-de-missiles-russes_8145398.html#xtor=RSS-3-[lestitres]",
       "summary": "Confrontée à un manque d'intercepteurs Patriot, l'armée de l'air ukrainienne peine de plus en plus à bloquer les missiles balistiques tirés par la Russie.",
@@ -91,16 +251,6 @@
       "source": "France Info",
       "category": "International",
       "id": "4c5fa84c0e3b"
-    },
-    {
-      "title": "Météo-France place 80 départements en vigilance orange canicule pour la journée de jeudi",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/meteo-france-place-78-departements-en-vigilance-orange-canicule-pour-la-journee-de-mercredi-80-concernes-jeudi_8145137.html#xtor=RSS-3-[lestitres]",
-      "summary": "Jeudi, les maximales seront \"voisines de 38°C\" en Ile-de-France et comprises entre 38 et 40°C \"du Centre-Val de Loire à la Nouvelle-Aquitaine\".",
-      "image": "https://www.franceinfo.fr/pictures/6bLWPQro72DmfXU74ddw6K1ipxs/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c9b1a8d2da481593192.jpg",
-      "published_at": "2026-08-13T00:12:22+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "02acd0f16a8c"
     },
     {
       "title": "Photos, vidéos, témoignages... Revivez l'éclipse solaire à travers notre direct animé depuis la France et l'Espagne",
@@ -151,156 +301,6 @@
       "source": "France Info",
       "category": "Sport",
       "id": "0a3e08e897de"
-    },
-    {
-      "title": "Trois Français en finale et une quatrième médaille pour les Bleus : Just Kwaou-Mathey en argent sur le 110 mètres haies des championnats d'Europe",
-      "url": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/video-trois-francais-en-finale-et-une-quatrieme-medaille-pour-les-bleus-just-kwaou-mathey-en-argent-sur-le-110-metres-haies-des-championnats-d-europe_8145116.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Français a réalisé son meilleur chrono de la saison mais a été battu par le Suisse Jason Joseph, mercredi, à Birmingham.",
-      "image": "https://www.franceinfo.fr/pictures/pYU0ruDJvDZBDefqYeEUg8UQpKw/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7cdfccd6652465450699.jpg",
-      "published_at": "2026-08-12T23:09:05+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "ef2a68229d3e"
-    },
-    {
-      "title": "Revivez la soirée unique où l’éclipse solaire a émerveillé une grande partie de l’Europe",
-      "url": "https://www.liberation.fr/sciences/espace/en-direct-eclipse-solaire-du-12-aout-le-deroule-de-cette-journee-historique-heure-par-heure-20260812_2W7UZPF2JVDZHH3VMOKHJYHQLE/",
-      "summary": "Le phénomène qui a duré environ deux heures, ce 12 août, a plongé le nord de l’Espagne et l’Islande dans l’obscurité pendant deux minutes. En France, où l’éclipse a été partielle, le spectacle s’est achevé peu avant 21 h 30.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-12T20:49:05+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "0a5ea311f3d7"
-    },
-    {
-      "title": "Eclipse solaire : à Paris, des milliers de curieux rassemblés pour «une expérience rare»",
-      "url": "https://www.liberation.fr/sciences/espace/eclipse-solaire-a-paris-des-milliers-de-curieux-rassembles-pour-une-experience-rare-20260812_LVZ3YNNBIZCBLN3UFA6O4NTZBA/",
-      "summary": "Au parc André-Citroën, dans le XVe arrondissement, astronomes amateurs et passionnés ont applaudi, euphoriques, à l’éclipse partielle du Soleil, dont 92 % du disque a été masqué par la Lune.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-12T20:39:21+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "0549b68d2c68"
-    },
-    {
-      "title": "Eclipse solaire : les photos de ce rare spectacle qui a émerveillé des millions de personnes à travers le monde",
-      "url": "https://www.lemonde.fr/sciences/article/2026/08/12/eclipse-solaire-les-photos-de-ce-rare-spectacle-qui-a-emerveille-des-millions-de-personnes-a-travers-le-monde_6745101_1650684.html",
-      "summary": "Des millions d’Européens et de passionnés du monde entier ont contemplé le ciel avec émerveillement, lors d’une rare éclipse solaire totale ou partielle, qui a plongé très brièvement le nord de l’Espagne dans l’obscurité en plein jour.",
-      "image": "https://img.lemde.fr/2026/08/12/197/0/2340/1170/644/322/60/0/ba604cc_ftp-1-jygheyblem6g-2026-08-12t190526z-1632901635-rc26xmaxanb3-rtrmadp-3-solar-eclipse-spain.JPG",
-      "published_at": "2026-08-12T22:33:04+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "d5685733ee79"
-    },
-    {
-      "title": "La ville israélienne de Tel-Aviv baptise \"place des otages\" l'esplanade des manifestations organisées pour la libération des captifs à Gaza",
-      "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/la-ville-israelienne-de-tel-aviv-baptise-place-des-otages-l-esplanade-des-manifestations-organisees-pour-la-liberation-des-captifs-a-gaza_8145335.html#xtor=RSS-3-[lestitres]",
-      "summary": "Entre 2023 et 2025, des Israéliens s'y étaient rassemblés chaque samedi soir pour presser le gouvernement d'œuvrer à la libération des otages enlevés par le Hamas.",
-      "image": "https://www.franceinfo.fr/pictures/MWI4QQOx5B1K-fsYEQrqAcSCehk/0x0:1023x575/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7cd63c0c334875617482.jpg",
-      "published_at": "2026-08-12T22:28:03+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "bb0ad2723eb2"
-    },
-    {
-      "title": "Donald Trump annonce le départ de sa porte-parole Karoline Leavitt",
-      "url": "https://www.lemonde.fr/international/article/2026/08/12/donald-trump-annonce-le-depart-de-sa-porte-parole-karoline-leavitt_6745099_3210.html",
-      "summary": "Cette républicaine de 28 ans, plus jeune personne jamais nommée à ce poste très exposé, a piloté une stratégie de communication agressive, riche en attaques contre les médias traditionnels.",
-      "image": "https://img.lemde.fr/2026/08/12/76/0/3356/1678/644/322/60/0/55b3174_ftp-1-dnua6af9ozmr-2026-08-12t195549z-1216621119-rc2mwman0itd-rtrmadp-3-usa-trump.JPG",
-      "published_at": "2026-08-12T22:27:50+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "dd59a7fcc1db"
-    },
-    {
-      "title": "EN DIRECT, canicule : des températures qui ont dépassé 40 °C dans le Cher et la Vienne ; 80 départements en vigilance orange jeudi",
-      "url": "https://www.lemonde.fr/climat/live/2026/08/12/en-direct-canicule-des-temperatures-qui-ont-depasse-40-c-dans-le-cher-et-la-vienne-80-departements-en-vigilance-orange-jeudi_6744636_1652612.html",
-      "summary": "Les chaleurs caniculaires ont continué de gagner du terrain, s’étendant à quasiment toute la France, et le gouvernement estime que leur succession cet été pourrait coûter jusqu’à 15 milliards d’euros à la France.",
-      "image": "https://img.lemde.fr/2026/08/12/250/0/3000/1500/644/322/60/0/d06bb83_upload-1-ooqlbtfbboob-canicule-asurp-107947.jpg",
-      "published_at": "2026-08-12T22:26:44+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "c5ff7889c818"
-    },
-    {
-      "title": "De la France à l'Angleterre en passant par l'Espagne, retrouvez les plus belles photos de l'éclipse solaire observée en Europe",
-      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/en-images-de-la-france-au-groenland-en-passant-par-l-espagne-retrouvez-les-plus-belles-photos-de-l-eclipse-solaire-observee-en-europe_8144786.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'éclipse solaire, totale dans une partie de l'Espagne et partielle en France, a offert à des millions de personnes un spectacle à couper le souffle, mercredi soir.",
-      "image": "https://www.franceinfo.fr/pictures/88HfBTD80KMFoFboKfToqLQ0Dk8/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7cc4751d5cf211502001.jpg",
-      "published_at": "2026-08-12T22:20:47+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "a80e16b2c47e"
-    },
-    {
-      "title": "EN IMAGES - L’éclipse du 12 août à travers le monde : t’as d’beaux cieux, tu sais",
-      "url": "https://www.liberation.fr/sciences/espace/en-images-leclipse-du-12-aout-a-travers-le-monde-tas-dbeaux-cieux-tu-sais-20260812_PCCJAPMSWFC2NNQPQELWXJNLMU/",
-      "summary": "Pour la première fois depuis vingt-sept ans, la France a pu assister ce mercredi à une éclipse solaire quasi-totale. Le spectacle astronomique, entièrement visible en Espagne et en Islande, a été mitraillé sous tous ses angles.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-12T20:03:55+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "70ef0ad4a406"
-    },
-    {
-      "title": "Mort d’Olivier Echaudemaison, maquilleur de stars et ancien directeur créatif chez Guerlain",
-      "url": "https://www.liberation.fr/culture/mort-dolivier-echaudemaison-maquilleur-de-stars-et-ancien-directeur-creatif-chez-guerlain-20260812_ANWMRC7WOJG3LEIHJ5EBWHSERI/",
-      "summary": "Le spécialiste de la beauté est mort à l’âge de 84 ans, a annoncé mercredi 12 août, la marque de luxe qu’il avait rejointe en 2000.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-12T20:03:55+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "b1439f82bf9c"
-    },
-    {
-      "title": "«Certains sont en tongs» : malgré les risques, l’éruption de l’Etna en Sicile attire les touristes",
-      "url": "https://www.liberation.fr/international/europe/certains-sont-en-tongs-malgre-les-risques-leruption-de-letna-en-sicile-attire-les-touristes-20260812_SRJNAB2KPJH2TF3VQPAR2Z5V6Q/",
-      "summary": "Des milliers de curieux cherchent à se rapprocher des coulées de lave autour du plus haut volcan actif d’Europe. Les guides locaux alertent sur le danger de certaines pratiques.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-12T19:49:27+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "ab13c0db74a8"
-    },
-    {
-      "title": "L'éclipse solaire vue depuis Biarritz, avec un taux d'obscuration de 99,5 %",
-      "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/l-eclipse-solaire-vue-depuis-biarritz-avec-un-taux-d-obscuration-de-99-5_8145323.html#xtor=RSS-3-[lestitres]",
-      "summary": "La Lune rencontre le Soleil mercredi 12 août à Biarritz. Au Pays basque, l'éclipse solaire est visible à près de 99,5%. Revivez ce moment avec nous.",
-      "image": "https://www.franceinfo.fr/pictures/za6BeOMS19GYqjTUbrE6ycR1bAc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/12/6a7ccc73ac90c671573720.png",
-      "published_at": "2026-08-12T21:41:57+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "aaf8e37acaeb"
-    },
-    {
-      "title": "Grève au Samusocial de Paris : la préfecture demande l’évacuation du parvis après cinquante jours de conflit",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/12/greve-au-samusocial-de-paris-la-prefecture-demande-l-evacuation-du-parvis-apres-cinquante-jours-de-conflit_6745096_3224.html",
-      "summary": "De nombreuses familles sans domicile occupent les lieux. Elles ont rejoint les salariés en grève, qui alertent sur le manque de moyens dévolus à l’hébergement d’urgence.",
-      "image": "https://img.lemde.fr/2026/08/12/750/0/4000/2000/644/322/60/0/daa642e_upload-1-4uthezdjpghw-raf-paris-samusocial-009.JPG",
-      "published_at": "2026-08-12T21:30:46+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "29f85ab5f8be"
-    },
-    {
-      "title": "Discord : le Brésil ordonne la suspension des directs sur la plateforme après le suicide d’une adolescente",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/12/discord-le-bresil-ordonne-la-suspension-des-directs-sur-la-plateforme-apres-le-suicide-d-une-adolescente_6745095_4408996.html",
-      "summary": "Le commissaire Alessandro Barreto, coordinateur du service de lutte contre les crimes cybernétiques au ministère de la justice, a dénoncé de « terribles failles de modération » de la plateforme dans la transmission qui a duré environ 45 minutes.",
-      "image": "https://img.lemde.fr/2026/08/12/879/0/8256/4128/644/322/60/0/ab7a5ad_ftp-1-pk1cak4cilnx-5822392-01-06.jpg",
-      "published_at": "2026-08-12T21:18:23+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "2cd1cb278404"
-    },
-    {
-      "title": "Eurovision : les pays en guerre ne pourront plus accueillir le concours à l’avenir",
-      "url": "https://www.liberation.fr/culture/eurovision-les-pays-en-guerre-ne-pourront-plus-accueillir-le-concours-a-lavenir-20260812_P67TM3PTXRAQLJOFUIZ2MOBNWQ/",
-      "summary": "«Le diffuseur lauréat sera automatiquement inéligible pour accueillir le concours si un conflit armé, une situation géopolitique sensible ou toute autre situation» affecte la sécurité de son territoire, ont annoncé les organisateurs ce mercredi 12 août. Tous les artistes devront aussi être désormais âgés d’au moins 18 ans.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-12T19:16:47+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "dc4fa0c58ee6"
     }
   ]
 }
