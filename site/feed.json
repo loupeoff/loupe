@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-08-13T22:53:09.352515+00:00",
+  "generated_at": "2026-08-13T23:50:51.175482+00:00",
   "article_count": 30,
   "articles": [
     {
+      "title": "Donald Trump impose 100 % de droits de douane sur certains drones pour contrer les importations chinoises",
+      "url": "https://www.lemonde.fr/international/article/2026/08/14/donald-trump-impose-100-de-droits-de-douane-sur-certains-drones-pour-contrer-les-importations-chinoises_6745906_3210.html",
+      "summary": "Selon la Maison Blanche, le but est d’« encourager la production » de drones aux Etats-Unis, de « réduire la dépendance » à des fournisseurs étrangers et de protéger la sécurité nationale du pays.",
+      "image": "https://img.lemde.fr/2026/08/13/1000/0/6048/3024/644/322/60/0/7edd85f_ftp-1-ckutmkittuaj-5833709-01-06.jpg",
+      "published_at": "2026-08-14T01:12:59+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "113606de15d1"
+    },
+    {
       "title": "Les Emirats arabes unis accusent l’Iran d’avoir attaqué deux navires dans le détroit d’Ormuz",
       "url": "https://www.lemonde.fr/international/article/2026/08/14/les-emirats-arabes-unis-accusent-l-iran-d-avoir-attaque-deux-navires-dans-le-detroit-d-ormuz_6745873_3210.html",
-      "summary": "Abou Dhabi a dénoncé des « actes de piraterie » commis par les Gardiens de la révolution iraniens, après cette attaque qui aurait eu lieu jeudi 13 août au soir, selon l’agence de presse officielle ​WAM.",
+      "summary": "Abou Dhabi a dénoncé des « actes de piraterie » commis par les gardiens de la révolution iraniens, après cette attaque qui aurait eu lieu jeudi 13 août au soir, selon l’agence de presse officielle ​WAM.",
       "image": "https://img.lemde.fr/2026/08/10/417/0/6000/3000/644/322/60/0/3b6580e_ftp-1-llr7xpxw5b06-5808360-01-06.jpg",
-      "published_at": "2026-08-14T00:49:13+02:00",
-      "source": "Le Monde Inter",
+      "published_at": "2026-08-14T00:49:12+02:00",
+      "source": "Le Monde",
       "category": "Sport",
       "id": "4dc8df565c85"
     },
@@ -33,11 +43,11 @@
       "id": "398300b40bf1"
     },
     {
-      "title": "EN DIRECT, guerre en Ukraine : une frappe russe fait deux blessés dans la région de Zaporijia, selon l’administration militaire locale",
+      "title": "EN DIRECT, guerre en Ukraine : une frappe russe fait un mort et une quinzaine de blessés à Kramatorsk, dans le Donbass",
       "url": "https://www.lemonde.fr/international/live/2026/08/13/en-direct-guerre-en-ukraine-une-frappe-russe-fait-deux-blesses-dans-la-region-de-zaporijia-selon-l-administration-militaire-locale_6741928_3210.html",
-      "summary": "Le chef de l’administration militaire de l’oblast, Ivan Fedorov, avait alerté sur des « menaces d’attaque de drones » dans la région, avant d’annoncer qu’« une femme de 25 ans et un enfant de 5 ans » avaient été blessés, au cours d’une offensive russe.",
+      "summary": "Le chef de l’administration militaire de l’oblast de Donetsk, Vadym Filachkine, a appelé les habitants locaux à « évacuer vers des régions d’Ukraine plus sûres » Par ailleurs, une femme de 25 ans et un enfant de 5 ans ont été blessés à la suite d’une frappe russe dans l’oblast de Zaporijia.",
       "image": "https://img.lemde.fr/2026/08/11/1000/0/5516/2758/644/322/60/0/5f34f17_ftp-1-r4myj9qqzjmo-2026-08-11t065124z-213040052-rc26wmaqsb06-rtrmadp-3-ukraine-crisis-attack-zaporizhzhia.JPG",
-      "published_at": "2026-08-13T23:48:37+02:00",
+      "published_at": "2026-08-13T23:48:35+02:00",
       "source": "Le Monde",
       "category": "International",
       "id": "110fecdb7955"
@@ -291,16 +301,6 @@
       "source": "France Info",
       "category": "Société",
       "id": "f443127c22b2"
-    },
-    {
-      "title": "Grèce : un nouvel incendie près de Thessalonique, des touristes évacués",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/13/grece-un-nouvel-incendie-pres-de-thessalonique-des-touristes-evacues_6745832_3244.html",
-      "summary": "Le feu, qui a commencé jeudi après-midi, se situe dans une zone boisée située à environ 90 kilomètres au sud de Thessalonique, deuxième ville de Grèce.",
-      "image": "https://img.lemde.fr/2026/08/13/564/0/4528/2264/644/322/60/0/db22120_ftp-1-cmpfvovf9kg2-2026-08-13t164130z-398985540-rc2rxmagi4v1-rtrmadp-3-europe-weather-greece-wildfire.JPG",
-      "published_at": "2026-08-13T19:48:46+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "39958174048e"
     }
   ]
 }
