@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-08-14T22:31:23.865949+00:00",
+  "generated_at": "2026-08-14T23:28:47.497431+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Au Soudan, une attaque des paramilitaires des FSR fait au moins 14 morts parmi les civils au Kordofan du Nord",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/15/au-soudan-une-attaque-des-paramilitaires-des-fsr-fait-au-moins-quatorze-morts-parmi-les-civils-au-kordofan-du-nord_6746295_3212.html",
+      "summary": "Des dizaines d’autres personnes ont été blessées lors de cet assaut mené par les rebelles à Umm Arda, à environ 200 kilomètres au sud de la capitale, Khartoum. Plusieurs villes soudanaises sont le théâtre d’attaques de plus en plus intenses menées par les FSR.",
+      "image": "https://img.lemde.fr/2026/07/27/0/0/4300/2150/644/322/60/0/7e0753e_ftp-1-rfunp9vhwm6r-5716525-01-06.jpg",
+      "published_at": "2026-08-15T00:37:07+02:00",
+      "source": "Le Monde Inter",
+      "category": "Culture",
+      "id": "2df71478c37f"
+    },
     {
       "title": "Un décès \"toutes les 30 minutes\" : l'ONU appelle le monde à \"se réveiller\" face à l'épidémie d'Ebola en République démocratique du Congo",
       "url": "https://www.franceinfo.fr/sante/maladie/ebola/un-deces-toutes-les-30-minutes-l-onu-appelle-le-monde-a-se-reveiller-face-a-l-epidemie-d-ebola-en-republique-democratique-du-congo_8148134.html#xtor=RSS-3-[lestitres]",
@@ -291,16 +301,6 @@
       "source": "Libération",
       "category": "Société",
       "id": "22614208f03a"
-    },
-    {
-      "title": "Interdiction des réseaux sociaux aux moins de 15 ans : le Conseil constitutionnel inflige un camouflet à l’exécutif",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/14/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-le-conseil-constitutionnel-inflige-un-camouflet-a-l-executif_6746287_4408996.html",
-      "summary": "Le Conseil constitutionnel a jugé qu’en s’appliquant à tous les réseaux sociaux et à tous les mineurs sans distinction, la loi enfreignait la liberté d’expression. Emmanuel Macron a chargé son gouvernement d’aboutir à un nouveau texte avant la fin de son mandat.",
-      "image": "https://img.lemde.fr/2026/08/14/602/0/7219/3609/644/322/60/0/cca81c9_ftp-1-iglwmliu81o9-5838135-01-06.jpg",
-      "published_at": "2026-08-14T19:05:55+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "04de901d444c"
     }
   ]
 }
