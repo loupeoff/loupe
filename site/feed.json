@@ -1,13 +1,123 @@
 {
-  "generated_at": "2026-08-14T17:00:42.497751+00:00",
+  "generated_at": "2026-08-14T17:57:18.665362+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "L’ICE, la police de l’immigration américaine, équipe ses agents de gants électriques, suscitant des inquiétudes sur de possibles abus",
+      "url": "https://www.lemonde.fr/international/article/2026/08/14/l-ice-la-police-de-l-immigration-americaine-equipe-ses-agents-de-gants-electriques-suscitant-des-inquietudes-sur-de-possibles-abus_6746289_3210.html",
+      "summary": "L’ICE, cette force de police fédérale chargée par le gouvernement de Donald Trump de mettre en place sa politique d’expulsion massive de sans-papiers, est devenue le symbole des dérives de cette politique vue comme particulièrement brutale.",
+      "image": "https://img.lemde.fr/2026/08/13/99/0/3000/1500/644/322/60/0/bbc8e90_ftp-1-0yscv7rapz5u-f0922b898c154942b05625c21403b569-0-6babd9d7d01b48908b877c7d79b6656e.jpg",
+      "published_at": "2026-08-14T19:44:38+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "0a10ccc2c702"
+    },
+    {
+      "title": "Equipe de France : Zidane présente son staff pour les Bleus, mais ne coache pas la case féminisation",
+      "url": "https://www.liberation.fr/sports/football/equipe-de-france-zidane-presente-son-staff-pour-les-bleus-mais-ne-coache-pas-la-case-feminisation-20260814_KIX2DLWSNRB7JML5ZOCKZY72VI/",
+      "summary": "La Fédération française de football a présenté jeudi 13 août l’encadrement qui épaulera le nouveau sélectionneur. 22 hommes, aucune femme. Pas nouveau, et malheureusement répandu un peu partout dans le foot professionnel.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-14T17:38:46+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "b909210540ab"
+    },
+    {
+      "title": "L'incendie dans les Landes est \"contenu\", le préfet évoque une évolution \"favorable\" avec une baisse d'intensité des flammes",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-canicule-l-incendie-dans-les-landes-departement-en-vigilance-orange-a-deja-parcouru-600-hectares_8146991.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les 550 pompiers mobilisés pour lutter contre le feu de forêt à Luglon ont réussi à le \"contenir\", vendredi, \"sans complètement l'enrayer\", a rapporté Gilles Clavreul.",
+      "image": "https://www.franceinfo.fr/pictures/frPdRsMlxemYqMhGjnNz7X07e1g/0x56:1024x632/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f51cc8eaa9686271381.jpg",
+      "published_at": "2026-08-14T19:36:33+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "bc9fcafa92c1"
+    },
+    {
+      "title": "Luigi Mangione admet avoir tiré sur le PDG d’UnitedHealthcare et plaide coupable de harcèlement criminel",
+      "url": "https://www.lemonde.fr/international/article/2026/08/14/luigi-mangione-admet-avoir-tire-sur-le-pdg-d-unitedhealthcare-et-plaide-coupable-de-harcelement-criminel_6746288_3210.html",
+      "summary": "« J’ai tiré sur M. Thompson, et il est mort », a déclaré le jeune homme devant le tribunal fédéral, ajoutant qu’il savait que ce qu’il faisait était illégal.",
+      "image": "https://img.lemde.fr/2026/08/11/637/0/7776/3888/644/322/60/0/52b86e6_ftp-1-l380olth0kmx-94347bab0f0145cd865a8a6634535096-0-51b8050aabac4b31b03ca30cc774ae2b.jpg",
+      "published_at": "2026-08-14T19:23:18+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "03639d085093"
+    },
+    {
+      "title": "Le nombre de tués sur les routes en France métropolitaine en juillet a baissé de 7% par rapport à il y a un an",
+      "url": "https://www.franceinfo.fr/societe/securite-routiere/le-nombre-de-tues-sur-les-routes-a-baisse-de-7-en-france-metropolitaine-par-rapport-a-juillet-2025_8147888.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette évolution s'inscrit toutefois dans une tendance moins rassurante en matière de sécurité routière, avec une mortalité à la hausse de 3% sur l'ensemble de l'année écoulée.",
+      "image": "https://www.franceinfo.fr/pictures/NAyXNoosU8BY08_4wJ5Au7S_7lw/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f4c2b3b1db413694614.jpg",
+      "published_at": "2026-08-14T19:22:23+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "a4b45035df64"
+    },
+    {
+      "title": "EN DIRECT - Incendie dans les Landes : le feu «progresse un peu» mais «son intensité diminue légèrement»",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-les-landes-de-nouveau-en-proie-aux-flammes-20260814_LO6VM7R3LZCODFVHQYYDVBI3HI/",
+      "summary": "Un feu, déclaré jeudi à une centaine de kilomètres du mégafeu qui a parcouru en juillet plus de 40 000 hectares en Gironde, a parcouru plus de 1 000 hectares, et mobilise les pompiers ce vendredi.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-14T17:21:23+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "fa665afcc5f1"
+    },
+    {
+      "title": "Mort du cycliste britannique Finlay Tarling, percuté par une voiture lors du Tour du Portugal",
+      "url": "https://www.liberation.fr/sports/cyclisme/mort-du-cycliste-britannique-finlay-tarling-percute-par-une-voiture-lors-du-tour-du-portugal-20260814_CTCXQEF6RFFEJOJS5BAECMKP4I/",
+      "summary": "Le coureur de l’équipe NSN Development Team a été tué ce vendredi 14 août par un véhicule qui circulait semble-t-il en sens inverse sur le parcours de la huitième étape.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-14T17:16:31+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "22614208f03a"
+    },
+    {
+      "title": "Interdiction des réseaux sociaux aux moins de 15 ans : le Conseil constitutionnel inflige un camouflet à l’exécutif",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/14/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-le-conseil-constitutionnel-inflige-un-camouflet-a-l-executif_6746287_4408996.html",
+      "summary": "Le Conseil constitutionnel a jugé qu’en s’appliquant à tous les réseaux sociaux et à tous les mineurs sans distinction, la loi enfreignait la liberté d’expression. Emmanuel Macron a chargé son gouvernement d’aboutir à un nouveau texte avant la fin de son mandat.",
+      "image": "https://img.lemde.fr/2026/08/14/602/0/7219/3609/644/322/60/0/cca81c9_ftp-1-iglwmliu81o9-5838135-01-06.jpg",
+      "published_at": "2026-08-14T19:05:55+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "04de901d444c"
+    },
+    {
+      "title": "Ce mini-dispositif à 100 dollars pourrait permettre de pirater un Boeing 737",
+      "url": "https://www.numerama.com/cyberguerre/2311893-ce-mini-dispositif-a-100-dollars-pourrait-permettre-de-pirater-un-boeing-737.html",
+      "summary": "Une équipe de l’Université de Californie à San Diego et de l’Oberlin College, dans l’Ohio, a conçu un implant capable de manipuler certains systèmes d’un Boeing 737, révèle une enquête de WIRED. Minuscule et peu coûteux, le dispositif nécessite néanmoins un accès physique à l’avion et une expertise considérable.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-14T17:01:00+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "ff89fb72a826"
+    },
+    {
+      "title": "Le jeune coureur britannique Finlay Tarling tué dans un accident, lors d'une étape du Tour du Portugal",
+      "url": "https://www.franceinfo.fr/sports/cyclisme/le-jeune-coureur-britannique-finlay-tarling-tue-dans-un-accident-lors-d-une-etape-du-tour-du-portugal_8147903.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le coureur de 19 ans a succombé à ses blessures après avoir été percuté par une voiture en pleine étape, vendredi.",
+      "image": "https://www.franceinfo.fr/pictures/gwqCtLra2-uDCAloKIebO-VffDE/0x0:4887x2748/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f4880d5f26169260529.jpg",
+      "published_at": "2026-08-14T18:58:52+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "5a2cd87c5753"
+    },
+    {
+      "title": "Incendie dans les Landes, baisse attendue des températures, décisions du Conseil constitutionnel… L’actu de ce vendredi 14 août",
+      "url": "https://www.liberation.fr/international/europe/incendie-dans-les-landes-baisse-attendue-des-temperatures-decisions-du-conseil-constitutionnel-lactu-de-ce-vendredi-14-aout-20260814_VS72IQG7QFBANBLMB4NJBTI3HE/",
+      "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée du vendredi 14 août.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-14T16:58:10+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "93de0f7ca56f"
+    },
     {
       "title": "EN DIRECT, guerre en Ukraine : Kiev promet à Moscou un hiver « chaud » en réponse aux menaces du ministère de la défense russe de « geler » le pays",
       "url": "https://www.lemonde.fr/international/live/2026/08/14/en-direct-guerre-en-ukraine-kiev-promet-a-moscou-un-hiver-chaud-en-reponse-aux-menaces-du-ministere-de-la-defense-russe-de-geler-le-pays_6741928_3210.html",
       "summary": "Ces échanges de menaces interviennent alors que l’Ukraine se prépare à une nouvelle campagne hivernale contre ses infrastructures énergétiques. Le président ukrainien a récemment affirmé que Kiev avait besoin de 5 % des missiles intercepteurs Patriot américains pour « survivre à l’hiver », et de 10 % pour pouvoir intercepter tous les missiles balistiques russes.",
       "image": "https://img.lemde.fr/2026/08/14/581/0/7000/3500/644/322/60/0/a56a09e_ftp-1-ikugxtnal9kz-af8bb6646b3e4cf985c20beca8cec64e-1-c7ba6459c00a4970af81c3ce24080779.jpg",
-      "published_at": "2026-08-14T18:55:04+02:00",
+      "published_at": "2026-08-14T18:55:00+02:00",
       "source": "Le Monde",
       "category": "International",
       "id": "fab260cb766e"
@@ -15,7 +125,7 @@
     {
       "title": "«Un massacre sans précédent» : la LPO demande le report de l’ouverture de la chasse aux oiseaux d’eau en raison de la sécheresse",
       "url": "https://www.liberation.fr/environnement/animaux/un-massacre-sans-precedent-la-lpo-demande-le-report-de-louverture-de-la-chasse-aux-oiseaux-deau-en-raison-de-la-secheresse-20260814_PBPLKOK7ZNCDLJWJW4TJ7FDCSU/",
-      "summary": "L’association veut la faire décaler 20 septembre, selon un communiqué publié ce vendredi. Les zones humides étant asséchées, les espèces chassables sont aujourd’hui concentrées sur des «surfaces réduites», se justifie-t-elle.",
+      "summary": "L’association veut la faire décaler au 20 septembre, selon un communiqué publié ce vendredi. Les zones humides étant asséchées, les espèces chassables sont aujourd’hui concentrées sur des «surfaces réduites», se justifie-t-elle.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
       "published_at": "2026-08-14T16:43:32+00:00",
       "source": "Libération",
@@ -31,16 +141,6 @@
       "source": "France Info",
       "category": "Société",
       "id": "584a8dbc0d7b"
-    },
-    {
-      "title": "EN DIRECT - Incendie dans les Landes : le vent s’est levé, la situation redevient «défavorable»",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-les-landes-de-nouveau-en-proie-aux-flammes-20260814_LO6VM7R3LZCODFVHQYYDVBI3HI/",
-      "summary": "Un feu, déclaré jeudi à une centaine de kilomètres du mégafeu qui a parcouru en juillet plus de 40 000 hectares en Gironde, a parcouru plus de 1 000 hectares, et mobilise les pompiers ce vendredi.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-14T16:36:27+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "fa665afcc5f1"
     },
     {
       "title": "Au Soudan du Sud, plus de 650 000 réfugiés menacés de perdre l’aide de l’ONU",
@@ -61,6 +161,16 @@
       "source": "Libération",
       "category": "Politique",
       "id": "50c73b116a2d"
+    },
+    {
+      "title": "À Rome, les touristes échappent à la chaleur en visitant le Colisée la nuit",
+      "url": "https://www.franceinfo.fr/culture/patrimoine/a-rome-les-touristes-echappent-a-la-chaleur-en-visitant-le-colisee-la-nuit_8147738.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'amphithéâtre romain a augmenté cet été le nombre d'ouvertures nocturnes. Mais le dispositif ne peut accueillir qu'un nombre limité de visiteurs.",
+      "image": "https://www.franceinfo.fr/pictures/WuV4yh2sZzyF79Dl4NrGssFgrdU/0x504:5903x3824/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f3e94e1c45526704803.jpg",
+      "published_at": "2026-08-14T18:18:13+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "491942664cd4"
     },
     {
       "title": "A Qusra, en Cisjordanie, deux familles palestiniennes sont toujours assiégées par des colons israéliens",
@@ -108,7 +218,7 @@
       "summary": "A Tétouan, les familles se désespèrent après la mort de nombreux hommes qui ont tenté le passage à la nage jusqu’à l’enclave espagnole, fin juillet. Au total, plus de 140 d’entre eux auraient perdu la vie, selon une ONG marocaine. Malgré ces drames, beaucoup rêvent encore de gagner clandestinement l’Europe.",
       "image": "https://img.lemde.fr/2026/08/05/364/0/4366/2183/644/322/60/0/dd4f4ba_ftp-1-stv0woe2nkih-2026-08-05t163836z-1559967197-rc29smar93t8-rtrmadp-3-migration-europe-spain-ceuta.JPG",
       "published_at": "2026-08-14T18:00:08+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Économie",
       "id": "2c3bb6377c4e"
     },
@@ -191,116 +301,6 @@
       "source": "Le Monde Inter",
       "category": "Tech",
       "id": "22c2ba61ecad"
-    },
-    {
-      "title": "« Studio 54. Un lieu de liberté et d’excès », sur Arte.tv : splendeurs et misères des nuits new-yorkaises",
-      "url": "https://www.lemonde.fr/culture/article/2026/08/14/studio-54-un-lieu-de-liberte-et-d-exces-sur-arte-tv-splendeurs-et-miseres-des-nuits-new-yorkaises_6746276_3246.html",
-      "summary": "Matt Tyrnauer retrace l’histoire de la discothèque la plus célèbre de Manhattan dans les années 1970 où se pressaient les stars d’alors, d’Andy Warhol à Liza Minnelli.",
-      "image": "https://img.lemde.fr/2026/08/11/99/0/1280/640/644/322/60/0/a183ec6_upload-1-zxilowu0vvcq-s545.jpg",
-      "published_at": "2026-08-14T17:30:09+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "6569ee840b62"
-    },
-    {
-      "title": "Donald Trump porte comme prévu l’affaire de sa salle de bal devant la Cour suprême",
-      "url": "https://www.lemonde.fr/international/article/2026/08/14/donald-trump-porte-comme-prevu-l-affaire-de-sa-salle-de-bal-devant-la-cour-supreme_6746275_3210.html",
-      "summary": "L’administration Trump a demandé vendredi à la Cour suprême américaine d’autoriser la reprise des travaux de la nouvelle salle de bal de la Maison Blanche, suspendus par une cour d’appel fédérale qui estime que le président aurait dû obtenir l’aval du Congrès.",
-      "image": "https://img.lemde.fr/2026/08/14/137/0/5221/2610/644/322/60/0/fb81bab_upload-1-6fnz2koleihi-063-2289313258.jpg",
-      "published_at": "2026-08-14T17:28:05+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "eb0930a06a01"
-    },
-    {
-      "title": "Au Tchad, l’opposant Succès Masra gracié mais pas amnistié",
-      "url": "https://www.liberation.fr/international/afrique/au-tchad-lopposant-succes-masra-gracie-mais-pas-amnistie-par-mahamat-idriss-deby-20260814_ZPJA7SHUPRHWJB5IGLMBVWPQG4/",
-      "summary": "Le principal adversaire politique du président Déby avait été condamné à vingt ans de prison, il y a tout juste un an, au terme d’un procès bâclé. Il devrait sortir de prison, mais son casier judiciaire n’est pas effacé, le rendant toujours inéligible.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-14T15:27:23+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "15b39f89488e"
-    },
-    {
-      "title": "Au Brésil, des œuvres d'Henri Matisse retrouvées neuf mois après leur vol à Sao Paulo",
-      "url": "https://www.franceinfo.fr/culture/arts-expos/peinture/au-bresil-des-uvres-d-henri-matisse-retrouvees-neuf-mois-apres-leur-vol-a-sao-paulo_8147585.html#xtor=RSS-3-[lestitres]",
-      "summary": "La police brésilienne a récupéré huit des treize illustrations du célèbre album \"Jazz\". Dérobées dans une bibliothèque, elles sont estimées à près de 173 000 euros.",
-      "image": "https://www.franceinfo.fr/pictures/sgxoj2guNQi4bxtmNjlWAso3kqc/0x97:1350x856/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f18adc9858443346074.jpg",
-      "published_at": "2026-08-14T17:25:49+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "cc24090cad31"
-    },
-    {
-      "title": "Incendies : les feux dans le Pas-de-Calais \"sont désormais fixés et le périmètre sécurisé\", annonce la préfecture",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-canicule-l-incendie-dans-les-landes-departement-en-vigilance-orange-a-deja-parcouru-600-hectares_8146991.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les flammes ont parcouru 190 hectares et ont détruit une maison, précise la préfecture.",
-      "image": "https://www.franceinfo.fr/pictures/m10EQjSVIZLqXR_zPmnk9ZIDph0/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f2ffa5319e880762978.jpg",
-      "published_at": "2026-08-14T17:25:02+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "bc9fcafa92c1"
-    },
-    {
-      "title": "En Italie, trois tableaux d’Auguste Renoir, Paul Cézanne et Henri Matisse ont été retrouvés après cinq mois d’enquête",
-      "url": "https://www.lemonde.fr/culture/article/2026/08/14/en-italie-les-trois-tableaux-d-auguste-renoir-paul-cezanne-et-henri-matisse-ont-ete-retrouves_6746273_3246.html",
-      "summary": "Les œuvres, dérobées en moins d’une minute à la Fondation Magnani-Rocca, dans la région de Parme, ont été retrouvées par les carabiniers.",
-      "image": "https://img.lemde.fr/2026/08/14/564/0/2868/1434/644/322/60/0/12d465f_ftp-1-mbirpjjw08nd-2026-08-14t113628z-1477240960-rc2bymavd0e4-rtrmadp-3-italy-art-theft.JPG",
-      "published_at": "2026-08-14T17:22:49+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "1611408fdbad"
-    },
-    {
-      "title": "Jordan Bardella, l’écrivain qui valait un million",
-      "url": "https://www.liberation.fr/checknews/jordan-bardella-lecrivain-qui-valait-un-million-20260814_BOPMQNXNFJHIPBA423SGFASFNI/",
-      "summary": "La dernière déclaration d’intérêts du président du Rassemblement national, déposée en juin, révèle qu’il a touché plus d’un million d’euros, en droits d’auteur, depuis la sortie de son premier livre.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-14T15:14:59+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "415f85279c8f"
-    },
-    {
-      "title": "Pénuries d’essence dans l’Est, le Rhin et la sécheresse en cause",
-      "url": "https://www.liberation.fr/economie/conso/penuries-dessence-dans-lest-le-rhin-et-la-secheresse-en-cause-20260814_XLYHIOCOVBEEXBT2Z2XZVALB5M/",
-      "summary": "Dans le Rhin, le manque d’eau empêche les navires d’atteindre le port de Strasbourg, ce qui conduit à de grosses pénuries d’essence dans de nombreuses stations.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-14T15:11:59+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "b1cd0dcda36f"
-    },
-    {
-      "title": "La canicule n’est pas terminée, mais ce climatiseur tombe déjà en promotion sous les 280 €",
-      "url": "https://www.numerama.com/tech/2312063-la-canicule-nest-pas-terminee-mais-ce-climatiseur-tombe-deja-en-promotion-sous-les-280-e.html",
-      "summary": "[Deal du jour] L'été 2026 enchaîne les vagues de chaleur record, et les stocks de climatiseurs fondent aussi vite que les températures grimpent. Le Humhold 9000 BTU, un climatiseur mobile 3-en-1, passe de 399,90 € à 279,90 € sur Joybuy, soit 120 € de remise.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-14T15:07:59+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "25610f1ad9c9"
-    },
-    {
-      "title": "«Foutre au feu» la dette, un projet de «banqueroute totale» du pays : Mélenchon et Attal poursuivent leur feuilleton estival",
-      "url": "https://www.liberation.fr/politique/foutre-au-feu-la-dette-un-projet-de-banqueroute-totale-du-pays-melenchon-et-attal-poursuivent-leur-feuilleton-estival-20260814_IOA5EOZMB5A6BA6DQ2XIIAK2IA/",
-      "summary": "Alors qu’un extrait d’une conférence de presse en juin où il proposait de supprimer une partie de la dette française a refait surface, le candidat insoumis dénonce une «campagne mensongère de l’extrême droite sur les réseaux sociaux». L’ex-Premier ministre n’a pas attendu pour réagir.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-14T15:02:35+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "e48963003dbe"
-    },
-    {
-      "title": "L’éducation de la société civile, une arme contre la désinformation qui sévit en Europe",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/14/l-education-de-la-societe-civile-une-arme-contre-la-desinformation-qui-sevit-en-europe_6746271_3451060.html",
-      "summary": "« Dix ans de post-vérité » (5/5). Les récits manipulateurs prospèrent sur le terreau d’une société dysfonctionnelle. Plusieurs pays européens envisagent désormais les intox comme un problème global et s’attellent à rebâtir la confiance.",
-      "image": "https://img.lemde.fr/2026/08/04/127/122/4486/2243/644/322/60/0/dc5a9c7_upload-1-z75cjdfmthhd-5-electio-europa-c-copie.jpg",
-      "published_at": "2026-08-14T17:00:28+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "08c138bade22"
     }
   ]
 }
