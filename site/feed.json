@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-08-13T23:50:51.175482+00:00",
+  "generated_at": "2026-08-14T02:34:05.225051+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Aux Etats-Unis, trois condamnés à mort exécutés dans la même journée dans trois Etats différents",
+      "url": "https://www.lemonde.fr/international/article/2026/08/14/aux-etats-unis-trois-condamnes-a-mort-executes-dans-la-meme-journee-dans-trois-etats-differents_6745972_3210.html",
+      "summary": "Le fait que ces trois injections létales aient eu lieu le même jour est une coïncidence mais cela reflète le rythme soutenu des exécutions aux États-Unis où, depuis le début de l’année, 22 condamnés à mort ont subi la peine capitale.",
+      "image": "https://img.lemde.fr/2026/08/13/822/0/4935/2467/644/322/60/0/aa464d7_ftp-1-esx80ul7a9gp-e5506ae230294fd2975cd654fc2f6309-0-0638189cefcf4947b432a56d0b4bc8cf.jpg",
+      "published_at": "2026-08-14T04:10:02+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "14b53dd5ad2a"
+    },
+    {
+      "title": "Les Etats-Unis et le Mexique mènent des exercices à leur frontière commune, là où opère le cartel de Juarez",
+      "url": "https://www.lemonde.fr/international/article/2026/08/14/les-etats-unis-et-le-mexique-menent-des-exercices-a-leur-frontiere-commune-la-ou-opere-le-cartel-de-juarez_6745939_3210.html",
+      "summary": "L’opération conjointe intervient quelques semaines après que Washington a inscrit le cartel de Juárez sur sa liste des « organisations terroristes étrangères », lui interdisant notamment l’accès au système financier américain.",
+      "image": "https://img.lemde.fr/2026/08/13/175/0/5560/2780/644/322/60/0/f4ffd31_ftp-1-3r0emym4k1wt-5832190-01-06.jpg",
+      "published_at": "2026-08-14T03:43:35+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "73a5d4353f1d"
+    },
     {
       "title": "Donald Trump impose 100 % de droits de douane sur certains drones pour contrer les importations chinoises",
       "url": "https://www.lemonde.fr/international/article/2026/08/14/donald-trump-impose-100-de-droits-de-douane-sur-certains-drones-pour-contrer-les-importations-chinoises_6745906_3210.html",
@@ -213,16 +233,6 @@
       "id": "cbd130fdf117"
     },
     {
-      "title": "Le nageur Florent Manaudou, champion olympique en 2012, annonce la fin de sa carrière, à 35 ans",
-      "url": "https://www.lemonde.fr/sport/article/2026/08/13/le-nageur-florent-manaudou-champion-olympique-en-2012-annonce-la-fin-de-sa-carriere-a-35-ans_6745835_3242.html",
-      "summary": "Le Français, sextuple médaillé olympique, a annoncé mettre un terme à sa carrière sportive, jeudi, en marge des championnats d’Europe de natation. Il s’était mis en retrait des bassins après sa participation aux Jeux olympiques de Paris en 2024.",
-      "image": "https://img.lemde.fr/2026/08/13/604/0/7251/3625/644/322/60/0/052da30_upload-1-jgat6zgfvilp-000-36968qw.jpg",
-      "published_at": "2026-08-13T20:22:25+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "3df94bb5b428"
-    },
-    {
       "title": "Un Français condamné à vingt ans de prison au Mali a été gracié",
       "url": "https://www.franceinfo.fr/monde/afrique/mali/un-francais-condamne-a-20-ans-de-prison-au-mali-a-ete-gracie_8146412.html#xtor=RSS-3-[lestitres]",
       "summary": "Le Mali accusait l'homme arrêté de travailler pour le \"service de renseignement français\". Paris avait dénoncé des '\"accusations sans fondement\".",
@@ -291,16 +301,6 @@
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "b8fcc288ae0c"
-    },
-    {
-      "title": "La vigilance orange \"canicule\" levée vendredi matin dans cinq départements de l'Ouest, 75 autres maintenus en alerte",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/les-80-departements-deja-en-vigilance-orange-canicule-jeudi-encore-concernes-par-cette-alerte-vendredi_8145869.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cet épisode de fortes chaleurs a atteint son pic dans la moitié ouest du pays, jeudi, selon Météo-France. Il en sera de même dans la moitié est vendredi.",
-      "image": "https://www.franceinfo.fr/pictures/D_a7LmPESk-9L4BrEB9gerH5U4E/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/13/6a7df8e506d58087521635.jpg",
-      "published_at": "2026-08-13T19:55:18+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "f443127c22b2"
     }
   ]
 }
