@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-08-14T21:32:32.904402+00:00",
+  "generated_at": "2026-08-14T22:31:23.865949+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Un décès \"toutes les 30 minutes\" : l'ONU appelle le monde à \"se réveiller\" face à l'épidémie d'Ebola en République démocratique du Congo",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/un-deces-toutes-les-30-minutes-l-onu-appelle-le-monde-a-se-reveiller-face-a-l-epidemie-d-ebola-en-republique-democratique-du-congo_8148134.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'épidémie \"est la plus rapide jamais enregistrée\" dans l'histoire du virus, a alerté, vendredi, le chef des affaires humanitaires de l'ONU.",
+      "image": "https://www.franceinfo.fr/pictures/UbsE2AvY5Pk-irSZdu6YThwVuTo/0x312:6000x3687/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f8f7da2a7e540089132.jpg",
+      "published_at": "2026-08-14T23:58:43+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "2b2dedb86a46"
+    },
+    {
+      "title": "La vigilance orange \"canicule\" levée dans 19 départements samedi matin, l'alerte maintenue dans 64 autres",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-vigilance-orange-canicule-maintenue-dans-75-departements-samedi-annonce-meteo-france_8147135.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Une baisse des températures est attendue progressivement sur une moitié ouest du pays samedi\", a rapporté Météo-France, vendredi.",
+      "image": "https://www.franceinfo.fr/pictures/o5PCjpft3IuM6dmYCAr5EasUWZQ/0x94:1024x670/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7ebbc665b47984140796.jpg",
+      "published_at": "2026-08-14T23:37:27+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "b03298ee3c67"
+    },
+    {
+      "title": "Cyclisme : le jeune Gallois Finlay Tarling tué dans un accident au Tour du Portugal",
+      "url": "https://www.lemonde.fr/sport/article/2026/08/14/cyclisme-le-jeune-gallois-finlay-tarling-tue-dans-un-accident-au-tour-du-portugal_6746294_3242.html",
+      "summary": "Selon la télévision publique RTP, le coureur britannique de 19 ans de l’équipe NSN Development a été percuté pendant la 8ᵉ étape, vendredi, par une voiture circulant en sens inverse, un peu en retrait du peloton.",
+      "image": "https://img.lemde.fr/2026/08/14/183/0/2200/1100/644/322/60/0/fad3432_upload-1-lbedauszcmel-epalivenine267929.jpg",
+      "published_at": "2026-08-14T23:32:51+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "5f757012ee95"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : plusieurs régions russes rationnent le carburant après les frappes ukrainiennes",
+      "url": "https://www.lemonde.fr/international/live/2026/08/14/en-direct-guerre-en-ukraine-plusieurs-regions-russes-rationnent-le-carburant-apres-les-frappes-ukrainiennes_6741928_3210.html",
+      "summary": "Le gouvernement russe a confirmé que l’approvisionnement des stations-service en carburant restait « tendu » dans plusieurs zones du pays. Selon un décompte de Bloomberg effectué à partir des déclarations publiques des deux camps, l’Ukraine a attaqué 11 des 34 grandes raffineries russes depuis le début du mois.",
+      "image": "https://img.lemde.fr/2026/08/14/386/0/6005/3002/644/322/60/0/0986246_ftp-1-irwmn7xhapsc-2026-08-14t115911z-1923535642-rc29ymau3hzd-rtrmadp-3-ukraine-crisis-russia-fuel-moscow.JPG",
+      "published_at": "2026-08-14T23:30:45+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "d7f3bed7a7fa"
+    },
+    {
+      "title": "Après la canicule, une baisse progressive des températures et des orages attendus pour le week-end du 15 août",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/meteo-france-prevoit-une-baisse-des-temperatures-a-partir-de-dimanche_8147180.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le recul des températures s'amorce dès vendredi par l'Ouest, où la vigilance orange \"canicule\" a été levée à 6 heures dans cinq départements.",
+      "image": "https://www.franceinfo.fr/pictures/Fzj-T3YaHDe735w7eurHemEpIro/0x25:1024x601/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7ec2926b13c341230554.jpg",
+      "published_at": "2026-08-14T23:28:17+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "6d8294862632"
+    },
     {
       "title": "Taquin ou menaçant ? Donald Trump affirme qu'il pourrait déclarer le détroit d'Ormuz \"comme étant un territoire des Etats-Unis\"",
       "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/taquin-ou-menacant-donald-trump-affirme-qu-il-pourrait-declarer-le-detroit-d-ormuz-comme-etant-un-territoire-des-etats-unis_8148113.html#xtor=RSS-3-[lestitres]",
@@ -81,16 +131,6 @@
       "source": "Libération",
       "category": "Sport",
       "id": "fa665afcc5f1"
-    },
-    {
-      "title": "Jeff Bezos, fondateur d’Amazon, nouvel actionnaire minoritaire du Liverpool FC",
-      "url": "https://www.lemonde.fr/sport/article/2026/08/14/jeff-bezos-fondateur-d-amazon-nouvel-actionnaire-minoritaire-du-liverpool-fc_6746292_3242.html",
-      "summary": "Fenway Sports Group, le propriétaire du club anglais de football, a annoncé vendredi la cession de parts à un groupe d’investisseurs, parmi lesquels se trouve le multimilliardaire américain.",
-      "image": "https://img.lemde.fr/2026/08/14/108/0/5328/2664/644/322/60/0/285cae3_ftp-1-z0dagfhdctfe-2026-08-14t160032z-192083176-rc23pkac1hws-rtrmadp-3-soccer-england-liv.JPG",
-      "published_at": "2026-08-14T20:55:52+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "fee27e02e845"
     },
     {
       "title": "A Saint-Denis, Léon Marchand entre enfin dans le bain des courses individuelles",
@@ -261,46 +301,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "04de901d444c"
-    },
-    {
-      "title": "Ce mini-dispositif à 100 dollars pourrait permettre de pirater un Boeing 737",
-      "url": "https://www.numerama.com/cyberguerre/2311893-ce-mini-dispositif-a-100-dollars-pourrait-permettre-de-pirater-un-boeing-737.html",
-      "summary": "Une équipe de l’Université de Californie à San Diego et de l’Oberlin College, dans l’Ohio, a conçu un implant capable de manipuler certains systèmes d’un Boeing 737, révèle une enquête de WIRED. Minuscule et peu coûteux, le dispositif nécessite néanmoins un accès physique à l’avion et une expertise considérable.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-14T17:01:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "ff89fb72a826"
-    },
-    {
-      "title": "Le jeune cycliste britannique Finlay Tarling tué dans un accident sur le Tour du Portugal",
-      "url": "https://www.franceinfo.fr/sports/cyclisme/le-jeune-coureur-britannique-finlay-tarling-tue-dans-un-accident-lors-d-une-etape-du-tour-du-portugal_8147903.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le coureur de 19 ans a succombé à ses blessures après avoir été percuté par une voiture en pleine étape, vendredi.",
-      "image": "https://www.franceinfo.fr/pictures/gwqCtLra2-uDCAloKIebO-VffDE/0x0:4887x2748/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f4880d5f26169260529.jpg",
-      "published_at": "2026-08-14T18:58:52+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "5a2cd87c5753"
-    },
-    {
-      "title": "Incendie dans les Landes, baisse attendue des températures, décisions du Conseil constitutionnel… L’actu de ce vendredi 14 août",
-      "url": "https://www.liberation.fr/international/europe/incendie-dans-les-landes-baisse-attendue-des-temperatures-decisions-du-conseil-constitutionnel-lactu-de-ce-vendredi-14-aout-20260814_VS72IQG7QFBANBLMB4NJBTI3HE/",
-      "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée du vendredi 14 août.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-14T16:58:10+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "93de0f7ca56f"
-    },
-    {
-      "title": "Une enquête pour \"homicide involontaire\" ouverte à Toulouse après la mort d'un ouvrier écrasé sur le chantier du métro",
-      "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/mort-d-un-ouvrier-sur-le-chantier-de-la-ligne-c-a-toulouse-l-autopsie-revele-un-ecrasement-et-non-un-malaise-3401719.html#xtor=RSS-3-[lestitres]",
-      "summary": "Coup de théâtre après la mort d'un employé sur le chantier de la ligne C du métro toulousain lundi 3 août 2026. L'autopsie a révélé que l'homme de 48 ans a succombé à un écrasement, contrairement à ce qu'affirmait son employeur, qui évoquait un malaise. Une enquête pour \"homicide involontaire\" a été ouverte par le parquet de Toulouse.",
-      "image": "https://www.franceinfo.fr/pictures/_UmTmTc6UnRRJoqJ0uXIfiBHK0o/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f449f59328349213169.jpg",
-      "published_at": "2026-08-14T18:57:13+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "7cd3f2c9161f"
     }
   ]
 }
