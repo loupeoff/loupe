@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-08-15T01:42:59.189358+00:00",
+  "generated_at": "2026-08-15T02:58:29.929068+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Indonésie : un puissant séisme fait au moins deux morts ; alerte au tsunami levée",
+      "url": "https://www.lemonde.fr/international/article/2026/08/15/indonesie-un-puissant-seisme-fait-au-moins-deux-morts-alerte-au-tsunami-levee_6746394_3210.html",
+      "summary": "Dans les provinces du Nusa Tenggara oriental, occidental, et du Sulawesi du Sud, où des habitants ont été appelés à évacuer, les autorités ont finalement levé l’alerte au tsunami déclenchée par un tremblement de terre d’une magnitude de 7,7. Elles disent continuer à surveiller le niveau de la mer par précaution.",
+      "image": "https://img.lemde.fr/2026/08/15/370/0/1600/800/644/322/60/0/748ca0b_ftp-1-bdthpu7xt9rc-2026-08-15t013435z-1634194450-rc2pyma1sgby-rtrmadp-3-indonesia-quake.JPG",
+      "published_at": "2026-08-15T04:19:05+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "e4728f2b2ed8"
+    },
     {
       "title": "Au Tchad, neuf opposants, dont Succès Masra, libérés après avoir été graciés par le président Mahamat Idriss Déby",
       "url": "https://www.lemonde.fr/afrique/article/2026/08/15/au-tchad-neuf-opposants-dont-succes-masra-liberes-apres-avoir-ete-gracies-par-le-president-mahamat-idriss-deby_6746242_3213.html",
       "summary": "Ancien premier ministre et chef du principal parti d’opposition, Succès Masra purgeait depuis plus d’un an une peine de vingt ans de prison ferme. Les huit autres dirigeants de partis étaient condamnés car accusés de fomenter une insurrection.",
       "image": "https://img.lemde.fr/2025/08/09/350/0/4200/2100/644/322/60/0/db9e749_ftp-import-images-1-vx6ixqlavwhs-5600966-01-06.jpg",
-      "published_at": "2026-08-15T03:12:22+02:00",
+      "published_at": "2026-08-15T03:12:19+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "8675d4d7be58"
@@ -268,7 +278,7 @@
       "summary": "L’ICE, cette force de police fédérale chargée par le gouvernement de Donald Trump de mettre en place sa politique d’expulsion massive de sans-papiers, est devenue le symbole des dérives de cette politique vue comme particulièrement brutale.",
       "image": "https://img.lemde.fr/2026/08/13/99/0/3000/1500/644/322/60/0/bbc8e90_ftp-1-0yscv7rapz5u-f0922b898c154942b05625c21403b569-0-6babd9d7d01b48908b877c7d79b6656e.jpg",
       "published_at": "2026-08-14T19:44:38+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "0a10ccc2c702"
     },
@@ -291,16 +301,6 @@
       "source": "Libération",
       "category": "Sport",
       "id": "b909210540ab"
-    },
-    {
-      "title": "Luigi Mangione admet avoir tiré sur le PDG d’UnitedHealthcare et plaide coupable de harcèlement criminel",
-      "url": "https://www.lemonde.fr/international/article/2026/08/14/luigi-mangione-admet-avoir-tire-sur-le-pdg-d-unitedhealthcare-et-plaide-coupable-de-harcelement-criminel_6746288_3210.html",
-      "summary": "« J’ai tiré sur M. Thompson, et il est mort », a déclaré le jeune homme devant le tribunal fédéral, ajoutant qu’il savait que ce qu’il faisait était illégal.",
-      "image": "https://img.lemde.fr/2026/08/11/637/0/7776/3888/644/322/60/0/52b86e6_ftp-1-l380olth0kmx-94347bab0f0145cd865a8a6634535096-0-51b8050aabac4b31b03ca30cc774ae2b.jpg",
-      "published_at": "2026-08-14T19:23:18+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "03639d085093"
     }
   ]
 }
