@@ -1,16 +1,166 @@
 {
-  "generated_at": "2026-08-15T11:27:00.047951+00:00",
+  "generated_at": "2026-08-15T12:52:09.581452+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Indonésie : au moins 38 morts dans un puissant séisme",
+      "title": "EN DIRECT - Incendies en Europe : alerte maximale en Grèce, une cinquantaine de départs de feux en 24 heures",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendie-dans-les-landes-reprise-de-feu-dans-la-nuit-1-580-hectares-brules-20260815_IQO2KVYGEZH5BAL5Z4XJURSBQY/",
+      "summary": "Les pompiers sont sur le qui-vive ce samedi sur l’île méditerranéenne en raison de vents violents, à l’origine du départ d’une cinquantaine de feux ces dernières 24 heures.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-15T12:49:45+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "ea13d64182dc"
+    },
+    {
+      "title": "Plus de 700 km de bouchons cumulés samedi midi, hors Ile-de-France",
+      "url": "https://www.franceinfo.fr/economie/transports/trafic/plus-de-700-km-de-bouchons-cumules-samedi-midi-hors-ile-de-france_8148839.html#xtor=RSS-3-[lestitres]",
+      "summary": "A elle seule, la région Auvergne-Rhône-Alpes concentrait 135 km de bouchons cumulés samedi à la mi-journée, selon Bison Futé.",
+      "image": "https://www.franceinfo.fr/pictures/NEM1UQFFiOvCMSGIa0428epf6kY/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/15/6a805e52a347c384256162.jpg",
+      "published_at": "2026-08-15T14:42:01+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "81e811f05279"
+    },
+    {
+      "title": "Une « étoile trou noir ». Quel est ce mystérieux objet découvert par le télescope James Webb ?",
+      "url": "https://www.numerama.com/sciences/2311583-une-etoile-trou-noir-quel-est-ce-mysterieux-objet-decouvert-par-le-telescope-james-webb.html",
+      "summary": "Un astre jusqu'ici purement théorique vient d'être observé concrètement pour la première fois. Connu sous le nom de quasi-étoile, il s'agirait d'un élément clé pour comprendre certains phénomènes mystérieux qui se sont déroulés peu après le Big Bang.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-15T12:31:00+00:00",
+      "source": "Numerama",
+      "category": "Sport",
+      "id": "be247a023e3d"
+    },
+    {
+      "title": "Plainte de Jordan Bardella contre le rappeur Kerchak : « Judiciariser une punchline relève soit d’une cécité culturelle, soit d’un contresens volontaire »",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/15/plainte-de-jordan-bardella-contre-le-rappeur-kerchak-judiciariser-une-punchline-releve-soit-d-une-cecite-culturelle-soit-d-un-contresens-volontaire_6746669_3232.html",
+      "summary": "L’artiste est visé par une plainte pour injure publique. Une façon pour le RN de jauger la capacité de l’appareil judiciaire à intimider la culture populaire, dénonce la coach vocale Salwa Lakrafi, dans une tribune au « Monde ».",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/7c79c9c_upload-1-rqkmynu9noh1-frame-1295.jpg",
+      "published_at": "2026-08-15T14:30:05+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "a72f9f1f0f49"
+    },
+    {
+      "title": "Un ex-professeur de Cambridge mêlé à un scandale de plagiat a été retrouvé mort",
+      "url": "https://www.franceinfo.fr/monde/royaume-uni/un-ex-professeur-de-cambridge-mele-a-un-scandale-de-plagiat-retrouve-mort_8148443.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ce Britannique avait démissionné le 5 août de la prestigieuse université britannique, dont il était devenu en 2023 le plus jeune professeur noir.",
+      "image": "https://www.franceinfo.fr/pictures/tKSSvr7KuyqHmfdRY7TtzfKsxRw/0x394:7548x4640/432x243/filters:format(jpg):quality(50)/2026/08/15/6a800066592b8108123977.jpg",
+      "published_at": "2026-08-15T14:28:17+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "c67c5ebc41c0"
+    },
+    {
+      "title": "Un deuxième séisme frappe l'Indonésie en une journée, au moins 40 morts dans le premier tremblement de terre",
+      "url": "https://www.franceinfo.fr/monde/asie/seisme-et-tsunami-en-indonesie/un-puissant-seisme-fait-au-moins-20-morts-dans-l-est-de-l-indonesie_8148425.html#xtor=RSS-3-[lestitres]",
+      "summary": "Un séisme de magnitude 7,7 a secoué samedi matin l'est de l'Indonésie. A des milliers de kilomètres de là, un second séisme a été enregistré sur l'île de Sumatra, dans l'ouest de l'archipel, douze heures plus tard.",
+      "image": "https://www.franceinfo.fr/pictures/41fRevQvYRf9IRxgGRT4KccU_6w/0x187:1800x1200/432x243/filters:format(jpg):quality(50)/2026/08/15/6a7ffd40a9518557577793.jpg",
+      "published_at": "2026-08-15T14:22:50+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "0a97cd7b152c"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme qu’une entreprise du groupe Roscosmos a été touchée par des missiles ukrainiens dans l’oblast de Samara, en Russie",
+      "url": "https://www.lemonde.fr/international/live/2026/08/15/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-qu-une-entreprise-du-groupe-roscosmos-a-ete-touchee-par-des-missiles-ukrainiens-dans-l-oblast-de-samara-en-russie_6741928_3210.html",
+      "summary": "Le président ukrainien a revendiqué, samedi, une attaque avec des missiles Flamingo contre un centre de l’agence spatiale russe, « qui était notamment impliqué dans la production d’électronique », à 800 kilomètres de la frontière russo-ukrainienne.",
+      "image": "https://img.lemde.fr/2026/08/08/82/0/4773/2386/644/322/60/0/98d309a_ftp-1-7cajbv1khitu-2115e8a0c8274facb2b47aeba5b646a0-0-7f926d5c1fdc4819a1d7972e943f2cf7.jpg",
+      "published_at": "2026-08-15T14:14:09+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "dd9420aaf67f"
+    },
+    {
+      "title": "Incendie dans les Landes : près de 1 600 hectares ont brûlé pendant la nuit, météo plus \"favorable\" samedi",
+      "url": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-dans-les-landes-le-feu-a-repris-dans-la-nuit-pres-de-1-600-hectares-ont-brule_8148473.html#xtor=RSS-3-[lestitres]",
+      "summary": "Après un début de nuit plus favorable, l'incendie en cours depuis jeudi s'est à nouveau propagé samedi à l'aube, a annoncé le préfet du département.",
+      "image": "https://www.franceinfo.fr/pictures/C9M-GMuSEpEZdZLoNqfxLRz5nNk/0x322:6192x3805/432x243/filters:format(jpg):quality(50)/2026/08/15/6a801633be4e9029493813.jpg",
+      "published_at": "2026-08-15T14:09:47+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "772e08243744"
+    },
+    {
+      "title": "Canicule : 64 départements maintenus en vigilance orange, une baisse progressive des températures sur la moitié ouest",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-64-departements-maintenus-en-vigilance-orange-une-baisse-des-chaleurs-attendue-dimanche_8148410.html#xtor=RSS-3-[lestitres]",
+      "summary": "La baisse des températures amorcée depuis le pic de jeudi-vendredi devrait cependant s'accompagner d'orages dans le sud-ouest de la France.",
+      "image": "https://www.franceinfo.fr/pictures/BKjjNijuai3--3edAyCx5q0Rz1o/0x313:6018x3699/432x243/filters:format(jpg):quality(50)/2026/08/15/6a7ff7a1c5068725703923.jpg",
+      "published_at": "2026-08-15T14:07:46+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "462338bee495"
+    },
+    {
+      "title": "Deux séismes secouent l’Indonésie, au moins 38 morts",
       "url": "https://www.liberation.fr/international/asie-pacifique/indonesie-au-moins-20-morts-dans-un-puissant-seisme-20260815_ZA2BHKRBQVATDAOEQCOWV5Q7N4/",
-      "summary": "Un puissant séisme de magnitude 7,7 a secoué samedi matin l’est de l’Indonésie, faisant au moins 38 morts et poussant des milliers d’habitants des côtes à évacuer de crainte d’une montée des eaux.",
+      "summary": "Un puissant séisme de magnitude 7,7 a secoué samedi matin l’est de l’Indonésie, faisant au moins 38 morts et poussant des milliers d’habitants des côtes à évacuer de crainte d’une montée des eaux. Un second, de magnitude 6,9, a suivi.",
       "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-15T11:13:43+00:00",
+      "published_at": "2026-08-15T11:49:23+00:00",
       "source": "Libération",
       "category": "Société",
       "id": "3bf87955f2cd"
+    },
+    {
+      "title": "Jason Arday, ancien plus jeune professeur noir de Cambridge, retrouvé mort après des accusations de plagiat",
+      "url": "https://www.liberation.fr/international/europe/jason-arday-ancien-plus-jeune-professeur-noir-de-cambridge-retrouve-mort-apres-des-accusations-de-plagiat-20260815_25GJDLS3HVC6JG3E34VSCE4XKY/",
+      "summary": "Au cœur d’un retentissant scandale de plagiat sur fond de racisme, le doctorant en sociologie de 41 ans a été retrouvé mort vendredi 14 août chez lui. Sa famille dénonce une «campagne de harcèlement».",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-15T11:45:23+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "a3b14fa40e07"
+    },
+    {
+      "title": "Les hommages se multiplient après la mort de Jason Arday, qui fut le plus jeune professeur noir de Cambridge, avant d’être accusé de plagiat",
+      "url": "https://www.lemonde.fr/international/article/2026/08/15/les-hommages-se-multiplient-apres-la-mort-de-jason-arday-qui-fut-le-plus-jeune-professeur-noir-de-cambridge-avant-d-etre-accuse-de-plagiat_6746667_3210.html",
+      "summary": "Plusieurs proches et collègues dénoncent aujourd’hui « un harcèlement » que le professeur de sociologie de l’éducation subissait depuis sa nomination il y a trois ans au sein de la prestigieuse université anglaise.",
+      "image": "https://img.lemde.fr/2026/08/06/314/0/2305/1152/644/322/60/0/39c8945_ftp-1-2i4qof7acign-e3a0108439bc49329c5c6b589b59cdaa-0-fec663b6193143ecafef506499d9628e.jpg",
+      "published_at": "2026-08-15T13:45:18+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "33e7da9e711f"
+    },
+    {
+      "title": "Aurélien Quinion remporte la médaille de bronze sur le marathon marche lors des championnats d'Europe d'athlétisme",
+      "url": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/video-aurelien-quinion-remporte-la-medaille-de-bronze-sur-le-marathon-marche-lors-des-championnats-d-europe-d-athletisme_8148647.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le marcheur de 33 ans est allé chercher, samedi, la 7e médaille de l'équipe de France depuis le début de la compétition.",
+      "image": "https://www.franceinfo.fr/pictures/ohFqIaMGzeQATmlo-1nOJmf1New/0x0:4009x2255/432x243/filters:format(jpg):quality(50)/2026/08/15/6a8034aba44a5357825825.jpg",
+      "published_at": "2026-08-15T13:32:15+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "11d7bdeccedf"
+    },
+    {
+      "title": "En Ukraine, Volodymyr Zelensky en passe de reprendre la main après un mois de crise politique",
+      "url": "https://www.lemonde.fr/international/article/2026/08/15/en-ukraine-volodymyr-zelensky-en-passe-de-reprendre-la-main-apres-un-mois-de-crise-politique_6746666_3210.html",
+      "summary": "Après avoir limogé son populaire ministre de la défense, Mykhaïlo Fedorov, et provoqué la colère de la rue et de l’opposition, le président ukrainien semble avoir contenu la fronde, mais en sort affaibli.",
+      "image": "https://img.lemde.fr/2026/08/08/688/0/8256/4128/644/322/60/0/1773b85_ftp-1-0weg2nnkcs0r-5796654-01-06.jpg",
+      "published_at": "2026-08-15T13:30:11+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "5e966411e832"
+    },
+    {
+      "title": "Jordan Bardella a perçu plus d'un million d'euros de droits d'auteur en deux ans",
+      "url": "https://www.franceinfo.fr/politique/jordan-bardella/jordan-bardella-a-percu-plus-d-un-million-d-euros-de-droits-d-auteur-en-deux-ans_8148764.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le président du RN a connu un grand succès en librairie avec au moins 320 000 exemplaires vendus de ses livres, dont 230 000 pour le premier ouvrage, d'après les estimations les plus récentes.",
+      "image": "https://www.franceinfo.fr/pictures/cISh0D8LC4GkMQL1wAizSaB7m-c/0x202:3879x2384/432x243/filters:format(jpg):quality(50)/2026/08/15/6a804aa97a645123029711.jpg",
+      "published_at": "2026-08-15T13:28:04+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "2ef63be8a02a"
+    },
+    {
+      "title": "Mort de Finlay Tarling au Tour du Portugal : l’équipe NSN se retire de la course",
+      "url": "https://www.lemonde.fr/sport/article/2026/08/15/mort-de-finlay-tarling-au-tour-du-portugal-l-equipe-nsn-se-retire-de-la-course_6746665_3242.html",
+      "summary": "Un porte-parole de la garde nationale républicaine du Portugal, Tiago Machado, a déclaré qu’il y avait eu une collision entre le coureur et un véhicule léger, et a annoncé qu’une enquête serait ouverte.",
+      "image": "https://img.lemde.fr/2026/08/14/183/0/2200/1100/644/322/60/0/fad3432_upload-1-lbedauszcmel-epalivenine267929.jpg",
+      "published_at": "2026-08-15T13:25:05+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "0aa7a0307dde"
     },
     {
       "title": "Deux footballeurs amateurs d'Indre-et-Loire écopent de 20 ans de suspension après avoir agressé deux arbitres",
@@ -33,11 +183,21 @@
       "id": "22614208f03a"
     },
     {
+      "title": "A l’issue du grand mercato de la mode, les femmes designers écartées des places convoitées",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/15/a-l-issue-du-grand-mercato-de-la-mode-les-femmes-designers-ecartees-des-places-convoitees_6746664_3451060.html",
+      "summary": "« La nouvelle ère de la mode » (5/5). Rares sont les créatrices à avoir été promues lors des dernières nominations de designers. Bien qu’aussi expérimentées que leurs homologues masculins, elles accèdent souvent plus tardivement aux postes les plus prestigieux.",
+      "image": "https://img.lemde.fr/2026/07/14/207/0/3600/1800/644/322/60/0/4396245_upload-1-eyuolaa8addg-rea11474892.jpg",
+      "published_at": "2026-08-15T13:00:04+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "62675a7fed24"
+    },
+    {
       "title": "Election du 20 septembre à Berlin : une campagne dominée par la crise du logement et les questions de sécurité, qui pourrait profiter à la gauche",
       "url": "https://www.lemonde.fr/international/article/2026/08/15/election-du-20-septembre-a-berlin-une-campagne-dominee-par-la-crise-du-logement-et-les-questions-de-securite-qui-pourrait-profiter-a-la-gauche_6746663_3210.html",
       "summary": "Dirigée depuis 2023 par un maire chrétien-démocrate, la capitale allemande fait figure d’exception dans un contexte national marqué par la montée de l’extrême droite.",
       "image": "https://img.lemde.fr/2026/08/15/590/0/5512/2756/644/322/60/0/6a3ab38_upload-1-8xpslx3vchyo-037-av-0936-election-berlin-anton-vester.jpg",
-      "published_at": "2026-08-15T13:00:01+02:00",
+      "published_at": "2026-08-15T13:00:00+02:00",
       "source": "Le Monde Inter",
       "category": "Sport",
       "id": "340a61f5a0b5"
@@ -83,16 +243,6 @@
       "id": "1537aa1fdd30"
     },
     {
-      "title": "Jason Arday, ancien plus jeune professeur noir de Cambridge, retrouvé mort après des accusations de plagiat",
-      "url": "https://www.liberation.fr/international/europe/jason-arday-ancien-plus-jeune-professeur-noir-de-cambridge-retrouve-mort-apres-des-accusations-de-plagiat-20260815_25GJDLS3HVC6JG3E34VSCE4XKY/",
-      "summary": "Au cœur d’un retentissant scandale de plagiat sur fond de racisme, le doctorant en sociologie de 41 ans a été retrouvé mort vendredi 14 août chez lui. Sa famille dénonce une «campagne de harcèlement».",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-15T10:44:35+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "a3b14fa40e07"
-    },
-    {
       "title": "Au Japon, un mode d’emploi pour épouser un personnage de manga",
       "url": "https://www.liberation.fr/lifestyle/intimites/au-japon-un-mode-demploi-pour-epouser-un-personnage-de-manga-20260815_MU2DEIJV4ZFQXM63H5ZEWZUX2M/",
       "summary": "Un manuel japonais permet de tout savoir pour «épouser un être fictif» et des agences de mariage dédiées proposent faux certificats et alliances. Bienvenue au pays des amours artificiels.",
@@ -123,16 +273,6 @@
       "id": "d45959f152ff"
     },
     {
-      "title": "En Espagne, la ville de Grenade secouée par un rare séisme de magnitude 5, \"aucune victime ni aucun dommage structurel grave\" selon la mairie",
-      "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-la-ville-de-grenade-secouee-par-un-rare-seisme-de-magnitude-5-aucune-victime-recensee_8148698.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Des dégâts isolés sont en cours d'évaluation\", a précisé la maire de cette ville d'Andalousie, dans le sud du pays.",
-      "image": "https://www.franceinfo.fr/pictures/-gKGZyQdQDekXUVulGhnMRcUVUI/0x226:4300x2645/432x243/filters:format(jpg):quality(50)/2026/08/15/6a803f133132b518393607.jpg",
-      "published_at": "2026-08-15T12:28:12+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "055217999121"
-    },
-    {
       "title": "Première finale individuelle de Léon Marchand, jubilé de Florent Manaudou : une soirée festive à l’Euro de natation",
       "url": "https://www.liberation.fr/sports/premiere-finale-individuelle-de-leon-marchand-jubile-de-florent-manaudou-une-soiree-festive-a-leuro-de-natation-20260815_EFPK6HDPSBHC7BDVPHXEVEVNDA/",
       "summary": "Une flopée de nageurs, venus célébrer l’adieu aux bassins du sextuple médaillé olympique, doit investir la piscine de Saint-Denis, qui sera à partir de 18 h 30 le théâtre de finales et demies prometteuses pour l’équipe de France.",
@@ -161,146 +301,6 @@
       "source": "France Info",
       "category": "Société",
       "id": "d38ea8394c98"
-    },
-    {
-      "title": "Le champion du monde espagnol Ferran Torres s'engage avec le PSG en provenance du Barça",
-      "url": "https://www.franceinfo.fr/sports/foot/mercato/le-champion-du-monde-espagnol-ferran-torres-s-engage-avec-le-psg-en-provenance-du-barca_8148686.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'attaquant était l'une des priorités de Luis Enrique cet été. Les champions de France ont officialisé son arrivée, samedi.",
-      "image": "https://www.franceinfo.fr/pictures/AqKVcfyffv8I9xD5rMYNEd-y56E/0x60:3234x1879/432x243/filters:format(jpg):quality(50)/2026/08/15/6a8039f5ed39f742643507.jpg",
-      "published_at": "2026-08-15T12:18:16+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "1b9e4c570d41"
-    },
-    {
-      "title": "PSG : Ferran Torres, champion du monde espagnol, s’engage avec le club parisien jusqu’en 2031",
-      "url": "https://www.lemonde.fr/football/article/2026/08/15/psg-ferran-torres-champion-du-monde-espagnol-s-engage-avec-le-club-parisien-jusqu-en-2031_6746659_1616938.html",
-      "summary": "L’attaquant de 26 ans, formé à Valence puis passé par Manchester City, avait rejoint Barcelone en 2021. Le « tiburon » – requin, en espagnol – a inscrit 40 buts en 94 matchs toutes compétitions confondues au cours des deux dernières saisons avec les Blaugranas.",
-      "image": "https://img.lemde.fr/2026/08/15/509/0/6190/3095/644/322/60/0/b93e9d7_ftp-1-jd0mojdwvaue-2026-08-15t093550z-415625259-up1em8f0qnppa-rtrmadp-3-soccer-france-rcl-psg-preview.JPG",
-      "published_at": "2026-08-15T12:14:36+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "353807bb1d30"
-    },
-    {
-      "title": "Championnats d’Europe d’athlétisme : le Français Aurélien Quinion médaillé de bronze du marathon marche",
-      "url": "https://www.lemonde.fr/sport/article/2026/08/15/championnats-d-europe-d-athletisme-le-francais-aurelien-quinion-medaille-de-bronze-du-marathon-marche_6746658_3242.html",
-      "summary": "Le Francilien de 33 ans s’est offert, samedi à Birmingham, son premier podium international à l’occasion de cette épreuve inédite dans la compétition, pensée pour donner plus de visibilité à la marche.",
-      "image": "https://img.lemde.fr/2026/08/15/218/0/5232/2616/644/322/60/0/c2485b6_ftp-1-5xqkgk8cxsbj-5845327-01-06.jpg",
-      "published_at": "2026-08-15T12:11:09+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "2c77ba011599"
-    },
-    {
-      "title": "Les images du séisme qui a frappé l’est de l’Indonésie et fait au moins 38 morts",
-      "url": "https://www.lemonde.fr/international/video/2026/08/15/les-images-du-seisme-qui-a-frappe-l-est-de-l-indonesie-et-fait-au-moins-38-morts_6746657_3210.html",
-      "summary": "Un séisme de magnitude 7,7 a provoqué la mort d’au moins 38 personnes dans l’est de l’Indonésie, selon le dernier bilan.",
-      "image": "https://img.lemde.fr/2026/08/15/133/0/1600/800/644/322/60/0/6db98b2_ftp-1-njkvdnae0m0i-f7c9db297b7e4364a4bba72433a9f59e-1-86a838f5871b4e36b6f0ee9292e04141.jpg",
-      "published_at": "2026-08-15T12:07:52+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "73f127b3817c"
-    },
-    {
-      "title": "EN DIRECT - Incendies en Europe : alerte maximale en Grèce, une cinquantaine de départs de feux en 24 heures",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendie-dans-les-landes-reprise-de-feu-dans-la-nuit-1-580-hectares-brules-20260815_IQO2KVYGEZH5BAL5Z4XJURSBQY/",
-      "summary": "Les pompiers sont sur le qui-vive ce samedi sur l’île méditerranéenne en raison de vents violents, à l’origine du départ d’une cinquantaine de feux ces dernières 24 heures.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-15T10:05:23+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "ea13d64182dc"
-    },
-    {
-      "title": "Souviens-toi l’été d’avant la présidentielle : 2021, Zemmour tente de tuer la maison Le Pen",
-      "url": "https://www.liberation.fr/politique/elections/souviens-toi-lete-davant-la-presidentielle-2021-zemmour-tente-de-tuer-la-maison-le-pen-20260815_EAXBO6GRDBFV7B55C2E2EWWGOA/",
-      "summary": "Alors que le RN se remet de la claque des élections régionales et départementales et que les espoirs s’amenuisent pour la cheffe du parti en 2022, les réseaux du polémiste d’extrême droite s’activent pour que partout s’affiche la trombine de leur champion.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-15T10:00:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "881066a608d5"
-    },
-    {
-      "title": "Aurélien Quinion remporte la médaille de bronze sur le marathon marche lors des championnats d'Europe d'athlétisme",
-      "url": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/video-aurelien-quinion-remporte-la-medaille-de-bronze-sur-le-marathon-marche-lors-des-championnats-d-europe-d-athletisme_8148647.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le marcheur de 33 ans est allé chercher, samedi, la 7e médaille de l'équipe de France depuis le début de la compétition.",
-      "image": "https://www.franceinfo.fr/pictures/ohFqIaMGzeQATmlo-1nOJmf1New/0x0:4009x2255/432x243/filters:format(jpg):quality(50)/2026/08/15/6a8034aba44a5357825825.jpg",
-      "published_at": "2026-08-15T11:58:33+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "11d7bdeccedf"
-    },
-    {
-      "title": "Au Liban, des frappes israéliennes cause la mort de neuf personnes dans le sud du pays",
-      "url": "https://www.franceinfo.fr/monde/proche-orient/liban/au-liban-une-frappe-israelienne-cause-la-mort-de-sept-personnes-dans-le-sud-du-pays_8148638.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le président du Liban, Joseph Aoun, a dénoncé \"la mort d'une famille entière dans le village d'Ansar\". L'armée israélienne a affirmé de son côté avoir notamment ciblé des \"infrastructures terroristes du Hezbollah\".",
-      "image": "https://www.franceinfo.fr/pictures/4cdsXuoUsJrrqaYVJcbREWxJAps/0x285:5472x3363/432x243/filters:format(jpg):quality(50)/2026/08/15/6a803117f2e4c645343188.jpg",
-      "published_at": "2026-08-15T11:48:15+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "03e12985fa21"
-    },
-    {
-      "title": "Pixel 11, Navigo Annuel sur iPhone et la montée en puissance de Revolut – le récap’ tech de la semaine",
-      "url": "https://www.numerama.com/tech/2312155-pixel-11-navigo-annuel-sur-iphone-et-la-montee-en-puissance-de-revolut-le-recap-tech-de-la-semaine.html",
-      "summary": "Dans une semaine marquée par l'éclipse solaire et les vacances d'été, Google a été le seul géant à faire quelques annonces. Nouveaux Pixel 11, nouvelles Pixel Watch, nouveau modèle Gemini… Les autres grandes annonces tech concernent la France : Revolut a enfin obtenu sa licence bancaire et le passe Navigo annuel est disponible sur iPhone.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-15T09:40:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "4ea3db65c3a9"
-    },
-    {
-      "title": "Au Cambodge, le combat sans fin d’anciennes employées du casino NagaWorld : « Notre syndicat était devenu extrêmement puissant, la direction a voulu se débarrasser de nous »",
-      "url": "https://www.lemonde.fr/international/article/2026/08/15/au-cambodge-le-combat-sans-fin-d-anciennes-employees-du-casino-nagaworld-notre-syndicat-etait-devenu-extremement-puissant-la-direction-a-voulu-se-debarrasser-de-nous_6746655_3210.html",
-      "summary": "Près de cinq ans après des licenciements qui visaient, selon elles, à étouffer un syndicat indépendant devenu influent au sein du mastodonte des jeux d’argent, quelques centaines d’irréductibles continuent de manifester pour réclamer leur réintégration et le respect de leurs droits.",
-      "image": "https://img.lemde.fr/2026/08/14/500/0/6048/3024/644/322/60/0/ee4896f_upload-1-ngwulrv8ipem-000-9vj9ve.jpg",
-      "published_at": "2026-08-15T11:30:04+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "2acb828f1747"
-    },
-    {
-      "title": "Un père de famille retrouve un trentenaire qui échangeait des photos intimes avec sa fille, le suspect condamné",
-      "url": "https://www.franceinfo.fr/societe/pedocriminalite/pedocriminalite-pour-la-deuxieme-fois-un-pere-de-famille-retrouve-un-trentenaire-qui-echangeait-des-photos-intimes-avec-sa-fille-le-suspect-condamne_8148632.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cette condamnation par le tribunal correctionnel de Strasbourg intervient après plusieurs mois de recherches effectuées par le père de l'adolescente, qui avait déjà identifié un suspect dans cette affaire, lui aussi condamné.",
-      "image": "https://www.franceinfo.fr/pictures/Njc1DhCUC-kUvvwUdQlheVYPxzU/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/15/6a80307175c6a207890536.jpg",
-      "published_at": "2026-08-15T11:29:11+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "aa720c083ac1"
-    },
-    {
-      "title": "«Noir et LFI, c’est trop» : Jean-Luc Mélenchon dénonce le «racisme systémique» dont font l’objet Bally Bagayoko et Aly Diouara",
-      "url": "https://www.liberation.fr/societe/police-justice/noir-et-lfi-cest-trop-jean-luc-melenchon-denonce-le-racisme-systemique-dont-font-lobjet-bally-bagayoko-et-aly-diouara-20260815_JF5VSNAGOVCANAEQC5ZQNPMINA/",
-      "summary": "Le maire de Saint-Denis, visé par une plainte pour emploi fictif et le député-maire de La Courneuve, accusé d’occuper indûment un logement social, ont dû s’expliquer après des informations du «Canard Enchaîné» cet été.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-15T09:21:30+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "ff53edeacd06"
-    },
-    {
-      "title": "Cinq ans après le retour des talibans au pouvoir à Kaboul, les femmes afghanes toujours invisibilisées",
-      "url": "https://www.franceinfo.fr/monde/afghanistan/cinq-ans-apres-le-retour-des-talibans-au-pouvoir-a-kaboul-les-femmes-afghanes-toujours-invisibilisees_8148551.html#xtor=RSS-3-[lestitres]",
-      "summary": "Une délégation des talibans a été reçue en juin à Bruxelles, mais sans évoquer les droits des femmes, déplore Human Rights Watch.",
-      "image": "https://www.franceinfo.fr/pictures/1h7Q066hLY_JAdldWVXSzqMC3HU/0x110:5935x3449/432x243/filters:format(jpg):quality(50)/2026/08/15/6a802c996dd78386892489.jpg",
-      "published_at": "2026-08-15T11:16:17+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "ff7c9f45465d"
-    },
-    {
-      "title": "Découvrez les premières pages d’«Ultimes Sursauts» du collectif Infernus Iohannes",
-      "url": "https://www.liberation.fr/culture/livres/decouvrez-les-premieres-pages-dultimes-sursauts-du-collectif-infernus-iohannes-20260815_ESUMCZJ46FCHZFC3PLD7HYL2UQ/",
-      "summary": "En cette rentrée, onze éditeurs s’unissent pour publier chacun un livre signé du collectif Infernus Ioannes, une des couvertures de l’auteur français Antoine Volodine. Extrait des premiers instants d’un «nouveau-décédé» dans le conte «Bubor Schnulff».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-15T09:07:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "8225444fc672"
     }
   ]
 }
