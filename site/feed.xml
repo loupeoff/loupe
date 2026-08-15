@@ -7,9 +7,29 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Sat, 15 Aug 2026 22:29:52 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 23:27:05 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>L’Iran dénonce la détention de trois pilotes de chasse par le Qatar qui dément les avoir capturés</title>
+    <link>https://www.lemonde.fr/international/article/2026/08/16/l-iran-denonce-la-detention-de-trois-pilotes-de-chasse-par-le-qatar-qui-dement-les-avoir-captures_6746919_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/08/16/l-iran-denonce-la-detention-de-trois-pilotes-de-chasse-par-le-qatar-qui-dement-les-avoir-captures_6746919_3210.html</guid>
+    <pubDate>Sun, 16 Aug 2026 00:48:14 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[Téhéran affirme que ses trois soldats ont été récupérés par Doha après le crash de leurs avions, en mars, lors d’une attaque visant la base américaine d’Al-Udeid. Des « déclarations trompeuses », a répondu la diplomatie qatarie.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/08/15/375/0/2250/1125/644/322/60/0/55cfee7_upload-1-emuvx7hr1b7e-000-33pv3rt.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>EN DIRECT, incendies et canicule : plus de 2 700 hectares ravagés en Belgique ; dans les Landes, le feu ne progresse plus mais n’est « pas en voie » d’être fixé</title>
+    <link>https://www.lemonde.fr/climat/live/2026/08/16/en-direct-incendies-et-canicule-plus-de-2-700-hectares-ravages-en-belgique-dans-les-landes-le-feu-ne-progresse-plus-mais-n-est-pas-en-voie-d-etre-fixe_6744636_1652612.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/climat/live/2026/08/16/en-direct-incendies-et-canicule-plus-de-2-700-hectares-ravages-en-belgique-dans-les-landes-le-feu-ne-progresse-plus-mais-n-est-pas-en-voie-d-etre-fixe_6744636_1652612.html</guid>
+    <pubDate>Sun, 16 Aug 2026 00:36:54 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[L’incendie qui s’est déclaré vendredi en milieu de journée dans les Hautes Fagnes, une grande zone boisée prisée des randonneurs et proche de l’Allemagne, est l’un des plus importants auquel a été confrontée la Belgique à ce jour.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/08/14/644/0/7728/3864/644/322/60/0/162ecde_ftp-1-yk3qmcug4ujo-5838701-01-06.jpg" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>En bronze sur le 10 000 m, Jimmy Gressier décroche sa première médaille européenne</title>
     <link>https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/en-bronze-sur-le-10-000-m-jimmy-gressier-decroche-sa-premiere-medaille-europeenne_8149211.html#xtor=RSS-3-[lestitres]</link>
@@ -99,16 +119,6 @@
     <source url="https://loupeoff.github.io/loupe">Libération</source>
     <description><![CDATA[Dans la piscine chauffée à blanc de Saint-Denis, le quadruple champion olympique s’est emparé de son premier titre européen, ce samedi 15 août. La jeune pépite Mary-Ambre Moluh l’a imité dans sur le 100 m dos, où Pauline Mahieu décroche aussi le bronze.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>EN DIRECT, incendies et canicule : plus de 2 700 hectares ravagés en Belgique ; dans les Landes, le feu ne progresse plus mais n’est « pas en voie » d’être fixé</title>
-    <link>https://www.lemonde.fr/climat/live/2026/08/15/en-direct-incendies-et-canicule-dans-les-landes-le-feu-ne-progresse-plus-mais-n-est-pas-en-voie-d-etre-fixe-plus-de-2-000-hectares-ravages-en-belgique_6744636_1652612.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/climat/live/2026/08/15/en-direct-incendies-et-canicule-dans-les-landes-le-feu-ne-progresse-plus-mais-n-est-pas-en-voie-d-etre-fixe-plus-de-2-000-hectares-ravages-en-belgique_6744636_1652612.html</guid>
-    <pubDate>Sat, 15 Aug 2026 20:45:17 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[L’incendie qui s’est déclaré vendredi en milieu de journée dans les Hautes Fagnes, une grande zone boisée prisée des randonneurs et proche de l’Allemagne, est l’un des plus importants auquel a été confrontée la Belgique à ce jour.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/08/14/644/0/7728/3864/644/322/60/0/162ecde_ftp-1-yk3qmcug4ujo-5838701-01-06.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Des dizaines de migrants interpellés près de la frontière marocaine en direction de Ceuta</title>
@@ -209,16 +219,6 @@
     <source url="https://loupeoff.github.io/loupe">Libération</source>
     <description><![CDATA[Dans une lettre publiée dans la presse régionale, le Premier ministre, qui sera en Gironde lundi, promet au monde rural «des mesures de soutien et d’investissement» pour le budget 2027.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Dans la lande austère du Kent, le plasticien et cinéaste Derek Jarman a fait pousser des couleurs</title>
-    <link>https://www.lemonde.fr/series-d-ete/article/2026/08/15/dans-la-lande-austere-du-kent-le-plasticien-et-cineaste-derek-jarman-a-fait-pousser-des-couleurs_6746718_3451060.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/series-d-ete/article/2026/08/15/dans-la-lande-austere-du-kent-le-plasticien-et-cineaste-derek-jarman-a-fait-pousser-des-couleurs_6746718_3451060.html</guid>
-    <pubDate>Sat, 15 Aug 2026 19:00:05 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[« Artistes en leur jardin » (6/6). L’icône de l’esthétique underground des années 1980, atteint du sida, a transformé une ancienne cabane de pêcheur en dernier refuge avant sa mort en 1994. Son Prospect Cottage est peuplé d’espèces résistantes, d’objets trouvés et de galets.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/07/30/0/0/6371/3185/644/322/60/0/214c23d_upload-1-igmyafu6oatv-sipa-shutterstock40750318-000006.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Sébastien Lecornu promet des mesures de soutien pour l’agriculture, aux contours flous, dans une lettre ouverte</title>
