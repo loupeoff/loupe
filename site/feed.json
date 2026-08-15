@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-08-15T02:58:29.929068+00:00",
+  "generated_at": "2026-08-15T03:47:05.135213+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Indonésie : un puissant séisme fait au moins deux morts ; alerte au tsunami levée",
+      "title": "La fête de l’Assomption, ou l’histoire politique d’une dévotion française à la Vierge Marie",
+      "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/08/15/la-fete-de-l-assomption-ou-l-histoire-politique-d-une-devotion-francaise-a-la-vierge-marie_6281419_6038515.html",
+      "summary": "Le 15 août occupe une place particulière en France depuis le « vœu » de Louis XIII en 1638, qui consacra son royaume à la Vierge et instaura sa célébration. Ce geste, qui reflète des siècles de référence monarchique à la mère du Christ, a conservé une résonance politique jusqu’à nos jours.",
+      "image": "https://img.lemde.fr/2017/01/12/408/0/4928/2464/644/322/60/0/60eea72_27780-tsnao.3sqb29y66r.jpg",
+      "published_at": "2026-08-15T05:00:44+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "83a2db03df99"
+    },
+    {
+      "title": "En Afghanistan, les talibans ont rompu leur isolement international, cinq ans après leur retour au pouvoir",
+      "url": "https://www.lemonde.fr/international/article/2026/08/15/en-afghanistan-les-talibans-ont-rompu-leur-isolement-international-cinq-ans-apres-leur-retour-au-pouvoir_6746430_3210.html",
+      "summary": "Les capitales des pays voisins discutent avec Kaboul des circuits commerciaux régionaux tandis qu’Américains et Européens négocient avec le régime au nom de la lutte contre le terrorisme et pour le retour dans le pays de déboutés du droit d’asile.",
+      "image": "https://img.lemde.fr/2026/08/12/460/0/5519/2759/644/322/60/0/e8d04af_ftp-1-kaimrak7xu3h-5821739-01-06.jpg",
+      "published_at": "2026-08-15T05:00:27+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "efcb1e3fc908"
+    },
+    {
+      "title": "Indonésie : un puissant séisme fait un mort ; pas de risque de tsunami",
       "url": "https://www.lemonde.fr/international/article/2026/08/15/indonesie-un-puissant-seisme-fait-au-moins-deux-morts-alerte-au-tsunami-levee_6746394_3210.html",
-      "summary": "Dans les provinces du Nusa Tenggara oriental, occidental, et du Sulawesi du Sud, où des habitants ont été appelés à évacuer, les autorités ont finalement levé l’alerte au tsunami déclenchée par un tremblement de terre d’une magnitude de 7,7. Elles disent continuer à surveiller le niveau de la mer par précaution.",
+      "summary": "Dans les provinces du Nusa Tenggara oriental, occidental, et du Sulawesi du Sud, où des habitants ont été appelés à évacuer, les autorités ont finalement levé l’alerte au tsunami déclenchée par un tremblement de terre d’une magnitude de 7,7.",
       "image": "https://img.lemde.fr/2026/08/15/370/0/1600/800/644/322/60/0/748ca0b_ftp-1-bdthpu7xt9rc-2026-08-15t013435z-1634194450-rc2pyma1sgby-rtrmadp-3-indonesia-quake.JPG",
-      "published_at": "2026-08-15T04:19:05+02:00",
+      "published_at": "2026-08-15T04:19:02+02:00",
       "source": "Le Monde",
       "category": "Société",
       "id": "e4728f2b2ed8"
@@ -28,8 +48,8 @@
       "summary": "Le mouvement rebelle, soutenu par l’Iran, a par ailleurs affirmé avoir attaqué un site du géant pétrolier Aramco en Arabie saoudite, pays allié des Etats-Unis.",
       "image": "https://img.lemde.fr/2026/08/14/1000/0/6000/3000/644/322/60/0/75d2a41_ftp-1-abbctl1yx4lu-fc228b7f49934d358c4edb2f9e752dd5-1-f36868767e1c4b1f9ba5a9b8e6a3452c.jpg",
       "published_at": "2026-08-15T02:43:02+02:00",
-      "source": "Le Monde",
-      "category": "Société",
+      "source": "Le Monde Inter",
+      "category": "International",
       "id": "10a898e4d83a"
     },
     {
@@ -278,29 +298,9 @@
       "summary": "L’ICE, cette force de police fédérale chargée par le gouvernement de Donald Trump de mettre en place sa politique d’expulsion massive de sans-papiers, est devenue le symbole des dérives de cette politique vue comme particulièrement brutale.",
       "image": "https://img.lemde.fr/2026/08/13/99/0/3000/1500/644/322/60/0/bbc8e90_ftp-1-0yscv7rapz5u-f0922b898c154942b05625c21403b569-0-6babd9d7d01b48908b877c7d79b6656e.jpg",
       "published_at": "2026-08-14T19:44:38+02:00",
-      "source": "Le Monde",
+      "source": "Le Monde Inter",
       "category": "Politique",
       "id": "0a10ccc2c702"
-    },
-    {
-      "title": "Ce que l'on sait du siège mené par des colons israéliens à Qusra en Cisjordanie occupée",
-      "url": "https://www.franceinfo.fr/monde/proche-orient/guerre/ce-que-l-on-sait-du-siege-mene-par-des-colons-israeliens-a-qusra-en-cisjordanie-occupee_8147663.html#xtor=RSS-3-[lestitres]",
-      "summary": "Depuis le 9 août, des dizaines de colons israéliens ont bloqué l'accès à des maisons dans ce village situé au sud de Naplouse. Les habitants disent avoir été coupés de ce fait de tout approvisionnement en vivres.",
-      "image": "https://www.franceinfo.fr/pictures/aSQA1Zvr0_8OF5m2ghpgcNDNceY/0x66:5541x3183/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f23d2b4f70351827772.jpg",
-      "published_at": "2026-08-14T19:43:19+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "cd3e2731d309"
-    },
-    {
-      "title": "Equipe de France : Zidane présente son staff pour les Bleus, mais ne coache pas la case féminisation",
-      "url": "https://www.liberation.fr/sports/football/equipe-de-france-zidane-presente-son-staff-pour-les-bleus-mais-ne-coache-pas-la-case-feminisation-20260814_KIX2DLWSNRB7JML5ZOCKZY72VI/",
-      "summary": "La Fédération française de football a présenté jeudi 13 août l’encadrement qui épaulera le nouveau sélectionneur. 22 hommes, aucune femme. Pas nouveau, et malheureusement répandu un peu partout dans le foot professionnel.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-14T17:38:46+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "b909210540ab"
     }
   ]
 }
