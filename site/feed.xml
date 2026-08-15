@@ -7,9 +7,69 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Sat, 15 Aug 2026 14:30:42 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 15:28:29 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>EN DIRECT - La vigilance orange canicule levée dans 36 départements à partir de dimanche matin, des villages évacués en Belgique face aux flammes</title>
+    <link>https://www.liberation.fr/environnement/climat/en-direct-incendie-dans-les-landes-reprise-de-feu-dans-la-nuit-1-580-hectares-brules-20260815_IQO2KVYGEZH5BAL5Z4XJURSBQY/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/environnement/climat/en-direct-incendie-dans-les-landes-reprise-de-feu-dans-la-nuit-1-580-hectares-brules-20260815_IQO2KVYGEZH5BAL5Z4XJURSBQY/</guid>
+    <pubDate>Sat, 15 Aug 2026 15:16:06 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Dans les Landes, le feu a repris samedi à l’aube à proximité de Garein. Une centaine de nouvelles évacuations a eu lieu, mais aucune habitation n’est touchée.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Le contrôle judiciaire de Patrick Bruel allégé, révèle «Mediapart»</title>
+    <link>https://www.liberation.fr/societe/police-justice/le-controle-judiciaire-de-patrick-bruel-allege-revele-mediapart-20260815_6IWMFMS3XFD45H632N4T3BV7SU/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/societe/police-justice/le-controle-judiciaire-de-patrick-bruel-allege-revele-mediapart-20260815_6IWMFMS3XFD45H632N4T3BV7SU/</guid>
+    <pubDate>Sat, 15 Aug 2026 15:09:10 +0000</pubDate>
+    <category>Société</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Interrogé par des lecteurs racontant avoir croisé le chanteur à l’étranger, le site d’investigation a découvert que le juge d’instruction avait levé l’interdiction de quitter le pays, mise en place il y a deux mois dans le cadre de sa mise en examen.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Canicule : 28 départements maintenus en vigilance orange dimanche à partir de 6 heures</title>
+    <link>https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-64-departements-maintenus-en-vigilance-orange-une-baisse-des-chaleurs-attendue-dimanche_8148410.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-64-departements-maintenus-en-vigilance-orange-une-baisse-des-chaleurs-attendue-dimanche_8148410.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Sat, 15 Aug 2026 16:45:39 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Trente-six autres départements seront rétrogradés en vigilance jaune ou verte, a fait savoir Météo-France samedi après-midi.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/BKjjNijuai3--3edAyCx5q0Rz1o/0x313:6018x3699/432x243/filters:format(jpg):quality(50)/2026/08/15/6a7ff7a1c5068725703923.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Un poche pour la plage : «l’Homme qui aimait les îles», «le Trou», «les Eveillées»…</title>
+    <link>https://www.liberation.fr/plus/speciaux-cahier-ete/un-poche-pour-la-plage-lhomme-qui-aimait-les-iles-le-trou-les-eveillees-20260815_JLGCPAZ4Q5HXHGN432I4AHPLJA/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/plus/speciaux-cahier-ete/un-poche-pour-la-plage-lhomme-qui-aimait-les-iles-le-trou-les-eveillees-20260815_JLGCPAZ4Q5HXHGN432I4AHPLJA/</guid>
+    <pubDate>Sat, 15 Aug 2026 14:35:00 +0000</pubDate>
+    <category>Culture</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Chaque semaine de l’été, «Libé» vous conseille sept livres à glisser dans votre sac de voyage. Cette semaine, les aventures d’un insulaire, un mystérieux trou au Japon et un recueil de contes.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Sud du Liban : neuf morts, dont des enfants, dans des frappes israéliennes</title>
+    <link>https://www.liberation.fr/international/moyen-orient/sud-du-liban-neuf-morts-dont-des-enfants-dans-des-frappes-israeliennes-20260815_TGA5K3NGVRCDRL5QCHCKCVOPXE/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/international/moyen-orient/sud-du-liban-neuf-morts-dont-des-enfants-dans-des-frappes-israeliennes-20260815_TGA5K3NGVRCDRL5QCHCKCVOPXE/</guid>
+    <pubDate>Sat, 15 Aug 2026 14:32:37 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[C’est le bilan le plus meurtrier depuis des accords conclus en juin, qui avaient vu une baisse des hostilités entre Israël et le Hezbollah. Le mouvement pro-iranien a promis une «riposte».]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>EN DIRECT, incendies et canicule : 64 départements restent en vigilance orange canicule jusqu’à dimanche matin ; 1 650 hectares ravagés par les flammes en Belgique</title>
+    <link>https://www.lemonde.fr/climat/live/2026/08/15/en-direct-incendies-et-canicule-64-departements-resteront-en-vigilance-orange-canicule-dimanche-un-incendie-a-brule-1-650-hectares-de-foret-en-belgique_6744636_1652612.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/climat/live/2026/08/15/en-direct-incendies-et-canicule-64-departements-resteront-en-vigilance-orange-canicule-dimanche-un-incendie-a-brule-1-650-hectares-de-foret-en-belgique_6744636_1652612.html</guid>
+    <pubDate>Sat, 15 Aug 2026 16:29:28 +0000</pubDate>
+    <category>Société</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[Dans son bulletin de 16 heures, Météo-France relève qu’une dégradation orageuse se met en place et que de l’air océanique moins chaud progresse par l’ouest.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/08/15/1250/0/7488/3744/644/322/60/0/1019c2a_ftp-1-2owpx0fagand-5846122-01-06.jpg" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>Piratage du fisc : le parquet de Paris ouvre une enquête</title>
     <link>https://www.lemonde.fr/pixels/article/2026/08/15/piratage-du-fisc-le-parquet-de-paris-ouvre-une-enquete_6746676_4408996.html</link>
@@ -31,16 +91,6 @@
     <enclosure url="https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>Le contrôle judiciaire de Patrick Bruel allégé, révèle «Mediapart»</title>
-    <link>https://www.liberation.fr/societe/police-justice/le-controle-judiciaire-de-patrick-bruel-allege-revele-mediapart-20260815_6IWMFMS3XFD45H632N4T3BV7SU/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/societe/police-justice/le-controle-judiciaire-de-patrick-bruel-allege-revele-mediapart-20260815_6IWMFMS3XFD45H632N4T3BV7SU/</guid>
-    <pubDate>Sat, 15 Aug 2026 14:11:54 +0000</pubDate>
-    <category>Société</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Interrogé par des lecteurs racontant avoir croisé le chanteur à l’étranger, le site d’investigation a découvert que le juge d’instruction avait levé l’interdiction de quitter le pays, mise en place il y a deux mois dans le cadre de sa mise en examen.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
     <title>A Locarno, le Léopard d’or est attribué à « You Don’t Belong Here », du Roumain Florin Serban</title>
     <link>https://www.lemonde.fr/culture/article/2026/08/15/a-locarno-le-leopard-d-or-est-attribue-a-you-don-t-belong-here-du-roumain-florin-serban_6746674_3246.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/culture/article/2026/08/15/a-locarno-le-leopard-d-or-est-attribue-a-you-don-t-belong-here-du-roumain-florin-serban_6746674_3246.html</guid>
@@ -51,14 +101,14 @@
     <enclosure url="https://img.lemde.fr/2026/08/09/952/0/7759/3879/644/322/60/0/17cc2e1_ftp-1-m7dmzss3zhrs-bdb7287c1afe4ee5a8b6a2a989fe327a-0-fffef90a41324f65af7eaeea5b639997.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>Sud du Liban : neuf morts, dont des enfants, dans des frappes israéliennes</title>
-    <link>https://www.liberation.fr/international/moyen-orient/sud-du-liban-neuf-morts-dont-des-enfants-dans-des-frappes-israeliennes-20260815_TGA5K3NGVRCDRL5QCHCKCVOPXE/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/international/moyen-orient/sud-du-liban-neuf-morts-dont-des-enfants-dans-des-frappes-israeliennes-20260815_TGA5K3NGVRCDRL5QCHCKCVOPXE/</guid>
-    <pubDate>Sat, 15 Aug 2026 14:05:45 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[C’est le bilan le plus meurtrier depuis des accords conclus en juin, qui avaient vu une baisse des hostilités entre Israël et le mouvement pro-iranien Hezbollah.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200" type="image/jpeg" length="0" />
+    <title>&quot;You don&apos;t belong here&quot;, film roumain de Florin Serban, et l&apos;actrice italienne Monica Bellucci primés au Festival de Locarno</title>
+    <link>https://www.franceinfo.fr/culture/cinema/un-film-roumain-de-florin-serban-et-monica-bellucci-primes-au-festival-de-locarno_8148899.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/culture/cinema/un-film-roumain-de-florin-serban-et-monica-bellucci-primes-au-festival-de-locarno_8148899.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Sat, 15 Aug 2026 16:05:05 +0000</pubDate>
+    <category>Culture</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Dix-sept films étaient en lice pour le Léopard d'Or, plus haute distinction de ce rendez-vous cinématographique doté d'une récompense partagée entre réalisateur et producteur.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/tLBrK0HpmITcSstTBwnohVUHqpc/0x201:6296x3743/432x243/filters:format(jpg):quality(50)/2026/08/15/6a80713dc3420763393500.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>En 1989, deux chercheurs ont cru révolutionner l’énergie mondiale en bâclant une expérience</title>
@@ -171,22 +221,12 @@
     <enclosure url="https://www.franceinfo.fr/pictures/4cdsXuoUsJrrqaYVJcbREWxJAps/0x285:5472x3363/432x243/filters:format(jpg):quality(50)/2026/08/15/6a803117f2e4c645343188.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>EN DIRECT - Incendies en Europe : alerte maximale en Grèce, une cinquantaine de départs de feux en 24 heures</title>
-    <link>https://www.liberation.fr/environnement/climat/en-direct-incendie-dans-les-landes-reprise-de-feu-dans-la-nuit-1-580-hectares-brules-20260815_IQO2KVYGEZH5BAL5Z4XJURSBQY/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/environnement/climat/en-direct-incendie-dans-les-landes-reprise-de-feu-dans-la-nuit-1-580-hectares-brules-20260815_IQO2KVYGEZH5BAL5Z4XJURSBQY/</guid>
-    <pubDate>Sat, 15 Aug 2026 13:05:43 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Les pompiers sont sur le qui-vive ce samedi sur l’île méditerranéenne en raison de vents violents, à l’origine du départ d’une cinquantaine de feux ces dernières 24 heures.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
     <title>Le Liechtenstein adopte l’égalité hommes-femmes pour la succession au trône</title>
     <link>https://www.lemonde.fr/international/article/2026/08/15/le-liechtenstein-adopte-l-egalite-hommes-femmes-pour-la-succession-au-trone_6746672_3210.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/08/15/le-liechtenstein-adopte-l-egalite-hommes-femmes-pour-la-succession-au-trone_6746672_3210.html</guid>
     <pubDate>Sat, 15 Aug 2026 15:03:53 +0000</pubDate>
     <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
     <description><![CDATA[Le Liechtenstein est une monarchie constitutionnelle dirigée par le prince souverain Hans-Adam II depuis 1989, mais dont le fils, le prince héréditaire Aloïs, assure la régence et la gestion des affaires quotidiennes depuis 2004.]]></description>
     <enclosure url="https://img.lemde.fr/2026/08/15/583/0/3500/1750/644/322/60/0/ca39051_ftp-1-yxpnrthmshkx-2026-08-15t122620z-2074630076-rc20zma1rex7-rtrmadp-3-liechtenstein-politics.JPG" type="image/jpeg" length="0" />
   </item>
@@ -196,7 +236,7 @@
     <guid isPermaLink="true">https://www.lemonde.fr/politique/article/2026/08/15/les-elections-senatoriales-2026-un-scrutin-particulier-pour-les-nouveaux-elus-je-suis-fiere-de-participer-a-cet-exercice-democratique_6746671_823448.html</guid>
     <pubDate>Sat, 15 Aug 2026 15:00:06 +0000</pubDate>
     <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Politique</source>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[Les nouvelles recrues des élections municipales de mars voteront pour la première fois pour élire les 178 sénateurs renouvelés le 27 septembre dans les territoires concernés.]]></description>
     <enclosure url="https://img.lemde.fr/2026/07/11/634/0/2667/1333/644/322/60/0/9713905_upload-1-cos6kojwttvw-img-0459.jpg" type="image/jpeg" length="0" />
   </item>
@@ -261,16 +301,6 @@
     <enclosure url="https://img.lemde.fr/2026/08/08/82/0/4773/2386/644/322/60/0/98d309a_ftp-1-7cajbv1khitu-2115e8a0c8274facb2b47aeba5b646a0-0-7f926d5c1fdc4819a1d7972e943f2cf7.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>Canicule : 64 départements maintenus en vigilance orange, une baisse progressive des températures sur la moitié ouest</title>
-    <link>https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-64-departements-maintenus-en-vigilance-orange-une-baisse-des-chaleurs-attendue-dimanche_8148410.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-64-departements-maintenus-en-vigilance-orange-une-baisse-des-chaleurs-attendue-dimanche_8148410.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sat, 15 Aug 2026 14:07:46 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[La baisse des températures amorcée depuis le pic de jeudi-vendredi devrait cependant s'accompagner d'orages dans le sud-ouest de la France.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/BKjjNijuai3--3edAyCx5q0Rz1o/0x313:6018x3699/432x243/filters:format(jpg):quality(50)/2026/08/15/6a7ff7a1c5068725703923.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
     <title>Deux séismes secouent l’Indonésie, au moins 38 morts</title>
     <link>https://www.liberation.fr/international/asie-pacifique/indonesie-au-moins-20-morts-dans-un-puissant-seisme-20260815_ZA2BHKRBQVATDAOEQCOWV5Q7N4/</link>
     <guid isPermaLink="true">https://www.liberation.fr/international/asie-pacifique/indonesie-au-moins-20-morts-dans-un-puissant-seisme-20260815_ZA2BHKRBQVATDAOEQCOWV5Q7N4/</guid>
@@ -279,36 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">Libération</source>
     <description><![CDATA[Un puissant séisme de magnitude 7,7 a secoué samedi matin l’est de l’Indonésie, faisant au moins 38 morts et poussant des milliers d’habitants des côtes à évacuer de crainte d’une montée des eaux. Un second, de magnitude 6,9, a suivi.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Jason Arday, ancien plus jeune professeur noir de Cambridge, retrouvé mort après des accusations de plagiat</title>
-    <link>https://www.liberation.fr/international/europe/jason-arday-ancien-plus-jeune-professeur-noir-de-cambridge-retrouve-mort-apres-des-accusations-de-plagiat-20260815_25GJDLS3HVC6JG3E34VSCE4XKY/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/international/europe/jason-arday-ancien-plus-jeune-professeur-noir-de-cambridge-retrouve-mort-apres-des-accusations-de-plagiat-20260815_25GJDLS3HVC6JG3E34VSCE4XKY/</guid>
-    <pubDate>Sat, 15 Aug 2026 11:45:23 +0000</pubDate>
-    <category>Société</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Au cœur d’un retentissant scandale de plagiat sur fond de racisme, le doctorant en sociologie de 41 ans a été retrouvé mort vendredi 14 août chez lui. Sa famille dénonce une «campagne de harcèlement».]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Les hommages se multiplient après la mort de Jason Arday, qui fut le plus jeune professeur noir de Cambridge, avant d’être accusé de plagiat</title>
-    <link>https://www.lemonde.fr/international/article/2026/08/15/les-hommages-se-multiplient-apres-la-mort-de-jason-arday-qui-fut-le-plus-jeune-professeur-noir-de-cambridge-avant-d-etre-accuse-de-plagiat_6746667_3210.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/08/15/les-hommages-se-multiplient-apres-la-mort-de-jason-arday-qui-fut-le-plus-jeune-professeur-noir-de-cambridge-avant-d-etre-accuse-de-plagiat_6746667_3210.html</guid>
-    <pubDate>Sat, 15 Aug 2026 13:45:18 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Plusieurs proches et collègues dénoncent aujourd’hui « un harcèlement » que le professeur de sociologie de l’éducation subissait depuis sa nomination il y a trois ans au sein de la prestigieuse université anglaise.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/08/06/314/0/2305/1152/644/322/60/0/39c8945_ftp-1-2i4qof7acign-e3a0108439bc49329c5c6b589b59cdaa-0-fec663b6193143ecafef506499d9628e.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Aurélien Quinion remporte la médaille de bronze sur le marathon marche lors des championnats d&apos;Europe d&apos;athlétisme</title>
-    <link>https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/video-aurelien-quinion-remporte-la-medaille-de-bronze-sur-le-marathon-marche-lors-des-championnats-d-europe-d-athletisme_8148647.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/video-aurelien-quinion-remporte-la-medaille-de-bronze-sur-le-marathon-marche-lors-des-championnats-d-europe-d-athletisme_8148647.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sat, 15 Aug 2026 13:32:15 +0000</pubDate>
-    <category>Sport</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Le marcheur de 33 ans est allé chercher, samedi, la 7e médaille de l'équipe de France depuis le début de la compétition.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/ohFqIaMGzeQATmlo-1nOJmf1New/0x0:4009x2255/432x243/filters:format(jpg):quality(50)/2026/08/15/6a8034aba44a5357825825.jpg" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>

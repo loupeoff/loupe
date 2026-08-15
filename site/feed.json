@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-08-15T14:30:42.073722+00:00",
+  "generated_at": "2026-08-15T15:28:29.151971+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "EN DIRECT - La vigilance orange canicule levée dans 36 départements à partir de dimanche matin, des villages évacués en Belgique face aux flammes",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendie-dans-les-landes-reprise-de-feu-dans-la-nuit-1-580-hectares-brules-20260815_IQO2KVYGEZH5BAL5Z4XJURSBQY/",
+      "summary": "Dans les Landes, le feu a repris samedi à l’aube à proximité de Garein. Une centaine de nouvelles évacuations a eu lieu, mais aucune habitation n’est touchée.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-15T15:16:06+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "ea13d64182dc"
+    },
+    {
+      "title": "Le contrôle judiciaire de Patrick Bruel allégé, révèle «Mediapart»",
+      "url": "https://www.liberation.fr/societe/police-justice/le-controle-judiciaire-de-patrick-bruel-allege-revele-mediapart-20260815_6IWMFMS3XFD45H632N4T3BV7SU/",
+      "summary": "Interrogé par des lecteurs racontant avoir croisé le chanteur à l’étranger, le site d’investigation a découvert que le juge d’instruction avait levé l’interdiction de quitter le pays, mise en place il y a deux mois dans le cadre de sa mise en examen.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-15T15:09:10+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "c412589805a8"
+    },
+    {
+      "title": "Canicule : 28 départements maintenus en vigilance orange dimanche à partir de 6 heures",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-64-departements-maintenus-en-vigilance-orange-une-baisse-des-chaleurs-attendue-dimanche_8148410.html#xtor=RSS-3-[lestitres]",
+      "summary": "Trente-six autres départements seront rétrogradés en vigilance jaune ou verte, a fait savoir Météo-France samedi après-midi.",
+      "image": "https://www.franceinfo.fr/pictures/BKjjNijuai3--3edAyCx5q0Rz1o/0x313:6018x3699/432x243/filters:format(jpg):quality(50)/2026/08/15/6a7ff7a1c5068725703923.jpg",
+      "published_at": "2026-08-15T16:45:39+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "462338bee495"
+    },
+    {
+      "title": "Un poche pour la plage : «l’Homme qui aimait les îles», «le Trou», «les Eveillées»…",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/un-poche-pour-la-plage-lhomme-qui-aimait-les-iles-le-trou-les-eveillees-20260815_JLGCPAZ4Q5HXHGN432I4AHPLJA/",
+      "summary": "Chaque semaine de l’été, «Libé» vous conseille sept livres à glisser dans votre sac de voyage. Cette semaine, les aventures d’un insulaire, un mystérieux trou au Japon et un recueil de contes.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-15T14:35:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "2b30dbbd7513"
+    },
+    {
+      "title": "Sud du Liban : neuf morts, dont des enfants, dans des frappes israéliennes",
+      "url": "https://www.liberation.fr/international/moyen-orient/sud-du-liban-neuf-morts-dont-des-enfants-dans-des-frappes-israeliennes-20260815_TGA5K3NGVRCDRL5QCHCKCVOPXE/",
+      "summary": "C’est le bilan le plus meurtrier depuis des accords conclus en juin, qui avaient vu une baisse des hostilités entre Israël et le Hezbollah. Le mouvement pro-iranien a promis une «riposte».",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-08-15T14:32:37+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "ef6986e276d5"
+    },
+    {
+      "title": "EN DIRECT, incendies et canicule : 64 départements restent en vigilance orange canicule jusqu’à dimanche matin ; 1 650 hectares ravagés par les flammes en Belgique",
+      "url": "https://www.lemonde.fr/climat/live/2026/08/15/en-direct-incendies-et-canicule-64-departements-resteront-en-vigilance-orange-canicule-dimanche-un-incendie-a-brule-1-650-hectares-de-foret-en-belgique_6744636_1652612.html",
+      "summary": "Dans son bulletin de 16 heures, Météo-France relève qu’une dégradation orageuse se met en place et que de l’air océanique moins chaud progresse par l’ouest.",
+      "image": "https://img.lemde.fr/2026/08/15/1250/0/7488/3744/644/322/60/0/1019c2a_ftp-1-2owpx0fagand-5846122-01-06.jpg",
+      "published_at": "2026-08-15T16:29:28+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "d1ea28ce15cc"
+    },
     {
       "title": "Piratage du fisc : le parquet de Paris ouvre une enquête",
       "url": "https://www.lemonde.fr/pixels/article/2026/08/15/piratage-du-fisc-le-parquet-de-paris-ouvre-une-enquete_6746676_4408996.html",
@@ -23,16 +83,6 @@
       "id": "d1e72e176732"
     },
     {
-      "title": "Le contrôle judiciaire de Patrick Bruel allégé, révèle «Mediapart»",
-      "url": "https://www.liberation.fr/societe/police-justice/le-controle-judiciaire-de-patrick-bruel-allege-revele-mediapart-20260815_6IWMFMS3XFD45H632N4T3BV7SU/",
-      "summary": "Interrogé par des lecteurs racontant avoir croisé le chanteur à l’étranger, le site d’investigation a découvert que le juge d’instruction avait levé l’interdiction de quitter le pays, mise en place il y a deux mois dans le cadre de sa mise en examen.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-15T14:11:54+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "c412589805a8"
-    },
-    {
       "title": "A Locarno, le Léopard d’or est attribué à « You Don’t Belong Here », du Roumain Florin Serban",
       "url": "https://www.lemonde.fr/culture/article/2026/08/15/a-locarno-le-leopard-d-or-est-attribue-a-you-don-t-belong-here-du-roumain-florin-serban_6746674_3246.html",
       "summary": "« Nowhere To Lay My Eyes », de Hong Sang-soo, a reçu le prix de la meilleure réalisation, et sa comédienne, Kim Min-hee, celui de la meilleure interprétation.",
@@ -43,14 +93,14 @@
       "id": "cda82c27efe2"
     },
     {
-      "title": "Sud du Liban : neuf morts, dont des enfants, dans des frappes israéliennes",
-      "url": "https://www.liberation.fr/international/moyen-orient/sud-du-liban-neuf-morts-dont-des-enfants-dans-des-frappes-israeliennes-20260815_TGA5K3NGVRCDRL5QCHCKCVOPXE/",
-      "summary": "C’est le bilan le plus meurtrier depuis des accords conclus en juin, qui avaient vu une baisse des hostilités entre Israël et le mouvement pro-iranien Hezbollah.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-15T14:05:45+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "ef6986e276d5"
+      "title": "\"You don't belong here\", film roumain de Florin Serban, et l'actrice italienne Monica Bellucci primés au Festival de Locarno",
+      "url": "https://www.franceinfo.fr/culture/cinema/un-film-roumain-de-florin-serban-et-monica-bellucci-primes-au-festival-de-locarno_8148899.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dix-sept films étaient en lice pour le Léopard d'Or, plus haute distinction de ce rendez-vous cinématographique doté d'une récompense partagée entre réalisateur et producteur.",
+      "image": "https://www.franceinfo.fr/pictures/tLBrK0HpmITcSstTBwnohVUHqpc/0x201:6296x3743/432x243/filters:format(jpg):quality(50)/2026/08/15/6a80713dc3420763393500.jpg",
+      "published_at": "2026-08-15T16:05:05+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "5b0781fe68bd"
     },
     {
       "title": "En 1989, deux chercheurs ont cru révolutionner l’énergie mondiale en bâclant une expérience",
@@ -163,22 +213,12 @@
       "id": "03e12985fa21"
     },
     {
-      "title": "EN DIRECT - Incendies en Europe : alerte maximale en Grèce, une cinquantaine de départs de feux en 24 heures",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendie-dans-les-landes-reprise-de-feu-dans-la-nuit-1-580-hectares-brules-20260815_IQO2KVYGEZH5BAL5Z4XJURSBQY/",
-      "summary": "Les pompiers sont sur le qui-vive ce samedi sur l’île méditerranéenne en raison de vents violents, à l’origine du départ d’une cinquantaine de feux ces dernières 24 heures.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-15T13:05:43+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "ea13d64182dc"
-    },
-    {
       "title": "Le Liechtenstein adopte l’égalité hommes-femmes pour la succession au trône",
       "url": "https://www.lemonde.fr/international/article/2026/08/15/le-liechtenstein-adopte-l-egalite-hommes-femmes-pour-la-succession-au-trone_6746672_3210.html",
       "summary": "Le Liechtenstein est une monarchie constitutionnelle dirigée par le prince souverain Hans-Adam II depuis 1989, mais dont le fils, le prince héréditaire Aloïs, assure la régence et la gestion des affaires quotidiennes depuis 2004.",
       "image": "https://img.lemde.fr/2026/08/15/583/0/3500/1750/644/322/60/0/ca39051_ftp-1-yxpnrthmshkx-2026-08-15t122620z-2074630076-rc20zma1rex7-rtrmadp-3-liechtenstein-politics.JPG",
       "published_at": "2026-08-15T15:03:53+02:00",
-      "source": "Le Monde",
+      "source": "Le Monde Inter",
       "category": "Sport",
       "id": "5854f06aca16"
     },
@@ -188,7 +228,7 @@
       "summary": "Les nouvelles recrues des élections municipales de mars voteront pour la première fois pour élire les 178 sénateurs renouvelés le 27 septembre dans les territoires concernés.",
       "image": "https://img.lemde.fr/2026/07/11/634/0/2667/1333/644/322/60/0/9713905_upload-1-cos6kojwttvw-img-0459.jpg",
       "published_at": "2026-08-15T15:00:06+02:00",
-      "source": "Le Monde Politique",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "c2777a0c659d"
     },
@@ -253,16 +293,6 @@
       "id": "dd9420aaf67f"
     },
     {
-      "title": "Canicule : 64 départements maintenus en vigilance orange, une baisse progressive des températures sur la moitié ouest",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-64-departements-maintenus-en-vigilance-orange-une-baisse-des-chaleurs-attendue-dimanche_8148410.html#xtor=RSS-3-[lestitres]",
-      "summary": "La baisse des températures amorcée depuis le pic de jeudi-vendredi devrait cependant s'accompagner d'orages dans le sud-ouest de la France.",
-      "image": "https://www.franceinfo.fr/pictures/BKjjNijuai3--3edAyCx5q0Rz1o/0x313:6018x3699/432x243/filters:format(jpg):quality(50)/2026/08/15/6a7ff7a1c5068725703923.jpg",
-      "published_at": "2026-08-15T14:07:46+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "462338bee495"
-    },
-    {
       "title": "Deux séismes secouent l’Indonésie, au moins 38 morts",
       "url": "https://www.liberation.fr/international/asie-pacifique/indonesie-au-moins-20-morts-dans-un-puissant-seisme-20260815_ZA2BHKRBQVATDAOEQCOWV5Q7N4/",
       "summary": "Un puissant séisme de magnitude 7,7 a secoué samedi matin l’est de l’Indonésie, faisant au moins 38 morts et poussant des milliers d’habitants des côtes à évacuer de crainte d’une montée des eaux. Un second, de magnitude 6,9, a suivi.",
@@ -271,36 +301,6 @@
       "source": "Libération",
       "category": "Société",
       "id": "3bf87955f2cd"
-    },
-    {
-      "title": "Jason Arday, ancien plus jeune professeur noir de Cambridge, retrouvé mort après des accusations de plagiat",
-      "url": "https://www.liberation.fr/international/europe/jason-arday-ancien-plus-jeune-professeur-noir-de-cambridge-retrouve-mort-apres-des-accusations-de-plagiat-20260815_25GJDLS3HVC6JG3E34VSCE4XKY/",
-      "summary": "Au cœur d’un retentissant scandale de plagiat sur fond de racisme, le doctorant en sociologie de 41 ans a été retrouvé mort vendredi 14 août chez lui. Sa famille dénonce une «campagne de harcèlement».",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-15T11:45:23+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "a3b14fa40e07"
-    },
-    {
-      "title": "Les hommages se multiplient après la mort de Jason Arday, qui fut le plus jeune professeur noir de Cambridge, avant d’être accusé de plagiat",
-      "url": "https://www.lemonde.fr/international/article/2026/08/15/les-hommages-se-multiplient-apres-la-mort-de-jason-arday-qui-fut-le-plus-jeune-professeur-noir-de-cambridge-avant-d-etre-accuse-de-plagiat_6746667_3210.html",
-      "summary": "Plusieurs proches et collègues dénoncent aujourd’hui « un harcèlement » que le professeur de sociologie de l’éducation subissait depuis sa nomination il y a trois ans au sein de la prestigieuse université anglaise.",
-      "image": "https://img.lemde.fr/2026/08/06/314/0/2305/1152/644/322/60/0/39c8945_ftp-1-2i4qof7acign-e3a0108439bc49329c5c6b589b59cdaa-0-fec663b6193143ecafef506499d9628e.jpg",
-      "published_at": "2026-08-15T13:45:18+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "33e7da9e711f"
-    },
-    {
-      "title": "Aurélien Quinion remporte la médaille de bronze sur le marathon marche lors des championnats d'Europe d'athlétisme",
-      "url": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/video-aurelien-quinion-remporte-la-medaille-de-bronze-sur-le-marathon-marche-lors-des-championnats-d-europe-d-athletisme_8148647.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le marcheur de 33 ans est allé chercher, samedi, la 7e médaille de l'équipe de France depuis le début de la compétition.",
-      "image": "https://www.franceinfo.fr/pictures/ohFqIaMGzeQATmlo-1nOJmf1New/0x0:4009x2255/432x243/filters:format(jpg):quality(50)/2026/08/15/6a8034aba44a5357825825.jpg",
-      "published_at": "2026-08-15T13:32:15+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "11d7bdeccedf"
     }
   ]
 }
