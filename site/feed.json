@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-08-16T01:50:41.581110+00:00",
+  "generated_at": "2026-08-16T03:07:48.201336+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "EN DIRECT, guerre en Ukraine : le maire de Kiev annonce une attaque de missiles alors que retentissent des explosions dans la capitale",
+      "title": "« Les questions que pose une famille qui veut s’installer, c’est : “Où est l’école et où peut-on se faire soigner ?” » : dans les Vosges, les maires essaient d’attirer les jeunes couples",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/16/les-questions-que-pose-une-famille-qui-veut-s-installer-c-est-ou-est-l-ecole-et-ou-peut-on-se-faire-soigner-dans-les-vosges-les-maires-essaient-d-attirer-les-jeunes-couples_6747052_823448.html",
+      "summary": "Le département vosgien pourrait perdre un tiers de ses habitants d’ici à 2070. Un électrochoc pour les élus locaux, qui tentent de sauver leurs villages.",
+      "image": "https://img.lemde.fr/2026/07/11/1333/0/2667/1333/644/322/60/0/e0a4313_upload-1-0uprat4g3r4c-img-0481.jpg",
+      "published_at": "2026-08-16T05:00:08+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "fd1a824163ce"
+    },
+    {
+      "title": "Le nouveau président colombien demande à son allié Donald Trump de suspendre les droits de douane après le séisme",
+      "url": "https://www.lemonde.fr/international/article/2026/08/16/le-nouveau-president-colombien-demande-a-son-allie-donald-trump-de-suspendre-les-droits-de-douane-apres-le-seisme_6747018_3210.html",
+      "summary": "Abelardo de la Espriella a déclaré s’être entretenu avec son homologue américain, alors que les opérations de secours se poursuivent. A l’exception de certains produits, les droits de douane des Etats-Unis sur les produits colombiens sont passés de 10 % à 12,5 %, fin juillet.",
+      "image": "https://img.lemde.fr/2026/08/14/435/0/5828/2914/644/322/60/0/95ea5da_ftp-1-mr1atl20mo0u-2026-08-14t205649z-605857561-rc2jymaqq453-rtrmadp-3-colombia-quake.JPG",
+      "published_at": "2026-08-16T04:43:01+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "bf28ce1f0f3e"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : un blessé à Kiev après l’annonce d’une attaque de missiles par le maire de la capitale",
       "url": "https://www.lemonde.fr/international/live/2026/08/16/en-direct-guerre-en-ukraine-le-maire-de-kiev-annonce-une-attaque-de-missiles-alors-que-retentissent-des-explosions-dans-la-capitale_6746952_3210.html",
-      "summary": "« Restez aux abris ! », a lancé aux habitants Vitali Klitschko, sur Telegram, peu avant 3 heures locales (2 heures à Paris). L’administration militaire de la capitale a fait état d’un incendie dans un bâtiment non résidentiel dans le quartier Obolonsky.",
-      "image": "https://img.lemde.fr/2026/08/15/335/0/5416/2708/644/322/60/0/1c30fcc_ftp-1-rxcqex0zcmms-5849738-01-06.jpg",
+      "summary": "« Restez aux abris ! », a lancé aux habitants Vitali Klitschko, sur Telegram, durant la nuit. Par ailleurs, à Kryvy Rih, dans le centre de l’Ukraine, une personne a été tuée et six autres blessées.",
+      "image": "https://img.lemde.fr/2026/08/16/575/0/5751/2875/644/322/60/0/82f1212_ftp-1-mlhxoh5g4gkx-cbb43744a9274a59b8953071c3359058-0-ba6563557cf641c0b90852c25e15295f.jpg",
       "published_at": "2026-08-16T02:47:40+02:00",
       "source": "Le Monde",
       "category": "International",
@@ -281,26 +301,6 @@
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "47e84c76f1dd"
-    },
-    {
-      "title": "Espagne : un séisme rare de magnitude 5 secoue Grenade, pas de victimes",
-      "url": "https://www.liberation.fr/international/europe/espagne-grenade-secoue-par-un-rare-seisme-de-magnitude-5-pas-de-victimes-20260815_KPEU757GUZADDK3R3PG3GM2ZPM/",
-      "summary": "La ville touristique d’Andalousie a subi dans la nuit un tremblement de terre qui n’a fait que des dégâts matériels isolés. Le palais de l’Alhambra n’a pas été endommagé. Le dernier séisme de cette magnitude remonte à 1955.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-15T16:04:43+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "3ee730504465"
-    },
-    {
-      "title": "Ce RPG gratuit encore en pré-alpha m’a redonné envie de me perdre dans un monde ouvert",
-      "url": "https://www.numerama.com/pop-culture/2311465-ce-mmorpg-gratuit-encore-en-pre-alpha-ma-redonne-envie-de-me-perdre-dans-un-monde-ouvert.html",
-      "summary": "Je cherchais simplement un jeu capable de combler le vide laissé par Destiny 2. Je suis finalement tombé sur un monde ouvert que je n’avais plus envie de quitter. Son nom ? Soulframe.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-15T16:01:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "97139c604575"
     }
   ]
 }
