@@ -1,13 +1,73 @@
 {
-  "generated_at": "2026-08-16T10:30:43.857788+00:00",
+  "generated_at": "2026-08-16T11:26:58.972282+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Liban : Israël jure de s’en prendre encore au Hezbollah après des bombardements qui ont fait au moins onze morts dans le sud du pays",
+      "title": "Au moins 12 morts dans des frappes en Russie et en Ukraine, la région de Moscou visée par 600 drones",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-nouvelle-nuit-de-frappes-dans-la-region-de-moscou-et-a-kiev_8149607.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le gouverneur de la région de Moscou, Andreï Vorobiov, a qualifié l'attaque d'\"une des plus massives de mémoire récente\".",
+      "image": "https://www.franceinfo.fr/pictures/0i6LTitm9Gyc3d8rFzLllTzWMEM/0x312:6000x3687/432x243/filters:format(jpg):quality(50)/2026/08/16/6a816e3636d4d464331705.jpg",
+      "published_at": "2026-08-16T13:09:43+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "d2a82a4fa9a8"
+    },
+    {
+      "title": "Le contrôle judiciaire de Patrick Bruel allégé, révèle «Mediapart», colère de Corinne Hermann, l’avocate de Flavie Flament",
+      "url": "https://www.liberation.fr/societe/police-justice/le-controle-judiciaire-de-patrick-bruel-allege-revele-mediapart-20260815_6IWMFMS3XFD45H632N4T3BV7SU/",
+      "summary": "Interrogé par des lecteurs racontant avoir croisé le chanteur à l’étranger, le site d’investigation a découvert que le juge d’instruction avait levé l’interdiction de quitter le pays, mise en place il y a deux mois dans le cadre de sa mise en examen.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-16T10:47:48+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "c412589805a8"
+    },
+    {
+      "title": "«J’identifie les petits détails que je dois ajuster» : comment le nageur roumain David Popovici a tracé sa route vers un double sacre à Saint-Denis",
+      "url": "https://www.liberation.fr/sports/jidentifie-les-petits-details-que-je-dois-ajuster-comment-le-nageur-roumain-david-popovici-a-trace-sa-route-vers-un-double-sacre-a-saint-denis-20260816_WZFSLFXWK5D45CQCHJMLHMUT5Y/",
+      "summary": "Après ses titres sur 100 m et 200 m, le double champion d’Europe revient auprès de «Libé» sur sa folle année, passée à se frotter à la fusée chinoise Pan Zhanle, à préparer le terrain en vue d’un nouveau record du monde mais aussi à prendre soin de lui.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-16T10:40:29+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "32b3664f3e39"
+    },
+    {
+      "title": "Euro d’athlétisme : la France décroche sa neuvième médaille, avec le bronze par équipes remporté par les marathoniens",
+      "url": "https://www.lemonde.fr/sport/article/2026/08/16/euro-d-athletisme-la-france-decroche-sa-neuvieme-medaille-avec-le-bronze-par-equipes-remporte-par-les-marathoniens_6747399_3242.html",
+      "summary": "Grâce aux performances cumulées de ses marathoniens, la délégation tricolore a décroché une neuvième médaille, en bronze, dimanche. Valentin Gondouin, le Français le mieux classé, a terminé à la 6ᵉ place.",
+      "image": "https://img.lemde.fr/2026/08/16/533/0/4043/2021/644/322/60/0/7dc45ed_ftp-1-arz1orfn2sb5-5854060-01-06.jpg",
+      "published_at": "2026-08-16T12:38:55+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "c3f83eea8e84"
+    },
+    {
+      "title": "Accident d’un car polonais en Hongrie : Varsovie envoie un avion sanitaire à Budapest",
+      "url": "https://www.liberation.fr/international/europe/un-bus-sest-renverse-en-hongrie-12-morts-et-au-moins-10-blesses-graves-20260816_KUJ7HFXN6FAQPO7X3J4HL7XEXU/",
+      "summary": "L’autocar qui venait de Serbie s’est renversé dans la nuit sur l’autoroute faisant 12 morts et au moins 10 blessés graves. Il s’agit du plus grave accident de bus survenu dans le pays depuis la catastrophe de Siófok en 2003.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-16T10:33:29+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "feacff842e89"
+    },
+    {
+      "title": "Belgique : les images d’un des pires incendies de l’histoire du pays",
+      "url": "https://www.lemonde.fr/international/video/2026/08/16/belgique-les-images-d-un-des-pires-incendies-de-l-histoire-du-pays_6747398_3210.html",
+      "summary": "Près de 3 000 hectares ont été ravagés dans l’incendie dans les Hautes Fagnes, une grande réserve de l’est du pays, selon les autorités wallonnes dimanche matin.",
+      "image": "https://img.lemde.fr/2026/08/15/248/0/4032/2016/644/322/60/0/fd32b26_ftp-1-a6vh6wp5yeqz-5848530-01-06.jpg",
+      "published_at": "2026-08-16T12:30:12+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "5b6736b8735c"
+    },
+    {
+      "title": "Liban : Israël jure de s’en prendre encore au Hezbollah après des bombardements qui ont fait au moins 11 morts dans le sud du pays",
       "url": "https://www.lemonde.fr/international/article/2026/08/16/liban-israel-jure-de-s-en-prendre-encore-au-hezbollah-apres-des-bombardements-qui-ont-fait-au-moins-onze-morts-dans-le-sud-du-pays_6746618_3211.html",
       "summary": "Le président libanais, Joseph Aoun, a estimé que les frappes de samedi constituaient un « message clair » pour l’avenir des négociations entre Israël et le Liban, avant un nouveau cycle de pourparlers prévu en septembre.",
       "image": "https://img.lemde.fr/2026/08/15/613/0/6000/3000/644/322/60/0/8683d04_ftp-1-yjhwupm6phhp-5845608-01-06.jpg",
-      "published_at": "2026-08-16T12:23:30+02:00",
+      "published_at": "2026-08-16T12:23:27+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "0a7297057a6e"
@@ -153,16 +213,6 @@
       "id": "7f5b7363b0b5"
     },
     {
-      "title": "Hongrie : 12 morts et au moins 10 blessés graves dans l’accident d’un bus immatriculé en Pologne",
-      "url": "https://www.liberation.fr/international/europe/un-bus-sest-renverse-en-hongrie-12-morts-et-au-moins-10-blesses-graves-20260816_KUJ7HFXN6FAQPO7X3J4HL7XEXU/",
-      "summary": "L’autocar circulait de la Serbie vers la Pologne et transportait 57 passagers lorsqu’il s’est renversé sur l’autoroute. Il s’agit du plus grave accident de bus survenu dans le pays depuis la catastrophe de Siófok en 2003.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-16T09:07:31+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "feacff842e89"
-    },
-    {
       "title": "Léon Marchand qualifié pour la finale du 400 m nage libre des championnats d'Europe de natation",
       "url": "https://www.franceinfo.fr/sports/natation/championnats-d-europe-de-natation/video-leon-marchand-qualifie-pour-la-finale-du-400-m-nage-libre-des-championnats-d-europe-de-natation_8149655.html#xtor=RSS-3-[lestitres]",
       "summary": "Quelques heures après son titre sur le 200 m papillon, le quadruple champion olympique ne s'est pas loupé, dimanche, lors des séries du 400 m nage libre.",
@@ -251,56 +301,6 @@
       "source": "Le Monde",
       "category": "International",
       "id": "ccfcc13f4b71"
-    },
-    {
-      "title": "Après des orages, le clocher d'une église en flammes dans l'Aveyron, des dizaines d'interventions des pompiers dans le Gard",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/orages-le-clocher-d-une-eglise-en-flammes-dans-l-aveyron-des-dizaines-d-interventions-des-pompiers-dans-le-gard_8149622.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'ouest de l'Aveyron a été fortement touché par les orages. Une soixantaine de départements ont été placés en vigilance jaune par Météo-France.",
-      "image": "https://www.franceinfo.fr/pictures/9iekVqeC8kHR_o1innrpf2HDIno/0x415:3987x2658/432x243/filters:format(jpg):quality(50)/2026/08/16/6a816f862ed55725127774.jpg",
-      "published_at": "2026-08-16T10:13:44+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "6bb1f0e0c19d"
-    },
-    {
-      "title": "Guerre en Ukraine : nouvelle nuit de frappes dans la région de Moscou et à Kiev",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-nouvelle-nuit-de-frappes-dans-la-region-de-moscou-et-a-kiev_8149607.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les autorités des deux pays ont fait état au total de six morts dans la nuit : trois dans la région russe de Rostov et trois en Ukraine.",
-      "image": "https://www.franceinfo.fr/pictures/0i6LTitm9Gyc3d8rFzLllTzWMEM/0x312:6000x3687/432x243/filters:format(jpg):quality(50)/2026/08/16/6a816e3636d4d464331705.jpg",
-      "published_at": "2026-08-16T10:09:05+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "d2a82a4fa9a8"
-    },
-    {
-      "title": "Séismes en Indonésie : au moins 48 morts et des milliers d’évacués",
-      "url": "https://www.liberation.fr/international/asie-pacifique/indonesie-au-moins-20-morts-dans-un-puissant-seisme-20260815_ZA2BHKRBQVATDAOEQCOWV5Q7N4/",
-      "summary": "Un puissant séisme de magnitude 7,7, puis plus de 300 répliques, ont secoué samedi 15 août l’Indonésie. Des milliers d’habitants ont fui les côtes par crainte d’une montée des eaux.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-16T08:09:01+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "3bf87955f2cd"
-    },
-    {
-      "title": "En Hongrie, 12 morts et 10 blessés dans l’accident d’un car immatriculé en Pologne",
-      "url": "https://www.lemonde.fr/international/article/2026/08/16/en-hongrie-12-morts-et-10-blesses-dans-l-accident-d-un-car-immatricule-en-pologne_6747299_3210.html",
-      "summary": "Ce car, qui circulait de Serbie vers la Pologne et transportait 57 passagers et deux conducteurs, « a quitté la chaussée, a fini sa course dans un fossé et s’est immobilisé sur le flanc », a annoncé l’office national chargé de la gestion des catastrophes.",
-      "image": "https://img.lemde.fr/2026/08/16/688/0/8256/4128/644/322/60/0/bddb4a3_ftp-1-80703z0x8udn-da00265cdaa34a3da3b810366b8e6132-0-aaa30a6de16a49e08826190784a61ba1.jpg",
-      "published_at": "2026-08-16T10:05:49+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "bd2e235bece5"
-    },
-    {
-      "title": "Les Girondins de Bordeaux, menacés d'exclusion des championnats nationaux, vont déposer un recours en référé au tribunal administratif",
-      "url": "https://www.franceinfo.fr/sports/foot/les-girondins-de-bordeaux-menaces-d-exclusion-des-championnats-nationaux-vont-deposer-un-recours-en-refere-au-tribunal-administratif_8149595.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le club, via la voix de son futur président, l'a annoncé dans un entretien accordé à Sud Ouest dimanche.",
-      "image": "https://www.franceinfo.fr/pictures/2pz9B6fgRVj8prGtPpVobuKasgQ/0x491:5800x3753/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f6f38633fb773211058.jpg",
-      "published_at": "2026-08-16T09:55:04+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "533b276ab0d9"
     }
   ]
 }
