@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-08-16T22:29:28.592953+00:00",
+  "generated_at": "2026-08-16T23:27:25.911865+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Donald Trump a demandé à réduire les exercices militaires menés avec la Corée du Sud pour préserver ses liens avec le dirigeant nord-coréen, Kim Jong-un",
+      "url": "https://www.lemonde.fr/international/article/2026/08/17/donald-trump-demande-a-reduire-les-exercices-militaires-menes-avec-la-coree-du-sud-pour-preserver-ses-liens-avec-le-dirigeant-nord-coreen-kim-jong-un_6747888_3210.html",
+      "summary": "Selon le président américain, ces exercices, qui doivent commencer lundi, sont « coûteux » et « envoient un signal totalement inapproprié et hostile » envers Pyongyang. Séoul affirme que ces manœuvres avec les Etats-Unis « se dérouleront comme prévu ».",
+      "image": "https://img.lemde.fr/2026/08/04/522/0/8111/4055/644/322/60/0/1dca851_ftp-1-ahrm5wye4axd-959c3b14319945109ff61623eb11b24d-0-0c6e4d25de0840879eb2f4f134473748.jpg",
+      "published_at": "2026-08-17T01:14:58+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "f2fcc5837fe6"
+    },
     {
       "title": "Orages : la foudre s'abat sur le clocher d'une église dans l’Aveyron, provoquant un incendie",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/orages-la-foudre-s-abat-sur-le-clocher-d-une-eglise-dans-l-aveyron-provoquant-un-incendie_8150240.html#xtor=RSS-3-[lestitres]",
@@ -51,6 +61,16 @@
       "source": "France Info",
       "category": "Sport",
       "id": "f1dc7f1a7d6c"
+    },
+    {
+      "title": "Euro d’athlétisme : la France décroche deux dernières médailles, en bronze, grâce à Hilary Kpatcha et Baptiste Thiery",
+      "url": "https://www.lemonde.fr/sport/article/2026/08/16/euro-d-athletisme-la-france-decroche-deux-dernieres-medailles-en-bronze-grace-a-hilary-kpatcha-et-baptiste-thiery_6747822_3242.html",
+      "summary": "La délégation tricolore a remporté ses dixième et onzième médailles lors de la compétition continentale, dimanche. Hilary Kpatcha et Baptiste Thiery ont tous deux décroché le bronze, la première en saut en longueur, le second en saut à la perche.",
+      "image": "https://img.lemde.fr/2026/08/16/490/0/5883/2941/644/322/60/0/cf2e2f2_ftp-1-8k5q3rawo5rd-5857917-01-06.jpg",
+      "published_at": "2026-08-16T23:09:13+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "146d2261e43d"
     },
     {
       "title": "Longtemps en infériorité numérique, le RC Lens résiste au PSG et remporte le premier Trophée des champions de son histoire",
@@ -281,26 +301,6 @@
       "source": "Libération",
       "category": "Sport",
       "id": "d7bc83f374e8"
-    },
-    {
-      "title": "Ce qu’il faut retenir de l’actualité du week-end des 15 et 16 août",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/08/16/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-15-et-16-aout_6747683_4355770.html",
-      "summary": "Vous n’avez pas suivi l’actualité ? Voici ce qu’il s’est passé pendant ces dernières quarante-huit heures.",
-      "image": "https://img.lemde.fr/2026/08/16/0/0/8064/4032/644/322/60/0/9408fb8_ftp-1-ht3ubtuuloik-2026-08-16t112114z-1967041836-rc2mzma6tk2b-rtrmadp-3-europe-weather-belgium-wildfire.JPG",
-      "published_at": "2026-08-16T19:17:33+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "e9d58e9c4a93"
-    },
-    {
-      "title": "Incendie dans les Landes : le feu est \"contenu\", une cinquantaine de personnes vont pouvoir réintégrer leur logement dès dimanche soir, selon le préfet",
-      "url": "https://www.franceinfo.fr/faits-divers/incendie/incendie-dans-les-landes-la-situation-evolue-plutot-favorablement-sans-reprise-majeure-cette-nuit-selon-le-prefet_8149556.html#xtor=RSS-3-[lestitres]",
-      "summary": "Gilles Clavreul a par ailleurs annoncé lors d'un point-presse la réouverture de la route départementale 834 à partir de 20 heures.",
-      "image": "https://www.franceinfo.fr/pictures/xFGUFmtq9vL51vKHXCfX2TiYFUc/0x0:4107x2310/432x243/filters:format(jpg):quality(50)/2026/08/16/6a815503d0382747922929.jpg",
-      "published_at": "2026-08-16T19:16:19+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "edee83a4b36e"
     }
   ]
 }
