@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-08-16T13:37:08.406732+00:00",
+  "generated_at": "2026-08-16T14:30:35.392158+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "EN DIRECT - Incendies : deux morts et des centaines d’évacuation sur l’île de Salamine, près d’Athènes",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendie-dans-les-landes-la-situation-evolue-plutot-favorablement-mais-pas-encore-de-retour-a-domicile-20260816_RXAJR6YU4NGMRAXNPXSLV4I2PE/",
+      "summary": "Deux feux se sont déclarés quasi simultanément dimanche dans deux zones réputées pour la baignade dans le sud et l’est de l’île, destination privilégiée des Athéniens pendant les vacances et les week-ends.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-16T14:21:03+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "a0d9c5e1a816"
+    },
+    {
+      "title": "Canicule : seuls six départements du Sud-Est maintenus en vigilance orange lundi à partir de 6 heures",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-seuls-le-sud-est-et-une-partie-de-l-est-de-la-france-restent-en-vigilance-orange-28-departements-concernes_8149508.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dimanche après-midi, 28 départements sont toujours concernés par cette alerte.",
+      "image": "https://www.franceinfo.fr/pictures/59fW8H7Kgf294QDf-4RsIerMOpk/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/16/6a81c602422d4748943878.jpg",
+      "published_at": "2026-08-16T16:20:39+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "7f5b7363b0b5"
+    },
+    {
+      "title": "Séismes en Indonésie : au moins 53 morts et des milliers d’évacués",
+      "url": "https://www.liberation.fr/international/asie-pacifique/indonesie-au-moins-20-morts-dans-un-puissant-seisme-20260815_ZA2BHKRBQVATDAOEQCOWV5Q7N4/",
+      "summary": "Un puissant séisme de magnitude 7,7, puis plus de 300 répliques, ont secoué samedi 15 août l’Indonésie. Des milliers d’habitants ont fui les côtes par crainte d’une montée des eaux.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-16T14:01:31+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "3bf87955f2cd"
+    },
+    {
+      "title": "EN DIRECT, incendies et canicule : le feu en Belgique provoque un pic de pollution de l’air en Moselle ; dans les Landes, l’incendie est « stable » et a parcouru 1 700 hectares",
+      "url": "https://www.lemonde.fr/climat/live/2026/08/16/en-direct-incendies-et-canicule-le-feu-qui-ravage-l-est-de-la-belqique-provoque-un-pic-de-pollution-de-l-air-en-moselle-dans-les-landes-le-feu-est-stable-et-a-parcouru-1700-hectares_6744636_1652612.html",
+      "summary": "Près de 3 000 hectares ont été ravagés par les flammes dans les Fagnes, une grande réserve de l’est de la Belgique. A Luglon, dans les Landes, le feu qui s’est déclaré jeudi n’a pas connu de « reprise majeure » dans la nuit, a annoncé le préfet, tout en excluant un retour prochain des 650 personnes évacuées.",
+      "image": "https://img.lemde.fr/2026/08/16/1014/0/8186/4093/644/322/60/0/5652d26_ftp-1-w6qtqn0fe0y5-6266d597ae4b424abc78122e668e6552-0-c12521bc0aa44ae1a6eb2e65acef93f7.jpg",
+      "published_at": "2026-08-16T15:46:37+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "6219ed28a7b3"
+    },
+    {
+      "title": "«Lost Weekend» de Phoebe Bridgers : dans l’œil de l’icône",
+      "url": "https://www.liberation.fr/culture/musique/lost-weekend-de-phoebe-bridgers-dans-loeil-de-licone-20260816_M7ZP7RSEONGCFAYPLUFFXYEXZQ/",
+      "summary": "Avec son troisième album, «Lost Weekend», la chanteuse californienne transforme son statut de nouvelle égérie pop en réflexion musicale sur les vanités et les impasses de la société du spectacle contemporain à l’ère d’Internet.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-16T13:45:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "28035f9894d9"
+    },
+    {
+      "title": "Un Boeing 787 de la Vietnam Airlines revient se poser à Munich après un incident au décollage",
+      "url": "https://www.liberation.fr/economie/transports/un-boeing-787-de-la-vietnam-airlines-revient-se-poser-a-munich-apres-un-incident-au-decollage-20260816_XYLYJ7OQKRAMTLBSQ3NPNLEGX4/",
+      "summary": "L’avion devait rejoindre Hanoï samedi, mais il a été contraint de revenir à l’aéroport allemand en raison de problèmes techniques. L’arrière de l’appareil aurait touché le sol lors de la phase délicate du décollage.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-16T13:36:11+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "532d62813a7a"
+    },
+    {
+      "title": "À Montpellier, un jeune homme de 19 ans meurt après avoir reçu une balle dans la tête en sortant d'une discothèque",
+      "url": "https://www.franceinfo.fr/faits-divers/a-montpellier-un-jeune-homme-de-19-ans-meurt-apres-avoir-recu-une-balle-dans-la-tete-en-sortant-d-une-discotheque_8149934.html#xtor=RSS-3-[lestitres]",
+      "summary": "Une enquête est en cours. Les images de vidéosurveillance de la discothèque doivent notamment être récupérées pour être analysées.",
+      "image": "https://www.franceinfo.fr/pictures/63NYIc-R31EeA6781oyfcquvL30/0x170:3543x2162/432x243/filters:format(jpg):quality(50)/2025/06/19/maxnewsfrsix021245-685396d25c535036397161.jpg",
+      "published_at": "2026-08-16T15:35:56+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "787dbafdb24a"
+    },
     {
       "title": "Quel smartphone choisir pour son ado en 2026 ? Le guide d’achat pour un premier téléphone pour la rentrée",
       "url": "https://www.numerama.com/tech/2304581-quel-smartphone-choisir-pour-son-ado-en-2026-le-guide-dachat-pour-un-premier-telephone-pour-la-rentree.html",
@@ -143,7 +213,7 @@
       "id": "e5e8b03b506a"
     },
     {
-      "title": "Piratage du fisc : les sénateurs socialistes demandent une commission d’enquête parlementaire",
+      "title": "Piratage du fisc : les sénateurs socialistes demandent une commission d’enquête ; Sébastien Lecornu présidera une cellule interministérielle",
       "url": "https://www.lemonde.fr/pixels/article/2026/08/16/piratage-du-fisc-les-senateurs-socialistes-demandent-une-commission-d-enquete-parlementaire_6747471_4408996.html",
       "summary": "Le président du groupe socialiste, Patrick Kanner, appelle à ce que le Parlement puisse déterminer si la succession d’incidents relève de « circonstances indépendantes » ou si elle révèle des « vulnérabilités communes ».",
       "image": "https://img.lemde.fr/2026/07/21/666/0/8000/4000/644/322/60/0/1604733_upload-1-2fpwunn0ucnx-jmug260721059.jpg",
@@ -151,16 +221,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "705cd7c3c984"
-    },
-    {
-      "title": "EN DIRECT - Incendie dans les Landes : «Y a du mieux ce matin, on respire, pourvu que ça tienne»",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendie-dans-les-landes-la-situation-evolue-plutot-favorablement-mais-pas-encore-de-retour-a-domicile-20260816_RXAJR6YU4NGMRAXNPXSLV4I2PE/",
-      "summary": "Après trois jours de lutte intense et 1 700 hectares brûlés, le feu de forêt autour des communes de Luglon et de Garein est «stable». La situation évolue «plutôt favorablement», a souligné le préfet des Landes Gilles Clavreul ce dimanche matin.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-16T12:26:41+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "a0d9c5e1a816"
     },
     {
       "title": "Faire vieillir l’alcool plus vite : une start-up israélienne a mis au point la recette «secret défense» pour révolutionner la distillerie",
@@ -171,16 +231,6 @@
       "source": "Libération",
       "category": "Société",
       "id": "c1751bf6f5bd"
-    },
-    {
-      "title": "Canicule : 28 départements maintenus en vigilance orange, près de 5 000 foyers privés d'éléctricité à Avignon",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-seuls-le-sud-est-et-une-partie-de-l-est-de-la-france-restent-en-vigilance-orange-28-departements-concernes_8149508.html#xtor=RSS-3-[lestitres]",
-      "summary": "Lundi, Météo-France maintiendra la vigilance orange canicule pour 16 départements.",
-      "image": "https://www.franceinfo.fr/pictures/q1G8DRC8kKuK-lA8G5Rk4RVSu6U/0x586:4000x2836/432x243/filters:format(jpg):quality(50)/2026/08/16/6a8175ad9f99c622148412.jpg",
-      "published_at": "2026-08-16T14:10:55+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "7f5b7363b0b5"
     },
     {
       "title": "La question est moins de savoir si Gianni Infantino va partir que de comprendre comment il a pu rester si longtemps",
@@ -198,7 +248,7 @@
       "summary": "« Terre de glace » (1/4). Capables de traverser des zones maritimes entièrement glacées, ces navires sont devenus stratégiques, dans un contexte de conflit d’influences entre puissances dans l’Arctique. Notre journaliste, Léa Bello, embarque tout le mois d’août sur l’un d’eux à l’occasion d’une expédition scientifique exceptionnelle.",
       "image": "https://img.lemde.fr/2026/07/29/60/0/1920/960/644/322/60/0/7145ee3_upload-1-1cdtq0abtmve-tile-7.jpg",
       "published_at": "2026-08-16T14:00:09+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "5fc70e88051a"
     },
@@ -251,56 +301,6 @@
       "source": "Libération",
       "category": "Société",
       "id": "c412589805a8"
-    },
-    {
-      "title": "Comment le nageur roumain David Popovici a tracé sa route vers un double sacre à Saint-Denis… en s’entraînant avec son rival numéro 1",
-      "url": "https://www.liberation.fr/sports/jidentifie-les-petits-details-que-je-dois-ajuster-comment-le-nageur-roumain-david-popovici-a-trace-sa-route-vers-un-double-sacre-a-saint-denis-20260816_WZFSLFXWK5D45CQCHJMLHMUT5Y/",
-      "summary": "Après ses titres sur 100 m et 200 m, le double champion d’Europe revient auprès de «Libé» sur sa folle année, passée à se frotter à la fusée chinoise Pan Zhanle, à préparer le terrain en vue d’un nouveau record du monde mais aussi à prendre soin de lui.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-16T10:40:29+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "32b3664f3e39"
-    },
-    {
-      "title": "Accident d’un car polonais en Hongrie : Varsovie envoie un avion sanitaire à Budapest",
-      "url": "https://www.liberation.fr/international/europe/un-bus-sest-renverse-en-hongrie-12-morts-et-au-moins-10-blesses-graves-20260816_KUJ7HFXN6FAQPO7X3J4HL7XEXU/",
-      "summary": "L’autocar qui venait de Serbie s’est renversé dans la nuit sur l’autoroute faisant 12 morts et au moins 10 blessés graves. Il s’agit du plus grave accident de bus survenu dans le pays depuis la catastrophe de Siófok en 2003.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-16T10:33:29+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "feacff842e89"
-    },
-    {
-      "title": "Belgique : les images d’un des pires incendies de l’histoire du pays",
-      "url": "https://www.lemonde.fr/international/video/2026/08/16/belgique-les-images-d-un-des-pires-incendies-de-l-histoire-du-pays_6747398_3210.html",
-      "summary": "Près de 3 000 hectares ont été ravagés dans l’incendie dans les Hautes Fagnes, une grande réserve de l’est du pays, selon les autorités wallonnes dimanche matin.",
-      "image": "https://img.lemde.fr/2026/08/15/248/0/4032/2016/644/322/60/0/fd32b26_ftp-1-a6vh6wp5yeqz-5848530-01-06.jpg",
-      "published_at": "2026-08-16T12:30:12+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "5b6736b8735c"
-    },
-    {
-      "title": "Liban : Israël jure de s’en prendre encore au Hezbollah après des bombardements qui ont fait au moins 11 morts dans le sud du pays",
-      "url": "https://www.lemonde.fr/international/article/2026/08/16/liban-israel-jure-de-s-en-prendre-encore-au-hezbollah-apres-des-bombardements-qui-ont-fait-au-moins-onze-morts-dans-le-sud-du-pays_6746618_3211.html",
-      "summary": "Le président libanais, Joseph Aoun, a estimé que les frappes de samedi constituaient un « message clair » pour l’avenir des négociations entre Israël et le Liban, avant un nouveau cycle de pourparlers prévu en septembre.",
-      "image": "https://img.lemde.fr/2026/08/15/613/0/6000/3000/644/322/60/0/8683d04_ftp-1-yjhwupm6phhp-5845608-01-06.jpg",
-      "published_at": "2026-08-16T12:23:27+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "0a7297057a6e"
-    },
-    {
-      "title": "La France remporte la médaille de bronze par équipes sur le marathon des championnats d'Europe d'athlétisme",
-      "url": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/la-france-remporte-la-medaille-de-bronze-par-equipes-sur-le-marathon-des-championnats-d-europe-d-athletisme_8149754.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les Tricolores ont été performants, dimanche, sur le circuit compliqué de Birmingham, à l'image de Valentin Gondouin, auteur d'une belle 6e place.",
-      "image": "https://www.franceinfo.fr/pictures/U9KVf4sWhyvYb8ntedu-FJ502o4/0x155:4043x2429/432x243/filters:format(jpg):quality(50)/2026/08/16/6a81894c83e34860596515.jpg",
-      "published_at": "2026-08-16T12:14:04+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "ca5ab2285835"
     }
   ]
 }
