@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-08-16T06:52:35.887223+00:00",
+  "generated_at": "2026-08-16T07:37:30.435072+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Un bus s’est renversé en Hongrie, 12 morts et au moins 10 blessés graves",
+      "url": "https://www.liberation.fr/international/europe/un-bus-sest-renverse-en-hongrie-12-morts-et-au-moins-10-blesses-graves-20260816_KUJ7HFXN6FAQPO7X3J4HL7XEXU/",
+      "summary": "L’autocar, immatriculé en Pologne, circulait de la Serbie vers la Pologne et transportait 57 passagers lorsqu’il s’est couché sur l’autoroute.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-16T07:31:46+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "feacff842e89"
+    },
+    {
+      "title": "Gabriel Attal appelle à un référendum sur l’interdiction des réseaux sociaux aux moins de 15 ans",
+      "url": "https://www.liberation.fr/politique/gabriel-attal-appelle-a-un-referendum-sur-linterdiction-des-reseaux-sociaux-aux-moins-de-15-ans-20260816_7ROBUUANWNC7BKUPZILRBWR6VY/",
+      "summary": "Selon l’ancien Premier ministre qui s’exprime dans la «Tribune dimanche», ce dispositif serait la façon la plus rapide et la plus efficace de sortir 1,5 million d’enfants «des griffes des algorithmes». Vendredi, le Conseil constitutionnel avait censuré la loi votée le 21 juillet.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-16T07:28:28+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "7abc5c0a5e1f"
+    },
+    {
+      "title": "Marine Tondelier se dit «prête à rediscuter avec tout le monde à gauche»",
+      "url": "https://www.liberation.fr/politique/marine-tondelier-se-dit-prete-a-rediscuter-avec-tout-le-monde-a-gauche-20260816_OPGWFNAASRFKZFVPHBXFMJZTO4/",
+      "summary": "Dans une interview à «la Tribune dimanche» et dans un courrier cosigné avec les chefs de groupes parlementaires, la secrétaire nationale des verts relance la question des alliances à gauche pour 2027.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-16T07:28:22+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "1ea7751b5604"
+    },
+    {
+      "title": "Quelles sont les pistes du gouvernement pour mettre en place une interdiction des réseaux sociaux pour les moins de 15 ans, après la décision défavorable du Conseil constitutionnel ?",
+      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/quelles-sont-les-pistes-du-gouvernement-pour-mettre-en-place-une-interdiction-des-reseaux-sociaux-pour-les-moins-de-15-ans-apres-la-decision-defavorable-du-conseil-constitutionnel_8148581.html#xtor=RSS-3-[lestitres]",
+      "summary": "Emmanuel Macron, qui espère instaurer cette mesure avant son départ de l'Elysée, a chargé le Premier ministre de \"travailler\" à une nouvelle \"rédaction juridiquement robuste\" de cette mesure.",
+      "image": "https://www.franceinfo.fr/pictures/xv9esFXQTUl8IADOCOhdRe3DbYg/0x471:6545x4153/432x243/filters:format(jpg):quality(50)/2026/08/15/6a80634b31e8a088209625.jpg",
+      "published_at": "2026-08-16T09:17:33+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "6a9e5a2799a1"
+    },
+    {
+      "title": "De son titre olympique à 21 ans à sa médaille de bronze aux JO de Paris, les 14 ans de carrière de Florent Manaudou en sept dates",
+      "url": "https://www.franceinfo.fr/sports/natation/de-son-titre-olympique-a-21-ans-a-sa-medaille-de-bronze-aux-jo-de-paris-les-14-ans-de-carriere-de-florent-manaudou-en-sept-dates_8147615.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le nageur de 35 ans a mis un terme à sa carrière, samedi, à Saint-Denis où se déroulent les championnats d'Europe de natation.",
+      "image": "https://www.franceinfo.fr/pictures/0u1am8pC9WTJA0-s-VRzPbp5WjI/0x0:4928x2772/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f71897c497622098355.jpg",
+      "published_at": "2026-08-16T09:11:23+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "36179cad80bb"
+    },
+    {
+      "title": "\"La peopolisation ne fabrique pas de la légitimité\" : faire la couverture de \"Paris-Match\" est-il une opération payante pour les politiques ?",
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/la-peopolisation-ne-fabrique-pas-de-la-legitimite-faire-la-couverture-de-paris-match-est-il-une-operation-payante-pour-les-politiques_8147498.html#xtor=RSS-3-[lestitres]",
+      "summary": "La dernière une de l'hebdomadaire, qui met en scène Emmanuel Macron et Raphaël Glusckmann durant leurs vacances respectives, a suscité de multiples réactions et controverses. A l'approche de la présidentielle, ces apparitions ont-elles un effet positif sur l'image des responsables politiques ?",
+      "image": "https://www.franceinfo.fr/pictures/3RlhrnDkN0z_nGYlOM9GXW0t39Y/0x250:5000x3063/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f267a2e998052307558.jpg",
+      "published_at": "2026-08-16T09:10:29+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "55011fa962df"
+    },
+    {
+      "title": "EN DIRECT - Incendie dans les Landes : «la situation évolue plutôt favorablement», mais pas encore de retour à domicile",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendie-dans-les-landes-la-situation-evolue-plutot-favorablement-mais-pas-encore-de-retour-a-domicile-20260816_RXAJR6YU4NGMRAXNPXSLV4I2PE/",
+      "summary": "Dans un point presse ce dimanche matin, le préfet des Landes, Gilles Clavreul a indiqué qu’il n’y avait pas eu de reprise de feu majeure dans la nuit mais que le retour des évacués n’était pas «à l’ordre du jour».",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-16T07:05:28+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "a0d9c5e1a816"
+    },
+    {
+      "title": "\"Une course contre la montre a démarré\" : Gabriel Attal appelle à un référendum sur l'interdiction des réseaux aux moins de 15 ans",
+      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/une-course-contre-la-montre-a-demarre-gabriel-attal-appelle-a-un-referendum-sur-l-interdiction-des-reseaux-aux-moins-de-15-ans_8149565.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Conseil constitutionnel a censuré vendredi la loi interdisant les réseaux sociaux aux moins de 15 ans.",
+      "image": "https://www.franceinfo.fr/pictures/tSIrMaj4Hpl598tr53ofLU7sNds/0x246:4724x2904/432x243/filters:format(jpg):quality(50)/2026/08/16/6a815cfc0c778209621837.jpg",
+      "published_at": "2026-08-16T09:00:20+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "1f99c82a0d89"
+    },
     {
       "title": "Isère : une enquête ouverte après des propos jugés antisémites tenus par une commerçante dans la station des Deux-Alpes",
       "url": "https://www.liberation.fr/politique/isere-une-enquete-ouverte-apres-des-propos-antisemites-tenus-par-une-commercante-dans-la-station-des-deux-alpes-20260816_PRXZ776TDJH5PBYIDA5B4YNX6I/",
@@ -21,6 +101,26 @@
       "source": "Libération",
       "category": "Politique",
       "id": "885bbfd366f6"
+    },
+    {
+      "title": "\"Le choix dépend du terrain et de la durée de la randonnée\" : comment bien s'équiper pour partir en balade en forêt ou en montagne",
+      "url": "https://www.franceinfo.fr/culture/mode/le-choix-depend-du-terrain-et-de-la-duree-de-la-randonnee-comment-bien-s-equiper-pour-partir-en-balade-en-foret-ou-en-montagne_7997561.html#xtor=RSS-3-[lestitres]",
+      "summary": "La randonnée est devenue l'activité physique préférée des Français. Tenues et équipements ont accompagné la tendance.",
+      "image": "https://www.franceinfo.fr/pictures/G_o6LhqL2Vg9DZXVpWpmllTimqM/0x212:5472x3290/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c325b7081c344273660.jpg",
+      "published_at": "2026-08-16T08:45:52+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "e50465d023ad"
+    },
+    {
+      "title": "\"Un prédateur est dans les Landes\" : une victime d'un ancien prêtre, exclu de sa congrégation après plusieurs plaintes pour agression sexuelle, redoute qu'il récidive",
+      "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/temoignage-un-predateur-est-dans-les-landes-une-victime-d-un-ancien-pretre-exclu-de-sa-congregation-apres-plusieurs-plaintes-pour-agression-sexuelle-redoute-qu-il-recidive_8148905.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cet ancien membre de la congrégation des Lazaristes a été exclu de la communauté mais exerce toujours en tant que prêtre, ce que dénoncent les femmes qui ont porté plainte contre lui.",
+      "image": "https://www.franceinfo.fr/pictures/szj8HztEixz4IlJrg1PFx2AHuuU/432x243/filters:format(jpg):quality(50)/2026/05/30/6a1b02ef3befa865614601.jpg",
+      "published_at": "2026-08-16T08:45:27+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "035853d11b5e"
     },
     {
       "title": "Incendie dans les Landes : \"la situation évolue plutôt favorablement\", sans reprise de feu majeure cette nuit, selon le préfet",
@@ -48,19 +148,9 @@
       "summary": "Ce voyage inaugural, qui doit être hebdomadaire, s’inscrit dans le projet chinois de « route de la soie polaire » et permet d’éviter une région Proche-Moyen-Orient de plus en plus instable.",
       "image": "https://img.lemde.fr/2026/08/15/668/0/8000/4000/644/322/60/0/570bd27_ftp-1-klecmh2ekb9e-5844804-01-06.jpg",
       "published_at": "2026-08-16T08:41:18+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Économie",
       "id": "e4aa86c03f04"
-    },
-    {
-      "title": "EN DIRECT - Incendie dans les Landes : «la situation évolue plutôt favorablement», mais pas encore de retour à domicile",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendie-dans-les-landes-la-situation-evolue-plutot-favorablement-mais-pas-encore-de-retour-a-domicile-20260816_RXAJR6YU4NGMRAXNPXSLV4I2PE/",
-      "summary": "Dans un point presse ce dimanche matin, le préfet des Landes, Gilles Clavreul a indiqué qu’il n’y avait pas eu de reprise de feu majeure dans la nuit mais que le retour des évacués n’était pas «à l’ordre du jour».",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-16T06:31:41+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "a0d9c5e1a816"
     },
     {
       "title": "Les constructeurs automobiles ont trouvé une nouvelle façon de nous faire les poches",
@@ -173,16 +263,6 @@
       "id": "c588feff4ec2"
     },
     {
-      "title": "\"La peopolisation ne fabrique pas de la légitimité\" : faire la couverture de \"Paris-Match\" est-il une opération payante pour les politiques ?",
-      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/la-peopolisation-ne-fabrique-pas-de-la-legitimite-faire-la-couverture-de-paris-match-est-il-une-operation-payante-pour-les-politiques_8147498.html#xtor=RSS-3-[lestitres]",
-      "summary": "La dernière une de l'hebdomadaire, qui met en scène Emmanuel Macron et Raphaël Glusckmann durant leurs vacances respectives, a suscité de multiples réactions et controverses. A l'approche de la présidentielle, ces apparitions ont-elles un effet positif sur l'image des responsables politiques ?",
-      "image": "https://www.franceinfo.fr/pictures/3RlhrnDkN0z_nGYlOM9GXW0t39Y/0x250:5000x3063/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f267a2e998052307558.jpg",
-      "published_at": "2026-08-16T07:09:49+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "55011fa962df"
-    },
-    {
       "title": "\"En couple, j'avais tendance à me sacrifier pour l'autre\" : célibataires, ils racontent pourquoi ils ont arrêté de chercher l'amour",
       "url": "https://www.franceinfo.fr/societe/temoignages-en-couple-j-avais-tendance-a-me-sacrifier-pour-l-autre-celibataires-ils-racontent-pourquoi-ils-ont-arrete-de-chercher-l-amour_8143337.html#xtor=RSS-3-[lestitres]",
       "summary": "Plus d'un adulte sur cinq vivait seul en France en 2023. Un choix loin d'être toujours subi. Succession de rendez-vous amoureux décevants, ancienne relation toxique, envie de mieux se connaître seul... Des célibataires se confient sur leur choix de vie.",
@@ -203,10 +283,10 @@
       "id": "4baf87ae23e9"
     },
     {
-      "title": "EN DIRECT, incendies et canicule : l’ouest de la France sort de la vigilance orange qui concerne à présent 28 départements de l’Est",
+      "title": "EN DIRECT, incendies et canicule : 28 départements de l’est de la France en vigilance orange ; dans les Landes, pas de « reprise majeure » du feu au cours des dernières heures",
       "url": "https://www.lemonde.fr/climat/live/2026/08/16/en-direct-incendies-et-canicule-l-ouest-de-la-france-sort-de-la-vigilance-orange-qui-concerne-a-present-28-departements-de-l-est_6744636_1652612.html",
-      "summary": "Les départements de la grande moitié ouest sont à présent en niveau jaune ou vert. Sur un quart sud-est, les conditions caniculaires se poursuivront jusqu’en milieu de semaine, d’après Météo-France.",
-      "image": "https://img.lemde.fr/2026/08/14/509/0/5743/2871/644/322/60/0/7f1ab09_ftp-1-6lkf85wqf1mz-5836376-01-06.jpg",
+      "summary": "La situation évolue « plutôt favorablement » dans les Landes, où l’incendie qui s’est déclaré jeudi à Luglon n’a pas connu de « reprise majeure » dans la nuit, a annoncé le préfet dimanche matin, tout en excluant un retour prochain des 650 personnes évacuées.",
+      "image": "https://img.lemde.fr/2026/08/15/311/0/3735/1867/644/322/60/0/a989a42_ftp-1-6m40pczedsme-5845883-01-06.jpg",
       "published_at": "2026-08-16T06:45:54+02:00",
       "source": "Le Monde",
       "category": "Politique",
@@ -221,86 +301,6 @@
       "source": "Le Monde",
       "category": "Société",
       "id": "2ef37a90d521"
-    },
-    {
-      "title": "Présidentielle 2027 : le jeu trouble de l’Elysée, qui agite l’hypothèse Lecornu",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/16/presidentielle-2027-le-jeu-trouble-de-l-elysee-qui-agite-l-hypothese-lecornu_6747128_823448.html",
-      "summary": "Le chef de l’Etat, omniprésent, n’a pas l’intention de s’effacer à l’approche de la présidentielle. Alors que les deux candidats déclarés du bloc central, Edouard Philippe et Gabriel Attal, sont insatisfaisants à ses yeux, sa garde rapprochée pousse l’hypothèse de la candidature du premier ministre.",
-      "image": "https://img.lemde.fr/2026/08/14/1299/0/7000/3500/644/322/60/0/704fbf6_upload-1-lyp5zd0l5we3-kzihnioglu-pol-14-juillet-14072026-165.jpg",
-      "published_at": "2026-08-16T06:00:41+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "a3caf92837a9"
-    },
-    {
-      "title": "Comment les élus se préparent au vieillissement de la population et à la baisse des naissances",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/16/comment-les-elus-se-preparent-au-vieillissement-de-la-population-et-a-la-baisse-des-naissances_6747125_823448.html",
-      "summary": "L’Insee a publié, début juin, une étude qui illustre la révolution démographique à l’œuvre en France. Autant de défis redoutables pour des maires déjà très concernés.",
-      "image": "https://img.lemde.fr/2026/07/11/1912/0/2667/1333/644/322/60/0/d1f87a4_upload-1-hfarfdqmdspz-img-0538.jpg",
-      "published_at": "2026-08-16T06:00:35+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "8d179bda7d70"
-    },
-    {
-      "title": "En Sierra Leone, la cohabitation exemplaire des chrétiens et des musulmans, loin des tensions confessionnelles des pays de la région",
-      "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/08/16/en-sierra-leone-la-cohabitation-exemplaire-des-chretiens-et-des-musulmans-loin-des-tensions-confessionnelles-des-pays-de-la-region_6747124_6038514.html",
-      "summary": "Contrairement au Mali, au Niger, au Burkina Faso ou au Nigeria, minés par les divisions religieuses, l’ancienne colonie britannique voit sa population vivre sereinement sa foi. Chaque famille ou presque est interconfessionnelle, et les leaders religieux n’ont de cesse de promouvoir la cohésion nationale.",
-      "image": "https://img.lemde.fr/2026/07/27/704/0/7500/3750/644/322/60/0/ee48cf9_upload-1-hubxmgfx61gf-13.jpg",
-      "published_at": "2026-08-16T06:00:33+02:00",
-      "source": "Le Monde Inter",
-      "category": "Sport",
-      "id": "09224fed30ac"
-    },
-    {
-      "title": "Pourquoi le transfert de milliers de tonnes d’uranium congolais vers la Chine pose question ? Comprendre en trois minutes",
-      "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/08/16/pourquoi-le-transfert-de-milliers-de-tonnes-d-uranium-congolais-vers-la-chine-pose-question-comprendre-en-trois-minutes_6747123_6176282.html",
-      "summary": "En vingt ans, environ 2 000 tonnes d’uranium auraient quitté clandestinement la République démocratique du Congo, principalement à destination de la Chine.",
-      "image": "https://img.lemde.fr/2026/08/14/60/0/1920/960/644/322/60/0/3dfb07a_upload-1-wxpwi4unfw2k-00-tile-hori-0-00-05-00-copie.jpg",
-      "published_at": "2026-08-16T06:00:23+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "0e547ac8c789"
-    },
-    {
-      "title": "« Les luttes de faction à Téhéran pèsent sur les pourparlers avec les Etats-Unis »",
-      "url": "https://www.lemonde.fr/un-si-proche-orient/article/2026/08/16/les-luttes-de-faction-a-teheran-pesent-sur-les-pourparlers-avec-les-etats-unis_6747122_6116995.html",
-      "summary": "Les gardiens de la révolution ne contrôlent pas seulement les opérations militaires, ils imposent aussi leurs exigences au président iranien et à ses négociateurs, analyse l’historien Jean-Pierre Filiu dans sa chronique.",
-      "image": "https://img.lemde.fr/2026/08/03/0/0/6000/3000/644/322/60/0/9eb93e4_ftp-1-w0wt7rrx6fxb-8294f431c0704484a013c3fda70a2d59-0-ba94ec9915164387bf5f37b0a7bf987f.jpg",
-      "published_at": "2026-08-16T06:00:20+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "7eff59fd03eb"
-    },
-    {
-      "title": "Meublé de tourisme : quand l’appartement n’a pas de fenêtre et que l’annonce ne le précise pas",
-      "url": "https://www.lemonde.fr/argent/article/2026/08/16/meuble-de-tourisme-quand-l-appartement-n-a-pas-de-fenetre-et-que-l-annonce-ne-le-precise-pas_6747120_1657007.html",
-      "summary": "Des voyageurs ont découvert à leur arrivée que la seule ouverture d’un logement situé dans le Morbihan est la porte d’entrée. Malgré les avis négatifs répétés, l’annonce est restée sur Booking.com.",
-      "image": "https://img.lemde.fr/2025/08/06/125/0/1500/750/644/322/60/0/2de3560_upload-1-5cfya0ntslrj-lmargent213.jpg",
-      "published_at": "2026-08-16T06:00:10+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "71310a1fe472"
-    },
-    {
-      "title": "Le PSG retrouve Lens à Bollaert avec un nouveau titre dans le viseur... Ce qu'il faut savoir sur le Trophée des champions",
-      "url": "https://www.franceinfo.fr/sports/foot/ligue-1/le-psg-retrouve-lens-a-bollaert-avec-un-nouveau-titre-dans-le-viseur-ce-qu-il-faut-savoir-sur-le-trophee-des-champions_8147606.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le champion de France et le vainqueur de la Coupe de France ont rendez-vous, dimanche (20h45), pour un premier affrontement avant le début de la saison de Ligue 1, dans moins d'une semaine.",
-      "image": "https://www.franceinfo.fr/pictures/gIbBmHUPCd2k30wmdN0jOyTY__o/0x260:3628x2301/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f19bb98cbc333737039.jpg",
-      "published_at": "2026-08-16T06:00:02+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "d2c043b504aa"
-    },
-    {
-      "title": "Dans \"Fjord\", Palme d'Or 2026, Cristian Mungiu dénonce les dangers de la polarisation à travers l'histoire d'une famille roumaine chrétienne intégriste exilée en Norvège",
-      "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/dans-fjord-palme-d-or-2026-cristian-mungiu-denonce-les-dangers-de-la-polarisation-a-travers-l-histoire-d-une-famille-roumaine-chretienne-integriste-exilee-en-norvege_8143226.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le réalisateur roumain signe un film engagé, porté par Renate Reinsve et Sebastian Stan",
-      "image": "https://www.franceinfo.fr/pictures/l7yBYXmFbvDg0MoetnMGhNqh5lA/0x169:1600x1069/432x243/filters:format(jpg):quality(50)/2026/05/18/6a0b43ceab0ef703192548.jpeg",
-      "published_at": "2026-08-16T06:00:01+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "8a20020c6fae"
     }
   ]
 }
