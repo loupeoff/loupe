@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-08-16T21:27:12.011745+00:00",
+  "generated_at": "2026-08-16T22:29:28.592953+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Orages : la foudre s'abat sur le clocher d'une église dans l’Aveyron, provoquant un incendie",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/orages-la-foudre-s-abat-sur-le-clocher-d-une-eglise-dans-l-aveyron-provoquant-un-incendie_8150240.html#xtor=RSS-3-[lestitres]",
+      "summary": "Après la canicule, la moitié sud du pays est sous les orages, dimanche 16 août. Dans l’Aveyron, le clocher d’une église a pris feu dans la nuit, après avoir été touché par la foudre.",
+      "image": "https://www.franceinfo.fr/pictures/HrJTDG2tZqo4jD-d8LjhQ7Nv2-c/0x48:828x514/432x243/filters:format(jpg):quality(50)/2026/08/16/6a81fee70c30f105896434.png",
+      "published_at": "2026-08-16T23:52:14+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "626d4482e7f7"
+    },
+    {
+      "title": "Le RC Lens remporte le premier Trophée des champions de son histoire face au PSG",
+      "url": "https://www.lemonde.fr/sport/article/2026/08/16/le-rc-lens-remporte-le-premier-trophee-des-champions-de-son-histoire-face-au-psg_6747855_3242.html",
+      "summary": "Longtemps réduit à dix, les Sang et Or l’ont emporté contre le PSG (1-0), dimanche, à Lens. Trois mois après la Coupe de France, ils glanent un nouveau titre et privent les Parisiens d’un deuxième trophée après leur succès en Supercoupe d’Europe, mercredi 12 août.",
+      "image": "https://img.lemde.fr/2026/08/16/209/0/3416/1708/644/322/60/0/1476658_ftp-1-yig8i6c2u8l3-5858296-01-06.jpg",
+      "published_at": "2026-08-16T23:45:01+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "2e09c8d586d4"
+    },
     {
       "title": "\"Je crois avoir trouvé mon truc\"... Encore impitoyable à Saint-Denis, Léon Marchand a déjà réussi sa mue vers le crawl",
       "url": "https://www.franceinfo.fr/sports/natation/championnats-d-europe-de-natation/je-crois-avoir-trouve-mon-truc-encore-impitoyable-a-saint-denis-leon-marchand-a-deja-reussi-sa-mue-vers-le-crawl_8150318.html#xtor=RSS-3-[lestitres]",
@@ -31,16 +51,6 @@
       "source": "France Info",
       "category": "Sport",
       "id": "f1dc7f1a7d6c"
-    },
-    {
-      "title": "Euro d’athlétisme : la France décroche deux dernières médailles, en bronze, grâce à Hilary Kpatcha et Baptiste Thiery",
-      "url": "https://www.lemonde.fr/sport/article/2026/08/16/euro-d-athletisme-la-france-decroche-deux-dernieres-medailles-en-bronze-grace-a-hilary-kpatcha-et-baptiste-thiery_6747822_3242.html",
-      "summary": "La délégation tricolore a remporté ses dixième et onzième médailles lors de la compétition continentale, dimanche. Hilary Kpatcha et Baptiste Thiery ont tous deux décroché le bronze, la première en saut en longueur, le second en saut à la perche.",
-      "image": "https://img.lemde.fr/2026/08/16/490/0/5883/2941/644/322/60/0/cf2e2f2_ftp-1-8k5q3rawo5rd-5857917-01-06.jpg",
-      "published_at": "2026-08-16T23:09:15+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "146d2261e43d"
     },
     {
       "title": "Longtemps en infériorité numérique, le RC Lens résiste au PSG et remporte le premier Trophée des champions de son histoire",
@@ -201,16 +211,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "12d78995ea90"
-    },
-    {
-      "title": "Orages : la foudre s'abat sur le clocher d'une église dans l’Aveyron, provoquant un incendie",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/orages-la-foudre-s-abat-sur-le-clocher-d-une-eglise-dans-l-aveyron-provoquant-un-incendie_8150240.html#xtor=RSS-3-[lestitres]",
-      "summary": "Après la canicule, la moitié sud du pays est sous les orages, dimanche 16 août. Dans l’Aveyron, le clocher d’une église a pris feu dans la nuit, après avoir été touché par la foudre.",
-      "image": "https://www.franceinfo.fr/pictures/HrJTDG2tZqo4jD-d8LjhQ7Nv2-c/0x48:828x514/432x243/filters:format(jpg):quality(50)/2026/08/16/6a81fee70c30f105896434.png",
-      "published_at": "2026-08-16T20:18:37+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "626d4482e7f7"
     },
     {
       "title": "Entretien avec la ministre Monique Barbut : la transition écologique, dossier brûlant d’un été caniculaire",
