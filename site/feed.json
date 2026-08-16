@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-08-16T07:37:30.435072+00:00",
+  "generated_at": "2026-08-16T08:38:17.890396+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "En Belgique, 3 000 hectares d'un parc naturel ont été ravagés par l'un des pires incendies de l'histoire du pays",
+      "url": "https://www.franceinfo.fr/monde/europe/belgique/en-belgique-3-000-hectares-d-un-parc-naturel-ont-ete-ravages-par-l-un-des-pires-incendies-de-l-histoire-du-pays_8149637.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le brasier ravage les Fagnes, une grande réserve boisée, prisée des randonneurs et proche de l'Allemagne.",
+      "image": "https://www.franceinfo.fr/pictures/rXdEE9lq8EZMI8kfah62z9R0K7s/1x0:1024x575/432x243/filters:format(jpg):quality(50)/2026/08/16/6a817117cde78060684706.jpg",
+      "published_at": "2026-08-16T10:17:58+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "24c16a24ee9c"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : des attaques ukrainiennes ont fait six morts en Russie ; Moscou visée par 600 drones pendant la nuit",
+      "url": "https://www.lemonde.fr/international/live/2026/08/16/en-direct-guerre-en-ukraine-des-attaques-ukrainiennes-ont-fait-six-morts-en-russie-moscou-visee-par-600-drones-pendant-la-nuit_6746952_3210.html",
+      "summary": "Le ministère de la défense russe a affirmé que 822 drones ukrainiens avaient été détruits, dont 600 qui se dirigeaient vers la capitale russe. A Kryvy Rih, dans le centre de l’Ukraine, une personne a été tuée et six autres blessées dans un bombardement russe.",
+      "image": "https://img.lemde.fr/2026/08/16/806/0/5712/2856/644/322/60/0/4becf3e_ftp-1-xuxphzpbklgh-2026-08-16t074832z-318246484-rc2ezma4clah-rtrmadp-3-ukraine-crisis-russia-wildberries-moscow.JPG",
+      "published_at": "2026-08-16T10:17:28+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "ccfcc13f4b71"
+    },
+    {
+      "title": "Après des orages, le clocher d'une église en flammes dans l'Aveyron, des dizaines d'interventions des pompiers dans le Gard",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/orages-le-clocher-d-une-eglise-en-flammes-dans-l-aveyron-des-dizaines-d-interventions-des-pompiers-dans-le-gard_8149622.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'ouest de l'Aveyron a été fortement touché par les orages. Une soixantaine de départements ont été placés en vigilance jaune par Météo-France.",
+      "image": "https://www.franceinfo.fr/pictures/9iekVqeC8kHR_o1innrpf2HDIno/0x415:3987x2658/432x243/filters:format(jpg):quality(50)/2026/08/16/6a816f862ed55725127774.jpg",
+      "published_at": "2026-08-16T10:13:44+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "6bb1f0e0c19d"
+    },
+    {
+      "title": "Guerre en Ukraine : nouvelle nuit de frappes dans la région de Moscou et à Kiev",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-nouvelle-nuit-de-frappes-dans-la-region-de-moscou-et-a-kiev_8149607.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les autorités des deux pays ont fait état au total de six morts dans la nuit : trois dans la région russe de Rostov et trois en Ukraine.",
+      "image": "https://www.franceinfo.fr/pictures/0i6LTitm9Gyc3d8rFzLllTzWMEM/0x312:6000x3687/432x243/filters:format(jpg):quality(50)/2026/08/16/6a816e3636d4d464331705.jpg",
+      "published_at": "2026-08-16T10:09:05+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "d2a82a4fa9a8"
+    },
+    {
+      "title": "Séismes en Indonésie : au moins 48 morts et des milliers d’évacués",
+      "url": "https://www.liberation.fr/international/asie-pacifique/indonesie-au-moins-20-morts-dans-un-puissant-seisme-20260815_ZA2BHKRBQVATDAOEQCOWV5Q7N4/",
+      "summary": "Un puissant séisme de magnitude 7,7, puis plus de 300 répliques, ont secoué samedi 15 août l’Indonésie. Des milliers d’habitants ont fui les côtes par crainte d’une montée des eaux.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-16T08:09:01+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "3bf87955f2cd"
+    },
+    {
+      "title": "En Hongrie, 12 morts et 10 blessés dans l’accident d’un car immatriculé en Pologne",
+      "url": "https://www.lemonde.fr/international/article/2026/08/16/en-hongrie-12-morts-et-10-blesses-dans-l-accident-d-un-car-immatricule-en-pologne_6747299_3210.html",
+      "summary": "Ce car, qui circulait de Serbie vers la Pologne et transportait 57 passagers et deux conducteurs, « a quitté la chaussée, a fini sa course dans un fossé et s’est immobilisé sur le flanc », a annoncé l’office national chargé de la gestion des catastrophes.",
+      "image": "https://img.lemde.fr/2026/08/16/688/0/8256/4128/644/322/60/0/bddb4a3_ftp-1-80703z0x8udn-da00265cdaa34a3da3b810366b8e6132-0-aaa30a6de16a49e08826190784a61ba1.jpg",
+      "published_at": "2026-08-16T10:05:49+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "bd2e235bece5"
+    },
+    {
+      "title": "Les Girondins de Bordeaux, menacés d'exclusion des championnats nationaux, vont déposer un recours en référé au tribunal administratif",
+      "url": "https://www.franceinfo.fr/sports/foot/les-girondins-de-bordeaux-menaces-d-exclusion-des-championnats-nationaux-vont-deposer-un-recours-en-refere-au-tribunal-administratif_8149595.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le club, via la voix de son futur président, l'a annoncé dans un entretien accordé à Sud Ouest dimanche.",
+      "image": "https://www.franceinfo.fr/pictures/2pz9B6fgRVj8prGtPpVobuKasgQ/0x491:5800x3753/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f6f38633fb773211058.jpg",
+      "published_at": "2026-08-16T09:55:04+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "533b276ab0d9"
+    },
+    {
+      "title": "EN DIRECT - Incendies : dans les Landes et dans les Ardennes, des situations plus «favorables» ce dimanche matin",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendie-dans-les-landes-la-situation-evolue-plutot-favorablement-mais-pas-encore-de-retour-a-domicile-20260816_RXAJR6YU4NGMRAXNPXSLV4I2PE/",
+      "summary": "Dans un point presse, le préfet des Landes a indiqué qu’il n’y avait pas eu de reprise de feu majeure dans la nuit mais que le retour des évacués n’était pas «à l’ordre du jour». Même mot d’ordre dans les Ardennes : du mieux cette nuit, mais le département n’est pas encore tiré d’affaire.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-16T07:52:28+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "a0d9c5e1a816"
+    },
+    {
+      "title": "Il y a un nouveau jeu cosy sur Steam qui cartonne dans lequel vous réparez de vieilles consoles",
+      "url": "https://www.numerama.com/pop-culture/2308771-il-y-a-un-nouveau-jeu-cosy-sur-steam-qui-cartonne-dans-lequel-vous-reparez-de-vieilles-consoles.html",
+      "summary": "Les jeux vidéo permettent de s'évader, le temps d'une poignée d'heures, en incarnant toutes sortes de personnages plongés dans des aventures épiques et spectaculaires, comme dans ce jeu où vous incarnez un réparateur amateur de vieilles consoles de jeux vidéo.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-16T07:42:00+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "9587f352fefa"
+    },
+    {
+      "title": "Un bus se renverse en Hongrie faisant 12 morts et au moins 10 blessés graves",
+      "url": "https://www.franceinfo.fr/faits-divers/accident/un-bus-se-renverse-en-hongrie-faisant-12-morts-et-au-moins-10-blesses-graves_8149577.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'accident est survenu vers 1 heure du matin sur l'autoroute M3, alors qu'il circulait vers Mezokeresztes, à environ 140 kilomètres à l'est de Budapest.",
+      "image": "https://www.franceinfo.fr/pictures/r0F4yWr1IRliNPJlFABwf4NulZA/0x350:6720x4130/432x243/filters:format(jpg):quality(50)/2026/08/16/6a8168aa45d8e878952893.jpg",
+      "published_at": "2026-08-16T09:38:07+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "b6620456fcf4"
+    },
+    {
+      "title": "A neuf mois de la présidentielle : Zemmour et Knafo sont sur un rafiot…",
+      "url": "https://www.liberation.fr/politique/elections/a-neuf-mois-de-la-presidentielle-zemmour-et-knafo-sont-sur-un-rafiot-20260816_R2RAAIGENNEG5LF2CZYIPFCF24/",
+      "summary": "Comme en 2021, le chef de file d’extrême droite laisse planer le faux suspense de sa candidature à l’élection de 2027, au bénéfice de sa compagne et numéro 2 de Reconquête.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-16T07:33:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "b53a72624a0c"
+    },
     {
       "title": "Un bus s’est renversé en Hongrie, 12 morts et au moins 10 blessés graves",
       "url": "https://www.liberation.fr/international/europe/un-bus-sest-renverse-en-hongrie-12-morts-et-au-moins-10-blesses-graves-20260816_KUJ7HFXN6FAQPO7X3J4HL7XEXU/",
@@ -61,16 +171,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "55011fa962df"
-    },
-    {
-      "title": "EN DIRECT - Incendie dans les Landes : «la situation évolue plutôt favorablement», mais pas encore de retour à domicile",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendie-dans-les-landes-la-situation-evolue-plutot-favorablement-mais-pas-encore-de-retour-a-domicile-20260816_RXAJR6YU4NGMRAXNPXSLV4I2PE/",
-      "summary": "Dans un point presse ce dimanche matin, le préfet des Landes, Gilles Clavreul a indiqué qu’il n’y avait pas eu de reprise de feu majeure dans la nuit mais que le retour des évacués n’était pas «à l’ordre du jour».",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-16T07:05:28+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "a0d9c5e1a816"
     },
     {
       "title": "\"Une course contre la montre a démarré\" : Gabriel Attal appelle à un référendum sur l'interdiction des réseaux aux moins de 15 ans",
@@ -146,8 +246,8 @@
       "title": "Un premier porte-conteneurs chinois, le « Dubai Tower », a pris la route de l’Europe via l’Arctique",
       "url": "https://www.lemonde.fr/international/article/2026/08/16/un-premier-porte-conteneurs-chinois-le-dubai-tower-a-pris-la-route-de-l-europe-via-l-arctique_6747232_3210.html",
       "summary": "Ce voyage inaugural, qui doit être hebdomadaire, s’inscrit dans le projet chinois de « route de la soie polaire » et permet d’éviter une région Proche-Moyen-Orient de plus en plus instable.",
-      "image": "https://img.lemde.fr/2026/08/15/668/0/8000/4000/644/322/60/0/570bd27_ftp-1-klecmh2ekb9e-5844804-01-06.jpg",
-      "published_at": "2026-08-16T08:41:18+02:00",
+      "image": "https://img.lemde.fr/2026/08/15/1088/0/8000/4000/644/322/60/0/570bd27_ftp-1-klecmh2ekb9e-5844804-01-06.jpg",
+      "published_at": "2026-08-16T08:41:16+02:00",
       "source": "Le Monde",
       "category": "Économie",
       "id": "e4aa86c03f04"
@@ -201,106 +301,6 @@
       "source": "Libération",
       "category": "Sport",
       "id": "770b6fde863d"
-    },
-    {
-      "title": "Au Japon, les pluies diluviennes près de Tokyo causent la mort d’au moins neuf personnes",
-      "url": "https://www.lemonde.fr/international/article/2026/08/16/au-japon-les-pluies-diluviennes-pres-de-tokyo-causent-la-mort-d-au-moins-neuf-personnes_6747195_3210.html",
-      "summary": "Dès vendredi matin, le cumul sur la ville de Chiba dépassait de plus de trois fois le total de précipitations habituel pour un mois d’août entier, d’après le ministère des territoires. Selon les scientifiques, le réchauffement climatique engendré par l’activité humaine rend ce type de phénomène extrême plus fréquent, plus long et plus intense.",
-      "image": "https://img.lemde.fr/2026/08/14/458/0/5498/2749/644/322/60/0/ca897f6_ftp-1-athsuumw7sq4-5836408-01-06.jpg",
-      "published_at": "2026-08-16T07:56:30+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "f9027aab71fe"
-    },
-    {
-      "title": "En Roumanie, un drone a été abattu par un avion de combat espagnol",
-      "url": "https://www.franceinfo.fr/internet/drones/en-roumanie-un-drone-a-ete-abattu-par-un-avion-de-combat-espagnol_8149517.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le ministère roumain a fait état de possibles chutes de débris dans une zone inhabitée de la région de Galati, près de la frontière ukrainienne.",
-      "image": "https://www.franceinfo.fr/pictures/dKAuZE1i9mHML_6rRaFNa_nlFas/0x461:7020x4410/432x243/filters:format(jpg):quality(50)/2026/08/16/6a814ea677642355627553.jpg",
-      "published_at": "2026-08-16T07:47:17+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "9ab1d9d6ad37"
-    },
-    {
-      "title": "Population carcérale : première polémique et premier défi du gouvernement Burnham",
-      "url": "https://www.liberation.fr/international/europe/population-carcerale-premiere-polemique-et-premier-defi-du-gouvernement-burnham-20260816_YKFQ4YHHCBHBXA45KELPGSCDBI/",
-      "summary": "Alors que les prisons anglaises et galloises sont presque remplies, le nouveau Premier ministre britannique travailliste paraît hésiter sur les mesures à prendre, embarrassé par une loi laissée par son prédécesseur. Les libérations anticipées suscitent la colère d’une partie des Britanniques.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-16T05:33:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "038943572fca"
-    },
-    {
-      "title": "Canicule : seuls le sud-est et une partie de l'est de la France restent en vigilance orange, 28 départements concernés",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-seuls-le-sud-est-et-une-partie-de-l-est-de-la-france-restent-en-vigilance-orange-28-departements-concernes_8149508.html#xtor=RSS-3-[lestitres]",
-      "summary": "Lundi, Météo-France maintient la vigilance orange canicule pour 16 départements.",
-      "image": "https://www.franceinfo.fr/pictures/JE9lPgrHuO6tiPbiVHzEpCOwONM/0x313:6018x3699/432x243/filters:format(jpg):quality(50)/2026/08/16/6a814ac612c0a236140631.jpg",
-      "published_at": "2026-08-16T07:31:11+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "7f5b7363b0b5"
-    },
-    {
-      "title": "Les plus belles photos de l’éclipse, date de la prochaine éclipse et le boss de la NASA qui flingue 20 ans de dérive – le récap’ sciences",
-      "url": "https://www.numerama.com/sciences/2312139-les-plus-belles-photos-de-leclipse-date-de-la-prochaine-eclipse-et-le-boss-de-la-nasa-qui-flingue-20-ans-de-derive-le-recap-sciences.html",
-      "summary": "Bien que la semaine scientifique sur Numerama a été écrasée par l'actualité autour de l'éclipse solaire du 12 août 2026. Mais en y regardant de plus près, il n'y avait pas que ça.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-16T05:30:00+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "7ea5b1a7cb9a"
-    },
-    {
-      "title": "Quelles sont les limites de notre corps face aux fortes chaleurs prolongées ?",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/quelles-sont-les-limites-de-notre-corps-face-aux-fortes-chaleurs-prolongees_8138318.html#xtor=RSS-3-[lestitres]",
-      "summary": "Notre corps met en place plusieurs mécanismes pour maintenir sa température autour de 37°C. Mais lorsque les fortes températures persistent, ces défenses peuvent atteindre leur point de rupture et faire encourir de sérieux risques à notre santé.",
-      "image": "https://www.franceinfo.fr/pictures/egx6J4ihMCYy5z_kij8EvWItKXg/0x257:5000x3070/432x243/filters:format(jpg):quality(50)/2026/08/07/6a75eec1f2527994344610.jpg",
-      "published_at": "2026-08-16T07:10:22+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "c588feff4ec2"
-    },
-    {
-      "title": "\"En couple, j'avais tendance à me sacrifier pour l'autre\" : célibataires, ils racontent pourquoi ils ont arrêté de chercher l'amour",
-      "url": "https://www.franceinfo.fr/societe/temoignages-en-couple-j-avais-tendance-a-me-sacrifier-pour-l-autre-celibataires-ils-racontent-pourquoi-ils-ont-arrete-de-chercher-l-amour_8143337.html#xtor=RSS-3-[lestitres]",
-      "summary": "Plus d'un adulte sur cinq vivait seul en France en 2023. Un choix loin d'être toujours subi. Succession de rendez-vous amoureux décevants, ancienne relation toxique, envie de mieux se connaître seul... Des célibataires se confient sur leur choix de vie.",
-      "image": "https://www.franceinfo.fr/pictures/RuSqqkuX0SRqmHohpX5q0ecprik/0x0:3840x2160/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7edc87c1df7987903350.jpg",
-      "published_at": "2026-08-16T07:09:09+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "4210bb080d1b"
-    },
-    {
-      "title": "Ultra-endurance : pourquoi les femmes rattrapent les hommes à mesure que les kilomètres s’accumulent",
-      "url": "https://www.liberation.fr/societe/ultra-endurance-pourquoi-les-femmes-rattrapent-les-hommes-a-mesure-que-les-kilometres-saccumulent-20260816_LA4DGKJDFNBYFO6P4GL2VYU73U/",
-      "summary": "Plus la distance est longue, plus l’écart de performance entre hommes et femmes se réduit, certaines traileuses battant même des records masculins. Des avantages physiologiques peuvent l’expliquer, même si des barrières sociales persistent.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-16T05:05:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "4baf87ae23e9"
-    },
-    {
-      "title": "EN DIRECT, incendies et canicule : 28 départements de l’est de la France en vigilance orange ; dans les Landes, pas de « reprise majeure » du feu au cours des dernières heures",
-      "url": "https://www.lemonde.fr/climat/live/2026/08/16/en-direct-incendies-et-canicule-l-ouest-de-la-france-sort-de-la-vigilance-orange-qui-concerne-a-present-28-departements-de-l-est_6744636_1652612.html",
-      "summary": "La situation évolue « plutôt favorablement » dans les Landes, où l’incendie qui s’est déclaré jeudi à Luglon n’a pas connu de « reprise majeure » dans la nuit, a annoncé le préfet dimanche matin, tout en excluant un retour prochain des 650 personnes évacuées.",
-      "image": "https://img.lemde.fr/2026/08/15/311/0/3735/1867/644/322/60/0/a989a42_ftp-1-6m40pczedsme-5845883-01-06.jpg",
-      "published_at": "2026-08-16T06:45:54+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "fe2e8cd92c6c"
-    },
-    {
-      "title": "Fortes pluies et coupures de courant : l’ouragan Lala menace Hawaï",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/16/fortes-pluies-et-coupures-de-courant-l-ouragan-lala-menace-hawai_6747129_3244.html",
-      "summary": "Plus de 40 000 foyers sont déjà privés d’électricité, et les autorités appellent à la vigilance face à des risques de crues soudaines. Lala pourrait déverser de 25 à 50 centimètres de pluie sur la Grande Île, avec des cumuls dépassant 60 centimètres.",
-      "image": "https://img.lemde.fr/2026/08/16/551/0/4032/2016/644/322/60/0/7cdaccc_ftp-1-ndxstuevzy4f-1c2e2fd3ac1048ae914608f6d9e05597-0-8824102cd54a46a68703e1d7e4c2e7cf.jpg",
-      "published_at": "2026-08-16T06:11:41+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "2ef37a90d521"
     }
   ]
 }
