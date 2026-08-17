@@ -1,15 +1,85 @@
 {
-  "generated_at": "2026-08-17T19:34:10.172903+00:00",
+  "generated_at": "2026-08-17T20:34:51.032560+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Données susceptibles d'avoir été consultées, risques, mesures de précaution... Ce que contient le courriel envoyé aux victimes du piratage du fisc",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/donnees-susceptibles-d-avoir-ete-consultees-risques-mesures-de-precaution-ce-que-contient-le-courriel-envoye-aux-victimes-du-piratage-du-fisc_8151422.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les envois de ce courriel commencent à partir de lundi soir, pour se poursuivre tout au long de la semaine.",
+      "image": "https://www.franceinfo.fr/pictures/Rt9gZZui5yIvLEKaJ0LH6f7sPcQ/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/17/6a836cb692348458191925.jpg",
+      "published_at": "2026-08-17T22:22:53+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "c9f133fff6c7"
+    },
+    {
+      "title": "La FIFA licencie le Français Kevin Lamour, numéro trois de l’instance qui s’est opposé à Gianni Infantino",
+      "url": "https://www.lemonde.fr/sport/article/2026/08/17/la-fifa-licencie-le-francais-kevin-lamour-numero-trois-de-l-instance-qui-s-est-oppose-a-gianni-infantino_6748483_3242.html",
+      "summary": "Comme l’a appris « Le Monde », la Fédération internationale de football a mis fin, lundi, au contrat de son directeur des opérations, auteur d’un communiqué cinglant à la fin de juillet contre son patron, Gianni Infantino.",
+      "image": "https://img.lemde.fr/2026/07/31/46/303/1697/849/644/322/60/0/6ea9ec8_ftp-1-q20xdci9vygy-224cd6ac36ef45b5830b95b8ddaf1337-0-9bbd491d76fb42a9b90571f6351eedba.jpg",
+      "published_at": "2026-08-17T22:05:51+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "e9248990b973"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : les autorités ukrainiennes font état d’attaques russes nocturnes, notamment dans le sud du pays",
+      "url": "https://www.lemonde.fr/international/live/2026/08/17/en-direct-guerre-en-ukraine-les-autorites-ukrainiennes-font-etat-d-attaques-russes-nocturnes-notamment-dans-le-sud-du-pays_6746952_3210.html",
+      "summary": "Au moins deux personnes ont été tuées à la suite d’une frappe russe sur la ville de Zaporijia, dans le sud de l’Ukraine, a annoncé le chef de l’administration militaire de l’oblast de Zaporijia, Ivan Fedorov.",
+      "image": "https://img.lemde.fr/2026/08/11/291/0/3497/1748/644/322/60/0/e53111f_ftp-1-udfyrjefmexk-5813061-01-06.jpg",
+      "published_at": "2026-08-17T22:00:17+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "7e2f2cb1347e"
+    },
+    {
+      "title": "États-Unis : des gants électriques bientôt utilisés par les agents de l'immigration",
+      "url": "https://www.franceinfo.fr/monde/usa/etats-unis-des-gants-electriques-bientot-utilises-par-les-agents-de-l-immigration_8151434.html#xtor=RSS-3-[lestitres]",
+      "summary": "Aux États-Unis, les agents de l’immigration pourraient bientôt être équipés de gants électriques capables d’immobiliser une personne. Une arme qui inquiète face aux risques de dérives, alors que ICE est déjà accusée d’arrestations violentes.",
+      "image": "https://www.franceinfo.fr/pictures/eUnINw6AHSUP501dhWiEcwgjjP8/0x23:813x481/432x243/filters:format(jpg):quality(50)/2026/08/17/6a8366a532fba912770070.jpg",
+      "published_at": "2026-08-17T21:55:21+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "3707dbef5ce5"
+    },
+    {
+      "title": "\"Nos doléances ont été entendues\", salue la maire de Barjols dans le Var, après les aides annoncées par Emmanuel Macron",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/nos-doleances-ont-ete-entendues-salue-la-maire-de-barjols-dans-le-var-apres-les-aides-annoncees-par-emmanuel-macron_8151437.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dans cette commune, deux maisons ont été détruites par les flammes et une vingtaine a été abîmée, tandis que près d'une centaine au niveau du département.",
+      "image": "https://www.franceinfo.fr/pictures/y9jFMbIHb5AmnmSkGqmlLfaOuy8/0x555:5331x3552/432x243/filters:format(jpg):quality(50)/2024/12/16/incendie-gonfaron-676062a1eb562379617499.jpg",
+      "published_at": "2026-08-17T21:53:43+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "cba6b9586474"
+    },
+    {
+      "title": "Des dizaines d'interpellations en Russie en marge d'un rassemblement de soutien au parti antiguerre",
+      "url": "https://www.franceinfo.fr/monde/russie/des-dizaines-d-interpellations-en-russie-en-marge-d-un-rassemblement-de-soutien-au-parti-antiguerre_8151419.html#xtor=RSS-3-[lestitres]",
+      "summary": "Plusieurs dizaines de personnes s'étaient rassemblées devant la Cour suprême en attendant de connaître sa décision sur un appel interjeté par Iabloko contre son interdiction de prendre part aux prochaines élections législatives.",
+      "image": "https://www.franceinfo.fr/pictures/nrVx4ERGOP4OuWglwdA0LW9oSBQ/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/17/6a8364caf281b096445516.jpg",
+      "published_at": "2026-08-17T21:53:20+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "03c6badf1a6c"
+    },
+    {
+      "title": "Incendies dans le Var : Emmanuel Macron promet « les mêmes dispositifs » d’aides qu’en Gironde",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/17/incendies-dans-le-var-emmanuel-macron-promet-les-memes-dispositifs-d-aides-qu-en-gironde_6748482_823448.html",
+      "summary": "Le premier ministre avait annoncé plus tôt une aide de 12 millions d’euros pour la Gironde et les Landes, durement touchées par les incendies cet été.",
+      "image": "https://img.lemde.fr/2026/08/17/420/0/4107/2053/644/322/60/0/1cd4a94_ftp-1-vrnxa5zaeooi-5863133-01-06.jpg",
+      "published_at": "2026-08-17T21:53:00+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "274ccb9a7bf0"
+    },
     {
       "title": "Au Brésil, Discord suspend les directs sur la plateforme après le suicide d’une adolescente",
       "url": "https://www.lemonde.fr/pixels/article/2026/08/17/au-bresil-discord-suspend-les-directs-sur-la-plateforme-apres-le-suicide-d-une-adolescente_6748481_4408996.html",
       "summary": "L’agence brésilienne de protection des données avait ordonné mercredi la suspension des directs sur le réseau social, à la suite de la mort d’une adolescente qui aurait été incitée au suicide sur cette plateforme.",
       "image": "https://img.lemde.fr/2026/08/13/78/0/3000/1500/644/322/60/0/08d6c7c_upload-1-tru42wtxwimk-papier-473.jpg",
       "published_at": "2026-08-17T21:30:29+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
+      "source": "Le Monde",
+      "category": "Société",
       "id": "6778ea9c1497"
     },
     {
@@ -51,6 +121,16 @@
       "source": "Libération",
       "category": "Politique",
       "id": "c107307a8511"
+    },
+    {
+      "title": "Le coût des mesures pour venir en aide aux sinistrés des incendies en Gironde et dans les Landes pourrait dépasser 100 millions d'euros, selon Sébastien Lecornu",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/le-cout-des-mesures-pour-venir-en-aide-aux-sinistres-des-incendies-en-gironde-et-dans-les-landes-pourrait-depasser-100-millions-d-euros-selon-sebastien-lecornu_8151395.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le chef du gouvernement et plusieurs ministres étaient en déplacement en Gironde, lundi, afin d'y rencontrer des élus et représentants du département et présenter plusieurs mesures d'urgence.",
+      "image": "https://www.franceinfo.fr/pictures/VLYo2j5ShqoIxMwgW7fLu2Al9cs/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/17/6a8358beb9898914627039.jpg",
+      "published_at": "2026-08-17T21:00:24+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "4e78e2e5891a"
     },
     {
       "title": "L'astronaute française Sophie Adenot s'apprête à fouler le vide spatial",
@@ -103,16 +183,6 @@
       "id": "5b14f41ee66a"
     },
     {
-      "title": "Sébastien Lecornu attendu au fort de Brégançon lundi soir pour une réunion de travail sur les incendies avec Emmanuel Macron",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/sebastien-lecornu-attendu-au-fort-de-bregancon-lundi-soir-pour-une-reunion-de-travail-sur-les-incendies-avec-emmanuel-macron_8151368.html#xtor=RSS-3-[lestitres]",
-      "summary": "Plus tôt dans la journée, le Premier ministre a annoncé un plan d'aide à la Gironde de plusieurs dizaines de millions d'euros.",
-      "image": "https://www.franceinfo.fr/pictures/N8GZUYsE2e-HkidCg0TusiFAGxA/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/04/08/69d5ef28e81c7713505624.jpg",
-      "published_at": "2026-08-17T20:34:21+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "65e7d77ff02e"
-    },
-    {
       "title": "\"J'ai entendu un gros boum\" : un avion de l'armée de l'air finit sa course sur une route à Salon-de-Provence",
       "url": "https://www.franceinfo.fr/salon-de-provence/j-ai-entendu-un-gros-boum-un-avion-de-l-armee-de-l-air-finit-sa-course-sur-une-route-a-salon-de-provence_8151365.html#xtor=RSS-3-[lestitres]",
       "summary": "Un avion militaire s'est posé en urgence sur une route départementale à Salon-de-Provence, dans les Bouches-du-Rhône, lundi 17 août. Les deux pilotes, un instructeur et son élève, s'en sortent vivants, légèrement blessés.",
@@ -163,7 +233,7 @@
       "id": "85b4ab16e8cd"
     },
     {
-      "title": "Piratage du fisc : le gouvernement empêtré dans « la cyberattaque la plus grave de l’histoire de notre pays »",
+      "title": "Piratage du fisc : le gouvernement empêtré dans une cyberattaque dénoncée par l’opposition comme « la plus grave de l’histoire de notre pays »",
       "url": "https://www.lemonde.fr/politique/article/2026/08/17/fisc-le-gouvernement-empetre-dans-la-cyberattaque-la-plus-grave-de-l-histoire-de-notre-pays_6748415_823448.html",
       "summary": "Le premier ministre, Sébastien Lecornu, a présidé, lundi, une cellule interministérielle de crise pour faire le point sur le piratage informatique d’ampleur qui a touché l’administration fiscale. Une commission d’enquête pourrait voir le jour au Sénat.",
       "image": "https://img.lemde.fr/2026/08/17/1825/0/4500/2250/644/322/60/0/83f7299_upload-1-4nqhxsd95g9c-mfache-17082026-le-monde-deplacement-lecornu-en-gironde-france-053.jpg",
@@ -231,76 +301,6 @@
       "source": "Libération",
       "category": "Tech",
       "id": "f697fda6794f"
-    },
-    {
-      "title": "Un retraité condamné à quinze mois de prison avec sursis pour avoir menacé des enfants avec une carabine en les traitant de « sales nègres » et « sales arabes »",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/17/injures-racistes-envers-des-enfants-en-haute-loire-un-sexagenaire-condamne-a-15-mois-de-prison-avec-sursis-probatoire_6748412_3224.html",
-      "summary": "La peine du sexagénaire, habitant un quartier défavorisé d’Espaly-Saint-Marcel, est accompagnée d’une obligation de soins et d’une interdiction de port ou de détention d’arme pendant dix ans.",
-      "image": "https://img.lemde.fr/2026/07/28/250/0/3000/1500/644/322/60/0/af82379_upload-1-gs7drjtgnfuc-frame-1209.jpg",
-      "published_at": "2026-08-17T19:35:47+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "a935e453fe5a"
-    },
-    {
-      "title": "Incendie en Belgique : le feu dans les Hautes-Fagnes provoque un débat sur l’impréparation du pays au changement climatique",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/17/en-belgique-l-incendie-des-fagnes-provoque-un-debat-sur-l-impreparation-du-pays-au-changement-climatique_6748411_3244.html",
-      "summary": "Le feu qui embrase depuis le 14 août le plateau des Hautes-Fagnes, dans l’est de la Belgique, continue de progresser.",
-      "image": "https://img.lemde.fr/2026/08/17/238/0/2856/1428/644/322/60/0/64eab74_ftp-1-m2d4y42ddmsv-5862393-01-06.jpg",
-      "published_at": "2026-08-17T19:33:47+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "87f6542dbfbf"
-    },
-    {
-      "title": "Et s’il n’y avait pas un mais deux Dr Doom dans Avengers: Doomsday ? La folle théorie de certains fans",
-      "url": "https://www.numerama.com/pop-culture/2312677-et-sil-ny-avait-pas-un-mais-deux-dr-doom-dans-avengers-doomsday-la-folle-theorie-de-certains-fans.html",
-      "summary": "Certains fans du MCU pensent que Marvel est en train de tromper tout le monde avec le retour de Robert Downey Jr. dans Avengers: Doomsday. Selon eux, ils seraient deux à incarner Dr Doom.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-17T17:30:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "3661e5a4d8a8"
-    },
-    {
-      "title": "La mort du professeur Jason Arday, symptôme tragique de la privatisation de l’université britannique",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/la-mort-du-professeur-jason-arday-symptome-tragique-de-la-privatisation-de-luniversite-britannique-20260817_UFQOKR5B25H4FJ5R2OH7NPV7UE/",
-      "summary": "Avec le désengagement de l’Etat, les universités se financent via des frais de scolarité exorbitants et doivent répondre aux attentes d’étudiants-consommateurs : Cambridge a affiché Jason Arday comme un «poster boy» de la diversité faute d’une procédure de recrutement juste humaine et transparente, déplore Philippe Marlière, professeur au University college London.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-17T17:20:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "07f41b40fd1b"
-    },
-    {
-      "title": "«J’ai décidé de ne pas rajouter de la division» : Gérald Darmanin soutient Edouard Philippe pour la présidentielle",
-      "url": "https://www.liberation.fr/politique/jai-decide-de-ne-pas-rajouter-de-la-division-darmanin-annonce-soutenir-philippe-pour-la-presidentielle-20260817_BBQ66GY6K5GMDDDXNA2MA6M6VU/",
-      "summary": "Le ministre de la Justice met fin au suspense autour d’une éventuelle candidature et déclare rejoindre l’ancien Premier ministre, dans un entretien publié ce lundi 17 août par la «Voix du Nord».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-17T17:13:59+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "7485fd5c9a04"
-    },
-    {
-      "title": "Annonces de Lecornu après les incendies, Darmanin soutient Philippe, piratage du fisc… L’actu de ce lundi 17 août",
-      "url": "https://www.liberation.fr/international/europe/annonces-de-lecornu-apres-les-incendies-darmanin-soutient-philippe-piratage-du-fisc-lactu-de-ce-lundi-17-aout-20260817_Y4S6DWJISFAFXLKURW3EPIFRQI/",
-      "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée du lundi 17 août.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-17T17:07:39+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "1dbfedf2f286"
-    },
-    {
-      "title": "VIDEO Cisjordanie : l’histoire de la famille Ridi, assiégée par des colons israéliens depuis plusieurs jours",
-      "url": "https://www.lemonde.fr/international/video/2026/08/17/cisjordanie-l-histoire-de-la-famille-ridi-assiegee-par-des-colons-israeliens-depuis-plusieurs-jours_6748408_3210.html",
-      "summary": "Depuis le 9 août 2026, quelques dizaines de colons bloquent l’accès à des maisons palestiniennes dans le village de Qusra, près de Naplouse.",
-      "image": "https://img.lemde.fr/2026/08/17/341/0/4100/2050/644/322/60/0/be1a0ba_ftp-1-vwzftfnqolez-5861587-01-06.jpg",
-      "published_at": "2026-08-17T19:05:18+02:00",
-      "source": "Le Monde Inter",
-      "category": "Société",
-      "id": "4d83169a563d"
     }
   ]
 }
