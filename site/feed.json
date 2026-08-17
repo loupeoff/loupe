@@ -1,19 +1,239 @@
 {
-  "generated_at": "2026-08-17T15:32:49.620357+00:00",
+  "generated_at": "2026-08-17T16:36:04.031992+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Dans le sud du Liban, la peur des incendies causés par des frappes israéliennes",
+      "title": "Mgr Etienne Guillet, évêque de Saint-Denis, un homme « qui crée de la maille là où il y a des déchirures »",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/17/mgr-etienne-guillet-eveque-de-saint-denis-un-homme-qui-cree-de-la-maille-la-ou-il-y-a-des-dechirures_6748402_3224.html",
+      "summary": "Dans son diocèse de Seine-Saint-Denis, un département où le catholicisme est minoritaire, le plus jeune évêque de France favorise le rapprochement entre les religions. Il prépare la venue du pape au Stade de France, le 25 septembre, dans un esprit d’ouverture.",
+      "image": "https://img.lemde.fr/2026/08/14/240/0/4000/2000/644/322/60/0/e626c24_upload-1-lxld19oh0nhd-divergence-lh1952055.jpg",
+      "published_at": "2026-08-17T18:30:00+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "ef7140c5a675"
+    },
+    {
+      "title": "Collision de bateaux dans la baie de Cannes : fin des recherches pour l'homme de 22 ans disparu en mer",
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/collision-de-bateaux-dans-la-baie-de-cannes-fin-des-recherches-pour-l-homme-de-22-ans-disparu-en-mer-3402601.html#xtor=RSS-3-[lestitres]",
+      "summary": "Un homme de 22 ans a disparu vers 23 heures ce 17 août lors d’un accident entre deux bateaux de plaisance au large de Mandelieu-la-Napoule, dans la baie de Cannes. Malgré les recherches, il n’a pas encore été retrouvé.",
+      "image": "https://www.franceinfo.fr/pictures/onGJ56eJV5SHq3QWBCDijh6m7Os/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82f0172109b397020032.jpg",
+      "published_at": "2026-08-17T18:28:33+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "549becb0f307"
+    },
+    {
+      "title": "Colis, repas… Ces robots autonomes vont pouvoir livrer en France",
+      "url": "https://www.franceinfo.fr/internet/colis-repas-ces-robots-autonomes-vont-pouvoir-livrer-en-france_8151110.html#xtor=RSS-3-[lestitres]",
+      "summary": "Votre colis ou votre repas livré par un robot... C'est désormais possible en France. Le gouvernement vient d'autoriser la mise en circulation des véhicules de livraison autonomes, une technologie déjà développée aux Etats-Unis ou au Royaume-Uni, où les piétons ont désormais l'habitude de partager la chaussée avec ces drôles d'engins.",
+      "image": "https://www.franceinfo.fr/pictures/jq12sBHCygTbtZd4XHEFGf9oIEs/0x20:793x467/432x243/filters:format(jpg):quality(50)/2026/08/17/6a831c56e9fad256874424.jpg",
+      "published_at": "2026-08-17T18:27:07+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "5086f846a064"
+    },
+    {
+      "title": "Atterrissage d'urgence, un instructeur et son apprenti pilote, route fermée…Ce que l'on sait du crash d'un avion de la base aérienne de Salon-de-Provence",
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/salon-de-provence/atterrissage-d-urgence-un-instructeur-et-son-apprenti-pilote-route-fermee-ce-que-l-on-sait-du-crash-d-un-avion-de-la-base-aerienne-de-salon-de-provence-3402538.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'avion piloté par deux militaires a atterri en urgence dans le sens de la circulation sur la RD 113. Victimes d'un incident lors d'un vol d'instruction, les deux pilotes ont réussi à s'extraire de l'appareil à temps. L'accident n'a fait aucun blessé grave.",
+      "image": "https://www.franceinfo.fr/pictures/5K1cohxcp7sgqSgE_fydMigiQXc/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82e65c68224695780276.jpg",
+      "published_at": "2026-08-17T18:25:15+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "2e3cf05c1a88"
+    },
+    {
+      "title": "Iran: appel à la libération de deux artistes arrêtés lors d’une réunion de travail avec des diplomates français",
+      "url": "https://www.liberation.fr/international/moyen-orient/iran-appel-a-la-liberation-de-deux-artistes-arretes-lors-dune-reunion-de-travail-avec-des-diplomates-francais-20260817_HSZHSKYNQ5FZBGOKTZ4BCQGENE/",
+      "summary": "Aria Kasaei et Elahe Naghilou ont été arrêtés le 19 juillet. Le régime iranien évoque «un rendez-vous secret», un projet d’« infiltration » et d’« ingérence » de la France.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-17T16:24:24+00:00",
+      "source": "Libération",
+      "category": "Tech",
+      "id": "3794f26a2f88"
+    },
+    {
+      "title": "Cartes Pokémon 30ᵉ anniversaire : tout savoir sur les précommandes (ETB et boosters)",
+      "url": "https://www.numerama.com/pop-culture/2293233-cartes-pokemon-30%e1%b5%89-anniversaire-tout-savoir-sur-les-precommandes-etb-et-boosters.html",
+      "summary": "Pour célébrer ses 30 ans, Pokémon prépare une collection de cartes qui s’annonce particulièrement convoitée. ETB, coffrets Ultra Premium, boosters… Numerama fait le point sur les différents produits annoncés et l'arrivée des précommandes en France.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-17T16:20:00+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "735161c24c0f"
+    },
+    {
+      "title": "Les annonces de Sébastien Lecornu sur l'incendie en Gironde vont \"dans le sens que nous attendions\", se félicite le maire du Porge",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/les-annonces-de-sebastien-lecornu-sur-l-incendie-en-gironde-vont-dans-le-sens-que-nous-attendions-se-felicite-le-maire-du-porge_8151269.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Clairement, il y a les prémices d'un plan Marshall\", soutient Martial Zaninetti, après le déblocage d'un fonds de 12 millions d'euros d'aide aux collectivités.",
+      "image": "https://www.franceinfo.fr/pictures/YK5UNhospL8uq9o1XLbGJROQSxA/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/04/6a717735e090b336794672.jpg",
+      "published_at": "2026-08-17T18:16:27+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "2c6dfe142451"
+    },
+    {
+      "title": "L’allocation de rentrée scolaire sera versée mardi à 3 millions de familles",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/17/l-allocation-de-rentree-scolaire-sera-versee-mardi-a-3-millions-de-familles_6748401_3224.html",
+      "summary": "L’aide est versée aux familles dont les ressources pour l’année 2024 ne dépassent pas 28 956 euros pour un enfant, 35 638 euros pour deux enfants, 42 320 euros pour trois enfants.",
+      "image": "https://img.lemde.fr/2024/09/13/154/0/1801/900/644/322/60/0/678ff6b_1726227305115-mei-dia-24.png",
+      "published_at": "2026-08-17T18:06:07+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "5e3fc8212b57"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Lev Shlossberg, vice-président du seul parti antiguerre en Russie, a été condamné à onze ans de prison pour « discrédit de l’armée »",
+      "url": "https://www.lemonde.fr/international/live/2026/08/17/en-direct-guerre-en-ukraine-lev-shlossberg-vice-president-du-seul-parti-antiguerre-en-russie-a-ete-condamne-a-onze-ans-de-prison-pour-discredit-de-l-armee_6746952_3210.html",
+      "summary": "La justice reproche à cet homme de 63 ans le partage d’un message du média Echo de Moscou montrant la une du tabloïd britannique « Daily Mirror » avec le portrait de Vladimir Poutine, ainsi que d’avoir plaidé pour un cessez-le-feu.",
+      "image": "https://img.lemde.fr/2026/08/17/384/0/4603/2301/644/322/60/0/ef2e932_ftp-1-4jvsh10jtwwv-5862075-01-06.jpg",
+      "published_at": "2026-08-17T18:03:07+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "b2295cbdd581"
+    },
+    {
+      "title": "Sept personnes sont mortes et 50 migrants ont été secourus au large de la Libye, rapporte une ONG",
+      "url": "https://www.franceinfo.fr/monde/europe/naufrage-a-lampedusa/sept-personnes-sont-mortes-et-50-migrants-ont-ete-secourus-au-large-de-la-libye-rapporte-une-ong_8151239.html#xtor=RSS-3-[lestitres]",
+      "summary": "Deux personnes se trouvent dans \"un état critique, victimes d'asphyxie\", selon l'ONG italienne Emergency.",
+      "image": "https://www.franceinfo.fr/pictures/yuB0UZ3xJjG9og1hD9A9VWPHZ28/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/17/6a832fda4bdca136539895.jpg",
+      "published_at": "2026-08-17T18:02:05+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "9e705f90b5ea"
+    },
+    {
+      "title": "« C’est le terme “apartheid de genre” qui définirait le mieux ce crime odieux commis contre les Afghanes » : les droits des femmes piétinés par les talibans depuis cinq ans",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/17/c-est-le-terme-apartheid-de-genre-qui-definirait-le-mieux-ce-crime-odieux-commis-contre-les-afghanes-les-droits-des-femmes-pietines-par-les-talibans-depuis-cinq-ans_6748400_3451060.html",
+      "summary": "« Paroles d’Afghanes » (2/6). De retour au pouvoir le 15 août 2021, les talibans ont démantelé, en seulement quelques jours, les institutions, les lois et les services relatifs aux droits des femmes, et expurgé l’appareil judiciaire de toute présence féminine. Suite des témoignages recueillis par notre envoyée spéciale à Kaboul.",
+      "image": "https://img.lemde.fr/2026/08/11/562/0/6903/3451/644/322/60/0/9c30721_upload-1-fhsvxes3a9qf-afg-2025-04-02-010.jpg",
+      "published_at": "2026-08-17T18:00:13+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "c94bca13cc39"
+    },
+    {
+      "title": "En Libye, l’autorité du maréchal Haftar écornée par la rivalité entre ses fils",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/17/en-libye-l-autorite-du-marechal-haftar-ecornee-par-la-rivalite-entre-ses-fils_6748399_3212.html",
+      "summary": "Khalifa Haftar, 82 ans, a bâti son image d’homme fort de la Cyrénaïque en réprimant toute contestation. La stabilité dans l’Est libyen est aujourd’hui menacée, alors que le maréchal prépare sa succession et que le patron du renseignement militaire vient d’être assassiné.",
+      "image": "https://img.lemde.fr/2026/04/07/0/0/4548/2274/644/322/60/0/b6a7a6d_upload-1-ff3ql7cudf4k-000-38hm963.jpg",
+      "published_at": "2026-08-17T18:00:09+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "3c1770eff3a7"
+    },
+    {
+      "title": "« L’IA devrait être comme le Wi-Fi » : dans ce bar chinois, DeepSeek est à volonté",
+      "url": "https://www.numerama.com/tech/2312773-lia-devrait-etre-comme-le-wi-fi-dans-ce-bar-chinois-deepseek-est-a-volonte.html",
+      "summary": "À Pékin, un bar propose à ses clients d’utiliser gratuitement et sans limite le modèle d’intelligence artificielle DeepSeek, le tout autour d’une bière. Un concept repéré par Reuters, qui illustre la place prise par l’IA dans le quotidien chinois.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-17T16:00:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "c14fac640704"
+    },
+    {
+      "title": "\"'Posture', c'est une maladresse\" : Laurent Nuñez répond aux accusations de \"mensonges\" portées par Mediapart sur la gestion des incendies",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/posture-c-est-une-maladresse-laurent-nunez-repond-aux-accusations-de-mensonges-portees-par-mediapart-sur-la-gestion-des-incendies_8151041.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le site d'investigation a eu accès à un enregistrement du ministre de l'Intérieur face aux syndicats de pompiers professionnels, dans lequel il évoque une \"posture\" concernant ses propos sur les moyens suffisants alloués par le gouvernement pour lutter contre les feux de forêt.",
+      "image": "https://www.franceinfo.fr/pictures/Oq0MohwViTuyO7TDSiEmpyCj2F8/0x80:1024x656/432x243/filters:format(jpg):quality(50)/2026/08/17/6a83234cdfc6e165024173.jpg",
+      "published_at": "2026-08-17T17:54:19+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "b5284a06da62"
+    },
+    {
+      "title": "«Un acte incroyable» : un pilote de l’armée et son élève se posent sur une route après une avarie",
+      "url": "https://www.liberation.fr/societe/un-acte-incroyable-un-pilote-de-larmee-et-son-eleve-se-posent-sur-une-route-apres-une-avarie-20260817_A26ZC4DONNDFFKOPVU7CKNRFQY/",
+      "summary": "Les deux passagers ont réussi à s’extraire de l’appareil qui a pris feu en se posant. Ils sont légèrement blessés.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-17T15:53:25+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "d73794cc2e7d"
+    },
+    {
+      "title": "EN DIRECT - Incendies : «C’est le minimum que le gouvernement puisse faire», réagit la porte-parole du collectif des habitants du Porge après les annonces de Lecornu",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-sebastien-lecornu-en-gironde-pour-lancer-la-reconstruction-apres-le-megafeu-20260817_IQPIDOC3MRHAXLPHHRRRXO3QZY/",
+      "summary": "Lors de sa visite sur le territoire ravagé par les flammes en juillet, le Premier ministre a dit vouloir «sortir l’artillerie lourde». Il a notamment fait des annonces sur la question des permis de construire ou des aménagements fiscaux pour les entreprises.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-17T15:49:56+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "c107307a8511"
+    },
+    {
+      "title": "\"Des éliminations ciblées à Gaza\" : les déclarations polémiques du ministre israélien Itamar Ben Gvir divisent la société israélienne et inquiètent la communauté internationale",
+      "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/des-eliminations-ciblees-a-gaza-les-declarations-polemiques-du-ministre-israelien-itamar-ben-gvir-divisent-la-societe-israelienne-et-inquietent-la-communaute-internationale_8151071.html#xtor=RSS-3-[lestitres]",
+      "summary": "Même si le ministre d'extrême droite appelle à \"descendre chaque nuit entre 30 ou 40\" Palestiniens, l'homme politique n'a aucune autorité sur l'armée israélienne.",
+      "image": "https://www.franceinfo.fr/pictures/7gjK3O9IF5yEis4RPlp4Q21O-HQ/0x177:4000x2427/432x243/filters:format(jpg):quality(50)/2026/08/17/6a8321928b983809390380.jpg",
+      "published_at": "2026-08-17T17:46:39+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "8009a9abcc20"
+    },
+    {
+      "title": "L’ère du ChatGPT gratuit et sans publicité touche officiellement à sa fin",
+      "url": "https://www.numerama.com/tech/2312843-lere-du-chatgpt-gratuit-et-sans-publicite-touche-officiellement-a-sa-fin.html",
+      "summary": "Six mois après de premiers tests aux États-Unis, OpenAI annonce le déploiement global des bannières publicitaires dans la version gratuite de ChatGPT. Face aux inquiétudes sur la vie privée, la startup a ajusté ses plans initiaux à propos du ciblage.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-17T15:44:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "e48c50fa53f7"
+    },
+    {
+      "title": "Affaire E. Jean Carroll : la Cour suprême rejette un ultime recours de Donald Trump contre une indemnisation pour agression sexuelle",
+      "url": "https://www.lemonde.fr/international/article/2026/08/17/affaire-e-jean-carroll-la-cour-supreme-rejette-un-ultime-recours-de-donald-trump-contre-une-indemnisation-pour-agression-sexuelle_6748398_3210.html",
+      "summary": "Dans cette affaire, l’ancienne journaliste et chroniqueuse accuse le président américain de l’avoir agressée dans une cabine d’essayage à New York, en 1996.",
+      "image": "https://img.lemde.fr/2026/08/17/474/0/7184/3592/644/322/60/0/ccf0ab1_ftp-1-lb8cgoolpn8r-5860213-01-06.jpg",
+      "published_at": "2026-08-17T17:34:16+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "605a4fffe370"
+    },
+    {
+      "title": "Que faut-il faire si vos données fiscales sont concernées par le piratage du système d'information de la DGFiP ?",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/que-faut-il-faire-si-vos-donnees-fiscales-sont-concernees-par-le-piratage-du-systeme-d-information-de-la-dgfip_8150648.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les Français victimes du piratage du système informatique de la DGFiP vont être informés par courrier à partir de lundi. Franceinfo a interrogé des spécialistes de la cybersécurité qui nous livrent leur conseils pour mieux se protéger.",
+      "image": "https://www.franceinfo.fr/pictures/lUI-9oTdYuKct8ZEslCIgzkvqBY/0x285:5472x3363/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82eff27467a881570124.jpg",
+      "published_at": "2026-08-17T17:32:01+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "c1122372d0e5"
+    },
+    {
+      "title": "Avec Michael von Graffenried, l’Amérique mise à cru",
+      "url": "https://www.liberation.fr/culture/photographie/avec-michael-von-graffenried-lamerique-mise-a-cru-20260817_ZG3GXC62WNHWHEM4GY4LDRAMK4/",
+      "summary": "Au festival Présence(s) Photographie à Montélimar (Drôme) jusqu’au 31 octobre, le photographe suisse expose sans complaisance le quotidien de la ville de New Bern, en Caroline du Nord, fondée par son aïeul.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-17T15:30:53+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "479091adbe1e"
+    },
+    {
+      "title": "Mort de Screaming Mad George, génie surréaliste des effets spéciaux",
+      "url": "https://www.liberation.fr/culture/cinema/mort-de-screaming-mad-george-genie-surrealiste-des-effets-speciaux-20260817_RH4C5UODZZGKFKO4HFMUNLFGDY/",
+      "summary": "Flamboyant et excentrique, le maquilleur et réalisateur d’effets spéciaux a marqué toute une époque avec son travail sur «le Cauchemar de Freddy», «Society» ou «Predator». Son décès survenu en février à l’âge de 69 ans, a été annoncé le 17 août.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-17T15:30:43+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "2680313ecfd7"
+    },
+    {
+      "title": "« Toute la région s’est retrouvée éclairée par les flammes » : les habitants du sud du Liban vivent dans la peur des frappes israéliennes et des incendies qu’elles provoquent",
       "url": "https://www.lemonde.fr/international/article/2026/08/17/dans-le-sud-du-liban-la-peur-des-incendies-causes-par-des-frappes-israeliennes_6748396_3210.html",
       "summary": "Dans la zone sous contrôle israélien, les pompiers libanais ont besoin d’une autorisation pour intervenir. Dans les villages encore habités, les résidents se sentent isolés et craignent de devoir quitter leurs logements.",
       "image": "https://img.lemde.fr/2026/08/17/424/0/5088/2544/644/322/60/0/44f1798_upload-1-okahye1c10ed-000-c42t73e.jpg",
-      "published_at": "2026-08-17T17:30:06+02:00",
+      "published_at": "2026-08-17T17:30:04+02:00",
       "source": "Le Monde Inter",
       "category": "Sport",
       "id": "558552c9e9d5"
     },
     {
-      "title": "Sandrine Rousseau se rapproche de Mélenchon : «Il faut discuter avec La France insoumise»",
+      "title": "Sandrine Rousseau veut que les verts discutent avec La France insoumise",
       "url": "https://www.liberation.fr/politique/sandrine-rousseau-se-rapproche-de-melenchon-il-faut-discuter-avec-la-france-insoumise-20260817_DCQEVRBVTZGCVFUBX4IUSNAKKE/",
       "summary": "Invitée de France Info ce lundi 17 août, la députée écologiste de Paris a de nouveau critiqué la stratégie de la secrétaire nationale du parti, Marine Tondelier.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
@@ -21,16 +241,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "5076026e39ea"
-    },
-    {
-      "title": "EN DIRECT - Incendies : Sébastien Lecornu annonce le déblocage de 12 millions d’euros pour les Landes et la Gironde",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-sebastien-lecornu-en-gironde-pour-lancer-la-reconstruction-apres-le-megafeu-20260817_IQPIDOC3MRHAXLPHHRRRXO3QZY/",
-      "summary": "Lors de sa visite sur le territoire ravagé par les flammes en juillet, le Premier ministre a dit vouloir «sortir l’artillerie lourde». Il a notamment fait des annonces sur la question des permis de construire ou des aménagements fiscaux pour les entreprises.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-17T15:27:39+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "c107307a8511"
     },
     {
       "title": "Près de Ceuta, une volonté d’exil infatigable : «Je veux juste m’échapper de cet enfer»",
@@ -43,13 +253,13 @@
       "id": "507fbdf2f6e6"
     },
     {
-      "title": "La Côte d’Opale profite de la quête de fraîcheur des touristes : « Il y a des Sudistes qui montent ici ! »",
+      "title": "La Côte d’Opale fait le plein, profitant de l’été caniculaire dans le reste de la France : « Wimereux va devenir comme Saint-Tropez ! »",
       "url": "https://www.lemonde.fr/economie/article/2026/08/17/la-cote-d-opale-profite-de-la-quete-de-fraicheur-des-touristes-il-y-a-des-sudistes-qui-montent-ici_6748395_3234.html",
-      "summary": "La fréquentation du littoral du Pas-de-Calais et du Nord est en nette progression par rapport à 2025, grâce à l’arrivée de vacanciers français et étrangers qui ont fui la canicule.",
+      "summary": "La fréquentation du littoral du Pas-de-Calais et du Nord, avec ses immenses plages de sable fin et sa température dépassant rarement les 30 °C, est en nette progression par rapport à 2025.",
       "image": "https://img.lemde.fr/2026/08/17/612/0/6000/3000/644/322/60/0/c0173c4_upload-1-i4mikp0wm7ib-000-62zx8ct.jpg",
-      "published_at": "2026-08-17T17:20:45+02:00",
+      "published_at": "2026-08-17T17:20:40+02:00",
       "source": "Le Monde",
-      "category": "Société",
+      "category": "Sport",
       "id": "bcfde81dbfca"
     },
     {
@@ -91,216 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "02390c351986"
-    },
-    {
-      "title": "Il ignorait que sa victime était morte : en Floride, un homme avoue un meurtre remontant à 1987",
-      "url": "https://www.liberation.fr/societe/police-justice/il-ignorait-que-sa-victime-etait-morte-en-floride-un-homme-avoue-un-meurtre-remontant-a-1987-20260817_Y6NDN6675NGOFL3Q7F3BURK4UQ/",
-      "summary": "Depuis près de quarante ans, le meurtre de Melissa Taylor gardait son mystère. Son auteur s’est dénoncé au mois de juillet, affirmant qu’il ne pensait pas l’avoir tuée, mais assommée durant un cambriolage.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-17T15:04:46+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "f08e032d1f21"
-    },
-    {
-      "title": "Permis de construire accéléré, enveloppe de 12 millions d’euros… Sébastien Lecornu sort «l’artillerie lourde» pour éteindre le mécontentement en Gironde",
-      "url": "https://www.liberation.fr/politique/permis-de-construire-accelere-enveloppe-de-12-millions-deuros-sebastien-lecornu-sort-lartillerie-lourde-pour-eteindre-le-mecontentement-en-gironde-20260817_SQTAAYWOR5EQ5BSHJPX6OEW6BE/",
-      "summary": "Le Premier ministre a tenté de calmer la colère des habitants de la région, qui l’ont hué ce lundi 17 août à son arrivée au Porge, l’une des communes les plus dévastées par l’incendie.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-17T15:03:35+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "300ac1315c2c"
-    },
-    {
-      "title": "Jean-Noël Barrot, ministre des affaires étrangères : « Le cas de Xenia Fedorova illustre la menace d’ingérence à laquelle nous sommes confrontés »",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/17/jean-noel-barrot-ministre-des-affaires-etrangeres-le-cas-de-xenia-fedorova-illustre-la-menace-d-ingerence-a-laquelle-nous-sommes-confrontes_6748361_3232.html",
-      "summary": "Après l’arrêté d’expulsion prononcé contre la propagandiste russe, fin juillet, le ministre rappelle, dans une tribune au « Monde », l’importance de faire la distinction entre l’opinion, qui cherche à convaincre, la manipulation de l’information, qui vise à tromper, et l’ingérence, dont l’objectif consiste à peser de l’extérieur sur notre liberté de choix.",
-      "image": "https://img.lemde.fr/2026/08/17/67/0/6000/3000/644/322/60/0/27991c3_upload-1-3mts2rcnbhde-000-b4ut9r4.jpg",
-      "published_at": "2026-08-17T16:54:18+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "8e2b2d99e2d8"
-    },
-    {
-      "title": "Naufrage en Méditerranée : 7 migrants sont morts et 50 autres ont été secourus au large de la Libye",
-      "url": "https://www.lemonde.fr/international/article/2026/08/17/naufrage-en-mediterranee-7-migrants-sont-morts-et-50-autres-secourus-au-large-de-la-libye_6748360_3210.html",
-      "summary": "Quarante-cinq hommes et cinq femmes secourus, dont vingt-neuf mineurs non accompagnés, étaient à bord d’une petite embarcation en bois. Ils affirment être originaires d’Egypte et de Somalie, selon l’ONG Emergency.",
-      "image": "https://img.lemde.fr/2019/03/25/432/0/4418/2209/644/322/60/0/0288383_677e1f2a43c24b6ba1c1408601d7675f-677e1f2a43c24b6ba1c1408601d7675f-0.jpg",
-      "published_at": "2026-08-17T16:54:13+02:00",
-      "source": "Le Monde Inter",
-      "category": "Sport",
-      "id": "0f7e34145dd8"
-    },
-    {
-      "title": "En 2025, 350 travailleurs humanitaires ont été tués dans le monde, dont 186 à Gaza, selon l’ONU",
-      "url": "https://www.lemonde.fr/international/article/2026/08/17/en-2025-350-travailleurs-humanitaires-ont-ete-tues-dans-le-monde-dont-186-a-gaza-selon-l-onu_6748357_3210.html",
-      "summary": "Depuis le début de 2026, 82 travailleurs humanitaires ont été tués, 97 blessés et 39 enlevés à travers le monde, a également fait savoir l’institution.",
-      "image": "https://img.lemde.fr/2025/12/31/684/0/8192/4096/644/322/60/0/5bd17f0_ftp-1-ivk3cfo8l95v-5776926-01-06.jpg",
-      "published_at": "2026-08-17T16:44:46+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "4068721deac1"
-    },
-    {
-      "title": "Six départements du Sud-Est sont toujours maintenus en vigilance orange \"canicule\" ce lundi",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/seuls-six-departements-du-sud-est-maintenus-en-vigilance-orange-canicule-lundi-a-partir-de-6-heures_8150288.html#xtor=RSS-3-[lestitres]",
-      "summary": "Plus aucun département ne sera en alerte orange pour fortes chaleurs mardi à 6 heures, confirme Météo-France dans son dernier bulletin.",
-      "image": "https://www.franceinfo.fr/pictures/PmiKENbPlDmynF8m3J-hQlyKiug/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/17/6a831df51b909850237142.jpg",
-      "published_at": "2026-08-17T16:43:17+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "de8a352a9409"
-    },
-    {
-      "title": "L'aide de l'État dans la campagne de communication pour soutenir le tourisme en Gironde après l'incendie va permettre de toucher \"l'international\", assure le comité régional du tourisme",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-aide-de-l-etat-dans-la-campagne-de-communication-pour-soutenir-le-tourisme-en-gironde-apres-l-incendie-va-permettre-de-toucher-l-international-assure-le-comite-regional-du-tourisme-de-nouvelle-aquitaine_8151125.html#xtor=RSS-3-[lestitres]",
-      "summary": "Ce plan devrait permettre de relancer le tourisme dans le département fortement touché après le feu qui a ravagé 42 000 hectares dans la région.",
-      "image": "https://www.franceinfo.fr/pictures/hkPGDp1F1_mIQZsRmHfqcEYE19Q/0x18:1600x918/432x243/filters:format(jpg):quality(50)/2026/07/28/6a68f21de0055092200971.jpg",
-      "published_at": "2026-08-17T16:38:07+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "af12a1745076"
-    },
-    {
-      "title": "Sur Pinterest, le bloqueur de pubs le plus simple serait… un gros mot",
-      "url": "https://www.numerama.com/tech/2312681-sur-pinterest-le-bloqueur-de-pubs-le-plus-simple-serait-un-gros-mot.html",
-      "summary": "Une astuce insolite permet de faire disparaître les publications sponsorisées des résultats de Pinterest : ajouter un gros mot à sa recherche. Nous avons testé cette méthode, qui semble exploiter les mécanismes chargés de protéger l’image des annonceurs.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-17T14:31:00+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "1c2d98213482"
-    },
-    {
-      "title": "Pour lutter contre les incendies, le projet d'une base aérienne à Mont-de-Marsan est de nouveau à l'étude, annonce Laurent Nuñez",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/pour-lutter-contre-les-incendies-le-projet-d-une-base-aerienne-a-mont-de-marsan-est-de-nouveau-a-l-etude-annonce-laurent-nunez_8151098.html#xtor=RSS-3-[lestitres]",
-      "summary": "Lors d'une conférence de presse aux côtés de Sébastien Lecornu, le ministre de l'Intérieur a défendu lundi le choix du gouvernement, au printemps 2025, de renoncer à ce projet dans les Landes.",
-      "image": "https://www.franceinfo.fr/pictures/iP1rSFaolByeMNChsYU9sWCEX7Q/0x32:1024x608/432x243/filters:format(jpg):quality(50)/2026/08/17/6a8318b537127399575132.jpg",
-      "published_at": "2026-08-17T16:24:37+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "5cb253ba7dbe"
-    },
-    {
-      "title": "Présidentielle 2027: pour Monique Barbut, ministre de l’écologie, Jean-Luc Mélenchon est le candidat « qui intègre le plus la question du climat dans ses propositions »",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/17/presidentielle-pour-monique-barbut-ministre-de-l-ecologie-jean-luc-melenchon-est-le-candidat-qui-integre-le-plus-la-question-du-climat-dans-ses-propositions_6748291_823448.html",
-      "summary": "Après avoir annoncé sa démission en juillet pour protester contre l’adoption de la loi d’urgence agricole, Monique Barbut était finalement restée à son poste. Dans un entretien à « Libération », elle prend un peu plus ses distances par rapport au gouvernement.",
-      "image": "https://img.lemde.fr/2026/07/22/365/0/2044/1022/644/322/60/0/a8686cd_ftp-1-tgwqq4jmpxl9-2026-07-22t100111z-2011837528-rc2yimakzjbl-rtrmadp-3-france-politics.JPG",
-      "published_at": "2026-08-17T16:17:30+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "ffc20d949e67"
-    },
-    {
-      "title": "«On va leur bombarder la gueule» : Donald Trump menace Oman, son allié, en cas d’opposition sur le détroit Ormuz",
-      "url": "https://www.liberation.fr/international/moyen-orient/on-va-leur-bombarder-la-gueule-donald-trump-menace-oman-son-allie-en-cas-dopposition-sur-le-detroit-ormuz-20260817_DFORGTJ4V5DMFGWECBAC6KQRPU/",
-      "summary": "Selon des propos rapportés ce lundi 17 août par la chaîne Fox News, le président des Etats-Unis met en garde le sultanat du Moyen-Orient, qui mène des négociations bilatérales avec Téhéran sur le passage des navires dans le détroit stratégique.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-17T14:06:16+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "3a26ff5d6ea1"
-    },
-    {
-      "title": "Donald Trump menace de bombarder Oman si le sultanat entrave un accord sur le détroit d'Ormuz",
-      "url": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/donald-trump-menace-de-bombarder-oman-s-il-entrave-un-accord-sur-le-detroit-d-ormuz_8151035.html#xtor=RSS-3-[lestitres]",
-      "summary": "Auprès d'un journaliste de Fox News, le président américain a aussi appelé lundi l'Iran à \"hisser le drapeau blanc de la capitulation\".",
-      "image": "https://www.franceinfo.fr/pictures/Zl1Ob79XlyUbpVKy0jdUnAUApBo/0x87:1024x663/432x243/filters:format(jpg):quality(50)/2026/08/17/6a8313108e279775983731.jpg",
-      "published_at": "2026-08-17T16:02:15+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "9318e437b127"
-    },
-    {
-      "title": "Collision de bateaux dans la baie de Cannes : fin des recherches pour l'homme de 22 ans disparu en mer",
-      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/collision-de-bateaux-dans-la-baie-de-cannes-fin-des-recherches-pour-l-homme-de-22-ans-disparu-en-mer-3402601.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un homme de 22 ans a disparu vers 23 heures ce 17 août lors d’un accident entre deux bateaux de plaisance au large de Mandelieu-la-Napoule, dans la baie de Cannes. Malgré les recherches, il n’a pas encore été retrouvé.",
-      "image": "https://www.franceinfo.fr/pictures/onGJ56eJV5SHq3QWBCDijh6m7Os/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82f0172109b397020032.jpg",
-      "published_at": "2026-08-17T16:02:07+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "549becb0f307"
-    },
-    {
-      "title": "VIDEO Incendies : voici les annonces de Sébastien Lecornu pour la Gironde et les Landes",
-      "url": "https://www.lemonde.fr/politique/video/2026/08/17/incendies-voici-les-annonces-de-sebastien-lecornu-pour-la-gironde-et-les-landes_6748258_823448.html",
-      "summary": "Le chef du gouvernement a notamment annoncé une aide de 12 millions d’euros pour ces deux départements, durement affectés par les incendies estivaux.",
-      "image": "https://img.lemde.fr/2026/08/17/458/0/5500/2750/644/322/60/0/94f40b7_ftp-1-pwb0dy7tldlo-2026-08-17t131831z-293060556-rc2d0na1gvs8-rtrmadp-3-europe-weather-france-wildfire.JPG",
-      "published_at": "2026-08-17T16:01:57+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "88780db5ee52"
-    },
-    {
-      "title": "Atterrissage d'urgence, un instructeur et son apprenti pilote, route fermée… Ce que l'on sait du crash d'un avion de la base aérienne de Salon-de-Provence",
-      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/salon-de-provence/atterrissage-d-urgence-un-instructeur-et-son-apprenti-pilote-route-fermee-ce-que-l-on-sait-du-crash-d-un-avion-de-la-base-aerienne-de-salon-de-provence-3402538.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'avion piloté par deux militaires a atterri en urgence dans le sens de la circulation sur la RD 113. Victimes d'un incident lors d'un vol d'instruction, les deux pilotes ont réussi à s'extraire de l'appareil à temps. L'accident n'a fait aucun blessé grave.",
-      "image": "https://www.franceinfo.fr/pictures/5K1cohxcp7sgqSgE_fydMigiQXc/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82e65c68224695780276.jpg",
-      "published_at": "2026-08-17T16:01:30+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "2e3cf05c1a88"
-    },
-    {
-      "title": "La fronde contre le marquage des textes de Claude s’organise : ces outils traquent déjà les failles du filigrane",
-      "url": "https://www.numerama.com/tech/2312505-la-fronde-contre-le-marquage-des-textes-de-claude-sorganise-ces-outils-traquent-deja-les-failles-du-filigrane.html",
-      "summary": "Début août, Anthropic annonçait que les textes générés par Claude porteraient bientôt une marque invisible, censée permettre de repérer un contenu écrit généré par IA. Une annonce accueillie froidement et qui voit naître son lot d’outils pour contrecarrer la mesure.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-17T14:01:00+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "a34393d641d5"
-    },
-    {
-      "title": "Envers mon endroit (5/8) – Les Vosges, par Aurélie Filippetti : elles sont brimbelles",
-      "url": "https://www.liberation.fr/portraits/envers-mon-endroit-58-les-vosges-par-aurelie-filippetti-elles-sont-brimbelles-20260817_66GJI7F4HZAS3DZWFRCSDCFXEI/",
-      "summary": "Ode au modeste mais majestueux massif lorrain, par l’ancienne ministre de la Culture, qui y a passé de nombreuses vacances.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-17T14:00:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "cb35039a9b05"
-    },
-    {
-      "title": "Incendies : le coût des mesures d'aide pour la Gironde et les Landes pourrait dépasser 100 millions d'euros, estime Sébastien Lecornu",
-      "url": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-le-premier-ministre-sebastien-lecornu-et-plusieurs-ministres-attendus-en-gironde-le-feu-contenu-mais-pas-fixe-dans-les-landes_8150471.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le chef du gouvernement et plusieurs ministres étaient en déplacement en Gironde, lundi, afin d'y rencontrer des élus et représentants du département et présenter plusieurs mesures d'urgence.",
-      "image": "https://www.franceinfo.fr/pictures/GCeE-hAfQKaGc0St-Z0m9QqnmaQ/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/17/6a8310c68d973755353733.jpg",
-      "published_at": "2026-08-17T15:58:13+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "5c8cb738edf0"
-    },
-    {
-      "title": "GitHub subit une panne généralisée : Pull Requests, Issues, Actions et API en erreur",
-      "url": "https://www.numerama.com/tech/2312767-github-subit-une-panne-generalisee-pull-requests-issues-actions-et-api-en-erreur.html",
-      "summary": "Un incident affecte plusieurs services critiques de GitHub ce lundi 17 août. La plateforme évoque un taux d'erreur d'environ 20% sur de nombreuses fonctionnalités.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-17T13:56:17+00:00",
-      "source": "Numerama",
-      "category": "Économie",
-      "id": "c39eb7dccacc"
-    },
-    {
-      "title": "Robert Downey Jr. révèle qui il préfère jouer entre Dr Doom et Iron Man",
-      "url": "https://www.numerama.com/pop-culture/2312503-robert-downey-jr-revele-qui-il-prefere-jouer-entre-dr-doom-et-iron-man.html",
-      "summary": "Interrogé à l'occasion de l'événement D23 de Disney, Robert Downey Jr. a révélé qu'il avait préféré incarner Dr Doom plutôt que Tony Stark/Iron Man. Jouer le méchant sous un masque a ainsi les préférences de l'acteur, plutôt qu'un richissime homme d'affaires, technophile et mégalomane sur les bords.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-17T13:49:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "0317c87bfda6"
-    },
-    {
-      "title": "Permis de construire, assurances, aide aux entreprises... Ce qu'il faut retenir des annonces de Sébastien Lecornu pour la reconstruction après les incendies dans le Sud-Ouest",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/permis-de-construire-assurances-aide-aux-entreprises-ce-qu-il-faut-retenir-des-annonces-de-sebastien-lecornu-pour-la-reconstruction-apres-les-incendies-dans-le-sud-ouest_8150789.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Premier ministre a détaillé lundi, depuis la Gironde, plusieurs mesures pour venir en aide aux sinistrés. Il a notamment annoncé un fonds de 12 millions d'euros pour permettre de lancer les travaux d'urgence.",
-      "image": "https://www.franceinfo.fr/pictures/asaf7rzo5B1iuxDcx0b5nSFYyhA/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/17/6a830dc4d63d6193782299.jpg",
-      "published_at": "2026-08-17T15:46:35+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "5467d99db83d"
     }
   ]
 }
