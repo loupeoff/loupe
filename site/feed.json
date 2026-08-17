@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-08-17T01:48:36.480745+00:00",
+  "generated_at": "2026-08-17T03:07:19.923754+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Fabien Gantois, architecte : « Ce que nous construisons mal aujourd’hui, nos enfants devront l’habiter, le transformer ou le démolir demain »",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/17/fabien-gantois-architecte-ce-que-nous-construisons-mal-aujourd-hui-nos-enfants-devront-l-habiter-le-transformer-ou-le-demolir-demain_6747957_3232.html",
+      "summary": "Le vice-président du Conseil national de l’ordre des architectes appelle, dans une tribune au « Monde », à ce que l’architecture et le cadre de vie fassent l’objet d’une grande politique nationale.",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/10027d0_upload-1-rchltnpkg1ay-frame-1326.jpg",
+      "published_at": "2026-08-17T05:00:27+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "469d6bde3087"
+    },
+    {
+      "title": "En Australie, une raffinerie de terres rares se prépare à rivaliser avec la Chine",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/17/en-australie-une-raffinerie-de-terres-rares-se-prepare-a-rivaliser-avec-la-chine_6747923_3234.html",
+      "summary": "Canberra ambitionne de jouer un rôle-clé dans l’établissement de chaînes d’approvisionnement en terres rares diversifiées, plus fiables et moins dépendantes de Pékin. L’Etat facilite le financement de projets et développe des partenariats internationaux.",
+      "image": "https://img.lemde.fr/2026/08/11/854/0/8192/4096/644/322/60/0/54b5893_upload-1-yqosma55oain-iluka-refinery-const-site-t6a4296.JPG",
+      "published_at": "2026-08-17T05:00:10+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "7ec514d97dcf"
+    },
     {
       "title": "Donald Trump a demandé à réduire les exercices militaires menés avec la Corée du Sud pour préserver ses liens avec le dirigeant nord-coréen, Kim Jong-un",
       "url": "https://www.lemonde.fr/international/article/2026/08/17/donald-trump-demande-a-reduire-les-exercices-militaires-menes-avec-la-coree-du-sud-pour-preserver-ses-liens-avec-le-dirigeant-nord-coreen-kim-jong-un_6747888_3210.html",
@@ -281,26 +301,6 @@
       "source": "Le Monde",
       "category": "Sport",
       "id": "3e67af6a1251"
-    },
-    {
-      "title": "Interdiction des réseaux sociaux aux moins de 15 ans : après la censure de la loi, l’impossible réécriture ?",
-      "url": "https://www.liberation.fr/politique/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-apres-la-censure-de-la-loi-limpossible-reecriture-20260816_4IYQP3A7RRGTLP3IN4HV5KPQ3I/",
-      "summary": "Le Conseil constitutionnel a jugé, vendredi, non-conforme le texte que Macron compte toujours promulguer. Alors que le gouvernement est mandaté pour trouver une solution, des députés y vont de leurs propositions, du référendum au rapprochement avec Bruxelles.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-16T17:21:54+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "9ae79de1a31f"
-    },
-    {
-      "title": "Cyclisme : débuts professionnels encourageants pour le biathlète Emilien Jacquelin à la Polynormande",
-      "url": "https://www.liberation.fr/sports/cyclisme/cyclisme-le-biathlete-emilien-jacquelin-entre-trac-et-excitation-pour-ses-debuts-pros-en-normandie-ce-dimanche-20260816_LGOI6P7UBZGKXHQ37JRHNKLH6U/",
-      "summary": "Le sportif de 31 ans, médaillé d’or aux Jeux Olympiques en biathlon, a disputé ce 16 août sa première course professionnelle de vélo. Distancé en fin de course seulement, il a fini 88e à près de 12 minutes du vainqueur.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-16T17:18:56+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "d7bc83f374e8"
     }
   ]
 }
