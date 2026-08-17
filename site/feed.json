@@ -1,26 +1,106 @@
 {
-  "generated_at": "2026-08-17T11:32:57.794196+00:00",
+  "generated_at": "2026-08-17T12:58:48.188846+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Deux militaires ont été légèrement blessés dans l'accident de leur avion à Salon-de-Provence",
+      "title": "Incendies : le coût des mesures d'aide pourrait dépasser 100 millions d'euros, estime Sébastien Lecornu",
+      "url": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-le-premier-ministre-sebastien-lecornu-et-plusieurs-ministres-attendus-en-gironde-le-feu-contenu-mais-pas-fixe-dans-les-landes_8150471.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le chef du gouvernement et plusieurs ministres sont en déplacement en Gironde, lundi, afin d'y rencontrer des élus et représentants du département, et faire des annonces.",
+      "image": "https://www.franceinfo.fr/pictures/l1DamU4zVh8zmM2Q9IxDdS37nws/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/17/6a830154e1593295697994.jpg",
+      "published_at": "2026-08-17T14:54:23+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "5c8cb738edf0"
+    },
+    {
+      "title": "En Inde, 15 morts dans deux accidents liés à des fêtes religieuses en l’honneur du dieu Shiva",
+      "url": "https://www.lemonde.fr/international/article/2026/08/17/en-inde-15-morts-dans-deux-accidents-lies-a-des-fetes-religieuses-en-l-honneur-du-dieu-shiva_6748216_3210.html",
+      "summary": "Un incendie est survenu dans un hôtel de Tarapith et une bousculade dans un temple hindou du district de Lakhisarai (Etat du Bihar), tous deux situés dans l’est du pays.",
+      "image": "https://img.lemde.fr/2026/08/10/433/0/5194/2597/644/322/60/0/643a739_ftp-1-kfxs612nnwcz-c07c8deb4f9741fb89b121fbb0629c70-0-ca52d117ade343c1a7e06ea4cc82b444.jpg",
+      "published_at": "2026-08-17T14:53:58+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "211dddcfb87f"
+    },
+    {
+      "title": "EN DIRECT - Incendies : Sébastien Lecornu annonce le déblocage de 12 millions d’euros pour les Landes et la Gironde",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-sebastien-lecornu-en-gironde-pour-lancer-la-reconstruction-apres-le-megafeu-20260817_IQPIDOC3MRHAXLPHHRRRXO3QZY/",
+      "summary": "La visite du Premier ministre ce lundi sur le territoire ravagé par les flammes en juillet a cristallisé beaucoup d’espoirs et de colère. Il s’est déjà rendu au Porge dimanche soir, sans l’avoir mentionné dans son programme officiel.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-17T12:51:56+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "c107307a8511"
+    },
+    {
+      "title": "Dans la baie de Cannes, un jeune homme porté disparu après la collision de deux bateaux de plaisance",
+      "url": "https://www.liberation.fr/societe/dans-la-baie-de-cannes-un-jeune-homme-porte-disparu-apres-la-collision-de-deux-bateaux-de-plaisance-20260817_M56YHQ2PGZDVTBNQQGNACNCSYY/",
+      "summary": "L’accident s’est produit dimanche soir au large de la commune de Mandelieu-la-Napoule, dans les Alpes-Maritimes. La victime, qui fêtait un anniversaire, a été éjectée de l’embarcation par l’impact.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-17T12:46:42+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "e4636c134e0d"
+    },
+    {
+      "title": "Zootopie 3 confirmé, Disney continue d’essorer ses bonnes licences",
+      "url": "https://www.numerama.com/pop-culture/2312599-zootopie-3-confirme-disney-continue-dessorer-ses-bonnes-licences.html",
+      "summary": "Assommé par des choix créatifs douteux et une panne d'idées neuves, le géant américain Disney se raccroche désespérément à ses vieilles recettes. L'annonce de Zootopie 3 et La Reine des Neiges 3 lors du D23, couplée au retour négocié de Johnny Depp en Jack Sparrow, confirme une stratégie cynique : recycler le passé plutôt que prendre le moindre risque.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-17T12:36:00+00:00",
+      "source": "Numerama",
+      "category": "Sport",
+      "id": "e030a06b9f11"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+      "url": "https://www.lemonde.fr/international/live/2026/08/17/en-direct-guerre-en-ukraine-les-dernieres-informations-au-17-aout-2026_6746952_3210.html",
+      "summary": "Une personne a été tuée et une autre blessée dans une frappe russe sur la commune de Bohdanivka, dans l’oblast de Dnipropetrovsk, a annoncé Vladyslav Haïvanenko, chef de l’administration militaire régionale.",
+      "image": "https://img.lemde.fr/2026/08/17/598/0/8640/4320/644/322/60/0/b3d8e75_ftp-1-5ocvphllr3ws-f661e8196c414f38a7e042ab1169636c-2-dd7f753f7f9b41bfb9436a2875b968cc.jpg",
+      "published_at": "2026-08-17T14:17:30+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "266aa5faff2b"
+    },
+    {
+      "title": "Ferrari Luce à 40 millions de dollars : pourquoi cette enchère record ne dit rien du succès du modèle",
+      "url": "https://www.numerama.com/vroom/2312625-ferrari-luce-a-40-millions-de-dollars-pourquoi-cette-enchere-record-ne-dit-rien-du-succes-du-modele.html",
+      "summary": "Le « châssis 0 » de la Ferrari Luce a été adjugé à 40 millions de dollars lors des enchères de Pebble Beach. Un montant qui pourrait faire taire ses détracteurs, mais qui ne dit finalement pas grand-chose de la désirabilité réelle du modèle.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-17T12:05:33+00:00",
+      "source": "Numerama",
+      "category": "Économie",
+      "id": "635a04657444"
+    },
+    {
+      "title": "Que Ibtissame Lachgar puisse enfin quitter sa cellule et recevoir des soins, par Leïla Slimani",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/que-ibtissame-lachgar-puisse-enfin-quitter-sa-cellule-et-recevoir-des-soins-par-leila-slimani-20260817_3Q37JULR5RHLPLEQ6BM3F3BOLI/",
+      "summary": "La romancière franco-marocaine relaie l’appel au secours de la sœur de la militante féministe emprisonnée depuis un an pour avoir posté un selfie où elle arborait un tee-shirt dont l’inscription porterait «atteinte à l’Islam». Sans soins immédiats et appropriés, elle risque l’amputation et la mort.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-17T11:42:20+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "7f3c6b8220a7"
+    },
+    {
+      "title": "En Europe, le bouton « Demander à l’app de ne pas me suivre » va disparaître sur iPhone",
+      "url": "https://www.numerama.com/tech/2312487-en-europe-le-bouton-demander-a-lapp-de-ne-pas-me-suivre-va-disparaitre-sur-iphone.html",
+      "summary": "L'autorité de la concurrence allemande contraint Apple à faire évoluer sa technologie App Tracking Transparency (ATT). Le mot « suivi » va disparaître de la fenêtre affichée par les applications tierces, dont l'apparence sera alignée sur celle d'Apple. La marque étend volontairement ces changements à toute l'Union européenne dans l'espoir d'apaiser les autres régulateurs.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-08-17T11:31:00+00:00",
+      "source": "Numerama",
+      "category": "International",
+      "id": "696c45220c82"
+    },
+    {
+      "title": "Un avion de l'armée de l'air tombe sur une route à Salon-de-Provence, deux militaires légèrement blessés",
       "url": "https://www.franceinfo.fr/faits-divers/deux-militaires-ont-ete-legerement-blesses-dans-l-accident-de-leur-avion-a-salon-de-provence_8150936.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le monomoteur a fini sa course sur une route, selon le ministère des Armées, et aucun dommage à un tiers n'est à déplorer.",
+      "summary": "Le monomoteur a fini sa course sur la chaussée, évitant les commerces alentour, et aucun dommage à un tiers n'est à déplorer, selon le ministère des Armées.",
       "image": "https://www.franceinfo.fr/pictures/MzVS3rlq4AcXVagroP-ozya7nmk/0x0:4500x2531/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82ed6aab4f0673170703.jpg",
       "published_at": "2026-08-17T13:16:50+02:00",
       "source": "France Info",
       "category": "Sport",
       "id": "2af66ada2e1f"
-    },
-    {
-      "title": "EN DIRECT - Incendies : «nous n’avons strictement rien à cacher», assure Sébastien Lecornu en Gironde",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-sebastien-lecornu-en-gironde-pour-lancer-la-reconstruction-apres-le-megafeu-20260817_IQPIDOC3MRHAXLPHHRRRXO3QZY/",
-      "summary": "La visite du Premier ministre ce lundi sur le territoire ravagé par les flammes en juillet cristallise beaucoup d’espoirs et de colère. Il s’est déjà rendu au Porge dimanche soir, sans l’avoir mentionné dans son programme officiel.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-17T11:12:18+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "c107307a8511"
     },
     {
       "title": "\"On va perdre sept degrés en 24 heures\" : après des semaines de canicule, que prévoit la météo des prochains jours dans la région Paca ?",
@@ -103,7 +183,7 @@
       "id": "e1f9a2664405"
     },
     {
-      "title": "Loyers, transports, courses... Le coût de la vie étudiante augmente encore, alerte l'Unef",
+      "title": "Loyers, transports, courses... Le coût de la vie étudiante augmente encore pour cette rentrée, alerte l'Unef",
       "url": "https://www.franceinfo.fr/societe/education/loyers-transports-courses-le-cout-de-la-vie-etudiante-augmente-encore-alerte-l-unef_8150909.html#xtor=RSS-3-[lestitres]",
       "summary": "Selon l'étude annuelle de ce syndicat étudiant, la hausse est de +1,66% sur an, et plus de 35% depuis l'élection d'Emmanuel Macron en 2017.",
       "image": "https://www.franceinfo.fr/pictures/y20b0q3_f2G-c07XhnzM0pcmNZI/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82e0001364b245645055.jpg",
@@ -141,16 +221,6 @@
       "source": "Numerama",
       "category": "Économie",
       "id": "483c98bbe60d"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : le groupe énergétique Naftogaz a recensé 13 attaques contre ses installations en une semaine",
-      "url": "https://www.lemonde.fr/international/live/2026/08/17/en-direct-guerre-en-ukraine-le-groupe-energetique-naftogaz-a-recense-13-attaques-contre-ses-installations-en-une-semaine_6746952_3210.html",
-      "summary": "Une partie des installations a dû interrompre son activité, entraînant une baisse des volumes extraits. Depuis le début de l’année, le groupe a recensé 293 attaques russes contre ses installations.",
-      "image": "https://img.lemde.fr/2026/08/17/598/0/8640/4320/644/322/60/0/b3d8e75_ftp-1-5ocvphllr3ws-f661e8196c414f38a7e042ab1169636c-2-dd7f753f7f9b41bfb9436a2875b968cc.jpg",
-      "published_at": "2026-08-17T12:01:48+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "ccf9fcb360c9"
     },
     {
       "title": "Ebola en RDC : l’épidémie devient la plus meurtrière de l’histoire du pays en seulement trois mois",
@@ -218,89 +288,19 @@
       "summary": "Depuis son retour à la Maison Blanche, le président américain accumule les échecs dans la région, que ce soit pour la guerre qu’il a déclenchée avec Israël contre l’Iran ou pour sa gestion du dossier palestinien, faisant ainsi la démonstration de son incompétence.",
       "image": "https://img.lemde.fr/2026/07/31/122/0/2139/1069/644/322/60/0/f7f0e73_ftp-1-rzcxiawud27y-5750014-01-06.jpg",
       "published_at": "2026-08-17T11:30:06+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "International",
       "id": "88b03c85fb9b"
     },
     {
-      "title": "EN DIRECT, incendies et canicule : « Nous n’avons strictement rien à cacher », affirme Sébastien Lecornu en Gironde",
+      "title": "EN DIRECT, incendies et canicule : le gouvernement promet une aide de 12 millions d’euros et un fonds de garantie pour les sinistrés en Gironde et dans les Landes",
       "url": "https://www.lemonde.fr/climat/live/2026/08/17/en-direct-incendies-et-canicule-nous-n-avons-strictement-rien-a-cacher-affirme-sebastien-lecornu-en-gironde_6744636_1652612.html",
-      "summary": "Le chef du gouvernement a fustigé les « dérives complotistes » au sujet des incendies dans les Landes et en Gironde. Une conférence de presse est prévue à 13 heures.",
+      "summary": "« On assume de sortir l’artillerie lourde », a déclaré Sébastien Lecornu, en déplacement à Mérignac, où il a également annoncé des permis de construire « délivrés dans un délai d’un mois » et des aménagements fiscaux pour les entreprises.",
       "image": "https://img.lemde.fr/2026/08/17/1387/0/3644/1822/644/322/60/0/9a9b7e9_upload-1-vmw313thql11-mfache-17082026-le-monde-deplacement-lecornu-en-gironde-france-004.jpg",
       "published_at": "2026-08-17T11:20:18+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "f0fb624d897f"
-    },
-    {
-      "title": "Incendie en Gironde : \"Nous n'avons strictement rien à cacher\" sur le déroulement des opérations des pompiers, assure Sébastien Lecornu",
-      "url": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-le-premier-ministre-sebastien-lecornu-et-plusieurs-ministres-attendus-en-gironde-le-feu-contenu-mais-pas-fixe-dans-les-landes_8150471.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le chef du gouvernement et plusieurs ministres sont en déplacement en Gironde, lundi, afin d'y rencontrer des élus et représentants du département, et faire des annonces.",
-      "image": "https://www.franceinfo.fr/pictures/uj7vE-60j6UPxLkFKz5F074lTZs/0x0:6605x3715/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82de31e8c80380113235.jpg",
-      "published_at": "2026-08-17T11:06:55+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "5c8cb738edf0"
-    },
-    {
-      "title": "On reparle encore et encore d’un retour de Jack Sparrow dans Pirates des Caraïbes",
-      "url": "https://www.numerama.com/pop-culture/2312353-on-reparle-encore-et-encore-dun-retour-de-jack-sparrow-dans-pirates-des-caraibes.html",
-      "summary": "Grand producteur d'Hollywood, Jerry Bruckheimer s'est exprimé sur le sixième film Pirates des Caraïbes à l'occasion de la D23 de Disney. Le grand retour de Jack Sparrow se précise.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-17T09:00:00+00:00",
-      "source": "Numerama",
-      "category": "Culture",
-      "id": "a809ec598ea2"
-    },
-    {
-      "title": "L'épidémie d'Ebola a fait plus de 2 300 morts en République démocratique du Congo, et est désormais la plus meurtrière de l'histoire du pays",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-devient-la-plus-meurtriere-de-l-histoire-de-la-republique-democratique-du-congo-avec-plus-de-2-300-morts_8150732.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'épidémie \"est la plus rapide jamais enregistrée\" et \"tue une personne toutes les 30 minutes\", selon le chef des affaires humanitaires de l'ONU.",
-      "image": "https://www.franceinfo.fr/pictures/ykkwFF2hwyUvB-xyI-7Czysbn9g/0x73:1024x649/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82cb8ec51a1669796035.jpg",
-      "published_at": "2026-08-17T10:54:22+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "cc3e452fc8c8"
-    },
-    {
-      "title": "Xiaomi franchit déjà les 500 000 ventes de SU7, un record pour une jeune marque",
-      "url": "https://www.numerama.com/vroom/2312453-xiaomi-franchit-deja-les-500-000-ventes-de-su7-un-record-pour-une-jeune-marque.html",
-      "summary": "Xiaomi confirme son succès en atteignant déjà les 500 000 exemplaires livrés de sa berline SU7.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-17T08:44:32+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "0c908dd0a188"
-    },
-    {
-      "title": "\"Ce n'est qu'une partie du chemin\" : vainqueur du Grand Smash, le Français Félix Lebrun a encore des ambitions",
-      "url": "https://www.franceinfo.fr/sports/tennis-de-table/felix-lebrun/ce-n-est-qu-une-partie-du-chemin-vainqueur-du-grand-smash-le-francais-felix-lebrun-a-encore-des-ambitions_8150735.html#xtor=RSS-3-[lestitres]",
-      "summary": "Félix Lebrun a remporté en simple le tournoi de tennis de table Europe Smash de Malmö, devenant le premier Français à inscrire son nom au palmarès d'un Grand Smash au lendemain de sa victoire en double. Cette victoire lui permet même d'atteindre la deuxième place mondiale.",
-      "image": "https://www.franceinfo.fr/pictures/lak1_HcYIBgyyyHHYrykS2FYMWU/0x403:6000x3778/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82c95548b36206462830.jpg",
-      "published_at": "2026-08-17T10:44:08+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "beff36dbb8ad"
-    },
-    {
-      "title": "Jonas Vingegaard met un terme à sa saison, après sa fracture de la clavicule sur le Tour de France 2026",
-      "url": "https://www.franceinfo.fr/sports/cyclisme/jonas-vingegaard/jonas-vingegaard-met-un-terme-a-sa-saison-apres-sa-fracture-de-la-clavicule-sur-le-tour-de-france-2026_8150738.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le coureur de la Visma-Lease a bike doit observer une période de convalescence et a annoncé, via un communiqué de son équipe lundi, qu'il ne courrait plus cette saison.",
-      "image": "https://www.franceinfo.fr/pictures/j-CuoKyJIjEiu8NMoqcaLj_Jzek/0x0:4073x2291/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82c83eb505d197959290.jpg",
-      "published_at": "2026-08-17T10:39:34+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "fb69a11c0a9f"
-    },
-    {
-      "title": "Après son limogeage par Grasset, Olivier Nora lance sa maison d’édition qui publiera ses premiers livres en octobre",
-      "url": "https://www.liberation.fr/culture/livres/apres-son-limogeage-par-grasset-olivier-nora-lance-sa-maison-dedition-qui-publiera-ses-premiers-livres-en-octobre-20260817_3TAUW75LFVHZ7JATHZDFHWOZDM/",
-      "summary": "«Olivier Nora Editions a vocation à publier, en vitesse de croisière, entre trente et cinquante titres par an» annonce dans un communiqué publié ce lundi 17 août l’éditeur, renvoyé en juin de la maison d’édition du groupe Hachette, dans l’orbite du milliardaire Vincent Bolloré.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-17T08:33:47+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "696038b05569"
     }
   ]
 }
