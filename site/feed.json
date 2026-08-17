@@ -1,7 +1,157 @@
 {
-  "generated_at": "2026-08-17T13:45:37.819338+00:00",
+  "generated_at": "2026-08-17T14:36:37.597468+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Sur Pinterest, le bloqueur de pubs le plus simple serait… un gros mot",
+      "url": "https://www.numerama.com/tech/2312681-sur-pinterest-le-bloqueur-de-pubs-le-plus-simple-serait-un-gros-mot.html",
+      "summary": "Une astuce insolite permet de faire disparaître les publications sponsorisées des résultats de Pinterest : ajouter un gros mot à sa recherche. Nous avons testé cette méthode, qui semble exploiter les mécanismes chargés de protéger l’image des annonceurs.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-17T14:31:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "1c2d98213482"
+    },
+    {
+      "title": "Pour lutter contre les incendies, le projet d'une base aérienne à Mont-de-Marsan est de nouveau à l'étude, annonce Laurent Nuñez",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/pour-lutter-contre-les-incendies-le-projet-d-une-base-aerienne-a-mont-de-marsan-est-de-nouveau-a-l-etude-annonce-laurent-nunez_8151098.html#xtor=RSS-3-[lestitres]",
+      "summary": "Lors d'une conférence de presse aux côtés de Sébastien Lecornu, le ministre de l'Intérieur a défendu lundi le choix du gouvernement, au printemps 2025, de renoncer à ce projet dans les Landes.",
+      "image": "https://www.franceinfo.fr/pictures/iP1rSFaolByeMNChsYU9sWCEX7Q/0x32:1024x608/432x243/filters:format(jpg):quality(50)/2026/08/17/6a8318b537127399575132.jpg",
+      "published_at": "2026-08-17T16:24:37+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "5cb253ba7dbe"
+    },
+    {
+      "title": "Présidentielle 2027: pour Monique Barbut, ministre de l’écologie, Jean-Luc Mélenchon est le candidat « qui intègre le plus la question du climat dans ses propositions »",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/17/presidentielle-pour-monique-barbut-ministre-de-l-ecologie-jean-luc-melenchon-est-le-candidat-qui-integre-le-plus-la-question-du-climat-dans-ses-propositions_6748291_823448.html",
+      "summary": "Après avoir annoncé sa démission en juillet pour protester contre l’adoption de la loi d’urgence agricole, Monique Barbut était finalement restée au gouvernement. Dans un entretien à « Libération », elle prend un peu plus ses distances par rapport au macronisme.",
+      "image": "https://img.lemde.fr/2026/07/22/365/0/2044/1022/644/322/60/0/a8686cd_ftp-1-tgwqq4jmpxl9-2026-07-22t100111z-2011837528-rc2yimakzjbl-rtrmadp-3-france-politics.JPG",
+      "published_at": "2026-08-17T16:17:30+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "ffc20d949e67"
+    },
+    {
+      "title": "«On va leur bombarder la gueule» : Donald Trump menace Oman, son allié, en cas d’opposition sur le détroit Ormuz",
+      "url": "https://www.liberation.fr/international/moyen-orient/on-va-leur-bombarder-la-gueule-donald-trump-menace-oman-son-allie-en-cas-dopposition-sur-le-detroit-ormuz-20260817_DFORGTJ4V5DMFGWECBAC6KQRPU/",
+      "summary": "Selon des propos rapportés ce lundi 17 août par la chaîne Fox News, le président des Etats-Unis met en garde le sultanat du Moyen-Orient, qui mène des négociations bilatérales avec Téhéran sur le passage des navires dans le détroit stratégique.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-17T14:06:16+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "3a26ff5d6ea1"
+    },
+    {
+      "title": "EN DIRECT - Incendies : Sébastien Lecornu annonce le déblocage de 12 millions d’euros pour les Landes et la Gironde",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-sebastien-lecornu-en-gironde-pour-lancer-la-reconstruction-apres-le-megafeu-20260817_IQPIDOC3MRHAXLPHHRRRXO3QZY/",
+      "summary": "Lors de sa visite sur le territoire ravagé par les flammes en juillet, le Premier ministre a dit vouloir «sortir l’artillerie lourde». Il a notamment fait des annonces sur la question des permis de construire ou des aménagements fiscaux pour les entreprises.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-17T14:05:35+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "c107307a8511"
+    },
+    {
+      "title": "Donald Trump menace de bombarder Oman si le sultanat entrave un accord sur le détroit d'Ormuz",
+      "url": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/donald-trump-menace-de-bombarder-oman-s-il-entrave-un-accord-sur-le-detroit-d-ormuz_8151035.html#xtor=RSS-3-[lestitres]",
+      "summary": "Auprès d'un journaliste de Fox News, le président américain a aussi appelé lundi l'Iran à \"hisser le drapeau blanc de la capitulation\".",
+      "image": "https://www.franceinfo.fr/pictures/Zl1Ob79XlyUbpVKy0jdUnAUApBo/0x87:1024x663/432x243/filters:format(jpg):quality(50)/2026/08/17/6a8313108e279775983731.jpg",
+      "published_at": "2026-08-17T16:02:15+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "9318e437b127"
+    },
+    {
+      "title": "Collision de bateaux dans la baie de Cannes : fin des recherches pour l'homme de 22 ans disparu en mer",
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/collision-de-bateaux-dans-la-baie-de-cannes-fin-des-recherches-pour-l-homme-de-22-ans-disparu-en-mer-3402601.html#xtor=RSS-3-[lestitres]",
+      "summary": "Un homme de 22 ans a disparu vers 23 heures ce 17 août lors d’un accident entre deux bateaux de plaisance au large de Mandelieu-la-Napoule, dans la baie de Cannes. Malgré les recherches, il n’a pas encore été retrouvé.",
+      "image": "https://www.franceinfo.fr/pictures/onGJ56eJV5SHq3QWBCDijh6m7Os/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82f0172109b397020032.jpg",
+      "published_at": "2026-08-17T16:02:07+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "549becb0f307"
+    },
+    {
+      "title": "VIDEO Incendies : voici les annonces de Sébastien Lecornu pour la Gironde et les Landes",
+      "url": "https://www.lemonde.fr/politique/video/2026/08/17/incendies-voici-les-annonces-de-sebastien-lecornu-pour-la-gironde-et-les-landes_6748258_823448.html",
+      "summary": "Le chef du gouvernement a notamment annoncé une aide de 12 millions d’euros pour ces deux départements, durement affectés par les incendies estivaux.",
+      "image": "https://img.lemde.fr/2026/08/17/458/0/5500/2750/644/322/60/0/94f40b7_ftp-1-pwb0dy7tldlo-2026-08-17t131831z-293060556-rc2d0na1gvs8-rtrmadp-3-europe-weather-france-wildfire.JPG",
+      "published_at": "2026-08-17T16:01:57+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "88780db5ee52"
+    },
+    {
+      "title": "Atterrissage d'urgence, un instructeur et son apprenti pilote, route fermée… Ce que l'on sait du crash d'un avion de la base aérienne de Salon-de-Provence",
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/salon-de-provence/atterrissage-d-urgence-un-instructeur-et-son-apprenti-pilote-route-fermee-ce-que-l-on-sait-du-crash-d-un-avion-de-la-base-aerienne-de-salon-de-provence-3402538.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'avion piloté par deux militaires a atterri en urgence dans le sens de la circulation sur la RD 113. Victimes d'un incident lors d'un vol d'instruction, les deux pilotes ont réussi à s'extraire de l'appareil à temps. L'accident n'a fait aucun blessé grave.",
+      "image": "https://www.franceinfo.fr/pictures/5K1cohxcp7sgqSgE_fydMigiQXc/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82e65c68224695780276.jpg",
+      "published_at": "2026-08-17T16:01:30+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "2e3cf05c1a88"
+    },
+    {
+      "title": "La fronde contre le marquage des textes de Claude s’organise : ces outils traquent déjà les failles du filigrane",
+      "url": "https://www.numerama.com/tech/2312505-la-fronde-contre-le-marquage-des-textes-de-claude-sorganise-ces-outils-traquent-deja-les-failles-du-filigrane.html",
+      "summary": "Début août, Anthropic annonçait que les textes générés par Claude porteraient bientôt une marque invisible, censée permettre de repérer un contenu écrit généré par IA. Une annonce accueillie froidement et qui voit naître son lot d’outils pour contrecarrer la mesure.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-17T14:01:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "a34393d641d5"
+    },
+    {
+      "title": "Envers mon endroit (5/8) – Les Vosges, par Aurélie Filippetti : elles sont brimbelles",
+      "url": "https://www.liberation.fr/portraits/envers-mon-endroit-58-les-vosges-par-aurelie-filippetti-elles-sont-brimbelles-20260817_66GJI7F4HZAS3DZWFRCSDCFXEI/",
+      "summary": "Ode au modeste mais majestueux massif lorrain, par l’ancienne ministre de la Culture, qui y a passé de nombreuses vacances.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-17T14:00:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "cb35039a9b05"
+    },
+    {
+      "title": "Incendies : le coût des mesures d'aide pour la Gironde et les Landes pourrait dépasser 100 millions d'euros, estime Sébastien Lecornu",
+      "url": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-le-premier-ministre-sebastien-lecornu-et-plusieurs-ministres-attendus-en-gironde-le-feu-contenu-mais-pas-fixe-dans-les-landes_8150471.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le chef du gouvernement et plusieurs ministres étaient en déplacement en Gironde, lundi, afin d'y rencontrer des élus et représentants du département et présenter plusieurs mesures d'urgence.",
+      "image": "https://www.franceinfo.fr/pictures/GCeE-hAfQKaGc0St-Z0m9QqnmaQ/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/17/6a8310c68d973755353733.jpg",
+      "published_at": "2026-08-17T15:58:13+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "5c8cb738edf0"
+    },
+    {
+      "title": "GitHub subit une panne généralisée : Pull Requests, Issues, Actions et API en erreur",
+      "url": "https://www.numerama.com/tech/2312767-github-subit-une-panne-generalisee-pull-requests-issues-actions-et-api-en-erreur.html",
+      "summary": "Un incident affecte plusieurs services critiques de GitHub ce lundi 17 août. La plateforme évoque un taux d'erreur d'environ 20% sur de nombreuses fonctionnalités.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-17T13:56:17+00:00",
+      "source": "Numerama",
+      "category": "Économie",
+      "id": "c39eb7dccacc"
+    },
+    {
+      "title": "Robert Downey Jr. révèle qui il préfère jouer entre Dr Doom et Iron Man",
+      "url": "https://www.numerama.com/pop-culture/2312503-robert-downey-jr-revele-qui-il-prefere-jouer-entre-dr-doom-et-iron-man.html",
+      "summary": "Interrogé à l'occasion de l'événement D23 de Disney, Robert Downey Jr. a révélé qu'il avait préféré incarner Dr Doom plutôt que Tony Stark/Iron Man. Jouer le méchant sous un masque a ainsi les préférences de l'acteur, plutôt qu'un richissime homme d'affaires, technophile et mégalomane sur les bords.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-17T13:49:00+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "0317c87bfda6"
+    },
+    {
+      "title": "Permis de construire, assurances, aide aux entreprises... Ce qu'il faut retenir des annonces de Sébastien Lecornu pour la reconstruction après les incendies dans le Sud-Ouest",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/permis-de-construire-assurances-aide-aux-entreprises-ce-qu-il-faut-retenir-des-annonces-de-sebastien-lecornu-pour-la-reconstruction-apres-les-incendies-dans-le-sud-ouest_8150789.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Premier ministre a détaillé lundi, depuis la Gironde, plusieurs mesures pour venir en aide aux sinistrés. Il a notamment annoncé un fonds de 12 millions d'euros pour permettre de lancer les travaux d'urgence.",
+      "image": "https://www.franceinfo.fr/pictures/asaf7rzo5B1iuxDcx0b5nSFYyhA/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/17/6a830dc4d63d6193782299.jpg",
+      "published_at": "2026-08-17T15:46:35+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "5467d99db83d"
+    },
     {
       "title": "Ahsoka saison 2 : ce Jedi à l’étrange sabre laser agite les théories des fans de Star Wars",
       "url": "https://www.numerama.com/pop-culture/2312469-ahsoka-saison-2-ce-jedi-a-letrange-sabre-laser-agite-les-theories-des-fans-de-star-wars.html",
@@ -11,26 +161,6 @@
       "source": "Numerama",
       "category": "Culture",
       "id": "974e994f7f80"
-    },
-    {
-      "title": "EN DIRECT - Incendies : Sébastien Lecornu annonce le déblocage de 12 millions d’euros pour les Landes et la Gironde",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-sebastien-lecornu-en-gironde-pour-lancer-la-reconstruction-apres-le-megafeu-20260817_IQPIDOC3MRHAXLPHHRRRXO3QZY/",
-      "summary": "La visite du Premier ministre ce lundi sur le territoire ravagé par les flammes en juillet a cristallisé beaucoup d’espoirs et de colère. Il s’est déjà rendu au Porge dimanche soir, sans l’avoir mentionné dans son programme officiel.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-17T13:36:46+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "c107307a8511"
-    },
-    {
-      "title": "Permis de construire, assurances, aide aux entreprises... Ce qu'il faut retenir des annonces de Sébastien Lecornu pour la reconstruction après les incendies dans le Sud-Ouest",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/permis-de-construire-assurances-aide-aux-entreprises-ce-qu-il-faut-retenir-des-annonces-de-sebastien-lecornu-pour-la-reconstruction-apres-les-incendies-dans-le-sud-ouest_8150789.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Premier ministre a détaillé lundi plusieurs mesures pour venir en aide aux sinistrés, lors d'un point-presse en Gironde. Il a notamment annoncé un fonds de 12 millions d'euros pour permettre aux collectivités concernées de lancer les travaux d'urgence.",
-      "image": "https://www.franceinfo.fr/pictures/asaf7rzo5B1iuxDcx0b5nSFYyhA/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/17/6a830dc4d63d6193782299.jpg",
-      "published_at": "2026-08-17T15:34:51+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "5467d99db83d"
     },
     {
       "title": "Aide à mourir : « La liberté de refus d’un établissement privé pourrait rendre illusoire l’exercice d’un droit de la personne en fin de vie »",
@@ -43,17 +173,7 @@
       "id": "d1cafc3d2e65"
     },
     {
-      "title": "Collision de bateaux dans la baie de Cannes : fin des recherches pour l'homme de 22 ans disparu en mer",
-      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/collision-de-bateaux-dans-la-baie-de-cannes-fin-des-recherches-pour-l-homme-de-22-ans-disparu-en-mer-3402601.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un homme de 22 ans a disparu vers 23 heures ce 17 août lors d’un accident entre deux bateaux de plaisance au large de Mandelieu-la-Napoule, dans la baie de Cannes. Malgré les recherches, son corps n’a pas été retrouvé.",
-      "image": "https://www.franceinfo.fr/pictures/onGJ56eJV5SHq3QWBCDijh6m7Os/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82f0172109b397020032.jpg",
-      "published_at": "2026-08-17T15:26:41+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "549becb0f307"
-    },
-    {
-      "title": "Le maire de Saint-Médard-en-Jalles dénonce \"des rustines\" après les mesures annoncées par Sébastien Lecornu concernant l'incendie en Gironde",
+      "title": "Le maire de Saint-Médard-en-Jalles dénonce \"des rustines\" après les mesures annoncées par Sébastien Lecornu pour la reconstruction en Gironde",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/le-maire-de-saint-medard-en-jalles-denonce-des-rustines-apres-les-mesures-annoncees-par-sebastien-lecornu-concernant-l-incendie-en-gironde_8151050.html#xtor=RSS-3-[lestitres]",
       "summary": "L'édile de cette commune près de Bordeaux espère \"entendre le mot \"climat\" prononcé par le président de la République et par le Premier ministre\" afin que \"notre pays continue d'être un pays vivable\".",
       "image": "https://www.franceinfo.fr/pictures/E5I7EEmsjCmlKicQBqh0BReROic/0x570:5472x3648/432x243/filters:format(jpg):quality(50)/2026/08/13/6a7dbbcde08f7416808132.jpg",
@@ -73,16 +193,6 @@
       "id": "3fcfa94a39a8"
     },
     {
-      "title": "Incendies : le coût des mesures d'aide pourrait dépasser 100 millions d'euros, estime Sébastien Lecornu",
-      "url": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-le-premier-ministre-sebastien-lecornu-et-plusieurs-ministres-attendus-en-gironde-le-feu-contenu-mais-pas-fixe-dans-les-landes_8150471.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le chef du gouvernement et plusieurs ministres étaient en déplacement en Gironde, lundi, afin d'y rencontrer des élus et représentants du département, et faire des annonces.",
-      "image": "https://www.franceinfo.fr/pictures/l1DamU4zVh8zmM2Q9IxDdS37nws/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/17/6a830154e1593295697994.jpg",
-      "published_at": "2026-08-17T15:23:34+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "5c8cb738edf0"
-    },
-    {
       "title": "En 38 minutes, SpaceX vient de pulvériser son record de lancements consécutifs",
       "url": "https://www.numerama.com/sciences/2312659-en-38-minutes-spacex-vient-de-pulveriser-son-record-de-lancements-consecutifs.html",
       "summary": "Le 16 août 2026, SpaceX a fait décoller deux fusées Falcon 9 à seulement 38 minutes d’intervalle, depuis les deux côtes des États-Unis. Une cadence inédite.",
@@ -93,11 +203,11 @@
       "id": "1460f65fc9cc"
     },
     {
-      "title": "Au Mali, la condamnation des activistes « Ras Bath » et « Rose la vie chère », symbole de la répression croissante des critiques contre la junte du général Assimi Goïta",
+      "title": "Au Mali, la condamnation des activistes « Ras Bath » et « Rose Vie chère », symbole de la répression croissante des voix critiques à l’égard de la junte du général Assimi Goïta",
       "url": "https://www.lemonde.fr/afrique/article/2026/08/17/au-mali-la-condamnation-des-activistes-ras-bath-et-rose-la-vie-chere-symbole-de-la-repression-croissante-des-critiques-contre-la-junte-du-general-assimi-goita_6748222_3212.html",
       "summary": "La cour d’appel de Bamako a condamné, lundi, les deux militants à dix ans de prison. Cette décision, dénoncée par leur défense comme politiquement motivée, illustre le durcissement de la répression contre les voix dissidentes.",
       "image": "https://img.lemde.fr/2026/08/16/873/0/7521/3760/644/322/60/0/b9e785a_upload-1-voqg8deh5uoe-000-19473g.jpg",
-      "published_at": "2026-08-17T15:17:45+02:00",
+      "published_at": "2026-08-17T15:17:43+02:00",
       "source": "Le Monde Inter",
       "category": "Sport",
       "id": "cb20acc74828"
@@ -117,7 +227,7 @@
       "url": "https://www.lemonde.fr/climat/live/2026/08/17/en-direct-incendies-et-canicule-le-gouvernement-promet-une-aide-de-12-millions-d-euros-et-un-fonds-de-garantie-pour-les-sinistres-en-gironde-et-dans-les-landes_6744636_1652612.html",
       "summary": "« On assume de sortir l’artillerie lourde », a déclaré Sébastien Lecornu, en déplacement à Mérignac, où il a également annoncé des permis de construire « délivrés dans un délai d’un mois » et des aménagements fiscaux pour les entreprises.",
       "image": "https://img.lemde.fr/2026/08/17/1387/0/3644/1822/644/322/60/0/9a9b7e9_upload-1-vmw313thql11-mfache-17082026-le-monde-deplacement-lecornu-en-gironde-france-004.jpg",
-      "published_at": "2026-08-17T15:12:14+02:00",
+      "published_at": "2026-08-17T15:12:11+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "15e3ec1e7a0c"
@@ -153,9 +263,9 @@
       "id": "9313ace67411"
     },
     {
-      "title": "Éco-pâturage, drone thermique, minisatellite… Quels sont les pares-feux utilisés pour lutter contre les incendies chez nos voisins européens ?",
+      "title": "Éco-pâturage, drone thermique, minisatellite… Quels sont les pare-feux utilisés pour lutter contre les incendies chez nos voisins européens ?",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/eco-paturage-drone-thermique-minisatellite-quels-sont-les-pares-feux-utilises-pour-lutter-contre-les-incendies-chez-nos-voisins-europeens_8150951.html#xtor=RSS-3-[lestitres]",
-      "summary": "Alors que Sébastien Lecornu rencontre lundi les sapeurs-pompiers du Porge, l'une des communes les plus touchées par les incendies en Gironde, la question de la prévention est à nouveau mise en avant. Ailleurs en Europe, des pares-feux alternatifs et innovants sont utilisés.",
+      "summary": "Alors que Sébastien Lecornu rencontre lundi les sapeurs-pompiers du Porge, l'une des communes les plus touchées par les incendies en Gironde, la question de la prévention est à nouveau mise en avant. Ailleurs en Europe, des pare-feux alternatifs et innovants sont utilisés.",
       "image": "https://www.franceinfo.fr/pictures/TNW5W7WjMBdMogLvtrp1DgOdCjw/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82f4430874d762618591.jpg",
       "published_at": "2026-08-17T14:55:45+02:00",
       "source": "France Info",
@@ -191,116 +301,6 @@
       "source": "Libération",
       "category": "Culture",
       "id": "e4636c134e0d"
-    },
-    {
-      "title": "Guerre en Ukraine : la cheffe de la diplomatie européenne veut augmenter d'un tiers le nombre d'entités russes sanctionnées",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-la-cheffe-de-la-diplomatie-europeenne-veut-augmenter-d-un-tiers-les-entitees-russes-sanctionnees_8150972.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Pour cet automne, je propose la liste de sanctions la plus ambitieuse depuis le début de la guerre\", a annoncé lundi Kaja Kallas au quotidien allemand \"Die Welt\".",
-      "image": "https://www.franceinfo.fr/pictures/2W6Cm2TmaapjJqWUsFptPlKwhBU/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82f160cdef5255410255.jpg",
-      "published_at": "2026-08-17T14:42:10+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "7be140f0edd5"
-    },
-    {
-      "title": "Zootopie 3 confirmé, Disney continue d’essorer ses bonnes licences",
-      "url": "https://www.numerama.com/pop-culture/2312599-zootopie-3-confirme-disney-continue-dessorer-ses-bonnes-licences.html",
-      "summary": "Assommé par des choix créatifs douteux et une panne d'idées neuves, le géant américain Disney se raccroche désespérément à ses vieilles recettes. L'annonce de Zootopie 3 et La Reine des Neiges 3 lors du D23, couplée au retour négocié de Johnny Depp en Jack Sparrow, confirme une stratégie cynique : recycler le passé plutôt que prendre le moindre risque.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-17T12:36:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "e030a06b9f11"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : la pénurie de carburant s’étend à toute la Russie après de nouvelles frappes de drones ukrainiens sur des raffineries",
-      "url": "https://www.lemonde.fr/international/live/2026/08/17/en-direct-guerre-en-ukraine-les-dernieres-informations-au-17-aout-2026_6746952_3210.html",
-      "summary": "Cette nouvelle vague de pénuries de carburant a démarré début août, selon l’agence Reuters, qui a compilé des données auprès de médias et d’autorités locales. Lundi matin, par exemple, l’essence était à nouveau indisponible dans plusieurs stations-service de la région de Moscou, contrairement au gazole.",
-      "image": "https://img.lemde.fr/2026/08/14/166/0/8135/4067/644/322/60/0/103f476_ftp-1-hu5aniadrxox-2026-08-14t115949z-1155178306-rc29ymauch1y-rtrmadp-3-ukraine-crisis-russia-fuel-moscow.JPG",
-      "published_at": "2026-08-17T14:17:30+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "266aa5faff2b"
-    },
-    {
-      "title": "Ferrari Luce à 40 millions de dollars : pourquoi cette enchère record ne dit rien du succès du modèle",
-      "url": "https://www.numerama.com/vroom/2312625-ferrari-luce-a-40-millions-de-dollars-pourquoi-cette-enchere-record-ne-dit-rien-du-succes-du-modele.html",
-      "summary": "Le « châssis 0 » de la Ferrari Luce a été adjugé à 40 millions de dollars lors des enchères de Pebble Beach. Un montant qui pourrait faire taire ses détracteurs, mais qui ne dit finalement pas grand-chose de la désirabilité réelle du modèle.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-17T12:05:33+00:00",
-      "source": "Numerama",
-      "category": "Économie",
-      "id": "635a04657444"
-    },
-    {
-      "title": "Quel iPad choisir en 2026 ? Le comparatif entre iPad Air, Pro, 11 et Mini",
-      "url": "https://www.numerama.com/tech/723969-ipad-ipad-air-ipad-pro-quelle-tablette-apple-choisir-en-2021.html",
-      "summary": "Quel iPad choisir en 2026 ? Les récentes hausses de prix d’Apple ont rebattu les cartes. Numerama a comparé l’iPad A16, les iPad Air M3 et M4, l’iPad Pro M5 et l’iPad mini 7 pour identifier les modèles qui valent réellement leur prix aujourd'hui.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-17T12:00:00+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "91008acaddb7"
-    },
-    {
-      "title": "Que Ibtissame Lachgar puisse enfin quitter sa cellule et recevoir des soins, par Leïla Slimani",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/que-ibtissame-lachgar-puisse-enfin-quitter-sa-cellule-et-recevoir-des-soins-par-leila-slimani-20260817_3Q37JULR5RHLPLEQ6BM3F3BOLI/",
-      "summary": "La romancière franco-marocaine relaie l’appel au secours de la sœur de la militante féministe emprisonnée depuis un an pour avoir posté un selfie où elle arborait un tee-shirt dont l’inscription porterait «atteinte à l’Islam». Sans soins immédiats et appropriés, elle risque l’amputation et la mort.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-17T11:42:20+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "7f3c6b8220a7"
-    },
-    {
-      "title": "En Europe, le bouton « Demander à l’app de ne pas me suivre » va disparaître sur iPhone",
-      "url": "https://www.numerama.com/tech/2312487-en-europe-le-bouton-demander-a-lapp-de-ne-pas-me-suivre-va-disparaitre-sur-iphone.html",
-      "summary": "L'autorité de la concurrence allemande contraint Apple à faire évoluer sa technologie App Tracking Transparency (ATT). Le mot « suivi » va disparaître de la fenêtre affichée par les applications tierces, dont l'apparence sera alignée sur celle d'Apple. La marque étend volontairement ces changements à toute l'Union européenne dans l'espoir d'apaiser les autres régulateurs.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-17T11:31:00+00:00",
-      "source": "Numerama",
-      "category": "International",
-      "id": "696c45220c82"
-    },
-    {
-      "title": "Un avion de l'armée de l'air tombe sur une route à Salon-de-Provence, deux militaires légèrement blessés",
-      "url": "https://www.franceinfo.fr/faits-divers/deux-militaires-ont-ete-legerement-blesses-dans-l-accident-de-leur-avion-a-salon-de-provence_8150936.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le monomoteur a fini sa course sur la chaussée, évitant les commerces alentour, et aucun dommage à un tiers n'est à déplorer, selon le ministère des Armées.",
-      "image": "https://www.franceinfo.fr/pictures/MzVS3rlq4AcXVagroP-ozya7nmk/0x0:4500x2531/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82ed6aab4f0673170703.jpg",
-      "published_at": "2026-08-17T13:16:50+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "2af66ada2e1f"
-    },
-    {
-      "title": "\"On va perdre sept degrés en 24 heures\" : après des semaines de canicule, que prévoit la météo des prochains jours dans la région Paca ?",
-      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/on-va-perdre-sept-degres-en-24h-fin-de-la-vigilance-orange-canicule-orages-que-prevoit-la-meteo-des-prochains-jours-en-paca-3402391.html#xtor=RSS-3-[lestitres]",
-      "summary": "Après plus de deux semaines de canicule, la vague de chaleur devrait prendre fin à partir de ce jeudi dans l'ensemble de la région PACA. En attendant, les Bouches-du-Rhône, le Var et le Vaucluse restent en vigilance orange \"canicule\" ce lundi.",
-      "image": "https://www.franceinfo.fr/pictures/1m2C62C8ga9xBZZCtGc7ODpgG_E/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82cb47dd8e6439876561.jpg",
-      "published_at": "2026-08-17T13:07:37+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "122b67ebc533"
-    },
-    {
-      "title": "Pluies torrentielles à Chiba : un lourd bilan humain et la préfiguration des risques à venir pour le Japon",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/17/pluies-torrentielles-a-chiba-un-lourd-bilan-humain-et-la-prefiguration-des-risques-a-venir-pour-le-japon_6748181_3244.html",
-      "summary": "Le cumul des pluies sur la ville de Chiba, qui a atteint trois fois la moyenne mensuelle pour un mois d’août, a fait une dixième victime. La catastrophe s’inscrit dans un été particulièrement chaud, exacerbé par le phénomène El Niño.",
-      "image": "https://img.lemde.fr/2026/08/14/458/0/5500/2750/644/322/60/0/c873bd9_ftp-1-w1cmyk8vncl3-2026-08-14t055038z-1919546406-rc25ymaz2a7v-rtrmadp-3-asia-weather-japan.JPG",
-      "published_at": "2026-08-17T13:00:09+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "7d22f4484933"
-    },
-    {
-      "title": "En Belgique, avec la pluie et la baisse des températures, la progression de l'incendie est \"limitée\"",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-belgique-malgre-la-pluie-et-la-baisse-des-temperatures-l-incendie-continue-de-progresser-et-la-polemique-enfle_8150663.html#xtor=RSS-3-[lestitres]",
-      "summary": "Lundi, la pluie a commencé à s'abattre sur le pays, mobilisé face à l'un des pires incendies de son histoire, qui a déjà ravagé 3 000 hectares dans la réserve naturelle des Hautes Fagnes.",
-      "image": "https://www.franceinfo.fr/pictures/aXnEZetRhFoi0Eo_6I0pePgsIuQ/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82c0b103ec7294842241.jpg",
-      "published_at": "2026-08-17T12:57:38+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "bcc79b2b09ef"
     }
   ]
 }
