@@ -1,14 +1,174 @@
 {
-  "generated_at": "2026-08-18T08:47:12.141807+00:00",
+  "generated_at": "2026-08-18T09:40:45.593500+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Que faire si, comme Manon Aubry, vous êtes mordu par une vipère ?",
+      "url": "https://www.liberation.fr/societe/sante/que-faire-si-comme-manon-aubry-vous-etes-mordu-par-une-vipere-20260818_PFURGTH4UJADJFD37ILLP6TOYQ/",
+      "summary": "L’eurodéputée LFI de 36 ans fait partie des quelque 300 personnes mordues chaque année en France par des serpents, dont une petite partie seulement s’accompagne de venin.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-18T09:34:08+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "c1fb5f4e39d3"
+    },
+    {
+      "title": "Piratage du fisc : protéger le pacte républicain et le consentement à l’impôt",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/18/piratage-du-fisc-proteger-le-pacte-republicain-et-le-consentement-a-l-impot_6748938_3232.html",
+      "summary": "Si une large majorité des Français considèrent encore que s’acquitter de ses impôts est un acte citoyen, le vaste piratage de la direction générale des finances publiques, qui touche plusieurs centaines de milliers de contribuables, alimente dangereusement la défiance face aux gouvernants.",
+      "image": "https://img.lemde.fr/2026/08/18/516/0/4500/2250/644/322/60/0/ad0882c_upload-1-fn0cbamlqrp9-mfache-17082026-le-monde-deplacement-lecornu-en-gironde-france-ii-001.jpg",
+      "published_at": "2026-08-18T11:30:04+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "28f4dd581910"
+    },
+    {
+      "title": "Trump bouscule la Corée du Sud et fait du pied à Kim Jong-un",
+      "url": "https://www.liberation.fr/international/amerique/trump-annonce-reduire-considerablement-ses-exercices-militaires-avec-la-coree-du-sud-sur-fond-de-rapprochement-avec-pyongyang-20260817_MTUMCZAY2BBH7LBRY4NSZPY33Y/",
+      "summary": "Le président américain a annoncé la «réduction considérable» des exercices militaires conjoints avec Séoul, pourtant essentiels à la défense de la Corée du Sud. Il pourrait chercher à organiser une nouvelle rencontre avec le dictateur nord-coréen.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-18T09:27:47+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "76ddc21c0299"
+    },
+    {
+      "title": "Le parquet de Paris enquête sur des soupçons d'ingérence russe ciblant Edouard Philippe et Gabriel Attal",
+      "url": "https://www.franceinfo.fr/politique/ingerence/le-parquet-de-paris-enquete-sur-des-soupcons-d-ingerence-russe-ciblant-edouard-philippe-et-gabriel-attal_8151992.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le ministère public avait déjà fait savoir début août qu'il s'était saisi pour des faits similaires concernant Raphaël Glucksmann.",
+      "image": "https://www.franceinfo.fr/pictures/ekLIcywNS39Fgh91rGTp4kzu0qc/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/18/6a8421eb57456642507279.jpg",
+      "published_at": "2026-08-18T11:27:46+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "abfbf844ce0f"
+    },
+    {
+      "title": "Denis Villeneuve à un message important pour les fans de Dune 3 sur les séances d’IMAX",
+      "url": "https://www.numerama.com/pop-culture/2312973-denis-villeneuve-a-un-message-important-pour-les-fans-de-dune-3-sur-les-seances-dimax.html",
+      "summary": "Alors que la billetterie pour les séances d'avant-première de Dune: Part Three frôle l'hystérie collective et le sold-out systématique, Denis Villeneuve a pris la parole dans une vidéo adressée aux fans. Face à la saturation des salles IMAX 70mm et à la pression de la concurrence, le cinéaste canadien confirme l'ouverture en urgence de nouvelles vagues de billets.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-18T09:27:21+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "e8d6c3bd41c4"
+    },
+    {
+      "title": "Piratage de l’Éducation nationale : ce que le pirate revendique, ce que le ministère a confirmé",
+      "url": "https://www.numerama.com/cyberguerre/2313135-piratage-de-leducation-nationale-ce-que-le-pirate-revendique-ce-que-le-ministere-a-confirme.html",
+      "summary": "Le cybercriminel ZeroBytes affirme avoir récupéré 43 Go de données et 346 millions de lignes issues de plusieurs systèmes de l'Éducation nationale. Un périmètre bien plus large que celui décrit par le ministère fin juillet.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-18T09:24:05+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "c931ae40e191"
+    },
+    {
+      "title": "\"Un lent déclin\" : à cause de la sécheresse, les porte-conteneurs ont disparu du port fluvial de Strasbourg",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/reportage-un-lent-declin-a-cause-de-la-secheresse-les-porte-conteneurs-ont-disparu-du-port-fluvial-de-strasbourg_8151731.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Rhin est à un niveau historiquement bas. Dans le port fluvial de Strasbourg, une seule barge de conteneurs transite chaque semaine, contre 20 barges habituellement.",
+      "image": "https://www.franceinfo.fr/pictures/lIDGAThndUPdjDzwxi2Ida9BE3E/0x0:1200x675/432x243/filters:format(jpg):quality(50)/2026/08/18/6a83ec60bd6cf119094994.jpg",
+      "published_at": "2026-08-18T11:12:53+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "acc9e88211ec"
+    },
+    {
+      "title": "Sortie dans l'espace de Sophie Adenot : suivez les premiers pas d'une astronaute française hors de la Station spatiale internationale",
+      "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/direct-sortie-dans-l-espace-de-sophie-adenot-suivez-les-premiers-pas-d-une-astronaute-francaise-hors-de-la-station-spatiale-internationale_8147258.html#xtor=RSS-3-[lestitres]",
+      "summary": "A bord de la Station spatiale internationale depuis février, Sophie Adenot va réaliser sa première sortie extravéhiculaire, mardi après-midi. Elle doit, avec son collègue américain Anil Menon, remplacer une antenne de communication avec la Terre.",
+      "image": "https://www.franceinfo.fr/pictures/qMQN7TShV0m7r0PfeVEpBNw4uDo/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7ed3f49b5b5728889884.jpg",
+      "published_at": "2026-08-18T11:05:15+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "030e23475338"
+    },
+    {
+      "title": "Apple fait fuiter ses propres secrets : iPhone pliant, AirPods à caméra… une tonne de références ont été découvertes dans macOS",
+      "url": "https://www.numerama.com/tech/2313077-apple-fait-fuiter-ses-propres-secrets-iphone-pliant-airpods-a-camera-une-tonne-de-references-ont-ete-decouvertes-dans-macos.html",
+      "summary": "À quelques semaines de sa keynote de rentrée, Apple a vendu la mèche toute seule. En distribuant la version quasi finale de macOS 26.7, Apple a oublié de masquer des dizaines de références à des appareils encore secrets.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-18T09:02:03+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "f49f417d5f35"
+    },
+    {
+      "title": "En Israël, la primaire du Likoud révélatrice de la stratégie de Nétanyahou pour conserver le pouvoir",
+      "url": "https://www.lemonde.fr/international/article/2026/08/18/en-israel-la-primaire-du-likoud-revelatrice-de-la-strategie-de-netanyahou-pour-conserver-le-pouvoir_6748903_3210.html",
+      "summary": "Les adhérents étaient appelés, lundi 17 août, à désigner les candidats aux législatives du 27 octobre, au cours d’un scrutin marqué par la radicalisation du parti de droite et l’emprise du premier ministre sur le mouvement.",
+      "image": "https://img.lemde.fr/2026/08/17/569/0/6744/3372/644/322/60/0/29838ee_ftp-1-6usu4rcow5mj-5860936-01-06.jpg",
+      "published_at": "2026-08-18T11:00:11+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "2d45c5534055"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : une attaque de missiles russes sur Petchenihy, dans l’oblast de Kharkiv, fait dix morts, selon les autorités locales",
+      "url": "https://www.lemonde.fr/international/live/2026/08/18/en-direct-guerre-en-ukraine-une-attaque-de-missiles-russes-sur-petchenihy-dans-l-oblast-de-kharkiv-fait-dix-morts-selon-les-autorites-locales_6746952_3210.html",
+      "summary": "Volodymyr Zelensky, le président ukrainien, a dénoncé « une attaque brutale » sur la commune « là où se trouvent un bureau de poste et des magasins, et où sont situées uniquement des habitations ».",
+      "image": "https://img.lemde.fr/2026/08/18/808/0/2000/1000/644/322/60/0/70f23dc_ftp-1-rx8esn4cq4sn-5865746-01-06.jpg",
+      "published_at": "2026-08-18T10:57:53+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "0638c9f79fc9"
+    },
+    {
+      "title": "Données susceptibles d'avoir été consultées, risques, mesures de précaution... Ce que contient le courriel envoyé aux victimes du piratage du fisc",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/donnees-susceptibles-d-avoir-ete-consultees-risques-mesures-de-precaution-ce-que-contient-le-courriel-envoye-aux-victimes-du-piratage-du-fisc_8151422.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les envois de ce courriel commencent à partir de lundi soir, pour se poursuivre tout au long de la semaine.",
+      "image": "https://www.franceinfo.fr/pictures/Rt9gZZui5yIvLEKaJ0LH6f7sPcQ/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/17/6a836cb692348458191925.jpg",
+      "published_at": "2026-08-18T10:54:26+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "c9f133fff6c7"
+    },
+    {
+      "title": "Madame Barbut, il existe une climatisation propre à lutter contre le dérèglement climatique, par Cédric Philibert",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/madame-barbut-la-climatisation-peut-aussi-aider-a-lutter-contre-le-dereglement-climatique-par-cedric-philibert-20260818_X2VQC6UXOZHMFINLPNLLJWXMS4/",
+      "summary": "La clim, sous forme de pompes à chaleur réversibles, serait à court terme une solution efficace, écologique et économique, l’ex-conseiller de l’Ademe, qui regrette que la ministre de l’Ecologie l’ait balayée d’un revers de la main dans nos colonnes.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-18T08:52:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "f7218b66dba0"
+    },
+    {
+      "title": "Guerre en Ukraine : au moins dix personnes tuées dans une attaque russe sur la région de Kharkiv",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-dix-personnes-sont-mortes-dans-une-attaque-sur-la-region-de-kharkiv_8151851.html#xtor=RSS-3-[lestitres]",
+      "summary": "Selon l'armée de l'air ukrainienne, la Russie a lancé 147 drones dans la nuit de lundi à mardi. Dans le même temps, le maire de Moscou a annoncé qu'au moins 620 drones avaient visé la région de la capitale russe.",
+      "image": "https://www.franceinfo.fr/pictures/UJMJJZvQnAPGmkMRKlXj215Og3U/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/18/6a8419f1ca385339316492.jpg",
+      "published_at": "2026-08-18T10:44:42+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "f50c369388c6"
+    },
+    {
+      "title": "Incendie en Belgique : les pompiers veulent « encercler définitivement » le feu historique d’un parc naturel",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/18/incendie-en-belgique-les-pompiers-veulent-encercler-definitivement-le-feu-historique-d-un-parc-naturel_6748870_3244.html",
+      "summary": "Près de 500 personnes sont sur le pont pour tenter de contenir le feu qui sévit dans cette grande forêt proche de l’Allemagne.",
+      "image": "https://img.lemde.fr/2026/08/18/330/0/5152/2576/644/322/60/0/562b6b0_ftp-1-cjmwqg97nxzx-2026-08-18t082328z-608177660-rc2w0nacndk0-rtrmadp-3-europe-weather-belgium-wildfire.JPG",
+      "published_at": "2026-08-18T10:43:20+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "a71d469103de"
+    },
+    {
+      "title": "Un voilier à la dérive au large de l'île d'Yeu, aucun occupant repéré à son bord",
+      "url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/vendee/ile-d-yeu/des-recherches-en-cours-pour-secourir-un-voilier-sur-le-point-de-couler-au-large-de-l-ile-d-yeu-aucun-occupant-repere-a-son-bord-3402868.html#xtor=RSS-3-[lestitres]",
+      "summary": "Une opération de recherche est en cours depuis le lundi 17 août au large de l'Île d'Yeu pour retrouver un voilier à la dérive, sur le point de couler. Ce sont les passagers d'un ferry qui ont donné l'alerte aux autorités. Aucun occupant n'a pour l'instant été identifié dans le bateau en détresse.",
+      "image": "https://www.franceinfo.fr/pictures/5LGTYxGfPKGAQzh6Na15X0yLXfY/432x243/filters:format(jpg):quality(50)/2026/08/18/6a8411a8e3018161452089.png",
+      "published_at": "2026-08-18T10:38:35+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "8e88d640f05c"
+    },
     {
       "title": "Aux Philippines, une attaque armée diffusée en direct fait deux morts dans un lycée, le tireur se suicide",
       "url": "https://www.lemonde.fr/international/article/2026/08/18/aux-philippines-une-attaque-armee-diffusee-en-direct-fait-deux-morts-dans-un-lycee-le-tireur-se-suicide_6748868_3210.html",
       "summary": "Le compte Facebook du tueur, sur lequel la vidéo des coups de feu a été publiée, a été désactivé.",
       "image": "https://img.lemde.fr/2026/08/18/269/0/5500/2750/644/322/60/0/b6f1618_ftp-1-tdydyd0prgmi-2026-08-18t034941z-463433727-rc2r0na33845-rtrmadp-3-philippines-school-shooting.JPG",
       "published_at": "2026-08-18T10:37:31+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "71565e9910b3"
     },
@@ -21,6 +181,16 @@
       "source": "Libération",
       "category": "Politique",
       "id": "8d4349ebda31"
+    },
+    {
+      "title": "\"Le gouvernement a menti pendant tout l'été\" : Manuel Bompard demande une commission d'enquête parlementaire sur la gestion des incendies",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/le-gouvernement-a-menti-pendant-tout-l-ete-manuel-bompard-plaide-pour-une-commission-d-enquete-parlementaire-sur-la-gestion-des-incendies_8151878.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le numéro 1 de La France insoumise a estimé mardi, sur BFMTV; que le gouvernement avait une \"responsabilité dans l'incapacité de notre pays à faire face\" aux incendies.",
+      "image": "https://www.franceinfo.fr/pictures/o5U44bE8FzV47gifu9n9kPwA11Y/0x39:1024x615/432x243/filters:format(jpg):quality(50)/2026/08/18/6a840f0041da6752817416.jpg",
+      "published_at": "2026-08-18T10:35:32+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "442c9014edd2"
     },
     {
       "title": "Comment un agent IA a trouvé une faille, corrigé son propre bug, et fini par accéder au Jira de Snowflake",
@@ -113,7 +283,7 @@
       "id": "f3bef39967ac"
     },
     {
-      "title": "L’agriculture vit \"une crise profonde\" avec ce \"trio redoutable\", sécheresse, canicule, incendies, reconnaît la ministre de l’Agriculture",
+      "title": "L'agriculture vit \"une crise profonde\" avec la sécheresse, la canicule, et les incendies, reconnaît la ministre Annie Genevard",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/l-agriculture-vit-une-crise-profonde-avec-ce-trio-redoutable-secheresse-canicule-incendies-reconnait-la-ministre-de-l-agriculture_8151863.html#xtor=RSS-3-[lestitres]",
       "summary": "\"Nous vivons un été terrible et les agriculteurs en paient un lourd tribut, tous les territoires et toutes les productions sont impactés à des degrés divers\", ajoute Annie Genevard, mardi sur franceinfo.",
       "image": "https://www.franceinfo.fr/pictures/YGtE4Er2EKYHtAhXz28s6s52lic/0x32:1213x715/432x243/filters:format(jpg):quality(50)/2026/08/18/6a84111386cf6801357297.png",
@@ -131,176 +301,6 @@
       "source": "Numerama",
       "category": "Politique",
       "id": "c926efcbd8fd"
-    },
-    {
-      "title": "Double séisme au Venezuela : un nouveau bilan fait état de 6 438 morts",
-      "url": "https://www.liberation.fr/international/amerique/httpswwwliberationfrsocieteeducationlallocation-de-rentree-scolaire-versee-ce-mardi-a-3-millions-de-familles-20260818-bvtk3oxssvb3npfwypxuxmsdfi-20260818_7GSRYPOIR5DP5NPQVVDBFRKYII/",
-      "summary": "Après les tremblements de terre qui ont frappé en juin le littoral vénézuélien, le président du Parlement a communiqué les nouveaux chiffres du drame lundi 17 août. Les secouristes cherchent toujours des survivants dans les décombres.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-18T07:51:24+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "443cdc8d1c4e"
-    },
-    {
-      "title": "Pierre Brasseur, sociologue : «Sur OnlyFans, les abonnés racontent aux créatrices de contenu leur travail, leur divorce, leur solitude»",
-      "url": "https://www.liberation.fr/idees-et-debats/pierre-brasseur-sociologue-sur-onlyfans-les-abonnes-racontent-aux-creatrices-de-contenu-leur-travail-leur-divorce-leur-solitude-20260818_RMBUGP3IPVGGFFRXKYYF35JNRU/",
-      "summary": "Dans un essai, le chercheur propose une plongée dans la plateforme de contenus sexuels, où ceux qui paient cherchent d’abord la sensation d’entretenir un lien intime avec les créatrices et créateurs.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-18T07:44:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "44ad361afaee"
-    },
-    {
-      "title": "Guerre en Ukraine : au moins dix personnes sont mortes dans une attaque sur la région de Kharkiv",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-dix-personnes-sont-mortes-dans-une-attaque-sur-la-region-de-kharkiv_8151851.html#xtor=RSS-3-[lestitres]",
-      "summary": "Selon l'armée de l'air ukrainienne, la Russie a lancé dans la nuit de lundi à mardi 147 drones. De son côté, le maire de Moscou a annoncé qu'au moins 620 drones avaient été projetés contre la région de la capitale russe.",
-      "image": "https://www.franceinfo.fr/pictures/CJJnE3DmHySTQD1r6kptTYQZURE/0x0:5500x3093/432x243/filters:format(jpg):quality(50)/2026/08/18/6a8403bf576aa152242713.jpg",
-      "published_at": "2026-08-18T09:38:53+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "f50c369388c6"
-    },
-    {
-      "title": "Lancement du Cybercab : Tesla envoie ses salariés jouer les cobayes dans des voitures sans volant",
-      "url": "https://www.numerama.com/vroom/2312971-lancement-du-cybercab-tesla-envoie-ses-salaries-jouer-les-cobayes-dans-des-voitures-sans-volant.html",
-      "summary": "Tesla s'apprête à lancer son Cybercab dans les rues d'Austin. Et pour essuyer les plâtres de ce véhicule sans volant ni pédales, le constructeur américain compte sur ses propres employés pour tester la viabilité du service.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-18T07:34:43+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "4a236667c831"
-    },
-    {
-      "title": "Au Brésil, Discord suspend les directs après le suicide d'une adolescente",
-      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/au-bresil-discord-suspend-les-directs-apres-le-suicide-d-une-adolescente_8151812.html#xtor=RSS-3-[lestitres]",
-      "summary": "La police avait annoncé en juillet qu'une mineure vivant dans le centre-ouest du pays avait été incitée, lors d'un direct de 45 minutes, à se mutiler puis à se donner la mort.",
-      "image": "https://www.franceinfo.fr/pictures/hCA3_e5y3UiXXf1f5BKRUL-tlvY/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/18/6a83f86fa5b88976943639.jpg",
-      "published_at": "2026-08-18T09:27:20+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "db2ef4508f3f"
-    },
-    {
-      "title": "L’allocation de rentrée scolaire versée ce mardi à 3 millions de familles",
-      "url": "https://www.liberation.fr/societe/education/lallocation-de-rentree-scolaire-versee-ce-mardi-a-3-millions-de-familles-20260818_BVTK3OXSSVB3NPFWYPXUXMSDFI/",
-      "summary": "Comme chaque année, sous conditions de ressources, les familles modestes ayant des enfants scolarisés vont recevoir une aide pour s’équiper ce mardi 18 août. Son montant varie entre 420 et 460 euros.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-18T07:23:50+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "0304279fe45e"
-    },
-    {
-      "title": "Sophie Adenot : suivez en direct sa sortie spatiale historique hors de l’ISS aujourd’hui",
-      "url": "https://www.numerama.com/sciences/2312351-sophie-adenot-suivez-en-direct-sa-sortie-spatiale-historique-hors-de-liss-aujourdhui.html",
-      "summary": "L’astronaute française Sophie Adenot et l'Américain Anil Menon vont s'aventurer ce mardi 18 août 2026 hors de la Station spatiale internationale. Leur sortie extravéhiculaire est à suivre en direct.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-18T07:23:31+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "a2d20714fae1"
-    },
-    {
-      "title": "\"Ça m'a pris six mois pour faire l'inventaire\" : des sinistrés des incendies de 2022 en Gironde sceptiques face aux promesses du gouvernement",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/temoignage-ca-m-a-pris-six-mois-pour-faire-l-inventaire-des-sinistres-des-incendies-de-2022-en-gironde-sceptiques-face-aux-promesses-du-gouvernement_8151773.html#xtor=RSS-3-[lestitres]",
-      "summary": "En déplacement près de Bordeaux lundi, près d'un mois après le mégafeu de Saumos où 240 maisons et 42 000 hectares de forêts sont partis en fumée, Sébastien Lecornu a annoncé un plan de reconstruction et, notamment, un délai d'un mois pour délivrer des permis de construire.",
-      "image": "https://www.franceinfo.fr/pictures/Okf2R_8zbcZFXfbos7rf3hzZPvc/0x0:3000x1687/432x243/filters:format(jpg):quality(50)/2026/08/18/6a83fd6647354056163496.jpg",
-      "published_at": "2026-08-18T09:10:55+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "c576887cd944"
-    },
-    {
-      "title": "\"Votre question dégoûtante et inhumaine\" : Donald Trump et la Maison Blanche s'emportent contre une journaliste de CNN",
-      "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/votre-question-degoutante-et-inhumaine-la-maison-blanche-et-donald-trump-s-emportent-contre-une-journaliste-de-cnn_8151770.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le président des Etats-Unis était invité à réagir à une attaque d'un élu démocrate sur sa proximité supposée avec une assistante.",
-      "image": "https://www.franceinfo.fr/pictures/nH9e8tEefxzmiLBDUQHCVcPjTkc/0x208:4000x2458/432x243/filters:format(jpg):quality(50)/2026/08/18/6a8410f93fa37507005652.jpg",
-      "published_at": "2026-08-18T09:08:55+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "2ec5183ea31c"
-    },
-    {
-      "title": "La double journée des vacanciers : « Chaque destination semble proposer un deuxième service après le dîner »",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/18/la-double-journee-des-vacanciers-chaque-destination-semble-proposer-un-deuxieme-service-apres-le-diner_6748769_3451060.html",
-      "summary": "« Les négos de l’été » (6/8). Qui dit grandes vacances dit gros et petits conflits à arbitrer. Assister à un spectacle son et lumière ou faire des emplettes au marché nocturne deviennent les passages obligés pour redémarrer sa journée à la nuit tombée.",
-      "image": "https://img.lemde.fr/2026/08/10/201/0/1500/750/644/322/60/0/87aedde_ftp-1-ixiuf2rsvnlv-438195-3493278.jpg",
-      "published_at": "2026-08-18T09:00:11+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "835bb4d48514"
-    },
-    {
-      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
-      "summary": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-18T07:00:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "db01394bbc86"
-    },
-    {
-      "title": "Sophie Adenot va devenir la première astronaute française à sortir dans l’espace",
-      "url": "https://www.liberation.fr/sciences/espace/sophie-adenot-va-devenir-la-premiere-astronaute-francaise-a-sortir-dans-lespace-20260818_S7AWXVHMIZAZFEMVYC3RARJZWI/",
-      "summary": "Partie depuis février, la Française va effectuer mardi 18 août une mission de plus de six heures, hors de son véhicule, pour remplacer une antenne.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-18T06:52:43+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "41a777b44332"
-    },
-    {
-      "title": "Au large de l’île d’Yeu, un voilier est à la dérive ; des recherches sont en cours",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/18/au-large-de-l-ile-d-yeu-un-voilier-est-a-la-derive-des-recherches-sont-en-cours_6748768_3224.html",
-      "summary": "Le nombre des occupants de l’embarcation est encore inconnu. « Aucune balise n’a été déclenchée », précise la préfecture maritime.",
-      "image": "https://img.lemde.fr/2026/08/18/208/0/4256/2128/644/322/60/0/92952f1_upload-1-zcgp5egfeqgd-000-par7624843.jpg",
-      "published_at": "2026-08-18T08:52:05+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "1b2fc6ca1e38"
-    },
-    {
-      "title": "Disney essore ses licences et confirme Zootopia 3 et la Reine des Neiges 3",
-      "url": "https://www.numerama.com/pop-culture/2312599-zootopie-3-confirme-disney-continue-dessorer-ses-bonnes-licences.html",
-      "summary": "Assommé par des choix créatifs douteux et une panne d'idées neuves, le géant américain Disney se raccroche désespérément à ses vieilles recettes. L'annonce de Zootopie 3 et La Reine des Neiges 3 lors du D23, couplée au retour négocié de Johnny Depp en Jack Sparrow, confirme une stratégie cynique : recycler le passé plutôt que prendre le moindre risque.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-18T06:50:00+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "e030a06b9f11"
-    },
-    {
-      "title": "Le patron de Marvel révèle la différence fondamentale entre les deux derniers films Spider-Man",
-      "url": "https://www.numerama.com/pop-culture/2312959-le-patron-de-marvel-revele-la-difference-fondamentale-entre-les-deux-derniers-films-spider-man.html",
-      "summary": "Kevin Feige, grand patron de Marvel Studios, a partagé son point de vue concernant ce qui différencie Spider-Man: No Way Home et Spider-Man: Brand New Day.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-18T06:45:41+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "810fe1fc3fe5"
-    },
-    {
-      "title": "Sophie Adenot dans l’espace, aide aux sinistrés des incendies, allocation rentrée scolaire… L’actu de ce mardi 18 août au matin",
-      "url": "https://www.liberation.fr/international/europe/sophie-adenot-dans-lespace-aide-aux-sinistres-des-incendies-allocation-rentree-scolaire-lactu-de-ce-mardi-18-aout-au-matin-20260818_RCPG3A6IUZHKXE6JCJYUMX4LIY/",
-      "summary": "La rédaction de «Libération» compile les principales infos du jour.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-18T06:40:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "ce39da23eb3c"
-    },
-    {
-      "title": "\"Ni traitement ni vaccin\" : comment l'épidémie actuelle d'Ebola est devenue la plus mortelle de l'histoire de la République démocratique du Congo",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/ni-traitement-ni-vaccin-comment-l-epidemie-actuelle-d-ebola-est-devenue-la-plus-mortelle-de-l-histoire-de-la-republique-democratique-du-congo_8151389.html#xtor=RSS-3-[lestitres]",
-      "summary": "Entre un variant peu connu, pour lequel peu de recherches sont disponibles, et un contexte social et politique délicat, la nouvelle épidémie a déjà fait 2 300 morts, bien plus que celle ayant eu lieu de 2018 à 2020.",
-      "image": "https://www.franceinfo.fr/pictures/ruIjQ0tff4aXwMuloTIgNz5Zi2w/0x312:6000x3687/432x243/filters:format(jpg):quality(50)/2026/08/17/6a8369fea2ea4242958201.jpg",
-      "published_at": "2026-08-18T08:26:11+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "dbf0458b674e"
     }
   ]
 }
