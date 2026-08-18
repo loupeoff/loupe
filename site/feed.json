@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-08-18T21:30:52.517293+00:00",
+  "generated_at": "2026-08-18T22:31:38.833576+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Mykhaïlo Fedorov, le populaire ex-ministre de la défense écarté par Volodymyr Zelensky, demande d’ouvrir la voie à des élections",
+      "url": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-mykhailo-fedorov-le-populaire-ex-ministre-de-la-defense-ecarte-par-volodymyr-zelensky-demande-d-ouvrir-la-voie-a-des-elections_6746952_3210.html",
+      "summary": "Limogé en juillet, Mykhaïlo Fedorov a appelé mardi soir à créer les conditions pour pouvoir tenir des élections malgré l’invasion russe de l’Ukraine et « restaurer un processus démocratique complet ».",
+      "image": "https://img.lemde.fr/2026/08/18/167/0/5154/2577/644/322/60/0/662466a_upload-1-gefrniirb4hx-ap26043639559699.jpg",
+      "published_at": "2026-08-19T00:12:24+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "45f7cf3a8f3d"
+    },
+    {
+      "title": "La France va expulser deux diplomates iraniens \"dans les tout prochains jours\"",
+      "url": "https://www.franceinfo.fr/monde/iran/la-france-va-expulser-deux-diplomates-iraniens-dans-les-tout-prochains-jours_8152658.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette décision a été prise en représailles à la décision de l'Iran d'interdire le retour de deux diplomates de l'ambassade de France à Téhéran, a déclaré mardi le ministre des Affaires étrangères français.",
+      "image": "https://www.franceinfo.fr/pictures/_H-EvPjIFOYhwAy_WnqVG03mmcg/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/18/6a84b1018d7d0574100803.jpg",
+      "published_at": "2026-08-19T00:03:19+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "9520049c7967"
+    },
+    {
+      "title": "Les Emirats arabes unis accusent l'Iran d'avoir tiré deux missiles vers leur flotte et suspendent leurs relations économiques avec le pays",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-emirats-arabes-unis-accusent-l-iran-d-avoir-tire-deux-missiles-vers-leur-territoire_8152565.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'Iran a démenti ces accusations mardi. Selon les Emirats arabes unis, ces missiles balistiques sont tombés en mer. L'un à l'intérieur des eaux territoriales du pays, l'autre à l'extérieur.",
+      "image": "https://www.franceinfo.fr/pictures/cKPbeVyABlomLnYqLVI0JZ7Qyzs/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/18/6a848f6fea9fe226493485.jpg",
+      "published_at": "2026-08-19T00:00:29+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "fcccb0eebc16"
+    },
+    {
+      "title": "Les Etats-Unis sanctionnent la présidente de la Cour pénale internationale, l'institution dénonce une décision qui sape \"l'Etat de droit\"",
+      "url": "https://www.franceinfo.fr/monde/usa/les-etats-unis-sanctionnent-la-presidente-de-la-cour-penale-internationale-l-institution-denonce-une-decision-qui-sape-l-etat-de-droit_8152721.html#xtor=RSS-3-[lestitres]",
+      "summary": "Washington, qui n'adhère pas au traité international ayant institué la CPI, a imposé des sanctions interdisant notamment à la présidente et plusieurs magistrats de la Cour d'entrer aux Etats-Unis.",
+      "image": "https://www.franceinfo.fr/pictures/PO5QT3LRCFlY4mVf6EvV21ti6bQ/0x55:1024x631/432x243/filters:format(jpg):quality(50)/2026/08/18/6a84d46a4986b359710149.jpg",
+      "published_at": "2026-08-18T23:55:47+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "faa45199bebf"
+    },
+    {
+      "title": "OpenAI encadre l'usage de ChatGPT pour les adolescents, un an après une plainte accusant l'assistant d'avoir poussé un jeune Américain au suicide",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/openai-encadre-l-usage-de-chatgpt-pour-les-adolescents-un-an-apres-une-plainte-accusant-l-assistant-d-avoir-pousse-un-jeune-americain-au-suicide_8152718.html#xtor=RSS-3-[lestitres]",
+      "summary": "Nommée \"ChatGPT for Teens\", cette version devient automatique pour tout utilisateur qui se déclare mineur ou que l'entreprise détecte, à partir de signaux comme l'ancienneté du compte ou les habitudes d'usage.",
+      "image": "https://www.franceinfo.fr/pictures/ivIm6-RQSV5enJi6r9rx7y39vF4/0x39:1024x615/432x243/filters:format(jpg):quality(50)/2026/08/18/6a84cf99bf37d342270989.jpg",
+      "published_at": "2026-08-18T23:36:35+02:00",
+      "source": "France Info",
+      "category": "Tech",
+      "id": "f668c28e0290"
+    },
     {
       "title": "Deux Français arrêtés et détenus au Togo depuis le 27 juillet, selon le Quai d’Orsay",
       "url": "https://www.lemonde.fr/afrique/article/2026/08/18/deux-francais-arretes-et-detenus-au-togo-depuis-le-27-juillet-selon-le-quai-d-orsay_6749091_3212.html",
@@ -13,16 +63,6 @@
       "id": "773862beadc8"
     },
     {
-      "title": "Les Emirats arabes unis accusent l'Iran d'avoir tiré deux missiles vers leur flotte et suspendent leurs relations économiques avec l'Iran",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-emirats-arabes-unis-accusent-l-iran-d-avoir-tire-deux-missiles-vers-leur-territoire_8152565.html#xtor=RSS-3-[lestitres]",
-      "summary": "Ces missiles balistiques sont tombés en mer. L'un à l'intérieur des eaux territoriales du pays, l'autre à l'extérieur, a déclaré le ministère de la Défense émirati.",
-      "image": "https://www.franceinfo.fr/pictures/cKPbeVyABlomLnYqLVI0JZ7Qyzs/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/18/6a848f6fea9fe226493485.jpg",
-      "published_at": "2026-08-18T23:16:06+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "fcccb0eebc16"
-    },
-    {
       "title": "Deux ressortissants Français arrêtés et détenus au Togo depuis fin juillet",
       "url": "https://www.franceinfo.fr/monde/afrique/togo/deux-francais-arretes-et-detenus-au-togo-depuis-fin-juillet_8152730.html#xtor=RSS-3-[lestitres]",
       "summary": "Il s'agit de \"réalisateurs\" travaillant \"pour une société de production française\", selon le ministère des Affaires étrangères.",
@@ -31,16 +71,6 @@
       "source": "France Info",
       "category": "Société",
       "id": "60487222de91"
-    },
-    {
-      "title": "La France va expulser deux diplomates iraniens \"dans les tout prochains jours\"",
-      "url": "https://www.franceinfo.fr/monde/iran/la-france-va-expulser-deux-diplomates-iraniens-dans-les-tout-prochains-jours_8152658.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cette décision a été prise en représailles à la décision de l'Iran d'interdire le retour de deux diplomates de l'ambassade de France à Téhéran, a déclaré mardi le ministre des Affaires étrangères français.",
-      "image": "https://www.franceinfo.fr/pictures/_H-EvPjIFOYhwAy_WnqVG03mmcg/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/18/6a84b1018d7d0574100803.jpg",
-      "published_at": "2026-08-18T22:55:42+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "9520049c7967"
     },
     {
       "title": "En Belgique, les pompiers se battent pour \"encercler définitivement\" un incendie historique",
@@ -168,7 +198,7 @@
       "summary": "Il s’agit d’une mesure en représailles à la décision iranienne de ne pas autoriser le retour en Iran de deux diplomates français qui avaient été brièvement arrêtés à Téhéran en juillet avant de quitter le pays.",
       "image": "https://img.lemde.fr/2026/07/22/288/0/2639/1319/644/322/60/0/74c8bff_ftp-1-gb6dxbyjupyt-2026-07-22t103625z-1636415809-rc2yima4cryi-rtrmadp-3-france-politics.JPG",
       "published_at": "2026-08-18T21:05:32+02:00",
-      "source": "Le Monde",
+      "source": "Le Monde Inter",
       "category": "Sport",
       "id": "304c22593748"
     },
@@ -271,36 +301,6 @@
       "source": "Le Monde",
       "category": "Sport",
       "id": "89b01a917ce9"
-    },
-    {
-      "title": "Pakistan : Imran Khan, l’ancien premier ministre emprisonné depuis trois ans, obtient son transfert temporaire dans un hôpital d’Islamabad",
-      "url": "https://www.lemonde.fr/international/article/2026/08/18/au-pakistan-l-ancien-premier-ministre-imran-khan-emprisonne-depuis-trois-ans-obtient-son-transfert-temporaire-dans-un-hopital-d-islamabad_6749087_3210.html",
-      "summary": "Le populaire ex-dirigeant de 74 ans, qui souffre de problèmes de santé, subit des conditions de détention particulièrement sévères et un isolement quasi complet depuis le début de son incarcération.",
-      "image": "https://img.lemde.fr/2026/08/18/696/0/4174/2087/644/322/60/0/300c36f_ftp-1-pbtsujli20j4-5866304-01-06.jpg",
-      "published_at": "2026-08-18T20:00:07+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "a77c449d741f"
-    },
-    {
-      "title": "Un mois après son changement de nom, l'aéroport \"Donald J. Trump\" de Palm Beach change de code international et sème la pagaille",
-      "url": "https://www.franceinfo.fr/monde/usa/un-mois-apres-son-changement-de-nom-l-aeroport-donal-j-trump-de-palm-beach-change-de-code-international-et-seme-la-pagaille_8152544.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'aéroport de Palm Beach, à dix minutes en voiture de sa résidence de Mar-a-Lago, a été rebaptisé le 9 juillet du nom de Donald J. Trump, et c'est inédit pour un président en exercice. Après la signalétique sur place, c'est le code international de l'aéroport qui change, et entraîne des modifications pour tous les billets concernés.",
-      "image": "https://www.franceinfo.fr/pictures/ZaOOGbqbazW3LAVggboLrHqf3Us/0x188:3618x2224/432x243/filters:format(jpg):quality(50)/2026/08/18/6a849cbba4b27126731586.jpg",
-      "published_at": "2026-08-18T19:56:46+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "78f954113a69"
-    },
-    {
-      "title": "Les Etats-Unis sanctionnent la juriste Tomoko Akane, présidente de la CPI",
-      "url": "https://www.lemonde.fr/international/article/2026/08/18/les-etats-unis-sanctionnent-la-presidente-de-la-cour-penale-internationale-tomoko-akane_6749085_3210.html",
-      "summary": "Washington a lancé, le mois dernier, une offensive diplomatique majeure contre la CPI, l’accusant de « menacer » les Américains et appelant ses partenaires à s’en retirer.",
-      "image": "https://img.lemde.fr/2026/08/18/497/0/4254/2127/644/322/60/0/5ceb84d_ftp-1-h4hwuhzl8csw-5868444-01-06.jpg",
-      "published_at": "2026-08-18T19:47:19+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "1b16d4f31cf5"
     }
   ]
 }
