@@ -1,16 +1,76 @@
 {
-  "generated_at": "2026-08-18T20:32:30.426204+00:00",
+  "generated_at": "2026-08-18T21:30:52.517293+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Les Emirats arabes unis accusent l'Iran d'avoir tiré deux missiles vers leur flotte",
+      "title": "Deux Français arrêtés et détenus au Togo depuis le 27 juillet, selon le Quai d’Orsay",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/18/deux-francais-arretes-et-detenus-au-togo-depuis-le-27-juillet-selon-le-quai-d-orsay_6749091_3212.html",
+      "summary": "Il s’agit de deux « réalisateurs » travaillant « pour une société de production française », selon le ministère des affaires étrangères français, dont la production devait être diffusée sur France Télévisions, d’après des médias locaux.",
+      "image": "https://img.lemde.fr/2026/08/18/324/0/3888/1944/644/322/60/0/e7087cc_upload-1-za0rik68h2jj-000-328q8ex.jpg",
+      "published_at": "2026-08-18T23:28:31+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "773862beadc8"
+    },
+    {
+      "title": "Les Emirats arabes unis accusent l'Iran d'avoir tiré deux missiles vers leur flotte et suspendent leurs relations économiques avec l'Iran",
       "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-emirats-arabes-unis-accusent-l-iran-d-avoir-tire-deux-missiles-vers-leur-territoire_8152565.html#xtor=RSS-3-[lestitres]",
       "summary": "Ces missiles balistiques sont tombés en mer. L'un à l'intérieur des eaux territoriales du pays, l'autre à l'extérieur, a déclaré le ministère de la Défense émirati.",
       "image": "https://www.franceinfo.fr/pictures/cKPbeVyABlomLnYqLVI0JZ7Qyzs/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/18/6a848f6fea9fe226493485.jpg",
-      "published_at": "2026-08-18T22:13:35+02:00",
+      "published_at": "2026-08-18T23:16:06+02:00",
       "source": "France Info",
       "category": "Sport",
       "id": "fcccb0eebc16"
+    },
+    {
+      "title": "Deux ressortissants Français arrêtés et détenus au Togo depuis fin juillet",
+      "url": "https://www.franceinfo.fr/monde/afrique/togo/deux-francais-arretes-et-detenus-au-togo-depuis-fin-juillet_8152730.html#xtor=RSS-3-[lestitres]",
+      "summary": "Il s'agit de \"réalisateurs\" travaillant \"pour une société de production française\", selon le ministère des Affaires étrangères.",
+      "image": "https://www.franceinfo.fr/pictures/MuOXtqiaE9e-ymoZhPySzR45vC8/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/18/6a84c7767fb47082767860.jpg",
+      "published_at": "2026-08-18T23:00:36+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "60487222de91"
+    },
+    {
+      "title": "La France va expulser deux diplomates iraniens \"dans les tout prochains jours\"",
+      "url": "https://www.franceinfo.fr/monde/iran/la-france-va-expulser-deux-diplomates-iraniens-dans-les-tout-prochains-jours_8152658.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette décision a été prise en représailles à la décision de l'Iran d'interdire le retour de deux diplomates de l'ambassade de France à Téhéran, a déclaré mardi le ministre des Affaires étrangères français.",
+      "image": "https://www.franceinfo.fr/pictures/_H-EvPjIFOYhwAy_WnqVG03mmcg/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/18/6a84b1018d7d0574100803.jpg",
+      "published_at": "2026-08-18T22:55:42+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "9520049c7967"
+    },
+    {
+      "title": "En Belgique, les pompiers se battent pour \"encercler définitivement\" un incendie historique",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-belgique-les-pompiers-se-battent-pour-encercler-definitivement-un-incendie-historique_8152706.html#xtor=RSS-3-[lestitres]",
+      "summary": "Quelque 3 000 hectares de forêt ont déjà été ravagés par cet incendie survenu vendredi. Les pompiers tentent mardi d'encercler le feu, afin de le fixer, puis de l'éteindre.",
+      "image": "https://www.franceinfo.fr/pictures/B_jvUntWvgkAh5vG1lVNNh4VOhw/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/18/6a84c0d2ccbb7526395284.jpg",
+      "published_at": "2026-08-18T22:36:44+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "e53b68c371f6"
+    },
+    {
+      "title": "Ethiopie : entre le Premier ministre Abiy Ahmed et le parti tigréen, une haine tenace",
+      "url": "https://www.liberation.fr/international/afrique/ethiopie-entre-le-premier-ministre-abiy-ahmed-et-le-parti-tigreen-une-haine-tenace-20260818_CNRMUY6ZOZBKNMEUNL3CLCFO64/",
+      "summary": "Le Premier ministre éthiopien a bâti et assis son pouvoir en s’opposant frontalement au Front de libération du peuple du Tigré (TPLF), qui régnait sans partage sur le pays depuis trois décennies.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-18T20:32:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "c78260dc8f21"
+    },
+    {
+      "title": "L'allocation de rentrée scolaire, une aide indispensable pour les familles",
+      "url": "https://www.franceinfo.fr/france/rentree/l-allocation-de-rentree-scolaire-une-aide-indispensable-pour-les-familles_8152688.html#xtor=RSS-3-[lestitres]",
+      "summary": "Trois millions de foyers bénéficient de l'allocation de rentrée scolaire. Pour chaque enfant de 6 à 18 ans, les parents reçoivent entre 426 et 466 euros, sous conditions de ressources.",
+      "image": "https://www.franceinfo.fr/pictures/b61C31v0heMZEJPKhSNSsS9QSgs/0x22:1043x609/432x243/filters:format(jpg):quality(50)/2026/08/18/6a84bd18ca8a6829532445.jpg",
+      "published_at": "2026-08-18T22:15:30+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "1054da4aeba5"
     },
     {
       "title": "\"Merci, quelle journée\" : l'astronaute française Sophie Adenot est rentrée dans la Station spatiale internationale après six heures dans l'espace, sans avoir pu achever sa mission",
@@ -83,26 +143,6 @@
       "id": "d50a10f5d6b1"
     },
     {
-      "title": "Face aux incendies, l’Indonésie tente de faire pleuvoir artificiellement",
-      "url": "https://www.franceinfo.fr/monde/face-aux-incendies-l-indonesie-tente-de-faire-pleuvoir-artificiellement_8152667.html#xtor=RSS-3-[lestitres]",
-      "summary": "Face aux incendies qui ravagent l’Indonésie, le pays tente de provoquer la pluie en dispersant de l’iodure d’argent dans les nuages. Une technique coûteuse, utilisée dans plusieurs pays, dont l’efficacité et les effets environnementaux restent limités et incertains.",
-      "image": "https://www.franceinfo.fr/pictures/Hq34l-A-HzzZ9RxZ0-rVaLf_RWg/0x17:839x489/432x243/filters:format(jpg):quality(50)/2026/08/18/6a84b2309a9e6452034118.jpg",
-      "published_at": "2026-08-18T21:28:48+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "8eb019fdca54"
-    },
-    {
-      "title": "La France va expulser deux diplomates iraniens \"dans les tout prochains jours\"",
-      "url": "https://www.franceinfo.fr/monde/iran/la-france-va-expulser-deux-diplomates-iraniens-dans-les-tout-prochains-jours_8152658.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cette décision a été prise en représailles à la décision de l'Iran d'interdire le retour de deux diplomates de l'ambassade de France à Téhéran, a déclaré mardi le ministre des Affaires étrangères français.",
-      "image": "https://www.franceinfo.fr/pictures/_H-EvPjIFOYhwAy_WnqVG03mmcg/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/18/6a84b1018d7d0574100803.jpg",
-      "published_at": "2026-08-18T21:23:21+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "9520049c7967"
-    },
-    {
       "title": "Cyberattaques: les données volées pourraient-elles servir à cibler les détenteurs d'armes ?",
       "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaques-les-donnees-volees-pourraient-elles-servir-a-cibler-les-detenteurs-d-armes_8152646.html#xtor=RSS-3-[lestitres]",
       "summary": "Après plusieurs piratages de données, les détenteurs d'armes sont particulièrement exposés. À Miramas, un tireur sportif a été cambriolé et son arsenal dérobé. Les autorités s'interrogent sur un éventuel lien entre ces vols et les informations personnelles diffusées sur Internet.",
@@ -128,7 +168,7 @@
       "summary": "Il s’agit d’une mesure en représailles à la décision iranienne de ne pas autoriser le retour en Iran de deux diplomates français qui avaient été brièvement arrêtés à Téhéran en juillet avant de quitter le pays.",
       "image": "https://img.lemde.fr/2026/07/22/288/0/2639/1319/644/322/60/0/74c8bff_ftp-1-gb6dxbyjupyt-2026-07-22t103625z-1636415809-rc2yima4cryi-rtrmadp-3-france-politics.JPG",
       "published_at": "2026-08-18T21:05:32+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Sport",
       "id": "304c22593748"
     },
@@ -213,16 +253,6 @@
       "id": "4c3e4ccb3754"
     },
     {
-      "title": "\"On a beau se préparer en piscine, ce n'est pas la même chose\", sourit Thomas Pesquet à propos de la sortie de Sophie Adenot dans l'espace",
-      "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/on-a-beau-se-preparer-en-piscine-ce-n-est-pas-la-meme-chose-sourit-thomas-pesquet-a-propos-de-la-sortie-de-sophie-adenot-dans-l-espace_8152532.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'astronaute français affirme également que la mission \"se passe bien\".",
-      "image": "https://www.franceinfo.fr/pictures/kxoXcj0qjZoe80_Xwb5_Lwueb-Y/432x243/filters:format(jpg):quality(50)/2026/06/03/6a1ffd2e37607948000752.jpg",
-      "published_at": "2026-08-18T20:02:13+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "33de7973c889"
-    },
-    {
       "title": "On a découvert un poisson souterrain inconnu, et c’est grâce à une vidéo sur TikTok",
       "url": "https://www.numerama.com/sciences/2313411-on-a-decouvert-un-poisson-souterrain-inconnu-et-cest-grace-a-une-video-sur-tiktok.html",
       "summary": "Il est fréquent que de nouvelles espèces animales soient découvertes, mais il est plus rare que ce soit à la suite d'une vidéo virale postée sur Internet. Pourtant, des chercheurs indiens ont bien compté sur TikTok pour mettre la main sur une anguille encore jamais vue auparavant.",
@@ -271,36 +301,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "1b16d4f31cf5"
-    },
-    {
-      "title": "Les Etats-Unis annoncent sanctionner la présidente de la Cour pénale internationale, la Japonaise Tomo Akane",
-      "url": "https://www.liberation.fr/international/amerique/les-etats-unis-annoncent-sanctionner-la-presidente-de-la-cour-penale-internationale-la-japonaise-tomo-akane-20260818_X7D4PTD57VDIHFQ6VV5VT6V7FQ/",
-      "summary": "Les mesures américaines «sapent l’Etat de droit» et « mettent en danger l’ordre juridique international», a vivement réagi la CPI dans un communiqué ce mardi 18 août au soir.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-18T17:41:59+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "f8423be1341c"
-    },
-    {
-      "title": "En Chine, l’hommage de Xi Jinping à l’ancien dirigeant Jiang Zemin, l’artisan de la reprise en main de la jeunesse après le massacre de Tiananmen",
-      "url": "https://www.lemonde.fr/international/article/2026/08/18/en-chine-l-hommage-de-xi-jinping-a-l-ancien-dirigeant-jiang-zemin-l-artisan-de-la-reprise-en-main-de-la-jeunesse-apres-le-massacre-de-tiananmen_6749084_3210.html",
-      "summary": "Le dirigeant s’est saisi du centenaire de la naissance de l’ancien chef du Parti communiste pour saluer sa fermeté après la répression du mouvement étudiant de juin 1989 et se remémorer l’âge d’or de l’économie chinoise.",
-      "image": "https://img.lemde.fr/2026/08/17/646/0/7752/3876/644/322/60/0/bd31390_ftp-1-kf9xj6zsaawt-2026-08-17t115029z-1175541790-rc2b0nazugpq-rtrmadp-3-china-politics.JPG",
-      "published_at": "2026-08-18T19:30:00+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "92d187357c3b"
-    },
-    {
-      "title": "Des chercheurs affirment avoir enfin percé «l’énigme de la défense du narval»",
-      "url": "https://www.liberation.fr/environnement/animaux/des-chercheurs-affirment-avoir-enfin-perce-lenigme-de-la-defense-du-narval-20260818_SXVWVADZS5FQLP4EA47TAM4MVU/",
-      "summary": "Plusieurs scientifiques ont présenté, ce mardi 18 août, dans la revue scientifique «Nature Communications», leurs conclusions sur la dent qui se trouve sur la tête de l’animal, sa structure et son hypothétique rôle.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-18T17:28:07+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "1f154172e25e"
     }
   ]
 }
