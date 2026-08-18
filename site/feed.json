@@ -1,7 +1,177 @@
 {
-  "generated_at": "2026-08-18T05:36:33.020005+00:00",
+  "generated_at": "2026-08-18T06:56:07.232030+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Le patron de Marvel révèle la différence fondamentale entre les deux derniers films Spider-Man",
+      "url": "https://www.numerama.com/pop-culture/2312959-le-patron-de-marvel-revele-la-difference-fondamentale-entre-les-deux-derniers-films-spider-man.html",
+      "summary": "Kevin Feige, grand patron de Marvel Studios, a partagé son point de vue concernant ce qui différencie Spider-Man: No Way Home et Spider-Man: Brand New Day.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-18T06:45:41+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "810fe1fc3fe5"
+    },
+    {
+      "title": "Sophie Adenot dans l’espace, aide aux sinistrés des incendies, allocation rentrée scolaire… L’actu de ce mardi 18 août au matin",
+      "url": "https://www.liberation.fr/international/europe/sophie-adenot-dans-lespace-aide-aux-sinistres-des-incendies-allocation-rentree-scolaire-lactu-de-ce-mardi-18-aout-au-matin-20260818_RCPG3A6IUZHKXE6JCJYUMX4LIY/",
+      "summary": "La rédaction de «Libération» compile les principales infos du jour.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-18T06:40:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "ce39da23eb3c"
+    },
+    {
+      "title": "Piratage du fisc : \"Il n'y a pas de pilote dans l'avion\", dénonce un ancien secrétaire général du Conseil national du numérique",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/piratage-du-fisc-il-n-y-a-pas-de-pilote-dans-l-avion-denonce-un-ancien-secretaire-general-du-conseil-national-du-numerique_8151815.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Vous imaginez bien à quel point ça rend risibles tous les discours sur la souveraineté\", estime Jean-Baptiste Soufron, mardi sur France Culture, après la cyberattaque contre le fisc, fin juin.",
+      "image": "https://www.franceinfo.fr/pictures/avcfMILLmRaGazEnLIV8IMYi6KM/0x0:1280x720/432x243/filters:format(jpg):quality(50)/2023/05/16/64631571ad9a8_whatsapp-image-2023-05-16-at-06-44-06.jpeg",
+      "published_at": "2026-08-18T08:24:23+02:00",
+      "source": "France Info",
+      "category": "Tech",
+      "id": "ec0a294ff8ba"
+    },
+    {
+      "title": "Au Brésil, Discord suspend les directs après le suicide d'une adolescente",
+      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/au-bresil-discord-suspend-les-directs-apres-le-suicide-d-une-adolescente_8151812.html#xtor=RSS-3-[lestitres]",
+      "summary": "La police avait annoncé en juillet qu'une mineure vivant avait été incitée, lors d'un direct de 45 minutes, à se mutiler puis à se donner la mort.",
+      "image": "https://www.franceinfo.fr/pictures/hCA3_e5y3UiXXf1f5BKRUL-tlvY/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/18/6a83f86fa5b88976943639.jpg",
+      "published_at": "2026-08-18T08:24:13+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "db2ef4508f3f"
+    },
+    {
+      "title": "\"Un lent déclin\" : à cause de la sécheresse, les porte-conteneurs ont disparu du port fluvial de Strasbourg",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/reportage-un-lent-declin-a-cause-de-la-secheresse-les-porte-conteneurs-ont-disparu-du-port-fluvial-de-strasbourg_8151731.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Rhin est à un niveau historiquement bas. Dans le port fluvial de Strasbourg, une seule barge de conteneurs transite chaque semaine, contre 20 barges habituellement.",
+      "image": "https://www.franceinfo.fr/pictures/lIDGAThndUPdjDzwxi2Ida9BE3E/0x0:1200x675/432x243/filters:format(jpg):quality(50)/2026/08/18/6a83ec60bd6cf119094994.jpg",
+      "published_at": "2026-08-18T08:19:30+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "acc9e88211ec"
+    },
+    {
+      "title": "Incendies en Gironde : \"C'est un premier pas\", réagit le maire de Lacanau, après les annonces du Premier ministre",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/incendies-en-gironde-c-est-un-premier-pas-reagit-le-maire-de-lacanau-apres-les-annonces-du-premier-ministre_8151803.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ces mesures vont permettre aux professionnels \"de se projeter sur l'avenir\", notamment dans le secteur du tourisme en Gironde, estime Laurent Peyrondet, mardi sur franceinfo.",
+      "image": "https://www.franceinfo.fr/pictures/8-Msqe0Ui8M4tAhIVszDa_Mit-M/0x262:5040x3097/432x243/filters:format(jpg):quality(50)/2026/08/18/6a83f66fc7236590248604.jpg",
+      "published_at": "2026-08-18T08:13:48+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "850a75284a0e"
+    },
+    {
+      "title": "\"Encore 8 à 10 ans de développement supplémentaire pour le stérilet masculin\" : le lent développement de la contraception masculine",
+      "url": "https://www.franceinfo.fr/sante/contraception/interview-encore-8-a-10-ans-de-developpement-supplementaire-pour-le-sterilet-masculin-le-lent-developpement-de-la-contraception-masculine_8147681.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'annonce d'un stérilet pour hommes, en cours de développement par une équipe de recherche lilloise, fait grand bruit. Sera-t-elle la première contraception masculine à être commercialisée en Europe ? Il faudra encore être patient, explique le docteur Alan Charissou",
+      "image": "https://www.franceinfo.fr/pictures/pUERkeESKL8K1C9GnzePKxG3jQA/0x152:2920x1795/432x243/filters:format(jpg):quality(50)/2026/08/17/6a831e5fb7274844296620.jpg",
+      "published_at": "2026-08-18T08:13:26+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "e724093ad46a"
+    },
+    {
+      "title": "«Fjord» de Cristian Mungiu, palme d’or à Cannes : l’ambiguïté jusqu’à la gêne",
+      "url": "https://www.liberation.fr/culture/cinema/fjord-de-cristian-mungiu-palme-dor-a-cannes-lambiguite-jusqua-la-gene-20260818_7SHIQT2KJZA2BLA3V4BFECSTIQ/",
+      "summary": "La palme d’or du Roumain Cristian Mungiu, à travers une affaire controversée de protection de l’enfance en Norvège dans une famille traditionaliste, charge lourdement le «progressisme» et paraît surtout confirmer les fractures qu’elle prétend interroger.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-18T06:12:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "f1995e8e81c5"
+    },
+    {
+      "title": "Sophie Adenot va devenir la première Française à sortir dans l’espace",
+      "url": "https://www.lemonde.fr/sciences/article/2026/08/18/sophie-adenot-va-devenir-la-premiere-francaise-a-sortir-dans-l-espace_6748734_1650684.html",
+      "summary": "Lors de la sortie extravéhiculaire, la Française et Anil Menon démonteront une antenne de l’ISS pour ensuite récupérer celle de rechange et l’installer sur la structure. Sophie Adenot est la deuxième Française à effectuer un vol dans l’espace, après Claudie Haigneré en 1996 et en 2001.",
+      "image": "https://img.lemde.fr/2026/08/18/112/0/2617/1308/644/322/60/0/fb2a1ce_upload-1-zofuwxtnpqxm-000-996x3ke.jpg",
+      "published_at": "2026-08-18T08:09:06+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "15da4682bf47"
+    },
+    {
+      "title": "Sony ne sait toujours pas quand la PS6 sera lancée",
+      "url": "https://www.numerama.com/tech/2312955-sony-ne-sait-toujours-pas-quand-la-ps6-sera-lancee.html",
+      "summary": "À l'occasion d'une interview accordée au Wall Street Journal, Hiroko Totoki, CEO de Sony, a révélé que la crise des composants avait logiquement un impact significatif sur ses activités. Le business PlayStation, particulièrement, est touché.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-18T06:05:57+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "d16d802b13c8"
+    },
+    {
+      "title": "Etudiante en galère d’appartement : «Je regarde depuis juin, je suis sur tous les sites, j’ai candidaté à une vingtaine d’offres»",
+      "url": "https://www.liberation.fr/lifestyle/argent-boulot/etudiante-en-galere-dappartement-je-regarde-depuis-juin-je-suis-sur-tous-les-sites-jai-candidate-a-une-vingtaine-doffres-20260818_MTOI5M2G6BFKLMBNFMJHD7WYUQ/",
+      "summary": "Comment profiter de son été quand on ne sait pas où l’on vivra en septembre à la reprise des cours ? Dans notre deuxième épisode, Rose doit jongler entre recherche d’appartement à Marseille et alternance à Aix-en-Provence.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-18T06:01:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "e4c4e73a3e78"
+    },
+    {
+      "title": "\"Ça servira à financer leurs activités\" : l'allocation de rentrée scolaire versée à partir de mardi",
+      "url": "https://www.franceinfo.fr/economie/menages/allocations-familiales/l-allocation-de-rentree-scolaire-versee-a-partir-de-mardi_8151719.html#xtor=RSS-3-[lestitres]",
+      "summary": "Alors que la rentrée approche, près de trois millions de foyers aux revenus les plus modestes reçoivent cette aide bienvenue mais pas forcément suffisante.",
+      "image": "https://www.franceinfo.fr/pictures/8RtQJFErcPcOz0eFnZtpzpdqo0w/0x192:6000x3567/432x243/filters:format(jpg):quality(50)/2026/08/18/6a83ed99af2bc715636309.jpg",
+      "published_at": "2026-08-18T08:00:54+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "3bbdb8e29bde"
+    },
+    {
+      "title": "Asie du Sud-Est : «La Russie se rêve en grande puissance, mais reste un acteur de second plan dans la région»",
+      "url": "https://www.liberation.fr/international/asie-pacifique/asie-du-sud-est-la-russie-se-reve-en-grande-puissance-mais-reste-un-acteur-de-second-plan-dans-la-region-20260818_IR2WJ33EB5HRBAF36BOLLIEBMY/",
+      "summary": "Vladimir Poutine cultive des liens étroits avec Min Aung Hlaing, chef de la junte birmane devenu président, reçu au Kremlin ce 18 août. Le chercheur Ian Storey décrypte ce rapprochement entre un régime jouant sa survie et une Russie en quête d’influence.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-08-18T06:00:04+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "7a3d3ad77103"
+    },
+    {
+      "title": "\"Votre question dégoûtante et inhumaine\" : la Maison Blanche et Donald Trump s'emportent contre une journaliste de CNN",
+      "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/votre-question-degoutante-et-inhumaine-la-maison-blanche-et-donald-trump-s-emportent-contre-une-journaliste-de-cnn_8151770.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le président des Etats-Unis était invité à réagir à une attaque d'un élu démocrate sur sa proximité supposée avec une assistante.",
+      "image": "https://www.franceinfo.fr/pictures/K_0xBviIiyuQvcAQ2HkqT3E9dv4/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/18/6a83f4a0ef3a4650776616.jpg",
+      "published_at": "2026-08-18T07:59:41+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "2ec5183ea31c"
+    },
+    {
+      "title": "La Fifa licencie le Français Kevin Lamour, numéro trois de l'instance",
+      "url": "https://www.franceinfo.fr/sports/foot/la-fifa-licencie-le-francais-kevin-lamour-numero-trois-de-l-instance_8151785.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le numéro trois français de la Fifa avait désavoué le projet de son patron Gianni Infantino, d'ouverture à des investisseurs privés. Il a été licencié, a appris mardi la direction des sports de Radio France.",
+      "image": "https://www.franceinfo.fr/pictures/7bV9s-Y76-uTlSnW4ipB7y6PFYc/0x0:4794x2696/432x243/filters:format(jpg):quality(50)/2026/08/18/6a83f1302fb3d707272409.jpg",
+      "published_at": "2026-08-18T07:55:47+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "efb265db5d49"
+    },
+    {
+      "title": "Modèles, avancées technologiques… Où en est la production française de drones capables de lutter contre les incendies ?",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/modeles-avancees-technologiques-ou-en-est-la-production-francaise-de-drones-capables-de-lutter-contre-les-incendies_8151296.html#xtor=RSS-3-[lestitres]",
+      "summary": "Une start-up française a lancé un projet de drone géant pouvant transporter plusieurs litres d'eau. Même si l'idée est encore en cours de développement, d'autres modèles existent déjà, parfois plus classiques, mais peu déployés.",
+      "image": "https://www.franceinfo.fr/pictures/7m3kzOMaLhaA6nh7hyMT7-1Vb1w/0x58:4740x2724/432x243/filters:format(jpg):quality(50)/2026/08/17/6a83654322998550858557.jpg",
+      "published_at": "2026-08-18T07:51:14+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "ae27b788bfab"
+    },
+    {
+      "title": "Avec la brigade fluviale de Paris, entre prévention et interventions : «On peut être très bon nageur et se noyer»",
+      "url": "https://www.liberation.fr/societe/avec-la-brigade-fluviale-de-paris-entre-prevention-et-interventions-on-peut-etre-tres-bon-nageur-et-se-noyer-20260818_6NRHPL4JEVCIRJ3W67LQ74EW54/",
+      "summary": "Face à la multiplication des épisodes de chaleurs extrêmes, le nombre de noyades mortelles explose. Des policiers parcourent quotidiennement les eaux franciliennes pour informer, contrôler, ou sauver.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-18T05:50:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "ab494cad5359"
+    },
     {
       "title": "A Marrakech, des touristes victimes d’arnaques à la carte bancaire en série",
       "url": "https://www.liberation.fr/societe/police-justice/a-marrakech-des-touristes-victimes-darnaques-a-la-carte-bancaire-en-serie-20260818_MXCAFBHNGFAW5KDEM2ZCVV6OBE/",
@@ -73,11 +243,11 @@
       "id": "b7400e455850"
     },
     {
-      "title": "De la Gironde au Var, l’exécutif cherche à sortir de la crise des incendies",
+      "title": "Le gouvernement, au chevet des habitants et des élus touchés, cherche à sortir de la crise des incendies",
       "url": "https://www.lemonde.fr/politique/article/2026/08/18/de-la-gironde-au-var-l-executif-cherche-a-sortir-de-la-crise-des-incendies_6748729_823448.html",
-      "summary": "Malgré l’annonce d’un plan d’urgence exceptionnel, Sébastien Lecornu a fait face à la colère des sinistrés dans le Sud-Ouest, lundi 17 août, tandis qu’Emmanuel Macron a tenu à se montrer à l’écoute des élus dans le Sud-Est.",
-      "image": "https://img.lemde.fr/2026/08/17/58/0/8256/4128/644/322/60/0/b05f61b_ftp-1-tkjxdszx0oqa-5861090-01-06.jpg",
-      "published_at": "2026-08-18T06:41:00+02:00",
+      "summary": "Malgré l’annonce d’un plan d’urgence exceptionnel, Sébastien Lecornu a fait face à la colère des sinistrés en Gironde, lundi 17 août. Dans le Var, Emmanuel Macron a tenu à se montrer à l’écoute des élus, mettant l’accent sur l’aspect technique de la lutte contre les flammes, sans évoquer le rôle du changement climatique.",
+      "image": "https://img.lemde.fr/2026/08/17/597/0/4500/2250/644/322/60/0/e5a1ee3_upload-1-f5s2pv37mxn4-mfache-17082026-le-monde-deplacement-lecornu-en-gironde-france-046.jpg",
+      "published_at": "2026-08-18T06:40:55+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "c1c0734d2539"
@@ -115,8 +285,8 @@
     {
       "title": "EN DIRECT, guerre en Ukraine : le maire de Moscou affirme que 620 drones ont été lancés vers la capitale russe dans la nuit",
       "url": "https://www.lemonde.fr/international/live/2026/08/18/en-direct-guerre-en-ukraine-le-maire-de-moscou-affirme-que-620-drones-ont-ete-lances-vers-la-capitale-russe-dans-la-nuit_6746952_3210.html",
-      "summary": "Sergueï Sobianine a fait état, sur Telegram, de 180 drones détruits. Le gouverneur local, Andreï Vorobiov, a dénombré trois blessés dans l’attaque.",
-      "image": "https://img.lemde.fr/2026/08/16/897/0/5379/2689/644/322/60/0/6ef9172_ftp-1-t1mnut26r6gl-5853881-01-06.jpg",
+      "summary": "Sergueï Sobianine a fait état de 197 drones détruits. Le gouverneur local, Andreï Vorobiov, a dénombré trois blessés dans l’attaque.",
+      "image": "https://img.lemde.fr/2026/08/18/666/0/5500/2750/644/322/60/0/e06fa27_ftp-1-snkemkqxutir-215d14620b6c4d21a303a57fc55d1c48-0-ce381c1136864ba69aca86e4f21d002c.jpg",
       "published_at": "2026-08-18T06:26:02+02:00",
       "source": "Le Monde",
       "category": "International",
@@ -131,176 +301,6 @@
       "source": "France Info",
       "category": "Sport",
       "id": "d9399c4d9995"
-    },
-    {
-      "title": "Est-il possible d'organiser un référendum sur l'interdiction des réseaux sociaux aux moins de 15 ans, malgré la censure du Conseil constitutionnel ?",
-      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/est-il-possible-d-organiser-un-referendum-sur-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-malgre-la-censure-du-conseil-constitutionnel_8150999.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les Sages ont censuré, mi-août, la loi interdisant l'accès des plus jeunes aux réseaux sociaux, au nom de \"la liberté d'expression et de communication\". L'ancien Premier ministre Gabriel Attal souhaite que les Français puissent se prononcer sur le sujet via un vote.",
-      "image": "https://www.franceinfo.fr/pictures/LKwMDIrKJN6yHSbEr6W_ganzHPk/0x66:1024x642/432x243/filters:format(jpg):quality(50)/2026/08/17/6a8313c0829e1524681699.jpg",
-      "published_at": "2026-08-18T06:03:29+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "4663a75a78b3"
-    },
-    {
-      "title": "Un grand pas pour Sophie Adenot... Ce que l'on sait de la sortie dans l'espace de l'astronaute française",
-      "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/un-grand-pas-pour-sophie-adenot-ce-que-l-on-sait-de-la-sortie-dans-l-espace-de-l-astronaute-francaise_8145851.html#xtor=RSS-3-[lestitres]",
-      "summary": "Sophie Adenot va sortir de l'ISS et sauter dans le vide spatial. Avec son collègue américain Anil Menon, elle doit réparer le système de communication de la Station spatiale internationale.",
-      "image": "https://www.franceinfo.fr/pictures/UF8gFRlrQi8uw3CLS-JvP07050c/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/13/6a7d7bc579beb122396624.jpg",
-      "published_at": "2026-08-18T06:02:50+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "e84926c8bc5e"
-    },
-    {
-      "title": "Versement de l'allocation de rentrée 2026 : montant, public visé, comment la toucher... L'article à lire pour tout savoir",
-      "url": "https://france3-regions.franceinfo.fr/centre-val-de-loire/loiret/orleans/versement-de-l-allocation-de-rentree-2026-montant-public-vise-comment-la-toucher-l-article-a-lire-pour-tout-savoir-3402772.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'allocation de rentrée scolaire (ARS), coup de pouce aux familles pour financer la rentrée scolaire, est fixée entre 427 et 466 euros par enfant pour cette rentrée 2026. Elle est versée sur les comptes des bénéficiaires ce mardi 18 août.",
-      "image": "https://www.franceinfo.fr/pictures/Erwaf4n7p4f5jhH-281w1JAGSxU/432x243/filters:format(jpg):quality(50)/2026/08/18/6a83d957b294a079286265.jpg",
-      "published_at": "2026-08-18T06:02:32+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "9e5b6bfc0baa"
-    },
-    {
-      "title": "Dans la moitié nord de la France, des paysages desséchés par un été historique",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/avant-apres-dans-la-moitie-nord-de-la-france-des-paysages-desseches-par-un-ete-historique_8151017.html#xtor=RSS-3-[lestitres]",
-      "summary": "La sécheresse exceptionnelle qui sévit dans l'Hexagone se lit sur les champs et la nature. Les images satellite montrent des étendues jaunies par le manque d'eau et les canicules à répétition.",
-      "image": "https://www.franceinfo.fr/pictures/BrQv14MXR2y_L5XWcAJMgHRBfMg/0x0:1600x900/432x243/filters:format(jpg):quality(50)/2026/08/13/6a7dc0f9e2896077812615.jpg",
-      "published_at": "2026-08-18T06:02:25+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "3607022ad7e1"
-    },
-    {
-      "title": "A Riyad, un réseau de transport public créé ex nihilo pour transformer la ville",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/18/a-riyad-un-reseau-de-transport-public-cree-ex-nihilo-pour-transformer-la-ville_6748722_3234.html",
-      "summary": "Pour lutter contre les embouteillages, la capitale de l’Arabie saoudite a construit le plus grand réseau de métro automatique du monde. Un chantier colossal qui a fait appel à tout ce que la planète compte de champions en la matière, dont plusieurs acteurs français du secteur, comme la RATP, Alstom ou Systra.",
-      "image": "https://img.lemde.fr/2026/03/06/722/0/4332/2166/644/322/60/0/e8471bf_upload-1-tnpzbp1pfyib-000-43mn866.jpg",
-      "published_at": "2026-08-18T06:00:15+02:00",
-      "source": "Le Monde Inter",
-      "category": "Sport",
-      "id": "560c3323bb25"
-    },
-    {
-      "title": "Quiz : piochez dans les jeux de cartes",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/quiz-piochez-dans-les-jeux-de-cartes-20260818_QLOEZVG6NVFJTFC3X4CGI6WSLQ/",
-      "summary": "(26/30) Quelle carte tyrannise Alice ? Laquelle rapporte le plus de jetons au nain jaune ? Savez-vous jouer à la scopa ?",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-18T04:00:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "29a65ca63db7"
-    },
-    {
-      "title": "La scène de la rupture dans « Bérénice » jouée par Marie-Sophie Ferdane : « Tous les mots comptent double ou triple. Tous sont essentiels »",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/18/la-scene-de-la-rupture-dans-berenice-jouee-par-marie-sophie-ferdane-tous-les-mots-comptent-double-ou-triple-tous-sont-essentiels_6748720_3451060.html",
-      "summary": "« Anatomie d’un monologue » (2/7). En 2006, la jeune comédienne se glisse dans la peau de la reine de Palestine, sous la direction de Jean-Louis Martinelli, au Théâtre des Amandiers, à Nanterre.",
-      "image": "https://img.lemde.fr/2026/06/10/726/0/2267/1133/644/322/60/0/3091922_upload-1-msrhm1wjyhyf-opale-photo-opale-vic06091201.jpg",
-      "published_at": "2026-08-18T05:59:25+02:00",
-      "source": "Le Monde",
-      "category": "Culture",
-      "id": "0a08b9c267dd"
-    },
-    {
-      "title": "Shakira promet d’aider à la reconstruction de la Colombie, après le séisme",
-      "url": "https://www.lemonde.fr/international/article/2026/08/18/shakira-promet-d-aider-a-la-reconstruction-de-la-colombie-apres-le-seisme_6748719_3210.html",
-      "summary": "La chanteuse colombienne a effectué une visite dans la province du Choco, à l’ouest du pays, une des régions les plus sinistrées, où elle s’est engagée en faveur de la réfection de plusieurs écoles.",
-      "image": "https://img.lemde.fr/2026/08/18/573/0/4647/2323/644/322/60/0/85311b4_ftp-1-ltliriqypmt1-5864235-01-06.jpg",
-      "published_at": "2026-08-18T05:43:11+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "aea3bdb41d8c"
-    },
-    {
-      "title": "Donald Trump maltraite la Corée du Sud et envisage de nouveau un dialogue avec Kim Jong-un",
-      "url": "https://www.lemonde.fr/international/article/2026/08/18/donald-trump-maltraite-la-coree-du-sud-et-envisage-a-nouveau-un-dialogue-avec-pyongyang_6748717_3210.html",
-      "summary": "Le président américain, qui met en avant sa « très bonne relation » avec le dictateur nord-coréen, a demandé à Pete Hegseth, le secrétaire à la défense, de « réduire substantiellement » les exercices militaires conjoints avec Séoul.",
-      "image": "https://img.lemde.fr/2026/08/17/0/0/2216/1108/644/322/60/0/c47f505_ftp-1-acmhyvxglhds-642aae38181f40aba94222dc7d9e329c-0-abc3b1d74dc8423581fbe39dec492738.jpg",
-      "published_at": "2026-08-18T05:34:31+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "faf18af1bac5"
-    },
-    {
-      "title": "Les plages touristiques du Mexique touchées par le fléau des sargasses, que le pays tente de contenir",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/18/les-plages-touristiques-du-mexique-touchees-par-le-fleau-des-sargasses-que-le-pays-tente-de-contenir_6748716_3244.html",
-      "summary": "L’année 2026 présente des volumes sans précédent d’algues brunes sur les plages du Yucatan, quatre fois plus importants que ceux enregistrés à la même époque en 2025. Le pays mise sur la science et la technologie pour mieux prévenir et contrer ces arrivées.",
-      "image": "https://img.lemde.fr/2026/08/14/704/0/6500/3250/644/322/60/0/af28fe9_ftp-1-acy7o3dvm2zv-2026-08-14t211950z-2136414905-rc27tmaqx7w0-rtrmadp-3-mexico-environment-sargassum.JPG",
-      "published_at": "2026-08-18T05:30:09+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "119307b8b6d6"
-    },
-    {
-      "title": "Brésil : Lula salue la découverte de pétrole au large de l’Amazonie, qu’il qualifie de « passeport pour l’avenir »",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/18/bresil-lula-salue-la-decouverte-de-petrole-au-large-de-l-amazonie-qu-il-qualifie-de-passeport-pour-l-avenir_6748616_3244.html",
-      "summary": "La compagnie publique Petrobras, qui a annoncé avoir détecté des indices de la présence d’hydrocarbures en eaux profondes, poursuit ses forages pour mesurer l’ampleur du gisement. Les défenseurs de l’environnement contestent l’exploration.",
-      "image": "https://img.lemde.fr/2026/08/17/183/0/2200/1100/644/322/60/0/ea9d005_ftp-1-snk8c9tqx8mr-5863986-01-06.jpg",
-      "published_at": "2026-08-18T02:11:41+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "6fc26a72cc86"
-    },
-    {
-      "title": "Différend diplomatique sur les îles Kouriles : l’ambassadeur japonais convoqué au ministère des affaires étrangères russe",
-      "url": "https://www.lemonde.fr/international/article/2026/08/18/differend-diplomatique-sur-les-iles-kouriles-l-ambassadeur-japonais-convoque-au-ministere-russe-des-affaires-etrangeres_6748583_3210.html",
-      "summary": "La visite de Vladimir Poutine, jeudi, dans le sud de l’archipel administré par la Russie, mais revendiqué par le Japon, a ravivé les tensions entre les deux pays.",
-      "image": "https://img.lemde.fr/2026/08/13/235/0/5522/2761/644/322/60/0/7dd0396_ftp-1-qjrwwsqjffhm-c59940361ba34676be59f5c5a560835f-0-3d55a386648649de8f3381fcffe6051c.jpg",
-      "published_at": "2026-08-18T01:49:31+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "91443d4deee9"
-    },
-    {
-      "title": "Dérèglement climatique : dans un monde à +1,5 °C, 22 % des plus de 60 ans feront face à une chaleur «incompensable»",
-      "url": "https://www.liberation.fr/environnement/climat/dereglement-climatique-dans-un-monde-a-15-c-22-des-plus-de-60-ans-feront-face-a-une-chaleur-incompensable-20260818_SCHGKFABFFGXFA2LNCHGNQNRJ4/",
-      "summary": "Une étude publiée ce mardi 18 août alerte sur les conséquences du réchauffement sur les personnes âgées. Vers 2030, alors que le seuil le plus ambitieux fixé par l’accord de Paris sera atteint, 290 millions d’entre elles seront concernées par des épisodes dangereux d’augmentation de la température corporelle.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-17T23:30:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "f7419482df1b"
-    },
-    {
-      "title": "Paramount réclame une caution de 1,9 milliard de dollars aux douze Etats américains s’opposant à sa fusion avec Warner Bros",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/18/paramount-exige-une-caution-de-1-9-milliard-de-dollars-aux-12-etats-americains-s-opposant-a-sa-fusion-avec-warner-bros_6748550_3234.html",
-      "summary": "Le rachat par le groupe de David Ellison de son concurrent est contesté en justice par des Etats démocrates, ainsi que par le syndicat des scénaristes. La fusion des deux studios hollywoodiens est suspendue jusqu’au procès, prévu en mars 2027.",
-      "image": "https://img.lemde.fr/2026/02/23/941/0/8192/4096/644/322/60/0/c685ff5_ftp-1-gn9v9yp9veoy-5276645-01-06.jpg",
-      "published_at": "2026-08-18T00:56:43+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "5db8cb075813"
-    },
-    {
-      "title": "Au Texas, Donald Trump suspend un projet de sécurisation de la frontière avec le Mexique dans le parc national Big Bend",
-      "url": "https://www.lemonde.fr/international/article/2026/08/18/au-texas-donald-trump-suspend-un-projet-de-securisation-de-la-frontiere-avec-le-mexique_6748517_3210.html",
-      "summary": "Très critiqué par les habitants et des élus locaux, le plan prévoyait d’installer des barrières, des dispositifs d’éclairage et des technologies de détection au sein de cet espace protégé.",
-      "image": "https://img.lemde.fr/2026/08/17/611/0/7246/3623/644/322/60/0/e2cf56f_ftp-1-uu5dw041xqbi-5863745-01-06.jpg",
-      "published_at": "2026-08-18T00:35:29+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "30912f7f004a"
-    },
-    {
-      "title": "Données susceptibles d'avoir été consultées, risques, mesures de précaution... Ce que contient le courriel envoyé aux victimes du piratage du fisc",
-      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/donnees-susceptibles-d-avoir-ete-consultees-risques-mesures-de-precaution-ce-que-contient-le-courriel-envoye-aux-victimes-du-piratage-du-fisc_8151422.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les envois de ce courriel commencent à partir de lundi soir, pour se poursuivre tout au long de la semaine.",
-      "image": "https://www.franceinfo.fr/pictures/Rt9gZZui5yIvLEKaJ0LH6f7sPcQ/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/17/6a836cb692348458191925.jpg",
-      "published_at": "2026-08-17T23:45:03+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "c9f133fff6c7"
-    },
-    {
-      "title": "Après une attaque de drones contre le bureau du Premier ministre du Kurdistan, l'Irak annonce l'ouverture d'une enquête",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/apres-une-attaque-de-drones-contre-le-bureau-du-premier-ministre-du-kurdistan-l-irak-annonce-l-ouverture-d-une-enquete_8151482.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cette attaque n'a pas fait de victimes. Le Premier ministre de cette région autonome située dans le nord de l'Irak, a mis en cause des \"drones iraniens\".",
-      "image": "https://www.franceinfo.fr/pictures/gG1j9AnSShVdmzcD0nfgTtGXT-c/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/17/6a837e7e86ff7698765308.jpg",
-      "published_at": "2026-08-17T23:36:42+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "c44572430da4"
     }
   ]
 }
