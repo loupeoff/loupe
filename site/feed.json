@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-08-18T04:43:00.784320+00:00",
+  "generated_at": "2026-08-18T05:36:33.020005+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "A Marrakech, des touristes victimes d’arnaques à la carte bancaire en série",
+      "url": "https://www.liberation.fr/societe/police-justice/a-marrakech-des-touristes-victimes-darnaques-a-la-carte-bancaire-en-serie-20260818_MXCAFBHNGFAW5KDEM2ZCVV6OBE/",
+      "summary": "Depuis des années, des centaines de Français souvent âgés se font siphonner leur compte à l’issue de leur séjour au Maroc, selon un mode opératoire désormais bien huilé.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-18T05:29:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "5cc5df14627a"
+    },
+    {
+      "title": "Sortie dans l'espace de Sophie Adenot : suivez les premiers pas d'une astronaute française hors de la Station spatiale internationale",
+      "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/direct-sortie-dans-l-espace-de-sophie-adenot-suivez-les-premiers-pas-d-une-astronaute-francaise-hors-de-la-station-spatiale-internationale_8147258.html#xtor=RSS-3-[lestitres]",
+      "summary": "A bord de la Station spatiale internationale depuis février, Sophie Adenot va réaliser sa première sortie extravéhiculaire, mardi après-midi. Elle doit, avec son collègue américain Anil Menon, remplacer une antenne de communication avec la Terre.",
+      "image": "https://www.franceinfo.fr/pictures/qMQN7TShV0m7r0PfeVEpBNw4uDo/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7ed3f49b5b5728889884.jpg",
+      "published_at": "2026-08-18T07:19:00+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "030e23475338"
+    },
+    {
+      "title": "Séoul rassure la Corée du Nord sur ses exercices militaires avec Washington",
+      "url": "https://www.franceinfo.fr/monde/coree-du-sud/seoul-rassure-la-coree-du-nord-sur-ses-exercices-militaires-avec-washington_8151749.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le président sud-coréen affirme que l'objectif n'est pas d'attaquer Pyongyang. Lundi, Donald Trump a déjà annoncé qu'il réduisait la participation américaine à ces manœuvres militaires annuelles.",
+      "image": "https://www.franceinfo.fr/pictures/et02FK0lQCeFdieCgtv30GSblGY/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/18/6a83ea525d096170500214.jpg",
+      "published_at": "2026-08-18T07:17:25+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "590211c4e81f"
+    },
+    {
+      "title": "Avec «Ils ne sont pas d’extrême droite, ils font l’extrême droite», le journaliste Sylvain Bourmeau se pose en redresseur de torts des médias",
+      "url": "https://www.liberation.fr/idees-et-debats/avec-ils-ne-sont-pas-dextreme-droite-ils-font-lextreme-droite-le-journaliste-sylvain-bourmeau-se-pose-en-redresseur-de-torts-des-medias-20260818_TSVWB7OF4VFYRHK4O43OEOT3E4/",
+      "summary": "Dans un essai, le directeur de la revue «AOC» entend mettre au jour les «biais journalistiques» qui favorisent la montée de l’extrême droite. Dans son viseur : le journal «le Monde» et le média de géopolitique «le Grand Continent». Un brin excessif et donneur de leçon.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-18T05:12:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "60e6e1733e45"
+    },
+    {
+      "title": "Avec J. Edgar Hoover au FBI, les Kennedy sous faute surveillance",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/avec-j-edgar-hoover-au-fbi-les-kennedy-sous-faute-surveillance-20260818_FJKJXGAH4BFZPFRMOA6VYJQNGA/",
+      "summary": "Quand JFK entre à la Maison Blanche, en 1961, l’inamovible et omnipotent directeur du Federal Bureau of Investigation a déjà des dossiers sur lui. Mais c’est avec Bobby, le frère du Président, que le bras de fer sera sans pitié.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-18T05:00:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "d05ce59e830f"
+    },
+    {
+      "title": "«C’est une usure psychologique» : un an après l’incendie dans le nord de Marseille, les sinistrés se sentent délaissés",
+      "url": "https://www.liberation.fr/societe/logement/cest-une-usure-psychologique-un-an-apres-lincendie-dans-le-nord-de-marseille-les-sinistres-se-sentent-delaisses-20260818_VCIA6YWV7FGCNMHOYSBY46NEJI/",
+      "summary": "Des habitants du quartier de l’Estaque, touchés par un feu ravageur il y a un an, n’ont toujours pas pu retrouver leur maison et dénoncent l’abandon des pouvoirs publics et la lenteur des assurances.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-18T04:58:00+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "b18ab728f2c9"
+    },
+    {
+      "title": "Plus aucun département n'est en vigilance orange \"canicule\", les températures en \"nette baisse\" à partir de jeudi, selon Météo-France",
+      "url": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/plus-aucun-departement-n-est-en-vigilance-orange-canicule-les-temperatures-en-nette-baisse-a-partir-de-jeudi-selon-meteo-france_8151674.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le prévisionniste annonce mardi la \"fin de l'épisode caniculaire en France\", précisant que dans le quart sud-est du pays, les \"conditions caniculaires\" auront duré \"environ trois semaines\".",
+      "image": "https://www.franceinfo.fr/pictures/RwA5dGCOASmLr-YKayS3Jc0amT0/0x105:1024x681/432x243/filters:format(jpg):quality(50)/2026/08/18/6a83dffe4565c506638530.jpg",
+      "published_at": "2026-08-18T06:43:45+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "b7400e455850"
+    },
     {
       "title": "De la Gironde au Var, l’exécutif cherche à sortir de la crise des incendies",
       "url": "https://www.lemonde.fr/politique/article/2026/08/18/de-la-gironde-au-var-l-executif-cherche-a-sortir-de-la-crise-des-incendies_6748729_823448.html",
@@ -23,16 +93,6 @@
       "id": "bed1020cd675"
     },
     {
-      "title": "Emmanuel Macron effectue sa dernière rentrée politique comme président de la République en appelant à ne pas céder au « défaitisme »",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/18/emmanuel-macron-effectue-sa-derniere-rentree-politique-comme-president-de-la-republique-en-appelant-a-ne-pas-ceder-au-defaitisme_6748727_823448.html",
-      "summary": "Le chef de l’Etat a participé, lundi 17 août, comme chaque année, à la cérémonie commémorant la libération de Bormes-les-Mimosas, dans un département du Var durement marqué par les incendies.",
-      "image": "https://img.lemde.fr/2026/08/17/572/0/3430/1715/644/322/60/0/2548565_ftp-1-2ctxnoxle91o-5863178-01-06.jpg",
-      "published_at": "2026-08-18T06:30:10+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "6b776f54a624"
-    },
-    {
       "title": "Vincent Lemire, historien : « En Cisjordanie, c’est bien l’inaction des gouvernements occidentaux qui permet à la violence de se déchaîner »",
       "url": "https://www.lemonde.fr/idees/article/2026/08/18/vincent-lemire-historien-en-cisjordanie-c-est-bien-l-inaction-des-gouvernements-occidentaux-qui-permet-a-la-violence-de-se-dechainer_6748726_3232.html",
       "summary": "Dans les territoires occupés, ces deux derniers mois, les scènes de pillage et de meurtre se sont multipliées. A l’approche des élections législatives en Israël, fin octobre, et en Palestine, fin novembre, l’historien appelle, dans une tribune au « Monde », la France à prendre des sanctions.",
@@ -43,21 +103,21 @@
       "id": "b4c4ca459d10"
     },
     {
-      "title": "Plus aucun département n'est en vigilance orange \"canicule\", les températures en \"nette baisse\" à partir de jeudi, selon Météo-France",
-      "url": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/plus-aucun-departement-n-est-en-vigilance-orange-canicule-les-temperatures-en-nette-baisse-a-partir-de-jeudi-selon-meteo-france_8151674.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le prévisionniste annonce mardi la \"fin de l'épisode caniculaire en France\", précisant que dans le quart sud-est du pays, les \"conditions caniculaires\" auront duré \"environ trois semaines\".",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-18T06:27:17+02:00",
-      "source": "France Info",
+      "title": "Emmanuel Macron effectue sa dernière rentrée politique comme président de la République en appelant à ne pas céder au « défaitisme »",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/18/emmanuel-macron-effectue-sa-derniere-rentree-politique-comme-president-de-la-republique-en-appelant-a-ne-pas-ceder-au-defaitisme_6748727_823448.html",
+      "summary": "Le chef de l’Etat a participé, lundi 17 août, comme chaque année, à la cérémonie commémorant la libération de Bormes-les-Mimosas, dans un département du Var durement marqué par les incendies.",
+      "image": "https://img.lemde.fr/2026/08/17/572/0/3430/1715/644/322/60/0/2548565_ftp-1-2ctxnoxle91o-5863178-01-06.jpg",
+      "published_at": "2026-08-18T06:30:05+02:00",
+      "source": "Le Monde Politique",
       "category": "Politique",
-      "id": "b7400e455850"
+      "id": "6b776f54a624"
     },
     {
       "title": "EN DIRECT, guerre en Ukraine : le maire de Moscou affirme que 620 drones ont été lancés vers la capitale russe dans la nuit",
       "url": "https://www.lemonde.fr/international/live/2026/08/18/en-direct-guerre-en-ukraine-le-maire-de-moscou-affirme-que-620-drones-ont-ete-lances-vers-la-capitale-russe-dans-la-nuit_6746952_3210.html",
       "summary": "Sergueï Sobianine a fait état, sur Telegram, de 180 drones détruits. Le gouverneur local, Andreï Vorobiov, a dénombré trois blessés dans l’attaque.",
       "image": "https://img.lemde.fr/2026/08/16/897/0/5379/2689/644/322/60/0/6ef9172_ftp-1-t1mnut26r6gl-5853881-01-06.jpg",
-      "published_at": "2026-08-18T06:26:06+02:00",
+      "published_at": "2026-08-18T06:26:02+02:00",
       "source": "Le Monde",
       "category": "International",
       "id": "46a747a8ce8d"
@@ -71,16 +131,6 @@
       "source": "France Info",
       "category": "Sport",
       "id": "d9399c4d9995"
-    },
-    {
-      "title": "Sortie dans l'espace de Sophie Adenot : suivez les premiers pas d'une astronaute française hors de la Station spatiale internationale",
-      "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/direct-sortie-dans-l-espace-de-sophie-adenot-suivez-les-premiers-pas-d-une-astronaute-francaise-hors-de-la-station-spatiale-internationale_8147258.html#xtor=RSS-3-[lestitres]",
-      "summary": "A bord de la Station spatiale internationale depuis février, Sophie Adenot va réaliser sa première sortie extravéhiculaire, mardi après-midi. Elle doit, avec son collègue américain Anil Menon, remplacer une antenne de communication avec la Terre.",
-      "image": "https://www.franceinfo.fr/pictures/qMQN7TShV0m7r0PfeVEpBNw4uDo/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7ed3f49b5b5728889884.jpg",
-      "published_at": "2026-08-18T06:04:17+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "030e23475338"
     },
     {
       "title": "Est-il possible d'organiser un référendum sur l'interdiction des réseaux sociaux aux moins de 15 ans, malgré la censure du Conseil constitutionnel ?",
@@ -101,6 +151,16 @@
       "source": "France Info",
       "category": "Politique",
       "id": "e84926c8bc5e"
+    },
+    {
+      "title": "Versement de l'allocation de rentrée 2026 : montant, public visé, comment la toucher... L'article à lire pour tout savoir",
+      "url": "https://france3-regions.franceinfo.fr/centre-val-de-loire/loiret/orleans/versement-de-l-allocation-de-rentree-2026-montant-public-vise-comment-la-toucher-l-article-a-lire-pour-tout-savoir-3402772.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'allocation de rentrée scolaire (ARS), coup de pouce aux familles pour financer la rentrée scolaire, est fixée entre 427 et 466 euros par enfant pour cette rentrée 2026. Elle est versée sur les comptes des bénéficiaires ce mardi 18 août.",
+      "image": "https://www.franceinfo.fr/pictures/Erwaf4n7p4f5jhH-281w1JAGSxU/432x243/filters:format(jpg):quality(50)/2026/08/18/6a83d957b294a079286265.jpg",
+      "published_at": "2026-08-18T06:02:32+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "9e5b6bfc0baa"
     },
     {
       "title": "Dans la moitié nord de la France, des paysages desséchés par un été historique",
@@ -153,11 +213,11 @@
       "id": "aea3bdb41d8c"
     },
     {
-      "title": "Donald Trump maltraite la Corée du Sud et envisage à nouveau un dialogue avec Pyongyang",
+      "title": "Donald Trump maltraite la Corée du Sud et envisage de nouveau un dialogue avec Kim Jong-un",
       "url": "https://www.lemonde.fr/international/article/2026/08/18/donald-trump-maltraite-la-coree-du-sud-et-envisage-a-nouveau-un-dialogue-avec-pyongyang_6748717_3210.html",
-      "summary": "Le président américain, qui met en avant sa « très bonne relation » avec le dictateur Kim Jong-un, a demandé à Pete Hegseth, le secrétaire à la défense, de « réduire substantiellement » les exercices militaires conjoints avec Séoul.",
+      "summary": "Le président américain, qui met en avant sa « très bonne relation » avec le dictateur nord-coréen, a demandé à Pete Hegseth, le secrétaire à la défense, de « réduire substantiellement » les exercices militaires conjoints avec Séoul.",
       "image": "https://img.lemde.fr/2026/08/17/0/0/2216/1108/644/322/60/0/c47f505_ftp-1-acmhyvxglhds-642aae38181f40aba94222dc7d9e329c-0-abc3b1d74dc8423581fbe39dec492738.jpg",
-      "published_at": "2026-08-18T05:34:34+02:00",
+      "published_at": "2026-08-18T05:34:31+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "faf18af1bac5"
@@ -183,12 +243,12 @@
       "id": "6fc26a72cc86"
     },
     {
-      "title": "Différend diplomatique sur les îles Kouriles : l’ambassadeur japonais convoqué au ministère russe des affaires étrangères",
+      "title": "Différend diplomatique sur les îles Kouriles : l’ambassadeur japonais convoqué au ministère des affaires étrangères russe",
       "url": "https://www.lemonde.fr/international/article/2026/08/18/differend-diplomatique-sur-les-iles-kouriles-l-ambassadeur-japonais-convoque-au-ministere-russe-des-affaires-etrangeres_6748583_3210.html",
       "summary": "La visite de Vladimir Poutine, jeudi, dans le sud de l’archipel administré par la Russie, mais revendiqué par le Japon, a ravivé les tensions entre les deux pays.",
       "image": "https://img.lemde.fr/2026/08/13/235/0/5522/2761/644/322/60/0/7dd0396_ftp-1-qjrwwsqjffhm-c59940361ba34676be59f5c5a560835f-0-3d55a386648649de8f3381fcffe6051c.jpg",
       "published_at": "2026-08-18T01:49:31+02:00",
-      "source": "Le Monde",
+      "source": "Le Monde Inter",
       "category": "International",
       "id": "91443d4deee9"
     },
@@ -218,7 +278,7 @@
       "summary": "Très critiqué par les habitants et des élus locaux, le plan prévoyait d’installer des barrières, des dispositifs d’éclairage et des technologies de détection au sein de cet espace protégé.",
       "image": "https://img.lemde.fr/2026/08/17/611/0/7246/3623/644/322/60/0/e2cf56f_ftp-1-uu5dw041xqbi-5863745-01-06.jpg",
       "published_at": "2026-08-18T00:35:29+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "International",
       "id": "30912f7f004a"
     },
@@ -241,66 +301,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "c44572430da4"
-    },
-    {
-      "title": "Trois personnes mises en examen dans l'Oise après la mort d'un quadragénaire des suites de ses blessures",
-      "url": "https://www.franceinfo.fr/faits-divers/trois-personnes-mises-en-examen-dans-l-oise-apres-la-mort-d-un-quadragenaire-des-suites-de-ses-blessures_8151473.html#xtor=RSS-3-[lestitres]",
-      "summary": "Deux personnes ont été mises en examen pour \"meurtre commis par personne agissant en état d'ivresse manifeste\", une autre pour \"complicité de meurtre commis par personne agissant en état d'ivresse manifeste\".",
-      "image": "https://www.franceinfo.fr/pictures/sckiqVfwosOXwNB0CySmgymDekE/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/17/6a837a2033f9c225217281.jpg",
-      "published_at": "2026-08-17T23:19:33+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "7f540a261c18"
-    },
-    {
-      "title": "Un voilier à la dérive au large de l'île d'Yeu, des opérations de recherches en cours",
-      "url": "https://www.franceinfo.fr/faits-divers/un-voilier-a-la-derive-au-large-de-l-ile-d-yeu-des-operations-de-recherches-en-cours_8151470.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'alerte est venue d'un passager d'un ferry qui a remarqué l'embarcation en mauvaise posture, lundi. Le nombre de ses occupants est encore inconnu.",
-      "image": "https://www.franceinfo.fr/pictures/sObznrOK_OQsbx3wYI81dUGDZhw/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/17/6a83773045c26232575980.jpg",
-      "published_at": "2026-08-17T23:10:15+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "0b64c0c6762e"
-    },
-    {
-      "title": "L'émissaire américain Jared Kushner dit espérer un début du désarmement du Hamas à Gaza d'ici \"30 jours\"",
-      "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/l-emissaire-americain-jared-kushner-dit-esperer-un-debut-du-desarmement-du-hamas-a-gaza-d-ici-30-jours_8151446.html#xtor=RSS-3-[lestitres]",
-      "summary": "Jared Kushner, également gendre de Donald Trump, a rencontré dimanche des membres de la direction du Hamas, avant une entrevue lundi avec Benyamin Nétanyahou.",
-      "image": "https://www.franceinfo.fr/pictures/sDgG6YX-c6Yn-Y_K4qkPeuTCWj0/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/17/6a83715bea577351779308.jpg",
-      "published_at": "2026-08-17T22:57:23+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "c4eb4ea1de8d"
-    },
-    {
-      "title": "Pologne : des fouilles archéologiques exceptionnelles font ressurgir le ghetto de Varsovie",
-      "url": "https://www.franceinfo.fr/monde/europe/pologne-des-fouilles-archeologiques-exceptionnelles-font-ressurgir-le-ghetto-de-varsovie_8151443.html#xtor=RSS-3-[lestitres]",
-      "summary": "À Varsovie, des fouilles archéologiques ont permis de retrouver des pans du ghetto, ainsi que près de 3 000 objets du quotidien. Un témoignage rare de la vie de centaines de milliers de Juifs enfermés par les nazis entre 1940 et 1943.",
-      "image": "https://www.franceinfo.fr/pictures/SIviE8yaq5KDTZagqHd6LGCPtGk/0x17:834x487/432x243/filters:format(jpg):quality(50)/2026/08/17/6a836d6ad5f10632300684.jpg",
-      "published_at": "2026-08-17T22:24:21+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "41b4ed2954fe"
-    },
-    {
-      "title": "La FIFA licencie le Français Kevin Lamour, numéro trois de l’instance, qui s’est opposé à Gianni Infantino",
-      "url": "https://www.lemonde.fr/sport/article/2026/08/17/la-fifa-licencie-le-francais-kevin-lamour-numero-trois-de-l-instance-qui-s-est-oppose-a-gianni-infantino_6748483_3242.html",
-      "summary": "Comme l’a appris « Le Monde », la Fédération internationale de football a mis fin, lundi, au contrat de son directeur des opérations, auteur d’un communiqué cinglant à la fin de juillet contre son patron, Gianni Infantino.",
-      "image": "https://img.lemde.fr/2026/07/31/46/303/1697/849/644/322/60/0/6ea9ec8_ftp-1-q20xdci9vygy-224cd6ac36ef45b5830b95b8ddaf1337-0-9bbd491d76fb42a9b90571f6351eedba.jpg",
-      "published_at": "2026-08-17T22:05:51+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "e9248990b973"
-    },
-    {
-      "title": "États-Unis : des gants électriques bientôt utilisés par les agents de l'immigration",
-      "url": "https://www.franceinfo.fr/monde/usa/etats-unis-des-gants-electriques-bientot-utilises-par-les-agents-de-l-immigration_8151434.html#xtor=RSS-3-[lestitres]",
-      "summary": "Aux États-Unis, les agents de l’immigration pourraient bientôt être équipés de gants électriques capables d’immobiliser une personne. Une arme qui inquiète face aux risques de dérives, alors que ICE est déjà accusée d’arrestations violentes.",
-      "image": "https://www.franceinfo.fr/pictures/eUnINw6AHSUP501dhWiEcwgjjP8/0x23:813x481/432x243/filters:format(jpg):quality(50)/2026/08/17/6a8366a532fba912770070.jpg",
-      "published_at": "2026-08-17T21:55:21+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "3707dbef5ce5"
     }
   ]
 }
