@@ -1,16 +1,186 @@
 {
-  "generated_at": "2026-08-18T15:38:57.326417+00:00",
+  "generated_at": "2026-08-18T16:39:40.296208+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Firefox déploie son IA « Smart Window », mais Mozilla prend d’infinies précautions pour ne fâcher personne",
+      "url": "https://www.numerama.com/tech/2313559-firefox-deploie-son-ia-smart-window-mais-mozilla-prend-dinfinies-precautions-pour-ne-facher-personne.html",
+      "summary": "Neuf mois après un violent tollé communautaire lié à l'intégration de l'intelligence artificielle dans son navigateur, Mozilla officialise « Smart Window ». Mais cette fois-ci, la fondation a retenu la leçon : le mot d'ordre absolu est le contrôle utilisateur.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-18T16:38:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "29a6eb1f0435"
+    },
+    {
+      "title": "Sécheresse en Bretagne : «L’irrigation systématique est une maladaptation au changement climatique»",
+      "url": "https://www.liberation.fr/societe/secheresse-en-bretagne-lirrigation-systematique-est-une-maladaptation-au-changement-climatique-20260818_VJPBGUW2SFAVNDQEMETZXTDZNU/",
+      "summary": "François Lecompte, chercheur à l’Institut national de recherche pour l’agriculture, l’alimentation et l’environnement, analyse les contours du maraîchage breton de demain, entre adaptation des cycles, gestion des parcelles et génétique.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-18T16:34:47+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "5206445964a5"
+    },
+    {
+      "title": "Apple annonce la fin de deux ans de bras de fer avec l’Europe sur l’App Store",
+      "url": "https://www.numerama.com/tech/2313515-apple-annonce-la-fin-de-deux-ans-de-bras-de-fer-avec-leurope-sur-lapp-store.html",
+      "summary": "Après deux ans de bras de fer, Apple affirme avoir trouvé un compromis avec la Commission européenne sur l’avenir de l’App Store. La taxe par installation disparaît et les paiements alternatifs deviennent plus accessibles, mais l’entreprise continuera de prélever une commission sur les applications distribuées ailleurs.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-18T16:26:54+00:00",
+      "source": "Numerama",
+      "category": "Économie",
+      "id": "ca30058734f6"
+    },
+    {
+      "title": "Le repositionnement géostratégique de la Corée du Nord modifie les rapports de force en Asie du Nord-Est",
+      "url": "https://www.lemonde.fr/international/article/2026/08/18/le-repositionnement-geostrategique-de-la-coree-du-nord-modifie-les-rapports-de-force-en-asie-du-nord-est_6749075_3210.html",
+      "summary": "Alors que le président américain a tendu la main, lundi, au dirigeant nord-coréen, Kim Jong-un, la position de la dictature nord-coréenne est plus solide que lors du premier mandat de Donald Trump, renforcée par ses avancées nucléaires et son rapprochement avec la Russie.",
+      "image": "https://img.lemde.fr/2026/06/04/370/0/4439/2219/644/322/60/0/3b76bf5_ftp-1-jqyyv8stje6a-5218655-01-06.jpg",
+      "published_at": "2026-08-18T18:18:51+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "b234921593db"
+    },
+    {
+      "title": "Mais pourquoi Dominique de Villepin nous parle-t-il de ses goûts musicaux très sûrs sur Instagram ?",
+      "url": "https://www.liberation.fr/culture/musique/mais-pourquoi-dominique-de-villepin-nous-parle-t-il-de-ses-gouts-musicaux-tres-surs-sur-instagram-20260818_2MSPK7TRSFEUHHX4HC33I6JLDE/",
+      "summary": "L’ancien Premier ministre livre sur le réseau social ses sélections musicales. Aurait-il les choix de «Libé» en antisèche ? Profitons-en pour interroger le quasi-candidat à la présidentielle sur ses vues quant au futur de l’industrie musicale. Ça nous intéresse.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-18T16:16:50+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "2d089e76ab9c"
+    },
     {
       "title": "Mort accidentelle du producteur d’«OSS 117» Nicolas Altmayer et de Mathilde Favier, responsable chez Dior",
       "url": "https://www.liberation.fr/culture/cinema/mort-accidentelle-du-producteur-doss-117-nicolas-altmayer-et-de-mathilde-favier-responsable-chez-dior-20260818_5VHE5FVZUZHYZAOCALQTVMPRXI/",
       "summary": "Le couple a été tué lundi sur une route départementale des Deux-Sèvres. Le parquet de Niort a ouvert a ouvert une enquête pour «homicide involontaire par conducteur», afin de déterminer les circonstances exactes des faits.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-18T15:36:03+00:00",
+      "published_at": "2026-08-18T16:01:03+00:00",
       "source": "Libération",
       "category": "Sport",
       "id": "7a498b8f24de"
+    },
+    {
+      "title": "Shakira lance un appel à la solidarité après le séisme en Colombie",
+      "url": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/shakira-lance-un-appel-a-la-solidarite-apres-le-seisme-en-colombie_8152241.html#xtor=RSS-3-[lestitres]",
+      "summary": "La chanteuse colombienne Shakira s'est rendue mardi 18 août dans une école endommagée par le séisme qui a frappé la région du Chocó il y a une semaine, en Colombie. L'artiste appelle à un soutien international accru en faveur des communautés sinistrées. #franceinfo",
+      "image": "https://www.franceinfo.fr/pictures/rcTUYVsbGeXb0Zcxe424WryG0wE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/18/6a845ce0bb91e020943409.png",
+      "published_at": "2026-08-18T18:00:01+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "99874f1fca9a"
+    },
+    {
+      "title": "\"Mes enfants étaient terrifiés\" : après leur expulsion devant le Samu social, les familles sans abri se réfugient ailleurs dans Paris",
+      "url": "https://www.franceinfo.fr/economie/greve/temoignages-mes-enfants-etaient-terrifies-on-a-pris-la-fuite-apres-leur-expulsion-devant-le-samu-social-les-familles-sans-abri-se-refugient-ailleurs-dans-paris_8152133.html#xtor=RSS-3-[lestitres]",
+      "summary": "Après l'intervention policière devant le siège du Samu social, jeudi 13 août, les 250 personnes restantes sans alternatives d'hébergement ont trouvé refuge au nouveau camp de fortune installé par Utopia 56. La mobilisation se poursuit désormais sur le parvis de la mairie du IIIe arrondissement de Paris.",
+      "image": "https://www.franceinfo.fr/pictures/_xML4s6PUO2w27dZETOVi24uWLY/0x292:1001x855/432x243/filters:format(jpg):quality(50)/2026/08/18/6a8480bd37ce9555812097.jpg",
+      "published_at": "2026-08-18T17:59:36+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "351f76afe24e"
+    },
+    {
+      "title": "La Syrie et les Etats-Unis accusent Israël d'une attaque contre un aéroport militaire syrien",
+      "url": "https://www.franceinfo.fr/monde/revolte-en-syrie/la-syrie-et-les-etats-unis-accusent-israel-d-une-attaque-contre-un-aeroport-militaire-syrien_8152460.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les autorités israéliennes n'ont pas réagi dans l'immédiat, mardi, à ces mises en cause américaines et syriennes.",
+      "image": "https://www.franceinfo.fr/pictures/dJGdlQtNiAUr66BTRb5iZg1LTic/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/18/6a8480e7a1ab3993192068.jpg",
+      "published_at": "2026-08-18T17:59:07+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "78cd37c02014"
+    },
+    {
+      "title": "«Je voulais créer un espace de compassion» : rencontre avec Tim Berners-Lee, l’inventeur du Web",
+      "url": "https://www.liberation.fr/economie/economie-numerique/je-voulais-creer-un-espace-de-compassion-rencontre-avec-tim-berners-lee-linventeur-du-web-20260809_U4JF624SCBCETCJZTHXFAYUURQ/",
+      "summary": "L’informaticien qui a rendu Internet gratuit et accessible à tous dans les années 90 en est aujourd’hui l’un de ses plus sévères critiques. Face aux perturbations de l’IA, le septuagénaire, incorrigible optimiste, veut croire que «rien n’est joué».",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-18T15:57:34+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "933137650b95"
+    },
+    {
+      "title": "John Crowley, dans un autre des mondes",
+      "url": "https://www.liberation.fr/culture/livres/john-crowley-dans-un-autre-des-mondes-20260818_QKTYEXCH5NDUBGVDLVLCAY7QXM/",
+      "summary": "L’auteur américain des fabuleux «Kra» et de «Petit, grand ou le Parlement des fées» est mort le 8 août à 83 ans.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-18T15:53:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "5a91de3176ec"
+    },
+    {
+      "title": "« ChatGPT pour ados » et sa détection d’âge automatique arrivent en France",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/18/chatgpt-pour-ados-qui-s-appuie-sur-une-detection-d-age-automatique-arrive-en-france_6749073_4408996.html",
+      "summary": "OpenAI lance un nouveau mode à l’intention des adolescents, destiné à raisonner leur usage et à les aider au cours de leurs études. Le robot conversationnel pourra basculer automatiquement vers ce mode si l’utilisateur mineur est détecté comme tel.",
+      "image": "https://img.lemde.fr/2025/01/10/252/0/3008/1504/644/322/60/0/5773c51_sirius-fs-upload-1-uefqhl3p74d3-1736524780345-papier-298.jpg",
+      "published_at": "2026-08-18T17:47:49+02:00",
+      "source": "Le Monde",
+      "category": "Tech",
+      "id": "d60bbe615991"
+    },
+    {
+      "title": "Fuite de données : après le fisc, le groupe ZeroBytes revendique une attaque visant des milliers d’élèves de l’Education nationale",
+      "url": "https://www.liberation.fr/checknews/fuite-de-donnees-apres-le-fisc-le-groupe-zerobytes-revendique-une-attaque-visant-des-milliers-deleves-de-leducation-nationale-20260818_NN6A4GDNBJBLPDOUNJ27X6PH5M/",
+      "summary": "Quatre jours après la révélation de leur hacking de la DGFIP, le duo de cybercriminels affirme avoir infiltré le ministère. «CheckNews» a pu consulter un échantillon de ces fichiers sensibles, qui regroupent notamment les données personnelles d’1,2 million d’étudiants.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-18T15:46:29+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "593ef2b68769"
+    },
+    {
+      "title": "Ce petit robot change d’humeur pendant qu’il recharge votre MacBook (et il tombe à 25 €)",
+      "url": "https://www.numerama.com/tech/2313403-ce-petit-robot-change-dhumeur-pendant-quil-recharge-votre-macbook-et-il-tombe-a-25-e.html",
+      "summary": "[Deal du jour] Il affiche une nouvelle expression à mesure que la batterie se remplit, mais ce n’est pas qu’un gadget de bureau. Avec ses trois ports et ses 65 W, le chargeur Ugreen Uno peut aussi alimenter un MacBook Air. Il est actuellement affiché à 24,99 € chez PcComponentes.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-18T15:43:04+00:00",
+      "source": "Numerama",
+      "category": "Sport",
+      "id": "3340bd579fd1"
+    },
+    {
+      "title": "Faye Dunaway recevra l'Icon Award au Festival du cinéma américain de Deauville en septembre",
+      "url": "https://www.franceinfo.fr/culture/cinema/festival-de-deauville/faye-dunaway-recevra-l-icon-award-au-festival-du-cinema-americain-de-deauville-en-septembre_8152343.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'actrice de \"Bonnie & Clide\" et de \"Network\" sera prochainement à l'affiche de \"Prima\" d'Alessandro et Luca Morelli.",
+      "image": "https://www.franceinfo.fr/pictures/G1XnEqs63SIsQ1By_0n6yyfdmdk/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/18/6a847a66b83e3423258792.jpg",
+      "published_at": "2026-08-18T17:40:37+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "143ceffc3586"
+    },
+    {
+      "title": "Sortie dans l'espace de Sophie Adenot : l'astronaute française et son collègue désinstallent l'antenne défectueuse de l'ISS avant de la remplacer",
+      "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/direct-sortie-dans-l-espace-de-sophie-adenot-suivez-les-premiers-pas-d-une-astronaute-francaise-hors-de-la-station-spatiale-internationale_8147258.html#xtor=RSS-3-[lestitres]",
+      "summary": "A bord de la Station spatiale internationale depuis février, Sophie Adenot réalise sa première sortie extravéhiculaire, mardi après-midi. Elle doit, avec son collègue américain Anil Menon, remplacer une antenne de communication avec la Terre.",
+      "image": "https://www.franceinfo.fr/pictures/VlBiWsPGbwmv1QLTZkhylOB84p8/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/18/6a8453ecf25ba452740151.jpg",
+      "published_at": "2026-08-18T17:40:22+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "030e23475338"
+    },
+    {
+      "title": "Publicités illégales de thérapies cellulaires : «Leurs promoteurs jouent sur la méconnaissance pour vendre du rêve»",
+      "url": "https://www.liberation.fr/societe/sante/publicites-illegales-de-therapies-cellulaires-leurs-promoteurs-jouent-sur-la-meconnaissance-pour-vendre-du-reve-20260818_J4WMIIDIUZGQ5ED6ESNISBLBJY/",
+      "summary": "L’Agence française du médicament a récemment sanctionné deux sociétés turques vantant les effets prétendus de leurs traitements – non autorisés – contre des maladies graves. Le directeur général adjoint de l’institution explique cette décision face à un phénomène dangereux qui prend de l’ampleur.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-18T15:37:34+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "417e7b9f5493"
+    },
+    {
+      "title": "Cécile Duflot : pour 2027, «je suis tiraillée entre la flemme et le sens du devoir»",
+      "url": "https://www.liberation.fr/politique/elections/cecile-duflot-pour-2027-je-suis-tiraillee-entre-la-flemme-et-le-sens-du-devoir-20260818_VTE3L65XZNDIZEKHIOUD5UGMBY/",
+      "summary": "Certaine que «l’histoire est loin d’être écrite», l’ex-ministre désormais à la tête d’Oxfam France veut participer, à sa manière, à la présidentielle en créant un «lieu de rassemblement» baptisé Points communs. Elle appelle la gauche à ne pas tomber dans le piège de la personnalisation et souhaite qu’une «équipe» soit rapidement mise sur pied.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-18T15:37:19+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "1825d50883e4"
     },
     {
       "title": "Le Dernier Refuge est le film du moment sur Netflix, mais ne perdez pas votre temps avec",
@@ -33,14 +203,34 @@
       "id": "3609384ef26c"
     },
     {
+      "title": "Loi d’urgence agricole : comment le Conseil constitutionnel donne le dernier mot à l’agence de sécurité sanitaire",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/18/loi-d-urgence-agricole-comment-le-conseil-constitutionnel-donne-le-dernier-mot-a-l-anses_6749070_3244.html",
+      "summary": "Même s’il a validé l’essentiel du texte qui contient des dispositions néfastes pour l’environnement et la préservation des zones humides, l’institution de la rue de Montpensier a émis des réserves qui placent l’Anses en position d’arbitre concernant la réautorisation de deux pesticides.",
+      "image": "https://img.lemde.fr/2026/08/13/560/0/6720/3360/644/322/60/0/d881205_upload-1-m9qqlxb0b70q-vn20260812-agriculteur-chaleur-048.jpg",
+      "published_at": "2026-08-18T17:30:02+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "b4c3267eb4b3"
+    },
+    {
       "title": "EN DIRECT, piratage du site des impôts : le gouvernement détaille les trois fuites de données qui concernent aussi les données cadastrales et les successions",
       "url": "https://www.lemonde.fr/pixels/live/2026/08/18/en-direct-piratage-du-site-des-impots-le-gouvernement-detaille-les-trois-fuites-de-donnees-qui-concernent-aussi-les-donnees-cadastrales-et-les-successions_6749047_4408996.html",
-      "summary": "David Amiel, ministre de l’action et des comptes publics, la direction générale des finances publiques (DGFiP) et l’Agence nationale de la sécurité des systèmes d’information (Anssi) ont pris la parole après le piratage de données de millions de personnes.",
+      "summary": "David Amiel, ministre de l’action et des comptes publics, a présenté des « excuses » pour le piratage d’ampleur de la Direction générale des finances publiques (DGFiP) qui a abouti au vol des données personnelles de quelque 700 000 particuliers et entreprises.",
       "image": "https://img.lemde.fr/2026/08/18/244/0/2048/1024/644/322/60/0/aba0541_upload-1-6d7pfxwnb417-nz86314.JPG",
       "published_at": "2026-08-18T17:27:23+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "d13582ab4236"
+    },
+    {
+      "title": "En Israël, Benyamin Nétanyahou s'assure le soutien de ses fidèles au sein de son parti, le Likoud, avant des législatives qui s'annoncent serrées",
+      "url": "https://www.franceinfo.fr/monde/israel/en-israel-benyamin-netanyahou-s-assure-le-soutien-de-ses-fideles-au-sein-de-son-parti-likoud-avant-des-legislatives-serrees_8152412.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Premier ministre israélien, à la tête du gouvernement le plus à droite de l'histoire d'Israël, est engagé dans un combat difficile pour se faire réélire.",
+      "image": "https://www.franceinfo.fr/pictures/SCSHq_Ul3SEtDdhjUhjks0XcsOQ/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/18/6a8479674cb7c308489962.jpg",
+      "published_at": "2026-08-18T17:27:00+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a12cdea52d31"
     },
     {
       "title": "Aux Etats-Unis, le procès de Lindsay Clancy, jugée pour le meurtre de ses trois enfants, met en lumière la \"psychose post-partum\"",
@@ -111,196 +301,6 @@
       "source": "Le Monde",
       "category": "Sport",
       "id": "278852fa0e9e"
-    },
-    {
-      "title": "Pourquoi Anakin se montre à Ahsoka, mais jamais à Luke et Leia alors qu’il est leur père ?",
-      "url": "https://www.numerama.com/pop-culture/2313355-pourquoi-anakin-se-montre-a-ahsoka-mais-jamais-a-luke-et-leia-alors-quil-est-leur-pere.html",
-      "summary": "Alors que le trailer de la saison 2 d'Ahsoka montre Anakin Skywalker converser librement avec son ex-apprentie, une question agite les fans : pourquoi le spectre du Jedi se manifeste-t-il si facilement auprès d'elle, tout en semblant délaisser Luke et Leia ? Le lore canon de Star Wars apporte pourtant des clés d'explication.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-18T15:00:00+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "ae6bdc4f94c0"
-    },
-    {
-      "title": "Piratage du fisc : une «troisième fuite» annoncée, cette fois sur des données liées aux successions",
-      "url": "https://www.liberation.fr/economie/piratage-du-fisc-une-troisieme-fuite-annoncee-cette-fois-sur-des-donnees-liees-aux-successions-20260818_XXPOT34ARNGTZF6MRBRETN5MNE/",
-      "summary": "La directrice générale de l’administration fiscale a assuré ce mardi 18 août que cette nouvelle fuite a été rapidement «coupée». Le ministre de l’Action et des Comptes publics a présenté des «excuses» au nom de ses services.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-18T14:59:38+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "2783f352e967"
-    },
-    {
-      "title": "Sortie dans l'espace de Sophie Adenot : l'astronaute française a quitté l'ISS et a débuté sa mission dans l'espace, qui va durer de longues heures",
-      "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/direct-sortie-dans-l-espace-de-sophie-adenot-suivez-les-premiers-pas-d-une-astronaute-francaise-hors-de-la-station-spatiale-internationale_8147258.html#xtor=RSS-3-[lestitres]",
-      "summary": "A bord de la Station spatiale internationale depuis février, Sophie Adenot va réaliser sa première sortie extravéhiculaire, mardi après-midi. Elle doit, avec son collègue américain Anil Menon, remplacer une antenne de communication avec la Terre.",
-      "image": "https://www.franceinfo.fr/pictures/VlBiWsPGbwmv1QLTZkhylOB84p8/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/18/6a8453ecf25ba452740151.jpg",
-      "published_at": "2026-08-18T16:52:58+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "030e23475338"
-    },
-    {
-      "title": "Repéré par Michel Platini, ancien secrétaire général adjoint de l'UEFA, homme de l'ombre respecté... Qui est Kévin Lamour, le n°3 de la Fifa licencié lundi ?",
-      "url": "https://www.franceinfo.fr/sports/foot/giovanni-infantino/repere-par-michel-platini-ancien-secretaire-general-adjoint-de-l-uefa-homme-de-l-ombre-respecte-qui-est-kevin-lamour-le-n-3-de-la-fifa-licencie-lundi_8152256.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Français de 45 ans, qui s'était opposé publiquement au projet, finalement avorté, de Gianni Infantino de vente des parts de la Coupe du monde, a été licencié, lundi.",
-      "image": "https://www.franceinfo.fr/pictures/Oa4Gq7ZpBZG32Ghh1WGvPEUifGk/0x0:2000x1125/432x243/filters:format(jpg):quality(50)/2026/08/18/6a8462a7cd7e5704941529.jpg",
-      "published_at": "2026-08-18T16:51:40+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "7f63cddef19f"
-    },
-    {
-      "title": "Reacher Saison 4 : la claque est absolue, Prime Video vient d’envoyer sa meilleure saison",
-      "url": "https://www.numerama.com/pop-culture/2313409-reacher-saison-4-la-claque-est-absolue-prime-video-vient-denvoyer-sa-meilleure-saison.html",
-      "summary": "Après deux saisons au succès colossal et un troisième chapitre qui avait divisé les fans, la franchise phare de Prime Video revient avec un quatrième volet disponible depuis le 12 août 2026. Adaptée de Gone Tomorrow (le 13e roman de la saga littéraire de Lee Child), cette nouvelle saison s'impose sans détour comme la meilleure de la série. Un retour aux sources sanglant, nerveux et impeccablement ",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-18T14:50:00+00:00",
-      "source": "Numerama",
-      "category": "Culture",
-      "id": "3220124290d5"
-    },
-    {
-      "title": "La plus haute statue de la Vierge Marie en Europe dévoilée en Pologne",
-      "url": "https://www.franceinfo.fr/societe/religion/la-plus-haute-statue-de-la-vierge-marie-en-europe-devoilee-en-pologne_8152322.html#xtor=RSS-3-[lestitres]",
-      "summary": "La sculpture se trouve dans une région rurale isolée, au milieu d'un champ, loin des grandes villes polonaises. Elle a été commandée par un couple de millionnaires de la région., comme l'explique le média public ukrainien Suspilne dans cet article.",
-      "image": "https://www.franceinfo.fr/pictures/ulqc3wx2lWw1xsAessW3-DTSuFY/0x0:1200x675/432x243/filters:format(jpg):quality(50)/2026/08/18/6a846db91929e060003509.jpg",
-      "published_at": "2026-08-18T16:48:31+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "24a2125a6ac2"
-    },
-    {
-      "title": "Meurtre de Thomas Perotto à Crépol : le parquet de Valence conteste la circonstance aggravante de racisme",
-      "url": "https://www.liberation.fr/societe/police-justice/meurtre-de-thomas-perotto-a-crepol-le-parquet-de-valence-conteste-la-circonstance-aggravante-de-racisme-20260818_D24O54VCAVEIJNY332LD4I5ZGE/",
-      "summary": "Dans son réquisitoire définitif, consulté par «Libé», la juridiction est allée à l’encontre de la décision des juges d’instruction de reconnaître dans les motivations des prévenus le racisme «anti-blanc».",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-18T14:48:16+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "c5a3804f856b"
-    },
-    {
-      "title": "Que faire si, comme l’insoumise Manon Aubry, vous êtes mordu par une vipère ?",
-      "url": "https://www.liberation.fr/societe/sante/que-faire-si-comme-manon-aubry-vous-etes-mordu-par-une-vipere-20260818_PFURGTH4UJADJFD37ILLP6TOYQ/",
-      "summary": "L’eurodéputée LFI de 36 ans fait partie des quelque 300 personnes mordues chaque année en France par des serpents, dont une partie s’accompagne de venin. Mieux vaut appeler les secours dans tous les cas, car non prises en charge elles peuvent être mortelles.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-18T14:39:01+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "c1fb5f4e39d3"
-    },
-    {
-      "title": "Le Hamas réaffirme son engagement pour un accord sur Gaza, après une rencontre entre l'émissaire américain Jared Kushner et Benyamin Nétanyahou",
-      "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/le-hamas-reaffirme-son-engagement-pour-un-accord-sur-gaza-apres-une-rencontre-entre-l-emissaire-americain-jared-kushner-et-benyamin-netanyahou_8152304.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Premier ministre israélien a publiquement rejeté la feuille de route censée lancer la deuxième étape du plan Trump pour Gaza, exigeant un \"véritable\" désarmement du Hamas.",
-      "image": "https://www.franceinfo.fr/pictures/lM3wJ-ryzZru5EIzJZ8GCFJhZg0/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/18/6a846bf264f9f576147033.jpg",
-      "published_at": "2026-08-18T16:36:06+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "f21b81ade902"
-    },
-    {
-      "title": "Edouard Philippe et la stratégie des ralliements, première étape de sa campagne pour contrer le RN à la présidentielle 2027",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/18/edouard-philippe-et-la-strategie-des-ralliements-premiere-etape-de-sa-campagne-pour-contrer-le-rn-a-la-presidentielle-2027_6749066_823448.html",
-      "summary": "Le ministre de la justice, Gérald Darmanin, a annoncé, lundi, son soutien à l’ancien premier ministre. Ce dernier, qui a déjà l’appui de plusieurs figures du macronisme, espère attirer des cadres de LR d’ici à la fin de l’année pour renforcer l’idée qu’il est le mieux placé à droite et au centre pour accéder à l’Elysée.",
-      "image": "https://img.lemde.fr/2026/08/18/651/0/5200/2600/644/322/60/0/aca689f_upload-1-wcs758va2ftd-sipa-01280814-000046.jpg",
-      "published_at": "2026-08-18T16:34:40+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "ab1a91f72425"
-    },
-    {
-      "title": "La chaîne ABC poursuit l’administration Trump au nom de la liberté d’expression, après des menaces contre ses licences de diffusion",
-      "url": "https://www.lemonde.fr/international/article/2026/08/18/la-chaine-abc-poursuit-l-administration-trump-au-nom-de-la-liberte-d-expression-apres-des-menaces-contre-ses-licences-de-diffusion_6749065_3210.html",
-      "summary": "La chaîne de télévision américaine dénonce des attaques menées selon elle par le gouvernement fédéral et son régulateur des télécoms parce que ces derniers « ne sont pas d’accord avec ce que ABC diffuse ».",
-      "image": "https://img.lemde.fr/2026/08/17/222/0/3953/1976/644/322/60/0/e57f79c_ftp-1-6iskpor6a07r-2026-08-17t201539z-332724854-rc2i0nahev1j-rtrmadp-3-usa-trump-approval.JPG",
-      "published_at": "2026-08-18T16:32:38+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "dee3a119ffdd"
-    },
-    {
-      "title": "Ralliement de Darmanin à Philippe : au secours, l’UMP revient !",
-      "url": "https://www.liberation.fr/politique/elections/ralliement-de-darmanin-a-philippe-au-secours-lump-revient-20260818_32OIHBHGBJCPJFUT4XLP5G5Q3U/",
-      "summary": "Le soutien du ministre de la Justice au candidat Horizons à la présidentielle est tout sauf une surprise. C’est la confirmation que, dans un monde sans Emmanuel Macron, la droite française est en pleine réunification.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-18T14:31:52+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "60dee9f07455"
-    },
-    {
-      "title": "Nourrir l’IA avec les cadavres d’entreprises : Google pose 10 millions de dollars pour racheter les mails d’une compagnie aérienne morte",
-      "url": "https://www.numerama.com/tech/2313373-nourrir-lia-avec-les-cadavres-dentreprises-google-pose-10-millions-de-dollars-pour-racheter-les-mails-dune-compagnie-aerienne-morte.html",
-      "summary": "Google a déboursé 10 millions de dollars pour racheter les archives internes de Spirit Airlines, une compagnie aérienne en faillite. L'objectif ? Nourrir ses modèles d'IA avec la mémoire numérique d'une entreprise entière.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-18T14:31:47+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "227748c77183"
-    },
-    {
-      "title": "Patrick Vieira à la tête de l’équipe du Sénégal, pour sa première expérience de sélectionneur",
-      "url": "https://www.lemonde.fr/sport/article/2026/08/18/patrick-vieira-a-la-tete-de-l-equipe-du-senegal-pour-sa-premiere-experience-de-selectionneur_6749064_3242.html",
-      "summary": "La Fédération sénégalaise de football a officialisé, mardi, l’arrivée du champion du monde 1998 sur le banc des Lions de la Teranga. La Coupe du monde décevante de la sélection africaine avait contribué au licenciement de son prédécesseur, Pape Thiaw.",
-      "image": "https://img.lemde.fr/2026/08/18/434/0/5215/2607/644/322/60/0/7de458a_ftp-1-52y1ycw3j3y4-5867245-01-06.jpg",
-      "published_at": "2026-08-18T16:27:31+02:00",
-      "source": "Le Monde Inter",
-      "category": "Sport",
-      "id": "8e7cb77e7cb0"
-    },
-    {
-      "title": "ZeroBytes, à l'origine du vol de données du fisc, revendique un piratage de données visant l'Education nationale fin juillet",
-      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/zerobytes-a-l-origine-du-vol-de-donnees-du-fisc-revendique-un-piratage-de-donnees-visant-l-education-nationale-fin-juillet_8152235.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le 31 juillet, le ministère de l'Education nationale avait annoncé avoir été \"victime d'une intrusion frauduleuse dans l'un de ses systèmes d'information\".",
-      "image": "https://www.franceinfo.fr/pictures/06Bgkh1TER73hI5CrgmtIrhP4zQ/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/18/6a84659abdd03939616947.jpg",
-      "published_at": "2026-08-18T16:20:03+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "dd2714b6d785"
-    },
-    {
-      "title": "Droits voisins : Meta s’obstine à ne pas payer en France",
-      "url": "https://www.liberation.fr/economie/droits-voisins-meta-sobstine-a-ne-pas-payer-en-france-20260818_HNLK64UPJVFWLENDDNKI6MBTQQ/",
-      "summary": "Le géant californien refuse toujours de rétribuer les éditeurs de presse pour l’utilisation massive de leurs contenus. Il vient de saisir la cour d’appel de Paris pour contester les injonctions de l’Autorité de la concurrence.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-18T14:15:17+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "0a11413d1959"
-    },
-    {
-      "title": "Etats-Unis : détenue par Disney, la chaîne ABC attaque en justice l’administration Trump sur la liberté d’expression",
-      "url": "https://www.liberation.fr/international/amerique/etats-unis-detenue-par-disney-la-chaine-abc-attaque-en-justice-ladministration-trump-sur-la-liberte-dexpression-20260818_3WPESMNSCVAUFI7BLZTGJQCK5M/",
-      "summary": "La plainte déposée ce mardi 18 août accuse les autorités fédérales de mener «une campagne de représailles». L’animateur star de la chaîne de télé, Jimmy Kimmel, est une cible de longue date de Donald Trump.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-18T14:11:25+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "0ce9df62b3dc"
-    },
-    {
-      "title": "Visite du pape à Metz : les tarifs des chambres grimpent en flèche pour la venue du souverain pontife fin septembre",
-      "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-a-metz-les-tarifs-des-chambres-grimpent-en-fleche-pour-la-venue-du-souverain-pontife-fin-septembre_8152271.html#xtor=RSS-3-[lestitres]",
-      "summary": "Gigantesque engouement autour de la visite du pape en France fin septembre. À Metz (Moselle), où Léon XIV donnera une messe, les hôtels affichent déjà complet, et les hôteliers assument une hausse pas très catholique de leurs tarifs.",
-      "image": "https://www.franceinfo.fr/pictures/K_t_XeNqDAE3P_eH1Xu9ZpZsyqs/0x22:1292x749/432x243/filters:format(jpg):quality(50)/2026/08/18/6a84657fecdf2263484618.jpg",
-      "published_at": "2026-08-18T16:01:13+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "e8bb88af29fe"
-    },
-    {
-      "title": "En Corse, les groupes mafieux multiplient les incendies criminels pour étendre leur mainmise sur l’économie locale",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/18/en-corse-les-groupes-mafieux-multiplient-les-incendies-criminels-pour-etendre-leur-mainmise-sur-l-economie-locale_6749063_3224.html",
-      "summary": "Hôtels, restaurants et commerces sont de plus en plus la cible d’actes de destruction volontaire, comme l’incendie qui a ravagé une paillote dans la nuit du 10 au 11 août à Ajaccio. Un phénomène que la justice tente d’endiguer, malgré la difficulté à identifier les commanditaires.",
-      "image": "https://img.lemde.fr/2026/08/11/500/0/6000/3000/644/322/60/0/52b199d_ftp-1-kun09u0rh3at-5814313-01-06.jpg",
-      "published_at": "2026-08-18T16:00:05+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "f583259f5420"
     }
   ]
 }
