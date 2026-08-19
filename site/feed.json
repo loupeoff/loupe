@@ -1,13 +1,73 @@
 {
-  "generated_at": "2026-08-18T23:28:51.889874+00:00",
+  "generated_at": "2026-08-19T01:45:15.028568+00:00",
   "article_count": 30,
   "articles": [
     {
+      "title": "L’aide à mourir officiellement autorisée en France après la promulgation de la loi par Emmanuel Macron",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/19/l-aide-a-mourir-officiellement-autorisee-en-france-apres-la-promulgation-de-la-loi-par-emmanuel-macron_6749291_3224.html",
+      "summary": "Le texte, validé par le Conseil constitutionnel avec quelques réserves, a été publié, mercredi 19 août au « Journal officiel ». Il crée un droit à l’aide à mourir, sous plusieurs conditions, pour certains patients.",
+      "image": "https://img.lemde.fr/2026/07/15/500/0/6000/3000/644/322/60/0/0b4818f_ftp-1-yivsds8awrha-2026-07-15t173223z-995237890-rc2hemanbt5d-rtrmadp-3-france-politics-assisted-dying.JPG",
+      "published_at": "2026-08-19T03:19:04+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "5d4f199baf6c"
+    },
+    {
+      "title": "La NASA dévoile des images du cratère formé quand l’étage supérieur d’une fusée SpaceX s’est écrasé sur la Lune",
+      "url": "https://www.lemonde.fr/sciences/article/2026/08/19/la-nasa-devoile-des-images-du-cratere-forme-quand-l-etage-superieur-d-une-fusee-spacex-s-est-ecrase-sur-la-lune_6749290_1650684.html",
+      "summary": "L’impact a eu lieu le 5 août. Ces photographies, capturées par Lunar Reconnaissance Orbiter entre les 11 et 12 août, mettent en évidence des traînées plus claires et plus sombres rayonnant autour du cratère.",
+      "image": "https://img.lemde.fr/2026/08/18/250/0/3000/1500/644/322/60/0/6f54c77_ftp-1-p5rvcyxg5u5m-788bf99b49eb4cfaa586e1ce4c86b39d-0-688b81d66fe6454589ec3a01bdf1c0a2.jpg",
+      "published_at": "2026-08-19T03:09:18+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "9546d5a8a408"
+    },
+    {
+      "title": "Après la cyberattaque autonome contre Hugging Face, OpenAI ralentit le développement de son modèle d’IA le plus avancé",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/19/apres-la-cyberattaque-autonome-contre-hugging-face-openai-ralentit-le-developpement-de-son-modele-d-ia-le-plus-avance_6749257_4408996.html",
+      "summary": "De nombreux travaux liés à Astra restent suspendus, le temps de vérifier que cette future intelligence artificielle se comporte comme prévu.",
+      "image": "https://img.lemde.fr/2026/07/30/281/0/6500/3250/644/322/60/0/4a192ec_ftp-1-vy5pmnmx6xni-2026-07-30t192440z-128594779-rc2jomayicqj-rtrmadp-3-usa-trump-altman.JPG",
+      "published_at": "2026-08-19T02:38:44+02:00",
+      "source": "Le Monde",
+      "category": "Tech",
+      "id": "62ab602c8fc3"
+    },
+    {
+      "title": "Dans le Var, l’incendie du Gros Bessillon est officiellement éteint après « un mois de combat »",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/19/dans-le-var-l-incendie-du-gros-bessillon-est-officiellement-eteint-apres-un-mois-de-combat_6749256_3244.html",
+      "summary": "« Inédit » par sa durée, ce feu, qui s’est déclaré une première fois le 21 juillet dans un champ du village de Pontevès, a parcouru en tout 6 300 hectares, touché des dizaines de maisons et provoqué l’évacuation de 6 000 personnes.",
+      "image": "https://img.lemde.fr/2026/08/01/463/0/5494/2747/644/322/60/0/f4994fc_ftp-1-pqo4egx4kwbv-5754647-01-06.jpg",
+      "published_at": "2026-08-19T02:36:52+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "782d2d8d36a9"
+    },
+    {
+      "title": "Légionellose en Savoie : 46 cas depuis le mois de juin, une troisième personne est morte",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/19/legionellose-en-savoie-46-cas-depuis-juin-une-troisieme-personne-est-morte_6749223_3224.html",
+      "summary": "L’Agence régionale de santé poursuit ses analyses pour tenter de déterminer l’origine de la contamination. La maladie infectieuse est mortelle dans environ 10 % des cas.",
+      "image": "https://img.lemde.fr/2025/09/26/660/0/4800/2400/644/322/60/0/6fd162e_upload-1-n6xoh8ft317k-maxnewsspecialtwo346954.jpg",
+      "published_at": "2026-08-19T01:34:24+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "45846c944186"
+    },
+    {
+      "title": "Frank Beard, batteur historique du groupe de rock ZZ Top, est mort à 77 ans",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/08/19/frank-beard-batteur-historique-du-groupe-de-rock-zz-top-est-mort-a-77-ans_6749190_3382.html",
+      "summary": "Seul membre du trio d’origine à ne pas avoir la barbe, Frank Beard avait dû quitter la tournée actuelle du groupe au début du mois d’août, en raison de problèmes de santé qui n’ont pas été précisés.",
+      "image": "https://img.lemde.fr/2026/08/18/0/0/3440/1720/644/322/60/0/a2f2f52_ftp-1-jbopneezmuke-7ad0b1e4db484aec924e749baaf9f79f-0-f763aa984eec43b69543a67f3a30ec04.jpg",
+      "published_at": "2026-08-19T01:27:22+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "b18e9bb7007e"
+    },
+    {
       "title": "Meta : en ouverture de son procès en Californie, la maison mère de Facebook et d’Instagram accusée d’avoir « appâté » les enfants",
       "url": "https://www.lemonde.fr/pixels/article/2026/08/19/meta-en-ouverture-de-son-proces-en-californie-la-maison-mere-de-facebook-et-d-instagram-accusee-d-avoir-appate-les-enfants_6749157_4408996.html",
-      "summary": "Le géant de la tech affronte, devant la justice fédérale, l’accusation d’une trentaine d’Etats américains d’avoir rendu ses réseaux sociaux addictifs pour les mineurs. Le groupe se voit réclamer quelque 193 milliards de dollars et une refonte de ses deux applications phares.",
+      "summary": "Le géant de la tech est accusé par une trentaine d’Etats américains, devant la justice fédérale, d’avoir rendu ses réseaux sociaux addictifs pour les mineurs. Le groupe se voit réclamer quelque 193 milliards de dollars et une refonte de ses deux applications phares.",
       "image": "https://img.lemde.fr/2026/08/18/504/0/6048/3024/644/322/60/0/5e9ad9b_ftp-1-orsc17qn7kkr-aa592710480f4fbc8eb6ab85699a84dc-0-8592d63c4df24035b3e063d567b9564e.jpg",
-      "published_at": "2026-08-19T01:02:25+02:00",
+      "published_at": "2026-08-19T01:02:21+02:00",
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "dd396b611cf1"
@@ -88,8 +148,8 @@
       "summary": "Il s’agit de deux « réalisateurs » travaillant « pour une société de production française », selon le ministère des affaires étrangères français, dont la production devait être diffusée sur France Télévisions, d’après des médias locaux.",
       "image": "https://img.lemde.fr/2026/08/18/324/0/3888/1944/644/322/60/0/e7087cc_upload-1-za0rik68h2jj-000-328q8ex.jpg",
       "published_at": "2026-08-18T23:28:31+02:00",
-      "source": "Le Monde",
-      "category": "Société",
+      "source": "Le Monde Inter",
+      "category": "International",
       "id": "773862beadc8"
     },
     {
@@ -241,66 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "da3b159f6947"
-    },
-    {
-      "title": "\"Toujours au même endroit\" : la mairie de Besançon va prendre des mesures face à la recrudescence de saluts nazis au musée de la Résistance de la ville",
-      "url": "https://www.franceinfo.fr/societe/antisemitisme/toujours-au-meme-endroit-la-mairie-de-besancon-va-prendre-des-mesures-face-a-la-recrudescence-de-saluts-nazis-au-musee-de-la-resistance-de-la-ville_8152640.html#xtor=RSS-3-[lestitres]",
-      "summary": "Depuis le début de l'année, treize faits ont été recensés par la municipalité de Besançon, \"toujours dans la troisième salle où se situe le drapeau du IIIe Reich\", comme l'explique Christine Werthe, adjointe au maire de Besançon.",
-      "image": "https://www.franceinfo.fr/pictures/PyNb2yoBMDHQNV5_UFVbulmtdQk/0x0:4920x2767/432x243/filters:format(jpg):quality(50)/2026/08/18/6a84abe8e1c54558097183.jpg",
-      "published_at": "2026-08-18T21:03:39+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "0d79244dbd7e"
-    },
-    {
-      "title": "Piratage des impôts : les failles de sécurité de l'État pointées du doigt",
-      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/piratage-des-impots-les-failles-de-securite-de-l-etat-pointees-du-doigt_8152637.html#xtor=RSS-3-[lestitres]",
-      "summary": "Après le piratage massif de données fiscales, les premières victimes commencent à être informées par les impôts. Mais plusieurs contribuables dénoncent un délai jugé trop long. Face aux critiques, le gouvernement reconnaît des \"défaillances\", tandis que des spécialistes pointent les failles de sécurité des services publics.",
-      "image": "https://www.franceinfo.fr/pictures/qgyqwZt5FyIl7OEenfl9kmsrYa4/0x12:837x483/432x243/filters:format(jpg):quality(50)/2026/08/18/6a84a9bd1e972045791839.jpg",
-      "published_at": "2026-08-18T20:53:37+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "9af2a85e616b"
-    },
-    {
-      "title": "Présidentielle : Raphaël Glucksmann devrait déclarer sa candidature dans les prochains jours, selon plusieurs médias",
-      "url": "https://www.liberation.fr/politique/presidentielle-raphael-glucksmann-pourrait-declarer-sa-candidature-dans-les-prochains-jours-selon-plusieurs-medias-20260818_R4NKENPKU5H3LIRPKIETYBSNG4/",
-      "summary": "Le patron de Place publique devrait officialiser sa candidature pour 2027 dès ce dimanche 23 août au 20 heures de TF1, affirment «Le Parisien» et «L’Opinion». De quoi aussi précipiter précipiter le départ de sa compagne, Léa Salamé, de la présentation du JT de France 2.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-18T18:48:31+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "b23bd11b69c4"
-    },
-    {
-      "title": "Piratage du fisc, l’autre incendie que le gouvernement peine à éteindre",
-      "url": "https://www.liberation.fr/economie/economie-numerique/piratage-du-fisc-lautre-incendie-que-le-gouvernement-peine-a-eteindre-20260818_RMVAMXGYVJFNPKJRA7OYBRRIHQ/",
-      "summary": "Fébrile à l’idée d’un procès en inertie après le vol de données fiscales, l’exécutif multiplie les communications et a présenté ses excuses aux contribuables concernés. Une troisième attaque détectée sur les fichiers de successions pourrait saper cette tentative.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-18T18:28:56+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "769f04037a82"
-    },
-    {
-      "title": "La France va expulser deux diplomates iraniens «dans les tout prochains jours»",
-      "url": "https://www.liberation.fr/international/la-france-va-expulser-deux-diplomates-iraniens-ans-les-tout-prochains-jours-20260818_AJ5PSIM6QFAS3HBU265LPROVOU/",
-      "summary": "Le chef de la diplomatie française souligne que cette mesure intervient en représailles à «l’agression» de deux diplomates français en Iran courant juillet.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-18T18:23:48+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "8b499f787f78"
-    },
-    {
-      "title": "En Espagne, la ville de Grenade à nouveau secouée par un séisme, trois personnes légèrement blessées",
-      "url": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/en-espagne-la-ville-de-grenade-a-nouveau-secouee-par-un-seisme-trois-personnes-legerement-blessees_8152610.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cette ville du sud de l'Espagne a déjà été touchée samedi par un tremblement de terre. L'une des personnes blessées lors du séisme survenu mardi a été hospitalisée.",
-      "image": "https://www.franceinfo.fr/pictures/94KsPtWO0JYQceB3mnM-9yiysVE/0x0:1023x575/432x243/filters:format(jpg):quality(50)/2026/08/18/6a84a0fbb3b11302152072.jpg",
-      "published_at": "2026-08-18T20:22:29+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "e89a358c57c7"
     }
   ]
 }
