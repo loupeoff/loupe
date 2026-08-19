@@ -1,7 +1,197 @@
 {
-  "generated_at": "2026-08-19T16:38:54.449456+00:00",
+  "generated_at": "2026-08-19T17:33:14.970464+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Il vend son compte Dofus pour aider à financer sa boulangerie : que prévoient les règles d’Ankama ?",
+      "url": "https://www.numerama.com/pop-culture/2313361-il-a-finance-une-partie-de-sa-boulangerie-avec-un-compte-dofus-quil-navait-pas-le-droit-de-vendre.html",
+      "summary": "Après vingt ans de jeu, Florent a vendu son compte Dofus pour compléter l’apport nécessaire à l’ouverture de sa boulangerie, rapporte la RTBF. Son histoire met en lumière un marché parallèle où comptes, kamas et services s’échangent contre de l’argent réel, malgré l’interdiction d’Ankama, le studio derrière le MMORPG.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-19T17:31:21+00:00",
+      "source": "Numerama",
+      "category": "Économie",
+      "id": "07a8cc34a657"
+    },
+    {
+      "title": "Affaire Le Scouarnec : information judiciaire ouverte pour 10 nouveaux viols et 40 agressions sexuelles",
+      "url": "https://www.liberation.fr/societe/police-justice/affaire-le-scouarnec-information-judiciaire-ouverte-pour-10-nouveaux-viols-et-40-agressions-sexuelles-20260819_XTFYILYPWZBF3LXEI2HMFPS4ZM/",
+      "summary": "Les faits ne sont pas prescrits et «concernent 48 victimes», a précisé la procureure de Lorient ce mercredi. Joël Le Scouarnec avait été condamné fin mai 2025 à 20 ans de prison pour viols et agressions sexuelles sur 299 mineurs.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T17:29:38+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "a970ee0b392d"
+    },
+    {
+      "title": "Budget 2027 : cet été, le gouvernement à fond les ballons d’essai",
+      "url": "https://www.liberation.fr/economie/budget-2027-cet-ete-le-gouvernement-a-fond-les-ballons-dessai-20260819_AYKTKIGQTVDOVCC7QN4U3ZNYTY/",
+      "summary": "Au moment où la préparation du dernier projet de loi de finances de l’ère Macron s’accélère, les pistes pour résorber la dette fuitent massivement dans la presse. Une technique largement utilisée par l’exécutif, afin d’acclimater l’opinion à de mauvaises nouvelles tout en jaugeant la réaction des oppositions et des syndicats.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T17:29:36+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "1965d6c489a9"
+    },
+    {
+      "title": "Piratage du fisc : Sébastien Lecornu demande la formation d'une \"nouvelle unité\" pour lutter contre les cyberattaques visant le système d'information de l'Etat",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/piratage-du-fisc-sebastien-lecornu-demande-la-formation-d-une-nouvelle-unite-pour-lutter-contre-les-cyberattaques-visant-le-systeme-d-information-de-l-etat_8153750.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette \"équipe de contact\" sera \"chargée d'intervenir en première ligne en cas de suspicion d'atteinte grave à l'intégrité du système d'information de l'Etat\", demande le Premier ministre au secrétaire général de la défense et de la sécurité nationale.",
+      "image": "https://www.franceinfo.fr/pictures/nIslQFY1aGas7RP9ZmWw6L5No1I/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85bf6716e73623687879.jpg",
+      "published_at": "2026-08-19T19:21:50+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a505c415fb8c"
+    },
+    {
+      "title": "Etats-Unis : Natalie Harp, l’assistante ultraloyale de Trump qui pose question",
+      "url": "https://www.liberation.fr/international/amerique/etats-unis-natalie-harp-lassistante-ultraloyale-de-trump-qui-pose-question-20260819_CQYQUCKN7JCRVHFRP7DDDUMY2U/",
+      "summary": "Elle s’est fait connaître en 2019 en affirmant que le locataire de la Maison Blanche l’avait sauvée de son cancer des os. Le dévouement et la proximité de la trentenaire avec le milliardaire octogénaire interrogent désormais la presse et l’opposition américaines.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-08-19T17:20:20+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "b698f0f9c354"
+    },
+    {
+      "title": "Affaire Le Scouarnec : la justice ouvre une information judiciaire pour 10 nouveaux viols et 40 agressions sexuelles",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/19/affaire-le-scouarnec-la-justice-ouvre-une-information-judiciaire-pour-10-nouveaux-viols-et-40-agressions-sexuelles_6749935_3224.html",
+      "summary": "De nouvelles plaintes déposées après le procès de Joël Le Scouarnec ont conduit à l’ouverture d’une information judiciaire visant des faits survenus sur trois décennies.",
+      "image": "https://img.lemde.fr/2026/08/07/0/0/3000/1500/644/322/60/0/0c6b5d9_upload-1-cc507uur1fvm-frame-1222.jpg",
+      "published_at": "2026-08-19T19:14:33+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "5aee6a48ca3a"
+    },
+    {
+      "title": "Meurtre de Thomas Perotto à Crépol : le parquet de Valence conteste la circonstance aggravante de racisme",
+      "url": "https://www.liberation.fr/societe/police-justice/meurtre-de-thomas-perotto-a-crepol-le-parquet-de-valence-conteste-la-circonstance-aggravante-de-racisme-20260818_D24O54VCAVEIJNY332LD4I5ZGE/",
+      "summary": "Dans son réquisitoire définitif, consulté par «Libé», la juridiction est allée à l’encontre de la décision des juges d’instruction de reconnaître dans les motivations des prévenus le racisme «anti-blanc». Des avocats de la défense ont déposé une requête visant à récuser les magistrats instructeurs.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-19T17:11:27+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "c5a3804f856b"
+    },
+    {
+      "title": "Ukraine : Mykhaïlo Fedorov, l’ancien fidèle qui veut défier Volodymyr Zelensky",
+      "url": "https://www.liberation.fr/international/europe/ukraine-mykhailo-fedorov-lancien-fidele-qui-veut-defier-volodymyr-zelensky-20260819_OKQYQCXA25EWRLB7DIBE3LIKVA/",
+      "summary": "L’ex-stratège du président devenu ministre vedette a acté sa rupture avec son mentor en réclamant un «nouveau contrat social» et des élections – un sujet qui divise la société ukrainienne. Il s’installe désormais ouvertement dans le rôle de rival de chef de l’Etat.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T17:10:37+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "694557fee1cc"
+    },
+    {
+      "title": "Donald Trump assure que la Corée du Nord possède «57 armes nucléaires»",
+      "url": "https://www.liberation.fr/international/amerique/donald-trump-assure-que-la-coree-du-nord-possede-57-armes-nucleaires-20260819_USNPLIHSUVH7DHAF4DTKN472LI/",
+      "summary": "Le président des Etats-Unis a accusé ce mercredi ses prédécesseurs d’avoir laissé le pays enrichir son arsenal nucléaire. Le milliardaire a affirmé qu’il rencontrerait le dirigeant nord-coréen avant la fin de l’année.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T17:09:55+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "bfec604cec2b"
+    },
+    {
+      "title": "Une information judiciaire ouverte contre l'ex-chirurgien Joël Le Scouarnec pour des faits de viols et d'agressions sexuelles sur 48 nouvelles victimes",
+      "url": "https://www.franceinfo.fr/faits-divers/affaire-le-scouarnec/une-information-judiciaire-ouverte-contre-l-ex-chirurgien-joel-le-scouarnec-pour-10-nouveaux-viols-et-40-agressions-sexuelles_8153966.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'ex-praticien a été condamné à vingt ans de prison, en mai 2025, pour des viols et agressions sexuelles sur près de 300 victimes.",
+      "image": "https://www.franceinfo.fr/pictures/7k1UJSyNNCVrCR3XXhINzzt5qCI/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85df0a31a4a440544797.jpg",
+      "published_at": "2026-08-19T19:00:37+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "d168ab526e15"
+    },
+    {
+      "title": "En Allemagne, les sociaux-démocrates veulent inscrire l’adaptation au changement climatique dans la Constitution",
+      "url": "https://www.lemonde.fr/international/article/2026/08/19/en-allemagne-les-sociaux-democrates-veulent-inscrire-l-adaptation-au-changement-climatique-dans-la-constitution_6749934_3210.html",
+      "summary": "Alors que la lutte contre le réchauffement climatique relève, outre-Rhin, des Länder et des communes, les vagues de chaleur de cet été ont ravivé les appels à une meilleure coordination avec l’Etat fédéral. Une révision constitutionnelle nécessite toutefois une majorité des deux tiers au Bundestag et au Bundesrat, ce qui est loin d’être acquis.",
+      "image": "https://img.lemde.fr/2026/08/19/584/0/7008/3504/644/322/60/0/d5665ae_upload-1-7pkwpws4fvya-20260724-ps-harz-lemonde-014.jpg",
+      "published_at": "2026-08-19T19:00:12+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "8478dc0ab35e"
+    },
+    {
+      "title": "En Inde, le paradoxe des travailleurs qui filment leurs gestes du quotidien pour entraîner les IA : « Je suis en train de scier la branche sur laquelle je suis assis »",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/19/en-inde-le-paradoxe-des-travailleurs-qui-filment-leurs-gestes-du-quotidien-pour-entrainer-les-ia-je-suis-en-train-de-scier-la-branche-sur-laquelle-je-suis-assis_6749933_4408996.html",
+      "summary": "Vendeur de vêtements, coiffeur, garagiste… De plus en plus d’Indiens enregistrent des images qui serviront à entraîner avec l’intelligence artificielle des robots conçus pour automatiser leurs tâches. Ce qui, à terme, peut menacer leur emploi.",
+      "image": "https://img.lemde.fr/2026/07/24/2630/0/5265/2632/644/322/60/0/59dec09_upload-1-kfzmkgjshuoa-036a3861.jpg",
+      "published_at": "2026-08-19T19:00:07+02:00",
+      "source": "Le Monde Inter",
+      "category": "Tech",
+      "id": "8b19cb2aebb5"
+    },
+    {
+      "title": "Au fait, que devient le reboot de Wonder Woman par James Gunn ?",
+      "url": "https://www.numerama.com/pop-culture/2314277-au-fait-que-devient-le-reboot-de-wonder-woman-par-james-gunn.html",
+      "summary": "Pendant que James Gunn valide des séries annexes sur Jimmy Olsen ou Gorilla Grodd, la plus grande icône de DC reste au placard. Quatorze mois après la dernière annonce, le reboot de Wonder Woman fait du surplace. Enlisée entre déclarations de façade et projets dérivés gelés, l'héroïne est la dernière roue du carrosse d'un studio en pleine crise de priorités.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T17:00:00+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "5802a6036b58"
+    },
+    {
+      "title": "Les deux Français détenus au Togo inculpés pour «fausses déclarations»",
+      "url": "https://www.liberation.fr/international/afrique/les-deux-francais-detenus-au-togo-inculpes-pour-fausses-declarations-20260819_BMK3TDRPYBAIPGQQZTPHVCPXKY/",
+      "summary": "Sebastian Perez-Pezzani et Gaël Mocaër, placés en détention provisoire, étaient en tournage dans le nord du pays pour le magazine de France 5 «les Routes de l’impossible». L’état de santé du premier est préoccupant, d’après sa famille.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-19T16:59:19+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "a033525985ba"
+    },
+    {
+      "title": "La France, principale cible européenne pour le vol de données",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/la-france-principale-cible-europeenne-pour-le-vol-de-donnees_8153888.html#xtor=RSS-3-[lestitres]",
+      "summary": "Plusieurs études montrent que la France est le pays européen le plus visé par des cyberattaques. D'autres pays européens font davantage face à des rançongiciels.",
+      "image": "https://www.franceinfo.fr/pictures/FsCeXzI1Vf8VEYGGoZ-kLp-6LFc/0x147:2835x1742/432x243/filters:format(jpg):quality(50)/2024/02/11/maxnewsworldfive378637-65c89be870647875638568.jpg",
+      "published_at": "2026-08-19T18:52:24+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "ed2da9423e77"
+    },
+    {
+      "title": "Mort de François Patriat, propos «inhumains» d’un ministre israélien, le corps de l’influenceuse Sonia Bellina… L’actu de ce mercredi 19 août",
+      "url": "https://www.liberation.fr/international/europe/mort-de-francois-patriat-propos-inhumains-dun-ministre-israelien-le-corps-de-linfluenceuse-sonia-bellina-lactu-de-ce-mercredi-19-aout-20260819_2RCBHTML5RF7JHY53R6YOMUDYE/",
+      "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée du 19 août.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T16:52:19+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "c634fc5f627b"
+    },
+    {
+      "title": "Hind Rajab : l’armée israélienne reconnaît avoir tiré sur la voiture où se trouvait la fillette de 5 ans, tuée avec sa famille à Gaza en 2024",
+      "url": "https://www.lemonde.fr/international/article/2026/08/19/hind-rajab-l-armee-israelienne-reconnait-avoir-tire-sur-la-voiture-ou-se-trouvait-la-fillette-de-5-ans-tuee-avec-sa-famille-a-gaza-en-2024_6749867_3211.html",
+      "summary": "Le corps de l’enfant avait été retrouvé dans une voiture criblée de balles à Gaza, plusieurs jours après que la fillette avait été entendue pour la dernière fois, lors d’un long appel téléphonique désespéré avec le Croissant-Rouge palestinien, le 29 janvier 2024.",
+      "image": "https://img.lemde.fr/2024/02/12/72/0/1600/800/644/322/60/0/2263bef_1707724888910-080474.jpg",
+      "published_at": "2026-08-19T18:52:02+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "cee22d7c9a18"
+    },
+    {
+      "title": "Baisse de la CSG, renforcement d’EDF et «capitalisation» publique des retraites : Philippe Brun présente son programme économique pour la présidentielle",
+      "url": "https://www.liberation.fr/politique/baisse-de-la-csg-renforcement-dedf-et-capitalisation-publique-des-retraites-philippe-brun-presente-son-programme-economique-pour-la-presidentielle-20260819_3YSRSKRHOVFP5CTEUMQI2INDQ4/",
+      "summary": "Mercredi 19 août, le député de l’Eure, candidat à la primaire socialiste, a formulé plusieurs propositions pour «augmenter la production et la croissance en France».",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T16:51:40+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "1d0196fbfa28"
+    },
+    {
+      "title": "Montée des eaux : à La Ciotat, restaurateurs et autorités publiques se donnent des coups de sable",
+      "url": "https://www.liberation.fr/environnement/montee-des-eaux-a-la-ciotat-restaurateurs-et-autorites-publiques-se-donnent-des-coups-de-sable-20260820_3EIDDKNZYRFLDOT6CCEZUCWV6I/",
+      "summary": "Un couple de restaurateurs installés sur le front de mer est engagé dans un bras de fer avec l’Etat, qui entend intégrer leur parcelle à son domaine public maritime. Un conflit qui pourrait préfigurer ceux à venir sur le littoral, à mesure que les flots gagnent du terrain et repoussent les limites de la propriété privée.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T16:51:06+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "9371d05b3917"
+    },
     {
       "title": "Mégafeu en Gironde : des premières flammes au «feu du siècle», nos reporters répondent à vos questions",
       "url": "https://www.liberation.fr/environnement/megafeu-en-gironde-des-premieres-flammes-au-feu-du-siecle-nos-reporters-racontent-20260819_A74DS3SORBC45NYW5X2YJPBEUQ/",
@@ -11,6 +201,36 @@
       "source": "Libération",
       "category": "Politique",
       "id": "9fc7204df929"
+    },
+    {
+      "title": "Le maire de Chaumont blessé par balle en pleine nuit",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/haute-marne/chaumont/le-maire-de-chaumont-blesse-par-balle-en-pleine-nuit-3403591.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le maire de Chaumont (Haute-Marne), Antoine Desfretier, a été blessé par balle dans la nuit du 18 au 19 août, dans des circonstances incertaines. Pris en charge par les secours, il est désormais hospitalisé au CHU de Dijon.",
+      "image": "https://www.franceinfo.fr/pictures/WB0OCJXfnEPUQuqjnL7YmVRUVb0/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85b4c48ccdb051400911.jpg",
+      "published_at": "2026-08-19T18:45:35+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a871655c58c0"
+    },
+    {
+      "title": "Donald Trump affirme que la Corée du Nord possède « 57 armes nucléaires », trois jours après avoir critiqué la Corée du Sud",
+      "url": "https://www.lemonde.fr/international/article/2026/08/19/donald-trump-affirme-que-la-coree-du-nord-possede-57-armes-nucleaires-apres-avoir-vivement-critique-la-coree-du-sud_6749900_3210.html",
+      "summary": "Le président des Etats-Unis a également déclaré qu’il rencontrerait le dirigeant de la Corée du Nord, Kim Jong-un, avant la fin de l’année.",
+      "image": "https://img.lemde.fr/2026/08/19/826/0/6000/3000/644/322/60/0/22c8400_ftp-1-teioyibsgtlo-2026-08-19t152922z-1488525833-rc2r1nalvhpd-rtrmadp-3-usa-trump.JPG",
+      "published_at": "2026-08-19T18:45:25+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "97ef9c12f418"
+    },
+    {
+      "title": "Deux ans après, l'armée israélienne annonce l'ouverture d'une enquête sur la mort de Hind Rajab, enfant de 5 ans tuée à Gaza",
+      "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/deux-ans-apres-l-armee-israelienne-annonce-l-ouverture-d-une-enquete-sur-la-mort-de-hind-rajab-enfant-de-cinq-ans-tuee-a-gaza_8153726.html#xtor=RSS-3-[lestitres]",
+      "summary": "Son corps avait été retrouvé dans une voiture criblée de balles, quelques jours après un appel désespéré avec le Croissant-Rouge palestinien.",
+      "image": "https://www.franceinfo.fr/pictures/oDdrUjFbvCprKIs5JABTynOb3VQ/0x207:1024x783/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85b9c9b2bfc515759499.jpg",
+      "published_at": "2026-08-19T18:36:44+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "687ff0695a81"
     },
     {
       "title": "Mort du sénateur François Patriat, grand fidèle d’Emmanuel Macron",
@@ -47,7 +267,7 @@
       "url": "https://www.lemonde.fr/planete/article/2026/08/19/canicules-une-vague-moins-meurtriere-en-juillet-dans-un-ete-deja-hors-norme_6749897_3244.html",
       "summary": "Selon Santé publique France, 1 243 décès en excès ont été enregistrés en juillet, portant le bilan provisoire des morts de la chaleur à 7 300 depuis fin mai. Sans connaître les chiffres d’août, l’été 2026 enregistre déjà la plus forte mortalité depuis 2003.",
       "image": "https://img.lemde.fr/2026/08/19/295/0/3544/1772/644/322/60/0/dfd0329_upload-1-sxd8uoh5s3nc-000-b82x6t3.jpg",
-      "published_at": "2026-08-19T18:27:05+02:00",
+      "published_at": "2026-08-19T18:26:59+02:00",
       "source": "Le Monde",
       "category": "Société",
       "id": "4b4c83513fbc"
@@ -73,234 +293,14 @@
       "id": "607508c4e3cc"
     },
     {
-      "title": "Le maire de Chaumont blessé par balle en pleine nuit",
-      "url": "https://france3-regions.franceinfo.fr/grand-est/haute-marne/chaumont/le-maire-de-chaumont-blesse-par-balle-en-pleine-nuit-3403591.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le maire de Chaumont (Haute-Marne), Antoine Desfretier, a été blessé par balle dans la nuit du 18 au 19 août, dans des circonstances incertaines. Pris en charge par les secours, il est désormais hospitalisé au CHU de Dijon.",
-      "image": "https://www.franceinfo.fr/pictures/WB0OCJXfnEPUQuqjnL7YmVRUVb0/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85b4c48ccdb051400911.jpg",
-      "published_at": "2026-08-19T18:16:40+02:00",
+      "title": "En Chine, un robot humanoïde enregistre une pointe à 12,6 mètres par seconde",
+      "url": "https://www.franceinfo.fr/monde/chine/en-chine-un-robot-humanoide-enregistre-une-pointe-a-12-6-metres-par-seconde_8153777.html#xtor=RSS-3-[lestitres]",
+      "summary": "Un robot plus rapide qu'Usain Bolt ? La machine, baptisée Superman et mise au point par une entreprise chinoise, a couru à plus de 45km/h. Une prouesse technique, réalisée à trois jours des jeux mondiaux des robots humanoïdes à Pékin.",
+      "image": "https://www.franceinfo.fr/pictures/PQ5oeLMoE6Bvsn3LNaF2QRXkbJE/0x12:1564x892/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85c2b9e43e2177447940.png",
+      "published_at": "2026-08-19T18:18:12+02:00",
       "source": "France Info",
-      "category": "Politique",
-      "id": "a871655c58c0"
-    },
-    {
-      "title": "À bord du nouveau fleuron de la marine française, la frégate \"Amiral Ronarc'h\"",
-      "url": "https://www.franceinfo.fr/societe/armee-securite-defense/a-bord-du-nouveau-fleuron-de-la-marine-francaise-la-fregate-amiral-ronarc-h_8153759.html#xtor=RSS-3-[lestitres]",
-      "summary": "Immersion exceptionnelle, mercredi, à bord de ce navire qui s'étend sur 122 mètres de long. Parmi les équipements derniers cris, des radars et des torpilles d'une précision inédite.",
-      "image": "https://www.franceinfo.fr/pictures/5ojSPkyB59LjEQxECyfhAzWUZIY/0x38:1708x999/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85c2ed48e5a489987695.png",
-      "published_at": "2026-08-19T18:16:37+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "420bd3be8250"
-    },
-    {
-      "title": "Mort de Nicolas Altmayer et Mathilde Favier : le parquet ouvre une information judiciaire pour «homicide involontaire»",
-      "url": "https://www.liberation.fr/societe/police-justice/mort-de-nicolas-altmayer-et-mathilde-favier-le-parquet-ouvre-une-information-judiciaire-pour-homicide-involontaire-20260819_ZJLPR2CD6VFV7C5TYE4Z2EQ5WI/",
-      "summary": "Le conducteur du poids lourd ayant percuté lundi le véhicule du couple dans les Deux-Sèvres a été déféré et présenté à un juge d’instruction «aux fins de placement sous contrôle judiciaire», a indiqué mercredi le vice-procureur de Niort.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-19T16:13:57+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "ef0b362bd45b"
-    },
-    {
-      "title": "Stan Lee, le père des super-héros, aux prises avec les vautours",
-      "url": "https://www.liberation.fr/culture/cinema/stan-lee-le-pere-des-super-heros-aux-prises-avec-les-vautours-20260807_XCXAUYJDNNC5HLFPKSW7ZNPOKI/",
-      "summary": "La guerre de succession du créateur de Spider-Man, Hulk et des X-Men s’est jouée à couteaux tirés avant sa mort. L’entourage de ce scénariste de génie, qui a enrichi Marvel puis Disney, a multiplié les coups bas pour s’accaparer sa fortune et s’arroger le contrôle de sa très profitable propriété intellectuelle.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-19T16:13:06+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "6563cf6c783a"
-    },
-    {
-      "title": "Tyler Rake 3 recrute le meilleur James Bond pour la suite",
-      "url": "https://www.numerama.com/pop-culture/2314213-tyler-rake-3-recrute-le-meilleur-james-bond-pour-la-suite.html",
-      "summary": "En officialisant l'arrivée de Pierce Brosnan au casting de Tyler Rake 3, Netflix s’offre l'ultime icône du film d'espionnage. Face à un Chris Hemsworth toujours aussi brutal, l’ancien agent 007 apporte une caution de classe britannique à une franchise bien décidée à rouler sur la concurrence en 2027.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-19T16:11:00+00:00",
-      "source": "Numerama",
-      "category": "Culture",
-      "id": "5d66aab52f51"
-    },
-    {
-      "title": "En Ukraine, Volodymyr Zelensky limoge une haute responsable de la présidence après une opération anticorruption",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-volodymyr-zelensky-limoge-une-haute-responsable-de-la-presidence-apres-une-operation-anticorruption_8153912.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'opération, selon l'agence anticorruption ukrainienne, cible \"une organisation criminelle qui opérait sous la direction d'un député ukrainien en exercice et d'un ancien député, avec la participation de hauts responsables de la présidence ukrainienne\".",
-      "image": "https://www.franceinfo.fr/pictures/-hGXsKqsmfSzKuKEDgNAKlwfY0U/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85d50b2b807389830331.jpg",
-      "published_at": "2026-08-19T18:10:03+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "e4e0df2ff690"
-    },
-    {
-      "title": "Une étude pointe des problèmes éthiques \"généralisés\" dans des publications scientifiques de l'IHU de Marseille",
-      "url": "https://www.franceinfo.fr/sante/des-problemes-ethiques-generalises-ont-ete-identifies-dans-des-etudes-scientifiques-de-l-ihu-de-marseille_8153318.html#xtor=RSS-3-[lestitres]",
-      "summary": "Des scientifiques ont passé au crible près de 2 700 publications scientifiques émanant de l'institut hospitalo-universitaire en maladies infectieuses de Marseille, anciennement dirigé par Didier Raoult. Ils ont mis au jour \"des problèmes d'ordre éthique ou juridique\" dans 853 d'entre elles.",
-      "image": "https://www.franceinfo.fr/pictures/Qn01V16f33Hi5YVCct41bnqDqjA/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8567c5914c3340040367.jpg",
-      "published_at": "2026-08-19T18:07:39+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "8ba71988e089"
-    },
-    {
-      "title": "Le corps retrouvé calciné dans le Gard est bien celui de l'influenceuse Sonia Bellina, deux hommes placés en garde à vue",
-      "url": "https://www.franceinfo.fr/faits-divers/le-corps-retrouve-calcine-dans-le-gard-est-bien-celui-de-l-influenceuse-sonia-bellina-deux-hommes-places-en-garde-a-vue_8153642.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le corps avait été retrouvé entre des rangs de vignes à Saint-Gilles (Gard) le 12 août.",
-      "image": "https://www.franceinfo.fr/pictures/1zWwJ8-1btgK2WBWP9hdRbkx4z4/432x243/filters:format(jpg):quality(50)/2026/08/18/6a847c96e6910818778596.jpg",
-      "published_at": "2026-08-19T18:05:35+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "4e4dd691c31b"
-    },
-    {
-      "title": "Les Etats-Unis poursuivent leur travail de sape en sanctionnant deux magistrats de la CPI",
-      "url": "https://www.lemonde.fr/international/article/2026/08/19/les-etats-unis-poursuivent-leur-travail-de-sape-en-sanctionnant-deux-magistrats-de-la-cpi_6749892_3210.html",
-      "summary": "Les sanctions américaines visent le cœur de l’enquête Palestine à la CPI et, plus largement, toute enquête visant des ressortissants d’Etats qui n’ont pas adhéré à la Cour pénale internationale, au premier chef Américains et Israéliens.",
-      "image": "https://img.lemde.fr/2026/08/18/458/0/5500/2750/644/322/60/0/e431a3e_ftp-1-j0ncw7jyoz8o-2026-08-18t223537z-1521161642-rc20xgafjt8b-rtrmadp-3-usa-icc-sanctions.JPG",
-      "published_at": "2026-08-19T18:00:08+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "e89a773379d0"
-    },
-    {
-      "title": "Crime organisé : Sébastien Lecornu demande à renforcer la lutte contre la corruption dans la fonction publique",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/19/crime-organise-sebastien-lecornu-demande-a-renforcer-la-lutte-contre-la-corruption-dans-la-fonction-publique_6749893_823448.html",
-      "summary": "Le premier ministre appelle son gouvernement, dans une circulaire datée du mardi 18 août, à redoubler de vigilance contre les atteintes à la probité au sein des administrations et à accentuer la politique de sanction, sur fond de narcotrafic et d’attaques cybercriminelles.",
-      "image": "https://img.lemde.fr/2026/08/18/2025/0/4500/2250/644/322/60/0/b79b038_upload-1-f0uusjdlekwd-mfache-17082026-le-monde-deplacement-lecornu-en-gironde-france-005.jpg",
-      "published_at": "2026-08-19T18:00:08+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "4c41f027523e"
-    },
-    {
-      "title": "L’arrestation de deux journalistes français au Togo, reflet de la dégradation des relations entre Paris et Lomé",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/19/l-arrestation-de-deux-journalistes-francais-au-togo-reflet-de-la-degradation-des-relations-entre-paris-et-lome_6749891_3212.html",
-      "summary": "Arrêtés fin juillet alors qu’ils tournaient les dernières images d’un documentaire dans le nord du pays, deux réalisateurs français sont détenus à Lomé et poursuivis pour de supposées fausses déclarations liées à leur visa.",
-      "image": "https://img.lemde.fr/2026/08/19/648/0/3888/1944/644/322/60/0/e15dd02_upload-1-3wqy6f0gsxz6-000-328q8ev.jpg",
-      "published_at": "2026-08-19T17:59:19+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "8122c72c5b36"
-    },
-    {
-      "title": "Lutte contre les incendies : des avions d'occasion bientôt transformés en bombardiers d’eau",
-      "url": "https://www.franceinfo.fr/faits-divers/incendie/lutte-contre-les-incendies-des-avions-d-occasion-bientot-transformes-en-bombardiers-d-eau_8153681.html#xtor=RSS-3-[lestitres]",
-      "summary": "Pour lutter contre les incendies, de plus en plus virulents, des avions de ligne sont transformés en bombardiers d'eau. Cette nouvelle flotte, conçue par des ingénieurs français, sera opérationnelle dans trois ans. France Télévisions a eu accès au chantier.",
-      "image": "https://www.franceinfo.fr/pictures/MqefDqXi0bcJTNe0as-bcKlQoY8/0x87:1716x1053/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85b1d3f05c1420295361.png",
-      "published_at": "2026-08-19T17:58:45+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "6b28ee79af7a"
-    },
-    {
-      "title": "Présidentielle 2027 : Yannick Jadot acte la rupture avec LFI et lance « Rassembler la social-écologie », une initiative pour unir la gauche",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/19/presidentielle-2027-yannick-jadot-acte-la-rupture-avec-lfi-et-lance-rassembler-la-social-ecologie-pour-unir-la-gauche_6749890_823448.html",
-      "summary": "Face à la division persistante à gauche, Yannick Jadot propose une nouvelle dynamique transpartisane pour peser face à la « menace de l’extrême droite » en 2027.",
-      "image": "https://img.lemde.fr/2026/08/19/0/0/8256/4128/644/322/60/0/3e9643a_upload-1-fkqyp1oaaozl-000-b8et4g3.jpg",
-      "published_at": "2026-08-19T17:53:39+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "92b8319686fa"
-    },
-    {
-      "title": "« Quand j’ouvre la porte, ma cheffe et deux collègues hurlent de rire » : le pot de départ canular de Louise, encadrante de bénévoles dans une association",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/19/quand-j-ouvre-la-porte-ma-cheffe-et-deux-collegues-hurlent-de-rire-le-pot-de-depart-canular-de-louise-encadrante-de-benevoles-dans-une-association_6749889_3451060.html",
-      "summary": "« Bon vent ! » (15/18). Un drôle de coup de fil, un journaliste de « Cash Investigation » qui veut l’interroger : le jour de son départ de la structure associative où elle travaille depuis quatre ans, Louise, 32 ans, va vivre des montagnes russes émotionnelles.",
-      "image": "https://img.lemde.fr/2026/06/25/125/0/1500/750/644/322/60/0/8e2a362_upload-1-tftm075g8u2g-ftanet-lemonde-potdedepart-ho-15.jpg",
-      "published_at": "2026-08-19T17:50:39+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "40fa0c29659d"
-    },
-    {
-      "title": "L'effondrement d'une mine d'or artisanale fait au moins 100 morts en Centrafrique",
-      "url": "https://www.franceinfo.fr/monde/afrique/centrafrique/l-effondrement-d-une-mine-d-or-artisanale-fait-au-moins-100-morts-en-centrafrique_8153879.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les éboulements sont fréquents dans les mines de Centrafrique, dont les sols particulièrement riches et convoités sont souvent exploités illégalement.",
-      "image": "https://www.franceinfo.fr/pictures/oth3nCsDezTeYETqaDIz0qFy9Xc/0x18:1024x594/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85cfc5390e2279880870.jpg",
-      "published_at": "2026-08-19T17:47:28+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "e1e934c6707c"
-    },
-    {
-      "title": "«Wake in Fright», la rareté australienne de Ted Kotcheff ressort en salle",
-      "url": "https://www.liberation.fr/culture/cinema/wake-in-fright-la-rarete-australienne-de-ted-kotcheff-ressort-en-salle-20260819_X44QV5IOKBAZ3DXI3B44DVI7CY/",
-      "summary": "Le film de genre, réalisé en 1971, dépeint la descente aux enfers d’un professeur hautain, piégé dans l’outback australien.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-19T15:30:48+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "f354a6b2ecf1"
-    },
-    {
-      "title": "Rentrée politique : quelles sont les étapes du tour de France des gauches ?",
-      "url": "https://www.liberation.fr/politique/elections/rentree-politique-quelles-sont-les-etapes-du-tour-de-france-des-gauches-20260819_WRB5TWEVHNDPXL55EQRAVYPWDA/",
-      "summary": "Des journées d’été des Ecologistes à la Fête de l’Humanité des communistes, les formations de gauche entament un marathon politique de deux semaines à huit mois du premier tour de la présidentielle.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-19T15:28:52+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "64a60d257e10"
-    },
-    {
-      "title": "Mort de Jason Arday : «En tant que professeur noir, il était considéré comme une cible acceptable»",
-      "url": "https://www.liberation.fr/international/europe/mort-de-jason-arday-en-tant-que-professeur-noir-il-etait-considere-comme-une-cible-acceptable-20260819_Y46CC67FPBGDJDF44Q2D5JDQOE/",
-      "summary": "Pour le politiste Aurélien Mondon, professeur à l’université de Bath, l’emballement médiatique autour des accusations de plagiat visant le chercheur britannique révèle autant le racisme persistant du monde académique que la banalisation de l’anti-intellectualisme au Royaume-Uni.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-19T15:28:43+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "83eab1f5bd89"
-    },
-    {
-      "title": "«Incroyable nouvelle pour la botanique régionale» : après 150 ans d’absence, la nigelle des champs refait surface dans la Sarthe",
-      "url": "https://www.liberation.fr/environnement/biodiversite/incroyable-nouvelle-pour-la-botanique-regionale-apres-150-ans-dabsence-la-nigelle-des-champs-refait-surface-dans-la-sarthe-20260819_6A7J32SNZFGSREKDK3ETX7YVEE/",
-      "summary": "Cette petite fleur blanche à cinq pétales, considérée en danger critique d’extinction à l’échelle nationale, a été redécouverte le 22 juillet à Parcé-sur-Sarthe.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-19T15:27:02+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "1bc58a7bdde2"
-    },
-    {
-      "title": "John Irvin, réalisateur du film \"Hamburger Hill\" et de nombreuses séries télévisées, est mort à 86 ans",
-      "url": "https://www.franceinfo.fr/culture/cinema/john-irvin-realisateur-du-film-hamburger-hill-et-de-nombreuses-series-televisees-est-mort-a-86-ans_8153702.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le cinéaste britannique s'était fait connaître par ses documentaires dans les années 1960 avant de diriger les plus grandes stars d'Hollywood dans des films très divers.",
-      "image": "https://www.franceinfo.fr/pictures/KDkWNbmS7yn8QzRCFRhPK-UME2g/0x194:5180x3108/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85c7f58dd34714565767.jpg",
-      "published_at": "2026-08-19T17:21:06+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "f12891dd2989"
-    },
-    {
-      "title": "Addiction aux réseaux sociaux : au procès de Meta, un ancien expert de la sécurité ouvre les hostilités",
-      "url": "https://www.liberation.fr/economie/economie-numerique/addiction-aux-reseaux-sociaux-au-proces-de-meta-un-ancien-expert-de-la-securite-ouvre-les-hostilites-20260819_QZYLEPF4YFAQTBUEO5IDHNIOAM/",
-      "summary": "La firme de Mark Zuckerberg est accusée par vingt-neuf Etats fédérés américains d’avoir trompé les consommateurs ainsi que d’avoir menti et violé la loi fédérale sur la protection des enfants. Les débats devraient durer quatre à six semaines.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-19T15:14:34+00:00",
-      "source": "Libération",
-      "category": "Tech",
-      "id": "af972cd2c357"
-    },
-    {
-      "title": "\"Nous, c'est carré\" : La France insoumise dévoile un tract et une affiche pour marquer le lancement de ses universités d'été",
-      "url": "https://www.franceinfo.fr/politique/la-france-insoumise/nous-c-est-carre-la-france-insoumise-devoile-un-tract-et-une-affiche-pour-marquer-le-lancement-de-ses-universites-d-ete_8153762.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le mouvement de Jean-Luc Mélenchon organise ses \"Amfis\" de jeudi à dimanche à Valence (Drôme), une rentrée politique qui se déroule dans un contexte de campagne présidentielle. LFI veut installer le match contre l'extrême droite et les héritiers du président de la République.",
-      "image": "https://www.franceinfo.fr/pictures/yqJmP7KAXdoifIA4v9v-8hZQ1Eg/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85c7af0586b310218786.jpg",
-      "published_at": "2026-08-19T17:13:45+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "2fec41178d2d"
-    },
-    {
-      "title": "Piratage du site des impôts : « Peu de ministères sont au niveau requis » pour faire face aux cyberattaques, reconnaît Sébastien Lecornu",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/19/piratage-du-site-des-impots-peu-de-ministeres-sont-au-niveau-requis-face-aux-cyberattaques-reconnait-sebastien-lecornu_6749887_4408996.html",
-      "summary": "« Il y a urgence à concevoir et conduire sans délai une réponse opérationnelle plus réactive et plus forte aux cyberattaques que l’Etat rencontre actuellement », a écrit le chef du gouvernement dans un courrier adressé à l’Anssi.",
-      "image": "https://img.lemde.fr/2026/08/18/430/0/4500/2250/644/322/60/0/4d55a6f_upload-1-8m9ou6jaswp6-mfache-17082026-le-monde-deplacement-lecornu-en-gironde-france-ii-044.jpg",
-      "published_at": "2026-08-19T17:11:46+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "fab291ac84de"
+      "category": "International",
+      "id": "8aa9f04e2f32"
     }
   ]
 }
