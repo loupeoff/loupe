@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-08-19T06:57:01.889993+00:00",
+  "generated_at": "2026-08-19T07:46:22.533112+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "En Ukraine, l’ex-ministre de la Défense Mykhaïlo Fedorov réclame des élections pour «restaurer le processus démocratique»",
+      "url": "https://www.liberation.fr/international/europe/en-ukraine-lex-ministre-de-la-defense-mykhailo-fedorov-reclame-des-elections-pour-restaurer-le-processus-democratique-20260819_ORTYA7P2GZG3HJN36X4LFSWMZE/",
+      "summary": "Limogé au mois de juillet par Volodymyr Zelensky, le populaire ex-ministre a appelé mardi 18 août à «trouver un mécanisme légal, sûr et réaliste» pour organiser un scrutin en dépit de la loi martiale en vigueur depuis 2022 en raison de la guerre avec la Russie.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T07:24:11+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "6e3ea54b4e7b"
+    },
+    {
+      "title": "Gironde : après la canicule et les incendies, \"la quasi-totalité des productions\" sera touchée, selon la Chambre d'agriculture",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/gironde-apres-la-canicule-et-les-incendies-la-quasi-totalite-des-productions-sera-touchee-selon-la-chambre-d-agriculture_8153237.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Les éleveurs sont confrontés au manque de fourrage\", explique le président de la Chambre d'agriculture, mercredi, sur ICI Gironde, tandis que \"les prix du lait et de la viande ont baissé\".",
+      "image": "https://www.franceinfo.fr/pictures/kekDhVwTw5AOIWM6vS_QvixGbs8/0x261:5000x3074/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85587aa4ed4945254940.jpg",
+      "published_at": "2026-08-19T09:18:01+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "84296d40ae63"
+    },
+    {
+      "title": "\"La chaleur joue beaucoup\" : à Pornic, la plupart des restaurants ont du mal à faire le plein cet été",
+      "url": "https://www.franceinfo.fr/economie/emploi/metiers/restauration-hotellerie-sports-loisirs/on-a-perdu-un-peu-d-argent-a-pornic-la-plupart-des-restaurants-ont-du-mal-a-faire-le-plein-cet-ete_8153147.html#xtor=RSS-3-[lestitres]",
+      "summary": "Près de huit restaurateurs sur dix de cette station balnéaire de Loire-Atlantique constatent une baisse de fréquentation en 2026 par rapport à 2025.",
+      "image": "https://www.franceinfo.fr/pictures/RIe57jWIvCELIG1x6M8zFU1c318/0x0:4300x2418/432x243/filters:format(jpg):quality(50)/2026/08/19/6a854b981e6e1303286197.jpg",
+      "published_at": "2026-08-19T09:11:44+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "b7146e3fe7fc"
+    },
+    {
+      "title": "Légionellose en Savoie : 3 morts et 46 cas recensés depuis le début du mois de juin",
+      "url": "https://www.liberation.fr/societe/sante/legionellose-en-savoie-3-morts-et-46-cas-recenses-depuis-le-debut-du-mois-de-juin-20260819_RM2JJMH43RDAJP5H7IQIPDNCUE/",
+      "summary": "Les investigations sont en cours pour déterminer l’origine de la contamination, annonce l’ARS mardi 18 août. Cette maladie infectieuse qui touche le poumon est provoquée par une bactérie qui prolifère dans l’eau douce.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-19T07:11:37+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "4ced990aebb0"
+    },
+    {
+      "title": "Dans The Witcher 3, les PNJ devaient avoir une peur bleue de Geralt, au point de lâcher leur bébé",
+      "url": "https://www.numerama.com/pop-culture/2313721-dans-the-witcher-3-les-pnj-devaient-avoir-une-peur-bleue-de-geralt-au-point-de-lacher-leur-bebe.html",
+      "summary": "CD Projekt Red avait de grandes ambitions pour les PNJ de The Witcher 3: Wild Hunt. Le studio polonais avait songé à une mécanique de peur, à l'approche du héros. Elle a été abandonnée pour une raison rigolote.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-19T07:10:38+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "5bf6b25bab0b"
+    },
+    {
+      "title": "\"Capables de rivaliser avec les Américaines\" : le vif succès des joueuses françaises en WNBA",
+      "url": "https://www.franceinfo.fr/sports/basket/wnba/capables-de-rivaliser-avec-les-americaines-le-vif-succes-des-joueuses-francaises-en-wnba_8152685.html#xtor=RSS-3-[lestitres]",
+      "summary": "Marine Johannès, Gaby Williams, Dominique Malonga… Ces remarquables joueuses tricolores ont conquis les terrains de basket outre-Atlantique grâce à une formation française particulièrement remarquée par les coachs américains.",
+      "image": "https://www.franceinfo.fr/pictures/C09F2MTjhKa8HIcUkE5n_-QNAL8/0x139:2285x1427/432x243/filters:format(jpg):quality(50)/2023/10/10/marine-johannes-6525a7bb827ed553684315.jpg",
+      "published_at": "2026-08-19T09:04:34+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "584f714e0ad1"
+    },
+    {
+      "title": "Skippeur disparu au large de Penmarc’h : l’annexe de son voilier retrouvée, les recherches s'arrêtent",
+      "url": "https://france3-regions.franceinfo.fr/bretagne/finistere/brest/skipper-disparu-au-large-de-penmarc-h-l-annexe-de-son-voilier-retrouvee-les-recherches-s-arretent-3403351.html#xtor=RSS-3-[lestitres]",
+      "summary": "Malgré d’importants moyens aériens et maritimes déployés au large du Finistère et jusqu’à l’île d’Yeu, les recherches pour retrouver un skipper porté disparu ont été suspendues mardi 18 août au soir, faute de nouveaux éléments.",
+      "image": "https://www.franceinfo.fr/pictures/87CF8fTvGDmvlHiwJZarsDX-Nic/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8555411eac9030245686.jpg",
+      "published_at": "2026-08-19T09:03:29+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "363aa4586d10"
+    },
+    {
+      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
+      "summary": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-19T07:00:00+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "db01394bbc86"
+    },
     {
       "title": "Patrick Bruel visé par une nouvelle plainte pour tentative de viol",
       "url": "https://www.liberation.fr/societe/police-justice/patrick-bruel-vise-par-une-nouvelle-plainte-pour-tentative-de-viol-20260819_4G5KHYMSKZBS5MAIL3BZCYUKTA/",
@@ -17,8 +97,8 @@
       "url": "https://www.lemonde.fr/planete/article/2026/08/19/en-belgique-l-incendie-est-encercle-mais-la-situation-reste-compliquee_6749605_3244.html",
       "summary": "Le ministre de l’intérieur belge, Bernard Quintin, a averti que l’extinction de l’incendie, qui a ravagé quelque 3 000 hectares dans les Hautes Fagnes, prendrait encore « des semaines ».",
       "image": "https://img.lemde.fr/2026/08/18/401/0/4815/2407/644/322/60/0/ab7afa7_ftp-1-bhle3aakys5f-5867663-01-06.jpg",
-      "published_at": "2026-08-19T08:45:35+02:00",
-      "source": "Le Monde Inter",
+      "published_at": "2026-08-19T08:45:34+02:00",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "5d3c62694c9b"
     },
@@ -58,7 +138,7 @@
       "summary": "Dans un secteur en plein essor mondial, les entreprises de robotique chinoises ont pris une longueur d’avance.",
       "image": "https://img.lemde.fr/2026/08/19/967/0/6192/3096/644/322/60/0/50c92a7_ftp-1-ifg1hksofhyb-5871455-01-06.jpg",
       "published_at": "2026-08-19T08:29:23+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Économie",
       "id": "03befeb4c9f8"
     },
@@ -93,7 +173,7 @@
       "id": "09e868c7b759"
     },
     {
-      "title": "Frank Beard, batteur du groupe de blues rock ZZ Top, est mort à 77 ans",
+      "title": "Frank Beard, batteur du groupe de rock ZZ Top, est mort à 77 ans",
       "url": "https://www.liberation.fr/culture/musique/frank-beard-batteur-du-groupe-de-blues-rock-zz-top-est-mort-a-77-ans-20260819_KFJJQWEYLJCBJL5BN6A2L5MM6Y/",
       "summary": "Le Texan était en soins palliatifs, a annoncé le groupe sur son site Internet mardi 18 août. Deux dates de concerts ont été annulées, mais la tournée reprendra dès ce week-end à Austin.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
@@ -221,86 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "87c927cfa1b5"
-    },
-    {
-      "title": "Comment les crises budgétaires révèlent et amplifient les fragilités des gouvernements",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/19/comment-les-crises-budgetaires-revelent-et-amplifient-les-fragilites-des-gouvernements_6749472_823448.html",
-      "summary": "Les chercheurs Philippe Zittoun et Patrick Hassenteufel distinguent trois façons de surmonter une crise budgétaire : « gouverner la crise », « gouverner dans la crise » ou « par la crise ». Une grille d’analyse qui trouve un écho particulier au vu de la situation économique actuelle.",
-      "image": "https://img.lemde.fr/2026/04/08/983/0/5900/2950/644/322/60/0/42f7662_upload-1-qmfhqxxpx5b4-jmug260408008.jpg",
-      "published_at": "2026-08-19T07:00:12+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "171a13a7cb9a"
-    },
-    {
-      "title": "En Syrie, la mort d’un casque blanc met en évidence l’usage persistant de la torture au sein des lieux de détention",
-      "url": "https://www.lemonde.fr/international/article/2026/08/19/en-syrie-la-mort-d-un-casque-blanc-met-en-evidence-l-usage-persistant-de-la-torture-au-sein-des-lieux-de-detention_6749471_3210.html",
-      "summary": "Le décès d’un membre de la défense civile, battu par des policiers en garde à vue, suscite la colère de Syriens qui espéraient en avoir fini avec les violences des forces de l’ordre et de sécurité après la chute de Bachar Al-Assad.",
-      "image": "https://img.lemde.fr/2026/08/17/500/0/6000/3000/644/322/60/0/06c27ac_ftp-1-91nz8q4z2735-06c3bfa8a521433582a5434acf1b7f0b-0-b4614ece2fa2433fbe11425a8cd59f57.jpg",
-      "published_at": "2026-08-19T07:00:01+02:00",
-      "source": "Le Monde Inter",
-      "category": "Société",
-      "id": "2d391b8114cf"
-    },
-    {
-      "title": "Entre Barcelone et Madrid, une rivalité capitale",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/entre-barcelone-et-madrid-une-rivalite-capitale-20260819_HHPCN2IPMNB2LAVJ5AER7XIQPQ/",
-      "summary": "Historique, sportive, culturelle… Retour sur l’éternelle opposition entre les deux principales villes d’Espagne, de la Guerre de succession à l’iconique «Clasicó» footballistique.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-19T05:00:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "9c5961ef8112"
-    },
-    {
-      "title": "«La Fille Condor» d’Alvaro Olmos Torrico, conte et les Andes",
-      "url": "https://www.liberation.fr/culture/cinema/la-fille-condor-dalvaro-olmos-torrico-conte-et-les-andes-20260819_JGJ3KYSAF5H7XMDSF4G6WED7VI/",
-      "summary": "Clara, enfant de sage-femme en Bolivie, refuse son destin et s’enfuit pour rejoindre la ville et poursuivre une carrière de chanteuse. Un long métrage dur sur le fond et doux sur la forme.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-19T04:57:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "03edeb34ef44"
-    },
-    {
-      "title": "L'évêque de Lille recevra le collectif de victimes de Jacques Delfosse, l'ancien prêtre visé par 25 plaintes",
-      "url": "https://www.franceinfo.fr/societe/religion/pedophilie-de-l-eglise/l-eveque-de-lille-recevra-le-collectif-de-victimes-de-jacques-delfosse-l-ancien-pretre-vise-par-25-plaintes_8153096.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'ancien prêtre, déchu de son statut par le Vatican, est accusé de viols et d'agressions sexuelles. Le collectif de victimes sera reçu le 31 août prochain à Lille, a appris mercredi France Inter.",
-      "image": "https://www.franceinfo.fr/pictures/RZSeTGyrqezfGOXr6vdsMrTbKMA/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85364e6b4f2576497186.png",
-      "published_at": "2026-08-19T06:54:50+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "bd2cb42aa7d5"
-    },
-    {
-      "title": "Côtes-d'Armor : 16 blessés après l'affaissement d'un gradin avant un spectacle à Erquy",
-      "url": "https://www.franceinfo.fr/faits-divers/cotes-d-armor-16-blesses-apres-l-affaissement-d-un-gradin-avant-un-spectacle-a-erquy_8153090.html#xtor=RSS-3-[lestitres]",
-      "summary": "Une centaine de spectateurs était en train de s'installer avant le début d'un son et lumière lorsque le gradin s'est affaissé, mardi soir à Erquy, relate ICI Armorique.",
-      "image": "https://www.franceinfo.fr/pictures/BcmqOJtXjIRuvsvO4s8BzL5nm5k/0x278:5315x3268/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85332a50af6268038793.jpg",
-      "published_at": "2026-08-19T06:38:53+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "09d32bf6db31"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : une centrale thermique du premier opérateur énergétique privé d’Ukraine visée par une attaque russe de grande ampleur",
-      "url": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-une-centrale-thermique-du-premier-operateur-energetique-prive-d-ukraine-visee-par-une-attaque-d-ampleur-russe_6746952_3210.html",
-      "summary": "« La centrale a cessé de produire de l’électricité à la suite de dommages significatifs causés aux infrastructures par cette frappe », a déclaré, mardi, le groupe DTEK, sans spécifier la localisation du site touché.",
-      "image": "https://img.lemde.fr/2024/11/28/59/0/6240/3120/644/322/60/0/69cedc8_1732816252197-603578.jpg",
-      "published_at": "2026-08-19T06:36:45+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "3391a84bcf63"
-    },
-    {
-      "title": "La loi créant un droit à l'aide à mourir a été promulguée par Emmanuel Macron et publiée au Journal officiel",
-      "url": "https://www.franceinfo.fr/societe/euthanasie/la-loi-sur-l-aide-a-mourir-a-ete-promulguee-par-emmanuel-macron-macron-et-publiee-au-journal-officiel_8153051.html#xtor=RSS-3-[lestitres]",
-      "summary": "Avant que les premiers malades puissent avoir recours au dispositif créé par le texte, adopté définitivement au Parlement mi-juillet, le gouvernement devra publier les décrets d'application nécessaires.",
-      "image": "https://www.franceinfo.fr/pictures/Sf9QFn2rNyHPaMfMHdf0c59tstE/0x18:1024x594/432x243/filters:format(jpg):quality(50)/2026/08/19/6a852e57bf5e6874606664.jpg",
-      "published_at": "2026-08-19T06:33:16+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "49394bc1b442"
     }
   ]
 }
