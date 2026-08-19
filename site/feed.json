@@ -1,15 +1,175 @@
 {
-  "generated_at": "2026-08-19T14:41:43.960557+00:00",
+  "generated_at": "2026-08-19T15:38:29.792190+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "«Wake in Fright», la rareté australienne de Ted Kotcheff ressort en salle",
+      "url": "https://www.liberation.fr/culture/cinema/wake-in-fright-la-rarete-australienne-de-ted-kotcheff-ressort-en-salle-20260819_X44QV5IOKBAZ3DXI3B44DVI7CY/",
+      "summary": "Le film de genre, réalisé en 1971, dépeint la descente aux enfers d’un professeur hautain, piégé dans l’outback australien.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-19T15:30:48+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "f354a6b2ecf1"
+    },
+    {
+      "title": "Rentrée politique : quelles sont les étapes du tour de France des gauches ?",
+      "url": "https://www.liberation.fr/politique/elections/rentree-politique-quelles-sont-les-etapes-du-tour-de-france-des-gauches-20260819_WRB5TWEVHNDPXL55EQRAVYPWDA/",
+      "summary": "Des journées d’été des Ecologistes à la Fête de l’Humanité des communistes, les formations de gauche entament un marathon politique de deux semaines à huit mois du premier tour de la présidentielle.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T15:28:52+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "64a60d257e10"
+    },
+    {
+      "title": "Mort de Jason Arday : «En tant que professeur noir, il était considéré comme une cible acceptable»",
+      "url": "https://www.liberation.fr/international/europe/mort-de-jason-arday-en-tant-que-professeur-noir-il-etait-considere-comme-une-cible-acceptable-20260819_Y46CC67FPBGDJDF44Q2D5JDQOE/",
+      "summary": "Pour le politiste Aurélien Mondon, professeur à l’université de Bath, l’emballement médiatique autour des accusations de plagiat visant le chercheur britannique révèle autant le racisme persistant du monde académique que la banalisation de l’anti-intellectualisme au Royaume-Uni.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-19T15:28:43+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "83eab1f5bd89"
+    },
+    {
+      "title": "«Incroyable nouvelle pour la botanique régionale» : après 150 ans d’absence, la nigelle des champs refait surface dans la Sarthe",
+      "url": "https://www.liberation.fr/environnement/biodiversite/incroyable-nouvelle-pour-la-botanique-regionale-apres-150-ans-dabsence-la-nigelle-des-champs-refait-surface-dans-la-sarthe-20260819_6A7J32SNZFGSREKDK3ETX7YVEE/",
+      "summary": "Cette petite fleur blanche à cinq pétales, considérée en danger critique d’extinction à l’échelle nationale, a été redécouverte le 22 juillet à Parcé-sur-Sarthe.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T15:27:02+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "1bc58a7bdde2"
+    },
+    {
+      "title": "Mort du sénateur François Patriat, grand fidèle d’Emmanuel Macron",
+      "url": "https://www.liberation.fr/politique/mort-du-senateur-francois-patriat-grand-fidele-demmanuel-macron-20260819_3Z7XPMFY7BCE3IGTXBX6PQWKAI/",
+      "summary": "L’ancien socialiste, «marcheur» de la première heure et président du groupe macroniste au Sénat, avait été hospitalisé en juillet après un grave accident de vélo. Il avait 83 ans.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T15:19:08+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "855a26de919e"
+    },
+    {
+      "title": "Addiction aux réseaux sociaux : au procès de Meta, un ancien expert de la sécurité ouvre les hostilités",
+      "url": "https://www.liberation.fr/economie/economie-numerique/addiction-aux-reseaux-sociaux-au-proces-de-meta-un-ancien-expert-de-la-securite-ouvre-les-hostilites-20260819_QZYLEPF4YFAQTBUEO5IDHNIOAM/",
+      "summary": "La firme de Mark Zuckerberg est accusée par vingt-neuf Etats fédérés américains d’avoir trompé les consommateurs ainsi que d’avoir menti et violé la loi fédérale sur la protection des enfants. Les débats devraient durer quatre à six semaines.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-19T15:14:34+00:00",
+      "source": "Libération",
+      "category": "Tech",
+      "id": "af972cd2c357"
+    },
+    {
+      "title": "Une collision entre un bus et un camion fait au moins 23 morts au Brésil",
+      "url": "https://www.franceinfo.fr/monde/bresil/une-collision-entre-un-bus-et-un-camion-fait-au-moins-23-morts-au-bresil_8153795.html#xtor=RSS-3-[lestitres]",
+      "summary": "Il s'agit de l'un des pires accidents de la route des dernières années dans le sud du pays.",
+      "image": "https://www.franceinfo.fr/pictures/HZCE7AvzmVUeaDJQwCaheA-ayfk/0x59:1024x635/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85c5e7604a6294271408.jpg",
+      "published_at": "2026-08-19T17:14:19+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "8648bfe92e69"
+    },
+    {
+      "title": "\"Nous, c'est carré\" : La France insoumise dévoile un tract et une affiche pour marquer le lancement de ses universités d'été",
+      "url": "https://www.franceinfo.fr/politique/la-france-insoumise/nous-c-est-carre-la-france-insoumise-devoile-un-tract-et-une-affiche-pour-marquer-le-lancement-de-ses-universites-d-ete_8153762.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le mouvement de Jean-Luc Mélenchon organise ses \"Amfis\" de jeudi à dimanche à Valence (Drôme), une rentrée politique qui se déroule dans un contexte de campagne présidentielle. LFI veut installer le match contre l'extrême droite et les héritiers du président de la République.",
+      "image": "https://www.franceinfo.fr/pictures/yqJmP7KAXdoifIA4v9v-8hZQ1Eg/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85c7af0586b310218786.jpg",
+      "published_at": "2026-08-19T17:13:45+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "2fec41178d2d"
+    },
+    {
+      "title": "Piratage du site des impôts : « peu de ministères sont au niveau requis » face aux cyberattaques, reconnaît Sébastien Lecornu",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/19/piratage-du-site-des-impots-peu-de-ministeres-sont-au-niveau-requis-face-aux-cyberattaques-reconnait-sebastien-lecornu_6749887_4408996.html",
+      "summary": "« Il y a urgence à concevoir et conduire sans délai une réponse opérationnelle plus réactive et plus forte aux cyberattaques que l’Etat rencontre actuellement », a écrit le chef du gouvernement dans un courrier adressé à l’Anssi.",
+      "image": "https://img.lemde.fr/2026/08/18/430/0/4500/2250/644/322/60/0/4d55a6f_upload-1-8m9ou6jaswp6-mfache-17082026-le-monde-deplacement-lecornu-en-gironde-france-ii-044.jpg",
+      "published_at": "2026-08-19T17:11:46+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "fab291ac84de"
+    },
+    {
+      "title": "Pour la première fois, un vaccin contre le cancer à base d’ARNm franchit une étape décisive",
+      "url": "https://www.numerama.com/sciences/2314221-cancer-de-la-peau-le-premier-vaccin-a-base-darnm-franchit-une-phase-decisive.html",
+      "summary": "Pour la première fois, une thérapie à ARNm conçue sur mesure franchit avec succès son grand test de phase 3, dans la perspective de la lutte contre le cancer de la peau. Développé par Moderna et Merck, ce traitement personnalisé réduit significativement le risque de récidive.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T15:09:35+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "e45e0b5ecbe7"
+    },
+    {
+      "title": "« Les cartes zombies sont de retour en ligne » : comment une faille Visa permet de ressusciter des cartes expirées",
+      "url": "https://www.numerama.com/cyberguerre/2314109-les-cartes-zombies-sont-de-retour-en-ligne-comment-une-faille-visa-permet-de-ressusciter-des-cartes-expirees.html",
+      "summary": "Trois chercheurs ont démontré qu'une carte bancaire périmée peut, dans certaines conditions, redevenir opérationnelle en paiement sans contact.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-19T15:00:00+00:00",
+      "source": "Numerama",
+      "category": "Sport",
+      "id": "00f3792c7c72"
+    },
+    {
+      "title": "Mégafeu en Gironde : des premières flammes au «feu du siècle», nos reporters racontent",
+      "url": "https://www.liberation.fr/environnement/megafeu-en-gironde-des-premieres-flammes-au-feu-du-siecle-nos-reporters-racontent-20260819_A74DS3SORBC45NYW5X2YJPBEUQ/",
+      "summary": "Nos journalistes Emma Camins et Eléonore Disdero ont vécu au plus près l’incendie de Gironde de fin juillet. Elles vous racontent ce qu’elles ont vu et entendu à partir de 19 heures sur notre chaîne Twitch.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T14:56:14+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "9fc7204df929"
+    },
+    {
+      "title": "Piratage du fisc : Sébastien Lecornu demande la formation d'une \"nouvelle unité\" pour lutter contre les cyberattaques visant le système d'information de l'Etat",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/piratage-du-fisc-sebastien-lecornu-demande-la-formation-d-une-nouvelle-unite-pour-lutter-contre-les-cyberattaques-visant-le-systeme-d-information-de-l-etat_8153750.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette \"équipe de contact\" sera \"chargée d'intervenir en première ligne en cas de suspicion d'atteinte grave à l'intégrité du système d'information de l'Etat\", demande le Premier ministre au secrétaire général de la défense et de la sécurité nationale.",
+      "image": "https://www.franceinfo.fr/pictures/nIslQFY1aGas7RP9ZmWw6L5No1I/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85bf6716e73623687879.jpg",
+      "published_at": "2026-08-19T16:54:04+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a505c415fb8c"
+    },
+    {
+      "title": "Pourquoi le gouvernement est sous le feu des critiques après le piratage du fisc",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/une-situation-extremement-grave-pourquoi-le-gouvernement-est-sous-le-feu-des-critiques-apres-le-piratage-du-fisc_8153363.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les excuses du ministre des Comptes publics, mardi, et l'annonce d'un plan pour se protéger de futures cyberattaques n'ont pas éteint les condamnations d'opposants politiques et d'experts en cybersécurité.",
+      "image": "https://www.franceinfo.fr/pictures/iCMsaAJdtBzUPAKUPDS8VW4QKHk/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8597c88ce17760294122.jpg",
+      "published_at": "2026-08-19T16:53:52+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "74cc59671c4b"
+    },
+    {
+      "title": "Sandrine Rousseau : «Si LFI veut gagner, il va falloir ouvrir le dialogue»",
+      "url": "https://www.liberation.fr/politique/sandrine-rousseau-si-lfi-veut-gagner-il-va-falloir-ouvrir-le-dialogue-20260819_OTS6PDZM2JCG5EASKRCQCQK2JA/",
+      "summary": "Alors que les verts tiennent leurs journées d’été du 20 au 22 août à Grenoble, la députée écologiste de Paris appelle à bâtir «une alliance» incluant Jean-Luc Mélenchon pour 2027. Sans évoquer, à ce stade, l’hypothèse d’un ralliement individuel, hors du cadre de son parti.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T14:52:27+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "f68b1347c28d"
+    },
+    {
+      "title": "Canicule : 1 243 morts de plus qu’attendu entre le 3 et le 22 juillet, estime Santé publique France",
+      "url": "https://www.liberation.fr/societe/sante/canicule-1-243-morts-de-plus-quattendu-entre-le-3-et-le-22-juillet-estime-sante-publique-france-20260819_IYM674A6QRFIXHGPEHJ5VBFZII/",
+      "summary": "La deuxième vague de chaleur de l’été a été moins meurtrière que celle de juin, très intense, selon les premières estimations publiées ce mercredi par l’agence sanitaire.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-19T14:44:04+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "c929e138d8a1"
+    },
     {
       "title": "L’Arabie saoudite prise au piège du bourbier yéménite",
       "url": "https://www.lemonde.fr/international/article/2026/08/19/l-arabie-saoudite-prise-au-piege-du-dossier-yemenite_6749883_3210.html",
       "summary": "Attaqué par les houthistes depuis la mi-juillet, le royaume cherche à éviter de s’engager dans une nouvelle guerre chez son voisin, sans se résoudre, pour autant, à la possible installation à sa frontière d’un Etat soutenu par l’Iran.",
       "image": "https://img.lemde.fr/2026/08/07/1059/0/5334/2667/644/322/60/0/0b219e4_ftp-1-eusxwe0qblo0-2026-08-07t125003z-403117402-rc20pmahvhft-rtrmadp-3-iran-crisis-saudi-houthis.JPG",
       "published_at": "2026-08-19T16:30:00+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
+      "source": "Le Monde",
+      "category": "Société",
       "id": "38034f5ffc74"
     },
     {
@@ -53,6 +213,16 @@
       "id": "094cd7647b41"
     },
     {
+      "title": "Mort de Nicolas Altmayer et Mathilde Favier : information judiciaire ouverte pour homicide involontaire, le conducteur du poids lourd présenté à la justice",
+      "url": "https://www.franceinfo.fr/faits-divers/mort-de-nicolas-altmayer-et-mathilde-favier-information-judiciaire-ouverte-pour-homicide-involontaire-le-conducteur-du-poids-lourd-presente-a-la-justice_8153741.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le conducteur est présenté mercredi à un juge d'instruction aux fins de placement sous contrôle judiciaire. Lundi, il a percuté la voiture de Nicolas Altmayer et Mathilde Favier.",
+      "image": "https://www.franceinfo.fr/pictures/1TzPgYxEG5XGQtxZrjykGJm3Nlc/0x614:3264x2448/432x243/filters:format(jpg):quality(50)/2019/04/02/phphrtVVO.jpg",
+      "published_at": "2026-08-19T16:16:18+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "2ff6c34630d6"
+    },
+    {
       "title": "Deux ans après, l'armée israélienne annonce l'ouverture d'une enquête sur la mort de Hind Rajab, enfant de 5 ans tuée à Gaza",
       "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/deux-ans-apres-l-armee-israelienne-annonce-l-ouverture-d-une-enquete-sur-la-mort-de-hind-rajab-enfant-de-cinq-ans-tuee-a-gaza_8153726.html#xtor=RSS-3-[lestitres]",
       "summary": "Son corps avait été retrouvé dans une voiture criblée de balles, quelques jours après un appel désespéré avec le Croissant-Rouge palestinien.",
@@ -67,7 +237,7 @@
       "url": "https://www.lemonde.fr/idees/article/2026/08/19/fjord-palme-d-or-2026-cristian-mungiu-prete-le-prestige-du-cinema-au-registre-de-la-lutte-contre-le-politiquement-correct_6749882_3232.html",
       "summary": "Dans une tribune au « Monde », le politiste roumain Cristian Pirvulescu estime qu’en choisissant une fois de plus un sujet très clivant politiquement, tout en refusant d’en tirer un verdict moral, le cinéaste cultive une ambiguïté qui fait le jeu des milieux réactionnaires.",
       "image": "https://img.lemde.fr/2026/08/19/0/1531/7918/3959/644/322/60/0/1c9cd6c_upload-1-9211b8y3hwpr-still-215258-3-copie.jpg",
-      "published_at": "2026-08-19T16:10:04+02:00",
+      "published_at": "2026-08-19T16:10:03+02:00",
       "source": "Le Monde",
       "category": "Culture",
       "id": "9e334a1f5c66"
@@ -85,7 +255,7 @@
     {
       "title": "Envers mon endroit (7/8) – La maison de famille, par Léonor de Récondo : sans commune masure",
       "url": "https://www.liberation.fr/portraits/envers-mon-endroit-78-la-maison-de-famille-par-leonor-de-recondo-sans-commune-masure-20260819_DV54HZAT7FAMLHYYRUUFRSFVBA/",
-      "summary": "Vieille dame plus que millénaire lovée contre la Garonne, la bâtisse familiale de l’écrivaine et violoncelliste est gardienne de l’histoire.",
+      "summary": "Vieille dame plus que millénaire lovée contre la Garonne, la bâtisse familiale de l’écrivaine et violoniste est gardienne de l’histoire.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
       "published_at": "2026-08-19T14:00:00+00:00",
       "source": "Libération",
@@ -131,176 +301,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "4e4dd691c31b"
-    },
-    {
-      "title": "Guerre à Gaza : deux ans après la mort de la petite Hind Rajab, 5 ans, Israël annonce l’ouverture d’une enquête",
-      "url": "https://www.liberation.fr/international/moyen-orient/guerre-a-gaza-deux-ans-apres-la-mort-de-la-petite-hind-rajab-5-ans-israel-annonce-louverture-dune-enquete-20260819_UNRIFWBNTNE57HJKII6RHYZNM4/",
-      "summary": "L’armée israélienne a relevé ce mercredi des «manquements présumés» ayant mené en janvier 2024 à la mort de la fillette. Une enquête concernant le meurtre de 15 secouristes et travailleurs humanitaires en mars 2025 va également être ouverte.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-19T13:51:38+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "4ffd073a8693"
-    },
-    {
-      "title": "Ahsoka : l’étrange sabre laser du trailer est-il tiré d’un vieux concours de fans de 1995 ?",
-      "url": "https://www.numerama.com/pop-culture/2314163-ahsoka-letrange-sabre-laser-du-trailer-est-il-tire-dun-vieux-concours-de-fans-de-1995.html",
-      "summary": "Un étrange sabre laser à double lame séparée a intrigué les fans dans la dernière bande-annonce d’Ahsoka. Une arme inédite ? Pas vraiment : des internautes viennent de retrouver un design quasi identique dans un vieux magazine Star Wars de 1995, imaginé par un fan lors d’un concours de dessin.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-19T13:50:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "ec72ab1cab50"
-    },
-    {
-      "title": "ChatGPT va désormais intégrer des publicités au milieu de ses réponses",
-      "url": "https://www.liberation.fr/economie/economie-numerique/chatgpt-va-desormais-integrer-des-publicites-au-milieu-de-ses-reponses-20260819_YRUIFYDTLJH4BFE2ATNUL4ANHU/",
-      "summary": "A partir du lundi 24 août, les utilisateurs européens des formules gratuites et les moins chères du robot conversationnel d’OpenAI seront exposés à des encarts publicitaires.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-19T13:46:44+00:00",
-      "source": "Libération",
-      "category": "Tech",
-      "id": "70251086ef1a"
-    },
-    {
-      "title": "La justice française ordonne la remise à l’Allemagne du militant antifasciste albanais « Gino »",
-      "url": "https://www.lemonde.fr/international/article/2026/08/19/la-justice-francaise-ordonne-la-remise-a-l-allemagne-du-militant-antifasciste-albanais-gino_6749877_3210.html",
-      "summary": "Rexhino Abazaj est poursuivi pour des violences contre des néonazis en 2023 à Budapest. La France avait refusé son extradition vers la Hongrie en raison de risques pour ses droits fondamentaux. Son avocat a annoncé un pourvoi en cassation.",
-      "image": "https://img.lemde.fr/2026/08/19/392/0/4184/2092/644/322/60/0/c28604e_upload-1-jzgsdkedfsid-000-39789jt.jpg",
-      "published_at": "2026-08-19T15:46:34+02:00",
-      "source": "Le Monde Inter",
-      "category": "Société",
-      "id": "8d6ff9be3111"
-    },
-    {
-      "title": "Le médicament Tavneos, destiné à traiter certaines maladies auto-immunes rares, retiré du marché en France après plusieurs morts à l’étranger",
-      "url": "https://www.lemonde.fr/sante/article/2026/08/19/le-medicament-tavneos-retire-du-marche-francais-apres-le-signalement-de-plusieurs-morts-a-l-etranger_6749876_1651302.html",
-      "summary": "Au printemps, le groupe Kissei, qui commercialise Tavneos au Japon, a fait état d’une vingtaine de morts parmi les patients traités depuis l’introduction du médicament sur le marché japonais en 2022. En France, selon l’ANSM, il est prescrit à 600 patients.",
-      "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/38ec457_upload-1-pp9dio4dwjlw-frame-340.jpg",
-      "published_at": "2026-08-19T15:42:28+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "b31fa1af0572"
-    },
-    {
-      "title": "Lutte contre les incendies : des avions d'occasion bientôt transformés en bombardiers d’eau",
-      "url": "https://www.franceinfo.fr/faits-divers/incendie/lutte-contre-les-incendies-des-avions-d-occasion-bientot-transformes-en-bombardiers-d-eau_8153681.html#xtor=RSS-3-[lestitres]",
-      "summary": "Pour lutter contre les incendies, de plus en plus virulents, des avions de ligne sont transformés en bombardiers d'eau. Cette nouvelle flotte, conçue par des ingénieurs français sera opérationnelle dans trois ans... Nous avons eu accès à ce chantier prometteur..",
-      "image": "https://www.franceinfo.fr/pictures/MqefDqXi0bcJTNe0as-bcKlQoY8/0x87:1716x1053/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85b1d3f05c1420295361.png",
-      "published_at": "2026-08-19T15:40:48+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "6b28ee79af7a"
-    },
-    {
-      "title": "Judith Lyon-Caen : splendeurs et misères de la vie posthume de Balzac",
-      "url": "https://www.liberation.fr/culture/livres/judith-lyon-caen-splendeurs-et-miseres-de-la-vie-posthume-de-balzac-20260819_52JPYZXNENFZXBZASQ6WIAIQYQ/",
-      "summary": "Révolutionnaire chez Hugo, royaliste pour Barbey, fasciste d’après Bardèche… L’historienne retrace la série des relectures et récupérations subies par l’auteur de «la Comédie humaine» jusque dans les années 1950.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-19T13:40:00+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "53285eadeaea"
-    },
-    {
-      "title": "Pendant la canicule du début du mois de juillet, \"1 243 décès en excès\" ont été recensés, annonce Santé publique France",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/pendant-la-canicule-du-debut-du-mois-de-juillet-1-243-deces-en-exces-ont-ete-recenses-annonce-sante-publique-france_8153282.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cette augmentation de la mortalité ne peut toutefois pas encore être imputé avec certitude à la chaleur. Les autorités sanitaires le sauront à la fin de l'été, une fois que toutes les données auront été analysées.",
-      "image": "https://www.franceinfo.fr/pictures/6TT7j2KQTZ7vd56B6oDqulSMJM0/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85642d0fdb8749446754.jpg",
-      "published_at": "2026-08-19T15:34:56+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "55cb2dc88e21"
-    },
-    {
-      "title": "Victor Wembanyama nommé capitaine de l'équipe de France de basket pour les matchs d'août",
-      "url": "https://www.franceinfo.fr/sports/basket/victor-wembanyama/victor-wembanyama-nomme-capitaine-de-l-equipe-de-france-de-basket-pour-les-matchs-d-aout_8153669.html#xtor=RSS-3-[lestitres]",
-      "summary": "La star des Spurs va revêtir le maillot des Bleus pour la première fois depuis les Jeux olympiques 2024.",
-      "image": "https://www.franceinfo.fr/pictures/YQJqpoIROVF4aTmj1sSgSPEv268/0x418:5805x3683/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85aff2d07ae175528203.jpg",
-      "published_at": "2026-08-19T15:34:45+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "d6860ed75aa4"
-    },
-    {
-      "title": "Au Kenya, le recours croissant aux « goons », ces gros bras payés pour semer le chaos dans les meetings politiques",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/19/au-kenya-le-recours-croissant-aux-goons-ces-gros-bras-payes-pour-semer-le-chaos-dans-les-meetings-politiques_6749875_3212.html",
-      "summary": "Embauchés par des reponsables politiques pour assurer leur sécurité ou intimider leurs rivaux, ces jeunes n’hésitent pas à faire preuve de violence. Dimanche, un rassemblement du mouvement d’opposition Linda Mwananchi a été attaqué dans l’ouest du pays. A un an de l’élection présidentielle, le phénomène inquiète.",
-      "image": "https://img.lemde.fr/2026/08/18/233/0/5713/2856/644/322/60/0/d96bccd_upload-1-otjnorawucop-2025-06-17t130842z-588509635-mt1zuma000k45zab-rtrmadp-3-zuma.JPG",
-      "published_at": "2026-08-19T15:30:06+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "84a589797930"
-    },
-    {
-      "title": "« On pensait pouvoir au moins tremper les pieds, mais c’est interdit » : les proliférations de cyanobactéries empêchent la baignade dans des lacs et rivières de France",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/19/dans-les-lacs-et-rivieres-de-france-les-proliferations-de-cyanobacteries-empechent-la-baignade-on-pensait-pouvoir-au-moins-tremper-les-pieds-mais-c-est-interdit_6749874_3244.html",
-      "summary": "Ces micro-organismes se développent de plus en plus l’été dans l’eau douce, entraînant des restrictions, comme au lac de Bairon, dans les Ardennes.",
-      "image": "https://img.lemde.fr/2026/08/18/670/0/3000/1500/644/322/60/0/9b7f39c_upload-1-majkvjwp0u3m-dsc3446.jpg",
-      "published_at": "2026-08-19T15:30:01+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "a667f4666d4d"
-    },
-    {
-      "title": "Taylor Sheridan annule un spin-off Yellowstone assez controversé",
-      "url": "https://www.numerama.com/pop-culture/2314083-taylor-sheridan-annule-un-spin-off-yellowstone-pourtant-tres-attendu.html",
-      "summary": "Alors que l’empire Yellowstone continue d’inonder les écrans avec ses déclinaisons en série, Taylor Sheridan vient d’asséner une douche froide aux fans. Le showrunner texan a enterré le projet de spin-off centré sur le mythique ranch 6666.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-19T13:30:00+00:00",
-      "source": "Numerama",
-      "category": "Culture",
-      "id": "6788d9812cf7"
-    },
-    {
-      "title": "\"Une situation extrêmement grave\" : pourquoi le gouvernement est sous le feu des critiques après le piratage du fisc",
-      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/une-situation-extremement-grave-pourquoi-le-gouvernement-est-sous-le-feu-des-critiques-apres-le-piratage-du-fisc_8153363.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les excuses du ministre des Comptes publics, mardi, et l'annonce d'un plan pour se protéger de futures cyberattaques n'ont pas éteint les condamnations d'opposants politiques et d'experts en cybersécurité.",
-      "image": "https://www.franceinfo.fr/pictures/iCMsaAJdtBzUPAKUPDS8VW4QKHk/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8597c88ce17760294122.jpg",
-      "published_at": "2026-08-19T15:29:02+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "74cc59671c4b"
-    },
-    {
-      "title": "Championnat d’Europe de cécifoot à Strasbourg : «Avec la médaille d’or aux JO 2024, ça a pris une ampleur totalement différente»",
-      "url": "https://www.liberation.fr/sports/football/championnat-deurope-de-cecifoot-a-strasbourg-avec-la-medaille-dor-aux-jo-2024-ca-a-pris-une-ampleur-totalement-differente-20260819_Y7PFLFQ2PJCL7BLJAISK6MV734/",
-      "summary": "La capitale alsacienne accueille cette semaine les championnats d’Europe. Les tribunes pleines et les bonnes audiences traduisent un engouement toujours là, deux ans après les Jeux de Paris. Même si les joueurs demandent plus de moyens.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-19T13:25:48+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "1017dd191bf1"
-    },
-    {
-      "title": "Mort de François Patriat : la République perd « l’un de ses plus infatigables artisans », déclare Emmanuel Macron",
-      "url": "https://www.lemonde.fr/disparitions/article/2026/08/19/mort-de-francois-patriat-la-republique-perd-l-un-de-ses-plus-infatigables-artisans-declare-emmanuel-macron_6749873_3382.html",
-      "summary": "Les hommages se sont multipliés, mercredi, après la disparition du président du groupe macroniste au Sénat, salué comme un « serviteur fidèle » de la République et un élu profondément attaché à la Bourgogne.",
-      "image": "https://img.lemde.fr/2026/08/19/88/0/7367/3683/644/322/60/0/9ec3f7b_ftp-1-ve9skbxhosmj-5873060-01-06.jpg",
-      "published_at": "2026-08-19T15:24:11+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "b46874d7051e"
-    },
-    {
-      "title": "Dans le Gard, le cadavre calciné retrouvé la semaine dernière dans les vignes est celui de l’influenceuse Sonia Bellina",
-      "url": "https://www.liberation.fr/societe/police-justice/dans-le-gard-un-cadavre-calcine-retrouve-la-semaine-derniere-dans-les-vignes-serait-celui-dune-influenceuse-20260818_TZJ6LV7GXVBTJJI3RMQEUSDSYU/",
-      "summary": "Le parquet de Nîmes a confirmé l’identité de la Tiktokeuse aux près de 260 000 abonnés ce mercredi 19 août. Deux personnes ont été placées en garde à vue dans le cadre d’une enquête pour assassinat.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-19T13:21:37+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "6df222c170e4"
-    },
-    {
-      "title": "Haine en ligne : l’influenceuse Sonia Bellina n’a commis aucun crime, juste celui d’être une femme libre",
-      "url": "https://www.liberation.fr/societe/droits-des-femmes/haine-en-ligne-linfluenceuse-sonia-bellina-na-commis-aucun-crime-juste-celui-detre-une-femme-libre-20260819_N6NWMY2MHFCNVJFO4J6VQZWM5U/",
-      "summary": "Alors que le corps calciné de la tiktokeuse a été retrouvée dans le Gard, le 12 août, la famille fait face, sur Internet, à un harcèlement frontalement misogyne. Le symptôme d’un classement inhumain entre «bonnes» ou de «mauvaises victimes».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-19T13:19:44+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "1099ff025b9a"
     }
   ]
 }
