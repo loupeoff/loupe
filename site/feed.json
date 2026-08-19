@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-08-19T21:32:44.431343+00:00",
+  "generated_at": "2026-08-19T22:32:29.974902+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "La dette publique américaine dépasse pour la première fois les 40 000 milliards de dollars",
+      "url": "https://www.lemonde.fr/international/article/2026/08/20/la-dette-publique-americaine-depasse-pour-la-premiere-fois-les-40-000-milliards-de-dollars_6750104_3210.html",
+      "summary": "La progression de l’endettement s’avère plus rapide qu’anticipé par le bureau du Congrès pour le budget, sur fond de déficits persistants et de hausse des taux d’intérêt.",
+      "image": "https://img.lemde.fr/2026/08/19/482/0/5544/2772/644/322/60/0/95788fd_ftp-1-osf4f0bo3mxq-5874560-01-06.jpg",
+      "published_at": "2026-08-20T00:01:25+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "0ff7bc102af6"
+    },
+    {
+      "title": "Une vingtaine de cas autochtones de Chikungunya identifiés dans l'Hexagone",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/une-vingtaine-de-cas-autochtones-de-chikungunya-identifies-dans-l-hexagone_8154161.html#xtor=RSS-3-[lestitres]",
+      "summary": "La présence régulière de cas de chikungunya dans l'Hexagone, transmis par le moustique tigre, témoigne de l'implantation persistante de cette maladie depuis plusieurs années sur le territoire.",
+      "image": "https://www.franceinfo.fr/pictures/uLlnFQdDgxwmXMxhkqxWGuYRyxs/0x25:1024x601/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8626f74443e422534422.jpg",
+      "published_at": "2026-08-19T23:58:53+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "77a066a978b2"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Iryna Mudra, directrice adjointe du cabinet de Volodymyr Zelensky, démissionne",
+      "url": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-iryna-mudra-directrice-adjointe-du-cabinet-de-volodymyr-zelensky-demissionne_6746952_3210.html",
+      "summary": "Dans un long message publié sur X, Iryna Mudra confirme son départ après l’ouverture d’une enquête anticorruption et d’une perquisition à son domicile, tout en assurant ne pas avoir fait l’objet d’une arrestation.",
+      "image": "https://img.lemde.fr/2026/08/19/700/0/8399/4199/644/322/60/0/747f071_upload-1-kywfejnhp8qg-ap24073527944097.jpg",
+      "published_at": "2026-08-19T23:50:14+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "77e156d56746"
+    },
+    {
+      "title": "Le voilier à la dérive dans l'Atlantique a coulé, les recherches ont cessées",
+      "url": "https://www.franceinfo.fr/faits-divers/le-voilier-a-la-derive-dans-l-atlantique-a-coule-les-recherches-ont-cessees_8154176.html#xtor=RSS-3-[lestitres]",
+      "summary": "La préfecture maritime de l'Atlantique n'a pas connaissance du nombre exact de passagers qui étaient à bord du navire, \"certainement un seul\", estime-t-elle.",
+      "image": "https://www.franceinfo.fr/pictures/3G40AP0vmZAQ4qiqk6Vh_F_AreE/0x59:1024x635/432x243/filters:format(jpg):quality(50)/2026/08/19/6a86216b248e2714396402.jpg",
+      "published_at": "2026-08-19T23:36:32+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "32b3b3600e20"
+    },
+    {
+      "title": "\"Il fait trop chaud, c'est ce qui est le plus dur\" : ces retraités contraints d'être saisonniers pendant l'été",
+      "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/il-fait-trop-chaud-c-est-ce-qui-est-le-plus-dur-ces-retraites-contraints-d-etre-saisonniers-pendant-l-ete_8154134.html#xtor=RSS-3-[lestitres]",
+      "summary": "Alors que le gouvernement envisage de limiter la revalorisation de certaines pensions, les retraités sont de plus en plus nombreux à reprendre le travail pendant l'été pour joindre les deux bouts. C'est le cas de Bernard, qui fait les vendanges depuis trois ans pour compléter ses revenus.",
+      "image": "https://www.franceinfo.fr/pictures/gP5ML9QR073zHGXr0y_jWAuKyjc/0x93:1518x947/432x243/filters:format(jpg):quality(50)/2026/08/19/6a860ce30feea453140268.png",
+      "published_at": "2026-08-19T23:20:30+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "64e7b965ecde"
+    },
     {
       "title": "Guerre en Ukraine : huit personnes tuées dans des attaques en Ukraine et en Russie",
       "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quatre-personnes-sont-mortes-dans-une-attaque-russe-contre-un-bus-a-kherson_8153270.html#xtor=RSS-3-[lestitres]",
@@ -51,26 +101,6 @@
       "source": "France Info",
       "category": "Société",
       "id": "ac0b7fbb75a5"
-    },
-    {
-      "title": "Opération Nemus : dans les massifs forestiers de l'Aude, les gendarmes traquent les départs de feu auprès des pompiers",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/operation-nemus-dans-les-massifs-forestiers-de-l-aude-les-gendarmes-traquent-les-departs-de-feu-aupres-des-pompiers_8154113.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un nouveau dispositif est lancé pour lutter contre les incendies : des gendarmes sont envoyés en renfort auprès des pompiers pour traquer les incendiaires. Illustration à Narbonne, dans le massif des Corbières.",
-      "image": "https://www.franceinfo.fr/pictures/ad0886urATSKniYHq8cy_BZ_Ay4/0x31:1664x967/432x243/filters:format(jpg):quality(50)/2026/08/19/6a86015e2c0f8769226164.png",
-      "published_at": "2026-08-19T22:16:08+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "eca19799f889"
-    },
-    {
-      "title": "\"Tous les endroits où je cachais mes pièces avaient été dérobés\" : quand les voleurs se font passer pour des policiers ou des plombiers",
-      "url": "https://www.franceinfo.fr/faits-divers/tous-les-endroits-ou-je-cachais-mes-pieces-avaient-ete-derobes-quand-les-voleurs-se-font-passer-pour-des-policiers-ou-des-plombiers_8154110.html#xtor=RSS-3-[lestitres]",
-      "summary": "Faux policiers, faux plombiers : les vols à domicile se multiplient, et visent notamment les personnes âgées. Guy l'a appris à ses dépens : en quelques minutes, sa collection de pièces d'or, initiée à l’âge de 13 ans, s'est volatilisée. Il témoigne dans le 20 Heures, mercredi 19 août.",
-      "image": "https://www.franceinfo.fr/pictures/AWXGl802Anx9eg1QpK14O8N6EUg/0x75:1516x928/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85ff7582456082181779.png",
-      "published_at": "2026-08-19T22:14:38+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "b5601ab2753c"
     },
     {
       "title": "Dix personnes, dont une adolescente, sont mortes dans des frappes israélienne sur Gaza",
@@ -128,7 +158,7 @@
       "summary": "« Nous ne tolérerons pas un enracinement militaire turc progressant vers le sud, car cela nous menace », a estimé le premier ministre israélien, alors que la Turquie nie tout projet de déploiement de troupes en Syrie.",
       "image": "https://img.lemde.fr/2026/08/17/27/0/2719/1359/644/322/60/0/e6aae2d_ftp-1-uk3skvoiwhtz-5862493-01-06.jpg",
       "published_at": "2026-08-19T21:59:45+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "6b1bea66d07e"
     },
@@ -151,16 +181,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "a9fd3bb8fab6"
-    },
-    {
-      "title": "La préfecture du Var prépare un arrêté pour interdire la chasse en septembre \"dans les secteurs boisés incendiés\" du département",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/la-prefecture-du-var-prepare-un-arrete-pour-interdire-la-chasse-en-septembre-dans-les-secteurs-boises-incendies-du-departement_8154098.html#xtor=RSS-3-[lestitres]",
-      "summary": "Ce texte, encore en préparation, ne s'applique pas \"à la chasse au sanglier en battue afin de permettre la poursuite de la régulation de la population de sangliers dans le département\".",
-      "image": "https://www.franceinfo.fr/pictures/1hLOdaKJwc1DHL6gfyMZqKj-0f0/0x292:2000x1417/432x243/filters:format(jpg):quality(50)/2025/05/16/chasse-68276d28b08b1335371104.jpg",
-      "published_at": "2026-08-19T21:03:05+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "083909900ab4"
     },
     {
       "title": "Ligue 1 : la pelouse du Parc des Princes est dans un état catastrophique à cause de la canicule, le match PSG-Rennes déplacé",
@@ -223,16 +243,6 @@
       "id": "4ffd073a8693"
     },
     {
-      "title": "Meurtre de Thomas à Crépol : des avocats de la défense demandent la récusation des juges d'instruction et la nullité de la circonstance aggravante de \"racisme anti-blanc\"",
-      "url": "https://www.franceinfo.fr/faits-divers/meurtre-de-thomas-a-crepol/meurtre-de-thomas-a-crepol-des-avocats-de-la-defense-demandent-la-recusation-des-juges-d-instruction-et-la-nullite-de-la-circonstance-aggravante-de-racisme-anti-blanc_8154056.html#xtor=RSS-3-[lestitres]",
-      "summary": "Me Elise Rey-Jacquot et Me Bilel Hakkar estiment qu'aucune investigation récente n'a été menée sur cette notion et exigent que les témoins soient réentendus et confrontés aux mis en examen.",
-      "image": "https://www.franceinfo.fr/pictures/Yl0goO8i_wSMEWxciBrfafvbdZc/0x283:2472x1674/432x243/filters:format(jpg):quality(50)/2026/06/03/6a2049a3a5825631649314.jpg",
-      "published_at": "2026-08-19T20:04:39+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "797c4a94ec92"
-    },
-    {
       "title": "La France et l'Union européenne soutiennent la Cour pénale internationale après les sanctions américaines contre sa présidente",
       "url": "https://www.franceinfo.fr/monde/l-union-europeenne-soutient-la-cour-penale-internationale-apres-les-sanctions-americaines-contre-sa-presidente_8153843.html#xtor=RSS-3-[lestitres]",
       "summary": "Les Nations unies et l'Allemagne ont également apporté leur soutien à l'institution et à sa présidente, Tomoko Akane.",
@@ -281,16 +291,6 @@
       "source": "Libération",
       "category": "International",
       "id": "aa884eac13af"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : le nouveau ministre de la défense ukrainien promet d’intensifier les attaques en profondeur en Russie",
-      "url": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-le-nouveau-ministre-de-la-defense-ukrainien-promet-d-intensifier-les-attaques-en-profondeur-en-russie_6746952_3210.html",
-      "summary": "Estimant que l’armée ukrainienne était, « pour la première fois dans l’histoire », capable de frapper des cibles jusque dans la lointaine Sibérie, le ministre, dont la nomination a été approuvée par le Parlement, a dit que les frappes à moyenne et longue portée sont une priorité.",
-      "image": "https://img.lemde.fr/2026/08/19/203/0/2432/1216/644/322/60/0/3c2f22e_ftp-1-3b7eoscreydj-5872878-01-06.jpg",
-      "published_at": "2026-08-19T19:35:44+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "115e5b90713d"
     },
     {
       "title": "Il vend son compte Dofus pour aider à financer sa boulangerie : que prévoient les règles d’Ankama ?",
