@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-08-19T20:36:40.018966+00:00",
+  "generated_at": "2026-08-19T21:32:44.431343+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Guerre en Ukraine : huit personnes tuées dans des attaques en Ukraine et en Russie",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quatre-personnes-sont-mortes-dans-une-attaque-russe-contre-un-bus-a-kherson_8153270.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'explosion d'un drone russe sur un minibus a tué quatre civils à Kherson, tous âgés de plus de 60 ans, blessant également cinq personnes. Deux policiers ukrainiens et deux civils ont également été tués.",
+      "image": "https://www.franceinfo.fr/pictures/ncJ1CsXNcNIlk9_9CG_hQVf218Y/0x240:1280x960/432x243/filters:format(jpg):quality(50)/2026/08/19/6a857a53529f0530327327.png",
+      "published_at": "2026-08-19T23:09:12+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "4ea171d064ad"
+    },
+    {
+      "title": "Un incendie en Lozère a parcouru 250 hectares, deux hameaux évacués",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/un-incendie-en-lozere-a-parcouru-250-hectares-deux-hameaux-evacues_8154155.html#xtor=RSS-3-[lestitres]",
+      "summary": "Une vingtaine de personnes sont concernées par les évacuations. Un pompier a par ailleurs été brûlé au deuxième degré aux mains et aux jambes.",
+      "image": "https://www.franceinfo.fr/pictures/882TYyOxRmBYWnK4Aqe5i9EVZ7M/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8617165a345886576373.jpg",
+      "published_at": "2026-08-19T23:01:08+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "dc98c874540e"
+    },
     {
       "title": "\"Je ne suis jamais allé à la plage de ma vie\" : le Secours populaire emmène les enfants à la mer à Deauville",
       "url": "https://www.franceinfo.fr/decouverte/vacances/je-ne-suis-jamais-alle-a-la-plage-de-ma-vie-le-secours-populaire-emmene-les-enfants-a-la-mer-a-deauville_8154107.html#xtor=RSS-3-[lestitres]",
@@ -21,6 +41,16 @@
       "source": "France Info",
       "category": "International",
       "id": "e2e6b3f602e7"
+    },
+    {
+      "title": "\"Les plants devraient être deux, trois fois plus gros\" : l'inquiétude des producteurs après les sécheresses",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/les-plants-devraient-etre-deux-trois-fois-plus-gros-l-inquietude-des-producteurs-apres-les-secheresses_8154122.html#xtor=RSS-3-[lestitres]",
+      "summary": "Autre conséquence de la sécheresse : les fruits et légumes sont beaucoup plus petits. Pour les producteurs, c’est la double peine : des récoltes en baisse, et une production difficile à écouler.",
+      "image": "https://www.franceinfo.fr/pictures/7S0CEGwG5lwlhgtx-tDf-fz8hT8/0x79:1702x1037/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8604e155798970546890.png",
+      "published_at": "2026-08-19T22:23:59+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "ac0b7fbb75a5"
     },
     {
       "title": "Opération Nemus : dans les massifs forestiers de l'Aude, les gendarmes traquent les départs de feu auprès des pompiers",
@@ -193,16 +223,6 @@
       "id": "4ffd073a8693"
     },
     {
-      "title": "Incendie en Lozère : 150 hectares déjà parcourus, un hameau évacué, d’importants moyens aériens mobilisés",
-      "url": "https://france3-regions.franceinfo.fr/occitanie/lozere/mende/incendie-en-lozere-150-hectares-deja-parcourus-un-hameau-evacue-d-importants-moyens-aeriens-mobilises-3403873.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un important incendie s’est déclaré ce mercredi 19 août 2026 après-midi à Prévenchères, au nord de Villefort, en Lozère. Le feu évolue rapidement et a déjà parcouru 150 hectares. Six Canadair et deux Dash 8 sont engagés pour tenter de freiner sa progression.",
-      "image": "https://www.franceinfo.fr/pictures/1Sz9NGIXdpMVX2hN0Gy9ZZfL9jc/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85ede1cf6d1097342509.jpg",
-      "published_at": "2026-08-19T20:11:30+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "d4e134fe982c"
-    },
-    {
       "title": "Meurtre de Thomas à Crépol : des avocats de la défense demandent la récusation des juges d'instruction et la nullité de la circonstance aggravante de \"racisme anti-blanc\"",
       "url": "https://www.franceinfo.fr/faits-divers/meurtre-de-thomas-a-crepol/meurtre-de-thomas-a-crepol-des-avocats-de-la-defense-demandent-la-recusation-des-juges-d-instruction-et-la-nullite-de-la-circonstance-aggravante-de-racisme-anti-blanc_8154056.html#xtor=RSS-3-[lestitres]",
       "summary": "Me Elise Rey-Jacquot et Me Bilel Hakkar estiment qu'aucune investigation récente n'a été menée sur cette notion et exigent que les témoins soient réentendus et confrontés aux mis en examen.",
@@ -263,16 +283,6 @@
       "id": "aa884eac13af"
     },
     {
-      "title": "La France dénonce les propos \"insupportables et inhumains\" sur Gaza du ministre israélien Itamar Ben Gvir",
-      "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/la-france-denonce-les-propos-insupportables-et-inhumains-sur-gaza-du-ministre-israelien-itamar-ben-gvir_8153585.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le ministre d'extrême droite, chargé de la Sécurité nationale, a appelé au meurtre de plusieurs dizaines de Palestiniens dans la bande de Gaza.",
-      "image": "https://www.franceinfo.fr/pictures/vfmxLrum5Px921Uuo-zTWKc1MAk/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a859580221d5841475225.jpg",
-      "published_at": "2026-08-19T19:38:17+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "bc46ffa01c25"
-    },
-    {
       "title": "EN DIRECT, guerre en Ukraine : le nouveau ministre de la défense ukrainien promet d’intensifier les attaques en profondeur en Russie",
       "url": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-le-nouveau-ministre-de-la-defense-ukrainien-promet-d-intensifier-les-attaques-en-profondeur-en-russie_6746952_3210.html",
       "summary": "Estimant que l’armée ukrainienne était, « pour la première fois dans l’histoire », capable de frapper des cibles jusque dans la lointaine Sibérie, le ministre, dont la nomination a été approuvée par le Parlement, a dit que les frappes à moyenne et longue portée sont une priorité.",
@@ -291,16 +301,6 @@
       "source": "Numerama",
       "category": "Économie",
       "id": "07a8cc34a657"
-    },
-    {
-      "title": "Affaire Le Scouarnec : information judiciaire ouverte pour 10 nouveaux viols et 40 agressions sexuelles",
-      "url": "https://www.liberation.fr/societe/police-justice/affaire-le-scouarnec-information-judiciaire-ouverte-pour-10-nouveaux-viols-et-40-agressions-sexuelles-20260819_XTFYILYPWZBF3LXEI2HMFPS4ZM/",
-      "summary": "Les faits ne sont pas prescrits et «concernent 48 victimes», a précisé la procureure de Lorient ce mercredi. Joël Le Scouarnec avait été condamné fin mai 2025 à 20 ans de prison pour viols et agressions sexuelles sur 299 mineurs.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-19T17:29:38+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "a970ee0b392d"
     }
   ]
 }
