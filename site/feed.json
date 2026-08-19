@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-08-19T22:32:29.974902+00:00",
+  "generated_at": "2026-08-19T23:29:45.262251+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Le chef du renseignement équatorien, proche du président Noboa, meurt dans un accident d’hélicoptère au Kenya",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/20/le-chef-du-renseignement-equatorien-proche-du-president-noboa-meurt-dans-un-accident-d-helicoptere-au-kenya_6750170_3212.html",
+      "summary": "Michele Sensi-Contugi, 44 ans, ainsi que cinq ressortissants américains, dont son épouse, fait partie des sept victimes de ce crash survenu lors d’une excursion touristique.",
+      "image": "https://img.lemde.fr/2026/08/19/462/0/2287/1143/644/322/60/0/0e5b4d3_ftp-1-3wfvfkvfvoh8-5874878-01-06.jpg",
+      "published_at": "2026-08-20T01:14:58+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "28ecd604573b"
+    },
+    {
+      "title": "La NASA annonce l’échec de sa périlleuse mission de sauvetage du télescope scientifique Swift",
+      "url": "https://www.lemonde.fr/sciences/article/2026/08/20/la-nasa-annonce-l-echec-de-sa-perilleuse-mission-de-sauvetage-du-telescope-scientifique-swift_6750137_1650684.html",
+      "summary": "Un robot spatial devait rejoindre le télescope vieillissant, s’y agripper puis relever son orbite afin de prolonger sa mission scientifique. Faute d’une intervention réussie, Swift poursuivra sa lente descente avant de se désintégrer dans l’atmosphère terrestre.",
+      "image": "https://img.lemde.fr/2026/08/11/457/0/5226/2613/644/322/60/0/eafc05a_ftp-1-bccxqtg9vqza-2026-08-11t165911z-1171446787-rc2bwmam1wud-rtrmadp-3-solar-eclipse-iceland-nasa.JPG",
+      "published_at": "2026-08-20T00:52:43+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "28f47c67ab29"
+    },
     {
       "title": "La dette publique américaine dépasse pour la première fois les 40 000 milliards de dollars",
       "url": "https://www.lemonde.fr/international/article/2026/08/20/la-dette-publique-americaine-depasse-pour-la-premiere-fois-les-40-000-milliards-de-dollars_6750104_3210.html",
       "summary": "La progression de l’endettement s’avère plus rapide qu’anticipé par le bureau du Congrès pour le budget, sur fond de déficits persistants et de hausse des taux d’intérêt.",
       "image": "https://img.lemde.fr/2026/08/19/482/0/5544/2772/644/322/60/0/95788fd_ftp-1-osf4f0bo3mxq-5874560-01-06.jpg",
-      "published_at": "2026-08-20T00:01:25+02:00",
+      "published_at": "2026-08-20T00:01:24+02:00",
       "source": "Le Monde",
       "category": "Économie",
       "id": "0ff7bc102af6"
@@ -23,11 +43,11 @@
       "id": "77a066a978b2"
     },
     {
-      "title": "EN DIRECT, guerre en Ukraine : Iryna Mudra, directrice adjointe du cabinet de Volodymyr Zelensky, démissionne",
+      "title": "EN DIRECT, guerre en Ukraine : des bombardements nocturnes russes font deux morts à Kiev",
       "url": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-iryna-mudra-directrice-adjointe-du-cabinet-de-volodymyr-zelensky-demissionne_6746952_3210.html",
-      "summary": "Dans un long message publié sur X, Iryna Mudra confirme son départ après l’ouverture d’une enquête anticorruption et d’une perquisition à son domicile, tout en assurant ne pas avoir fait l’objet d’une arrestation.",
-      "image": "https://img.lemde.fr/2026/08/19/700/0/8399/4199/644/322/60/0/747f071_upload-1-kywfejnhp8qg-ap24073527944097.jpg",
-      "published_at": "2026-08-19T23:50:14+02:00",
+      "summary": "Au moins six autres personnes ont été blessées à la suite de ces nouvelles frappes russes, dans la nuit de mercredi à jeudi, dans la capitale ukrainienne, ont fait savoir les autorités.",
+      "image": "https://img.lemde.fr/2026/08/19/1000/0/6048/3024/644/322/60/0/e75c1ff_ftp-1-lerwymzoks2h-5876478-01-06.jpg",
+      "published_at": "2026-08-19T23:50:09+02:00",
       "source": "Le Monde",
       "category": "International",
       "id": "77e156d56746"
@@ -281,26 +301,6 @@
       "source": "Le Monde",
       "category": "Sport",
       "id": "71fa5e70a22a"
-    },
-    {
-      "title": "«Eliminez-en 30 ou 40» chaque «nuit à Gaza» : la France et l’Allemagne dénoncent les propos «inhumains» d’un ministre israélien",
-      "url": "https://www.liberation.fr/international/moyen-orient/eliminez-en-30-ou-40-chaque-nuit-a-gaza-la-france-et-lallemagne-denoncent-les-propos-inhumains-dun-ministre-israelien-20260819_2DXG2G3FI5HCRFWE742PLQF4YU/",
-      "summary": "Itamar Ben Gvir a appelé dans un podcast à des tueries dans l’enclave palestinienne. Jean-Michel Barrot, Friedrich Merz et le patron de l’ONU António Guterres s’en sont offusqués ce mercredi 19 août.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-19T17:50:04+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "aa884eac13af"
-    },
-    {
-      "title": "Il vend son compte Dofus pour aider à financer sa boulangerie : que prévoient les règles d’Ankama ?",
-      "url": "https://www.numerama.com/pop-culture/2313361-il-a-finance-une-partie-de-sa-boulangerie-avec-un-compte-dofus-quil-navait-pas-le-droit-de-vendre.html",
-      "summary": "Après vingt ans de jeu, Florent a vendu son compte Dofus pour compléter l’apport nécessaire à l’ouverture de sa boulangerie, rapporte la RTBF. Son histoire met en lumière un marché parallèle où comptes, kamas et services s’échangent contre de l’argent réel, malgré l’interdiction d’Ankama, le studio derrière le MMORPG.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-19T17:31:21+00:00",
-      "source": "Numerama",
-      "category": "Économie",
-      "id": "07a8cc34a657"
     }
   ]
 }
