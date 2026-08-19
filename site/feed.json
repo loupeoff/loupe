@@ -1,7 +1,187 @@
 {
-  "generated_at": "2026-08-19T13:01:11.270197+00:00",
+  "generated_at": "2026-08-19T13:50:39.314121+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "La justice française ordonne la remise à l’Allemagne du militant antifasciste albanais « Gino »",
+      "url": "https://www.lemonde.fr/international/article/2026/08/19/la-justice-francaise-ordonne-la-remise-a-l-allemagne-du-militant-antifasciste-albanais-gino_6749877_3210.html",
+      "summary": "Rexhino Abazaj est poursuivi pour des violences contre des néonazis en 2023 à Budapest. La France lui avait refusé l’extradition vers la Hongrie en raison de risques pour ses droits fondamentaux. Son avocat a annoncé un pourvoi en cassation.",
+      "image": "https://img.lemde.fr/2026/08/19/392/0/4184/2092/644/322/60/0/c28604e_upload-1-jzgsdkedfsid-000-39789jt.jpg",
+      "published_at": "2026-08-19T15:46:36+02:00",
+      "source": "Le Monde Inter",
+      "category": "Société",
+      "id": "8d6ff9be3111"
+    },
+    {
+      "title": "Le médicament Tavneos, pour traiter certaines maladies auto-immunes rares, retiré du marché en France après plusieurs morts à l’étranger",
+      "url": "https://www.lemonde.fr/sante/article/2026/08/19/le-medicament-tavneos-retire-du-marche-francais-apres-le-signalement-de-plusieurs-morts-a-l-etranger_6749876_1651302.html",
+      "summary": "Au printemps, le groupe Kissei, qui commercialise Tavneos au Japon, a fait état d’une vingtaine de morts parmi les patients traités depuis l’introduction du médicament sur le marché japonais en 2022. En France, selon l’ANSM, il est prescrit à 600 patients.",
+      "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/38ec457_upload-1-pp9dio4dwjlw-frame-340.jpg",
+      "published_at": "2026-08-19T15:42:28+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "b31fa1af0572"
+    },
+    {
+      "title": "Judith Lyon-Caen : splendeurs et misères de la vie posthume de Balzac",
+      "url": "https://www.liberation.fr/culture/livres/judith-lyon-caen-splendeurs-et-miseres-de-la-vie-posthume-de-balzac-20260819_52JPYZXNENFZXBZASQ6WIAIQYQ/",
+      "summary": "Révolutionnaire chez Hugo, royaliste pour Barbey, fasciste d’après Bardèche… L’historienne retrace la série des relectures et récupérations subies par l’auteur de «la Comédie humaine» jusque dans les années 1950.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-19T13:40:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "53285eadeaea"
+    },
+    {
+      "title": "Pendant la canicule du début du mois de juillet, \"1 243 décès en excès\" ont été recensés, annonce Santé publique France",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/pendant-la-canicule-du-debut-du-mois-de-juillet-1-243-deces-en-exces-ont-ete-recenses-annonce-sante-publique-france_8153282.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette augmentation de la mortalité ne peut toutefois pas encore être imputé avec certitude à la chaleur. Les autorités sanitaires le sauront à la fin de l'été, une fois que toutes les données auront été analysées.",
+      "image": "https://www.franceinfo.fr/pictures/6TT7j2KQTZ7vd56B6oDqulSMJM0/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85642d0fdb8749446754.jpg",
+      "published_at": "2026-08-19T15:34:56+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "55cb2dc88e21"
+    },
+    {
+      "title": "Au Kenya, le recours croissant aux « goons », ces gros bras payés pour semer le chaos dans les meetings politiques",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/19/au-kenya-le-recours-croissant-aux-goons-ces-gros-bras-payes-pour-semer-le-chaos-dans-les-meetings-politiques_6749875_3212.html",
+      "summary": "Embauchés par des reponsables politiques pour assurer leur sécurité ou intimider leurs rivaux, ces jeunes n’hésitent pas à faire preuve de violence. Dimanche, un rassemblement du mouvement d’opposition Linda Mwananchi a été attaqué dans l’ouest du pays. A un an de l’élection présidentielle, le phénomène inquiète.",
+      "image": "https://img.lemde.fr/2026/08/18/233/0/5713/2856/644/322/60/0/d96bccd_upload-1-otjnorawucop-2025-06-17t130842z-588509635-mt1zuma000k45zab-rtrmadp-3-zuma.JPG",
+      "published_at": "2026-08-19T15:30:06+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "84a589797930"
+    },
+    {
+      "title": "Dans les lacs et rivières de France, les proliférations de cyanobactéries empêchent la baignade : « On pensait pouvoir au moins tremper les pieds, mais c’est interdit »",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/19/dans-les-lacs-et-rivieres-de-france-les-proliferations-de-cyanobacteries-empechent-la-baignade-on-pensait-pouvoir-au-moins-tremper-les-pieds-mais-c-est-interdit_6749874_3244.html",
+      "summary": "Boostés par la chaleur et la baisse de qualité de l’eau, les micro-organismes se développent abondamment l’été dans l’eau douce, entraînant des restrictions de baignade, comme au lac de Bairon, dans les Ardennes.",
+      "image": "https://img.lemde.fr/2026/08/18/670/0/3000/1500/644/322/60/0/9b7f39c_upload-1-majkvjwp0u3m-dsc3446.jpg",
+      "published_at": "2026-08-19T15:30:01+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "a667f4666d4d"
+    },
+    {
+      "title": "Le corps retrouvé calciné dans le Gard est bien celui de l'influenceuse Sonia Bellina, deux hommes placés en garde à vue",
+      "url": "https://www.franceinfo.fr/faits-divers/le-corps-retrouve-calcine-dans-le-gard-est-bien-celui-de-l-influenceuse-sonia-bellina-deux-hommes-places-en-garde-a-vue_8153642.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le corps avait été retrouvé entre des rangs de vignes à Saint-Gilles (Gard) le 12 août.",
+      "image": "https://www.franceinfo.fr/pictures/1zWwJ8-1btgK2WBWP9hdRbkx4z4/432x243/filters:format(jpg):quality(50)/2026/08/18/6a847c96e6910818778596.jpg",
+      "published_at": "2026-08-19T15:25:49+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "4e4dd691c31b"
+    },
+    {
+      "title": "Championnat d’Europe de cécifoot à Strasbourg: «Avec la médaille d’or aux JO 2024, ça a pris une ampleur totalement différente»",
+      "url": "https://www.liberation.fr/sports/football/championnat-deurope-de-cecifoot-a-strasbourg-avec-la-medaille-dor-aux-jo-2024-ca-a-pris-une-ampleur-totalement-differente-20260819_Y7PFLFQ2PJCL7BLJAISK6MV734/",
+      "summary": "La capitale alsacienne accueille cette semaine les championnats d’Europe. Les tribunes pleines et les bonnes audiences traduisent un engouement toujours là, deux ans après les Jeux de Paris. Même si les joueurs demandent plus de moyens.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-19T13:25:48+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "1017dd191bf1"
+    },
+    {
+      "title": "Mort de François Patriat : la République perd « l’un de ses plus infatigables artisans », déclare Emmanuel Macron",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/08/19/mort-de-francois-patriat-la-republique-perd-l-un-de-ses-plus-infatigables-artisans-declare-emmanuel-macron_6749873_3382.html",
+      "summary": "Les hommages se sont multipliés mercredi après la disparition du président du groupe macroniste au Sénat, salué comme un « serviteur fidèle » de la République et un élu profondément attaché à la Bourgogne.",
+      "image": "https://img.lemde.fr/2026/08/19/88/0/7367/3683/644/322/60/0/9ec3f7b_ftp-1-ve9skbxhosmj-5873060-01-06.jpg",
+      "published_at": "2026-08-19T15:24:11+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "b46874d7051e"
+    },
+    {
+      "title": "Dans le Gard, le cadavre calciné retrouvé la semaine dernière dans les vignes est celui de l’influenceuse Sonia Bellina",
+      "url": "https://www.liberation.fr/societe/police-justice/dans-le-gard-un-cadavre-calcine-retrouve-la-semaine-derniere-dans-les-vignes-serait-celui-dune-influenceuse-20260818_TZJ6LV7GXVBTJJI3RMQEUSDSYU/",
+      "summary": "Le parquet de Nîmes a confirmé l’identité de la Tiktokeuse aux près de 260 000 abonnés ce mercredi 19 août. Deux personnes ont été placées en garde à vue dans le cadre d’une enquête pour assassinat.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T13:21:37+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "6df222c170e4"
+    },
+    {
+      "title": "Haine en ligne : l’influenceuse Sonia Bellina n’a commis aucun crime, juste celui d’être une femme libre",
+      "url": "https://www.liberation.fr/societe/droits-des-femmes/haine-en-ligne-linfluenceuse-sonia-bellina-na-commis-aucun-crime-juste-celui-detre-une-femme-libre-20260819_N6NWMY2MHFCNVJFO4J6VQZWM5U/",
+      "summary": "Alors que le corps calciné de la tiktokeuse a été retrouvée dans le Gard, le 12 août, la famille fait face, sur Internet, à un harcèlement frontalement misogyne. Le symptôme d’un classement inhumain entre «bonnes» ou de «mauvaises victimes».",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T13:19:44+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "1099ff025b9a"
+    },
+    {
+      "title": "Ligue 1+ : une infime partie des matchs sera proposée en 4K UHD pour la saison 2026/2027",
+      "url": "https://www.numerama.com/pop-culture/2314137-ligue-1-une-infime-partie-des-matchs-sera-proposee-en-4k-uhd-pour-la-saison-2026-2027.html",
+      "summary": "La plateforme Ligue 1+ s'apprête à lancer le coup d'envoi de sa deuxième saison. Deux nouveautés cette année : 100 % des matchs chaque week-end, et quelques affiches en 4K UHD.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-19T13:10:31+00:00",
+      "source": "Numerama",
+      "category": "Sport",
+      "id": "92607a07ba23"
+    },
+    {
+      "title": "Sécheresse : aux abois, les jardins botaniques aussi doivent repenser leur modèle pour demain",
+      "url": "https://www.liberation.fr/environnement/biodiversite/secheresse-aux-abois-les-jardins-botaniques-aussi-doivent-repenser-leur-modele-pour-demain-20260819_URG7THPKVZAQDJFMM5JT7QRBFI/",
+      "summary": "Après plusieurs vagues de chaleur et des semaines sans pluie, les parcs français voient certaines espèces dépérir et commencent à repenser leurs plantations pour s’adapter à un climat plus chaud et plus sec.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-08-19T13:08:27+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "994e2ee83c51"
+    },
+    {
+      "title": "Mort du sénateur François Patriat, grand fidèle d’Emmanuel Macron",
+      "url": "https://www.liberation.fr/politique/mort-du-senateur-francois-patriat-grand-fidele-demmanuel-macron-20260819_3Z7XPMFY7BCE3IGTXBX6PQWKAI/",
+      "summary": "L’ancien socialiste, «marcheur» de la première heure et président du groupe macroniste au Sénat, avait été hospitalisé en juillet après un grave accident de vélo. Il avait 83 ans.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T13:05:59+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "855a26de919e"
+    },
+    {
+      "title": "Canicule : 1 243 morts en excès ont été recensés entre le 3 et le 22 juillet par Santé publique France",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/19/canicule-1-243-morts-en-exces-ont-ete-recenses-entre-le-3-et-le-22-juillet-par-sante-publique-france_6749871_3224.html",
+      "summary": "Ces décès, comptabilisés par Santé publique France, sont survenus « dans tous les lieux », a précisé le ministère, « mais avec un signal fort concernant les décès à domicile ».",
+      "image": "https://img.lemde.fr/2026/08/19/302/0/6000/3000/644/322/60/0/b73789c_upload-1-mpab3jazutzc-2026-07-09t135152z-98742372-rc29amatj4um-rtrmadp-3-europe-weather-france-hospital.JPG",
+      "published_at": "2026-08-19T15:04:59+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "6abe66c3078d"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : à Moscou, la distribution de carburant rationnée dans plusieurs réseaux de stations-service",
+      "url": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-a-moscou-la-distribution-de-carburant-rationnee-dans-plusieurs-reseaux-de-stations-service_6746952_3210.html",
+      "summary": "Selon l’application de suivi GdeBenz, le taux de disponibilité globale du carburant dans les stations-service de la Russie s’est effondré à 28,1 % au 16 août, contre 41 % une semaine plus tôt. A l’origine de la pénurie, l’arrêt partiel des raffineries de pétrole à la suite des frappes de drones ukrainiens.",
+      "image": "https://img.lemde.fr/2026/08/18/319/0/3913/1956/644/322/60/0/d959c8e_ftp-1-4hlhxxjbtjui-5866321-01-06.jpg",
+      "published_at": "2026-08-19T15:04:07+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "233cb4373814"
+    },
+    {
+      "title": "François d’Assise, le contre-modèle : comment le saint et ses disciples ont prêché le rejet absolu de l’argent en Occident",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/19/francois-d-assise-le-contre-modele-comment-le-saint-et-ses-disciples-ont-preche-le-rejet-absolu-de-l-argent-en-occident_6749870_3451060.html",
+      "summary": "« François d’Assise, le saint contemporain » (3/6). En quête de protection, François et ses compagnons, vus comme des vagabonds et régulièrement malmenés, vont à Rome demander l’approbation du pape. Ainsi naît l’ordre des frères mineurs, à l’idéal de pauvreté réaffirmé.",
+      "image": "https://img.lemde.fr/2026/08/05/36/0/1878/939/644/322/60/0/78dbeb3_upload-1-fwhvcwysk03a-3-saintfrancois.jpg",
+      "published_at": "2026-08-19T15:00:09+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "5b9cb60607a2"
+    },
+    {
+      "title": "Le Portugal interdit le port du voile intégral",
+      "url": "https://www.franceinfo.fr/monde/europe/le-portugal-interdit-le-port-du-voile-integral_8153603.html#xtor=RSS-3-[lestitres]",
+      "summary": "La loi, promulguée mardi, avait été adoptée par le Parlement en juillet, avec les voix de la coalition gouvernementale de droite et de l'extrême droite.",
+      "image": "https://www.franceinfo.fr/pictures/O5eTSOIIX8ry24KZAqfO-JUsw1A/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85a518b349c682496722.jpg",
+      "published_at": "2026-08-19T14:55:59+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "7ae90f4b7266"
+    },
     {
       "title": "L’incendie est «éteint» dans le Var, «fixé» dans la Drôme, «ne progresse plus» en Gironde : le point sur les brasiers en France",
       "url": "https://www.liberation.fr/environnement/lincendie-est-eteint-dans-le-var-fixe-dans-la-drome-ne-progresse-plus-en-gironde-le-point-sur-les-brasiers-en-france-20260819_3SBNZKMCRFHPZJIFZZOI7CWEKQ/",
@@ -11,16 +191,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "98b4eaac0281"
-    },
-    {
-      "title": "Le Portugal interdit le port du voile intégral",
-      "url": "https://www.franceinfo.fr/monde/europe/le-portugal-interdit-le-port-du-voile-integral_8153603.html#xtor=RSS-3-[lestitres]",
-      "summary": "La loi, promulguée mardi, avait été adoptée par le Parlement en juillet, avec les voix de la coalition gouvernementale de droite et de l'extrême droite.",
-      "image": "https://www.franceinfo.fr/pictures/O5eTSOIIX8ry24KZAqfO-JUsw1A/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85a518b349c682496722.jpg",
-      "published_at": "2026-08-19T14:49:36+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "7ae90f4b7266"
     },
     {
       "title": "« Il est aussi faux de faire des réseaux sociaux la cause unique du mal-être adolescent que de nier leur capacité à l’amplifier »",
@@ -55,7 +225,7 @@
     {
       "title": "Hind Rajab : l’armée israélienne dit ouvrir une enquête sur la mort de la fillette de 5 ans, tuée avec sa famille à Gaza en 2024",
       "url": "https://www.lemonde.fr/international/article/2026/08/19/gaza-l-armee-israelienne-dit-ouvrir-une-enquete-sur-la-mort-de-hind-rajab-tuee-a-5-ans-avec-sa-famille_6749867_3210.html",
-      "summary": "Le corps de Hind Rajab a été retrouvé dans une voiture criblée de balles à Gaza, plusieurs jours après que la fillette a été entendue pour la dernière fois, lors d’un long appel téléphonique désespéré avec le Croissant-Rouge palestinien, le 29 janvier 2024.",
+      "summary": "Le corps de l’enfant avait été retrouvé dans une voiture criblée de balles à Gaza, plusieurs jours après que la fillette avait été entendue pour la dernière fois, lors d’un long appel téléphonique désespéré avec le Croissant-Rouge palestinien, le 29 janvier 2024.",
       "image": "https://img.lemde.fr/2024/02/12/72/0/1600/800/644/322/60/0/2263bef_1707724888910-080474.jpg",
       "published_at": "2026-08-19T14:45:27+02:00",
       "source": "Le Monde Inter",
@@ -73,7 +243,7 @@
       "id": "1762115890a0"
     },
     {
-      "title": "\"Une campagne pour tromper ses utilisateurs\" : qu'est-il reproché au groupe Meta, jugé aux Etats-Unis pour avoir \"appâté\" les adolescents sur Instagram et Facebook ?",
+      "title": "Qu'est-il reproché au groupe Meta, jugé aux Etats-Unis pour avoir \"appâté\" les adolescents sur Instagram et Facebook ?",
       "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/une-campagne-pour-tromper-ses-utilisateurs-qu-est-il-reproche-au-groupe-meta-juge-aux-etats-unis-pour-avoir-appate-les-adolescents-sur-instagram-et-facebook_8153156.html#xtor=RSS-3-[lestitres]",
       "summary": "Quatre Etats américains réclament à la multinationale près de 200 milliards de dollars de pénalités et une refonte de ses deux applications phares pour mieux protéger les jeunes utilisateurs.",
       "image": "https://www.franceinfo.fr/pictures/dQti7JCvn7CgoLIYnyvR68HdJe8/0x25:1024x601/432x243/filters:format(jpg):quality(50)/2026/08/19/6a855dd49f909818388567.jpg",
@@ -103,7 +273,7 @@
       "id": "387201b48585"
     },
     {
-      "title": "Thaïlande : la polémique enfle autour du propriétaire d’un zoo refusant les Israéliens",
+      "title": "Le gérant français d’un zoo en Thaïlande refusant l’entrée aux Israéliens au cœur d’une polémique internationale",
       "url": "https://www.lemonde.fr/international/article/2026/08/19/thailande-la-polemique-enfle-autour-du-proprietaire-d-un-zoo-refusant-les-israeliens_6749864_3210.html",
       "summary": "L’ambassadrice d’Israël en Thaïlande s’est rendue la semaine dernière dans la province de Surat Thani, afin de « discuter de la sécurité et du bien-être des visiteurs israéliens ».",
       "image": "https://img.lemde.fr/2026/08/19/647/0/1013/506/644/322/60/0/8cbd89e_upload-1-1708ezuhksnm-capture-d-e-cran-2026-08-19-a-13-21-16.png",
@@ -131,176 +301,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "e9cad0029644"
-    },
-    {
-      "title": "Mort du sénateur François Patriat, grand fidèle d’Emmanuel Macron",
-      "url": "https://www.liberation.fr/politique/mort-du-senateur-francois-patriat-grand-fidele-demmanuel-macron-20260819_3Z7XPMFY7BCE3IGTXBX6PQWKAI/",
-      "summary": "L’ancien socialiste, marcheur de la première heure et président du groupe macroniste au Sénat, avait été hospitalisé en juillet après un grave accident de vélo. Il avait 83 ans.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-19T12:00:04+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "855a26de919e"
-    },
-    {
-      "title": "Yannick Jadot annonce «une initiative pour refonder la gauche autour de la social-écologie»",
-      "url": "https://www.liberation.fr/politique/yannick-jadot-annonce-une-initiative-pour-refonder-la-gauche-autour-de-la-social-ecologie-20260819_3LGHF4DMCNG6FOY2BPDPZ3Z6FQ/",
-      "summary": "Alors que les débats stratégiques pour 2027 traversent les Ecologistes, leur ancien candidat à la présidentielle répète son opposition a tout accord avec La France insoumise et lance un appel pour un rassemblement transpartisan de la «social-écologie» sans (encore) soutenir Raphaël Glucksmann. Interview.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-19T12:00:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "d1614315d5e2"
-    },
-    {
-      "title": "Blessé au poignet, le Français Isack Hadjar doit déclarer forfait pour le Grand Prix des Pays-Bas de F1",
-      "url": "https://www.franceinfo.fr/sports/auto-moto/formule-1/blesse-au-poignet-isack-hadjar-doit-declarer-forfait-pour-le-grand-prix-des-pays-bas-de-f1_8153591.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le pilote français s'est blessé au poignet durant ses vacances et sera remplacé par Liam Lawson.",
-      "image": "https://www.franceinfo.fr/pictures/b9F2Zr5k_tEcAkU06Lqtm5GAjbY/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85951ecde3d304645564.jpg",
-      "published_at": "2026-08-19T13:44:04+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "2dd21cd68f2d"
-    },
-    {
-      "title": "Aide à mourir : dans les établissements privés, les dangers de l’exception confessionnelle",
-      "url": "https://www.liberation.fr/idees-et-debats/aide-a-mourir-dans-les-etablissements-prives-les-dangers-de-lexception-confessionnelle-20260819_U42KBRPK2BAK7AYK34LZY4MKMU/",
-      "summary": "En admettant que certaines structures de soin, notamment catholiques, puissent refuser que l’aide à mourir soit pratiquée dans leurs murs, le Conseil constitutionnel fragilise l’égalité d’accès à ce droit, déplorent François Blot, médecin réanimateur, et Elsa Walter, vice-présidente de l’ADMD.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-19T11:41:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "78c2ba9a3a0e"
-    },
-    {
-      "title": "L’Estonie refuse d’accueillir des détenus suédois liés au crime organisé",
-      "url": "https://www.lemonde.fr/international/article/2026/08/19/l-estonie-refuse-d-accueillir-des-detenus-suedois-lies-au-crime-organise_6749858_3210.html",
-      "summary": "La Suède a passé en juin 2025 un accord avec l’Etat balte prévoyant d’y transférer plusieurs centaines de prisonniers. Cette mesure, visant à endiguer la surpopulation carcérale dans le pays nordique, est loin de faire l’unanimité en Estonie, où le profil des détenus fait débat.",
-      "image": "https://img.lemde.fr/2026/08/18/468/0/5616/2808/644/322/60/0/a4b5f3a_upload-1-wit48vrqoysv-2025-07-30t153926z-711825909-rc2xwfa6rxql-rtrmadp-3-estonia-sweden-prison.JPG",
-      "published_at": "2026-08-19T13:30:05+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "8cbb6bcfa2c6"
-    },
-    {
-      "title": "Présidentielle 2027 : le chanteur Francis Lalanne officiellement candidat, premier meeting vendredi à Paris",
-      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-chanteur-francis-lalanne-officiellement-candidat-premier-meeting-vendredi-a-paris_8153588.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cette candidature, soutenue par l'humoriste controversé Dieudonné, \"entend porter une rupture avec le système politique actuel\", selon un communiqué, consulté mercredi par ICI.",
-      "image": "https://www.franceinfo.fr/pictures/QZw6UZw4Nn6JFD9bCLsyf2ffM0E/0x262:5041x3098/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8592be27dcd434670841.jpg",
-      "published_at": "2026-08-19T13:27:03+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "a9f23adf28d1"
-    },
-    {
-      "title": "Le braqueur multirécidiviste Rédoine Faïd restera incarcéré à la prison de Condé-sur-Sarthe",
-      "url": "https://www.franceinfo.fr/faits-divers/evasions/evasion-de-redoine-faid/le-braqueur-multirecidiviste-redoine-faid-restera-incarcere-a-la-prison-de-conde-sur-sarthe_8153579.html#xtor=RSS-3-[lestitres]",
-      "summary": "La cour d'appel de Caen infirme la décision d'une juge d'application des peines de transférer Rédoine Faïd vers une autre prison en raison de ses conditions de détention, appris mercredi franceinfo.",
-      "image": "https://www.franceinfo.fr/pictures/hjEi-UceIfpdnYaIgYK4Qiw5uP8/0x154:3000x1842/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8590d1ce437085252787.jpg",
-      "published_at": "2026-08-19T13:22:41+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "542584fd21ea"
-    },
-    {
-      "title": "Taylor Sheridan annule un spin-off Yellowstone pourtant très attendu",
-      "url": "https://www.numerama.com/pop-culture/2314083-taylor-sheridan-annule-un-spin-off-yellowstone-pourtant-tres-attendu.html",
-      "summary": "Alors que l’empire Yellowstone continue d’inonder les écrans avec ses déclinaisons en série, Taylor Sheridan vient d’asséner une douche froide aux fans. Le showrunner texan a enterré le projet de spin-off centré sur le mythique ranch 6666.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-19T11:13:00+00:00",
-      "source": "Numerama",
-      "category": "Culture",
-      "id": "6788d9812cf7"
-    },
-    {
-      "title": "Robots humanoïdes : le carton en Bourse du champion chinois Unitree",
-      "url": "https://www.liberation.fr/international/asie-pacifique/robots-humanoides-le-carton-en-bourse-du-champion-chinois-unitree-20260819_6V5OJHMX2VCCTI46NIEA46TDAQ/",
-      "summary": "L’entreprise a fait ce mercredi à Shanghai une entrée en Bourse spectaculaire. Un signe de la confiance des investisseurs dans un secteur où la Chine détient une longueur d’avance.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-19T11:06:17+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "cd141e9f8c94"
-    },
-    {
-      "title": "Mort du sociologue grec Konstantinos Tsoukalas, penseur du «nous tous»",
-      "url": "https://www.liberation.fr/idees-et-debats/mort-du-sociologue-grec-konstantinos-tsoukalas-penseur-du-nous-tous-20260819_FE32YWSUFFAO3D27KLPQIH3HPU/",
-      "summary": "L’un des derniers intellectuels grecs à la renommée internationale est décédé le 18 août à Athènes. Il laisse derrière lui une œuvre vaste, qui dissèque notamment les mécanismes de corruption du pouvoir et l’emprise de l’individualisme dans les sociétés occidentales.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-19T11:06:01+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "8292218b6f5f"
-    },
-    {
-      "title": "La Russie et l'Ukraine procèdent à un nouvel échange de 103 prisonniers de guerre de chaque camp, selon Moscou",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-et-l-ukraine-echangent-103-prisonniers-de-guerre-de-chaque-camp-selon-moscou_8153567.html#xtor=RSS-3-[lestitres]",
-      "summary": "Plusieurs nouveaux échanges de prisonniers ont eu lieu ces derniers mois, impliquant à chaque fois des centaines de personnes des deux camps.",
-      "image": "https://www.franceinfo.fr/pictures/N5rN18W5KRuVpixJYpYcVlZsV9w/0x59:1024x635/432x243/filters:format(jpg):quality(50)/2026/08/19/6a858ce476360241442352.jpg",
-      "published_at": "2026-08-19T13:02:18+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "024cbdaef949"
-    },
-    {
-      "title": "En Russie, le tour de vis du Kremlin contre toute voix antiguerre à l’approche des élections législatives",
-      "url": "https://www.lemonde.fr/international/article/2026/08/19/en-russie-le-tour-de-vis-du-kremlin-contre-toute-voix-antiguerre-a-l-approche-des-elections-legislatives_6749857_3210.html",
-      "summary": "Lev Chlosberg, l’un des rares opposants à avoir publiquement dénoncé l’offensive militaire en Ukraine tout en restant en Russie, a été condamné à plus de onze années de prison. Son parti, le seul antiguerre, a été exclu des élections du 20 septembre.",
-      "image": "https://img.lemde.fr/2026/08/18/309/0/5715/2857/644/322/60/0/4504127_ftp-1-1ipoaqjncuk7-2026-08-18t164146z-1610490417-rc231naglalg-rtrmadp-3-russia-myanmar.JPG",
-      "published_at": "2026-08-19T13:00:04+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "71ce2af5e2ba"
-    },
-    {
-      "title": "En Belgique, l’incendie historique des Hautes Fagnes est désormais «encerclé», mais la situation «reste compliquée»",
-      "url": "https://www.liberation.fr/international/europe/en-belgique-lincendie-historique-des-hautes-fagnes-est-desormais-encercle-mais-la-situation-reste-compliquee-20260819_F64YCRR5M5BBVDQ6QOI4S5RWTU/",
-      "summary": "Les 500 pompiers mobilisés ont réussi à faire la jonction entre les fronts nord et est, alors que les particularités du terrain favorisent les reprises de feu. 3 000 hectares du parc naturel ont déjà brûlé.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-19T10:55:36+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "79a86f37843d"
-    },
-    {
-      "title": "SK Hynix, géant sud-coréen des puces mémoire, annonce des rachats d’actions pour une valeur de 24,9 milliards d’euros",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/19/sk-hynix-geant-sud-coreen-des-puces-memoire-annonce-des-rachats-d-actions-pour-une-valeur-de-24-9-milliards-d-euros_6749855_3234.html",
-      "summary": "A la fin juillet, le président de SK group a acheté pour près de 3 millions d’euros d’actions de l’entreprise, un geste perçu comme une tentative d’afficher sa confiance dans l’entreprise alors que les valeurs du secteur des semi-conducteurs chutaient.",
-      "image": "https://img.lemde.fr/2026/07/31/419/0/5021/2510/644/322/60/0/e34ae36_ftp-1-hyuska5civf4-abe4d60f4a324d3089d0130a09d82727-0-880fd22b798442de90f409406956efac.jpg",
-      "published_at": "2026-08-19T12:51:51+02:00",
-      "source": "Le Monde Inter",
-      "category": "Économie",
-      "id": "ed1af22cccec"
-    },
-    {
-      "title": "En 2025, 350 travailleurs humanitaires ont été tués dans le monde selon l'ONU, un bilan légèrement en recul par rapport à 2024",
-      "url": "https://www.franceinfo.fr/monde/en-2025-350-travailleurs-humanitaires-ont-ete-tues-dans-le-monde-selon-l-onu_8153546.html#xtor=RSS-3-[lestitres]",
-      "summary": "Au total, 907 \"membres du personnel humanitaire\" ont été \"tués, blessés ou enlevés\" en 2025, rapporte l'ONU mercredi.",
-      "image": "https://www.franceinfo.fr/pictures/4j96WkzQZvKDQ8gJJlCIyEPZed0/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8588186baf4067335967.jpg",
-      "published_at": "2026-08-19T12:51:41+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "639517b64acc"
-    },
-    {
-      "title": "Nick Kyrgios positif à la cocaïne, un tennisman définitivement hors de contrôle",
-      "url": "https://www.liberation.fr/sports/tennis/nick-kyrgios-positif-a-la-cocaine-un-tennisman-definitivement-hors-de-controle-20260819_KY57CI7RPBAENKKO3L6AICVZCI/",
-      "summary": "L’Australien de 31 ans a reconnu les faits. Une probable fin de carrière qui ressemble au parcours d’un joueur aussi spectaculaire que fantasque, à la santé mentale vacillante.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-19T10:47:26+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "bda83af85184"
-    },
-    {
-      "title": "Il va falloir y retourner… Que s’est-il passé pendant la sortie spatiale de Sophie Adenot ?",
-      "url": "https://www.numerama.com/sciences/2313929-il-va-falloir-y-retourner-que-sest-il-passe-pendant-la-sortie-spatiale-de-sophie-adenot.html",
-      "summary": "Sophie Adenot a passé un peu plus de six heures dans l'espace pour une opération de réparation sur la Station spatiale internationale. Tout ne s'est pas passé comme prévu et d'autres sorties devront être programmées.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-19T10:42:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "1050109bff5c"
     }
   ]
 }
