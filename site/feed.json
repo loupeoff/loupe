@@ -1,7 +1,207 @@
 {
-  "generated_at": "2026-08-19T11:32:33.804536+00:00",
+  "generated_at": "2026-08-19T13:01:11.270197+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "L’incendie est «éteint» dans le Var, «fixé» dans la Drôme, «ne progresse plus» en Gironde : le point sur les brasiers en France",
+      "url": "https://www.liberation.fr/environnement/lincendie-est-eteint-dans-le-var-fixe-dans-la-drome-ne-progresse-plus-en-gironde-le-point-sur-les-brasiers-en-france-20260819_3SBNZKMCRFHPZJIFZZOI7CWEKQ/",
+      "summary": "En France, depuis le début de l’année, les incendies ont déjà parcouru 115 000 hectares selon le dernier bilan officiel du ministre de l’Intérieur. Un triste record qui pourrait encore empirer, tandis que toute flamme n’est pas étouffée.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T12:53:34+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "98b4eaac0281"
+    },
+    {
+      "title": "Le Portugal interdit le port du voile intégral",
+      "url": "https://www.franceinfo.fr/monde/europe/le-portugal-interdit-le-port-du-voile-integral_8153603.html#xtor=RSS-3-[lestitres]",
+      "summary": "La loi, promulguée mardi, avait été adoptée par le Parlement en juillet, avec les voix de la coalition gouvernementale de droite et de l'extrême droite.",
+      "image": "https://www.franceinfo.fr/pictures/O5eTSOIIX8ry24KZAqfO-JUsw1A/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85a518b349c682496722.jpg",
+      "published_at": "2026-08-19T14:49:36+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "7ae90f4b7266"
+    },
+    {
+      "title": "« Il est aussi faux de faire des réseaux sociaux la cause unique du mal-être adolescent que de nier leur capacité à l’amplifier »",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/19/il-est-aussi-faux-de-faire-des-reseaux-sociaux-la-cause-unique-du-mal-etre-adolescent-que-de-nier-leur-capacite-a-l-amplifier_6749869_3232.html",
+      "summary": "Notre responsabilité d’adulte n’est pas d’abandonner nos adolescents dans les espaces numériques, ni de les en tenir à l’écart, car la santé mentale de notre jeunesse mérite mieux qu’un affrontement entre technophiles et technophobes, analyse le pédopsychiatre Pierre Fourneret, dans une tribune au « Monde ».",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/9a0326b_upload-1-mq3ugbir2dqk-frame-1045.jpg",
+      "published_at": "2026-08-19T14:49:14+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "c39bb5dd05d1"
+    },
+    {
+      "title": "La Belgique disposée à envisager le transfert d'actifs russes vers l'Ukraine, mais sous certaines conditions",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-belgique-disposee-a-envisager-le-transfert-d-actifs-russes-vers-l-ukraine-mais-sous-certaines-conditions_8153606.html#xtor=RSS-3-[lestitres]",
+      "summary": "La Belgique refuse d'assumer le risque d'être seule éventuellement contrainte, d'ici dix à quinze ans, de restituer à la Russie les fonds gelés. Cela concerne environ 210 milliards d'euros d'actifs souverains russes, dont une part importante est gelée dans l'UE sur des comptes détenus auprès du dépositaire belge Euroclear.",
+      "image": "https://www.franceinfo.fr/pictures/uLj_Ip22W5XAMswg7xJDvpddUbo/0x14:1200x689/432x243/filters:format(jpg):quality(50)/2026/08/19/6a859aa0857b8430872557.jpg",
+      "published_at": "2026-08-19T14:48:14+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "5a589876674a"
+    },
+    {
+      "title": "Canicule : 1 243 morts de plus qu’attendu entre le 3 et le 22 juillet, estime Santé publique France",
+      "url": "https://www.liberation.fr/societe/sante/canicule-1-243-morts-de-plus-quattendu-entre-le-3-et-le-22-juillet-estime-sante-publique-france-20260819_IYM674A6QRFIXHGPEHJ5VBFZII/",
+      "summary": "L’agence sanitaire publie ce mercredi un nouveau bilan de surmortalité toutes causes confondues, cette fois sur les premières semaines de juillet, exceptionnellement chaudes.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-19T12:45:40+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "c929e138d8a1"
+    },
+    {
+      "title": "Hind Rajab : l’armée israélienne dit ouvrir une enquête sur la mort de la fillette de 5 ans, tuée avec sa famille à Gaza en 2024",
+      "url": "https://www.lemonde.fr/international/article/2026/08/19/gaza-l-armee-israelienne-dit-ouvrir-une-enquete-sur-la-mort-de-hind-rajab-tuee-a-5-ans-avec-sa-famille_6749867_3210.html",
+      "summary": "Le corps de Hind Rajab a été retrouvé dans une voiture criblée de balles à Gaza, plusieurs jours après que la fillette a été entendue pour la dernière fois, lors d’un long appel téléphonique désespéré avec le Croissant-Rouge palestinien, le 29 janvier 2024.",
+      "image": "https://img.lemde.fr/2024/02/12/72/0/1600/800/644/322/60/0/2263bef_1707724888910-080474.jpg",
+      "published_at": "2026-08-19T14:45:27+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "6a7a27275e33"
+    },
+    {
+      "title": "François Patriat, président du groupe macroniste au Sénat, est mort à l'âge de 83 ans",
+      "url": "https://www.franceinfo.fr/politique/le-senateur-francois-patriat-president-du-groupe-macroniste-au-senat-est-mort-a-l-age-de-83-ans_8153612.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'élu de Côte-d'Or est mort à l'hôpital de Dijon, \"des suites d'un grave accident de vélo\", selon son groupe parlementaire.",
+      "image": "https://www.franceinfo.fr/pictures/feCWX7Kj6bbBfY0vtROIM3_qYTw/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a859d5674678286620729.jpg",
+      "published_at": "2026-08-19T14:42:28+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "1762115890a0"
+    },
+    {
+      "title": "\"Une campagne pour tromper ses utilisateurs\" : qu'est-il reproché au groupe Meta, jugé aux Etats-Unis pour avoir \"appâté\" les adolescents sur Instagram et Facebook ?",
+      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/une-campagne-pour-tromper-ses-utilisateurs-qu-est-il-reproche-au-groupe-meta-juge-aux-etats-unis-pour-avoir-appate-les-adolescents-sur-instagram-et-facebook_8153156.html#xtor=RSS-3-[lestitres]",
+      "summary": "Quatre Etats américains réclament à la multinationale près de 200 milliards de dollars de pénalités et une refonte de ses deux applications phares pour mieux protéger les jeunes utilisateurs.",
+      "image": "https://www.franceinfo.fr/pictures/dQti7JCvn7CgoLIYnyvR68HdJe8/0x25:1024x601/432x243/filters:format(jpg):quality(50)/2026/08/19/6a855dd49f909818388567.jpg",
+      "published_at": "2026-08-19T14:20:57+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "9df58317ee8a"
+    },
+    {
+      "title": "La France dénonce les propos \"insupportables et inhumains\" sur Gaza du ministre israélien Itamar Ben Gvir",
+      "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/la-france-denonce-les-propos-insupportables-et-inhumains-sur-gaza-du-ministre-israelien-itamar-ben-gvir_8153585.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le ministre d'extrême droite, chargé de la Sécurité nationale, a appelé au meurtre de plusieurs dizaines de Palestiniens dans la bande de Gaza.",
+      "image": "https://www.franceinfo.fr/pictures/vfmxLrum5Px921Uuo-zTWKc1MAk/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a859580221d5841475225.jpg",
+      "published_at": "2026-08-19T14:20:04+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "bc46ffa01c25"
+    },
+    {
+      "title": "François Patriat, ancien ministre socialiste et fidèle de la première heure d’Emmanuel Macron, est mort à 83 ans",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/08/19/francois-patriat-ancien-ministre-socialiste-et-fidele-de-la-premiere-heure-d-emmanuel-macron-est-mort-a-83-ans_6749865_3382.html",
+      "summary": "Le vétérinaire bourguignon avait adhéré au Parti socialiste en 1974, cumulant les mandats à partir des années 1980. Sénateur de la Côte-d’Or depuis 2008 et président du groupe macroniste au Sénat depuis 2017, il s’est éteint mercredi.",
+      "image": "https://img.lemde.fr/2026/05/28/0/0/6456/3228/644/322/60/0/5e4c78f_upload-1-oc32wf5ya7xh-000-342h7ll.jpg",
+      "published_at": "2026-08-19T14:09:02+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "387201b48585"
+    },
+    {
+      "title": "Thaïlande : la polémique enfle autour du propriétaire d’un zoo refusant les Israéliens",
+      "url": "https://www.lemonde.fr/international/article/2026/08/19/thailande-la-polemique-enfle-autour-du-proprietaire-d-un-zoo-refusant-les-israeliens_6749864_3210.html",
+      "summary": "L’ambassadrice d’Israël en Thaïlande s’est rendue la semaine dernière dans la province de Surat Thani, afin de « discuter de la sécurité et du bien-être des visiteurs israéliens ».",
+      "image": "https://img.lemde.fr/2026/08/19/647/0/1013/506/644/322/60/0/8cbd89e_upload-1-1708ezuhksnm-capture-d-e-cran-2026-08-19-a-13-21-16.png",
+      "published_at": "2026-08-19T14:08:03+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "8584b7b2deb0"
+    },
+    {
+      "title": "« Insupportables et inhumains » : la France et l’Allemagne condamnent les propos d’Itamar Ben Gvir, ministre d’extrême droite israélien, appelant au meurtre des habitants de Gaza",
+      "url": "https://www.lemonde.fr/international/article/2026/08/19/appels-d-itamar-ben-gvir-a-des-meurtres-a-gaza-la-france-et-l-allemagne-condamnent-les-propos-du-ministre-israelien_6749862_3210.html",
+      "summary": "Le ministre de la sécurité nationale israélien a appelé à tuer « chaque nuit à Gaza (…) 30 ou 40 » personnes. « Pas seulement ceux qui vous mettent actuellement en danger. Ce sont des gens qui ne devraient pas être en vie ».",
+      "image": "https://img.lemde.fr/2026/05/20/1014/0/7016/3508/644/322/60/0/885ad40_ftp-1-eftxe2uhef7l-05db8b5e362743289250492e76525353-0-6d4b396afce74935a7695dcf2f588d4a.jpg",
+      "published_at": "2026-08-19T14:04:24+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "16e500f25ffe"
+    },
+    {
+      "title": "La Fédération des particuliers employeurs de France, quatrième organisation patronale, visée par une plainte d’Anticor",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/19/la-federation-des-particuliers-employeurs-de-france-quatrieme-organisation-patronale-visee-par-une-plainte-d-anticor_6749861_3224.html",
+      "summary": "Selon les informations du « Monde », l’association anticorruption a déposé plainte contre X, en mars, notamment pour « détournement de fonds publics » et « corruption ». La fédération, qui représente les intérêts de 3,4 millions d’employeurs dans le secteur de l’emploi à domicile, fait déjà l’objet de deux enquêtes judiciaires.",
+      "image": "https://img.lemde.fr/2026/08/19/186/0/2752/1376/644/322/60/0/07ebc18_upload-1-u8tmq5icrhlp-image0.jpeg",
+      "published_at": "2026-08-19T14:00:09+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "e9cad0029644"
+    },
+    {
+      "title": "Mort du sénateur François Patriat, grand fidèle d’Emmanuel Macron",
+      "url": "https://www.liberation.fr/politique/mort-du-senateur-francois-patriat-grand-fidele-demmanuel-macron-20260819_3Z7XPMFY7BCE3IGTXBX6PQWKAI/",
+      "summary": "L’ancien socialiste, marcheur de la première heure et président du groupe macroniste au Sénat, avait été hospitalisé en juillet après un grave accident de vélo. Il avait 83 ans.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T12:00:04+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "855a26de919e"
+    },
+    {
+      "title": "Yannick Jadot annonce «une initiative pour refonder la gauche autour de la social-écologie»",
+      "url": "https://www.liberation.fr/politique/yannick-jadot-annonce-une-initiative-pour-refonder-la-gauche-autour-de-la-social-ecologie-20260819_3LGHF4DMCNG6FOY2BPDPZ3Z6FQ/",
+      "summary": "Alors que les débats stratégiques pour 2027 traversent les Ecologistes, leur ancien candidat à la présidentielle répète son opposition a tout accord avec La France insoumise et lance un appel pour un rassemblement transpartisan de la «social-écologie» sans (encore) soutenir Raphaël Glucksmann. Interview.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T12:00:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "d1614315d5e2"
+    },
+    {
+      "title": "Blessé au poignet, le Français Isack Hadjar doit déclarer forfait pour le Grand Prix des Pays-Bas de F1",
+      "url": "https://www.franceinfo.fr/sports/auto-moto/formule-1/blesse-au-poignet-isack-hadjar-doit-declarer-forfait-pour-le-grand-prix-des-pays-bas-de-f1_8153591.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le pilote français s'est blessé au poignet durant ses vacances et sera remplacé par Liam Lawson.",
+      "image": "https://www.franceinfo.fr/pictures/b9F2Zr5k_tEcAkU06Lqtm5GAjbY/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85951ecde3d304645564.jpg",
+      "published_at": "2026-08-19T13:44:04+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "2dd21cd68f2d"
+    },
+    {
+      "title": "Aide à mourir : dans les établissements privés, les dangers de l’exception confessionnelle",
+      "url": "https://www.liberation.fr/idees-et-debats/aide-a-mourir-dans-les-etablissements-prives-les-dangers-de-lexception-confessionnelle-20260819_U42KBRPK2BAK7AYK34LZY4MKMU/",
+      "summary": "En admettant que certaines structures de soin, notamment catholiques, puissent refuser que l’aide à mourir soit pratiquée dans leurs murs, le Conseil constitutionnel fragilise l’égalité d’accès à ce droit, déplorent François Blot, médecin réanimateur, et Elsa Walter, vice-présidente de l’ADMD.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T11:41:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "78c2ba9a3a0e"
+    },
+    {
+      "title": "L’Estonie refuse d’accueillir des détenus suédois liés au crime organisé",
+      "url": "https://www.lemonde.fr/international/article/2026/08/19/l-estonie-refuse-d-accueillir-des-detenus-suedois-lies-au-crime-organise_6749858_3210.html",
+      "summary": "La Suède a passé en juin 2025 un accord avec l’Etat balte prévoyant d’y transférer plusieurs centaines de prisonniers. Cette mesure, visant à endiguer la surpopulation carcérale dans le pays nordique, est loin de faire l’unanimité en Estonie, où le profil des détenus fait débat.",
+      "image": "https://img.lemde.fr/2026/08/18/468/0/5616/2808/644/322/60/0/a4b5f3a_upload-1-wit48vrqoysv-2025-07-30t153926z-711825909-rc2xwfa6rxql-rtrmadp-3-estonia-sweden-prison.JPG",
+      "published_at": "2026-08-19T13:30:05+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "8cbb6bcfa2c6"
+    },
+    {
+      "title": "Présidentielle 2027 : le chanteur Francis Lalanne officiellement candidat, premier meeting vendredi à Paris",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-chanteur-francis-lalanne-officiellement-candidat-premier-meeting-vendredi-a-paris_8153588.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette candidature, soutenue par l'humoriste controversé Dieudonné, \"entend porter une rupture avec le système politique actuel\", selon un communiqué, consulté mercredi par ICI.",
+      "image": "https://www.franceinfo.fr/pictures/QZw6UZw4Nn6JFD9bCLsyf2ffM0E/0x262:5041x3098/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8592be27dcd434670841.jpg",
+      "published_at": "2026-08-19T13:27:03+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a9f23adf28d1"
+    },
+    {
+      "title": "Le braqueur multirécidiviste Rédoine Faïd restera incarcéré à la prison de Condé-sur-Sarthe",
+      "url": "https://www.franceinfo.fr/faits-divers/evasions/evasion-de-redoine-faid/le-braqueur-multirecidiviste-redoine-faid-restera-incarcere-a-la-prison-de-conde-sur-sarthe_8153579.html#xtor=RSS-3-[lestitres]",
+      "summary": "La cour d'appel de Caen infirme la décision d'une juge d'application des peines de transférer Rédoine Faïd vers une autre prison en raison de ses conditions de détention, appris mercredi franceinfo.",
+      "image": "https://www.franceinfo.fr/pictures/hjEi-UceIfpdnYaIgYK4Qiw5uP8/0x154:3000x1842/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8590d1ce437085252787.jpg",
+      "published_at": "2026-08-19T13:22:41+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "542584fd21ea"
+    },
     {
       "title": "Taylor Sheridan annule un spin-off Yellowstone pourtant très attendu",
       "url": "https://www.numerama.com/pop-culture/2314083-taylor-sheridan-annule-un-spin-off-yellowstone-pourtant-tres-attendu.html",
@@ -33,7 +233,7 @@
       "id": "8292218b6f5f"
     },
     {
-      "title": "La Russie et l'Ukraine échangent 103 prisonniers de guerre de chaque camp, selon Moscou",
+      "title": "La Russie et l'Ukraine procèdent à un nouvel échange de 103 prisonniers de guerre de chaque camp, selon Moscou",
       "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-et-l-ukraine-echangent-103-prisonniers-de-guerre-de-chaque-camp-selon-moscou_8153567.html#xtor=RSS-3-[lestitres]",
       "summary": "Plusieurs nouveaux échanges de prisonniers ont eu lieu ces derniers mois, impliquant à chaque fois des centaines de personnes des deux camps.",
       "image": "https://www.franceinfo.fr/pictures/N5rN18W5KRuVpixJYpYcVlZsV9w/0x59:1024x635/432x243/filters:format(jpg):quality(50)/2026/08/19/6a858ce476360241442352.jpg",
@@ -41,16 +241,6 @@
       "source": "France Info",
       "category": "International",
       "id": "024cbdaef949"
-    },
-    {
-      "title": "\"Une campagne pour tromper ses utilisateurs\" : qu'est-il reproché au groupe Meta, jugé aux Etats-Unis pour avoir \"appâté\" les adolescents sur Instagram et Facebook ?",
-      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/une-campagne-pour-tromper-ses-utilisateurs-qu-est-il-reproche-au-groupe-meta-juge-aux-etats-unis-pour-avoir-appate-les-adolescents-sur-instagram-et-facebook_8153156.html#xtor=RSS-3-[lestitres]",
-      "summary": "Quatre Etats américains réclament à la multinationale près de 200 milliards de dollars de pénalités et une refonte de ses deux applications phares pour mieux protéger les jeunes utilisateurs.",
-      "image": "https://www.franceinfo.fr/pictures/dQti7JCvn7CgoLIYnyvR68HdJe8/0x25:1024x601/432x243/filters:format(jpg):quality(50)/2026/08/19/6a855dd49f909818388567.jpg",
-      "published_at": "2026-08-19T13:00:36+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "9df58317ee8a"
     },
     {
       "title": "En Russie, le tour de vis du Kremlin contre toute voix antiguerre à l’approche des élections législatives",
@@ -61,16 +251,6 @@
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "71ce2af5e2ba"
-    },
-    {
-      "title": "Un jeune homme de 17 ans retrouvé mort, tué par sa mère d'un coup de couteau à Antibes",
-      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/antibes/drame-familial-a-antibes-une-mere-tue-son-fils-de-17-ans-d-un-coup-de-couteau-a-la-gorge-avant-de-s-enfuir-3403501.html#xtor=RSS-3-[lestitres]",
-      "summary": "Dans la nuit de mardi à mercredi, un drame familial s'est produit à Antibes. Un jeune homme de 17 ans est mort, vraisemblablement tué par sa mère, qui l'aurait agressé à coups de couteau avant de prendre la fuite. Elle a ensuite été retrouvée par la police en mer, puis hospitalisée.",
-      "image": "https://www.franceinfo.fr/pictures/fQrF9QZoCJ-uDeTcVdzh8sCOeEk/432x243/filters:format(jpg):quality(50)/2026/08/19/6a857a35a43fd441558307.jpg",
-      "published_at": "2026-08-19T12:59:51+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "667aea71faca"
     },
     {
       "title": "En Belgique, l’incendie historique des Hautes Fagnes est désormais «encerclé», mais la situation «reste compliquée»",
@@ -87,7 +267,7 @@
       "url": "https://www.lemonde.fr/economie/article/2026/08/19/sk-hynix-geant-sud-coreen-des-puces-memoire-annonce-des-rachats-d-actions-pour-une-valeur-de-24-9-milliards-d-euros_6749855_3234.html",
       "summary": "A la fin juillet, le président de SK group a acheté pour près de 3 millions d’euros d’actions de l’entreprise, un geste perçu comme une tentative d’afficher sa confiance dans l’entreprise alors que les valeurs du secteur des semi-conducteurs chutaient.",
       "image": "https://img.lemde.fr/2026/07/31/419/0/5021/2510/644/322/60/0/e34ae36_ftp-1-hyuska5civf4-abe4d60f4a324d3089d0130a09d82727-0-880fd22b798442de90f409406956efac.jpg",
-      "published_at": "2026-08-19T12:51:52+02:00",
+      "published_at": "2026-08-19T12:51:51+02:00",
       "source": "Le Monde Inter",
       "category": "Économie",
       "id": "ed1af22cccec"
@@ -121,186 +301,6 @@
       "source": "Numerama",
       "category": "Politique",
       "id": "1050109bff5c"
-    },
-    {
-      "title": "Après les propos d’une de ses joueuses, la WNBA confrontée à une offensive transphobe",
-      "url": "https://www.liberation.fr/sports/apres-les-propos-dune-de-ses-joueuses-la-wnba-confrontee-a-une-offensive-transphobe-20260819_IDZ677EHZZDMJAZPLHUAASTQUY/",
-      "summary": "Sophie Cunningham, la basketteuse du Fever de l’Indiana, s’est prononcée contre l’inclusion des femmes transgenres dans la Ligue. Si la majorité des joueuses d’une Ligue historiquement progressiste ont réagi, l’administration Trump, elle, souffle sur les braises.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-19T10:41:10+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "bbc54ffa43bf"
-    },
-    {
-      "title": "Sanctions des Etats-Unis : Tomoko Akane, présidente de la Cour pénale internationale dans le viseur de Washington",
-      "url": "https://www.liberation.fr/international/asie-pacifique/sanctions-des-etats-unis-tomoko-akane-presidente-de-la-cour-penale-internationale-dans-le-viseur-de-washington-20260819_LHLE4G35XJEVPB72LYNA2RV7II/",
-      "summary": "Les Etats-Unis, qui assument une «campagne diplomatique» contre la CPI, ont interdit mardi à la cheffe de l’institution l’accès à leur territoire national. La Japonaise de 70 ans, en poste depuis 2024, avait déjà été l’objet par le passé de mesures de rétorsion émanant de Moscou.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-19T10:40:03+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "c479ebfd114a"
-    },
-    {
-      "title": "\"Je ne m'imaginais pas derrière les barreaux\" : l'opposant russe Boris Nadejdine, ciblé par le pouvoir judiciaire, raconte sa fuite \"bouleversante\" jusqu'en France",
-      "url": "https://www.franceinfo.fr/monde/russie/je-ne-m-imaginais-pas-derriere-les-barreaux-l-opposant-russe-boris-nadejdine-cible-par-le-pouvoir-judiciaire-raconte-sa-fuite-bouleversante-jusqu-en-france_8151947.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'ancien candidat à la présidentielle de 2024 briguait un siège de député aux législatives de septembre. Mais il s'est heurté à des poursuites judiciaires, également dirigées contre d'autres forces d'opposition. Franceinfo l'a rencontré en région parisienne, où il a posé ses valises.",
-      "image": "https://www.franceinfo.fr/pictures/2Cz7CMNW-yZJ9t-n0XzNo3CMV6Y/0x0:6720x3780/432x243/filters:format(jpg):quality(50)/2026/08/18/6a848e137aec7144474614.jpg",
-      "published_at": "2026-08-19T12:38:06+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "27893aa558d2"
-    },
-    {
-      "title": "Jura : un nouveau lynx mort sur les routes, le 15e depuis le début de l'année en France",
-      "url": "https://www.franceinfo.fr/environnement/biodiversite/animaux/jura-un-nouveau-lynx-mort-sur-les-routes-le-15e-depuis-le-debut-de-l-annee-en-france_8153543.html#xtor=RSS-3-[lestitres]",
-      "summary": "Ce lynx venait d'être soigné et relâché. \"Il est mort bêtement des suites d'une collision\", regrette l'association Athénas, près de Lons-le-Saunier (Jura), mercredi auprès d'ICI Besançon.",
-      "image": "https://www.franceinfo.fr/pictures/5gtgmz9Dz8sWGcUAFAUgqBa1oJM/0x210:3319x2077/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8585d0a104b951667733.jpg",
-      "published_at": "2026-08-19T12:35:04+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "e1a0e29b7932"
-    },
-    {
-      "title": "Victime de chantage de la part des services secrets russes, un père ukrainien se rend en Russie pour protéger son fils",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/victime-de-chantage-de-la-part-des-services-secrets-russes-un-pere-ukrainien-se-rend-en-russie-pour-proteger-son-fils_8153390.html#xtor=RSS-3-[lestitres]",
-      "summary": "Ciblé par le FSB, Mykhailo Puryshev s'est fait connaître en Ukraine en faisant évacuer des centaines de civils, notamment à Marioupol, en mars 2022.",
-      "image": "https://www.franceinfo.fr/pictures/qyCmiYEYxLNjNwm8qephOtOd_pA/0x0:3959x2226/432x243/filters:format(jpg):quality(50)/2025/05/24/ukraine-agathe-2-68318b89821b9528720661.jpg",
-      "published_at": "2026-08-19T12:32:16+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "e3627865ac57"
-    },
-    {
-      "title": "\"Les gens en ont assez de la guerre\" : une opposante russe se confie sur les conséquences du conflit dans son pays",
-      "url": "https://www.franceinfo.fr/monde/russie/temoignage-les-gens-en-ont-assez-de-la-guerre-une-opposante-russe-se-confie-sur-les-consequences-du-conflit-dans-son-pays_8151893.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"On ne nous voit pas nous exprimer, mais ça ne veut pas dire que nous ne sommes pas au courant\", avance cette habitante de Moscou tandis que les frappes s'intensifient entre l'Ukraine et la Russie.",
-      "image": "https://www.franceinfo.fr/pictures/wEwg68RLQjpWf89BwftkTAs1vCM/0x80:1024x656/432x243/filters:format(jpg):quality(50)/2026/08/18/6a841c669a565549951759.jpg",
-      "published_at": "2026-08-19T12:31:42+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "b1f09960a762"
-    },
-    {
-      "title": "« Le massacre de Muttur au Sri Lanka demeure, vingt ans plus tard, l’un des exemples les plus frappants de l’impunité des attaques contre les travailleurs humanitaire »",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/19/le-massacre-de-muttur-au-sri-lanka-demeure-vingt-ans-plus-tard-l-un-des-exemples-les-plus-frappants-de-l-impunite-des-attaques-contre-les-travailleurs-humanitaire_6749820_3232.html",
-      "summary": "En 2006, en pleine guerre civile sri-lankaise, 17 travailleurs d’Action contre la faim étaient exécutés à bout portant, alors qu’ils fournissaient de l’eau potable à des populations. Depuis, l’action humanitaire s’en est trouvé bouleversée, analysent deux conseillers juridiques qui, dans une tribune au « Monde », enjoignent aux Etats de protéger une profession très dangereuse.",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/dc0e248_upload-1-6oyyppysqvd6-frame-807.jpg",
-      "published_at": "2026-08-19T12:30:06+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "ec973c9bccb8"
-    },
-    {
-      "title": "Les Etats-Unis vont expulser jusqu’à 1 200 personnes au Liberia d’ici un an",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/19/les-etats-unis-vont-expulser-jusqu-a-1-200-personnes-au-liberia-d-ici-un-an_6749819_3212.html",
-      "summary": "Donald Trump a élargi le nombre de personnes susceptibles d’être expulsées, ciblant notamment celles qui bénéficiaient de protections juridiques leur permettant, sous les administrations précédentes, de vivre et de travailler aux Etats-Unis en raison de risques de persécutions dans leurs pays d’origine.",
-      "image": "https://img.lemde.fr/2026/08/19/651/0/5500/2750/644/322/60/0/cb1a17d_upload-1-3yns4dh38jvw-063-2262882024.jpg",
-      "published_at": "2026-08-19T12:28:05+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "3b9d472bb334"
-    },
-    {
-      "title": "À Grenade, le palais de l'Alhambra, évacué après un nouveau séisme, n'a subi que des dégâts mineurs, selon une première inspection",
-      "url": "https://www.franceinfo.fr/culture/patrimoine/a-grenade-le-palais-de-l-alhambra-evacue-apres-le-nouveau-seisme-n-aurait-subi-que-des-degats-mineurs_8153342.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le monument espagnol, classé au patrimoine mondial de l'Unesco, a été fermé 24 heures par mesure de précaution. Il a rouvert ses portes aujourd'hui mais avec un circuit de visites raccourci.",
-      "image": "https://www.franceinfo.fr/pictures/O86v7SfiUaQbYwQTFn2hviMNIIw/0x0:5946x3344/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85806a67796931753035.jpg",
-      "published_at": "2026-08-19T12:22:53+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "5db57f595bf9"
-    },
-    {
-      "title": "Cette grosse promotion sur la Switch 2 tombe juste avant la hausse de septembre",
-      "url": "https://www.numerama.com/tech/2312077-cette-grosse-promotion-sur-la-switch-2-tombe-juste-avant-la-hausse-de-septembre.html",
-      "summary": "[Deal du jour] Alors que la Nintendo Switch 2 passera de 469,99 € à 499,99 € le 1er septembre 2026, AliExpress fait tomber la console à 374,28 €. Attention toutefois : il s’agit d’une version britannique, parfaitement utilisable en France, mais livrée avec une prise secteur anglaise.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-19T10:20:18+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "2f544c1d4672"
-    },
-    {
-      "title": "En Centrafrique, un éboulement dans une mine d’or artisanale fait plusieurs dizaines de morts, selon un premier bilan",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/19/en-centrafrique-un-eboulement-dans-une-mine-d-or-artisanale-fait-plusieurs-dizaines-de-morts-selon-un-premier-bilan_6749818_3212.html",
-      "summary": "Plusieurs dizaines de personnes ont péri dans l’effondrement d’une mine d’or artisanale dans l’ouest de la Centrafrique, à la frontière avec le Cameroun, selon des sources locales, mais le bilan reste encore incertain et les opérations de secours se poursuivent.",
-      "image": "https://img.lemde.fr/2026/08/19/0/0/2500/1250/644/322/60/0/0057200_upload-1-hewtu6ckolal-2014-05-09t120000z-1390605314-gm1ea591svl01-rtrmadp-3-centralafrican.JPG",
-      "published_at": "2026-08-19T12:14:54+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "f681bada32d4"
-    },
-    {
-      "title": "Dune 3 : voici ce que vous allez rater si vous ne le voyez pas en IMAX",
-      "url": "https://www.numerama.com/pop-culture/2313827-dune-3-voici-ce-que-vous-allez-rater-si-vous-ne-le-voyez-pas-en-imax.html",
-      "summary": "Prévu pour conclure la trilogie monumentale de Denis Villeneuve, Dune 3 franchit un palier technique inédit avec l'annonce de 71 minutes d'images au format élargi exclusif en IMAX. Pour les spectateurs qui se contenteront d'une projection standard en multiplexe, la facture visuelle risque d'être d'une violence rare.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-19T10:10:00+00:00",
-      "source": "Numerama",
-      "category": "International",
-      "id": "cc4e30b2377c"
-    },
-    {
-      "title": "En Suisse, les corps de deux alpinistes belges retrouvés sur le glacier du Trift, trente-quatre ans après leur disparition",
-      "url": "https://www.lemonde.fr/disparitions/article/2026/08/19/en-suisse-les-corps-de-deux-alpinistes-belges-retrouves-sur-le-glacier-du-trift-trente-quatre-ans-apres-leur-disparition_6749817_3382.html",
-      "summary": "Les corps de deux alpinistes belges portés disparus en Suisse depuis 1992 ont été découverts sur un glacier du Valais, où la fonte des glaces a récemment permis de dégager leurs dépouilles, a annoncé mercredi la police cantonale.",
-      "image": "https://img.lemde.fr/2024/10/24/0/562/1434/717/644/322/60/0/9a142fe_1729786777472-frame-153.jpg",
-      "published_at": "2026-08-19T12:09:24+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "843975d3983f"
-    },
-    {
-      "title": "Gaza à Caire ouvert",
-      "url": "https://www.liberation.fr/culture/photographie/gaza-a-caire-ouvert-20260818_RD3VAB2FXBDEBF6BVPMCFGWIIU/",
-      "summary": "Au festival Negpos de Nîmes, la photographe invitée d’honneur de cette édition est la grecque Olga Stefatou, qui propose un travail à quatre mains avec le Gazaoui Yousef Shurrab.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-19T10:03:00+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "24e89ddb13e9"
-    },
-    {
-      "title": "La France a enregistré un record de plus de 50 jours de vagues de chaleur cet été, l’épisode en cours devient le 2e plus long",
-      "url": "https://www.liberation.fr/environnement/climat/malgre-des-temperatures-en-baisse-il-va-falloir-attendre-jeudi-pour-sortir-de-la-vague-de-chaleur-commencee-le-28-juillet-20260818_G3B5VVZCJ5HVVIBPETJIZF43VI/",
-      "summary": "L’été 2026, qui n’est même pas encore terminé, devance ainsi les 33 jours de 2022 ou les 22 jours de l’été meurtrier de 2003. Le niveau encore élevé des températures ne permet pas de sortir de la vague de chaleur désormais en cours depuis 22 jours.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-19T10:01:16+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "8d4349ebda31"
-    },
-    {
-      "title": "Il y a huit mois, cette fusée chinoise explosait au sol. Aujourd’hui, elle atterrit comme une Falcon 9",
-      "url": "https://www.numerama.com/sciences/2313903-il-y-a-huit-mois-cette-fusee-chinoise-explosait-au-sol-aujourdhui-elle-atterrit-comme-une-falcon-9.html",
-      "summary": "Huit mois après un premier essai qui s'était terminé en un feu d'artifice dans le désert, l'entreprise chinoise LandSpace a réussi un exploit majeur : faire atterrir le premier étage de sa fusée Zhuque-3 en douceur, à la manière de SpaceX.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-19T10:01:00+00:00",
-      "source": "Numerama",
-      "category": "Économie",
-      "id": "3a0988cb8911"
-    },
-    {
-      "title": "L'Europe ne peut pas \"se permettre\" de manquer la révolution de l'IA, prévient Christine Lagarde, présidente de la Banque centrale européenne",
-      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/l-europe-ne-peut-pas-se-permettre-de-manquer-la-revolution-de-l-ia-previent-christine-lagarde_8153453.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'intelligence artificielle brasse aujourd'hui des investissements massifs, mais est largement dominée par des géants aux Etats-Unis ou en Chine.",
-      "image": "https://www.franceinfo.fr/pictures/iNIT7ACFQgAIAgqB-_Y4GV3nDGc/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a857962be434653812600.jpg",
-      "published_at": "2026-08-19T11:54:10+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "26d0a4e32602"
-    },
-    {
-      "title": "\"On a des choux qui n'ont pas grossi\" : des fruits et légumes plus petits dans nos supermarchés à cause de la sécheresse",
-      "url": "https://www.franceinfo.fr/economie/on-a-des-choux-qui-n-ont-pas-grossi-des-fruits-et-legumes-plus-petits-dans-nos-supermarches-a-cause-de-la-secheresse_8153276.html#xtor=RSS-3-[lestitres]",
-      "summary": "Avec la sécheresse, nos étals pourraient changer de visage dans les prochaines semaines : des légumes plus petits, ou \"moches\" pourraient être proposés dans les supermarchés. Toutefois, les prix ne devraient pas forcément diminuer.",
-      "image": "https://www.franceinfo.fr/pictures/WlOBVLs0f8P01_jPwT9I848sEsc/6x0:1286x720/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8560b3dfa0a527527685.jpg",
-      "published_at": "2026-08-19T11:52:23+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "d0654c15635e"
     }
   ]
 }
