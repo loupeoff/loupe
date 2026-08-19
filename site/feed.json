@@ -1,19 +1,179 @@
 {
-  "generated_at": "2026-08-19T13:50:39.314121+00:00",
+  "generated_at": "2026-08-19T14:41:43.960557+00:00",
   "article_count": 30,
   "articles": [
     {
+      "title": "L’Arabie saoudite prise au piège du bourbier yéménite",
+      "url": "https://www.lemonde.fr/international/article/2026/08/19/l-arabie-saoudite-prise-au-piege-du-dossier-yemenite_6749883_3210.html",
+      "summary": "Attaqué par les houthistes depuis la mi-juillet, le royaume cherche à éviter de s’engager dans une nouvelle guerre chez son voisin, sans se résoudre, pour autant, à la possible installation à sa frontière d’un Etat soutenu par l’Iran.",
+      "image": "https://img.lemde.fr/2026/08/07/1059/0/5334/2667/644/322/60/0/0b219e4_ftp-1-eusxwe0qblo0-2026-08-07t125003z-403117402-rc20pmahvhft-rtrmadp-3-iran-crisis-saudi-houthis.JPG",
+      "published_at": "2026-08-19T16:30:00+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "38034f5ffc74"
+    },
+    {
+      "title": "Claude peut désormais envoyer des mails à votre place, même sans validation",
+      "url": "https://www.numerama.com/tech/2313921-claude-peut-desormais-envoyer-des-mails-a-votre-place-meme-sans-validation.html",
+      "summary": "Claude peut désormais rédiger, transférer et envoyer des mails directement depuis Gmail, a annoncé Anthropic le 18 août 2026. Une nouvelle étape vers un assistant capable d’agir à votre place, avec une validation humaine activée par défaut.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-19T14:30:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "faddcd16bacb"
+    },
+    {
+      "title": "En Centrafrique, un éboulement dans une mine d’or artisanale fait au moins 100 morts",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/19/en-centrafrique-un-eboulement-dans-une-mine-d-or-artisanale-fait-au-moins-100-morts_6749818_3213.html",
+      "summary": "L’effondrement a eu lieu mardi à la mi-journée dans l’ouest du pays, à la frontière avec le Cameroun. Les opérations de secours se poursuivent.",
+      "image": "https://img.lemde.fr/2026/08/19/0/0/2500/1250/644/322/60/0/0057200_upload-1-hewtu6ckolal-2014-05-09t120000z-1390605314-gm1ea591svl01-rtrmadp-3-centralafrican.JPG",
+      "published_at": "2026-08-19T16:28:26+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "d08c8776b904"
+    },
+    {
+      "title": "Robert Ménard : cet amour-là, les femmes n’en veulent pas, par Giulia Foïs",
+      "url": "https://www.liberation.fr/idees-et-debats/opinions/robert-menard-cet-amour-la-les-femmes-nen-veulent-pas-par-giulia-fois-20260819_QSJAGCPYAVGXBM4UURY3QVEINI/",
+      "summary": "Sur une affiche pour la feria, le maire de Béziers roucoule, tel un Julio Iglesias des élus locaux, son amour «pour les femmes, les toros, les flics». Une profession de foi viriliste digne d’un monde d’avant #MeToo qui donne la nausée.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-19T14:25:10+00:00",
+      "source": "Libération",
+      "category": "Tech",
+      "id": "ff4382b3daa4"
+    },
+    {
+      "title": "\"Avant, on trouvait des hippocampes partout\" : dans le bassin d’Arcachon, l'eau à 25 degrés met la faune et la flore en danger",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/avant-les-hippocampes-on-en-trouvait-partout-dans-le-bassin-d-arcachon-l-eau-a-25-degres-met-la-faune-et-la-flore-en-danger_8153705.html#xtor=RSS-3-[lestitres]",
+      "summary": "Selon la Fédération d'études et de sports sous-marins,",
+      "image": "https://www.franceinfo.fr/pictures/1hJvbyWx8KQ4my1w9sX9nJtD9dQ/0x116:1644x1041/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85b4b21469c719859301.png",
+      "published_at": "2026-08-19T16:17:32+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "094cd7647b41"
+    },
+    {
+      "title": "Deux ans après, l'armée israélienne annonce l'ouverture d'une enquête sur la mort de Hind Rajab, enfant de 5 ans tuée à Gaza",
+      "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/deux-ans-apres-l-armee-israelienne-annonce-l-ouverture-d-une-enquete-sur-la-mort-de-hind-rajab-enfant-de-cinq-ans-tuee-a-gaza_8153726.html#xtor=RSS-3-[lestitres]",
+      "summary": "Son corps avait été retrouvé dans une voiture criblée de balles, quelques jours après un appel désespéré avec le Croissant-Rouge palestinien.",
+      "image": "https://www.franceinfo.fr/pictures/oDdrUjFbvCprKIs5JABTynOb3VQ/0x207:1024x783/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85b9c9b2bfc515759499.jpg",
+      "published_at": "2026-08-19T16:14:28+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "687ff0695a81"
+    },
+    {
+      "title": "« Fjord », Palme d’or 2026 : « Cristian Mungiu prête le prestige du cinéma au registre de la lutte contre le politiquement correct »",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/19/fjord-palme-d-or-2026-cristian-mungiu-prete-le-prestige-du-cinema-au-registre-de-la-lutte-contre-le-politiquement-correct_6749882_3232.html",
+      "summary": "Dans une tribune au « Monde », le politiste roumain Cristian Pirvulescu estime qu’en choisissant une fois de plus un sujet très clivant politiquement, tout en refusant d’en tirer un verdict moral, le cinéaste cultive une ambiguïté qui fait le jeu des milieux réactionnaires.",
+      "image": "https://img.lemde.fr/2026/08/19/0/1531/7918/3959/644/322/60/0/1c9cd6c_upload-1-9211b8y3hwpr-still-215258-3-copie.jpg",
+      "published_at": "2026-08-19T16:10:04+02:00",
+      "source": "Le Monde",
+      "category": "Culture",
+      "id": "9e334a1f5c66"
+    },
+    {
+      "title": "Sonia Bellina : le corps partiellement calciné retrouvé dans le Gard identifié comme celui de l’influenceuse de 29 ans",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/19/gard-le-corps-partiellement-calcine-retrouve-a-saint-gilles-identifie-comme-celui-de-l-influenceuse-sonia-bellina_6749881_3224.html",
+      "summary": "Deux suspects ont été interpellés dans le cadre de l’enquête ouverte pour assassinat, a annoncé, mercredi, le parquet de Nîmes. Le corps « partiellement carbonisé » d’une femme avait été retrouvé le 12 août dans des vignes du village de Saint-Gilles.",
+      "image": "https://img.lemde.fr/2026/07/28/415/0/3000/1500/644/322/60/0/7675466_upload-1-3ze3qndubrdw-frame-1169.jpg",
+      "published_at": "2026-08-19T16:06:45+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "4832658d60b0"
+    },
+    {
+      "title": "Envers mon endroit (7/8) – La maison de famille, par Léonor de Récondo : sans commune masure",
+      "url": "https://www.liberation.fr/portraits/envers-mon-endroit-78-la-maison-de-famille-par-leonor-de-recondo-sans-commune-masure-20260819_DV54HZAT7FAMLHYYRUUFRSFVBA/",
+      "summary": "Vieille dame plus que millénaire lovée contre la Garonne, la bâtisse familiale de l’écrivaine et violoncelliste est gardienne de l’histoire.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-19T14:00:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "f0d13a5e725f"
+    },
+    {
+      "title": "Le maire de Chaumont blessé par balle en pleine nuit",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/haute-marne/chaumont/le-maire-de-chaumont-blesse-par-balle-en-pleine-nuit-3403591.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le maire de Chaumont (Haute-Marne), Antoine Desfretier, a été blessé par balle dans la nuit du 18 au 19 août, dans des circonstances indéterminées. Pris en charge par les secours, il est désormais hospitalisé au CHU de Dijon.",
+      "image": "https://www.franceinfo.fr/pictures/WB0OCJXfnEPUQuqjnL7YmVRUVb0/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85b4c48ccdb051400911.jpg",
+      "published_at": "2026-08-19T15:59:10+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a871655c58c0"
+    },
+    {
+      "title": "Le médicament Tavneos, destiné à traiter des maladies auto-immunes rares, retiré du marché car jugé trop dangereux",
+      "url": "https://www.franceinfo.fr/sante/le-medicament-tavneos-retire-du-marche-car-juge-trop-dangereux_8153687.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ce médicament, qui vise à traiter des maladies inflammatoires rares des vaisseaux sanguins, est prescrit à 600 patients en France.",
+      "image": "https://www.franceinfo.fr/pictures/zZb1IdG6ifWdG6TQy69pzCxlF4c/0x46:1024x622/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85b41d89da7970879390.jpg",
+      "published_at": "2026-08-19T15:58:38+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "01daf6071946"
+    },
+    {
+      "title": "Patrick Bruel visé par une nouvelle plainte pour tentative de viol, la neuvième depuis sa mise en examen",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/19/patrick-bruel-vise-par-une-nouvelle-plainte-pour-tentative-de-viol-la-neuvieme-depuis-sa-mise-en-examen_6749879_3224.html",
+      "summary": "L’avocate précise que la nouvelle plaignante était « tout juste majeure » au moment des faits, soulevant la question de la prescription et de la répétition des accusations.",
+      "image": "https://img.lemde.fr/2026/08/16/225/0/4755/2377/644/322/60/0/5b7880c_ftp-1-yyaegutzhr3y-5854603-01-06.jpg",
+      "published_at": "2026-08-19T15:57:12+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "a87af945ef96"
+    },
+    {
+      "title": "Le corps retrouvé calciné dans le Gard est bien celui de l'influenceuse Sonia Bellina, deux hommes placés en garde à vue",
+      "url": "https://www.franceinfo.fr/faits-divers/le-corps-retrouve-calcine-dans-le-gard-est-bien-celui-de-l-influenceuse-sonia-bellina-deux-hommes-places-en-garde-a-vue_8153642.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le corps avait été retrouvé entre des rangs de vignes à Saint-Gilles (Gard) le 12 août.",
+      "image": "https://www.franceinfo.fr/pictures/1zWwJ8-1btgK2WBWP9hdRbkx4z4/432x243/filters:format(jpg):quality(50)/2026/08/18/6a847c96e6910818778596.jpg",
+      "published_at": "2026-08-19T15:55:19+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "4e4dd691c31b"
+    },
+    {
+      "title": "Guerre à Gaza : deux ans après la mort de la petite Hind Rajab, 5 ans, Israël annonce l’ouverture d’une enquête",
+      "url": "https://www.liberation.fr/international/moyen-orient/guerre-a-gaza-deux-ans-apres-la-mort-de-la-petite-hind-rajab-5-ans-israel-annonce-louverture-dune-enquete-20260819_UNRIFWBNTNE57HJKII6RHYZNM4/",
+      "summary": "L’armée israélienne a relevé ce mercredi des «manquements présumés» ayant mené en janvier 2024 à la mort de la fillette. Une enquête concernant le meurtre de 15 secouristes et travailleurs humanitaires en mars 2025 va également être ouverte.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-08-19T13:51:38+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "4ffd073a8693"
+    },
+    {
+      "title": "Ahsoka : l’étrange sabre laser du trailer est-il tiré d’un vieux concours de fans de 1995 ?",
+      "url": "https://www.numerama.com/pop-culture/2314163-ahsoka-letrange-sabre-laser-du-trailer-est-il-tire-dun-vieux-concours-de-fans-de-1995.html",
+      "summary": "Un étrange sabre laser à double lame séparée a intrigué les fans dans la dernière bande-annonce d’Ahsoka. Une arme inédite ? Pas vraiment : des internautes viennent de retrouver un design quasi identique dans un vieux magazine Star Wars de 1995, imaginé par un fan lors d’un concours de dessin.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-19T13:50:00+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "ec72ab1cab50"
+    },
+    {
+      "title": "ChatGPT va désormais intégrer des publicités au milieu de ses réponses",
+      "url": "https://www.liberation.fr/economie/economie-numerique/chatgpt-va-desormais-integrer-des-publicites-au-milieu-de-ses-reponses-20260819_YRUIFYDTLJH4BFE2ATNUL4ANHU/",
+      "summary": "A partir du lundi 24 août, les utilisateurs européens des formules gratuites et les moins chères du robot conversationnel d’OpenAI seront exposés à des encarts publicitaires.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-19T13:46:44+00:00",
+      "source": "Libération",
+      "category": "Tech",
+      "id": "70251086ef1a"
+    },
+    {
       "title": "La justice française ordonne la remise à l’Allemagne du militant antifasciste albanais « Gino »",
       "url": "https://www.lemonde.fr/international/article/2026/08/19/la-justice-francaise-ordonne-la-remise-a-l-allemagne-du-militant-antifasciste-albanais-gino_6749877_3210.html",
-      "summary": "Rexhino Abazaj est poursuivi pour des violences contre des néonazis en 2023 à Budapest. La France lui avait refusé l’extradition vers la Hongrie en raison de risques pour ses droits fondamentaux. Son avocat a annoncé un pourvoi en cassation.",
+      "summary": "Rexhino Abazaj est poursuivi pour des violences contre des néonazis en 2023 à Budapest. La France avait refusé son extradition vers la Hongrie en raison de risques pour ses droits fondamentaux. Son avocat a annoncé un pourvoi en cassation.",
       "image": "https://img.lemde.fr/2026/08/19/392/0/4184/2092/644/322/60/0/c28604e_upload-1-jzgsdkedfsid-000-39789jt.jpg",
-      "published_at": "2026-08-19T15:46:36+02:00",
+      "published_at": "2026-08-19T15:46:34+02:00",
       "source": "Le Monde Inter",
       "category": "Société",
       "id": "8d6ff9be3111"
     },
     {
-      "title": "Le médicament Tavneos, pour traiter certaines maladies auto-immunes rares, retiré du marché en France après plusieurs morts à l’étranger",
+      "title": "Le médicament Tavneos, destiné à traiter certaines maladies auto-immunes rares, retiré du marché en France après plusieurs morts à l’étranger",
       "url": "https://www.lemonde.fr/sante/article/2026/08/19/le-medicament-tavneos-retire-du-marche-francais-apres-le-signalement-de-plusieurs-morts-a-l-etranger_6749876_1651302.html",
       "summary": "Au printemps, le groupe Kissei, qui commercialise Tavneos au Japon, a fait état d’une vingtaine de morts parmi les patients traités depuis l’introduction du médicament sur le marché japonais en 2022. En France, selon l’ANSM, il est prescrit à 600 patients.",
       "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/38ec457_upload-1-pp9dio4dwjlw-frame-340.jpg",
@@ -21,6 +181,16 @@
       "source": "Le Monde",
       "category": "Économie",
       "id": "b31fa1af0572"
+    },
+    {
+      "title": "Lutte contre les incendies : des avions d'occasion bientôt transformés en bombardiers d’eau",
+      "url": "https://www.franceinfo.fr/faits-divers/incendie/lutte-contre-les-incendies-des-avions-d-occasion-bientot-transformes-en-bombardiers-d-eau_8153681.html#xtor=RSS-3-[lestitres]",
+      "summary": "Pour lutter contre les incendies, de plus en plus virulents, des avions de ligne sont transformés en bombardiers d'eau. Cette nouvelle flotte, conçue par des ingénieurs français sera opérationnelle dans trois ans... Nous avons eu accès à ce chantier prometteur..",
+      "image": "https://www.franceinfo.fr/pictures/MqefDqXi0bcJTNe0as-bcKlQoY8/0x87:1716x1053/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85b1d3f05c1420295361.png",
+      "published_at": "2026-08-19T15:40:48+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "6b28ee79af7a"
     },
     {
       "title": "Judith Lyon-Caen : splendeurs et misères de la vie posthume de Balzac",
@@ -43,6 +213,16 @@
       "id": "55cb2dc88e21"
     },
     {
+      "title": "Victor Wembanyama nommé capitaine de l'équipe de France de basket pour les matchs d'août",
+      "url": "https://www.franceinfo.fr/sports/basket/victor-wembanyama/victor-wembanyama-nomme-capitaine-de-l-equipe-de-france-de-basket-pour-les-matchs-d-aout_8153669.html#xtor=RSS-3-[lestitres]",
+      "summary": "La star des Spurs va revêtir le maillot des Bleus pour la première fois depuis les Jeux olympiques 2024.",
+      "image": "https://www.franceinfo.fr/pictures/YQJqpoIROVF4aTmj1sSgSPEv268/0x418:5805x3683/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85aff2d07ae175528203.jpg",
+      "published_at": "2026-08-19T15:34:45+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "d6860ed75aa4"
+    },
+    {
       "title": "Au Kenya, le recours croissant aux « goons », ces gros bras payés pour semer le chaos dans les meetings politiques",
       "url": "https://www.lemonde.fr/afrique/article/2026/08/19/au-kenya-le-recours-croissant-aux-goons-ces-gros-bras-payes-pour-semer-le-chaos-dans-les-meetings-politiques_6749875_3212.html",
       "summary": "Embauchés par des reponsables politiques pour assurer leur sécurité ou intimider leurs rivaux, ces jeunes n’hésitent pas à faire preuve de violence. Dimanche, un rassemblement du mouvement d’opposition Linda Mwananchi a été attaqué dans l’ouest du pays. A un an de l’élection présidentielle, le phénomène inquiète.",
@@ -53,9 +233,9 @@
       "id": "84a589797930"
     },
     {
-      "title": "Dans les lacs et rivières de France, les proliférations de cyanobactéries empêchent la baignade : « On pensait pouvoir au moins tremper les pieds, mais c’est interdit »",
+      "title": "« On pensait pouvoir au moins tremper les pieds, mais c’est interdit » : les proliférations de cyanobactéries empêchent la baignade dans des lacs et rivières de France",
       "url": "https://www.lemonde.fr/planete/article/2026/08/19/dans-les-lacs-et-rivieres-de-france-les-proliferations-de-cyanobacteries-empechent-la-baignade-on-pensait-pouvoir-au-moins-tremper-les-pieds-mais-c-est-interdit_6749874_3244.html",
-      "summary": "Boostés par la chaleur et la baisse de qualité de l’eau, les micro-organismes se développent abondamment l’été dans l’eau douce, entraînant des restrictions de baignade, comme au lac de Bairon, dans les Ardennes.",
+      "summary": "Ces micro-organismes se développent de plus en plus l’été dans l’eau douce, entraînant des restrictions, comme au lac de Bairon, dans les Ardennes.",
       "image": "https://img.lemde.fr/2026/08/18/670/0/3000/1500/644/322/60/0/9b7f39c_upload-1-majkvjwp0u3m-dsc3446.jpg",
       "published_at": "2026-08-19T15:30:01+02:00",
       "source": "Le Monde",
@@ -63,17 +243,27 @@
       "id": "a667f4666d4d"
     },
     {
-      "title": "Le corps retrouvé calciné dans le Gard est bien celui de l'influenceuse Sonia Bellina, deux hommes placés en garde à vue",
-      "url": "https://www.franceinfo.fr/faits-divers/le-corps-retrouve-calcine-dans-le-gard-est-bien-celui-de-l-influenceuse-sonia-bellina-deux-hommes-places-en-garde-a-vue_8153642.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le corps avait été retrouvé entre des rangs de vignes à Saint-Gilles (Gard) le 12 août.",
-      "image": "https://www.franceinfo.fr/pictures/1zWwJ8-1btgK2WBWP9hdRbkx4z4/432x243/filters:format(jpg):quality(50)/2026/08/18/6a847c96e6910818778596.jpg",
-      "published_at": "2026-08-19T15:25:49+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "4e4dd691c31b"
+      "title": "Taylor Sheridan annule un spin-off Yellowstone assez controversé",
+      "url": "https://www.numerama.com/pop-culture/2314083-taylor-sheridan-annule-un-spin-off-yellowstone-pourtant-tres-attendu.html",
+      "summary": "Alors que l’empire Yellowstone continue d’inonder les écrans avec ses déclinaisons en série, Taylor Sheridan vient d’asséner une douche froide aux fans. Le showrunner texan a enterré le projet de spin-off centré sur le mythique ranch 6666.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-19T13:30:00+00:00",
+      "source": "Numerama",
+      "category": "Culture",
+      "id": "6788d9812cf7"
     },
     {
-      "title": "Championnat d’Europe de cécifoot à Strasbourg: «Avec la médaille d’or aux JO 2024, ça a pris une ampleur totalement différente»",
+      "title": "\"Une situation extrêmement grave\" : pourquoi le gouvernement est sous le feu des critiques après le piratage du fisc",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/une-situation-extremement-grave-pourquoi-le-gouvernement-est-sous-le-feu-des-critiques-apres-le-piratage-du-fisc_8153363.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les excuses du ministre des Comptes publics, mardi, et l'annonce d'un plan pour se protéger de futures cyberattaques n'ont pas éteint les condamnations d'opposants politiques et d'experts en cybersécurité.",
+      "image": "https://www.franceinfo.fr/pictures/iCMsaAJdtBzUPAKUPDS8VW4QKHk/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8597c88ce17760294122.jpg",
+      "published_at": "2026-08-19T15:29:02+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "74cc59671c4b"
+    },
+    {
+      "title": "Championnat d’Europe de cécifoot à Strasbourg : «Avec la médaille d’or aux JO 2024, ça a pris une ampleur totalement différente»",
       "url": "https://www.liberation.fr/sports/football/championnat-deurope-de-cecifoot-a-strasbourg-avec-la-medaille-dor-aux-jo-2024-ca-a-pris-une-ampleur-totalement-differente-20260819_Y7PFLFQ2PJCL7BLJAISK6MV734/",
       "summary": "La capitale alsacienne accueille cette semaine les championnats d’Europe. Les tribunes pleines et les bonnes audiences traduisent un engouement toujours là, deux ans après les Jeux de Paris. Même si les joueurs demandent plus de moyens.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
@@ -85,7 +275,7 @@
     {
       "title": "Mort de François Patriat : la République perd « l’un de ses plus infatigables artisans », déclare Emmanuel Macron",
       "url": "https://www.lemonde.fr/disparitions/article/2026/08/19/mort-de-francois-patriat-la-republique-perd-l-un-de-ses-plus-infatigables-artisans-declare-emmanuel-macron_6749873_3382.html",
-      "summary": "Les hommages se sont multipliés mercredi après la disparition du président du groupe macroniste au Sénat, salué comme un « serviteur fidèle » de la République et un élu profondément attaché à la Bourgogne.",
+      "summary": "Les hommages se sont multipliés, mercredi, après la disparition du président du groupe macroniste au Sénat, salué comme un « serviteur fidèle » de la République et un élu profondément attaché à la Bourgogne.",
       "image": "https://img.lemde.fr/2026/08/19/88/0/7367/3683/644/322/60/0/9ec3f7b_ftp-1-ve9skbxhosmj-5873060-01-06.jpg",
       "published_at": "2026-08-19T15:24:11+02:00",
       "source": "Le Monde Politique",
@@ -111,196 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "1099ff025b9a"
-    },
-    {
-      "title": "Ligue 1+ : une infime partie des matchs sera proposée en 4K UHD pour la saison 2026/2027",
-      "url": "https://www.numerama.com/pop-culture/2314137-ligue-1-une-infime-partie-des-matchs-sera-proposee-en-4k-uhd-pour-la-saison-2026-2027.html",
-      "summary": "La plateforme Ligue 1+ s'apprête à lancer le coup d'envoi de sa deuxième saison. Deux nouveautés cette année : 100 % des matchs chaque week-end, et quelques affiches en 4K UHD.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-19T13:10:31+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "92607a07ba23"
-    },
-    {
-      "title": "Sécheresse : aux abois, les jardins botaniques aussi doivent repenser leur modèle pour demain",
-      "url": "https://www.liberation.fr/environnement/biodiversite/secheresse-aux-abois-les-jardins-botaniques-aussi-doivent-repenser-leur-modele-pour-demain-20260819_URG7THPKVZAQDJFMM5JT7QRBFI/",
-      "summary": "Après plusieurs vagues de chaleur et des semaines sans pluie, les parcs français voient certaines espèces dépérir et commencent à repenser leurs plantations pour s’adapter à un climat plus chaud et plus sec.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-19T13:08:27+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "994e2ee83c51"
-    },
-    {
-      "title": "Mort du sénateur François Patriat, grand fidèle d’Emmanuel Macron",
-      "url": "https://www.liberation.fr/politique/mort-du-senateur-francois-patriat-grand-fidele-demmanuel-macron-20260819_3Z7XPMFY7BCE3IGTXBX6PQWKAI/",
-      "summary": "L’ancien socialiste, «marcheur» de la première heure et président du groupe macroniste au Sénat, avait été hospitalisé en juillet après un grave accident de vélo. Il avait 83 ans.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-19T13:05:59+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "855a26de919e"
-    },
-    {
-      "title": "Canicule : 1 243 morts en excès ont été recensés entre le 3 et le 22 juillet par Santé publique France",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/19/canicule-1-243-morts-en-exces-ont-ete-recenses-entre-le-3-et-le-22-juillet-par-sante-publique-france_6749871_3224.html",
-      "summary": "Ces décès, comptabilisés par Santé publique France, sont survenus « dans tous les lieux », a précisé le ministère, « mais avec un signal fort concernant les décès à domicile ».",
-      "image": "https://img.lemde.fr/2026/08/19/302/0/6000/3000/644/322/60/0/b73789c_upload-1-mpab3jazutzc-2026-07-09t135152z-98742372-rc29amatj4um-rtrmadp-3-europe-weather-france-hospital.JPG",
-      "published_at": "2026-08-19T15:04:59+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "6abe66c3078d"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : à Moscou, la distribution de carburant rationnée dans plusieurs réseaux de stations-service",
-      "url": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-a-moscou-la-distribution-de-carburant-rationnee-dans-plusieurs-reseaux-de-stations-service_6746952_3210.html",
-      "summary": "Selon l’application de suivi GdeBenz, le taux de disponibilité globale du carburant dans les stations-service de la Russie s’est effondré à 28,1 % au 16 août, contre 41 % une semaine plus tôt. A l’origine de la pénurie, l’arrêt partiel des raffineries de pétrole à la suite des frappes de drones ukrainiens.",
-      "image": "https://img.lemde.fr/2026/08/18/319/0/3913/1956/644/322/60/0/d959c8e_ftp-1-4hlhxxjbtjui-5866321-01-06.jpg",
-      "published_at": "2026-08-19T15:04:07+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "233cb4373814"
-    },
-    {
-      "title": "François d’Assise, le contre-modèle : comment le saint et ses disciples ont prêché le rejet absolu de l’argent en Occident",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/19/francois-d-assise-le-contre-modele-comment-le-saint-et-ses-disciples-ont-preche-le-rejet-absolu-de-l-argent-en-occident_6749870_3451060.html",
-      "summary": "« François d’Assise, le saint contemporain » (3/6). En quête de protection, François et ses compagnons, vus comme des vagabonds et régulièrement malmenés, vont à Rome demander l’approbation du pape. Ainsi naît l’ordre des frères mineurs, à l’idéal de pauvreté réaffirmé.",
-      "image": "https://img.lemde.fr/2026/08/05/36/0/1878/939/644/322/60/0/78dbeb3_upload-1-fwhvcwysk03a-3-saintfrancois.jpg",
-      "published_at": "2026-08-19T15:00:09+02:00",
-      "source": "Le Monde Inter",
-      "category": "Sport",
-      "id": "5b9cb60607a2"
-    },
-    {
-      "title": "Le Portugal interdit le port du voile intégral",
-      "url": "https://www.franceinfo.fr/monde/europe/le-portugal-interdit-le-port-du-voile-integral_8153603.html#xtor=RSS-3-[lestitres]",
-      "summary": "La loi, promulguée mardi, avait été adoptée par le Parlement en juillet, avec les voix de la coalition gouvernementale de droite et de l'extrême droite.",
-      "image": "https://www.franceinfo.fr/pictures/O5eTSOIIX8ry24KZAqfO-JUsw1A/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85a518b349c682496722.jpg",
-      "published_at": "2026-08-19T14:55:59+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "7ae90f4b7266"
-    },
-    {
-      "title": "L’incendie est «éteint» dans le Var, «fixé» dans la Drôme, «ne progresse plus» en Gironde : le point sur les brasiers en France",
-      "url": "https://www.liberation.fr/environnement/lincendie-est-eteint-dans-le-var-fixe-dans-la-drome-ne-progresse-plus-en-gironde-le-point-sur-les-brasiers-en-france-20260819_3SBNZKMCRFHPZJIFZZOI7CWEKQ/",
-      "summary": "En France, depuis le début de l’année, les incendies ont déjà parcouru 115 000 hectares selon le dernier bilan officiel du ministre de l’Intérieur. Un triste record qui pourrait encore empirer, tandis que toute flamme n’est pas étouffée.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-19T12:53:34+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "98b4eaac0281"
-    },
-    {
-      "title": "« Il est aussi faux de faire des réseaux sociaux la cause unique du mal-être adolescent que de nier leur capacité à l’amplifier »",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/19/il-est-aussi-faux-de-faire-des-reseaux-sociaux-la-cause-unique-du-mal-etre-adolescent-que-de-nier-leur-capacite-a-l-amplifier_6749869_3232.html",
-      "summary": "Notre responsabilité d’adulte n’est pas d’abandonner nos adolescents dans les espaces numériques, ni de les en tenir à l’écart, car la santé mentale de notre jeunesse mérite mieux qu’un affrontement entre technophiles et technophobes, analyse le pédopsychiatre Pierre Fourneret, dans une tribune au « Monde ».",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/9a0326b_upload-1-mq3ugbir2dqk-frame-1045.jpg",
-      "published_at": "2026-08-19T14:49:14+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "c39bb5dd05d1"
-    },
-    {
-      "title": "La Belgique disposée à envisager le transfert d'actifs russes vers l'Ukraine, mais sous certaines conditions",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-belgique-disposee-a-envisager-le-transfert-d-actifs-russes-vers-l-ukraine-mais-sous-certaines-conditions_8153606.html#xtor=RSS-3-[lestitres]",
-      "summary": "La Belgique refuse d'assumer le risque d'être seule éventuellement contrainte, d'ici dix à quinze ans, de restituer à la Russie les fonds gelés. Cela concerne environ 210 milliards d'euros d'actifs souverains russes, dont une part importante est gelée dans l'UE sur des comptes détenus auprès du dépositaire belge Euroclear.",
-      "image": "https://www.franceinfo.fr/pictures/uLj_Ip22W5XAMswg7xJDvpddUbo/0x14:1200x689/432x243/filters:format(jpg):quality(50)/2026/08/19/6a859aa0857b8430872557.jpg",
-      "published_at": "2026-08-19T14:48:14+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "5a589876674a"
-    },
-    {
-      "title": "Canicule : 1 243 morts de plus qu’attendu entre le 3 et le 22 juillet, estime Santé publique France",
-      "url": "https://www.liberation.fr/societe/sante/canicule-1-243-morts-de-plus-quattendu-entre-le-3-et-le-22-juillet-estime-sante-publique-france-20260819_IYM674A6QRFIXHGPEHJ5VBFZII/",
-      "summary": "L’agence sanitaire publie ce mercredi un nouveau bilan de surmortalité toutes causes confondues, cette fois sur les premières semaines de juillet, exceptionnellement chaudes.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-19T12:45:40+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "c929e138d8a1"
-    },
-    {
-      "title": "Hind Rajab : l’armée israélienne dit ouvrir une enquête sur la mort de la fillette de 5 ans, tuée avec sa famille à Gaza en 2024",
-      "url": "https://www.lemonde.fr/international/article/2026/08/19/gaza-l-armee-israelienne-dit-ouvrir-une-enquete-sur-la-mort-de-hind-rajab-tuee-a-5-ans-avec-sa-famille_6749867_3210.html",
-      "summary": "Le corps de l’enfant avait été retrouvé dans une voiture criblée de balles à Gaza, plusieurs jours après que la fillette avait été entendue pour la dernière fois, lors d’un long appel téléphonique désespéré avec le Croissant-Rouge palestinien, le 29 janvier 2024.",
-      "image": "https://img.lemde.fr/2024/02/12/72/0/1600/800/644/322/60/0/2263bef_1707724888910-080474.jpg",
-      "published_at": "2026-08-19T14:45:27+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "6a7a27275e33"
-    },
-    {
-      "title": "François Patriat, président du groupe macroniste au Sénat, est mort à l'âge de 83 ans",
-      "url": "https://www.franceinfo.fr/politique/le-senateur-francois-patriat-president-du-groupe-macroniste-au-senat-est-mort-a-l-age-de-83-ans_8153612.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'élu de Côte-d'Or est mort à l'hôpital de Dijon, \"des suites d'un grave accident de vélo\", selon son groupe parlementaire.",
-      "image": "https://www.franceinfo.fr/pictures/feCWX7Kj6bbBfY0vtROIM3_qYTw/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a859d5674678286620729.jpg",
-      "published_at": "2026-08-19T14:42:28+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "1762115890a0"
-    },
-    {
-      "title": "Qu'est-il reproché au groupe Meta, jugé aux Etats-Unis pour avoir \"appâté\" les adolescents sur Instagram et Facebook ?",
-      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/une-campagne-pour-tromper-ses-utilisateurs-qu-est-il-reproche-au-groupe-meta-juge-aux-etats-unis-pour-avoir-appate-les-adolescents-sur-instagram-et-facebook_8153156.html#xtor=RSS-3-[lestitres]",
-      "summary": "Quatre Etats américains réclament à la multinationale près de 200 milliards de dollars de pénalités et une refonte de ses deux applications phares pour mieux protéger les jeunes utilisateurs.",
-      "image": "https://www.franceinfo.fr/pictures/dQti7JCvn7CgoLIYnyvR68HdJe8/0x25:1024x601/432x243/filters:format(jpg):quality(50)/2026/08/19/6a855dd49f909818388567.jpg",
-      "published_at": "2026-08-19T14:20:57+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "9df58317ee8a"
-    },
-    {
-      "title": "La France dénonce les propos \"insupportables et inhumains\" sur Gaza du ministre israélien Itamar Ben Gvir",
-      "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/la-france-denonce-les-propos-insupportables-et-inhumains-sur-gaza-du-ministre-israelien-itamar-ben-gvir_8153585.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le ministre d'extrême droite, chargé de la Sécurité nationale, a appelé au meurtre de plusieurs dizaines de Palestiniens dans la bande de Gaza.",
-      "image": "https://www.franceinfo.fr/pictures/vfmxLrum5Px921Uuo-zTWKc1MAk/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a859580221d5841475225.jpg",
-      "published_at": "2026-08-19T14:20:04+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "bc46ffa01c25"
-    },
-    {
-      "title": "François Patriat, ancien ministre socialiste et fidèle de la première heure d’Emmanuel Macron, est mort à 83 ans",
-      "url": "https://www.lemonde.fr/disparitions/article/2026/08/19/francois-patriat-ancien-ministre-socialiste-et-fidele-de-la-premiere-heure-d-emmanuel-macron-est-mort-a-83-ans_6749865_3382.html",
-      "summary": "Le vétérinaire bourguignon avait adhéré au Parti socialiste en 1974, cumulant les mandats à partir des années 1980. Sénateur de la Côte-d’Or depuis 2008 et président du groupe macroniste au Sénat depuis 2017, il s’est éteint mercredi.",
-      "image": "https://img.lemde.fr/2026/05/28/0/0/6456/3228/644/322/60/0/5e4c78f_upload-1-oc32wf5ya7xh-000-342h7ll.jpg",
-      "published_at": "2026-08-19T14:09:02+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "387201b48585"
-    },
-    {
-      "title": "Le gérant français d’un zoo en Thaïlande refusant l’entrée aux Israéliens au cœur d’une polémique internationale",
-      "url": "https://www.lemonde.fr/international/article/2026/08/19/thailande-la-polemique-enfle-autour-du-proprietaire-d-un-zoo-refusant-les-israeliens_6749864_3210.html",
-      "summary": "L’ambassadrice d’Israël en Thaïlande s’est rendue la semaine dernière dans la province de Surat Thani, afin de « discuter de la sécurité et du bien-être des visiteurs israéliens ».",
-      "image": "https://img.lemde.fr/2026/08/19/647/0/1013/506/644/322/60/0/8cbd89e_upload-1-1708ezuhksnm-capture-d-e-cran-2026-08-19-a-13-21-16.png",
-      "published_at": "2026-08-19T14:08:03+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "8584b7b2deb0"
-    },
-    {
-      "title": "« Insupportables et inhumains » : la France et l’Allemagne condamnent les propos d’Itamar Ben Gvir, ministre d’extrême droite israélien, appelant au meurtre des habitants de Gaza",
-      "url": "https://www.lemonde.fr/international/article/2026/08/19/appels-d-itamar-ben-gvir-a-des-meurtres-a-gaza-la-france-et-l-allemagne-condamnent-les-propos-du-ministre-israelien_6749862_3210.html",
-      "summary": "Le ministre de la sécurité nationale israélien a appelé à tuer « chaque nuit à Gaza (…) 30 ou 40 » personnes. « Pas seulement ceux qui vous mettent actuellement en danger. Ce sont des gens qui ne devraient pas être en vie ».",
-      "image": "https://img.lemde.fr/2026/05/20/1014/0/7016/3508/644/322/60/0/885ad40_ftp-1-eftxe2uhef7l-05db8b5e362743289250492e76525353-0-6d4b396afce74935a7695dcf2f588d4a.jpg",
-      "published_at": "2026-08-19T14:04:24+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "16e500f25ffe"
-    },
-    {
-      "title": "La Fédération des particuliers employeurs de France, quatrième organisation patronale, visée par une plainte d’Anticor",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/19/la-federation-des-particuliers-employeurs-de-france-quatrieme-organisation-patronale-visee-par-une-plainte-d-anticor_6749861_3224.html",
-      "summary": "Selon les informations du « Monde », l’association anticorruption a déposé plainte contre X, en mars, notamment pour « détournement de fonds publics » et « corruption ». La fédération, qui représente les intérêts de 3,4 millions d’employeurs dans le secteur de l’emploi à domicile, fait déjà l’objet de deux enquêtes judiciaires.",
-      "image": "https://img.lemde.fr/2026/08/19/186/0/2752/1376/644/322/60/0/07ebc18_upload-1-u8tmq5icrhlp-image0.jpeg",
-      "published_at": "2026-08-19T14:00:09+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "e9cad0029644"
     }
   ]
 }
