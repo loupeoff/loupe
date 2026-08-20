@@ -7,9 +7,29 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Thu, 20 Aug 2026 01:44:03 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 03:04:34 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>Les sites de détention italiens en Albanie favorisent des « atteintes à l’Etat de droit », accuse Amnesty International</title>
+    <link>https://www.lemonde.fr/international/article/2026/08/20/les-sites-de-detention-italiens-en-albanie-favorisent-des-atteintes-a-l-etat-de-droit-accuse-amnesty-international_6750404_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/08/20/les-sites-de-detention-italiens-en-albanie-favorisent-des-atteintes-a-l-etat-de-droit-accuse-amnesty-international_6750404_3210.html</guid>
+    <pubDate>Thu, 20 Aug 2026 05:00:13 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[Le fonctionnement de ces centres financés par l’Italie, fruit d’un accord entre Rome et Tirana en 2023, est décrit comme particulièrement opaque. L’organisation de défense des droits humains dénonce une situation « préoccupante », alors que Giorgia Meloni souhaite étendre le système.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/08/19/485/0/5815/2907/644/322/60/0/9f5b6de_upload-1-23eypilkmrpe-000-82qa74d.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>La grève au Samusocial de Paris a pris fin après cinquante-sept jours de mobilisation et « des avancées importantes », selon la CGT</title>
+    <link>https://www.lemonde.fr/societe/article/2026/08/20/la-greve-au-samusocial-de-paris-a-pris-fin-apres-cinquante-sept-jours-de-mobilisation-et-des-avancees-importantes-selon-la-cgt_6750336_3224.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/societe/article/2026/08/20/la-greve-au-samusocial-de-paris-a-pris-fin-apres-cinquante-sept-jours-de-mobilisation-et-des-avancees-importantes-selon-la-cgt_6750336_3224.html</guid>
+    <pubDate>Thu, 20 Aug 2026 04:09:59 +0000</pubDate>
+    <category>Société</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[L’initiative des agents avait été lancée pour améliorer les salaires et les conditions de travail, ainsi que pour alerter sur le manque de moyens alloués à l’hébergement d’urgence. Des familles sans domicile étaient venus occuper le parvis et les bâtiments du siège du Samusocial.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/08/12/501/0/4000/2000/644/322/60/0/4f24956_upload-1-wju02igfa4n1-raf-paris-samusocial-005.JPG" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>L’Australie « outrée » par la décision d’Israël de clore une enquête sur la mort de sept humanitaires à Gaza</title>
     <link>https://www.lemonde.fr/international/article/2026/08/20/l-australie-outree-par-la-decision-d-israel-de-clore-une-enquete-sur-la-mort-de-sept-humanitaires-a-gaza_6750303_3210.html</link>
@@ -76,7 +96,7 @@
     <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/08/20/la-dette-publique-americaine-depasse-pour-la-premiere-fois-les-40-000-milliards-de-dollars_6750104_3210.html</guid>
     <pubDate>Thu, 20 Aug 2026 00:01:24 +0000</pubDate>
     <category>Économie</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
     <description><![CDATA[La progression de l’endettement s’avère plus rapide qu’anticipé par le bureau du Congrès pour le budget, sur fond de déficits persistants et de hausse des taux d’intérêt.]]></description>
     <enclosure url="https://img.lemde.fr/2026/08/19/482/0/5544/2772/644/322/60/0/95788fd_ftp-1-osf4f0bo3mxq-5874560-01-06.jpg" type="image/jpeg" length="0" />
   </item>
@@ -226,7 +246,7 @@
     <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/08/19/benyamin-netanyahou-affirme-qu-israel-a-envoye-un-message-a-la-turquie-au-lendemain-du-bombardement-d-une-base-aerienne-en-syrie_6750071_3210.html</guid>
     <pubDate>Wed, 19 Aug 2026 21:59:45 +0000</pubDate>
     <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
     <description><![CDATA[« Nous ne tolérerons pas un enracinement militaire turc progressant vers le sud, car cela nous menace », a estimé le premier ministre israélien, alors que la Turquie nie tout projet de déploiement de troupes en Syrie.]]></description>
     <enclosure url="https://img.lemde.fr/2026/08/17/27/0/2719/1359/644/322/60/0/e6aae2d_ftp-1-uk3skvoiwhtz-5862493-01-06.jpg" type="image/jpeg" length="0" />
   </item>
@@ -289,26 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">Libération</source>
     <description><![CDATA[En France, depuis le début de l’année, les incendies ont déjà parcouru 115 000 hectares selon le dernier bilan officiel du ministre de l’Intérieur. Un triste record qui pourrait encore empirer, alors que tous les feux ne sont pas éteints.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Incendie à Madrid : un nouveau feu s’est déclaré à l’ouest de la capitale espagnole et a été stabilisé</title>
-    <link>https://www.lemonde.fr/planete/article/2026/08/19/en-espagne-un-nouvel-incendie-s-est-declare-a-l-ouest-de-madrid_6750003_3244.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/planete/article/2026/08/19/en-espagne-un-nouvel-incendie-s-est-declare-a-l-ouest-de-madrid_6750003_3244.html</guid>
-    <pubDate>Wed, 19 Aug 2026 20:14:43 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Les autorités espagnoles ont engagé neuf avions bombardiers d’eau. Les ordres de confinement, qui concernaient quelque 3 500 habitants d’une commune près de la capitale, ont été levés.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/08/19/120/0/1920/960/644/322/60/0/ad3e2f5_upload-1-qebzpwvx7blo-000-c62j99e.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Guerre à Gaza : deux ans après la mort de Hind Rajab, Israël reconnaît avoir tiré sur la voiture dans laquelle se trouvait l’enfant de 5 ans</title>
-    <link>https://www.liberation.fr/international/moyen-orient/guerre-a-gaza-deux-ans-apres-la-mort-de-la-petite-hind-rajab-5-ans-israel-annonce-louverture-dune-enquete-20260819_UNRIFWBNTNE57HJKII6RHYZNM4/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/international/moyen-orient/guerre-a-gaza-deux-ans-apres-la-mort-de-la-petite-hind-rajab-5-ans-israel-annonce-louverture-dune-enquete-20260819_UNRIFWBNTNE57HJKII6RHYZNM4/</guid>
-    <pubDate>Wed, 19 Aug 2026 18:13:40 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[L’armée israélienne a relevé ce mercredi des «manquements présumés» ayant mené en janvier 2024 à la mort de la fillette. Une enquête concernant le meurtre de 15 secouristes et travailleurs humanitaires en mars 2025 va également être ouverte.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>
