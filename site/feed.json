@@ -1,7 +1,167 @@
 {
-  "generated_at": "2026-08-20T05:38:08.878960+00:00",
+  "generated_at": "2026-08-20T06:58:04.397482+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Incendie en Gironde : une association anti-corruption porte plainte après la réalisation d'un pare-feu par un homme d'affaires au Cap-Ferret",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/incendie-en-gironde-une-association-anti-corruption-porte-plainte-apres-la-realisation-d-un-pare-feu-par-un-homme-d-affaires-au-cap-ferret_8154545.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dans sa plainte, AC !! pointe un chantier commencé sans autorisation, sur des terrains qui appartenaient pour partie à la municipalité et à l'Office national des forêts (ONF).",
+      "image": "https://www.franceinfo.fr/pictures/8-HhF69x1iWra31Nr-uOBUtuUEE/0x191:1024x767/432x243/filters:format(jpg):quality(50)/2026/08/20/6a869ced452ec934060751.jpg",
+      "published_at": "2026-08-20T08:50:01+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "3981173a3121"
+    },
+    {
+      "title": "Frappes russes sur Kyiv, nouvelles accusations contre Joël Le Scouarnec, LFI et les Ecologistes font leur rentrée… L’actu de ce jeudi 20 août au matin",
+      "url": "https://www.liberation.fr/international/europe/frappes-russes-sur-kyiv-nouvelles-accusations-contre-joel-le-scouarnec-lfi-et-les-ecologistes-font-leur-rentree-lactu-de-ce-jeudi-20-aout-au-matin-20260820_TV6JVWV7AJENNNZYX64VC3D5Y4/",
+      "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée du jeudi 20 août.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-20T06:45:51+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "a84357dc8df8"
+    },
+    {
+      "title": "Trump menace l’Iran et ses partenaires commerciaux de «terribles répercussions économiques»",
+      "url": "https://www.liberation.fr/international/moyen-orient/trump-menace-liran-et-ses-partenaires-commerciaux-de-terribles-repercussions-economiques-20260820_3C4I4XAGO5CLXKPMO2ZH67DQ64/",
+      "summary": "Entre impopularité du conflit sur la scène politique américaine et réserves de munitions bien entamées, l’imprévisible président américain semble avoir récemment opté pour une posture plus attentiste sur le plan militaire.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-20T06:33:07+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "d7b78377fa20"
+    },
+    {
+      "title": "Piratage du site des impôts : « La crédibilité de l’Etat français est mise à mal quand il échoue à protéger l’une de ses forteresses les plus régaliennes »",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/20/piratage-du-site-des-impots-la-credibilite-de-l-etat-francais-est-mise-a-mal-quand-il-echoue-a-proteger-l-une-de-ses-forteresses-les-plus-regaliennes_6750680_3232.html",
+      "summary": "Le piratage des données de 678 000 contribuables est un sujet plus politique que technique, et qui illustre le bilan des dix ans du numérique en France, analyse, dans une tribune au « Monde », Jean-Baptiste Soufron, avocat et ancien secrétaire général du Conseil national du numérique.",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/5f6ad1d_upload-1-ryifecdlpm8k-frame-1069.jpg",
+      "published_at": "2026-08-20T08:30:02+02:00",
+      "source": "Le Monde",
+      "category": "Tech",
+      "id": "5d63b35c42ee"
+    },
+    {
+      "title": "Présidentielle 2027 : Les Ecologistes tiraillés entre Jean-Luc Mélenchon et Raphaël Glucksmann",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/20/presidentielle-2027-les-ecologistes-tirailles-entre-jean-luc-melenchon-et-raphael-glucksmann_6750679_823448.html",
+      "summary": "Alors que le PS a douché les espoirs d’une primaire de toute la gauche hors LFI, la cheffe de file des écologistes, Marine Tondelier, a appelé à rouvrir les discussions. Un appel qui a mis au jour les fractures idéologiques internes d’un parti déchiré entre deux lignes politiques.",
+      "image": "https://img.lemde.fr/2026/07/22/0/0/4252/2126/644/322/60/0/066889f_upload-1-rxavg4kt59o7-marinetondelierpasdecalais-46.JPG",
+      "published_at": "2026-08-20T08:25:33+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "08a43f59f2e9"
+    },
+    {
+      "title": "«White River Crossing» de Ian McGuire, de la pépite d’or au mirage ténébreux",
+      "url": "https://www.liberation.fr/culture/livres/white-river-crossing-de-ian-mcguire-de-la-pepite-dor-au-mirage-tenebreux-20260820_PTDYF6PUG5CYLMP6MPBUMV5SII/",
+      "summary": "Dans ce magnifique roman noir, l’auteur britannique réunit prospecteurs, vendeurs de fourrures, Indiens et Esquimaux.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-20T06:20:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "6280fe7374d2"
+    },
+    {
+      "title": "François Fillon suspendu de la Légion d’honneur et de l’ordre national du Mérite",
+      "url": "https://www.liberation.fr/politique/francois-fillon-suspendu-de-la-legion-dhonneur-et-de-lordre-national-du-merite-20260820_SQA5XAPV7RGYBCM6ZHTSFNHVYU/",
+      "summary": "Ces suspensions de dix ans découlent de sa condamnation définitive à quatre ans de prison avec sursis, 375 000 euros d’amende et cinq ans d’inéligibilité.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-20T06:19:24+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "e2db041d5b1a"
+    },
+    {
+      "title": "Yassine B., 19 ans, petite main du narcotrafic : «Le deal, c’est derrière moi»",
+      "url": "https://www.liberation.fr/societe/police-justice/yassine-b-19-ans-petite-main-du-narcotrafic-le-deal-cest-derriere-moi-20260820_3YMQIGTUIBFNRDSPGY5YLGK3UQ/",
+      "summary": "Loin des affaires les plus médiatiques, Anaïs Condomines chronique des audiences de la justice ordinaire. Aujourd’hui, devant la 18e chambre du tribunal judiciaire de Bobigny.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-20T06:15:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "cd19fc0d3e8e"
+    },
+    {
+      "title": "«Les degrés, les dates, tout est hors norme» : dans les vignobles français, des vendanges historiquement précoces",
+      "url": "https://www.liberation.fr/environnement/agriculture/les-degres-les-dates-tout-est-hors-norme-dans-les-vignobles-francais-des-vendanges-historiquement-precoces-20260820_OK3AZQRDXFE5VFRTCYNVIRDHX4/",
+      "summary": "Avec parfois trois semaines d’avance sur la date habituelle, la récolte du raisin a commencé dans de nombreuses régions. Travail sous canicule, manque de main-d’œuvre et baisses de rendements… les producteurs doivent s’adapter à des conditions exceptionnelles.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-20T06:14:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "333097ac4494"
+    },
+    {
+      "title": "Des frappes russes font neuf morts à Kyiv et dans sa région",
+      "url": "https://www.liberation.fr/international/europe/des-frappes-russes-font-neuf-morts-a-kyiv-et-dans-sa-region-20260820_CSTSXA4QIZCP5BSW3LSRAARDKI/",
+      "summary": "Plus de quatre ans après le début de l’invasion de l’Ukraine par la Russie, les frappes se sont intensifiées des deux côtés du front, faisant un nombre croissant de victimes civiles.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-08-20T06:12:00+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "73d11ba93845"
+    },
+    {
+      "title": "L'ancien Premier ministre François Fillon suspendu de la Légion d'honneur après sa condamnation pour emplois fictifs",
+      "url": "https://www.franceinfo.fr/politique/francois-fillon/francois-fillon-suspendu-de-la-legion-d-honneur-apres-sa-condamnation-pour-emplois-fictifs_8154512.html#xtor=RSS-3-[lestitres]",
+      "summary": "Selon un décret publié jeudi au Journal officiel, le candidat à la présidentielle de la droite en 2017 a aussi été suspendu pour dix ans de l'ordre national du Mérite, dont il est grand-croix, plus d'un an après avoir écopé de quatre ans de prison avec sursis.",
+      "image": "https://www.franceinfo.fr/pictures/ndlm2b13mDk8yZx74thetchU54Q/0x25:1024x601/432x243/filters:format(jpg):quality(50)/2026/08/20/6a8696408d81f985449318.jpg",
+      "published_at": "2026-08-20T08:08:37+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a80280b26600"
+    },
+    {
+      "title": "« Tu… es Tony Stark », personne ne croit à ce spoiler d’un acteur d’Avengers: Doomsday",
+      "url": "https://www.numerama.com/pop-culture/2314437-tu-es-tony-stark-personne-ne-croit-a-ce-spoiler-dun-acteur-davengers-doomsday.html",
+      "summary": "L'acteur David Harbour, vu dans la série Stranger Things, sera prochainement à l'affiche d'Avengers: Doomsday. Il reprend son rôle du Red Guardian. Invité à partager une citation hors contexte, il a fait un drôle de choix.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-20T06:06:19+00:00",
+      "source": "Numerama",
+      "category": "Culture",
+      "id": "9fa112ae0cf8"
+    },
+    {
+      "title": "Etudiants en galère d’appart : «Sans garant et sans APL, je ne sais pas où je vais vivre à la rentrée»",
+      "url": "https://www.liberation.fr/lifestyle/intimites/etudiants-en-galere-dappart-sans-garant-et-sans-apl-je-ne-sais-pas-ou-je-vais-vivre-a-la-rentree-20260820_TMLFFWEDWVB3BHRDUNWVH2H7XU/",
+      "summary": "Comment profiter de son été quand on ne sait pas où l’on vivra en septembre à la reprise des cours ? Dans notre quatrième épisode, Mona, étudiante mauricienne, ne sait pas où elle va pouvoir se loger à Paris à la rentrée.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-20T06:03:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "f7259a8ad022"
+    },
+    {
+      "title": "Le prince Harry et son épouse, Meghan, vont revenir vivre au Royaume-Uni",
+      "url": "https://www.franceinfo.fr/monde/royaume-uni/le-prince-harry-et-son-epouse-meghan-vont-revenir-vivre-au-royaume-uni_8154500.html#xtor=RSS-3-[lestitres]",
+      "summary": "Près de deux ans après leur mariage, Harry et Meghan avaient fait la une des médias du monde entier en janvier 2020, quand ils avaient quitté le Royaume-Uni, annonçant renoncer à l'essentiel de leurs obligations royales.",
+      "image": "https://www.franceinfo.fr/pictures/BDEHjrwUgVZePirvKdT-XxMPz7s/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/20/6a869004a121a296219684.jpg",
+      "published_at": "2026-08-20T07:46:36+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "b6632713e804"
+    },
+    {
+      "title": "Les leçons à tirer d’un été brûlant, non pas hors norme, mais nouvelle norme, par Corinne Lepage",
+      "url": "https://www.liberation.fr/idees-et-debats/les-lecons-a-tirer-dun-ete-brulant-non-pas-hors-norme-mais-nouvelle-norme-par-corinne-lepage-20260820_NJV32I4ZTFBLHG3GBNFN7LGR4I/",
+      "summary": "Coût réel de l’inaction et de la non-prévention, phobie inepte des énergies renouvelables, fausse opposition entre biodiversité et sécurité incendie… la canicule permanente de l’été 2026 a mis en lumière les failles de l’action publique, relève l’ex-ministre de l’Environnement qui appelle dans «Libération» à une adaptation rapide des mentalités et des pratiques.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-20T05:45:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "2680953128bf"
+    },
+    {
+      "title": "Au Sénégal, «un mandat déjà gâté» par la querelle de l’ancien binôme Diomaye-Sonko",
+      "url": "https://www.liberation.fr/international/afrique/au-senegal-un-mandat-deja-gate-par-la-querelle-de-lancien-binome-diomaye-sonko-20260820_QY6VODKIPRBFLAFX5MKFCBUVRQ/",
+      "summary": "Ecartelés entre les deux cofondateurs du parti Pastef, arrivés au pouvoir ensemble en 2024 et désormais rivaux, les militants choisissent leur camp avec amertume.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-20T05:34:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "feb9df6a1bf1"
+    },
     {
       "title": "Trade Republic lance le Livret A dans son application et dépasse 400 000 PEA",
       "url": "https://www.numerama.com/business/2314127-trade-republic-lance-le-livret-a-dans-son-application-et-depasse-400-000-pea.html",
@@ -13,21 +173,21 @@
       "id": "73aab143a100"
     },
     {
-      "title": "Donald Trump affirme que la Corée du Nord possède 57 armes nucléaires, Séoul estime qu’elle pourrait en avoir jusqu’à 120",
+      "title": "Donald Trump affirme que la Corée du Nord possède 57 armes nucléaires, Séoul estime ce nombre \"entre 80 et 120\"",
       "url": "https://www.franceinfo.fr/monde/coree-du-nord/donald-trump-affirme-que-la-coree-du-nord-possede-57-armes-nucleaires_8154152.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'estimation officielle du président américain est inhabituelle par sa précision, qui a répété malgré tout qu'il s'entendait \"très bien\" avec Kim Jong Un.",
-      "image": "https://www.franceinfo.fr/pictures/wuslL2G3AuFI4MYXo84nix6gNBQ/0x5:1024x581/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8611b277571007066830.jpg",
+      "summary": "Donald Trump a répété qu'il s'entendait \"très bien\" avec Kim Jong-un, assurant mercredi qu'il rencontrerait le dictateur nord-coréen avant la fin de l'année.",
+      "image": "https://www.franceinfo.fr/pictures/EZdk6EDLimSDWmJq-irCWGZwPEg/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8611b277571007066830.jpg",
       "published_at": "2026-08-20T07:20:21+02:00",
       "source": "France Info",
-      "category": "Politique",
+      "category": "International",
       "id": "e2e6b3f602e7"
     },
     {
-      "title": "La Corée du Nord possède 57 armes nucléaires, selon Donald Trump, et de 80 à 120, selon Séoul",
+      "title": "La Corée du Nord possède 57 armes nucléaires, selon Donald Trump ; entre 80 et 120, selon Séoul",
       "url": "https://www.lemonde.fr/international/article/2026/08/20/la-coree-du-nord-possede-57-armes-nucleaires-selon-donald-trump-et-de-80-a-120-selon-seoul_6749900_3211.html",
       "summary": "Le président des Etats-Unis a également critiqué la Corée du Sud et déclaré qu’il rencontrerait le dirigeant de la Corée du Nord, Kim Jong-un, avant la fin de l’année, sans donner plus de précision.",
       "image": "https://img.lemde.fr/2026/08/19/826/0/6000/3000/644/322/60/0/22c8400_ftp-1-teioyibsgtlo-2026-08-19t152922z-1488525833-rc2r1nalvhpd-rtrmadp-3-usa-trump.JPG",
-      "published_at": "2026-08-20T07:13:22+02:00",
+      "published_at": "2026-08-20T07:13:16+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "8e1290bee80c"
@@ -87,7 +247,7 @@
       "url": "https://www.lemonde.fr/international/article/2026/08/20/en-chine-le-fondateur-d-evergrande-geant-immobilier-tombe-en-faillite-condamne-a-la-prison-a-vie_6750612_3210.html",
       "summary": "Xu Jiayin est, en outre, condamné à plus d’un milliard d’euros d’amende. Avec un passif de plus de 300 milliards de dollars, Evergrande avait été contraint à la liquidation et avait été à l’origine de la crise immobilière chinoise.",
       "image": "https://img.lemde.fr/2026/08/20/333/0/4000/2000/644/322/60/0/e287c25_upload-1-3tkzjb4m3bia-000-9mt69z.jpg",
-      "published_at": "2026-08-20T06:57:51+02:00",
+      "published_at": "2026-08-20T06:57:48+02:00",
       "source": "Le Monde",
       "category": "Économie",
       "id": "036e57bdea5b"
@@ -123,7 +283,7 @@
       "id": "b85f99522c15"
     },
     {
-      "title": "Canicule : le Syndicat national des professionnels infirmiers demande la création d'un \"plan chaleur domicile\" pour mieux identifier les personnes vulnérables",
+      "title": "Canicule : le Syndicat des professionnels infirmiers demande la création d'un \"plan chaleur domicile\" pour mieux identifier les personnes vulnérables",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-le-syndicat-national-des-professionnels-infirmiers-demande-la-creation-d-un-plan-chaleur-domicile-pour-mieux-identifier-les-personnes-vulnerables_8154419.html#xtor=RSS-3-[lestitres]",
       "summary": "\"Aujourd'hui, on est dans une logique de prévention et il faut passer à une politique organisée autour du 'allons vers vous'\", estime le porte-parole du syndicat, mercredi sur franceinfo.",
       "image": "https://www.franceinfo.fr/pictures/Wh4VsrzVxUJIeTwQrqh5R-9hVM4/0x260:5000x3073/432x243/filters:format(jpg):quality(50)/2026/08/20/6a8685c2d3c48598655300.jpg",
@@ -141,166 +301,6 @@
       "source": "Libération",
       "category": "International",
       "id": "71ee53a40b9b"
-    },
-    {
-      "title": "Présidentielle 2027 : Jean-Luc Mélenchon, entre radicalité et besoin de rassembler, rêve d’un duel avec l’extrême droite",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/20/presidentielle-2027-jean-luc-melenchon-entre-radicalite-et-besoin-de-rassembler-reve-d-un-duel-avec-l-extreme-droite_6750546_823448.html",
-      "summary": "Le leader de La France insoumise interviendra dans la Drôme, lors des journées d’été du mouvement, qui ont lieu du jeudi 20 au dimanche 23 août. Sans rien céder sur son programme, il tente d’apparaître rassurant et fédérateur en vue d’un possible second tour contre Marine Le Pen.",
-      "image": "https://img.lemde.fr/2026/08/19/750/0/5000/2500/644/322/60/0/8300caf_upload-1-0jgfmu4j2gfl-kzihnioglu-stdenis-pol-melenchon-07062026-35.jpg",
-      "published_at": "2026-08-20T06:30:07+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "05cb7e1b1e6e"
-    },
-    {
-      "title": "\"On essaye de savoir pourquoi le joueur n'a pas joué, comment il était à l'entraînement\"... Le recrutement, un \"travail d'enquêteurs\" pour les clubs promus en Ligue 1",
-      "url": "https://www.franceinfo.fr/sports/foot/ligue-1/on-essaye-de-savoir-pourquoi-le-joueur-n-a-pas-joue-comment-il-etait-a-l-entrainement-le-recrutement-un-travail-d-enqueteurs-pour-les-clubs-promus-en-ligue-1_8128598.html#xtor=RSS-3-[lestitres]",
-      "summary": "Troyes et Le Mans doivent composer avec des moyens limités, comme la plupart des promus chaque année, et innover pour renforcer leur effectif.",
-      "image": "https://www.franceinfo.fr/pictures/ylo0dTpo-DIxmsDCi96dV9lfocE/0x0:6000x3375/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7afaf76fc86063706581.jpg",
-      "published_at": "2026-08-20T06:30:02+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "da7d1b9f0b6c"
-    },
-    {
-      "title": "Les départements de l'Ardèche, de la Drôme et de l'Isère placés en vigilance orange aux orages jeudi après-midi, la Corse en alerte vendredi matin",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/l-ardeche-la-drome-et-l-isere-places-en-vigilance-orange-aux-orages-jeudi-apres-midi-la-corse-en-alerte-vendredi-matin_8154413.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cet épisode est \"susceptible de s'accompagner de phénomènes ponctuellement violents (rafales, fortes précipitations) nécessitant par conséquent une attention toute particulière\", précise Météo-France.",
-      "image": "https://www.franceinfo.fr/pictures/alcz6EI8M_PKWYFI_WUgZ1m1Fks/0x186:4800x2886/432x243/filters:format(jpg):quality(50)/2026/08/20/6a868e6221f44054315692.jpg",
-      "published_at": "2026-08-20T06:28:27+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "ce5e94899f8d"
-    },
-    {
-      "title": "Comment les écologistes ont raté la refondation de la gauche",
-      "url": "https://www.liberation.fr/politique/elections/comment-les-ecologistes-ont-rate-la-refondation-de-la-gauche-20260820_DQR2ZJIHBBABTBPOLPCTNJPMCI/",
-      "summary": "Avec ses bons résultats aux européennes de 2019, EE-LV a eu l’occasion, trois ans avant une présidentielle, de «recomposer» un espace politique social et écologiste autour d’eux. Depuis, la fenêtre s’est refermée.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-20T04:20:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "a99fa07731fa"
-    },
-    {
-      "title": "«Vivre en lisière» d’Elsa Ballanfat : un espace à soi",
-      "url": "https://www.liberation.fr/culture/livres/vivre-en-lisiere-delsa-ballanfat-un-espace-a-soi-20260820_G5L2PCPVNNFVPPLJPDH7AIZEFA/",
-      "summary": "A travers la pratique de la marche, la philosophe fait l’expérience d’une mise à distance d’un milieu parfois délétère et d’un renouveau de pensée. La lisière devient alors un lieu investi.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-20T04:11:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "17177c2e5b46"
-    },
-    {
-      "title": "\"Les truffières sauvages ont disparu\" : la sécheresse menace la récolte de truffes et risque de faire flamber les prix du diamant noir",
-      "url": "https://france3-regions.franceinfo.fr/occitanie/aveyron/rodez/les-truffieres-sauvages-ont-disparu-la-secheresse-menace-la-recolte-de-truffes-et-risque-de-faire-flamber-les-prix-du-diamant-noir-3403276.html#xtor=RSS-3-[lestitres]",
-      "summary": "C'est une production assez confidentielle en Aveyron, la truffe se plaît dans les sols argilo-calcaires du département. Mais l'été 2026, avec la sécheresse, met à mal la production à venir. Les acteurs de la filière sont à la recherche de solutions pour préserver le diamant noir.",
-      "image": "https://www.franceinfo.fr/pictures/i7pEs_zRzVzAh11InbFwq1_a5d8/432x243/filters:format(jpg):quality(50)/2026/08/20/6a867c41aef61282960134.jpg",
-      "published_at": "2026-08-20T06:02:10+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "b5595fa2d288"
-    },
-    {
-      "title": "\"La situation est grave\" : en raison d'une pénurie d'eau, une commune de Haute-Savoie appelle sa population à réduire immédiatement sa consommation",
-      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/haute-savoie/la-situation-est-grave-en-raison-d-une-penurie-d-eau-une-commune-de-haute-savoie-appelle-sa-population-a-reduire-immediatement-sa-consommation-3403780.html#xtor=RSS-3-[lestitres]",
-      "summary": "En raison de la sécheresse, la commune de Vailly (Haute-Savoie) fait face à une pénurie d’eau potable. En début de semaine, la mairie a appelé ses administrés à \"réduire immédiatement et strictement leur consommation\".",
-      "image": "https://www.franceinfo.fr/pictures/xnt7fsauFTrCq9gTV5z5QhRJSn0/432x243/filters:format(jpg):quality(50)/2026/08/20/6a867bf1e3ef2649173415.jpg",
-      "published_at": "2026-08-20T06:00:50+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "5619b5301ef0"
-    },
-    {
-      "title": "Pourquoi la Gambie est-elle coincée au milieu du Sénégal ? Comprendre en trois minutes",
-      "url": "https://www.lemonde.fr/afrique/video/2026/08/20/pourquoi-la-gambie-est-elle-coincee-au-milieu-du-senegal-comprendre-en-trois-minutes_6750511_3212.html",
-      "summary": "Située le long du fleuve homonyme, la Gambie est un Etat enclavé dans le Sénégal, et dont la frontière est un héritage de la période coloniale. En juillet 2026, Sénégal et Gambie se sont mis d’accord pour clarifier son tracé sur le terrain.",
-      "image": "https://img.lemde.fr/2026/08/19/60/0/1920/960/644/322/60/0/7bdf934_upload-1-btfmsmvjwufi-tile9-16.png",
-      "published_at": "2026-08-20T06:00:26+02:00",
-      "source": "Le Monde Inter",
-      "category": "Sport",
-      "id": "50b7f6bb2362"
-    },
-    {
-      "title": "Présidentielle 2027 : « Le vote utile qu’espère mobiliser Jean-Luc Mélenchon n’aura plus le même sens qu’en 2022 »",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/20/presidentielle-2027-le-vote-utile-qu-espere-mobiliser-jean-luc-melenchon-n-aura-plus-le-meme-sens-qu-en-2022_6750478_3232.html",
-      "summary": "Le candidat de La France insoumise entend s’installer en tête des sondages à gauche et, ce faisant, rallier les électeurs de son camp afin d’accéder au second tour, mais ceux-ci sont divisés sur sa personnalité comme sur sa capacité à battre l’extrême droite, explique le politiste Antoine Bristielle, dans une tribune au « Monde ».",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/60e062f_upload-1-rldi9jimwj0s-frame-1355.jpg",
-      "published_at": "2026-08-20T06:00:09+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "7bda8b33eb90"
-    },
-    {
-      "title": "Lens peut-il inquiéter Paris, quelle saison pour l'OM, la lutte pour le maintien... 5 questions sur la saison 2026-2027 de Ligue 1",
-      "url": "https://www.franceinfo.fr/sports/foot/ligue-1/lens-peut-il-inquieter-paris-quelle-saison-pour-l-om-la-lutte-pour-le-maintien-5-questions-sur-la-saison-2026-2027-de-ligue-1_8151128.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le championnat de France reprend ses droits vendredi, avec un duel entre l'Olympique de Marseille et Strasbourg en ouverture.",
-      "image": "https://www.franceinfo.fr/pictures/b9LcwahXzVjcxb8mCZ4JwbiHtBM/0x0:2000x1125/432x243/filters:format(jpg):quality(50)/2026/08/17/6a8331df0bfa9317372794.png",
-      "published_at": "2026-08-20T06:00:02+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "6e8d3d1910d3"
-    },
-    {
-      "title": "Pet-sitter, plats concoctés par un chef, conciergerie… En France, le toutourisme met les crocs moyens",
-      "url": "https://www.liberation.fr/lifestyle/voyages/pet-sitter-plats-concoctes-par-un-chef-conciergerie-en-france-le-toutourisme-met-les-crocs-moyens-20260820_U67IL2533RBKJF5QZWO7LEVCRU/",
-      "summary": "Partir en vacances avec son chien est désormais de plus en plus facile. Le secteur du tourisme s’est adapté à leur importance grandissante dans la vie des Français.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-20T04:00:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "24e2858e453a"
-    },
-    {
-      "title": "Quiz : fans des années 80",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/quiz-fans-des-annees-80-20260820_U6Q2BIX3MFFRRKM43Y2VDC7YZM/",
-      "summary": "(28/30) Qui a réalisé le clip de «C’est comme ça» ? Comment s’appelait la messagerie rose de Libé ? Qui, avant Hollande, disait «le changement c’est maintenant» ?",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-20T04:00:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "423d38426ef2"
-    },
-    {
-      "title": "Natalie Harp, l’assistante fervente qui murmure à l’oreille de Donald Trump et agite tout Washington",
-      "url": "https://www.lemonde.fr/international/article/2026/08/20/natalie-harp-l-assistante-fervente-qui-murmure-a-l-oreille-de-donald-trump-et-agite-tout-washington_6750475_3210.html",
-      "summary": "La collaboratrice de 35 ans, entièrement dévouée au président américain, gère ses comptes sociaux et lui sert de filtre d’informations. Cette relation spéciale est devenue un sujet politique depuis qu’un sénateur y a fait allusion, s’attirant une violente réplique de la Maison Blanche.",
-      "image": "https://img.lemde.fr/2026/08/16/329/0/8434/4217/644/322/60/0/2530cd9_ftp-1-ole772s0tyl3-d1d52316f22b4b89973990a099ae3f60-1-6e48eeb639414cf495bc3c7162e5d90d.jpg",
-      "published_at": "2026-08-20T05:59:32+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "2e8ca448a506"
-    },
-    {
-      "title": "Attaques de drones, frappes sur les infrastructures énergétiques et civiles… Comment l'Ukraine tente de faire entrer la guerre dans le quotidien des Russes",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/attaques-de-drones-frappes-sur-les-infrastructures-energetiques-et-civiles-comment-l-ukraine-tente-de-faire-entrer-la-guerre-dans-le-quotidien-des-russes_8152046.html#xtor=RSS-3-[lestitres]",
-      "summary": "Kiev a lancé une vaste campagne de frappes de drones, fin juin. L'armée ukrainienne a récemment frappé de nombreux entrepôts du géant du e-commerce Wildberries, faisant rentrer la guerre dans la vie de la population russe.",
-      "image": "https://www.franceinfo.fr/pictures/aBVIaQRPfGqU0gmcIUkimgCNM9A/0x620:5765x3863/432x243/filters:format(jpg):quality(50)/2026/08/18/6a844985f01e9382530055.jpg",
-      "published_at": "2026-08-20T05:59:23+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "b0849d179efe"
-    },
-    {
-      "title": "Les prix des fruits et légumes n'ont-ils vraiment pas augmenté malgré la sécheresse, comme l'affirme la ministre de l'Agriculture ?",
-      "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-les-prix-des-fruits-et-legumes-n-ont-ils-vraiment-pas-augmente-malgre-la-secheresse-comme-l-affirme-la-ministre-de-l-agriculture_8152010.html#xtor=RSS-3-[lestitres]",
-      "summary": "Alors que la sécheresse et les fortes chaleurs mettent à mal les cultures, le gouvernement assure qu'aucune flambée généralisée des prix n'est observée et que la grande distribution s'adapte. Les données disponibles lui donnent en partie raison à ce stade, mais révèlent de fortes tensions sur certains produits.",
-      "image": "https://www.franceinfo.fr/pictures/TzTaTsHsjDNB_CHh3frfjaXNeVA/0x208:4000x2458/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85b8d6a6076186995952.jpg",
-      "published_at": "2026-08-20T05:57:56+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "3fb474816a82"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : au moins 13 morts à Kiev et sa région dans des bombardements russes",
-      "url": "https://www.lemonde.fr/international/live/2026/08/20/en-direct-guerre-en-ukraine-au-moins-six-morts-a-kiev-et-sa-region-dans-des-bombardements-russes_6746952_3210.html",
-      "summary": "Vitali Klitschko, le maire de la ville, fait savoir jeudi matin qu’« à ce stade, le nombre de victimes est de 12 » dans la capitale, portant le bilan provisoire à 13 personnes tuées dans l’oblast.",
-      "image": "https://img.lemde.fr/2026/08/20/1052/0/5712/2856/644/322/60/0/956e62e_ftp-1-yjdvdmkkxlif-2026-08-20t050123z-517046909-rc2y1nar5man-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
-      "published_at": "2026-08-20T05:52:45+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "ac44c17204a8"
     }
   ]
 }
