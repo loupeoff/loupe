@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-08-20T21:34:59.614101+00:00",
+  "generated_at": "2026-08-20T22:35:59.329643+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Deux départements du Sud-Est et la Corse en vigilance orange aux orages vendredi matin",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/l-ardeche-la-drome-et-l-isere-places-en-vigilance-orange-aux-orages-jeudi-apres-midi-la-corse-en-alerte-vendredi-matin_8154413.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Des orages pouvant être intenses (...) vont traverser la Corse d'Ouest en Est et des orages très pluvieux sont à attendre sur la Côte d'Azur.\", rapporte Météo-France.",
+      "image": "https://www.franceinfo.fr/pictures/alcz6EI8M_PKWYFI_WUgZ1m1Fks/0x186:4800x2886/432x243/filters:format(jpg):quality(50)/2026/08/20/6a868e6221f44054315692.jpg",
+      "published_at": "2026-08-21T00:21:50+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "ce5e94899f8d"
+    },
+    {
+      "title": "Un séisme de magnitude 6,7 a frappé le sud du Pérou",
+      "url": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-6-7-a-frappe-le-sud-du-perou_8155532.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les autorités locales n'ont pas fait état de victimes ni de dégâts matériels dans un premier temps.",
+      "image": "https://www.franceinfo.fr/pictures/4aTMAXOSY04TNIbI5doklAhRdxg/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/21/6a877951da957915202843.jpg",
+      "published_at": "2026-08-21T00:03:52+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "13f7970f17f8"
+    },
+    {
+      "title": "Syrie : l’administration kurde désormais intégrée dans celle de l’Etat",
+      "url": "https://www.lemonde.fr/international/article/2026/08/20/syrie-l-administration-kurde-desormais-integree-dans-celle-de-l-etat_6751362_3210.html",
+      "summary": "Les Kurdes et le régime de Damas avaient conclu en janvier un accord en vertu duquel leurs forces et leurs administrations devaient être progressivement intégrées au sein de l’Etat syrien. « Notre lutte se poursuivra afin de faire inscrire dans la Constitution les droits légitimes de notre peuple », affirme le leader kurde Mazloum Abdi.",
+      "image": "https://img.lemde.fr/2026/08/20/350/0/4200/2100/644/322/60/0/8eb27ca_ftp-1-yutchc1jgycf-5882555-01-06.jpg",
+      "published_at": "2026-08-20T23:48:41+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "347fd71b6bab"
+    },
+    {
+      "title": "Emmanuel Macron recevra le prince héritier saoudien Mohammed ben Salmane dimanche et lundi",
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-recevra-le-prince-heritier-saoudien-mohammed-ben-salmane-dimanche-et-lundi_8155523.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les \"enjeux régionaux\" sur fond de guerre au Moyen-Orient seront notamment évoqués, a annoncé l'Elysée jeudi.",
+      "image": "https://www.franceinfo.fr/pictures/LYtcrzWKXkl4ZQ5BMh1uUJe0hQQ/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/20/6a87755a5c44e123034380.jpg",
+      "published_at": "2026-08-20T23:47:00+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "36abbac7c402"
+    },
+    {
+      "title": "Les Etats-Unis menace les pays qui ne rejoindraient pas sa guerre économique contre l'Iran, censée faire \"chuter le régime\"",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-etats-unis-pressent-leurs-allies-de-soutenir-des-sanctions-economiques-contre-l-iran-censee-faire-chuter-le-regime_8155298.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le ministère iranien des Affaires étrangères a estimé jeudi que cette \"guerre économique\" constitue un cas de \"terrorisme économique\" et de \"crimes contre l'humanité\".",
+      "image": "https://www.franceinfo.fr/pictures/qIOzFyqgiG3yr8lUQdEGLwV0VPs/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/20/6a8735151ee72403763045.jpg",
+      "published_at": "2026-08-20T23:34:24+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "368a6723028d"
+    },
     {
       "title": "Le président serbe donne raison aux manifestants antigouvernementaux en évoquant la tenue de législatives anticipées en octobre",
       "url": "https://www.franceinfo.fr/monde/europe/le-president-serbe-donne-raison-aux-manifestants-antigouvernementaux-en-evoquant-la-tenue-de-legislatives-anticipees-en-octobre_8155487.html#xtor=RSS-3-[lestitres]",
@@ -83,16 +133,6 @@
       "id": "54f369ef7da0"
     },
     {
-      "title": "Un journaliste allemand visé par un mandat d'arrêt russe après une question qui a suscité la polémique",
-      "url": "https://www.franceinfo.fr/monde/russie/un-journaliste-allemand-vise-par-un-mandat-d-arret-russe-apres-une-question-qui-a-suscite-la-polemique_8155463.html#xtor=RSS-3-[lestitres]",
-      "summary": "Michael Martens a demandé début août aux présidents ukrainien et serbe comment aider l'Ukraine à \"tuer davantage de Russes\". La question a suscité la controverse en Russie, en Serbie et en Allemagne.",
-      "image": "https://www.franceinfo.fr/pictures/3oeFJArJDAN4a0Dspt-wIDPYPZs/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/20/6a8759c5418f5894004970.jpg",
-      "published_at": "2026-08-20T21:52:07+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "63b5a2202776"
-    },
-    {
       "title": "\"C'était terrifiant\" : une attaque massive russe fait au moins 16 morts à Kiev",
       "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-etait-terrifiant-une-attaque-massive-russe-fait-au-moins-16-morts-a-kiev_8155394.html#xtor=RSS-3-[lestitres]",
       "summary": "C'est l'une des attaques russes les plus meurtrières des derniers mois. En Ukraine, au moins 16 personnes ont été tuées dans un déluge de missiles et de drones à Kiev, dans la nuit du mercredi 19 au jeudi 20 août.",
@@ -131,16 +171,6 @@
       "source": "Le Monde",
       "category": "Société",
       "id": "504802dc5236"
-    },
-    {
-      "title": "La Finlande soupçonne un avion russe d'avoir violé son espace aérien",
-      "url": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-avion-russe-d-avoir-viole-son-espace-aerien_8155439.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Toute violation présumée de l'espace aérien est prise au sérieux. Une enquête est en cours\", a dit le ministre de la Défense du pays Antti Hakkanen, cité dans un communiqué.",
-      "image": "https://www.franceinfo.fr/pictures/KnoYZqbgFjwqQuApVyusa7dneVc/0x12:1024x588/432x243/filters:format(jpg):quality(50)/2026/08/20/6a87559f1e27d457734448.jpg",
-      "published_at": "2026-08-20T21:30:18+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "535cc73586a6"
     },
     {
       "title": "Franchises médicales : le gouvernement renonce au doublement des plafonds dans l’immédiat",
@@ -201,16 +231,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "1eeb8c2940fa"
-    },
-    {
-      "title": "Quatre départements du Sud-Est maintenus en vigilance orange aux orages jeudi soir, la Corse en alerte vendredi matin",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/l-ardeche-la-drome-et-l-isere-places-en-vigilance-orange-aux-orages-jeudi-apres-midi-la-corse-en-alerte-vendredi-matin_8154413.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Plusieurs salves d'orages parfois forts vont se succéder entre ce jeudi après-midi et ce vendredi matin\", rapporte Météo-France.",
-      "image": "https://www.franceinfo.fr/pictures/alcz6EI8M_PKWYFI_WUgZ1m1Fks/0x186:4800x2886/432x243/filters:format(jpg):quality(50)/2026/08/20/6a868e6221f44054315692.jpg",
-      "published_at": "2026-08-20T20:59:57+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "ce5e94899f8d"
     },
     {
       "title": "Patrick Bruel, accusé de viols et d’agressions sexuelles, n’est « pas le bienvenu » à Chartres pour sa tournée, affirme le maire",
@@ -281,26 +301,6 @@
       "source": "Numerama",
       "category": "Politique",
       "id": "70e0856b79df"
-    },
-    {
-      "title": "Après deux mois d’absence, Paul Biya, 93 ans, est rentré au Cameroun",
-      "url": "https://www.liberation.fr/international/afrique/apres-deux-mois-dabsence-paul-biya-93-ans-est-rentre-au-cameroun-20260820_7YFB2GDUPJBFNMJUXAM67XBFZE/",
-      "summary": "Président depuis 1982, le doyen des chefs d’Etat dans le monde est rentré ce jeudi soir à Yaoundé, après deux mois d’absence et un «court séjour privé en Europe». Son état de santé est scruté de près.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-20T18:15:52+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "ae75f1afe2ce"
-    },
-    {
-      "title": "Patrick Bruel, persona non grata à Chartres, où il doit démarrer sa tournée d’automne le 2 octobre",
-      "url": "https://www.liberation.fr/societe/police-justice/patrick-bruel-persona-non-grata-a-chartres-ou-il-doit-demarrer-sa-tournee-dautomne-le-2-octobre-20260820_U5V3CI7ZFZBNTGHCYOU5H7DRE4/",
-      "summary": "Le maire de la ville d’Eure-et-Loir considère que le chanteur, visé par plusieurs enquêtes pour viol et agression sexuelle, n’était pas le «bienvenu» dans sa commune. 35 dates jusqu’au 21 novembre sont prévues dans ce tour de chant contesté par des collectifs féministes.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-20T18:12:04+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "e2d5f2fa0a34"
     }
   ]
 }
