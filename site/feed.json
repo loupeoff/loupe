@@ -1,7 +1,127 @@
 {
-  "generated_at": "2026-08-20T18:51:20.441152+00:00",
+  "generated_at": "2026-08-20T19:37:05.679705+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "La Finlande soupçonne un avion russe d'avoir violé son espace aérien",
+      "url": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-avion-russe-d-avoir-viole-son-espace-aerien_8155439.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Toute violation présumée de l'espace aérien est prise au sérieux. Une enquête est en cours\", a dit le ministre de la Défense du pays Antti Hakkanen, cité dans un communiqué.",
+      "image": "https://www.franceinfo.fr/pictures/KnoYZqbgFjwqQuApVyusa7dneVc/0x12:1024x588/432x243/filters:format(jpg):quality(50)/2026/08/20/6a87559f1e27d457734448.jpg",
+      "published_at": "2026-08-20T21:30:18+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "535cc73586a6"
+    },
+    {
+      "title": "\"Pour répondre à la demande, il faudrait qu'on double la production\" : explosion de la consommation de poulet, les éleveurs français démunis face à la demande",
+      "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/pour-repondre-a-la-demande-il-faudrait-qu-on-double-la-production-explosion-de-la-consommation-de-poulet-les-eleveurs-francais-demunis-face-a-la-demande_8155418.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les Français n'ont jamais autant mangé de poulet, avec près de 6% d'augmentation sur un an. Mais les éleveurs français ne parviennent pas à suivre. Résultat : plus d’un poulet sur deux est désormais importé, notamment de Pologne.",
+      "image": "https://www.franceinfo.fr/pictures/YcyovzI3fte67cGWY-gEGaNTDbs/0x117:1402x906/432x243/filters:format(jpg):quality(50)/2026/08/20/6a874d9e30156743398764.png",
+      "published_at": "2026-08-20T21:28:16+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "54f369ef7da0"
+    },
+    {
+      "title": "Strasbourg : des hélicoptères de secours perturbés par des drones clandestins qui volent au-dessus de la prison",
+      "url": "https://www.franceinfo.fr/france/grand-est/bas-rhin/strasbourg/strasbourg-des-helicopteres-de-secours-perturbes-par-des-drones-clandestins-qui-volent-au-dessus-de-la-prison_8155421.html#xtor=RSS-3-[lestitres]",
+      "summary": "Depuis plusieurs semaines, les hélicoptères du Samu ne peuvent plus se poser la nuit à l'hôpital de Strasbourg. En cause : des survols répétés de drones au-dessus de la prison voisine pour faire des livraisons illégales.",
+      "image": "https://www.franceinfo.fr/pictures/hGXAU4fG9GfcNEfBEuP-2iKBROs/64x0:1028x542/432x243/filters:format(jpg):quality(50)/2026/08/20/6a8750cadb40a351909829.jpg",
+      "published_at": "2026-08-20T21:22:44+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "9bb6e410be24"
+    },
+    {
+      "title": "Franchises médicales : le gouvernement renonce au doublement des plafonds dans l’immédiat",
+      "url": "https://www.liberation.fr/economie/franchises-medicales-le-gouvernement-renonce-au-doublement-des-plafonds-dans-limmediat-20260820_JV2IG63OXRBF3OU6WJUYJOB3UI/",
+      "summary": "Selon le projet de l’exécutif, les plafonds devaient passer de 100 à 200 euros par an, mais la ministre de la Santé a annoncé dans «le Figaro» ce jeudi que le gouvernement fixerait une hausse moins importante, contrairement à ce qui avait été annoncé en juillet.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-20T19:22:05+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "f30533453ab6"
+    },
+    {
+      "title": "Un nouveau porte-avions américain est arrivé au Moyen-Orient, en remplacement du \"Abraham Lincoln\", déployé en mer durant des mois",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/un-nouveau-porte-avions-americain-est-arrive-au-moyen-orient-en-remplacement-du-abraham-lincoln-deploye-en-mer-durant-des-mois_8155427.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le porte-avions \"Abraham Lincoln\" n'a pas touché terre pendant plus de huit mois, ce qui a suscité des inquiétudes sur les conditions de vie de l'équipage.",
+      "image": "https://www.franceinfo.fr/pictures/FeNuSG3lSdfuD3zZqUhxDDPwoUo/0x73:1024x649/432x243/filters:format(jpg):quality(50)/2026/08/20/6a8751ab5e221152524679.jpg",
+      "published_at": "2026-08-20T21:14:37+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "8c663a9f4f69"
+    },
+    {
+      "title": "Le site de vente en ligne de vêtements Boohoo écope d’une amende de 2,3 millions d’euros",
+      "url": "https://www.liberation.fr/economie/conso/le-site-de-vente-en-ligne-de-vetements-boohoo-ecope-dune-amende-de-23-millions-deuros-20260820_4BYVE2V2PFETJEN2ISDN7SNHOE/",
+      "summary": "L’entreprise britannique est mise en cause par une enquête de la répression des fraudes française, qui a révélé des «pratiques commerciales trompeuses» ainsi qu’un «défaut d’information» pour le client.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-20T19:14:09+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "22c39c772a81"
+    },
+    {
+      "title": "La hausse du prix du plastique fait grimper la note des bouteilles d'eau minérale",
+      "url": "https://www.franceinfo.fr/economie/la-hausse-du-prix-du-plastique-fait-grimper-la-note-des-bouteilles-d-eau-minerale_8155415.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les bouteilles d’eau pourraient bientôt coûter plus cher, en raison de la guerre au Moyen-Orient. Elle fait flamber le prix du pétrole, et donc du plastique utilisé pour fabriquer les contenants.",
+      "image": "https://www.franceinfo.fr/pictures/5OIbdlUrpEIDLwsr8VgMcaN6rgY/0x114:1500x958/432x243/filters:format(jpg):quality(50)/2026/08/20/6a8750b2218a1317692979.png",
+      "published_at": "2026-08-20T21:10:19+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "bbd80ba5c88c"
+    },
+    {
+      "title": "Girondins de Bordeaux : devant le tribunal administratif, une opération de la dernière chance",
+      "url": "https://www.liberation.fr/societe/police-justice/girondins-de-bordeaux-devant-le-tribunal-administratif-une-operation-de-la-derniere-chance-20260820_H5Z6B2IG75GJRN4CKJRVZG5JVY/",
+      "summary": "Le club de foot, six fois champion de France, désormais menacé de liquidation judiciaire et de relégation en sixième division amateur, a tenté ce jeudi 20 août, devant le tribunal administratif de Paris, de sauver ce qui reste des meubles à l’aide d’un ultime repreneur miracle issu de la haute finance. La décision tombera vendredi à 18 heures.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-20T19:10:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "ce1b73edde22"
+    },
+    {
+      "title": "Franchises médicales : le gouvernement renonce au doublement des plafonds dans l’immédiat, annonce Stéphanie Rist",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/20/franchises-medicales-le-gouvernement-renonce-au-doublement-des-plafonds-dans-l-immediat-annonce-stephanie-rist_6751296_823448.html",
+      "summary": "Pour freiner la croissance des dépenses de santé, le gouvernement avait annoncé il y a près d’un mois le doublement de 100 à 200 euros par an du montant maximum des franchises. La ministre de la santé a admis que ce choix avait pu apparaître « brutal ».",
+      "image": "https://img.lemde.fr/2026/07/22/246/0/2342/1171/644/322/60/0/aa76b82_ftp-1-cb5u2yhzfcqx-2026-07-22t103711z-195579828-rc2yimagd79i-rtrmadp-3-france-politics.JPG",
+      "published_at": "2026-08-20T21:07:56+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "1eeb8c2940fa"
+    },
+    {
+      "title": "Quatre départements du Sud-Est maintenus en vigilance orange aux orages jeudi soir, la Corse en alerte vendredi matin",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/l-ardeche-la-drome-et-l-isere-places-en-vigilance-orange-aux-orages-jeudi-apres-midi-la-corse-en-alerte-vendredi-matin_8154413.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Plusieurs salves d'orages parfois forts vont se succéder entre ce jeudi après-midi et ce vendredi matin\", rapporte Météo-France.",
+      "image": "https://www.franceinfo.fr/pictures/alcz6EI8M_PKWYFI_WUgZ1m1Fks/0x186:4800x2886/432x243/filters:format(jpg):quality(50)/2026/08/20/6a868e6221f44054315692.jpg",
+      "published_at": "2026-08-20T20:59:57+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "ce5e94899f8d"
+    },
+    {
+      "title": "Patrick Bruel, accusé de viols et d’agressions sexuelles, n’est « pas le bienvenu » à Chartres pour sa tournée, affirme le maire",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/20/patrick-bruel-accuse-de-viols-et-d-agressions-sexuelles-n-est-pas-le-bienvenu-a-chartres-pour-sa-tournee-affirme-le-maire_6751263_3224.html",
+      "summary": "« Je souhaite vraiment qu’on ménage une place, une considération à la parole des victimes. Il y a eu 32 plaintes », a déclaré Ladislas Vergne.",
+      "image": "https://img.lemde.fr/2026/08/20/418/0/5013/2506/644/322/60/0/32312d3_upload-1-5l9u2y5ixuts-000-36q322q.jpg",
+      "published_at": "2026-08-20T20:59:51+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "b98029cfd858"
+    },
+    {
+      "title": "\"Une violence politique\" : des slogans nationalistes et une croix gammée tagués sur les murs de la police municipale de Bois-d'Arcy dans les Yvelines, la mairie porte plainte",
+      "url": "https://www.franceinfo.fr/societe/antisemitisme/une-violence-politique-des-slogans-nationalistes-et-une-croix-gammee-tagues-sur-les-murs-de-la-police-municipale-de-bois-d-arcy-dans-les-yvelines-la-mairie-porte-plainte_8155409.html#xtor=RSS-3-[lestitres]",
+      "summary": "La municipalité annonce avoir porté plainte.",
+      "image": "https://www.franceinfo.fr/pictures/zeXM_KATSTMTHW0rpm2uape_j40/0x433:4624x3034/432x243/filters:format(jpg):quality(50)/2026/03/17/police-municipale-illustration-policiers-municipaux-69b92f195d99f067907046.jpg",
+      "published_at": "2026-08-20T20:47:51+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "bd3d02d7270f"
+    },
     {
       "title": "Tennis : Carlos Alcaraz annonce son retour à la compétition pour l’US Open",
       "url": "https://www.liberation.fr/sports/tennis/tennis-carlos-alcaraz-annonce-son-retour-a-la-competition-pour-lus-open-20260820_5PQTFD7YBBEEHGZGI5KKAPJU5Q/",
@@ -11,6 +131,16 @@
       "source": "Libération",
       "category": "Sport",
       "id": "fb1e51b08df4"
+    },
+    {
+      "title": "Le gouvernement renonce au doublement des plafonds des franchises médicales dans l'immédiat, mais prévoit malgré tout une augmentation",
+      "url": "https://www.franceinfo.fr/sante/le-gouvernement-renonce-au-doublement-des-plafonds-des-franchises-medicales-dans-l-immediat-mais-prevoit-malgre-tout-une-augmentation_8155406.html#xtor=RSS-3-[lestitres]",
+      "summary": "La ministre de la Santé avait annoncé fin juillet son intention de doubler ces plafonds de 100 à 200 euros par an.",
+      "image": "https://www.franceinfo.fr/pictures/Cc-B7e53xbOWpD-we2jW0CtBB1I/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/20/6a874a66137af356643907.jpg",
+      "published_at": "2026-08-20T20:43:31+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "d288eae9b7d6"
     },
     {
       "title": "A Grenoble, Les Ecologistes n’esquivent pas la question des alliances pour 2027",
@@ -43,14 +173,14 @@
       "id": "3c5b4102a7d8"
     },
     {
-      "title": "Quatre départements du Sud-Est maintenus en vigilance orange aux orages, la Corse en alerte vendredi matin",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/l-ardeche-la-drome-et-l-isere-places-en-vigilance-orange-aux-orages-jeudi-apres-midi-la-corse-en-alerte-vendredi-matin_8154413.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Plusieurs salves d'orages parfois forts vont se succéder entre ce jeudi après-midi et ce vendredi matin\", rapporte Météo-France.",
-      "image": "https://www.franceinfo.fr/pictures/alcz6EI8M_PKWYFI_WUgZ1m1Fks/0x186:4800x2886/432x243/filters:format(jpg):quality(50)/2026/08/20/6a868e6221f44054315692.jpg",
-      "published_at": "2026-08-20T20:24:11+02:00",
+      "title": "\"C'était terrifiant\" : une attaque massive russe fait au moins 16 morts à Kiev",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-etait-terrifiant-une-attaque-massive-russe-fait-au-moins-16-morts-a-kiev_8155394.html#xtor=RSS-3-[lestitres]",
+      "summary": "C'est l'une des attaques russes les plus meurtrières de ces derniers mois. Au moins 16 personnes ont été tuées dans un déluge de missiles et de drones à Kiev, en Ukraine, dans la nuit du mercredi 19 au jeudi 20 août.",
+      "image": "https://www.franceinfo.fr/pictures/ik-qq9MyMVG0GN9XOVtlzx3H33c/25x0:1105x607/432x243/filters:format(jpg):quality(50)/2026/08/20/6a87466e49e71349400300.jpg",
+      "published_at": "2026-08-20T20:26:57+02:00",
       "source": "France Info",
-      "category": "Société",
-      "id": "ce5e94899f8d"
+      "category": "International",
+      "id": "207461740fb1"
     },
     {
       "title": "LOA et LLD voiture électrique : les meilleures offres de leasing auto à saisir à la rentrée 2026",
@@ -123,16 +253,6 @@
       "id": "f7da56cc769d"
     },
     {
-      "title": "Les industriels de la défense français ont dépassé le seuil des 20 milliards d'euros de commandes en 2025",
-      "url": "https://www.franceinfo.fr/societe/armee-securite-defense/les-industriels-de-la-defense-francais-ont-depasse-le-seuil-des-20-milliards-d-euros-de-commandes-en-2025_8155355.html#xtor=RSS-3-[lestitres]",
-      "summary": "Il s'agit de la deuxième année consécutive lors de laquelle ce seuil a été dépassé. Les avions Rafale, construits par Dassault, sont en tête des commandes.",
-      "image": "https://www.franceinfo.fr/pictures/s4w_Kj-kqq6RdttRXV8Dr00GQlE/0x142:1024x718/432x243/filters:format(jpg):quality(50)/2026/08/20/6a873ad19b652783910779.jpg",
-      "published_at": "2026-08-20T19:37:58+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "51ca12228035"
-    },
-    {
       "title": "A France Inter, une grille de rentrée chamboulée par la nouvelle directrice",
       "url": "https://www.liberation.fr/economie/medias/a-france-inter-une-grille-de-rentree-chamboulee-par-la-nouvelle-directrice-20260820_M3IQNWKARJCO3DVZKUSELOSFKU/",
       "summary": "En poste depuis mars, Céline Pigalle imprime sa marque sur la radio généraliste, résolument tournée vers l’information pour la prochaine saison présidentielle.",
@@ -181,126 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "1f7658d32e01"
-    },
-    {
-      "title": "« Les talibans prêchent la pureté et la moralité, et ils se ruent pour déshabiller les femmes en prison » : les Afghanes au pays de la terreur",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/20/les-talibans-prechent-la-purete-et-la-moralite-et-ils-se-ruent-pour-deshabiller-les-femmes-en-prison-les-afghanes-au-pays-de-la-terreur_6751163_3451060.html",
-      "summary": "« Paroles d’Afghanes » (5/6). En Afghanistan, le droit est désormais contre les femmes et les filles. Deux nouveaux décrets émis par le régime des talibans légalisent même la violence conjugale et le mariage des enfants.",
-      "image": "https://img.lemde.fr/2026/08/17/584/0/7008/3504/644/322/60/0/706c1c2_upload-1-e3d2w4skodjf-afg-2025-04-10-1116.jpg",
-      "published_at": "2026-08-20T19:30:02+02:00",
-      "source": "Le Monde Inter",
-      "category": "Société",
-      "id": "428d1a5a3cdf"
-    },
-    {
-      "title": "Asie du Nord-Est : face à la Chine et la Corée du Nord, un air de surenchère nucléaire à Tokyo et Séoul",
-      "url": "https://www.liberation.fr/international/asie-du-nord-est-face-a-la-chine-et-la-coree-du-nord-un-air-de-surenchere-nucleaire-a-tokyo-et-seoul-20260820_UXHJO4MVIVAPBJWZYGXUDGJ5UU/",
-      "summary": "Si la création d’un arsenal national n’est pas à l’ordre du jour, le Japon et la Corée débattent de plus en plus d’un partenariat renforcé avec les Etats-Unis, notamment pour le stockage d’armes américaines face aux menaces croissantes de leurs voisins.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-20T17:26:12+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "5fbd454a7d19"
-    },
-    {
-      "title": "«Une vision apocalyptique» : une semaine au cœur du mégafeu en Gironde",
-      "url": "https://www.liberation.fr/environnement/une-vision-apocalyptique-une-semaine-au-coeur-du-megafeu-en-gironde-20260820_BKMHPRIOM5GVJL4SH2K234IE34/",
-      "summary": "Du départ de feu à Saumos aux évacuations du Cap Ferret, Libération raconte cette semaine de juillet, passée au plus près de cet incendie XXL.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-20T17:21:18+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "67b161259eff"
-    },
-    {
-      "title": "«Le climat, c’est notre plus grand défi» : après un été caniculaire, le coup de chaud des jardiniers des clubs de foot",
-      "url": "https://www.liberation.fr/sports/football/le-climat-cest-notre-plus-grand-defi-apres-un-ete-caniculaire-le-coup-de-chaud-des-jardiniers-des-clubs-de-foot-20260820_QL2HUN4GUNC3XAUO6AUFZ6CQ2Q/",
-      "summary": "Au moment où le PSG ne peut pas jouer sur sa pelouse du Parc des princes, impraticable, ceux qui bichonnent ces billards très scrutés sont eux aussi contraints de s’adapter aux canicules à répétition.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-20T17:20:29+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "3e133b714d19"
-    },
-    {
-      "title": "Mort de Jason Arday : l’université de Gand suspend le chercheur ayant accusé de plagiat le jeune professeur de Cambridge",
-      "url": "https://www.lemonde.fr/international/article/2026/08/20/mort-de-jason-arday-l-universite-de-gand-suspend-le-chercheur-ayant-accuse-de-plagiat-le-jeune-professeur-de-cambridge_6751130_3210.html",
-      "summary": "Jason Arday, plus jeune professeur noir de l’université de Cambridge avant sa démission, a été retrouvé mort à son domicile à la mi-août, après des accusations de plagiat, qui ont déchaîné les passions en Grande-Bretagne",
-      "image": "https://img.lemde.fr/2026/08/18/649/0/6000/3000/644/322/60/0/9992294_ftp-1-ow1odurf02p1-5865643-01-06.jpg",
-      "published_at": "2026-08-20T19:15:25+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "104e55f7cd9b"
-    },
-    {
-      "title": "Les Etats-Unis pressent leurs alliés de soutenir des sanctions économiques contre l'Iran, censées faire \"chuter le régime\"",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-etats-unis-pressent-leurs-allies-de-soutenir-des-sanctions-economiques-contre-l-iran-censee-faire-chuter-le-regime_8155298.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le ministère iranien des Affaires étrangères a estimé jeudi que cette \"guerre économique\" constitue un cas de \"terrorisme économique\" et de \"crimes contre l'humanité\".",
-      "image": "https://www.franceinfo.fr/pictures/qIOzFyqgiG3yr8lUQdEGLwV0VPs/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/20/6a8735151ee72403763045.jpg",
-      "published_at": "2026-08-20T19:13:50+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "368a6723028d"
-    },
-    {
-      "title": "Trouver un logement étudiant en un seul mot : ségrégation",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/trouver-un-logement-etudiant-en-un-seul-mot-segregation-20260820_JCUFDZKCTZE33COP5PIANCFAUI/",
-      "summary": "Avec en moyenne 740 candidats par annonce et des prix qui s’envolent, la quête d’un toit est la galère de l’été pour des centaines de milliers d’étudiants et leurs familles. Près d’un jeune sur cinq déclare avoir dû renoncer à sa formation.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-20T17:13:40+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "70a7ccb49b91"
-    },
-    {
-      "title": "«On a au minimum une dizaine d’opérations à gérer en parallèle» : au QG du mécanisme de protection civile de l’UE, les crises permanentes",
-      "url": "https://www.liberation.fr/international/europe/on-a-au-minimum-une-dizaine-doperations-a-gerer-en-parallele-au-qg-du-mecanisme-de-protection-civile-de-lue-les-crises-permanentes-20260820_TBUIQNJVXJGOPDJ6GUUMKHFNXY/",
-      "summary": "Actif depuis vingt-cinq ans, le Centre de coordination de la réaction d’urgence, auquel participent 37 pays, surveille les catastrophes et coordonne le financement et l’acheminement de l’aide en temps réel.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-20T17:10:29+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "70f2c3672118"
-    },
-    {
-      "title": "En Volhynie, dans l’ouest de l’Ukraine, la difficile réconciliation des mémoires polonaise et ukrainienne autour des charniers de la seconde guerre mondiale",
-      "url": "https://www.lemonde.fr/international/article/2026/08/20/en-volhynie-dans-l-ouest-de-l-ukraine-la-difficile-reconciliation-des-memoires-polonaise-et-ukrainienne-autour-des-charniers-de-la-seconde-guerre-mondiale_6751129_3210.html",
-      "summary": "Dans les anciens villages de Wola Ostrowiecka et d’Ostrowki, dans l’ouest de l’Ukraine, archéologues et historiens exhument des corps de civils polonais massacrés par des nationalistes ukrainiens en 1943. Plus de quatre-vingts ans après, ce douloureux passé continue de peser sur les relations diplomatiques entre Kiev et Varsovie.",
-      "image": "https://img.lemde.fr/2026/08/17/130/0/4724/2362/644/322/60/0/b5d1c3b_upload-1-a91mjccnew8o-kst-0826-7296.jpg",
-      "published_at": "2026-08-20T19:00:13+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "1dd94ff84fe5"
-    },
-    {
-      "title": "Logements : pour les étudiants, un monde sans toit ni loi",
-      "url": "https://www.liberation.fr/societe/logement/logements-pour-les-etudiants-un-monde-sans-toit-ni-loi-20260820_FKRVPOJFTZEZZB3YVC7FBKVIVU/",
-      "summary": "Avec des prix au plus haut et une offre rarissime, trouver un appartement pour ses études devient une guerre de tranchées. Un rapport fait état de cette situation alarmante, d’autant que la majorité des annonces sont non conformes à la réglementation.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-20T16:53:59+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "0fe05c50220f"
-    },
-    {
-      "title": "Des millions de données médicales volées à la plateforme privée Alaxione au cours d'une cyberattaque revendiquée",
-      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-millions-de-donnees-medicales-volees-a-la-plateforme-privee-alaxione-lors-d-une-cyberattaque-revendiquee_8155325.html#xtor=RSS-3-[lestitres]",
-      "summary": "Selon le hacker, près de six millions de données ont été dérobées, contenant des coordonnées bancaires, des motifs de consultation ou encore des numéros de Sécurité sociale.",
-      "image": "https://www.franceinfo.fr/pictures/ra3iDCtvM5Mnq0zrZYSAxy9tOq0/0x350:6720x4127/432x243/filters:format(jpg):quality(50)/2025/09/23/cyberattaques-68d2cdf1c5cf4950035688.jpg",
-      "published_at": "2026-08-20T18:51:08+02:00",
-      "source": "France Info",
-      "category": "Tech",
-      "id": "5964e0042016"
-    },
-    {
-      "title": "Au Nigeria, plus de 50 morts après le chavirement d’un bateau surchargé",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/20/au-nigeria-plus-de-50-morts-apres-le-chavirement-d-un-bateau-surcharge_6751127_3212.html",
-      "summary": "L’accident s’est produit jeudi en début de journée dans le nord-ouest du pays. Les recherches se poursuivent, selon le porte-parole de l’Agence nationale de gestion des situations d’urgence de la région.",
-      "image": "https://img.lemde.fr/2026/08/20/54/0/1280/640/644/322/60/0/de19a9e_ftp-1-vb786qxhgr8s-2026-08-20t145635z-2039014501-rc2e2naif8s3-rtrmadp-3-nigeria-boat-accident.JPG",
-      "published_at": "2026-08-20T18:48:22+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "828fe41d141d"
     }
   ]
 }
