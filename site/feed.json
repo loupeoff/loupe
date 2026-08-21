@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-08-21T21:31:34.072404+00:00",
+  "generated_at": "2026-08-21T22:32:41.816093+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "L’OM ouvre la saison de Ligue 1 avec une large victoire contre Strasbourg",
+      "url": "https://www.lemonde.fr/sport/article/2026/08/22/l-om-ouvre-la-saison-de-ligue-1-avec-une-large-victoire-contre-strasbourg_6752321_3242.html",
+      "summary": "Amine Gouiri, Keyliane Abdallah et Pierre-Emile Hojbjerg ont permis à Marseille de l’emporter largement (4-0) face à une équipe strasbourgeoise jeune et peu convaincante.",
+      "image": "https://img.lemde.fr/2026/08/21/162/0/2589/1294/644/322/60/0/459b50a_ftp-1-3vxgk87vct3e-2026-08-21t202744z-269457720-up1em8l1ku757-rtrmadp-3-soccer-france-om-str.JPG",
+      "published_at": "2026-08-22T00:17:42+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "9ad233511c75"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : à Kryvy Rih, une frappe russe visant un centre commercial fait au moins quinze morts, dont des enfants",
+      "url": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-a-kryvy-rih-une-frappe-russe-visant-un-centre-commercial-fait-au-moins-quinze-morts-dont-des-enfants_6746952_3210.html",
+      "summary": "L’attaque a aussi fait au moins 130 blessés, dont 23 enfants. Quatre personnes, dont trois mineurs, ont également été tuées dans une frappe séparée dans la région de Mykolaïv (sud) qui a causé un incendie dans un magasin, une pharmacie et un bureau de poste, selon le ministère de l’intérieur ukrainien.",
+      "image": "https://img.lemde.fr/2026/08/21/250/0/2500/1250/644/322/60/0/7d744df_ftp-1-sgsaruo6q7wp-5888500-01-06.jpg",
+      "published_at": "2026-08-22T00:15:06+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "8472a3433331"
+    },
+    {
+      "title": "L'équipe de France de cécifoot se qualifie en finale de son Euro et affrontera l'Angleterre",
+      "url": "https://www.franceinfo.fr/sports/foot/l-equipe-de-france-de-cecifoot-se-qualifie-en-finale-de-son-euro-et-affrontera-l-angleterre_8156795.html#xtor=RSS-3-[lestitres]",
+      "summary": "En demi-finale vendredi, Frédéric Villeroux et ses coéquipiers, titrés aux Jeux paralympiques à Paris il y a deux ans, ont battu l'Italie.",
+      "image": "https://www.franceinfo.fr/pictures/dIKbx7pU9jfw17qBEorXUiI7IGo/0x406:1065x1005/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88c78e20344762605967.jpg",
+      "published_at": "2026-08-21T23:50:48+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "ffcef4d3f624"
+    },
+    {
+      "title": "Des incendies ont ravagé 20 000 hectares en Colombie",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/des-incendies-ont-ravage-20-000-hectares-en-colombie_8156792.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les flammes s'intensifient dans la région de Tolima en raison des faibles précipitations et des conditions climatiques associées au phénomène El Niño, qui s'annonce comme le plus intense documenté à ce jour.",
+      "image": "https://www.franceinfo.fr/pictures/cdUD2Qg5Id0EjdPhi5gTPUeSh0g/0x39:1024x615/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88c791021f8147098603.jpg",
+      "published_at": "2026-08-21T23:50:42+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "884ef23e0615"
+    },
+    {
+      "title": "En visite à Mayotte, Edouard Philippe souhaite mettre fin à l'\"appel d'air\" de l'immigration",
+      "url": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-fait-sa-rentree-politique-a-mayotte-et-promet-de-mettre-fin-a-l-appel-d-air-de-l-immigration_8156786.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le candidat Horizons à la présidentielle est en visite à Mayotte vendredi et samedi.",
+      "image": "https://www.franceinfo.fr/pictures/3_dwcaU-5N4iUjuI0jQiyX8l0j0/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88c226bf6f6577809408.jpg",
+      "published_at": "2026-08-21T23:37:09+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "cf259359601b"
+    },
     {
       "title": "Accusé d'avoir collecté illégalement les données des enfants, TikTok solde des poursuites aux Etats-Unis pour 400 millions de dollars",
       "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/accuse-d-avoir-collecte-illegalement-les-donnees-des-enfants-tiktok-solde-des-poursuites-aux-etats-unis-pour-400-millions-de-dollars_8156774.html#xtor=RSS-3-[lestitres]",
@@ -16,7 +66,7 @@
       "title": "En ouverture de la saison de Ligue 1, l'Olympique de Marseille écrase Strasbourg",
       "url": "https://www.franceinfo.fr/sports/foot/om/en-ouverture-de-la-saison-de-ligue-1-l-olympique-de-marseille-ecrase-strasbourg_8156738.html#xtor=RSS-3-[lestitres]",
       "summary": "Grâce à un doublé d'Amine Gouri en seconde période et l'opportunisme de l'entrant Keyliane Abdallah et de Pierre-Emile Hojbjerg (4-0), les Olympiens ont parfaitement débuté leur saison, vendredi.",
-      "image": "https://www.franceinfo.fr/pictures/Zm0o576saqfW8CVMJK3hHyDCCxA/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88b509d3ba2943936529.jpg",
+      "image": "https://www.franceinfo.fr/pictures/K11ZdOpqfGHx8KFLZRWsrOk43-Q/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88b509d3ba2943936529.jpg",
       "published_at": "2026-08-21T22:48:11+02:00",
       "source": "France Info",
       "category": "Sport",
@@ -43,14 +93,14 @@
       "id": "912f4e0f49a6"
     },
     {
-      "title": "Le ballon de la \"main de Dieu\" de Diego Maradona, mis aux enchères, pourrait rapporter plus de 8 millions d'euros à son propriétaire",
-      "url": "https://www.franceinfo.fr/sports/foot/diego-maradona/le-ballon-de-la-main-de-dieu-de-diego-maradona-mis-aux-encheres-pourrait-rapporter-plus-de-8-millions-d-euros-a-son-proprietaire_8156729.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'histoire a contribué à forger le mythe de Maradona : le ballon de la \"main de Dieu\", celui avec lequel le génie argentin avait marqué de la main en quart de finale du mondial de 1986, suscitant l'une des plus grosses controverses de l'histoire du football. Le ballon va être mis aux enchères pour 2,5 millions de dollars.",
-      "image": "https://www.franceinfo.fr/pictures/crGmbF3Mgit_sqIDizAyg5tS3_E/0x106:1462x929/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88a51eb67b4074386102.png",
-      "published_at": "2026-08-21T22:29:42+02:00",
+      "title": "Au moins un mort et trois personnes blessées dans un lycée en Suède, le suspect armé d'une épée interpellé",
+      "url": "https://www.franceinfo.fr/monde/europe/plusieurs-personnes-blessees-dans-un-lycee-en-suede-le-suspect-arme-d-une-epee-interpelle_8156432.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'assaillant, dont les motivations sont à ce stade inconnues, a été touché à la jambe par des tirs de la police.",
+      "image": "https://www.franceinfo.fr/pictures/CjLfu3lLzukC3-2NhPNeFpHKuog/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88b15ed3f67891709845.jpg",
+      "published_at": "2026-08-21T22:16:36+02:00",
       "source": "France Info",
-      "category": "Économie",
-      "id": "2398f1f87bec"
+      "category": "Société",
+      "id": "48f12c93c22e"
     },
     {
       "title": "Deux Palestiniens âgés de 58 et 17 ans tués en Cisjordanie",
@@ -63,16 +113,6 @@
       "id": "a7cdaa99baf4"
     },
     {
-      "title": "Incendies dans le Var : à Correns, des sols brûlés et un risque accru d'inondations",
-      "url": "https://www.franceinfo.fr/var/var-a-correns-des-sols-brules-et-un-risque-accru-d-inondations_8156759.html#xtor=RSS-3-[lestitres]",
-      "summary": "Quand la végétation a brûlé dans les incendies de cet été, le risque d'inondations est alors encore plus fort. Illustration dans la commune de Correns, dans le Var, où les dégâts sont considérables.",
-      "image": "https://www.franceinfo.fr/pictures/FnJeDDWaILDg-EvxWknfoWqhoWc/0x1:1065x601/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88ad645f0b8564060098.png",
-      "published_at": "2026-08-21T22:05:23+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "34a2654c1925"
-    },
-    {
       "title": "Donald Trump : quel est son lien avec l'intrigante Natalie Harp, l'assistante toujours à ses côtés ?",
       "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-quel-est-son-lien-avec-l-intrigante-natalie-harp-l-assistante-toujours-a-ses-cotes_8156723.html#xtor=RSS-3-[lestitres]",
       "summary": "Donald Trump et sa femme Melania sont apparus main dans la main, jeudi 20 août à la Maison-Blanche. La scène pourrait sembler banale, mais la première Dame n'était pas apparue en public depuis un mois. Par ailleurs, la presse américaine s'interroge ces derniers jours sur le rôle auprès du président américain d'une assistante, Natalie Harp, devenue omniprésente.",
@@ -83,16 +123,6 @@
       "id": "601290c1d0f6"
     },
     {
-      "title": "Une femme soupçonnée d'avoir égorgé son fils à Antibes placée en hôpital psychiatrique",
-      "url": "https://www.franceinfo.fr/faits-divers/une-femme-soupconnee-d-avoir-egorge-son-fils-a-antibes-placee-en-hopital-psychiatrique_8156762.html#xtor=RSS-3-[lestitres]",
-      "summary": "Son fils de 17 ans a été retrouvé égorgé dans son lit mercredi. Une enquête pour \"assassinat et tentative d'assassinat\" a été confiée au service local de police judiciaire d'Antibes.",
-      "image": "https://www.franceinfo.fr/pictures/k679-usMZ30uZtIdG5VgVeq7yWg/0x12:682x396/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88acd09c392194697262.jpg",
-      "published_at": "2026-08-21T21:54:45+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "52db9bf3d02d"
-    },
-    {
       "title": "\"Reste en Thaïlande, tu fais ta mission\" : de jeunes Français incarcérés, trafiquants à leur insu ?",
       "url": "https://www.franceinfo.fr/societe/drogue/reste-en-thailande-tu-fais-ta-mission-de-jeunes-francais-incarceres-trafiquants-a-leur-insu_8156696.html#xtor=RSS-3-[lestitres]",
       "summary": "Les soi-disant vacances de rêve en Thaïlande se sont terminées en prison : 13 Français ont été incarcérés depuis le début de l’été, arrêtés alors qu’ils passaient la frontière avec, pour certains, plusieurs kilos de drogue dans leurs bagages. Les jeunes gens assurent avoir été piégés.",
@@ -101,16 +131,6 @@
       "source": "France Info",
       "category": "Société",
       "id": "331097ee80fa"
-    },
-    {
-      "title": "Près de 12 heures de retard : le calvaire des passagers d'un train reliant Hendaye à Paris",
-      "url": "https://www.franceinfo.fr/economie/transports/sncf/pres-de-12-heures-de-retard-le-calvaire-des-passagers-d-un-train-reliant-hendaye-a-paris_8156687.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les orages ont fortement perturbé le trafic ferroviaire dans le Sud-Ouest. Un TGV Hendaye-Paris est arrivé dans la matinée du vendredi 21 août avec près de 12 heures de retard. Une nuit éprouvante pour les 500 passagers, qui ont dû dormir pour certains sur le sol.",
-      "image": "https://www.franceinfo.fr/pictures/PecZFwHfoB_vDlAO85UE_JEwpUw/48x0:1083x582/432x243/filters:format(jpg):quality(50)/2026/08/21/6a8898264b555147909924.png",
-      "published_at": "2026-08-21T21:47:39+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "cb9ad333ee14"
     },
     {
       "title": "Julian Alaphilippe \"avait une place tellement à part dans le cyclisme français\", salue le président de la Fédération française de cyclisme après l'annonce de sa retraite",
@@ -158,7 +178,7 @@
       "summary": "La haute cour, saisie la semaine dernière par l’administration Trump, a bloqué de manière temporaire un jugement prononcé le 7 août par une cour d’appel fédérale, qui ordonnait la suspension du chantier.",
       "image": "https://img.lemde.fr/2026/08/20/212/0/5729/2864/644/322/60/0/47b378c_ftp-1-56ixksgl4wy2-2026-08-20t164937z-811315212-rc2g2nadi6w9-rtrmadp-3-usa-trump-helipad.JPG",
       "published_at": "2026-08-21T21:01:13+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "f6738aaa0761"
     },
@@ -281,26 +301,6 @@
       "source": "Numerama",
       "category": "Tech",
       "id": "136e6ae2a274"
-    },
-    {
-      "title": "« Ma façon de me battre, c’est de fournir du boulot aux femmes » : privées d’école et exclues de l’administration, les Afghanes misent sur l’entreprise",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/21/ma-facon-de-me-battre-c-est-de-fournir-du-boulot-aux-femmes-privees-d-ecole-et-exclues-de-l-administration-les-afghanes-misent-sur-l-entreprise_6752281_3451060.html",
-      "summary": "« Paroles d’Afghanes » (6/6). Paradoxalement, l’un des rares droits qu’il reste aux femmes est de se lancer dans le business. Elles ont appris les bases sur Internet et font connaître leur activité sur les réseaux sociaux. Mais pour combien de temps encore ?",
-      "image": "https://img.lemde.fr/2026/08/17/500/0/6048/3024/644/322/60/0/d392c71_upload-1-benwjd1rq2cv-53-blanchardelise.JPG",
-      "published_at": "2026-08-21T19:30:02+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "b1f53bfc0f05"
-    },
-    {
-      "title": "Ascenseurs publics défectueux ou hors service : un site internet pour éviter le coup de la panne",
-      "url": "https://www.liberation.fr/lifestyle/hightech/ascenseurs-publics-defectueux-ou-hors-service-un-site-internet-pour-eviter-le-coup-de-la-panne-20260821_TDXSEVYA2VGLDCD7NFZYCC66TE/",
-      "summary": "A seulement 19 ans, Sébastian Dominguez a créé en juin le «Waze des ascenseurs», un site pour recenser les élévateurs publics en Ile-de-France ainsi que les problèmes éventuels.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-21T17:22:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "4a29c1bbb1e8"
     }
   ]
 }
