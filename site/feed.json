@@ -1,13 +1,73 @@
 {
-  "generated_at": "2026-08-21T04:47:57.822125+00:00",
+  "generated_at": "2026-08-21T05:39:12.298666+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Après les canicules et les incendies, le Rassemblement national rattrapé par son absence de réflexion écologique",
+      "title": "La situation climatique est radicale : notre responsabilité doit être à sa hauteur, par les maires de Grenoble, de Lyon et de Tours",
+      "url": "https://www.liberation.fr/idees-et-debats/la-situation-climatique-est-radicale-notre-responsabilite-doit-etre-a-sa-hauteur-par-les-maires-de-grenoble-de-lyon-et-de-tours-20260821_2EZSIIZJCVFXRGTN2OAVENEYZE/",
+      "summary": "A moins d’un an de la présidentielle, trois maires écologistes appellent à un sursaut national : la radicalité du péril climatique, que cet été caniculaire illustre, exige une réponse forte, font valoir les maires Ruffin, Doucet et Denis.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-21T05:34:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "d7fbd4120126"
+    },
+    {
+      "title": "Mi-Daredevil, mi-Zidane : qui est Frédéric Villeroux, le serial buteur des Bleus de cécifoot ?",
+      "url": "https://www.liberation.fr/sports/football/mi-daredevil-mi-zidane-qui-est-frederic-villeroux-le-serial-buteur-des-bleus-de-cecifoot-20260821_E2BDAF3RCNEWDDHWS6CBNIXUPU/",
+      "summary": "Au moment où la France s’apprête à disputer la demi-finale de l’Euro, face à l’Italie ce vendredi soir, le discret numéro 10 prend toute la lumière. Son aisance ballon au pied et ses exploits enflamment les réseaux sociaux.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-21T05:25:00+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "17b9a8a2db38"
+    },
+    {
+      "title": "Entre Anne Lauvergeon et Henri Proglio, un combat de haut volt",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/entre-anne-lauvergeon-et-henri-proglio-un-combat-de-haut-volt-20260821_YPYJI5SGK5BIVMWM34CL6U3L54/",
+      "summary": "L’affrontement entre ces deux chefs d’entreprise, qui voulaient, l’une à la tête d’Areva, l’autre d’EDF, devenir les champions du nucléaire français a été d’une rare violence. Et n’aura laissé aucun rescapé.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-21T05:00:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "740700182f86"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+      "url": "https://www.lemonde.fr/international/live/2026/08/21/en-direct-guerre-en-ukraine-les-dernieres-informations_6746952_3210.html",
+      "summary": "Deux femmes ont été tuées au cours de la nuit de jeudi à vendredi, dans le village de Lebiaje, dans le district ukrainien de Tchouhouïv, lors d’une attaque de drones, a annoncé le chef de l’administration militaire de l’oblast de Kharkiv.",
+      "image": "https://img.lemde.fr/2026/08/20/249/0/3315/1657/644/322/60/0/02e2e59_ftp-1-ya417qsqc1ng-2026-08-20t192412z-582618167-rc2h2napmemk-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
+      "published_at": "2026-08-21T06:46:53+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "7e231ae9e8ea"
+    },
+    {
+      "title": "La Corse, le Var et les Alpes-Maritimes en vigilance orange \"orages\" vendredi matin, les deux départements du Sud-Est aussi concernés par une alerte \"pluie-inondation\"",
+      "url": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/la-corse-le-var-et-les-alpes-maritimes-en-vigilance-orange-orages-vendredi-matin-les-deux-departements-du-sud-est-aussi-concernes-par-une-alerte-pluie-inondation_8155757.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Jusqu'à la mi-journée de vendredi, la situation reste à surveiller\" sur la région Provence-Alpes-Côte d'Azur, avec une \"aggravation de la vigilance vers l'orange\" pour d'autres départements, selon Météo-France.",
+      "image": "https://www.franceinfo.fr/pictures/qOCNibiKb29SUlDTsGmv7blt7Pg/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/21/6a87d82951a98976649674.jpg",
+      "published_at": "2026-08-21T06:46:52+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "0d7674302bd4"
+    },
+    {
+      "title": "Avec « It Goes On », Westside Cowboy sort un premier album prometteur, entre influences nord-américaines et ancrage local",
+      "url": "https://www.lemonde.fr/culture/article/2026/08/21/avec-it-goes-on-westside-cowboy-sort-un-premier-album-prometteur-entre-influences-nord-americaines-et-ancrage-local_6751609_3246.html",
+      "summary": "Après plus de deux ans à écumer les petites scènes du pays, les quatre musiciens de Manchester ont enregistré dans des conditions proches du live pour conserver l’énergie brute qui les caractérise et la spontanéité qui irradie leur musique.",
+      "image": "https://img.lemde.fr/2026/08/17/381/0/2500/1250/644/322/60/0/a1bb6ea_upload-1-w3ywjlpr9cst-westsidecowboy-clementineschneidermann-10mb.jpg",
+      "published_at": "2026-08-21T06:30:08+02:00",
+      "source": "Le Monde",
+      "category": "Culture",
+      "id": "fb3e8ec93f10"
+    },
+    {
+      "title": "Après les canicules et les incendies, le RN rattrapé par son absence de réflexion écologique",
       "url": "https://www.lemonde.fr/politique/article/2026/08/21/apres-les-canicules-et-les-incendies-le-rassemblement-national-rattrape-par-son-absence-de-reflexion-ecologique_6751610_823448.html",
       "summary": "Si ses porte-parole ont cessé de contester la réalité du réchauffement climatique, le parti, très critique des écologistes et du gouvernement, peine à développer un discours crédible sur l’adaptation à la crise.",
       "image": "https://img.lemde.fr/2026/07/08/669/0/4724/2362/644/322/60/0/3a416fe_upload-1-ddwpfdn3ohmn-mmagnin-le-pen-bardella-a-la-fleche-50.jpg",
-      "published_at": "2026-08-21T06:30:10+02:00",
+      "published_at": "2026-08-21T06:30:07+02:00",
       "source": "Le Monde Politique",
       "category": "Politique",
       "id": "29696202464e"
@@ -23,14 +83,14 @@
       "id": "5beed5085ddd"
     },
     {
-      "title": "Orages : la Corse et une partie de la région PACA en vigilance orange vendredi matin",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/21/orages-la-corse-et-une-partie-de-la-region-paca-en-vigilance-orange-vendredi-matin_6751608_3244.html",
-      "summary": "Les orages seront « accompagnés de fortes intensités de pluie, de l’ordre de 30 à 50 millimètres en peu de temps, ainsi que d’une activité électrique importante », anticipe Météo-France.",
-      "image": "https://img.lemde.fr/2025/06/26/282/0/3000/1500/644/322/60/0/64a8647_upload-1-ol256t2987ho-frame-10.jpg",
-      "published_at": "2026-08-21T06:16:45+02:00",
-      "source": "Le Monde",
+      "title": "\"Le fruit est brûlé, il ne grossit plus\", face à la sécheresse, les producteurs de pommes s'inquiètent pour leur récolte",
+      "url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/le-fruit-est-brule-il-ne-grossit-plus-face-a-la-secheresse-les-producteurs-de-pommes-s-inquietent-pour-leur-recolte-3404182.html#xtor=RSS-3-[lestitres]",
+      "summary": "En Loire-Atlantique, la sécheresse a de lourdes conséquences sur les cultures de pomme. Les producteurs ont perdu en moyenne 30% de leur exploitation à cause des canicules successives. Les vergers doivent désormais faire face à un stress hydrique important. Les représentants de la filière demandent de pouvoir capter les eaux hivernales pour faire face à ces épisodes qui s'annoncent de plus en plus",
+      "image": "https://www.franceinfo.fr/pictures/KME8MHsHNgqc_RPjcXYmVWRcXwo/432x243/filters:format(jpg):quality(50)/2026/08/21/6a87cfb98abd1081587805.jpg",
+      "published_at": "2026-08-21T06:10:52+02:00",
+      "source": "France Info",
       "category": "Politique",
-      "id": "134b99510d84"
+      "id": "22c8331a5927"
     },
     {
       "title": "Rentrées à gauche : LFI voit le vert à moitié plein",
@@ -43,14 +103,24 @@
       "id": "ddc155aeb19f"
     },
     {
-      "title": "Où acheter pour vivre loin de toute agitation ?",
-      "url": "https://www.lemonde.fr/argent/article/2026/08/21/ou-acheter-pour-vivre-loin-de-toute-agitation_6751575_1657007.html",
-      "summary": "« Nouveau logis, nouvelle vie » (6/6). Entendre seulement les bruits de la nature ou encore ne pas se retrouver au milieu d’un flot de touristes est un objectif pour de nombreux Français. Bonne nouvelle, dans la plupart des territoires où il est possible de trouver le calme, les prix de l’immobilier restent bas.",
-      "image": "https://img.lemde.fr/2026/08/20/665/0/6000/3000/644/322/60/0/71eb419_upload-1-cj3vvuebqesn-agence1h23-france-saint-germain-de-calberte-fen-tre-sur-les-c-vennes-24-juillet-2026-2.jpg",
-      "published_at": "2026-08-21T06:00:39+02:00",
+      "title": "\"Je ne peux pas vous dire quel est le bon choix\" : pour leur rentrée politique, les écologistes se divisent sur la question d'un ralliement à gauche pour la présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/reportage-je-ne-peux-pas-vous-dire-quel-est-le-bon-choix-pour-leur-rentree-politique-les-ecologistes-se-divisent-sur-la-question-d-un-ralliement-a-gauche-pour-la-presidentielle_8154497.html#xtor=RSS-3-[lestitres]",
+      "summary": "Face aux pressions de ses troupes, partagées entre le souhait d'un rapprochement avec Jean-Luc Mélenchon et un soutien à Raphaël Glucksmann, la cheffe du parti, Marine Tondelier, temporise et ouvre la voie à une consultation des militants pour trancher.",
+      "image": "https://www.franceinfo.fr/pictures/RlR41LVzpdU9NxTukl5leX_EOQo/0x59:1024x635/432x243/filters:format(jpg):quality(50)/2026/08/20/6a872a0ad2a4d283431646.jpg",
+      "published_at": "2026-08-21T06:01:39+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "11c91a6f3440"
+    },
+    {
+      "title": "La complainte d’Harpagon dans « L’Avare » jouée par Denis Podalydès : « Il faut se sacrifier pour le texte »",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/21/la-complainte-d-harpagon-dans-l-avare-jouee-par-denis-podalydes-il-faut-se-sacrifier-pour-le-texte_6751574_3451060.html",
+      "summary": "« Anatomie d’un monologue » (5/7). En 2009, Catherine Hiegel met en scène, à la Comédie-Française, l’acteur, alors âgé de 46 ans, dans le rôle du plus pingre des héros du répertoire classique.",
+      "image": "https://img.lemde.fr/2026/06/10/918/0/2832/1416/644/322/60/0/d8e19c4_upload-1-fewsfbpkcqfy-divergence-ben0073006.jpg",
+      "published_at": "2026-08-21T06:00:36+02:00",
       "source": "Le Monde",
       "category": "Sport",
-      "id": "998f9d5947f2"
+      "id": "68d0697ee077"
     },
     {
       "title": "\"Des jeunes qui répondent à un effet de meute\" : plongée dans la nébuleuse des \"lookups\", ces moteurs de recherche où finissent les données piratées",
@@ -78,9 +148,19 @@
       "summary": "Les enquêtes d’opinion dressent le portrait d’une société qui perd espoir dans son avenir sans voir d’alternative au recours à la force. Les candidats se gardent d’apparaître moins crédibles sur les enjeux de sécurité que le premier ministre, Benyamin Nétanyahou.",
       "image": "https://img.lemde.fr/2026/07/16/630/0/5775/2887/644/322/60/0/37a20c8_upload-1-t6un4sm5lsnb-ll-tel-aviv-08.jpg",
       "published_at": "2026-08-21T06:00:19+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "876bb785afc1"
+    },
+    {
+      "title": "« L’interdiction d’accès des mineurs aux réseaux sociaux relève d’une mesure de protection d’urgence de la santé comme de la liberté de nos enfants »",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/21/l-interdiction-d-acces-des-mineurs-aux-reseaux-sociaux-releve-d-une-mesure-de-protection-d-urgence-de-la-sante-comme-de-la-liberte-de-nos-enfants_6751569_3232.html",
+      "summary": "Les données scientifiques et les observations de terrain établissent les effets néfastes des plateformes numériques addictives sur la santé physique et mentale des jeunes, affirment, dans une tribune au « Monde », Amine Benyamina et Servane Mouton, coprésidents de la commission enfants et écrans.",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/2ecefe2_upload-1-ybqo9em8qztm-frame-1051.jpg",
+      "published_at": "2026-08-21T06:00:12+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "203369442493"
     },
     {
       "title": "\"Il est le produit de ce système\" : entre clientélisme et contre-pouvoirs défaillants, pourquoi les problèmes de gouvernance de la Fifa dépassent la personne de Gianni Infantino ?",
@@ -113,6 +193,16 @@
       "id": "baa665615ddc"
     },
     {
+      "title": "La « Spider-Mania » et l’engouement pour « L’Odyssée » redonnent des couleurs au marché hexagonal du cinéma",
+      "url": "https://www.lemonde.fr/culture/article/2026/08/21/la-spider-mania-et-l-engouement-pour-l-odyssee-redonnent-des-couleurs-au-marche-hexagonal-du-cinema_6751536_3246.html",
+      "summary": "Les deux grands succès de l’été en salle ont déjà chacun dépassé 6 millions de spectateurs, en France, ce qui contribue à doper les prévisions de fréquentation sur l’année.",
+      "image": "https://img.lemde.fr/2026/08/20/938/0/8640/4320/644/322/60/0/b2e930f_upload-1-cfqr5tusx8my-ap26175659241341.jpg",
+      "published_at": "2026-08-21T05:40:05+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "62ca6f90875f"
+    },
+    {
       "title": "Hongkong : deux militants reconnus coupables d’« incitation à la subversion » après des veillées commémorant la répression de Tiananmen",
       "url": "https://www.lemonde.fr/international/article/2026/08/21/hongkong-deux-militants-reconnus-coupables-d-incitation-a-la-subversion-apres-des-veillees-commemorant-la-repression-de-tiananmen_6751535_3210.html",
       "summary": "Les activistes prodémocratie Lee Cheuk-yan, 69 ans, et Chow Hang-tung, 41 ans, dirigeaient l’Alliance de Hongkong, un groupe aujourd’hui dissous qui organisait des veillées annuelles. Ils encourent jusqu’à dix ans de prison.",
@@ -123,11 +213,11 @@
       "id": "1bf997fefd63"
     },
     {
-      "title": "Malgré un été de tous les records, le refus d’obstacle de la classe politique face à l’urgence climatique",
+      "title": "Malgré un été marqué par les canicules, les incendies et la sécheresse, les responsables politiques muets sur l’urgence climatique",
       "url": "https://www.lemonde.fr/politique/article/2026/08/21/malgre-un-ete-de-tous-les-records-le-refus-d-obstacle-de-la-classe-politique-face-a-l-urgence-climatique_6751533_823448.html",
-      "summary": "Alors que la France subit une série d’événements extrêmes, ni l’exécutif ni les candidats à la présidentielle de 2027 n’ont jusqu’ici abordé frontalement le défi posé par les canicules, la sécheresse ou les incendies dévastateurs qui en résultent.",
+      "summary": "Alors que la France subit une série d’événements extrêmes, ni le gouvernement ni les candidats à la présidentielle de 2027 n’ont jusqu’ici abordé frontalement le défi climatique.",
       "image": "https://img.lemde.fr/2026/08/18/482/0/4500/2250/644/322/60/0/165623e_upload-1-uvot9eo3qi0a-mfache-17082026-le-monde-deplacement-lecornu-en-gironde-france-ii-067.jpg",
-      "published_at": "2026-08-21T05:30:31+02:00",
+      "published_at": "2026-08-21T05:30:30+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "db706356bc22"
@@ -153,16 +243,6 @@
       "id": "00f4dc9e7150"
     },
     {
-      "title": "Scott Bessent, le secrétaire américain au Trésor, se croit capable de défier la toute-puissance des marchés obligataires",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/21/scott-bessent-le-secretaire-americain-au-tresor-se-croit-capable-de-defier-la-toute-puissance-des-marches-obligataires_6751496_3234.html",
-      "summary": "En annonçant, mercredi 19 août, que le Trésor américain allait doubler ses rachats de dette américaine à long terme, Scott Bessent cherche à faire baisser les taux longs qui financent l’économie des Etats-Unis.",
-      "image": "https://img.lemde.fr/2026/08/20/11/0/5616/2808/644/322/60/0/cde1620_ftp-1-p1rxiaa767ab-0b8c55b1d9b94e969f3003c1955dfe0f-0-4d6ff1b2698e43acb61b993548b8784c.jpg",
-      "published_at": "2026-08-21T05:00:13+02:00",
-      "source": "Le Monde Inter",
-      "category": "Économie",
-      "id": "8c621829f6c9"
-    },
-    {
       "title": "Entre l’Iran et les Emirats arabes unis, la fragile désescalade vole en éclats",
       "url": "https://www.lemonde.fr/international/article/2026/08/21/entre-l-iran-et-les-emirats-arabes-unis-la-fragile-desescalade-vole-en-eclats_6751494_3210.html",
       "summary": "Les Emirats ont suspendu leurs échanges commerciaux et financiers avec l’Iran, après l’avoir accusé d’avoir tiré deux missiles vers leur territoire. Cette crispation intervient sur fond de tensions autour du détroit d’Ormuz et de pression croissante des Etats-Unis sur la République islamique.",
@@ -171,6 +251,16 @@
       "source": "Le Monde Inter",
       "category": "Sport",
       "id": "efee1408600d"
+    },
+    {
+      "title": "Scott Bessent, le secrétaire américain au Trésor, à l’assaut des marchés obligataires pour faire baisser les taux",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/21/scott-bessent-le-secretaire-americain-au-tresor-se-croit-capable-de-defier-la-toute-puissance-des-marches-obligataires_6751496_3234.html",
+      "summary": "En annonçant, mercredi 19 août, que le Trésor américain allait doubler ses rachats de dette américaine à long terme, Scott Bessent cherche à faire baisser les taux longs qui financent l’économie des Etats-Unis.",
+      "image": "https://img.lemde.fr/2026/08/20/11/0/5616/2808/644/322/60/0/cde1620_ftp-1-p1rxiaa767ab-0b8c55b1d9b94e969f3003c1955dfe0f-0-4d6ff1b2698e43acb61b993548b8784c.jpg",
+      "published_at": "2026-08-21T05:00:04+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "8c621829f6c9"
     },
     {
       "title": "Trafic réduit dans le canal de Panama en raison d’une baisse des précipitations causée par El Niño",
@@ -203,16 +293,6 @@
       "id": "741a760f2a3b"
     },
     {
-      "title": "Le Var, les Alpes-Maritimes et la Corse en vigilance orange aux orages vendredi matin",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/l-ardeche-la-drome-et-l-isere-places-en-vigilance-orange-aux-orages-jeudi-apres-midi-la-corse-en-alerte-vendredi-matin_8154413.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Des orages pouvant être intenses (...) vont traverser la Corse d'Ouest en Est et des orages très pluvieux sont à attendre sur la Côte d'Azur.\", rapporte Météo-France.",
-      "image": "https://www.franceinfo.fr/pictures/alcz6EI8M_PKWYFI_WUgZ1m1Fks/0x186:4800x2886/432x243/filters:format(jpg):quality(50)/2026/08/20/6a868e6221f44054315692.jpg",
-      "published_at": "2026-08-21T00:21:50+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "ce5e94899f8d"
-    },
-    {
       "title": "Un séisme de magnitude 6,7 a frappé le sud du Pérou",
       "url": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-6-7-a-frappe-le-sud-du-perou_8155532.html#xtor=RSS-3-[lestitres]",
       "summary": "Les autorités locales n'ont pas fait état de victimes ni de dégâts matériels dans un premier temps.",
@@ -221,86 +301,6 @@
       "source": "France Info",
       "category": "Société",
       "id": "13f7970f17f8"
-    },
-    {
-      "title": "Syrie : l’administration kurde désormais intégrée dans celle de l’Etat",
-      "url": "https://www.lemonde.fr/international/article/2026/08/20/syrie-l-administration-kurde-desormais-integree-dans-celle-de-l-etat_6751362_3210.html",
-      "summary": "Les Kurdes et le régime de Damas avaient conclu en janvier un accord en vertu duquel leurs forces et leurs administrations devaient être progressivement intégrées au sein de l’Etat syrien. « Notre lutte se poursuivra afin de faire inscrire dans la Constitution les droits légitimes de notre peuple », affirme le leader kurde Mazloum Abdi.",
-      "image": "https://img.lemde.fr/2026/08/20/350/0/4200/2100/644/322/60/0/8eb27ca_ftp-1-yutchc1jgycf-5882555-01-06.jpg",
-      "published_at": "2026-08-20T23:48:40+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "347fd71b6bab"
-    },
-    {
-      "title": "Emmanuel Macron recevra le prince héritier saoudien Mohammed ben Salmane dimanche et lundi",
-      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-recevra-le-prince-heritier-saoudien-mohammed-ben-salmane-dimanche-et-lundi_8155523.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les \"enjeux régionaux\" sur fond de guerre au Moyen-Orient seront notamment évoqués, a annoncé l'Elysée jeudi.",
-      "image": "https://www.franceinfo.fr/pictures/LYtcrzWKXkl4ZQ5BMh1uUJe0hQQ/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/20/6a87755a5c44e123034380.jpg",
-      "published_at": "2026-08-20T23:47:00+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "36abbac7c402"
-    },
-    {
-      "title": "Le président serbe donne raison aux manifestants antigouvernementaux en évoquant la tenue de législatives anticipées en octobre",
-      "url": "https://www.franceinfo.fr/monde/europe/le-president-serbe-donne-raison-aux-manifestants-antigouvernementaux-en-evoquant-la-tenue-de-legislatives-anticipees-en-octobre_8155487.html#xtor=RSS-3-[lestitres]",
-      "summary": "La Serbie est agitée depuis novembre 2024 par un vaste mouvement de protestation né d'effondrement mortel dans une gare, vu par les manifestants comme le résultat de la corruption qui gangrène le pays.",
-      "image": "https://www.franceinfo.fr/pictures/HYDBZmFOUEGdHPd_msNFhlGMt8k/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/20/6a877175a8c7e279916630.jpg",
-      "published_at": "2026-08-20T23:29:56+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "ec78af4a5e40"
-    },
-    {
-      "title": "Une université belge suspend le chercheur ayant accusé de plagiat un ex-professeur de Cambridge retrouvé mort",
-      "url": "https://www.franceinfo.fr/monde/royaume-uni/une-universite-belge-suspend-le-chercheur-ayant-accuse-de-plagiat-un-ex-professeur-de-cambridge-retrouve-mort_8155508.html#xtor=RSS-3-[lestitres]",
-      "summary": "Jason Arday, le plus jeune professeur noir de l'Université de Cambridge avant sa démission, a été retrouvé mort après des accusations de plagiat.",
-      "image": "https://www.franceinfo.fr/pictures/L8qT9JNcVqf2mk3OBRkRsBWR6-A/0x80:1024x656/432x243/filters:format(jpg):quality(50)/2026/08/20/6a876e55cb806338052370.jpg",
-      "published_at": "2026-08-20T23:18:47+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "6a078f85dfbb"
-    },
-    {
-      "title": "Quatre jeunes âgés de 17 à 25 ans mis en examen après la mort d'une personne sans domicile fixe dans l'Orne",
-      "url": "https://www.franceinfo.fr/faits-divers/quatre-jeunes-ages-de-17-a-25-ans-mis-en-examen-apres-la-mort-d-une-personne-sans-domicile-fixe-dans-l-orne_8155496.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'un d'eux a été mis en examen pour meurtre, les trois autres pour \"non-assistance à personne en danger et/ou non-dénonciation de crime\", a annoncé le procureur de Caen.",
-      "image": "https://www.franceinfo.fr/pictures/KMKqh7S1_6COh4o02x_kbbP7zaE/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/20/6a8767ea6a352327856066.jpg",
-      "published_at": "2026-08-20T22:55:49+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "d4d9feda6c01"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : deux personnes tuées dans de nouvelles frappes russes sur Kiev, après celles de la nuit qui ont fait au moins 15 morts",
-      "url": "https://www.lemonde.fr/international/live/2026/08/20/en-direct-guerre-en-ukraine-deux-personnes-tuees-dans-de-nouvelles-frappes-russes-sur-kiev-apres-celles-de-la-nuit-qui-ont-fait-au-moins-15-morts_6746952_3210.html",
-      "summary": "Une nouvelle attaque russe dans la capitale ukrainienne a fait deux morts et trois blessés jeudi soir, a annoncé le maire de Kiev, Vitali Klitschko. En Crimée annexée, les autorités locales installées par la Russie ont affirmé qu’une attaque ukrainienne a fait deux morts et quatre blessés.",
-      "image": "https://img.lemde.fr/2026/08/20/106/0/1280/640/644/322/60/0/55bd1eb_upload-1-1gtym17y60j1-38844.jpg",
-      "published_at": "2026-08-20T22:40:29+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "cb8f3e9fa530"
-    },
-    {
-      "title": "Les houthis du Yémen affirment avoir visé un aéroport saoudien et une installation pétrolière",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-houthis-du-yemen-affirment-avoir-vise-un-aeroport-saoudien-et-une-installation-petroliere_8155466.html#xtor=RSS-3-[lestitres]",
-      "summary": "Jeudi matin, les Gardiens de la Révolution iraniens avaient mis en garde l'Arabie saoudite, considérant que Ryad n'était \"certainement pas en mesure de contenir le Yémen et (les houthis), ni de se prémunir contre leurs attaques\".",
-      "image": "https://www.franceinfo.fr/pictures/bnD2cq4RPg_C1QB_z_6iP1N7qe0/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/20/6a875e21e2cb0626379136.jpg",
-      "published_at": "2026-08-20T22:10:01+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "f80d9b56af54"
-    },
-    {
-      "title": "Hind Rajab : la famille de la fillette, tuée à Gaza en 2024, dit ne pas faire confiance à la justice israélienne, après que l’armée a reconnu avoir ouvert le feu",
-      "url": "https://www.lemonde.fr/international/article/2026/08/20/hind-rajab-la-famille-de-la-fillette-tuee-a-gaza-en-2024-dit-ne-pas-faire-confiance-a-la-justice-israelienne-apres-que-l-armee-a-reconnu-avoir-ouvert-le-feu_6751329_3210.html",
-      "summary": "« Nous réclamons que justice soit faite non seulement pour Hind, mais aussi pour les enfants de Gaza, dont les droits sont bafoués, qui sont privés de leur droit à la vie », a plaidé la grand-mère de la fillette.",
-      "image": "https://img.lemde.fr/2026/08/20/0/0/6000/3000/644/322/60/0/7bf06e8_ftp-1-kelmu5fqbwtp-5880450-01-06.jpg",
-      "published_at": "2026-08-20T22:06:38+02:00",
-      "source": "Le Monde Inter",
-      "category": "Société",
-      "id": "23f34cc8ce45"
     }
   ]
 }
