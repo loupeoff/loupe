@@ -1,7 +1,97 @@
 {
-  "generated_at": "2026-08-21T19:30:47.737687+00:00",
+  "generated_at": "2026-08-21T20:33:09.355756+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "En Ukraine, une frappe russe sur un centre commercial fait au moins 15 morts et 130 blessés dans le centre du pays",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-une-frappe-russe-sur-un-centre-commercial-fait-au-moins-six-morts-et-91-blesses-dans-le-centre-du-pays_8156576.html#xtor=RSS-3-[lestitres]",
+      "summary": "Quatre personnes, dont trois enfants, sont également mortes dans une frappe russe dans la région de Mykolaïv.",
+      "image": "https://www.franceinfo.fr/pictures/eWoZ31vLHBPEBw0VYm9WsQYjcfI/0x105:1024x681/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88757324059782706357.jpg",
+      "published_at": "2026-08-21T22:26:39+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "912f4e0f49a6"
+    },
+    {
+      "title": "Deux Palestiniens âgés de 58 et 17 ans tués en Cisjordanie",
+      "url": "https://www.franceinfo.fr/monde/palestine/deux-palestiniens-ages-de-58-et-17-ans-tues-en-cisjordanie_8156765.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'un a été tué à Jénine, dans le nord, par des tirs de l'armée israélienne, et l'autre dans le sud du territoire par un colon.",
+      "image": "https://www.franceinfo.fr/pictures/gid0OZMz2-w2xx4RKc3pLwg3LVA/0x46:1024x622/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88af92494cb109836090.jpg",
+      "published_at": "2026-08-21T22:08:05+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "a7cdaa99baf4"
+    },
+    {
+      "title": "Incendies dans le Var : à Correns, des sols brûlés et un risque accru d'inondations",
+      "url": "https://www.franceinfo.fr/var/var-a-correns-des-sols-brules-et-un-risque-accru-d-inondations_8156759.html#xtor=RSS-3-[lestitres]",
+      "summary": "Quand la végétation a brûlé dans les incendies de cet été, le risque d'inondations est alors encore plus fort. Illustration dans la commune de Correns, dans le Var, où les dégâts sont considérables.",
+      "image": "https://www.franceinfo.fr/pictures/FnJeDDWaILDg-EvxWknfoWqhoWc/0x1:1065x601/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88ad645f0b8564060098.png",
+      "published_at": "2026-08-21T22:05:23+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "34a2654c1925"
+    },
+    {
+      "title": "Donald Trump : quel est son lien avec l'intrigante Natalie Harp, l'assistante toujours à ses côtés ?",
+      "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-quel-est-son-lien-avec-l-intrigante-natalie-harp-l-assistante-toujours-a-ses-cotes_8156723.html#xtor=RSS-3-[lestitres]",
+      "summary": "Donald Trump et sa femme Melania sont apparus main dans la main, jeudi 20 août à la Maison-Blanche. La scène pourrait sembler banale, mais la première Dame n'était pas apparue en public depuis un mois. Par ailleurs, la presse américaine s'interroge ces derniers jours sur le rôle auprès du président américain d'une assistante, Natalie Harp, devenue omniprésente.",
+      "image": "https://www.franceinfo.fr/pictures/X1i3q8P35RXfupu4UnqEIBAFpLM/0x101:1576x988/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88a2ff5be6e839169727.png",
+      "published_at": "2026-08-21T21:59:04+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "601290c1d0f6"
+    },
+    {
+      "title": "Une femme soupçonnée d'avoir égorgé son fils à Antibes placée en hôpital psychiatrique",
+      "url": "https://www.franceinfo.fr/faits-divers/une-femme-soupconnee-d-avoir-egorge-son-fils-a-antibes-placee-en-hopital-psychiatrique_8156762.html#xtor=RSS-3-[lestitres]",
+      "summary": "Son fils de 17 ans a été retrouvé égorgé dans son lit mercredi. Une enquête pour \"assassinat et tentative d'assassinat\" a été confiée au service local de police judiciaire d'Antibes.",
+      "image": "https://www.franceinfo.fr/pictures/k679-usMZ30uZtIdG5VgVeq7yWg/0x12:682x396/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88acd09c392194697262.jpg",
+      "published_at": "2026-08-21T21:54:45+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "52db9bf3d02d"
+    },
+    {
+      "title": "\"Reste en Thaïlande, tu fais ta mission\" : de jeunes Français incarcérés, trafiquants à leur insu ?",
+      "url": "https://www.franceinfo.fr/societe/drogue/reste-en-thailande-tu-fais-ta-mission-de-jeunes-francais-incarceres-trafiquants-a-leur-insu_8156696.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les soi-disant vacances de rêve en Thaïlande se sont terminées en prison : 13 Français ont été incarcérés depuis le début de l’été, arrêtés alors qu’ils passaient la frontière avec, pour certains, plusieurs kilos de drogue dans leurs bagages. Les jeunes gens assurent avoir été piégés.",
+      "image": "https://www.franceinfo.fr/pictures/G6tbciCndGzJrvTfLJQdC3LXmsc/0x14:822x477/432x243/filters:format(jpg):quality(50)/2026/08/21/6a889b8660b3a034788945.png",
+      "published_at": "2026-08-21T21:51:16+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "331097ee80fa"
+    },
+    {
+      "title": "Près de 12 heures de retard : le calvaire des passagers d'un train reliant Hendaye à Paris",
+      "url": "https://www.franceinfo.fr/economie/transports/sncf/pres-de-12-heures-de-retard-le-calvaire-des-passagers-d-un-train-reliant-hendaye-a-paris_8156687.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les orages ont fortement perturbé le trafic ferroviaire dans le Sud-Ouest. Un TGV Hendaye-Paris est arrivé dans la matinée du vendredi 21 août avec près de 12 heures de retard. Une nuit éprouvante pour les 500 passagers, qui ont dû dormir pour certains sur le sol.",
+      "image": "https://www.franceinfo.fr/pictures/PecZFwHfoB_vDlAO85UE_JEwpUw/48x0:1083x582/432x243/filters:format(jpg):quality(50)/2026/08/21/6a8898264b555147909924.png",
+      "published_at": "2026-08-21T21:47:39+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "cb9ad333ee14"
+    },
+    {
+      "title": "Julian Alaphilippe \"avait une place tellement à part dans le cyclisme français\", salue le président de la Fédération française de cyclisme après l'annonce de sa retraite",
+      "url": "https://www.franceinfo.fr/sports/julian-alaphilippe-avait-une-place-tellement-a-part-dans-le-cyclisme-francais-salue-le-president-de-la-federation-francaise-de-cyclisme-apres-l-annonce-de-sa-retraite_8156750.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Il faut mesurer ce que cela peut représenter\", insiste Michel Callot. Michel Callot, rappelant la prouesse du cycliste tricolore lors du Tour de France 2019.",
+      "image": "https://www.franceinfo.fr/pictures/FQ5OxivUfxwnTcUJuNLHJMRCwrw/0x88:3998x2335/432x243/filters:format(jpg):quality(50)/2022/07/11/phpPPtf8z.jpg",
+      "published_at": "2026-08-21T21:37:33+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "e759147e55cc"
+    },
+    {
+      "title": "\"Je ne le souhaite pas à mon pire ennemi\" : au Mexique, deux pêcheurs sauvés après avoir dérivé cinq jours dans une glacière",
+      "url": "https://www.franceinfo.fr/faits-divers/je-ne-le-souhaite-pas-a-mon-pire-ennemi-au-mexique-deux-pecheurs-sauves-apres-avoir-derive-cinq-jours-dans-une-glaciere_8156717.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ils ont survécu cinq jours sans boire ni manger, en plein océan Pacifique : deux pêcheurs mexicains ont été secourus après avoir fait naufrage et dérivé sur plus de 200 km. Ils ne doivent leur survie qu'à une simple caisse réfrigérée, devenue embarcation de fortune.",
+      "image": "https://www.franceinfo.fr/pictures/dITNpyEWFbZxHbiyghvOHCDwDy8/0x77:1620x989/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88a02b73f69563376697.png",
+      "published_at": "2026-08-21T21:34:19+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "44366cfb3cf6"
+    },
     {
       "title": "La Cour suprême autorise temporairement la poursuite des travaux la salle de bal de la Maison Blanche",
       "url": "https://www.franceinfo.fr/monde/usa/la-cour-supreme-autorise-temporairement-la-poursuite-des-travaux-la-salle-de-bal-de-la-maison-blanche_8156714.html#xtor=RSS-3-[lestitres]",
@@ -63,16 +153,6 @@
       "id": "9eaf8c549002"
     },
     {
-      "title": "La Turquie émet un mandat d'arrêt international contre Benyamin Nétanyahou",
-      "url": "https://www.franceinfo.fr/monde/turquie/flottille-pour-gaza-la-turquie-emet-un-mandat-d-arret-international-contre-benyamin-netanyahou-le-premier-ministre-israelien-qualifie-le-president-turc-de-dictateur-antisemite_8156471.html#xtor=RSS-3-[lestitres]",
-      "summary": "Quelque 430 membres d'équipage de la cinquantaine de bateaux arraisonnés par l'armée israélienne, en Méditerranée, avaient été amenés de force en Israël.",
-      "image": "https://www.franceinfo.fr/pictures/PSGfFXwTSFsNwZPySpp4iK8GE5E/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88690184450662048045.jpg",
-      "published_at": "2026-08-21T20:45:32+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "6acc1c143223"
-    },
-    {
       "title": "Etats-Unis : la Cour suprême autorise temporairement la poursuite des travaux de la salle de bal à la Maison Blanche",
       "url": "https://www.liberation.fr/international/amerique/etats-unis-la-cour-supreme-autorise-temporairement-la-poursuite-des-travaux-de-la-salle-de-bal-a-la-maison-blanche-20260821_3QSMFLBSIFDM3PHHCWZD5UZ42U/",
       "summary": "Dans leur décision rendue publique ce vendredi 21 août, les juges ont suspendu un temps une décision judiciaire qui bloquait la construction d’une vaste partie du projet si cher au président Trump.",
@@ -83,16 +163,6 @@
       "id": "6fc4786ead73"
     },
     {
-      "title": "\"Reste en Thaïlande, tu fais ta mission\" : de jeunes Français incarcérés, trafiquants à leur insu ?",
-      "url": "https://www.franceinfo.fr/societe/drogue/reste-en-thailande-tu-fais-ta-mission-de-jeunes-francais-incarceres-trafiquants-a-leur-insu_8156696.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les soi-disant vacances de rêve en Thaïlande se sont terminées en prison : 13 Français ont été incarcérés depuis le début de l’été, arrêtés alors qu’ils passaient la frontière avec, pour certains, plusieurs kilos de drogue dans leurs bagages. Les jeunes gens assurent avoir été piégés.",
-      "image": "https://www.franceinfo.fr/pictures/G6tbciCndGzJrvTfLJQdC3LXmsc/0x14:822x477/432x243/filters:format(jpg):quality(50)/2026/08/21/6a889b8660b3a034788945.png",
-      "published_at": "2026-08-21T20:40:53+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "331097ee80fa"
-    },
-    {
       "title": "Rentrée des insoumis : Jean-Luc Mélenchon prend son clash en patience",
       "url": "https://www.liberation.fr/idees-et-debats/editorial/rentree-des-insoumis-jean-luc-melenchon-prend-son-clash-en-patience-20260821_4ARSKWYNNJBVLBMIKXHXBMNBIY/",
       "summary": "A huit mois de l’élection présidentielle, le chef de file LFI va-t-il arrondir les angles pour rassembler autour de lui ou conserver sa radicalité pour asseoir son socle ? Une équation de plus en plus périlleuse.",
@@ -101,26 +171,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "4a0028290952"
-    },
-    {
-      "title": "Le climat des affaires en France s'améliore de nouveau en août, selon l'Insee",
-      "url": "https://www.franceinfo.fr/economie/le-climat-des-affaires-en-france-s-ameliore-de-nouveau-en-aout-selon-l-insee_8156693.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'indicateur des affaires augmente dans l'industrie, dans les services et dans le commerce de détail. Il reste stable dans le bâtiment.",
-      "image": "https://www.franceinfo.fr/pictures/rmPGF5IndAdhRpHDq2tM7UVCQ6Q/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88997aaaefb453388510.jpg",
-      "published_at": "2026-08-21T20:34:08+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "bb89de8f50b5"
-    },
-    {
-      "title": "Près de 12 heures de retard : le calvaire des passagers d'un train reliant Hendaye à Paris",
-      "url": "https://www.franceinfo.fr/economie/transports/sncf/pres-de-12-heures-de-retard-le-calvaire-des-passagers-d-un-train-reliant-hendaye-a-paris_8156687.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les orages ont fortement perturbé le trafic ferroviaire dans le Sud-Ouest. Un TGV Hendaye-Paris est arrivé dans la matinée du vendredi 21 août avec près de 12 heures de retard. Une nuit éprouvante pour les 500 passagers, qui ont dû dormir pour certains sur le sol.",
-      "image": "https://www.franceinfo.fr/pictures/PecZFwHfoB_vDlAO85UE_JEwpUw/48x0:1083x582/432x243/filters:format(jpg):quality(50)/2026/08/21/6a8898264b555147909924.png",
-      "published_at": "2026-08-21T20:33:32+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "cb9ad333ee14"
     },
     {
       "title": "Iran : le président Massoud Pezeshkian veut mettre fin à la guerre avec les Etats-Unis, jugeant Téhéran « en position de force »",
@@ -213,16 +263,6 @@
       "id": "43afadec18c9"
     },
     {
-      "title": "Ses maillots jaunes, arc-en-ciel, et ses plus grandes victoires... Les 15 moments marquants de la carrière de Julian Alaphilippe",
-      "url": "https://www.franceinfo.fr/sports/cyclisme/julian-alaphilippe/en-images-ses-maillots-jaunes-arc-en-ciel-et-ses-plus-grandes-victoires-le-diaporama-des-15-moments-marquants-de-la-carriere-de-julian-alaphilippe_8156150.html#xtor=RSS-3-[lestitres]",
-      "summary": "Julian Alaphilippe a annoncé, vendredi, prendre sa retraite avec effet immédiat, à 34 ans.",
-      "image": "https://www.franceinfo.fr/pictures/ZvMIxYBz5KjDIHq600oitZk6bbo/0x187:3600x2212/432x243/filters:format(jpg):quality(50)/2026/08/21/6a884398ed584815966784.jpg",
-      "published_at": "2026-08-21T19:34:47+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "0d82b978c3dc"
-    },
-    {
       "title": "Julian Alaphilippe, double champion du monde et figure emblématique du cyclisme français, annonce la fin de sa carrière",
       "url": "https://www.lemonde.fr/sport/article/2026/08/21/julian-alaphilippe-double-champion-du-monde-et-figure-emblematique-du-cyclisme-francais-annonce-la-fin-de-sa-carriere_6752282_3242.html",
       "summary": "Le coureur a fait part de sa décision de prendre sa retraite, à 34 ans, après plus d’une décennie passée au sein du peloton professionnel. Avec 45 victoires obtenues au fil de sa carrière, dont six étapes sur le Tour de France et Milan-San Remo, il a marqué l’histoire de son sport.",
@@ -253,26 +293,6 @@
       "id": "b1f53bfc0f05"
     },
     {
-      "title": "En Ukraine, une frappe russe sur un centre commercial fait au moins 14 morts et 121 blessés dans le centre du pays",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-une-frappe-russe-sur-un-centre-commercial-fait-au-moins-six-morts-et-91-blesses-dans-le-centre-du-pays_8156576.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le président ukrainien, Volodymyr Zelensky, a dénoncé une attaque \"absolument cynique et ignoble\", qui a fait au moins 29 blessés graves.",
-      "image": "https://www.franceinfo.fr/pictures/eWoZ31vLHBPEBw0VYm9WsQYjcfI/0x105:1024x681/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88757324059782706357.jpg",
-      "published_at": "2026-08-21T19:27:48+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "912f4e0f49a6"
-    },
-    {
-      "title": "La consommation d'eau du robinet interdite dans trois communes de Savoie en raison d'une concentration trop importante d'uranium",
-      "url": "https://www.franceinfo.fr/france/auvergne-rhone-alpes/savoie/la-consommation-d-eau-du-robinet-interdite-dans-trois-communes-de-savoie-en-raison-d-une-concentration-trop-importante-d-uranium_8156660.html#xtor=RSS-3-[lestitres]",
-      "summary": "De nouvelles normes européennes, plus restrictives, sont entrées en vigueur cette année. Le taux d'uranium dans l'eau de ces trois communes est désormais supérieur à ces normes.",
-      "image": "https://www.franceinfo.fr/pictures/5RicF2HpXhchptSj4IbeN_ugBzo/0x592:6000x3967/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88894b49c0a360053081.jpg",
-      "published_at": "2026-08-21T19:26:03+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "8b3d207f56fd"
-    },
-    {
       "title": "Ascenseurs publics défectueux ou hors service : un site internet pour éviter le coup de la panne",
       "url": "https://www.liberation.fr/lifestyle/hightech/ascenseurs-publics-defectueux-ou-hors-service-un-site-internet-pour-eviter-le-coup-de-la-panne-20260821_TDXSEVYA2VGLDCD7NFZYCC66TE/",
       "summary": "A seulement 19 ans, Sébastian Dominguez a créé en juin le «Waze des ascenseurs», un site pour recenser les élévateurs publics en Ile-de-France ainsi que les problèmes éventuels.",
@@ -281,26 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "4a29c1bbb1e8"
-    },
-    {
-      "title": "Pourquoi les Girondins de Bordeaux, relégués dans les limbes, ne seront pas sauvés par le gong",
-      "url": "https://www.liberation.fr/sports/football/la-justice-valide-lexclusion-des-girondins-de-bordeaux-des-championnats-nationaux-20260821_5JFWSGJ7CZFFPM4CK2P5B65J5Q/",
-      "summary": "Le tribunal administratif de Paris a tranché ce vendredi 21 août : le club aux six titres de champions de France est relégué en sixième division. Sauf coup de théâtre, la liquidation judiciaire se précise.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-21T17:18:05+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "cc8fb1468310"
-    },
-    {
-      "title": "L'exclusion des Girondins de Bordeaux des championnats nationaux confirmée par le tribunal administratif de Paris",
-      "url": "https://www.franceinfo.fr/sports/foot/girondins-de-bordeaux/l-exclusion-des-girondins-de-bordeaux-des-championnats-nationaux-confirmee-par-le-tribunal-administratif-de-paris_8156651.html#xtor=RSS-3-[lestitres]",
-      "summary": "Après la suspension sportive prononcée en juillet, c'est désormais la justice qui valide l'exclusion du club bordelais.",
-      "image": "https://www.franceinfo.fr/pictures/wLEVO-i1tEwwXCsvkk_ilobXlyc/0x41:1024x617/432x243/filters:format(jpg):quality(50)/2026/08/21/6a8885e985af9284567870.jpg",
-      "published_at": "2026-08-21T19:13:25+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "af65823671f5"
     }
   ]
 }
