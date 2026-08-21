@@ -1,7 +1,177 @@
 {
-  "generated_at": "2026-08-21T16:42:56.745780+00:00",
+  "generated_at": "2026-08-21T17:36:25.648331+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "25 000 km/s ! C’est l’étoile la plus rapide de la galaxie. Mais il y a encore plus véloce",
+      "url": "https://www.numerama.com/sciences/2315619-25-000-km-s-cest-letoile-la-plus-rapide-de-la-galaxie-mais-il-y-a-encore-plus-veloce.html",
+      "summary": "Une étoile a été identifiée à une vitesse jamais vue auparavant, autour du trou noir au centre de la Voie Lactée. Un record pour un astre de ce type mais qui est largement dépassé par d'autres objets dans l'Univers.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-21T17:33:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "136e6ae2a274"
+    },
+    {
+      "title": "« Ma façon de me battre, c’est de fournir du boulot aux femmes » : privées d’école et exclues de l’administration, les Afghanes misent sur l’entreprise",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/21/ma-facon-de-me-battre-c-est-de-fournir-du-boulot-aux-femmes-privees-d-ecole-et-exclues-de-l-administration-les-afghanes-misent-sur-l-entreprise_6752281_3451060.html",
+      "summary": "« Paroles d’Afghanes » (6/6). Paradoxalement, l’un des rares droits qu’il reste aux femmes est de se lancer dans le business. Elles ont appris les bases sur Internet et font connaître leur activité sur les réseaux sociaux. Mais pour combien de temps encore ?",
+      "image": "https://img.lemde.fr/2026/08/17/500/0/6048/3024/644/322/60/0/d392c71_upload-1-benwjd1rq2cv-53-blanchardelise.JPG",
+      "published_at": "2026-08-21T19:30:04+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "b1f53bfc0f05"
+    },
+    {
+      "title": "En Ukraine, une frappe russe sur un centre commercial fait au moins 14 morts et 121 blessés dans le centre du pays",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-une-frappe-russe-sur-un-centre-commercial-fait-au-moins-six-morts-et-91-blesses-dans-le-centre-du-pays_8156576.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le président ukrainien, Volodymyr Zelensky, a dénoncé une attaque \"absolument cynique et ignoble\", qui a fait au moins 29 blessés graves.",
+      "image": "https://www.franceinfo.fr/pictures/eWoZ31vLHBPEBw0VYm9WsQYjcfI/0x105:1024x681/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88757324059782706357.jpg",
+      "published_at": "2026-08-21T19:27:48+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "912f4e0f49a6"
+    },
+    {
+      "title": "La consommation d'eau du robinet interdite dans trois communes de Savoie en raison d'une concentration trop importante d'uranium",
+      "url": "https://www.franceinfo.fr/france/auvergne-rhone-alpes/savoie/la-consommation-d-eau-du-robinet-interdite-dans-trois-communes-de-savoie-en-raison-d-une-concentration-trop-importante-d-uranium_8156660.html#xtor=RSS-3-[lestitres]",
+      "summary": "De nouvelles normes européennes, plus restrictives, sont entrées en vigueur cette année. Le taux d'uranium dans l'eau de ces trois communes est désormais supérieur à ces normes.",
+      "image": "https://www.franceinfo.fr/pictures/5RicF2HpXhchptSj4IbeN_ugBzo/0x592:6000x3967/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88894b49c0a360053081.jpg",
+      "published_at": "2026-08-21T19:26:03+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "8b3d207f56fd"
+    },
+    {
+      "title": "Ses maillots jaunes, arc-en-ciel, et ses plus grandes victoires... Le diaporama des 15 moments marquants de la carrière de Julian Alaphilippe",
+      "url": "https://www.franceinfo.fr/sports/cyclisme/julian-alaphilippe/en-images-ses-maillots-jaunes-arc-en-ciel-et-ses-plus-grandes-victoires-le-diaporama-des-15-moments-marquants-de-la-carriere-de-julian-alaphilippe_8156150.html#xtor=RSS-3-[lestitres]",
+      "summary": "Julian Alaphilippe a annoncé, vendredi, prendre sa retraite avec effet immédiat, à 34 ans.",
+      "image": "https://www.franceinfo.fr/pictures/ZvMIxYBz5KjDIHq600oitZk6bbo/0x187:3600x2212/432x243/filters:format(jpg):quality(50)/2026/08/21/6a884398ed584815966784.jpg",
+      "published_at": "2026-08-21T19:23:29+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "0d82b978c3dc"
+    },
+    {
+      "title": "Ascenseurs publics défectueux ou hors service : un site internet pour éviter le coup de la panne",
+      "url": "https://www.liberation.fr/lifestyle/hightech/ascenseurs-publics-defectueux-ou-hors-service-un-site-internet-pour-eviter-le-coup-de-la-panne-20260821_TDXSEVYA2VGLDCD7NFZYCC66TE/",
+      "summary": "A seulement 19 ans, Sébastian Dominguez a créé en juin le «Waze des ascenseurs», un site pour recenser les élévateurs publics en Ile-de-France ainsi que les problèmes éventuels.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-21T17:22:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "4a29c1bbb1e8"
+    },
+    {
+      "title": "La justice valide l’exclusion des Girondins de Bordeaux des championnats nationaux",
+      "url": "https://www.liberation.fr/sports/football/la-justice-valide-lexclusion-des-girondins-de-bordeaux-des-championnats-nationaux-20260821_5JFWSGJ7CZFFPM4CK2P5B65J5Q/",
+      "summary": "Le tribunal administratif a confirmé ce vendredi 21 août la rétrogradation du club en Régional 1 en raison des dérives financières du club, mesure défendue en juillet par les instances du football français.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-21T17:18:05+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "cc8fb1468310"
+    },
+    {
+      "title": "L'exclusion des Girondins de Bordeaux des championnats nationaux confirmée par le tribunal administratif de Paris",
+      "url": "https://www.franceinfo.fr/sports/foot/girondins-de-bordeaux/l-exclusion-des-girondins-de-bordeaux-des-championnats-nationaux-confirmee-par-le-tribunal-administratif-de-paris_8156651.html#xtor=RSS-3-[lestitres]",
+      "summary": "Après la suspension sportive prononcée en juillet, c'est désormais la justice qui valide l'exclusion du club bordelais.",
+      "image": "https://www.franceinfo.fr/pictures/wLEVO-i1tEwwXCsvkk_ilobXlyc/0x41:1024x617/432x243/filters:format(jpg):quality(50)/2026/08/21/6a8885e985af9284567870.jpg",
+      "published_at": "2026-08-21T19:13:25+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "af65823671f5"
+    },
+    {
+      "title": "\"J'ai donné tout ce que j'avais et le cyclisme m'a tout donné en retour\"... Julian Alaphilippe annonce officiellement sa retraite à 34 ans",
+      "url": "https://www.franceinfo.fr/sports/cyclisme/julian-alaphilippe/j-ai-donne-tout-ce-que-j-avais-et-le-cyclisme-m-a-tout-donne-en-retour-julian-alaphilippe-annonce-officiellement-sa-retraite-a-34-ans_8155913.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le coureur français, apparu fatigué et en difficulté sur le dernier Tour de France, n'ira pas au bout de son contrat avec l'équipe Tudor et met fin à sa carrière avec effet immédiat.",
+      "image": "https://www.franceinfo.fr/pictures/sZLKIr7ScE9-cEYkmxsj5zJ55Ss/0x308:4280x2715/432x243/filters:format(jpg):quality(50)/2026/08/21/6a87fe9096023407945131.jpg",
+      "published_at": "2026-08-21T19:11:35+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "43afadec18c9"
+    },
+    {
+      "title": "Villa en Sicile, détournement de fonds publics… Edouard Philippe ciblé par une nouvelle campagne russe de désinformation",
+      "url": "https://www.liberation.fr/checknews/villa-en-sicile-detournement-de-fonds-publics-edouard-philippe-cible-par-une-nouvelle-campagne-russe-de-desinformation-20260821_AWMF4WZ7OFAZTFV7MUTGGORR34/",
+      "summary": "Dans une vidéo vue plus d’1 million de fois, le candidat à la présidentielle est accusé d’avoir acheté illégalement une demeure sur l’île méditerranéenne. Le renseignement militaire de Russie serait à la manœuvre.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-21T17:10:51+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "15ba428f4b4c"
+    },
+    {
+      "title": "En Cisjordanie, la construction de nouvelles colonies israéliennes relance la question de la complicité des entreprises",
+      "url": "https://www.lemonde.fr/international/article/2026/08/21/en-cisjordanie-la-construction-de-nouvelles-colonies-israeliennes-relance-la-question-de-la-complicite-des-entreprises_6752278_3210.html",
+      "summary": "Dix pays occidentaux dénoncent un projet de construction de 1 234 logements et rappellent aux entreprises qui y participeraient les graves violations du droit international liées à ces implantations.",
+      "image": "https://img.lemde.fr/2026/08/14/451/0/5500/2750/644/322/60/0/6506bf0_upload-1-0pkwgm0qdnnl-wolfk-100826-078.JPG",
+      "published_at": "2026-08-21T19:00:05+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "f6eb4dbf6867"
+    },
+    {
+      "title": "La Protection civile annonce avoir été visée par une cyberattaque en mars",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/la-protection-civile-annonce-avoir-ete-visee-par-une-cyberattaque-en-mars_8156621.html#xtor=RSS-3-[lestitres]",
+      "summary": "La fuite de données concerne la plate-forme eProtec, utilisée par les bénévoles de cette association de secours.",
+      "image": "https://www.franceinfo.fr/pictures/oxEiPj1CGD3KSWHNvZevoQJeyV8/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88813c048f4264168600.jpg",
+      "published_at": "2026-08-21T18:53:08+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "48d1b460d3e5"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : à Kryvy Rih, une frappe russe visant un centre commercial fait au moins quatorze morts, dont plusieurs enfants",
+      "url": "https://www.lemonde.fr/international/live/2026/08/21/en-direct-guerre-en-ukraine-une-frappe-russe-visant-un-centre-commercial-a-kryvy-rih-fait-six-morts-dont-des-enfants-volodymyr-zelensky-denonce-un-acte-ignoble_6746952_3210.html",
+      "summary": "« Un acte absolument cynique et ignoble a été commis par les Russes contre un centre commercial ordinaire à Kryvyi Rih », a dénoncé Volodymyr Zelensky, après qu’une frappe russe a atteint en pleine journée un centre commercial.",
+      "image": "https://img.lemde.fr/2026/08/21/250/0/2500/1250/644/322/60/0/7d744df_ftp-1-sgsaruo6q7wp-5888500-01-06.jpg",
+      "published_at": "2026-08-21T18:49:27+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "4dd26efdbf0f"
+    },
+    {
+      "title": "La préfecture du Loiret refuse le report de la chasse au gibier d'eau demandé par la Ligue pour la protection des oiseaux malgré l'épisode de sécheresse qui touche le département",
+      "url": "https://www.franceinfo.fr/environnement/biodiversite/chasse-et-braconnage/la-prefecture-du-loiret-refuse-le-report-de-la-chasse-au-gibier-d-eau-demande-par-la-ligue-pour-la-protection-des-oiseaux-malgre-l-episode-de-secheresse-qui-touche-le-departement_8156639.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ce report avait été demandé par l'association rappelant que la sécheresse fragilise les zones humides ainsi que la faune et la flore les peuplant.",
+      "image": "https://www.franceinfo.fr/pictures/VRj8lSqnSSCR2IfU9J74jDhohpI/432x243/filters:format(jpg):quality(50)/2026/08/20/6a86808a1c082665881714.jpg",
+      "published_at": "2026-08-21T18:49:21+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "cf87da0c0ec1"
+    },
+    {
+      "title": "El Niño pourrait être «le plus intense depuis plus d’un siècle», selon l’agence météorologique du Royaume-Uni",
+      "url": "https://www.liberation.fr/environnement/climat/el-nino-pourrait-etre-le-plus-intense-depuis-plus-dun-siecle-selon-lagence-meteorologique-du-royaume-uni-20260821_TDZTJO33NFHEDILI66NELHJQ7I/",
+      "summary": "Ce phénomène naturel temporaire, qui provoque des évènements climatiques extrêmes notamment autour des Tropiques, pourrait se faire sentir cette année jusqu’en Europe de l’ouest en novembre, selon les experts britanniques.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-21T16:48:29+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "faa62ef167f1"
+    },
+    {
+      "title": "Fleuves trop chauds ou à sec, méduses… La relance du nucléaire déjà contrariée par le réchauffement climatique",
+      "url": "https://www.liberation.fr/environnement/nucleaire/fleuves-trop-chauds-ou-a-sec-meduses-la-relance-du-nucleaire-deja-contrariee-par-le-rechauffement-climatique-20260821_U32FG76L3ZDOPBUJK53664SCNQ/",
+      "summary": "La température de l’eau a forcé EDF à mettre à l’arrêt plusieurs réacteurs en juillet et en août. Une «indisponibilité» environnementale qui a affecté jusqu’à 20 % de ses capacités de production. De quoi interroger la résilience de l’atome face au changement climatique.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-21T16:41:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "3c98ccd2b86d"
+    },
+    {
+      "title": "Un quinquagénaire condamné à deux ans de prison en Mayenne avec sursis pour détention de plusieurs centaines de fichiers pédopornographiques",
+      "url": "https://www.franceinfo.fr/societe/pedocriminalite/un-quinquagenaire-condamne-a-deux-ans-de-prison-en-mayenne-avec-sursis-pour-detention-de-plusieurs-centaines-de-fichiers-pedopornographiques_8156624.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les enquêteurs ont retrouvé 744 fichiers pédopornographiques ainsi que 20 fichiers zoophiles.",
+      "image": "https://www.franceinfo.fr/pictures/1P_G0iuUn_YDTcgllEwAlTufaS8/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/13/6a7df3509f7ce291426814.jpg",
+      "published_at": "2026-08-21T18:38:21+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "04bc7569d61e"
+    },
     {
       "title": "Football : où suivre la Ligue 1 en streaming cette saison ?",
       "url": "https://www.numerama.com/pop-culture/2315929-football-ou-suivre-la-ligue-1-en-streaming-cette-saison.html",
@@ -23,11 +193,11 @@
       "id": "6ba02be20946"
     },
     {
-      "title": "La Turquie émet un mandat d’arrêt d’international contre Benyamin Nétanyahou dans le cadre de l’enquête sur la flottille pour Gaza, il répond en traitant Recep Tayyip Erdogan de « dictateur antisémite »",
+      "title": "La Turquie émet un mandat d’arrêt d’international contre Benyamin Nétanyahou, qui répond en traitant Recep Tayyip Erdogan de « dictateur antisémite »",
       "url": "https://www.lemonde.fr/international/article/2026/08/21/la-turquie-emet-un-mandat-d-arret-d-international-contre-benyamin-netanyahou-dans-le-cadre-de-l-enquete-sur-la-flottille-pour-gaza-il-repond-en-traitant-recep-tayyip-erdogan-de-dictateur-antisemite_6752275_3210.html",
-      "summary": "Le premier ministre israélien est poursuivi pour « crimes contre l’humanité, génocide, privation aggravée de liberté » et « torture ». Les 430 militants avaient été emprisonnés après avoir été interceptés en mer, au large de la Grèce.",
+      "summary": "Le premier ministre israélien est poursuivi pour « crimes contre l’humanité, génocide, privation aggravée de liberté » et « torture ». 430 militants de la flottille pour Gaza avaient été emprisonnés après avoir été interceptés en mer, au large de la Grèce.",
       "image": "https://img.lemde.fr/2026/08/21/291/0/3500/1750/644/322/60/0/61b7d23_upload-1-zy7yi1setqqg-000-c3eg3zr.jpg",
-      "published_at": "2026-08-21T18:25:37+02:00",
+      "published_at": "2026-08-21T18:25:35+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "4285a70d259c"
@@ -51,6 +221,16 @@
       "source": "France Info",
       "category": "Société",
       "id": "692fbf7f387f"
+    },
+    {
+      "title": "Cinq ans de guerre, mais toujours pas assez d'abris publics : un défi pour les villes ukrainiennes proches du front",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/cinq-ans-de-guerre-mais-toujours-pas-assez-d-abris-publics-un-defi-pour-les-villes-ukrainiennes-proches-du-front_8156570.html#xtor=RSS-3-[lestitres]",
+      "summary": "A Pavlohrad, il n'existe qu'un seul abri modulaire accessible au public pour se protéger des bombardements. Alors que les frappes russes s'intensifient, des militants locaux réclament davantage d'abris. Le média public ukrainien Suspilne a enquêté sur la situation.",
+      "image": "https://www.franceinfo.fr/pictures/npbXrVc2z2v0WmIlHWtki1rX_UE/0x0:720x405/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88721c5df0c240953601.jpg",
+      "published_at": "2026-08-21T18:22:45+02:00",
+      "source": "France Info",
+      "category": "Tech",
+      "id": "0943acc212ee"
     },
     {
       "title": "Mort de Sonia Bellina : un suspect mis en examen et placé en détention provisoire pour assassinat",
@@ -83,16 +263,6 @@
       "id": "eb03ec7de802"
     },
     {
-      "title": "En Ukraine, « les gens sont assommés par la répétition des alertes aériennes »",
-      "url": "https://www.lemonde.fr/international/article/2026/08/21/en-ukraine-les-gens-sont-assommes-par-la-repetition-des-alertes-aeriennes_6752273_3210.html",
-      "summary": "Face à la recrudescence des frappes russes, de plus en plus meurtrières, les grandes villes ukrainiennes s’efforcent de moderniser leurs systèmes d’alerte. Mais, lassés par les incessantes sirènes et le flot de messages anxiogènes, une partie croissante des civils n’y réagit plus.",
-      "image": "https://img.lemde.fr/2026/08/21/335/0/4000/2000/644/322/60/0/3642dd6_upload-1-iwh18vztzt1n-reportage-prevention-alertes-ae-riennes-23.jpg",
-      "published_at": "2026-08-21T18:00:13+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "9b3f62449906"
-    },
-    {
       "title": "« Je suis le gars qui part et qui revient toujours » : les pots de départ à répétition de Medhi, architecte",
       "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/21/je-suis-le-gars-qui-part-et-qui-revient-toujours-les-pots-de-depart-a-repetition-de-medhi-architecte_6752272_3451060.html",
       "summary": "« Bon vent ! » (17/18). Medhi, 46 ans, travaille comme indépendant dans la même agence depuis 2007. A chaque fin de mission, il organise un pot de départ, façon « running gag ».",
@@ -101,6 +271,16 @@
       "source": "Le Monde",
       "category": "Sport",
       "id": "a487af658002"
+    },
+    {
+      "title": "En Ukraine, « les gens sont assommés par la répétition des alertes aériennes »",
+      "url": "https://www.lemonde.fr/international/article/2026/08/21/en-ukraine-les-gens-sont-assommes-par-la-repetition-des-alertes-aeriennes_6752273_3210.html",
+      "summary": "Face à la recrudescence des frappes russes, de plus en plus meurtrières, les grandes villes ukrainiennes s’efforcent de moderniser leurs systèmes d’alerte. Mais, lassés par les incessantes sirènes et le flot de messages anxiogènes, une partie croissante des civils n’y réagit plus.",
+      "image": "https://img.lemde.fr/2026/08/21/335/0/4000/2000/644/322/60/0/3642dd6_upload-1-iwh18vztzt1n-reportage-prevention-alertes-ae-riennes-23.jpg",
+      "published_at": "2026-08-21T18:00:09+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "9b3f62449906"
     },
     {
       "title": "« Fjord » : le réalisateur Cristian Mungiu décrypte la première scène de son film, Palme d’or du Festival de Cannes 2026",
@@ -117,190 +297,10 @@
       "url": "https://www.lemonde.fr/planete/article/2026/08/21/en-provence-les-vagues-de-chaleur-ont-mis-sous-contrainte-le-reseau-electrique_6752271_3244.html",
       "summary": "Entre le 13 et le 19 août, plusieurs milliers de clients ont subi des coupures à répétition dans les Bouches-du-Rhône et le Vaucluse.",
       "image": "https://img.lemde.fr/2023/04/17/172/0/3000/1500/644/322/60/0/7f07c66_1681717634760-energie-05.jpg",
-      "published_at": "2026-08-21T17:59:59+02:00",
+      "published_at": "2026-08-21T17:59:56+02:00",
       "source": "Le Monde",
       "category": "Société",
       "id": "dff01cd83253"
-    },
-    {
-      "title": "En Ukraine, une frappe russe sur un centre commercial fait au moins six morts et 91 blessés dans le centre du pays",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-une-frappe-russe-sur-un-centre-commercial-fait-au-moins-six-morts-et-91-blesses-dans-le-centre-du-pays_8156576.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le président ukrainien, Volodymyr Zelensky, a dénoncé une attaque \"absolument cynique et ignoble\", qui a fait au moins 21 blessés graves.",
-      "image": "https://www.franceinfo.fr/pictures/eWoZ31vLHBPEBw0VYm9WsQYjcfI/0x105:1024x681/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88757324059782706357.jpg",
-      "published_at": "2026-08-21T17:59:02+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "912f4e0f49a6"
-    },
-    {
-      "title": "En Ethiopie, l’escalade de la violence met à mal un secteur de la santé exsangue",
-      "url": "https://www.liberation.fr/international/afrique/en-ethiopie-lescalade-de-la-violence-met-a-mal-un-secteur-de-la-sante-exsangue-20260821_OJ6NKDHCTVGHNJBGVMTVEO2PZM/",
-      "summary": "Un rapport de l’ONG Physicians for Human Rights dénonce le ciblage systématique des infrastructures de santé par les différents belligérants qui s’affrontent dans le pays depuis six ans.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-21T15:58:12+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "caa89ca8aac8"
-    },
-    {
-      "title": "Quelle sera la mission de Sophie Adenot lors de sa deuxième sortie dans l'espace mardi ?",
-      "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/quelle-sera-la-mission-de-sophie-adenot-lors-de-sa-deuxieme-sortie-dans-l-espace-mardi_8156420.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'astronaute de 44 ans est devenue mardi la première Française à effectuer une sortie extravéhiculaire. Elle doit bientôt remettre sa combinaison pour remplacer une antenne défectueuse de la Station spatiale internationale.",
-      "image": "https://www.franceinfo.fr/pictures/PcR0sQWAg8hAkAfdt7wMur-cXp0/0x57:1024x633/432x243/filters:format(jpg):quality(50)/2026/08/21/6a886553194c0984107106.jpg",
-      "published_at": "2026-08-21T17:56:24+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "7c217c622711"
-    },
-    {
-      "title": "La forêt de Fontainebleau rouvre au public ce samedi après le violent incendie de juillet",
-      "url": "https://www.liberation.fr/environnement/biodiversite/la-foret-de-fontainebleau-rouvre-au-public-ce-samedi-apres-le-violent-incendie-de-juillet-20260821_VXHJPLREBNF7HPK2QVUQW5VFMA/",
-      "summary": "80 % du massif va être de nouveau accessible le 22 août après que près de 2 000 hectares ont été ravagés par les feux.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-21T15:55:25+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "d010ce18e108"
-    },
-    {
-      "title": "Sortie il y a un jour, la Google Pixel Watch 5 perd déjà 30 € sur Rakuten",
-      "url": "https://www.numerama.com/tech/2315783-sortie-il-y-a-un-jour-la-google-pixel-watch-5-perd-deja-30-e-sur-rakuten.html",
-      "summary": "[Deal du jour] La Google Pixel Watch 5 est disponible depuis hier en France à 419 €. Rakuten l'affiche déjà à 389 €, soit 30 € de moins que le tarif officiel du Google Store.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-21T15:54:54+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "4c2e5cf39ca1"
-    },
-    {
-      "title": "Leandro Paredes et l’équipe d’Argentine lourdement sanctionnés par la Fifa après la finale de la Coupe du monde",
-      "url": "https://www.liberation.fr/sports/football/leandro-paredes-et-lequipe-dargentine-lourdement-sanctionnes-par-la-fifa-apres-la-finale-de-la-coupe-du-monde-20260821_RGL7QSYTJRCLBFA54VK3DYD2HI/",
-      "summary": "Il est reproché aux coéquipiers de Messi la rixe qu’ils avaient déclenchée à l’issue de leur défaite contre l’Espagne et la banderole «les Malouines sont argentines» déployée après le match contre l’Angleterre.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-21T15:45:19+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "e5a91c50010d"
-    },
-    {
-      "title": "Flottille pour Gaza : la Turquie émet un mandat d’arrêt d’international contre Nétanyahou",
-      "url": "https://www.liberation.fr/international/flottille-de-gaza-la-turquie-emet-un-mandat-darret-dinternational-contre-netanyahou-20260821_C6GDUAO3IRGLDLKQNTYQYV3JVU/",
-      "summary": "La décision intervient dans le cadre d’une enquête sur l’interception de la cinquantaine de navires en mai dernier.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-21T15:43:53+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "e3286871c2b9"
-    },
-    {
-      "title": "C’est officiel, Marvel renomme le méchant dans la VF d’Avengers Doomsday",
-      "url": "https://www.numerama.com/pop-culture/2316117-cest-officiel-marvel-renomme-le-mechant-dans-la-vf-davengers-doomsday.html",
-      "summary": "Ce n'est pas une surprise totale, mais la confirmation officielle est tombée. La récente bande-annonce doublée en français d'Avengers: Doomsday vient de sceller le débat linguistique qui agitait la communauté des fans : le grand méchant incarné par Robert Downey Jr. s'appellera bien « Victor Von Doom » (ou Doctor Doom) dans la version française, et non pas Fatalis comme habituellement en français.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-21T15:43:32+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "3ed72e75cf72"
-    },
-    {
-      "title": "Au moins trois personnes blessées dans un lycée en Suède, le suspect armé d'une épée interpellé",
-      "url": "https://www.franceinfo.fr/monde/europe/plusieurs-personnes-blessees-dans-un-lycee-en-suede-le-suspect-arme-d-une-epee-interpelle_8156432.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'assaillant, dont les motivations sont à ce stade inconnues, a été touché à la jambe par des tirs de la police.",
-      "image": "https://www.franceinfo.fr/pictures/9KB8PKjXWmf7gyQDL7FlQ2MJfKA/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/21/6a8863277906c896797004.jpg",
-      "published_at": "2026-08-21T17:43:26+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "48f12c93c22e"
-    },
-    {
-      "title": "Après un mois d’absence médiatique, Melania Trump est de retour : «Il paraît que je vous ai manqué»",
-      "url": "https://www.liberation.fr/international/amerique/apres-un-mois-dabsence-mediatique-melania-trump-est-de-retour-il-parait-que-je-vous-ai-manque-20260821_2ZSTAXL7UFGWPGVRNXAOZE7KNY/",
-      "summary": "La première dame a fait son come-back public jeudi 20 août. Une apparition scrutée, alors que le président est au cœur de rumeurs sur une soi-disant liaison avec son assistante Natalie Harp.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-21T15:37:39+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "6afdc74286a8"
-    },
-    {
-      "title": "En Somalie, des coupes \"sans précédent\" dans l'aide humanitaire affectent les services de santé et de nutrition, alerte l'Unicef",
-      "url": "https://www.franceinfo.fr/monde/afrique/somalie/en-somalie-des-coupes-sans-precedent-dans-l-aide-humanitaire-affectent-les-services-de-sante-et-de-nutrition-alerte-l-unicef_8156531.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le secteur de l'éducation est lui aussi touché, avec 30 millions de dollars (26 millions d'euros) en moins en 2025.",
-      "image": "https://www.franceinfo.fr/pictures/XPdalPAUQ6tYMQGGF40pmx0Ue0E/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/21/6a886fae64c9e278584528.jpg",
-      "published_at": "2026-08-21T17:35:50+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "4b0454ed6b4f"
-    },
-    {
-      "title": "L’assurance maladie reconnaît officiellement le «syndrome de fatigue chronique», et ne le qualifie plus de trouble psychiatrique",
-      "url": "https://www.liberation.fr/societe/sante/lassurance-maladie-reconnait-officiellement-le-syndrome-de-fatigue-chronique-et-ne-le-qualifie-plus-de-trouble-psychiatrique-20260821_QIGDXKD4LJEATBFBF4MXMTDSPE/",
-      "summary": "L’encéphalomyélite myalgique se traduit par un épuisement quotidien et très invalidant. Les associations saluent ce changement effectué au début du mois d’août, une première étape pour mieux prendre en charge les malades, plusieurs centaines de milliers en France selon les estimations.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-21T15:33:07+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "26ed3229b2ba"
-    },
-    {
-      "title": "Au large de la Somalie, un cargo turc rempli d’armes arraisonné par des pirates",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/21/au-large-de-la-somalie-un-cargo-turc-rempli-d-armes-arraisonne-par-des-pirates_6752270_3212.html",
-      "summary": "Le « Lutuf » faisait route vers Mogadiscio lorsqu’il a été capturé, lundi 17 août. La Turquie, premier partenaire sécuritaire de la Somalie, conduit des frappes contre les pirates pour tenter de récupérer la cargaison.",
-      "image": "https://img.lemde.fr/2026/08/21/71/0/981/490/644/322/60/0/a01f4b1_upload-1-ya0amijqir2i-te-le-chargement-1.png",
-      "published_at": "2026-08-21T17:31:00+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "06aa9aa42b10"
-    },
-    {
-      "title": "Mort de l’influenceuse Sonia Bellina : un homme mis en examen pour le féminicide présumé",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/21/mort-de-l-influenceuse-sonia-bellina-un-homme-mis-en-examen-pour-le-feminicide-presume_6752268_3224.html",
-      "summary": "Le corps de Sonia Bellina a été retrouvé, partiellement calciné, à proximité de Nîmes, le 12 août. Un suspect de 32 ans, déjà connu pour des faits de violences conjugales, a été mis en examen vendredi. L’avocat de la famille dénonce les commentaires injurieux qui ont fleuri sur les réseaux sociaux suite au drame, et que la famille entend poursuivre.",
-      "image": "https://img.lemde.fr/2026/08/19/95/0/1536/768/644/322/60/0/7fb8d5a_upload-1-xtbcpgsaf5l6-c122a8a0-9bc6-11f1-98c6-93bfcdb08681-jpg.jpeg",
-      "published_at": "2026-08-21T17:29:00+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "b676642e092c"
-    },
-    {
-      "title": "2027 sera une année majeure pour Star Wars : le calendrier du demi-siècle d’existence de la licence",
-      "url": "https://www.numerama.com/pop-culture/2315933-2027-sera-une-annee-majeure-pour-star-wars-le-calendrier-du-demi-siecle-dexistence-de-la-licence.html",
-      "summary": "L'année 2027 ne sera pas une année comme les autres pour la galaxie lointaine, très lointaine : elle marquera le 50e anniversaire de la création de la saga. Entre la saison 2 d'Ahsoka, la ressortie événement d'Un nouvel espoir en IMAX, la Star Wars Celebration et l'arrivée du film Starfighter, le calendrier promet d'être très dense.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-21T15:26:49+00:00",
-      "source": "Numerama",
-      "category": "Culture",
-      "id": "a764eff0b9d0"
-    },
-    {
-      "title": "Vidéos de Lena Situations, appel au boycott... On vous explique l'affaire autour de l'agente d'influenceurs Gisèle Journo, ciblée par une campagne de cyberharcèlement",
-      "url": "https://www.franceinfo.fr/internet/de-videos-de-lena-situations-a-un-appel-au-boycott-on-vous-explique-l-affaire-autour-de-l-agente-d-influenceurs-gisele-journo-ciblee-par-une-campagne-de-cyberharcelement_8155994.html#xtor=RSS-3-[lestitres]",
-      "summary": "Des internautes reprochent à cette directrice d'une agence d'influenceurs d'avoir repartagé sur ses réseaux sociaux des contenus mettant en avant Israël et son armée. Depuis, Gisèle Journo est visée par des messages \"à caractère antisémite et sexiste\", selon ses avocats.",
-      "image": "https://www.franceinfo.fr/pictures/xo7n8UO2ERFuV2CeTbu_W92KKTg/0x67:1155x717/432x243/filters:format(jpg):quality(50)/2026/08/21/6a886122127e3297209751.jpg",
-      "published_at": "2026-08-21T17:25:33+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "a1c896e1b05f"
-    },
-    {
-      "title": "Uber condamné à 825 millions d’euros d’amende aux Pays-Bas pour la suspension automatisée de chauffeurs",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/21/uber-condamne-a-une-amende-825-millions-d-euros-d-amende-aux-pays-bas-pour-la-suspension-automatisee-de-chauffeurs_6752266_3234.html",
-      "summary": "L’affaire porte sur des incidents survenus en Europe de 2020 à 2022, à la suite d’une plainte déposée en France. Il s’agit de la deuxième plus importante sanction jamais infligée au titre du RGPD.",
-      "image": "https://img.lemde.fr/2025/09/19/125/0/1500/750/644/322/60/0/3acf370_upload-1-qiu9sqfnirxm-mei-dia-18.png",
-      "published_at": "2026-08-21T17:20:24+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "7f5f6f8ccf5f"
-    },
-    {
-      "title": "Après deux mois d’absence, la main de Paul Biya de retour au Cameroun",
-      "url": "https://www.liberation.fr/international/afrique/apres-deux-mois-dabsence-paul-biya-93-ans-est-rentre-au-cameroun-20260820_7YFB2GDUPJBFNMJUXAM67XBFZE/",
-      "summary": "Le doyen des chefs d’Etat dans le monde est rentré jeudi 20 août à Yaoundé après un «court séjour privé» de 74 jours à Genève. La seule image de son arrivée aura été un salut glissé à travers la vitre de son véhicule. En coulisses, la bataille de succession se prépare.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-21T15:20:04+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "ae75f1afe2ce"
     }
   ]
 }
