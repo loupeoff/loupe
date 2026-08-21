@@ -1,16 +1,186 @@
 {
-  "generated_at": "2026-08-21T13:52:26.524735+00:00",
+  "generated_at": "2026-08-21T14:43:21.167657+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Mort de l'influenceuse Sonia Bellina dans le Gard : un suspect mis en examen pour \"assassinat\", annonce le parquet de Nîmes",
+      "title": "Forêt de Fontainebleau : \"les conditions météorologiques se sont adoucies\", la \"réouverture du massif à 80%\" est prévue",
+      "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/seine-et-marne/foret-de-fontainebleau-les-conditions-meteorologiques-se-sont-adoucies-la-reouverture-du-massif-a-80-est-prevue-3404191.html#xtor=RSS-3-[lestitres]",
+      "summary": "Plusieurs fois repoussée, la date de ré-ouverture de la forêt est bien maintenue au samedi 22 août. En juillet, les incendies avaient ravagé 2000 hectares de la forêt, soit 10% du massif.",
+      "image": "https://www.franceinfo.fr/pictures/awOgaoU4o2Khli3jqNW5WwOOnVo/432x243/filters:format(jpg):quality(50)/2026/08/21/6a885ea0e1bee017213990.jpg",
+      "published_at": "2026-08-21T16:40:14+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "d7dd77193518"
+    },
+    {
+      "title": "Protection civile, Beauty Success, Bureau Vallée… De nouvelles fuites massives de données signalées",
+      "url": "https://www.liberation.fr/economie/economie-numerique/protection-civile-beauty-success-bureau-vallee-de-nouvelles-fuites-massives-de-donnees-signalees-20260821_P2F2QYNXFVCRRPZXNDECUDO7OY/",
+      "summary": "Cinq entreprises et l’association française de secouristes ont récemment subi des piratages, révèle le site spécialisé French Breaches ce vendredi. Selon son décompte, plus de 12 millions de Français seraient concernés.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-21T14:38:21+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "c4458cc01ef0"
+    },
+    {
+      "title": "Tennis : le numéro un mondial, Jannik Sinner, forfait pour l'US Open",
+      "url": "https://www.franceinfo.fr/sports/tennis/jannik-sinner/le-numero-1-mondial-jannik-sinner-annonce-son-forfait-pour-l-us-open_8156381.html#xtor=RSS-3-[lestitres]",
+      "summary": "Touché au genou droit, l'Italien ne pourra pas défendre ses chances à New York.",
+      "image": "https://www.franceinfo.fr/pictures/rfVFnhl1A29uN5hkkFPtG4uzeiw/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/21/6a885dafb2681437382843.jpg",
+      "published_at": "2026-08-21T16:33:47+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "5e86ad52f7d4"
+    },
+    {
+      "title": "Renards, fouines, corbeaux… la liste des neuf animaux «nuisibles», un copier-coller de la précédente, en pire",
+      "url": "https://www.liberation.fr/environnement/animaux/renards-fouines-corbeaux-la-liste-des-neuf-animaux-nuisibles-un-copier-coller-de-la-precedente-en-pire-20260821_QZQKTR6T3FF23EA6HM557VFOEU/",
+      "summary": "Mis à jour tous les trois ans par le gouvernement, l’inventaire des «espèces susceptibles d’occasionner des dégâts» a été publié ce vendredi, sans changement majeur. Les bêtes concernées peuvent être chassées toute l’année.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-21T14:32:30+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "391c5eca63a2"
+    },
+    {
+      "title": "Mort de Sonia Bellina dans le Gard : un suspect, déjà condamné pour violences conjugales, mis en examen pour \"assassinat\" et placé en détention provisoire",
       "url": "https://www.franceinfo.fr/faits-divers/mort-de-l-influenceuse-sonia-bellina-dans-le-gard-un-suspect-mis-en-examen-pour-assassinat-annonce-le-parquet-de-nimes_8156354.html#xtor=RSS-3-[lestitres]",
       "summary": "Le corps partiellement calciné de l'influenceuse, âgée de 29 ans, avait été retrouvé au milieu des vignes à Saint-Gilles (Gard), le 12 août.",
       "image": "https://www.franceinfo.fr/pictures/dNwuL_AZXrBtzF-LMg4fsBM3JJw/0x107:965x649/432x243/filters:format(jpg):quality(50)/2026/08/20/6a86a5bf970e5440301750.jpg",
-      "published_at": "2026-08-21T15:48:06+02:00",
+      "published_at": "2026-08-21T16:32:19+02:00",
       "source": "France Info",
       "category": "Politique",
       "id": "2f69431ff8d1"
+    },
+    {
+      "title": "Des armes à feu découvertes dans une cache près de Berlin, les services secrets russes suspectés",
+      "url": "https://www.liberation.fr/international/europe/des-armes-a-feu-decouvertes-dans-une-cache-pres-de-berlin-les-services-secrets-russes-suspectes-20260821_PMZM7YIBPVFM3CMYAL7GZN3PFU/",
+      "summary": "Les autorités allemandes estiment que ces pistolets auraient pu être utilisés notamment pour commettre des attentats, sur ordre du Kremlin. Un suspect a été arrêté Roumanie.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-21T14:30:55+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "f4e92b1f673b"
+    },
+    {
+      "title": "Englouti : il se fait avaler par une baleine, c’est quoi ce film flippant dont tout le monde parle",
+      "url": "https://www.numerama.com/pop-culture/2315865-englouti-il-se-fait-avaler-par-une-baleine-cest-quoi-ce-film-flippant-dont-tout-le-monde-parle.html",
+      "summary": "Une bouteille d'oxygène qui se vide à toute vitesse, un espace visqueux microscopique et les sucs gastriques d'un monstre marin de 60 tonnes pour seul paysage : oubliez Pinocchio. Avec Englouti en VF, 20th Century Studios prépare le coup de pression le plus poisseux de l'année. La bande-annonce vient de tomber, et elle risque fort de réveiller un paquet de phobies.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-21T14:30:24+00:00",
+      "source": "Numerama",
+      "category": "Culture",
+      "id": "5622ccf5cfbf"
+    },
+    {
+      "title": "En Corée du Sud, le bisaïeul d’une actrice ravive les débats sur la collaboration avec le Japon",
+      "url": "https://www.lemonde.fr/international/article/2026/08/21/en-coree-du-sud-le-bisaieul-d-une-actrice-ravive-les-debats-sur-la-collaboration-avec-le-japon_6752256_3210.html",
+      "summary": "Ha Young a dû s’excuser d’avoir évoqué son arrière-grand-père médecin, qui était par ailleurs conseiller d’une association projaponnaise pendant la période coloniale (1910-1945).",
+      "image": "https://img.lemde.fr/2026/08/21/314/0/3500/1750/644/322/60/0/9695501_upload-1-y8s3mo8kf2pp-2015-12-02t120000z-1154681531-d1aeryzgusaa-rtrmadp-3-china-awards-kpop.JPG",
+      "published_at": "2026-08-21T16:30:15+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "790cc9ea2e4a"
+    },
+    {
+      "title": "Ce que l'on sait de la mort de l'influenceuse Sonia Bellina dans le Gard",
+      "url": "https://www.franceinfo.fr/faits-divers/corps-calcine-deux-hommes-arretes-ce-que-l-on-sait-de-la-mort-de-l-influenceuse-sonia-bellina-dans-le-gard_8154482.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le corps de la jeune femme de 29 ans a été retrouvé mi-août à Saint-Gilles, un village situé à une vingtaine de kilomètres de Nîmes. Une enquête a été ouverte pour assassinat.",
+      "image": "https://www.franceinfo.fr/pictures/dNwuL_AZXrBtzF-LMg4fsBM3JJw/0x107:965x649/432x243/filters:format(jpg):quality(50)/2026/08/20/6a86a5bf970e5440301750.jpg",
+      "published_at": "2026-08-21T16:24:04+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "6471f1459665"
+    },
+    {
+      "title": "Procès contre le « Daily Mail » : le prince Harry, Elton John, Liz Hurley et d’autres personnes devront verser 9,5 millions de livres au journal britannique",
+      "url": "https://www.lemonde.fr/international/article/2026/08/21/proces-contre-le-daily-mail-le-prince-harry-elton-john-liz-hurley-et-d-autres-personnes-devront-verser-9-5-millions-de-livres-au-journal-britannique_6752254_3210.html",
+      "summary": "Les plaignants n’étaient pas parvenus, début juillet, à prouver que le journal britannique avait porté atteinte à leur vie privée, afin de nourrir une cinquantaine d’articles parus entre 1993 et 2018.",
+      "image": "https://img.lemde.fr/2026/08/21/0/0/5000/2500/644/322/60/0/ba665d1_ftp-1-wmpp91kaer12-5887620-01-06.jpg",
+      "published_at": "2026-08-21T16:20:50+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "6a6eefc29410"
+    },
+    {
+      "title": "Comment le gouvernement israélien a fabriqué un institut de recherche fictif pour influencer les IA génératives",
+      "url": "https://www.liberation.fr/checknews/comment-le-gouvernement-israelien-a-fabrique-un-institut-de-recherche-fictif-pour-influencer-les-ia-generatives-20260821_V6IBCTSWN5AIJBPBMYGVA6NQFU/",
+      "summary": "Derrière le site du «Hanover Institute for Public Policy» se cache l’entreprise américaine Piro, capable d’orienter les réponses des modèles d’IA comme ChatGPT, pour le compte de l’Etat israélien.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-21T14:19:43+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "b432f6b97b3d"
+    },
+    {
+      "title": "En Suède, une attaque à l’épée dans un lycée fait plusieurs blessés, l’auteur présumé interpellé",
+      "url": "https://www.lemonde.fr/international/article/2026/08/21/en-suede-une-attaque-a-l-epee-dans-un-lycee-fait-plusieurs-blesses-l-auteur-presume-interpelle_6752220_3210.html",
+      "summary": "Plusieurs écoles de Fagersta ont été confinées après l’attaque, tandis que l’assaillant présumé a été blessé par la police lors de son interpellation.",
+      "image": "https://img.lemde.fr/2026/05/26/250/0/3000/1500/644/322/60/0/4b3d119_upload-1-6mg5ngtnqot0-frame-1134.jpg",
+      "published_at": "2026-08-21T16:09:10+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "409df8569aeb"
+    },
+    {
+      "title": "En Tunisie, les motifs de mécontentement s’accumulent, mais l’opposition reste inaudible",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/21/en-tunisie-les-motifs-de-mecontentement-s-accumulent-mais-l-opposition-reste-inaudible_6752218_3212.html",
+      "summary": "Jeudi soir, quelques centaines de personnes ont manifesté à Tunis contre le pouvoir du président Kaïs Saïed. Une faible mobilisation qui s’explique autant par le climat répressif que par les divisions de l’opposition.",
+      "image": "https://img.lemde.fr/2026/08/20/356/0/4240/2120/644/322/60/0/701c144_ftp-1-qqslhgcp1967-2026-08-20t193543z-1441875461-rc2j2naqcqcm-rtrmadp-3-tunisia-politics-protests.JPG",
+      "published_at": "2026-08-21T16:00:09+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "2ab875ed4a3d"
+    },
+    {
+      "title": "En quoi consiste le \"bug bounty\", cette chasse aux bugs évoquée par le gouvernement après le piratage du fisc ?",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/en-quoi-consiste-le-bug-bounty-cette-chasse-aux-bugs-evoquee-par-le-gouvernement-apres-le-piratage-du-fisc_8154959.html#xtor=RSS-3-[lestitres]",
+      "summary": "C'est l'une des pistes évoquées pour permettre aux entreprises et organismes publics de mieux se défendre contre les cyberattaques. Ce principe existe depuis une trentaine d'années, même si plusieurs experts interrogés pointent certaines limites.",
+      "image": "https://www.franceinfo.fr/pictures/jVfu6Ts5_l4u_t8Ikq_vMdRRgYE/0x195:2121x1388/432x243/filters:format(jpg):quality(50)/2026/08/21/6a881c0f68c60930449506.jpg",
+      "published_at": "2026-08-21T15:58:10+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "74943c5acdd9"
+    },
+    {
+      "title": "Mort de Sonia Bellina : un suspect mis en examen et placé en détention provisoire pour assassinat",
+      "url": "https://www.liberation.fr/societe/police-justice/mort-de-sonia-bellina-un-suspect-mis-en-examen-et-place-en-detention-provisoire-pour-assassinat-20260821_SOGDKC7IFFBDNG26SSFBV56GTA/",
+      "summary": "L’homme de 32 ans avait déjà fait l’objet de plusieurs condamnations, dont une pour violences conjugales en 2023. Il a reconnu avoir eu des relations avec l’influenceuse la veille et la nuit des faits, annonce le parquet de Nîmes.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-21T13:56:18+00:00",
+      "source": "Libération",
+      "category": "Tech",
+      "id": "839d1a4b26a9"
+    },
+    {
+      "title": "Rentrée littéraire : «Baignade surveillée» de Laura Kasischke, une plongée implacable en eaux toxiques",
+      "url": "https://www.liberation.fr/culture/livres/rentree-litteraire-baignade-surveillee-de-laura-kasischke-une-plongee-implacable-en-eaux-toxiques-20260821_2T2Q3DSAXRGKHKQGSTCU2GHHRI/",
+      "summary": "La romancière américaine est une entomologiste du lien, filial, familial, amoureux, amical, social.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-21T13:52:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "d7dee9eaeb8a"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : l’Elysée annonce une réunion de la coalition des volontaires, lundi, avec Volodymyr Zelensky",
+      "url": "https://www.lemonde.fr/international/live/2026/08/21/en-direct-guerre-en-ukraine-l-elysee-annonce-une-reunion-de-la-coalition-des-volontaires-lundi-avec-volodymyr-zelensky_6746952_3210.html",
+      "summary": "Cette réunion sera coprésidée par le président français Emmanuel Macron, le chancelier allemand Friedrich Merz et, pour la première fois, par le nouveau premier ministre britannique Andy Burnham, a précisé le palais présidentiel.",
+      "image": "https://img.lemde.fr/2026/08/21/0/0/6000/3000/644/322/60/0/ea36d8f_upload-1-ksvpxnozwimy-000-c2646qu.jpg",
+      "published_at": "2026-08-21T15:51:50+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "953d14bd1f69"
+    },
+    {
+      "title": "Marine Tondelier, la cheffe des Ecologistes, appelle de nouveau à l’union de la gauche pour la présidentielle de 2027",
+      "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/21/presidentielle-2027-la-cheffe-des-ecologistes-marine-tondelier-appelle-de-nouveau-a-l-union-de-la-gauche_6752216_6205049.html",
+      "summary": "La candidate met en garde contre la division de la gauche et appelle à dépasser les querelles internes pour bâtir une alternative crédible face à l’extrême droite en 2027.",
+      "image": "https://img.lemde.fr/2026/08/21/515/0/8144/4072/644/322/60/0/8e7dbe3_upload-1-zgoamiophb2q-img-2318-1.JPG",
+      "published_at": "2026-08-21T15:49:46+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "282ea4eb47e7"
     },
     {
       "title": "En librairies : Ada Walter, Jean-Pierre Montal, Tine Laclos...",
@@ -43,11 +213,11 @@
       "id": "1ab9dcd5fc69"
     },
     {
-      "title": "Le Royaume-Uni, le Canada et l’Australie jugent « honteuse » la décision d’Israël de clore l’enquête sur la mort de sept humanitaires à Gaza",
+      "title": "Sept humanitaires morts à Gaza : le Royaume-Uni, le Canada et l’Australie jugent « honteuse » la décision d’Israël de clore l’enquête",
       "url": "https://www.lemonde.fr/international/article/2026/08/21/le-royaume-uni-le-canada-et-l-australie-jugent-honteuse-la-decision-d-israel-de-clore-l-enquete-sur-la-mort-de-sept-humanitaires-a-gaza_6752183_3210.html",
-      "summary": "Ces employés de l’ONG World Central Kitchen avaient été touchés par une frappe israélienne en avril 2024, alors qu’ils supervisaient le déchargement d’un navire venant de Chypre et transportant 300 tonnes d’aide alimentaire.",
+      "summary": "Ces employés de l’ONG World Central Kitchen avaient été touchés par un bombardement israélien en avril 2024, alors qu’ils supervisaient le déchargement d’un navire venant de Chypre et transportant 300 tonnes d’aide alimentaire.",
       "image": "https://img.lemde.fr/2026/08/21/753/0/5808/2904/644/322/60/0/c5259cb_upload-1-oqfqkcep3e0q-000-36nm9cn.jpg",
-      "published_at": "2026-08-21T15:39:57+02:00",
+      "published_at": "2026-08-21T15:39:55+02:00",
       "source": "Le Monde",
       "category": "International",
       "id": "a833952ead4d"
@@ -107,7 +277,7 @@
       "url": "https://www.lemonde.fr/international/article/2026/08/21/droits-de-douane-donald-trump-annonce-une-suspension-temporaire-des-taxes-sur-certaines-importations-de-b-uf_6752149_3210.html",
       "summary": "Le coût de la viande bovine a explosé aux Etats-Unis, où le prix d’un steak a augmenté de 15 % sur la dernière année. Jusqu’à 300 000 tonnes de produits destinés au bœuf haché doivent être importés sans droits de douanes dans le pays, sur les 90 prochains jours.",
       "image": "https://img.lemde.fr/2026/08/19/31/0/5249/2624/644/322/60/0/0a0b1d2_ftp-1-qi1xyinbun87-b6ebb86f58314f2ebc7c735da471dfa6-0-9244748f4fd74c6190717e8c1e1cc1d8.jpg",
-      "published_at": "2026-08-21T15:01:40+02:00",
+      "published_at": "2026-08-21T15:01:35+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "738b6576a4f0"
@@ -131,176 +301,6 @@
       "source": "Libération",
       "category": "Sport",
       "id": "60154b1d4151"
-    },
-    {
-      "title": "Rougeole : comment vaccino-scepticisme de l’administration Trump favorise-t-elle le retour de la maladie ?",
-      "url": "https://www.lemonde.fr/international/video/2026/08/21/rougeole-comment-le-vaccino-scepticisme-de-l-administration-trump-favorise-le-retour-de-la-maladie_6752146_3210.html",
-      "summary": "Les Etats-Unis pourraient bientôt suivre le chemin du Canada et de plusieurs pays européens en perdant, en novembre, leur statut de pays ayant éliminé la rougeole. La baisse de la couverture vaccinale, poussée par l’administration Trump, est la principale cause de cette crise.",
-      "image": "https://img.lemde.fr/2026/08/21/60/0/1920/960/644/322/60/0/cd0490b_upload-1-0howsw1xkdrk-motion-5-2-0-00-05-20-1.png",
-      "published_at": "2026-08-21T14:54:25+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "af8e25fa684e"
-    },
-    {
-      "title": "Du doublement du plafond à une indexation sur l'inflation, le gouvernement change son fusil d'épaule pour les franchises médicales",
-      "url": "https://www.franceinfo.fr/sante/du-doublement-du-plafond-a-une-indexation-sur-l-inflation-le-gouvernement-change-son-fusil-d-epaule-pour-les-franchises-medicales_8155832.html#xtor=RSS-3-[lestitres]",
-      "summary": "Après de vives réactions d'associations de patients et d'acteurs du secteur, la ministre de la Santé, Stéphanie Rist, a annoncé jeudi l'abandon du doublement du plafond des franchises médicales, tout en annonçant tout de même une hausse à venir.",
-      "image": "https://www.franceinfo.fr/pictures/qeEwNU_b-gYCY1cfsg-k9jue3mM/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/21/6a8807f956af8519636240.jpg",
-      "published_at": "2026-08-21T14:54:03+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "79cd7dd772b2"
-    },
-    {
-      "title": "Le président iranien déclare qu'il \"vaut mieux mettre fin à la guerre maintenant\" avec les Etats-Unis, alors que l'Iran est \"en position de force\"",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-president-iranien-declare-qu-il-vaut-mieux-mettre-fin-a-la-guerre-maintenant-avec-les-etats-unis-alors-que-l-iran-est-en-position-de-force_8156240.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le ministère iranien des Affaires étrangères accuse en parallèle Washington de \"terrorisme économique\", après l'annonce d'un renforcement des sanctions économiques contre Téhéran.",
-      "image": "https://www.franceinfo.fr/pictures/RRq-OI0qSde-iMzoRWE8KbuW7X8/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/21/6a883e04eea72950614372.jpg",
-      "published_at": "2026-08-21T14:52:05+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "3fc6e95e330f"
-    },
-    {
-      "title": "Flottille pour Gaza : la Turquie émet un mandat d’arrêt d’international contre Nétanyahou",
-      "url": "https://www.liberation.fr/international/flottille-de-gaza-la-turquie-emet-un-mandat-darret-dinternational-contre-netanyahou-20260821_C6GDUAO3IRGLDLKQNTYQYV3JVU/",
-      "summary": "La décision intervient dans le cadre d’une enquête sur l’interception de la cinquantaine de navires en mai dernier.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-21T12:49:18+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "e3286871c2b9"
-    },
-    {
-      "title": "Free Mobile améliore son option montre connectée : voici les nouveautés",
-      "url": "https://www.numerama.com/tech/2315859-free-mobile-ameliore-son-option-montre-connectee-voici-les-nouveautes.html",
-      "summary": "Double nouveauté chez Free Mobile : l'opérateur est désormais compatible avec les montres Pixel Watch et vend directement les montres de Samsung dans ses magasins et sur son site.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-21T12:48:01+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "80446b4ea3e8"
-    },
-    {
-      "title": "Un boa d’1,50 mètre sous un capot, un autre en liberté sur la route : en Haute-Garonne, les pompiers aux prises avec les nouveaux animaux de compagnie",
-      "url": "https://www.liberation.fr/environnement/animaux/un-boa-d150-metre-sous-un-capot-un-autre-en-liberte-sur-la-route-en-haute-garonne-les-pompiers-aux-prises-avec-les-nouveaux-animaux-de-compagnie-20260821_2PAQKPTYFRCWXKUFVB6PKOMQ7U/",
-      "summary": "Trois mois après la chasse au cobra venimeux dans la banlieue proche de Toulouse, les pompiers de Haute-Garonne ont été une nouvelle fois sollicités cette semaine. En l’espace de trois jours, deux boas ont dû être capturés.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-21T12:43:09+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "743bb2e27b71"
-    },
-    {
-      "title": "Rentrée littéraire : «Nous aussi» d’Anne Godard, cuisson de famille",
-      "url": "https://www.liberation.fr/culture/livres/rentree-litteraire-nous-aussi-danne-godard-cuisson-de-famille-20260821_KDGFIYGCGJDRPMLMRL2W73HZ64/",
-      "summary": "Huis clos bourgeois et enfance perdue dans le troisième roman d’une écrivaine rare.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-21T12:40:08+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "3b25d3e084ce"
-    },
-    {
-      "title": "Accusé de véhiculer la propagande du Kremlin, le célèbre dessin animé «Masha et Michka» sanctionné par Kyiv",
-      "url": "https://www.liberation.fr/international/europe/accuse-de-vehiculer-la-propagande-du-kremlin-le-celebre-dessin-anime-masha-et-michka-sanctionne-par-kyiv-20260821_IASEUTL5HFALZBGB7CWE44CWHU/",
-      "summary": "La diffusion des péripéties des deux personnages, qui cumulent des centaines de millions de vues à travers le monde, sera désormais «bloquée en Ukraine».",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-21T12:35:54+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "043edd6b425f"
-    },
-    {
-      "title": "Une cache avec des armes à feu retrouvée près de Berlin, un suspect arrêté en Roumanie",
-      "url": "https://www.franceinfo.fr/monde/europe/allemagne/une-cache-avec-des-armes-a-feu-retrouvee-pres-de-berlin-un-suspect-arrete-en-roumanie_8156246.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Peut-on exclure toute implication de puissances étrangères dans cette affaire ? Non\", a déclaré vendredi le ministre allemand de l'Intérieur, Alexander Dobrindt.",
-      "image": "https://www.franceinfo.fr/pictures/42N3JVrEsdalr2MbZWOJTbU-_Vc/0x10:1024x586/432x243/filters:format(jpg):quality(50)/2026/08/21/6a884559156d3562899616.jpg",
-      "published_at": "2026-08-21T14:35:03+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "bead67794658"
-    },
-    {
-      "title": "En Ligue 1, la saison débute après une valse inédite sur le banc des entraîneurs",
-      "url": "https://www.lemonde.fr/sport/article/2026/08/21/en-ligue-1-la-saison-debute-apres-une-valse-inedite-sur-le-banc-des-entraineurs_6752113_3242.html",
-      "summary": "Les deux tiers des clubs du championnat de France de football, dont la première journée se tient à partir de vendredi, ont changé de coach cet été. Un record qui traduit la forte instabilité de cette profession au sein de l’élite.",
-      "image": "https://img.lemde.fr/2026/08/09/448/0/3993/1996/644/322/60/0/5a5cb73_ftp-1-fieam68quknt-2026-08-09t135844z-1213303801-up1em8912tuqx-rtrmadp-3-soccer-friendly-liv-asm.JPG",
-      "published_at": "2026-08-21T14:30:03+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "26881d45f4d3"
-    },
-    {
-      "title": "Près de 12 heures de retard : des passagers du TGV Hendaye-Paris racontent leur nuit de galère en raison des orages",
-      "url": "https://www.franceinfo.fr/economie/transports/sncf/pres-de-12-heures-de-retard-des-passagers-du-tgv-hendaye-paris-racontent-leur-nuit-de-galere_8156252.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les intempéries dans le Sud-Ouest ont perturbé le trafic ferroviaire. Les passagers du TGV Hendaye-Paris sont arrivés ce vendredi matin dans la capitale, avec 12h de retard. En cause, un défaut d'alimentation électrique lié à un impact de foudre. Un retour de vacances qui a tourné au cauchemar.",
-      "image": "https://www.franceinfo.fr/pictures/EU3m_pn2ax9y-N7vxdsurwOBa2Q/53x0:1396x755/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88432982331573264813.jpg",
-      "published_at": "2026-08-21T14:27:53+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "9166041bc7b9"
-    },
-    {
-      "title": "Avec 23 jours consécutifs, la vague de chaleur en cours est la plus longue jamais enregistrée, ex æquo avec juillet 1983",
-      "url": "https://www.liberation.fr/environnement/climat/malgre-des-temperatures-en-baisse-il-va-falloir-attendre-jeudi-pour-sortir-de-la-vague-de-chaleur-commencee-le-28-juillet-20260818_G3B5VVZCJ5HVVIBPETJIZF43VI/",
-      "summary": "L’été 2026, qui n’est même pas encore terminé, a aussi connu le plus grand nombre de jours passé sous vague de chaleur. La baisse franche des températures jeudi a mis officiellement fin à la vague de chaleur.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-21T11:56:29+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "8d4349ebda31"
-    },
-    {
-      "title": "Rentrée littéraire : «Rouges-Truites» de Pierric Bailly, sombre juillet",
-      "url": "https://www.liberation.fr/culture/livres/rentree-litteraire-rouges-truites-de-pierric-bailly-sombre-juillet-20260821_23A4RZPN3JF7BIC74YZXU2LFZA/",
-      "summary": "Vingt-cinq ans après un meurtre dans le Vercors, le romancier envoie un frère et une sœur dans le Jura.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-21T11:53:00+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "cbdbf612e6dc"
-    },
-    {
-      "title": "Amnesty International dénonce neuf exécutions sommaires du Hamas à Gaza",
-      "url": "https://www.franceinfo.fr/monde/palestine/gaza/amnesty-international-denonce-neuf-executions-sommaires-du-hamas-a-gaza_8156204.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le rapport de l'ONG, publié vendredi, se concentre sur neuf exécutions, perpétrées en dehors de tout cadre légal. Amnesty International demande au Hamas de mettre fin à ces crimes et aux autorités de rétablir un système judiciaire.",
-      "image": "https://www.franceinfo.fr/pictures/uuBCtW1eV7XLGbLmEe7XtQmdCNg/0x267:5134x3155/432x243/filters:format(jpg):quality(50)/2022/08/05/phpEQZFBo.jpg",
-      "published_at": "2026-08-21T13:49:50+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "e28c622ad8f8"
-    },
-    {
-      "title": "Le phénomène climatique El Niño pourrait être \"le plus intense depuis plus d'un siècle\", alerte l'agence météorologique britannique",
-      "url": "https://www.franceinfo.fr/environnement/meteo/le-phenomene-climatique-el-nino-pourrait-etre-le-plus-intense-depuis-plus-d-un-siecle-alerte-l-agence-meteorologique-britannique_8156216.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les conséquences, qui se feront ressentir jusqu'en Europe, seront \"particulièrement fortes autour des Tropiques\", avec des sécheresses drastiques en Amérique du Sud et dans l'ouest du Pacifique, prévient l'agence.",
-      "image": "https://www.franceinfo.fr/pictures/urVTUjK12WGZK9o1IoL-nnwKCUM/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/21/6a8839f714f9d696965239.jpg",
-      "published_at": "2026-08-21T13:46:32+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "4a63bc454760"
-    },
-    {
-      "title": "Emojis «👍» ou «🙏» : ce que les smileys que vous envoyez par messages disent de votre âge",
-      "url": "https://www.liberation.fr/lifestyle/hightech/emojis-ou-ce-que-les-smileys-que-vous-envoyez-par-messages-disent-de-votre-age-20260821_35QEWMPYIFCUFMTSOZMYSWIQDI/",
-      "summary": "Vous répondez honnêtement par un pouce en l’air à vos SMS ? Alors, vous êtes clairement dépassés. Les émoticones utilisés sont généralement un bon indicateur de votre âge, selon des données Google et Reddit récoltées par le «New York Times».",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-21T11:45:00+00:00",
-      "source": "Libération",
-      "category": "Tech",
-      "id": "2cf183d522a1"
-    },
-    {
-      "title": "Michael 2, c’est officiel le film parlera bien des problèmes judiciaires du roi de la pop",
-      "url": "https://www.numerama.com/pop-culture/2315721-michael-2-cest-officiel-le-film-parlera-bien-des-problemes-judiciaires-du-roi-de-la-pop.html",
-      "summary": "Après le braquage au box-office du premier volet, le biopic sur Michael Jackson s'apprête à repousser les limites du genre. Jaafar Jackson, qui incarne son propre oncle à l'écran, a brisé le silence dans une interview accordée au magazine GQ Middle East. Il l'affirme sans détour : la suite du film, Michael 2, ne cherchera pas à contourner les scandales et abordera directement la période la plus so",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-21T11:45:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "86ce149c14a1"
     }
   ]
 }
