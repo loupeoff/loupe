@@ -7,9 +7,19 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Sat, 22 Aug 2026 22:29:50 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 23:28:07 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>Droits de douane : le premier ministre canadien, Mark Carney, dénonce la « guerre » commerciale lancée par Donald Trump</title>
+    <link>https://www.lemonde.fr/international/article/2026/08/23/droits-de-douane-le-premier-ministre-canadien-mark-carney-denonce-la-guerre-commerciale-lancee-par-donald-trump_6753507_3211.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/08/23/droits-de-douane-le-premier-ministre-canadien-mark-carney-denonce-la-guerre-commerciale-lancee-par-donald-trump_6753507_3211.html</guid>
+    <pubDate>Sun, 23 Aug 2026 01:05:54 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[En représailles aux nouvelles surtaxes américaines, entrées en vigueur samedi, le Canada va appliquer à son tour des surtaxes sur l’acier et les produits laitiers américains à partir du 8 septembre, a annoncé Ottawa.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/08/22/684/0/8192/4096/644/322/60/0/5bc38c5_ftp-1-5ohn4agnjby9-e25433bf3ad54438b09dba555b7541e1-0-9284b1f0d38d430fac90e1f2516895bb.jpg" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>EN DIRECT, guerre en Ukraine : Vladimir Poutine promet des attaques « beaucoup plus destructrices » contre Kiev, évoquant des « mesures de représailles »</title>
     <link>https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-vladimir-poutine-promet-des-attaques-beaucoup-plus-destructrices-contre-kiev-evoquant-des-mesures-de-represailles_6746952_3210.html</link>
@@ -194,7 +204,7 @@
     <title>La sépulture potentielle de d’Artagnan à Maastricht, une énigme historique qui vire à la guerre d’archéologues</title>
     <link>https://www.lemonde.fr/histoire/article/2026/08/22/la-sepulture-potentielle-de-d-artagnan-a-maastricht-une-enigme-historique-qui-vire-a-la-guerre-d-archeologues_6753576_4655323.html</link>
     <guid isPermaLink="true">https://www.lemonde.fr/histoire/article/2026/08/22/la-sepulture-potentielle-de-d-artagnan-a-maastricht-une-enigme-historique-qui-vire-a-la-guerre-d-archeologues_6753576_4655323.html</guid>
-    <pubDate>Sat, 22 Aug 2026 20:06:19 +0000</pubDate>
+    <pubDate>Sat, 22 Aug 2026 20:06:17 +0000</pubDate>
     <category>Culture</category>
     <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
     <description><![CDATA[Un squelette, peut-être celui du célèbre mousquetaire, a été mis au jour par l’archéologue Wim Dijkman en mars dans une église de Maastricht, aux Pays-Bas. L’accusant de fouilles illégales, la municipalité lui a repris le projet. Il faudra attendre encore quelques mois pour que l’analyse ADN livre – ou non – ses secrets.]]></description>
@@ -299,16 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">Numerama</source>
     <description><![CDATA[À la une sur Vroom cette semaine : Un nouveau cap franchi pour la jeune marque automobile Xiaomi, le Cybercab testé par les salariés Tesla et des Zeekr produites en Europe chez Volvo. Le futur n’attend pas : anticipez l’avenir des nouvelles technologies et de l’IA en lisant gratuitement ToujoursPlus, chaque jeudi dans votre boîte mail […]]]></description>
     <enclosure url="https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Droits de douane : le premier ministre canadien, Mark Carney, dénonce la « guerre » commerciale lancée par Donald Trump</title>
-    <link>https://www.lemonde.fr/international/article/2026/08/22/droits-de-douane-le-premier-ministre-canadien-mark-carney-denonce-la-guerre-commerciale-lancee-par-donald-trump_6753507_3210.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/08/22/droits-de-douane-le-premier-ministre-canadien-mark-carney-denonce-la-guerre-commerciale-lancee-par-donald-trump_6753507_3210.html</guid>
-    <pubDate>Sat, 22 Aug 2026 18:19:54 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[En représailles aux nouvelles surtaxes américaines, entrées en vigueur samedi, le Canada va appliquer à son tour des surtaxes sur l’acier et les produits laitiers américains à partir du 8 septembre, a annoncé Ottawa.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/08/22/684/0/8192/4096/644/322/60/0/5bc38c5_ftp-1-5ohn4agnjby9-e25433bf3ad54438b09dba555b7541e1-0-9284b1f0d38d430fac90e1f2516895bb.jpg" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>

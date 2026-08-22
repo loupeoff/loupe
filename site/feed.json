@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-08-22T22:29:50.170456+00:00",
+  "generated_at": "2026-08-22T23:28:07.546944+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Droits de douane : le premier ministre canadien, Mark Carney, dénonce la « guerre » commerciale lancée par Donald Trump",
+      "url": "https://www.lemonde.fr/international/article/2026/08/23/droits-de-douane-le-premier-ministre-canadien-mark-carney-denonce-la-guerre-commerciale-lancee-par-donald-trump_6753507_3211.html",
+      "summary": "En représailles aux nouvelles surtaxes américaines, entrées en vigueur samedi, le Canada va appliquer à son tour des surtaxes sur l’acier et les produits laitiers américains à partir du 8 septembre, a annoncé Ottawa.",
+      "image": "https://img.lemde.fr/2026/08/22/684/0/8192/4096/644/322/60/0/5bc38c5_ftp-1-5ohn4agnjby9-e25433bf3ad54438b09dba555b7541e1-0-9284b1f0d38d430fac90e1f2516895bb.jpg",
+      "published_at": "2026-08-23T01:05:54+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "2697b3a69e4e"
+    },
     {
       "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine promet des attaques « beaucoup plus destructrices » contre Kiev, évoquant des « mesures de représailles »",
       "url": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-vladimir-poutine-promet-des-attaques-beaucoup-plus-destructrices-contre-kiev-evoquant-des-mesures-de-represailles_6746952_3210.html",
@@ -187,7 +197,7 @@
       "url": "https://www.lemonde.fr/histoire/article/2026/08/22/la-sepulture-potentielle-de-d-artagnan-a-maastricht-une-enigme-historique-qui-vire-a-la-guerre-d-archeologues_6753576_4655323.html",
       "summary": "Un squelette, peut-être celui du célèbre mousquetaire, a été mis au jour par l’archéologue Wim Dijkman en mars dans une église de Maastricht, aux Pays-Bas. L’accusant de fouilles illégales, la municipalité lui a repris le projet. Il faudra attendre encore quelques mois pour que l’analyse ADN livre – ou non – ses secrets.",
       "image": "https://img.lemde.fr/2026/08/08/78/0/1299/649/644/322/60/0/086eb12_upload-1-cixsmhmjlozu-abaca-1001814-005.jpg",
-      "published_at": "2026-08-22T20:06:19+02:00",
+      "published_at": "2026-08-22T20:06:17+02:00",
       "source": "Le Monde Inter",
       "category": "Culture",
       "id": "6b74e2560b74"
@@ -291,16 +301,6 @@
       "source": "Numerama",
       "category": "Économie",
       "id": "6e3d008e03ce"
-    },
-    {
-      "title": "Droits de douane : le premier ministre canadien, Mark Carney, dénonce la « guerre » commerciale lancée par Donald Trump",
-      "url": "https://www.lemonde.fr/international/article/2026/08/22/droits-de-douane-le-premier-ministre-canadien-mark-carney-denonce-la-guerre-commerciale-lancee-par-donald-trump_6753507_3210.html",
-      "summary": "En représailles aux nouvelles surtaxes américaines, entrées en vigueur samedi, le Canada va appliquer à son tour des surtaxes sur l’acier et les produits laitiers américains à partir du 8 septembre, a annoncé Ottawa.",
-      "image": "https://img.lemde.fr/2026/08/22/684/0/8192/4096/644/322/60/0/5bc38c5_ftp-1-5ohn4agnjby9-e25433bf3ad54438b09dba555b7541e1-0-9284b1f0d38d430fac90e1f2516895bb.jpg",
-      "published_at": "2026-08-22T18:19:54+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "be4589fbf637"
     }
   ]
 }
