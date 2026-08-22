@@ -1,7 +1,97 @@
 {
-  "generated_at": "2026-08-22T04:40:59.949702+00:00",
+  "generated_at": "2026-08-22T05:34:22.301444+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Fuites de GTA 6 et cartes Pokémon 30ᵉ anniversaire, le recap Pop Culture de la semaine",
+      "url": "https://www.numerama.com/tech/2316177-fuites-de-gta-6-et-cartes-pokemon-30%e1%b5%89-anniversaire-le-recap-pop-culture-de-la-semaine.html",
+      "summary": "Le futur n’attend pas : anticipez l’avenir des nouvelles technologies et de l’IA en lisant gratuitement ToujoursPlus, chaque jeudi dans votre boîte mail !",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-22T05:30:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "cb25c0435809"
+    },
+    {
+      "title": "Zones à faibles émissions : «Notre étude est la première à mettre en évidence un effet bénéfique sur le développement des poumons des enfants»",
+      "url": "https://www.liberation.fr/societe/sante/zones-a-faibles-emissions-notre-etude-est-la-premiere-a-mettre-en-evidence-un-effet-benefique-sur-le-developpement-des-poumons-des-enfants-20260822_IJV6GR2NFZGWHIQFITGLEQHCUU/",
+      "summary": "Selon une étude britannique publiée le 18 août, la croissance des organes respiratoires des enfants s’est améliorée depuis l’instauration d’une zone à faibles émissions à Londres en 2019.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-22T05:26:00+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "9c0c3f78a09f"
+    },
+    {
+      "title": "Cyberattaque contre le fisc : pourquoi Sébastien Lecornu réclame-t-il la création d'une nouvelle unité, alors que plusieurs agences existent déjà ?",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaque-contre-le-fisc-pourquoi-sebastien-lecornu-reclame-t-il-la-creation-d-une-nouvelle-unite-alors-que-plusieurs-agences-existent-deja_8156213.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'agence nationale de cybersécurité peut déjà remplir les missions demandées par le Premier ministre, estiment des experts. Ils appellent à donner plus de pouvoirs à cette entité existante et à renforcer les obligations en matière de sécurité informatique.",
+      "image": "https://www.franceinfo.fr/pictures/H1y3mJmX6y1N7iEUdv74p0TxkQk/0x4:1024x580/432x243/filters:format(jpg):quality(50)/2026/08/21/6a8842b5272a4372334511.jpg",
+      "published_at": "2026-08-22T07:16:47+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "e8c03c5d37f7"
+    },
+    {
+      "title": "\"C'est le moment de faire valoir nos propositions\" : face aux chaleurs records et aux incendies, les écologistes entendent porter l'enjeu de l'\"urgence\" climatique pendant la campagne présidentielle",
+      "url": "https://www.franceinfo.fr/politique/eelv/reportage-c-est-le-moment-de-faire-valoir-nos-propositions-face-aux-chaleurs-records-et-aux-incendies-les-ecologistes-entendent-porter-l-enjeu-de-l-urgence-climatique-pendant-la-campagne-presidentielle_8156030.html#xtor=RSS-3-[lestitres]",
+      "summary": "En invitant samedi l'intersyndicale des pompiers à leurs Journées d'été, les écologistes veulent mettre la pression sur le gouvernement dès la rentrée autour des sujets environnementaux.",
+      "image": "https://www.franceinfo.fr/pictures/_Cm4wiWl_eOIVP_hwFoE-vI5DmE/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/21/6a887d400a75b699371859.jpg",
+      "published_at": "2026-08-22T07:15:14+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "91c3362fe40b"
+    },
+    {
+      "title": "L'opposant russe Lev Chlosberg, condamné à onze ans de prison, symbole d'une répression débridée à l'approche des législatives",
+      "url": "https://www.franceinfo.fr/monde/russie/portrait-l-opposant-russe-lev-chlosberg-condamne-a-onze-ans-de-prison-symbole-d-une-repression-debridee-a-l-approche-des-legislatives_8151950.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le vice-président du parti libéral Iabloko, seule formation russe à réclamer un cessez-le-feu en Ukraine, a été lourdement condamné pour avoir discrédité l'armée.",
+      "image": "https://www.franceinfo.fr/pictures/cgr1v-6I6OWkIT7gB3ovxa5_fz0/0x178:4603x2767/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85a0c05ee68214226601.jpg",
+      "published_at": "2026-08-22T07:13:42+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "22432381b393"
+    },
+    {
+      "title": "Le club de football du Mans s’apprête à retrouver la Ligue 1, après des années à végéter dans les divisions inférieures",
+      "url": "https://www.lemonde.fr/sport/article/2026/08/22/le-club-de-football-du-mans-s-apprete-a-retrouver-la-ligue-1-apres-des-annees-a-vegeter-dans-les-divisions-inferieures_6752762_3242.html",
+      "summary": "L’équipe sarthoise va disputer, samedi contre Brest, son premier match dans l’élite depuis 2010. Une délivrance pour la formation qui, pendant de longues années, a cherché à se reconstruire à la suite d’une liquidation judiciaire, en 2013.",
+      "image": "https://img.lemde.fr/2026/08/17/138/0/3543/1771/644/322/60/0/96a3f2d_upload-1-bdh9mkshiafc-maxsportsworldthree519355.jpg",
+      "published_at": "2026-08-22T07:00:13+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "969b43871f21"
+    },
+    {
+      "title": "Neymar vs Mbappé : duel de princes au PSG",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/neymar-vs-mbappe-duel-de-princes-au-psg-20260822_GIBGAD4SIZBERMS4YJVXP4GOKA/",
+      "summary": "Arrivés le même été 2017 dans le club parisien, les deux attaquants superstars auront mené leur conflit d’ego à son paroxysme deux ans plus tard, jusqu’à le faire rejaillir sur le terrain.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-22T05:00:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "b36ceebadcf8"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+      "url": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-un-mort-a-kiev-dans-une-nouvelle-attaque-nocturne-russe_6746952_3210.html",
+      "summary": "Des frappes russes ont fait au moins deux morts dans la nuit de vendredi à samedi, à Kiev et à Zaporijia, ont annocné les autorités locales après une journée marquée par une attaque meurtrière sur un centre commercial du centre du pays.",
+      "image": "https://img.lemde.fr/2026/08/21/1052/0/4957/2478/644/322/60/0/f5b5d32_ftp-1-igwyoxmprabj-2026-08-21t140051z-1450546464-rc2y2namz74u-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
+      "published_at": "2026-08-22T06:48:43+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "698bb0a7afc8"
+    },
+    {
+      "title": "Droits de douane : pas d’accord de dernière minute entre le Canada et les Etats-Unis ; Ottawa imposera à Washington des surtaxes d’un même montant, « au dollar près », affirme Mark Carney",
+      "url": "https://www.lemonde.fr/international/article/2026/08/22/apres-l-echec-des-negociations-de-la-derniere-chance-les-nouveaux-droits-de-douane-americains-entrent-en-vigueur-contre-le-canada_6752728_3210.html",
+      "summary": "Faute d’entente entre les deux pays, les nouveaux droits de douane de 50 % voulus par Donald Trump contre un certain nombre de produits canadiens sont entrés en vigueur samedi.",
+      "image": "https://img.lemde.fr/2026/08/21/105/1195/2406/1203/644/322/60/0/3ac66cd_ftp-1-ghy2ly2y0vpo-5889448-01-06.jpg",
+      "published_at": "2026-08-22T06:43:26+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "4e3616a2d59e"
+    },
     {
       "title": "Présidentielle 2027 : les syndicats, inquiets par les reculs dans des pays dirigés par l’extrême droite, essaient de se mobiliser contre le RN",
       "url": "https://www.lemonde.fr/politique/article/2026/08/22/presidentielle-2027-les-syndicats-inquiets-par-les-reculs-dans-des-pays-diriges-par-l-extreme-droite-essaient-de-se-mobiliser-contre-le-rn_6752695_823448.html",
@@ -23,6 +113,16 @@
       "id": "e5a63b10bbcc"
     },
     {
+      "title": "Que faire, que voir, où aller ? L’agenda culturel et lifestyle à partir du 22 août",
+      "url": "https://www.lemonde.fr/m-styles/article/2026/08/22/que-faire-que-voir-ou-aller-l-agenda-culturel-et-lifestyle-a-partir-du-22-aout_6752628_4497319.html",
+      "summary": "Chaque samedi, « Le Goût du Monde » vous propose sa sélection de rendez-vous et d’adresses, à Paris et partout en France. Cette semaine, des broderies en fil d’or à Cervières, des cordes-sculptures à Rochefort, Louise Nevelson au Centre Pompidou-Metz ou une adresse thaïe contemporaine dans la capitale.",
+      "image": "https://img.lemde.fr/2026/08/19/307/0/1969/984/644/322/60/0/13d0104_upload-1-ucjmwpjnlqvo-8-dpmatisse-saint-laurent-ysl-carte-de-voeux-love.jpg",
+      "published_at": "2026-08-22T06:00:25+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "3023c1c70a06"
+    },
+    {
       "title": "A Sao Joao del-Rei, au Brésil, une prison sans gardiens armés, à contre-courant du modèle ultra-répressif du Salvadorien Nayib Bukele",
       "url": "https://www.lemonde.fr/international/article/2026/08/22/a-sao-joao-del-rei-au-bresil-une-prison-sans-gardiens-armes-a-contre-courant-du-modele-ultra-repressif-du-salvadorien-nayib-bukele_6752627_3210.html",
       "summary": "Dans l’établissement autogéré, c’est la réinsertion qui prime. Et le taux de récidive est très inférieur à celui du système traditionnel. Un système que Flavio Bolsonaro, adversaire de Lula pour la présidentielle du 4 octobre, voudrait durcir plus encore.",
@@ -33,14 +133,34 @@
       "id": "eb3368016ab5"
     },
     {
-      "title": "Cinq ans après, l’amer anniversaire de la loi Climat et résilience, inspirée par des propositions citoyennes : « presque toutes les mesures ont été détricotées »",
+      "title": "Cinq ans après, l’amer anniversaire de la loi Climat et résilience, inspirée par des propositions citoyennes : « Presque toutes les mesures ont été détricotées »",
       "url": "https://www.lemonde.fr/planete/article/2026/08/22/cinq-ans-apres-l-amer-anniversaire-de-la-loi-climat-et-resilience-inspiree-par-des-propositions-citoyennes-presque-toutes-les-mesures-ont-ete-detricotees_6752625_3244.html",
       "summary": "Le texte promulgué il y a cinq ans se voulait la traduction dans la loi des propositions de la convention citoyenne pour le climat visant à guider la France vers la décarbonation. Mais ses principales dispositions n’ont cessé d’être assouplies ou annulées depuis.",
       "image": "https://img.lemde.fr/2026/08/21/0/0/5950/2975/644/322/60/0/5cf7974_upload-1-yf2yf3bkdyn0-000-399n4j2.jpg",
-      "published_at": "2026-08-22T06:00:09+02:00",
+      "published_at": "2026-08-22T06:00:02+02:00",
       "source": "Le Monde Politique",
       "category": "Sport",
       "id": "00e99742e181"
+    },
+    {
+      "title": "\"Fjord\", \"Oklahoma Honey\", \"Paradise\"… Quels sont les films à voir (ou pas) cette semaine au cinéma ?",
+      "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/fjord-oklahoma-honey-paradise-quels-sont-les-films-a-voir-ou-pas-cette-semaine-au-cinema_8156057.html#xtor=RSS-3-[lestitres]",
+      "summary": "Découvrez les critiques de notre sélection des films sortis en salles le mercredi 19 août 2026.",
+      "image": "https://www.franceinfo.fr/pictures/amHqxMtVqzmJXaJH7HChRszjOUw/204x0:1396x670/432x243/filters:format(jpg):quality(50)/2026/08/21/6a8817d36e0f8392031682.jpeg",
+      "published_at": "2026-08-22T06:00:02+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "74ca8b5e41e1"
+    },
+    {
+      "title": "\"La Vuelta est simplement un ajout\" : pourquoi Tadej Pogacar a choisi cette saison pour réaliser le doublé Tour de France-Tour d'Espagne ?",
+      "url": "https://www.franceinfo.fr/sports/cyclisme/vuelta/la-vuelta-est-simplement-un-ajout-pourquoi-tadej-pogacar-a-choisi-cette-saison-pour-realiser-le-double-tour-de-france-tour-d-espagne_8154659.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Slovène n'a décidé de participer à l'épreuve qu'à l'issue de la Grande Boucle, mais a bien étudié son calendrier pour y être performant, et garder de l'énergie en vue d'un troisième sacre mondial fin septembre.",
+      "image": "https://www.franceinfo.fr/pictures/aWJO5zcIiPE37j7oBnfnYARttZM/0x0:3925x2207/432x243/filters:format(jpg):quality(50)/2026/08/20/6a871903ecfca388575667.jpg",
+      "published_at": "2026-08-22T06:00:01+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "e9a1983ed288"
     },
     {
       "title": "Quiz : les années 2000, le XXIe siècle tisse sa toile",
@@ -53,11 +173,21 @@
       "id": "718bfba306f2"
     },
     {
+      "title": "L’île de la Dérivation, l’utopie d’un paradis",
+      "url": "https://www.lemonde.fr/m-styles/article/2026/08/22/l-ile-de-la-derivation-l-utopie-d-un-paradis_6752590_4497319.html",
+      "summary": "« La Seine en cinq îles » (4/5). Sur cette île artificielle des Yvelines, reliée à la terre par une simple passerelle, seuls les piétons et les vélos sont autorisés à pénétrer. Mais ce petit éden est menacé par la construction d’un viaduc routier.",
+      "image": "https://img.lemde.fr/2026/07/07/198/0/4000/2000/644/322/60/0/dd5db21_upload-1-zrzcgourtnyl-01-ile-de-la-de-rivation-juin-2026-16.jpg",
+      "published_at": "2026-08-22T05:45:07+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "ff01d7e184ce"
+    },
+    {
       "title": "Les tensions entre Israël et la Turquie, révélatrices de rivalités personnelles et stratégiques entre Benyamin Nétanyahou et Recep Tayyip Erdogan",
       "url": "https://www.lemonde.fr/international/article/2026/08/22/les-tensions-entre-israel-et-la-turquie-revelatrices-de-rivalites-personnelles-et-strategiques-entre-benyamin-netanyahou-et-recep-tayyip-erdogan_6752556_3210.html",
-      "summary": "Du devenir de la bande de Gaza à l’évolution de la situation en Syrie, les points de friction ne manquent pas entre les deux puissances militaires de la Méditerranée orientale. Depuis trois ans, leurs relations ne cessent de se dégrader.",
+      "summary": "Du devenir de Gaza à l’évolution de la situation en Syrie, les points de friction ne manquent pas entre les deux puissances militaires de la Méditerranée orientale. Depuis trois ans, leurs relations ne cessent de se dégrader.",
       "image": "https://img.lemde.fr/2026/08/17/165/0/4604/2302/644/322/60/0/72799e9_ftp-1-mp8i2rihdvg4-5862452-01-06.jpg",
-      "published_at": "2026-08-22T05:30:08+02:00",
+      "published_at": "2026-08-22T05:30:05+02:00",
       "source": "Le Monde",
       "category": "International",
       "id": "da622efafaf2"
@@ -77,7 +207,7 @@
       "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/22/au-pic-du-mas-de-la-grave-pere-et-fils-recreent-un-refuge-a-2-000-metres-d-altitude-la-il-fallait-s-accrocher_6752522_3451060.html",
       "summary": "« Havres des cimes » (6/7). Entre des travaux délicats et des démarches administratives complexes, il aura fallu beaucoup de ténacité à Denis et Victor Lavenant pour faire partie des rares propriétaires privés d’un refuge de montagne.",
       "image": "https://img.lemde.fr/2026/06/16/395/0/4724/2362/644/322/60/0/9824c97_upload-1-higsk439cbi3-06-complement-refuge-la-grave-01.jpg",
-      "published_at": "2026-08-22T05:00:21+02:00",
+      "published_at": "2026-08-22T05:00:11+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "15c1f698f891"
@@ -97,7 +227,7 @@
       "url": "https://www.lemonde.fr/politique/article/2026/08/22/presidentielle-2027-a-grenoble-l-ecologiste-marine-tondelier-maintient-la-ligne-de-l-union-a-gauche-malgre-la-pression-de-lfi_6752519_823448.html",
       "summary": "La secrétaire nationale des Verts a plaidé, vendredi lors de leur université d’été, pour un dépassement des querelles partisanes, rappelant qu’« aucune famille politique du camp progressiste n’est capable de gagner seule » l’élection à la magistrature suprême.",
       "image": "https://img.lemde.fr/2026/08/21/382/429/3374/1687/644/322/60/0/da8d882_upload-1-96b35yrcb60w-mmagnin-journees-ete-ecolos-jour-2-24.jpg",
-      "published_at": "2026-08-22T05:00:02+02:00",
+      "published_at": "2026-08-22T05:00:00+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "caa626d4d036"
@@ -113,9 +243,9 @@
       "id": "75bbcb150aa3"
     },
     {
-      "title": "L’indépendance d’un journal militaire américain menacée après le licenciement de deux responsables éditoriaux par le Pentagone",
+      "title": "L’indépendance d’un journal militaire américain « Stars and Stripes » menacée après le licenciement de deux responsables éditoriaux par le Pentagone",
       "url": "https://www.lemonde.fr/international/article/2026/08/22/l-independance-d-un-journal-militaire-americain-menacee-apres-le-licenciement-de-deux-responsables-editoriaux-par-le-pentagone_6752453_3210.html",
-      "summary": "Le rédacteur en chef et le directeur de la publication, ainsi qu’une journaliste de « Stars and Stripes » ont été limogés, notamment pour « insubordination ». Ce média est financé en partie par le ministère de la défense mais est réputé pour son indépendance éditoriale.",
+      "summary": "Le rédacteur en chef, le directeur de la publication ainsi qu’une journaliste de « Stars and Stripes » ont été limogés, notamment pour « insubordination ». Ce média est financé en partie par le ministère de la défense mais est réputé pour son indépendance éditoriale.",
       "image": "https://img.lemde.fr/2026/08/19/399/0/4788/2394/644/322/60/0/28a6d4d_ftp-1-i5z02ms52len-d9bf0b1ca3b34fcd832a3ccae6aa0fc4-0-c1e2e4bf28524ce29878f65a4efe5456.jpg",
       "published_at": "2026-08-22T03:34:25+02:00",
       "source": "Le Monde",
@@ -138,39 +268,9 @@
       "summary": "Cette annonce intervient treize ans jour pour jour après un bombardement chimique, attribué au gouvernement syrien de l’époque, contre une banlieue de Damas qui avait fait plus de 1 400 morts.",
       "image": "https://img.lemde.fr/2026/08/21/494/0/5500/2750/644/322/60/0/b23e17c_ftp-1-urunsd56dug2-2026-08-21t092000z-547184351-rc201nay056w-rtrmadp-3-syria-security-museum.JPG",
       "published_at": "2026-08-22T01:54:35+02:00",
-      "source": "Le Monde",
+      "source": "Le Monde Inter",
       "category": "Politique",
       "id": "c1a67c8cba77"
-    },
-    {
-      "title": "TikTok paiera 400 millions de dollars pour solder des accusations de collecte illégale de données d’enfants américains",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/22/tiktok-paiera-400-millions-de-dollars-pour-solder-des-accusations-de-collecte-illegale-de-donnees-d-enfants-americains_6752354_4408996.html",
-      "summary": "Le réseau social est accusé d’avoir « sciemment » laissé des millions d’utilisateurs de moins de 13 ans créer des comptes et collecté leurs informations personnelles sans en informer leurs parents ni obtenir leur consentement.",
-      "image": "https://img.lemde.fr/2026/08/21/478/0/5735/2867/644/322/60/0/4975e3d_ftp-1-2bqvn41x411b-5891830-01-06.jpg",
-      "published_at": "2026-08-22T01:31:25+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "464155de5d4c"
-    },
-    {
-      "title": "L’OM ouvre la saison de Ligue 1 avec une large victoire contre Strasbourg",
-      "url": "https://www.lemonde.fr/sport/article/2026/08/22/l-om-ouvre-la-saison-de-ligue-1-avec-une-large-victoire-contre-strasbourg_6752321_3242.html",
-      "summary": "Un doublé d’Amine Gouiri et des buts de Keyliane Abdallah et Pierre-Emile Hojbjerg ont permis à Marseille, sans recrue, de l’emporter largement (4-0) pour le premier match officiel de son nouvel entraîneur, Bruno Genesio.",
-      "image": "https://img.lemde.fr/2026/08/21/162/0/2589/1294/644/322/60/0/459b50a_ftp-1-3vxgk87vct3e-2026-08-21t202744z-269457720-up1em8l1ku757-rtrmadp-3-soccer-france-om-str.JPG",
-      "published_at": "2026-08-22T00:17:41+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "9ad233511c75"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : un mort à Kiev dans une nouvelle attaque russe nocturne",
-      "url": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-a-kryvy-rih-une-frappe-russe-visant-un-centre-commercial-fait-au-moins-quinze-morts-dont-des-enfants_6746952_3210.html",
-      "summary": "Quarante-huit heures après une frappe nocturne massive contre la capitale ukrainienne et sa région, qui a fait 16 morts, une alerte aux missiles balistiques a de nouveau été déclenchée à Kiev. Par ailleurs, un drone russe a tué, durant la nuit, un homme à Zaporija, dans le sud de l’Ukraine.",
-      "image": "https://img.lemde.fr/2026/08/21/1052/0/4957/2478/644/322/60/0/f5b5d32_ftp-1-igwyoxmprabj-2026-08-21t140051z-1450546464-rc2y2namz74u-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
-      "published_at": "2026-08-22T00:15:04+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "8472a3433331"
     },
     {
       "title": "L'équipe de France de cécifoot se qualifie en finale de son Euro et affrontera l'Angleterre",
@@ -201,106 +301,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "cf259359601b"
-    },
-    {
-      "title": "Accusé d'avoir collecté illégalement les données des enfants, TikTok solde des poursuites aux Etats-Unis pour 400 millions de dollars",
-      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/accuse-d-avoir-collecte-illegalement-les-donnees-des-enfants-tiktok-solde-des-poursuites-aux-etats-unis-pour-400-millions-de-dollars_8156774.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les Etats-Unis accusaient le réseau social d'avoir collecté illégalement les données d'enfants de moins de 13 ans et de les avoir exposés à des contenus pour adultes.",
-      "image": "https://www.franceinfo.fr/pictures/v2jc8WYvd8ccW4Znieo414JhIXc/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88bbf13355d126763122.jpg",
-      "published_at": "2026-08-21T23:02:32+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "beb932373374"
-    },
-    {
-      "title": "En ouverture de la saison de Ligue 1, l'Olympique de Marseille écrase Strasbourg",
-      "url": "https://www.franceinfo.fr/sports/foot/om/en-ouverture-de-la-saison-de-ligue-1-l-olympique-de-marseille-ecrase-strasbourg_8156738.html#xtor=RSS-3-[lestitres]",
-      "summary": "Grâce à un doublé d'Amine Gouri en seconde période et l'opportunisme de l'entrant Keyliane Abdallah et de Pierre-Emile Hojbjerg (4-0), les Olympiens ont parfaitement débuté leur saison, vendredi.",
-      "image": "https://www.franceinfo.fr/pictures/K11ZdOpqfGHx8KFLZRWsrOk43-Q/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88b509d3ba2943936529.jpg",
-      "published_at": "2026-08-21T22:48:11+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "fe2f069ea290"
-    },
-    {
-      "title": "La Cour suprême autorise temporairement la poursuite des travaux la salle de bal de la Maison Blanche",
-      "url": "https://www.franceinfo.fr/monde/usa/la-cour-supreme-autorise-temporairement-la-poursuite-des-travaux-la-salle-de-bal-de-la-maison-blanche_8156714.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un tribunal fédéral avait ordonné le 7 août l'arrêt des travaux. Donald Trump avait qualifié la décision de \"honte nationale\".",
-      "image": "https://www.franceinfo.fr/pictures/ZyeClyGL2K0Evd0sog0VF_1YihE/0x66:1024x642/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88a4e5ad3ed306657340.jpg",
-      "published_at": "2026-08-21T22:34:54+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "b6e449d09f33"
-    },
-    {
-      "title": "En Ukraine, une frappe russe sur un centre commercial fait au moins 15 morts et 130 blessés dans le centre du pays",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-une-frappe-russe-sur-un-centre-commercial-fait-au-moins-six-morts-et-91-blesses-dans-le-centre-du-pays_8156576.html#xtor=RSS-3-[lestitres]",
-      "summary": "Quatre personnes, dont trois enfants, sont également mortes dans une frappe russe dans la région de Mykolaïv.",
-      "image": "https://www.franceinfo.fr/pictures/eWoZ31vLHBPEBw0VYm9WsQYjcfI/0x105:1024x681/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88757324059782706357.jpg",
-      "published_at": "2026-08-21T22:31:34+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "912f4e0f49a6"
-    },
-    {
-      "title": "Au moins un mort et trois personnes blessées dans un lycée en Suède, le suspect armé d'une épée interpellé",
-      "url": "https://www.franceinfo.fr/monde/europe/plusieurs-personnes-blessees-dans-un-lycee-en-suede-le-suspect-arme-d-une-epee-interpelle_8156432.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'assaillant, dont les motivations sont à ce stade inconnues, a été touché à la jambe par des tirs de la police.",
-      "image": "https://www.franceinfo.fr/pictures/CjLfu3lLzukC3-2NhPNeFpHKuog/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88b15ed3f67891709845.jpg",
-      "published_at": "2026-08-21T22:16:36+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "48f12c93c22e"
-    },
-    {
-      "title": "Deux Palestiniens âgés de 58 et 17 ans tués en Cisjordanie",
-      "url": "https://www.franceinfo.fr/monde/palestine/deux-palestiniens-ages-de-58-et-17-ans-tues-en-cisjordanie_8156765.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'un a été tué à Jénine, dans le nord, par des tirs de l'armée israélienne, et l'autre dans le sud du territoire par un colon.",
-      "image": "https://www.franceinfo.fr/pictures/gid0OZMz2-w2xx4RKc3pLwg3LVA/0x46:1024x622/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88af92494cb109836090.jpg",
-      "published_at": "2026-08-21T22:08:05+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "a7cdaa99baf4"
-    },
-    {
-      "title": "Donald Trump : quel est son lien avec l'intrigante Natalie Harp, l'assistante toujours à ses côtés ?",
-      "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-quel-est-son-lien-avec-l-intrigante-natalie-harp-l-assistante-toujours-a-ses-cotes_8156723.html#xtor=RSS-3-[lestitres]",
-      "summary": "Donald Trump et sa femme Melania sont apparus main dans la main, jeudi 20 août à la Maison-Blanche. La scène pourrait sembler banale, mais la première Dame n'était pas apparue en public depuis un mois. Par ailleurs, la presse américaine s'interroge ces derniers jours sur le rôle auprès du président américain d'une assistante, Natalie Harp, devenue omniprésente.",
-      "image": "https://www.franceinfo.fr/pictures/X1i3q8P35RXfupu4UnqEIBAFpLM/0x101:1576x988/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88a2ff5be6e839169727.png",
-      "published_at": "2026-08-21T21:59:04+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "601290c1d0f6"
-    },
-    {
-      "title": "\"Reste en Thaïlande, tu fais ta mission\" : de jeunes Français incarcérés, trafiquants à leur insu ?",
-      "url": "https://www.franceinfo.fr/societe/drogue/reste-en-thailande-tu-fais-ta-mission-de-jeunes-francais-incarceres-trafiquants-a-leur-insu_8156696.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les soi-disant vacances de rêve en Thaïlande se sont terminées en prison : 13 Français ont été incarcérés depuis le début de l’été, arrêtés alors qu’ils passaient la frontière avec, pour certains, plusieurs kilos de drogue dans leurs bagages. Les jeunes gens assurent avoir été piégés.",
-      "image": "https://www.franceinfo.fr/pictures/G6tbciCndGzJrvTfLJQdC3LXmsc/0x14:822x477/432x243/filters:format(jpg):quality(50)/2026/08/21/6a889b8660b3a034788945.png",
-      "published_at": "2026-08-21T21:51:16+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "331097ee80fa"
-    },
-    {
-      "title": "Julian Alaphilippe \"avait une place tellement à part dans le cyclisme français\", salue le président de la Fédération française de cyclisme après l'annonce de sa retraite",
-      "url": "https://www.franceinfo.fr/sports/julian-alaphilippe-avait-une-place-tellement-a-part-dans-le-cyclisme-francais-salue-le-president-de-la-federation-francaise-de-cyclisme-apres-l-annonce-de-sa-retraite_8156750.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Il faut mesurer ce que cela peut représenter\", insiste Michel Callot. Michel Callot, rappelant la prouesse du cycliste tricolore lors du Tour de France 2019.",
-      "image": "https://www.franceinfo.fr/pictures/FQ5OxivUfxwnTcUJuNLHJMRCwrw/0x88:3998x2335/432x243/filters:format(jpg):quality(50)/2022/07/11/phpPPtf8z.jpg",
-      "published_at": "2026-08-21T21:37:33+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "e759147e55cc"
-    },
-    {
-      "title": "Santé : faudra-t-il payer plus cher pour les franchises médicales ?",
-      "url": "https://www.franceinfo.fr/sante/sante-faudra-t-il-payer-plus-cher-pour-les-franchises-medicales_8156711.html#xtor=RSS-3-[lestitres]",
-      "summary": "Pour contenir le déficit de la Sécurité sociale, le gouvernement renonce finalement à doubler le plafond des franchises médicales. Si elle reconnaît que l'annonce a pu paraître brutale, la ministre de la Santé, Stéphanie Rist, ne renonce pas pour autant à augmenter le plafond, ce qui inquiète notamment les patients atteints d'affections longue durée.",
-      "image": "https://www.franceinfo.fr/pictures/lhs7-iR03xm94hiBDBvf4SwdZ_U/0x105:1390x887/432x243/filters:format(jpg):quality(50)/2026/08/21/6a889e9506cd6995109080.png",
-      "published_at": "2026-08-21T21:13:39+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "b65517bea02a"
     }
   ]
 }
