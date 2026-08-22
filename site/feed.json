@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-08-22T01:42:32.480142+00:00",
+  "generated_at": "2026-08-22T03:01:39.055537+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Rentrée littéraire : «Mon Œil» de Victoria Kaario, roman cristallin",
+      "url": "https://www.liberation.fr/culture/livres/rentree-litteraire-mon-oeil-de-victoria-kaario-roman-cristallin-20260822_U2P6XL23RNGOLIX37M3RJKGI6U/",
+      "summary": "Une fille qui louche et une mère qui déraille dans ce premier roman autobiographique.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-22T02:46:00+00:00",
+      "source": "Libération",
+      "category": "Tech",
+      "id": "75bbcb150aa3"
+    },
     {
       "title": "L’indépendance d’un journal militaire américain menacée après le licenciement de deux responsables éditoriaux par le Pentagone",
       "url": "https://www.lemonde.fr/international/article/2026/08/22/l-independance-d-un-journal-militaire-americain-menacee-apres-le-licenciement-de-deux-responsables-editoriaux-par-le-pentagone_6752453_3210.html",
@@ -15,7 +25,7 @@
     {
       "title": "Ukraine : au moins seize morts dans une frappe russe sur un centre commercial, l’UE dénonce une « terreur planifiée »",
       "url": "https://www.lemonde.fr/international/article/2026/08/22/ukraine-au-moins-seize-morts-dans-une-frappe-russe-sur-un-centre-commercial-l-ue-denonce-une-terreur-planifiee_6752420_3210.html",
-      "summary": "Quatre personnes, dont trois mineurs, ont également été tuées, vendredi, dans une autre attaque, et des missiles balistiques ont tué une personne à Kiev dans la nuit de vendredi à samedi.",
+      "summary": "Quatre personnes, dont trois mineurs, ont également été tuées, vendredi, dans une autre attaque, et des missiles balistiques ont fait un mort à Kiev dans la nuit de vendredi à samedi.",
       "image": "https://img.lemde.fr/2026/08/21/71/0/2000/1000/644/322/60/0/9c2a6cb_ftp-1-2mqpvye5srwn-8892e4ad49d946c2af8aa8a5ffe41365-0-3f57d66b363e44ce8ec8c158be0fa1ef.jpg",
       "published_at": "2026-08-22T02:55:32+02:00",
       "source": "Le Monde Inter",
@@ -133,6 +143,16 @@
       "id": "912f4e0f49a6"
     },
     {
+      "title": "TGV Hendaye-Paris : des passagers bloqués pendant douze heures après un impact de foudre",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/21/tgv-hendaye-paris-des-passagers-bloques-pendant-douze-heures-apres-un-impact-de-foudre_6752288_3234.html",
+      "summary": "Le train parti jeudi à 16 heures d’Hendaye devait rallier Paris dans la soirée. Les 500 passagers sont finalement repartis vendredi 21 août à 6 heures de Bordeaux.",
+      "image": "https://img.lemde.fr/2023/04/17/253/0/3000/1500/644/322/60/0/fe7c45c_1681718661827-rrtt.jpg",
+      "published_at": "2026-08-21T22:25:50+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "391c7748da45"
+    },
+    {
       "title": "Au moins un mort et trois personnes blessées dans un lycée en Suède, le suspect armé d'une épée interpellé",
       "url": "https://www.franceinfo.fr/monde/europe/plusieurs-personnes-blessees-dans-un-lycee-en-suede-le-suspect-arme-d-une-epee-interpelle_8156432.html#xtor=RSS-3-[lestitres]",
       "summary": "L'assaillant, dont les motivations sont à ce stade inconnues, a été touché à la jambe par des tirs de la police.",
@@ -171,16 +191,6 @@
       "source": "France Info",
       "category": "Société",
       "id": "331097ee80fa"
-    },
-    {
-      "title": "La forêt de Fontainebleau, ravagée par un incendie en juillet, rouvre partiellement au public samedi",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/21/la-foret-de-fontainebleau-ravagee-par-un-incendie-en-juillet-rouvre-partiellement-au-public-samedi_6752287_3244.html",
-      "summary": "« Quatre-vingt pour cent du massif pourra être rouvert et accessible au public en sécurité », a affirmé le préfet délégué pour l’égalité des chances, en précisant qu’une zone de la forêt resterait pour le moment interdite d’accès.",
-      "image": "https://img.lemde.fr/2026/08/20/694/0/6912/3456/644/322/60/0/2dcc1a0_ftp-1-6jsixz2py83e-5880981-01-06.jpg",
-      "published_at": "2026-08-21T21:47:30+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "96bcd7b52965"
     },
     {
       "title": "Julian Alaphilippe \"avait une place tellement à part dans le cyclisme français\", salue le président de la Fédération française de cyclisme après l'annonce de sa retraite",
@@ -287,20 +297,10 @@
       "url": "https://www.lemonde.fr/pixels/article/2026/08/21/derriere-le-succes-des-consoles-retro-un-marche-illegal-de-jeux-anciens_6752283_4408996.html",
       "summary": "Souvent produits en Chine et peu onéreux, ces émulateurs permettent de jouer à des milliers de titres produits pour des consoles datées, comme la GameBoy ou la PS1. Si leur existence même n’est pas illégale, ils entretiennent tout de même un marché noir de fichiers violant le droit d’auteur.",
       "image": "https://img.lemde.fr/2026/07/09/480/0/3840/1920/644/322/60/0/9086c0a_upload-1-rnspfth9sjup-3840px-anbernic-rg40xx.jpg",
-      "published_at": "2026-08-21T20:00:08+02:00",
+      "published_at": "2026-08-21T20:00:06+02:00",
       "source": "Le Monde",
       "category": "International",
       "id": "b9870e31afc5"
-    },
-    {
-      "title": "Le panache, le palmarès et la convivialité... Comment Julian Alaphilippe est devenu le chouchou du public français",
-      "url": "https://www.franceinfo.fr/sports/cyclisme/julian-alaphilippe/le-panache-le-palmares-et-la-convivialite-comment-julian-alaphilippe-est-devenu-le-chouchou-du-public-francais_8156489.html#xtor=RSS-3-[lestitres]",
-      "summary": "Julian Alaphilippe a annoncé prendre sa retraite avec effet immédiat, à 34 ans, vendredi.",
-      "image": "https://www.franceinfo.fr/pictures/s8KVBredc2SVPnrYnHRH0MpoYJc/0x0:5472x3078/432x243/filters:format(jpg):quality(50)/2026/08/21/6a8867c3272a2450857663.jpg",
-      "published_at": "2026-08-21T19:46:11+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "4fe98749adc4"
     }
   ]
 }
