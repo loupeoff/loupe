@@ -1,14 +1,64 @@
 {
-  "generated_at": "2026-08-22T03:49:17.502826+00:00",
+  "generated_at": "2026-08-22T04:40:59.949702+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Présidentielle 2027 : les syndicats, inquiets par les reculs dans des pays dirigés par l’extrême droite, essaient de se mobiliser contre le RN",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/22/presidentielle-2027-les-syndicats-inquiets-par-les-reculs-dans-des-pays-diriges-par-l-extreme-droite-essaient-de-se-mobiliser-contre-le-rn_6752695_823448.html",
+      "summary": "Une note de la Fondation Jean Jaurès et de son équivalent allemand, la Fondation Friedrich-Ebert, publiée à la fin du mois de juillet, fait un bilan de l’action menée par les gouvernements aux Etats-Unis, en Hongrie et en Italie à l’égard des organisations, des libertés et des droits syndicaux.",
+      "image": "https://img.lemde.fr/2026/08/21/711/0/6048/3024/644/322/60/0/4216c98_upload-1-szc9ih3osra8-000-34wv26j.jpg",
+      "published_at": "2026-08-22T06:30:11+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "fcb6d2fe9e43"
+    },
+    {
+      "title": "Les Girondins de Bordeaux de plus en plus proches de la liquidation après une décision du tribunal administratif",
+      "url": "https://www.lemonde.fr/sport/article/2026/08/22/les-girondins-de-bordeaux-de-plus-en-plus-proches-de-la-liquidation-apres-une-decision-du-tribunal-administratif_6752662_3242.html",
+      "summary": "Exclu vendredi des championnats nationaux en raison de ses dérives financières, le club six fois champion de France risque une liquidation judiciaire en cas de retrait de son nouveau propriétaire, le fonds Sparta Capital. Ce dernier a demandé au comité exécutif de la Fédération de réexaminer sans délai le dossier.",
+      "image": "https://img.lemde.fr/2026/08/21/316/0/5017/2508/644/322/60/0/be09223_ftp-1-eyutu7anfkix-5889177-01-06.jpg",
+      "published_at": "2026-08-22T06:17:07+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "e5a63b10bbcc"
+    },
+    {
+      "title": "A Sao Joao del-Rei, au Brésil, une prison sans gardiens armés, à contre-courant du modèle ultra-répressif du Salvadorien Nayib Bukele",
+      "url": "https://www.lemonde.fr/international/article/2026/08/22/a-sao-joao-del-rei-au-bresil-une-prison-sans-gardiens-armes-a-contre-courant-du-modele-ultra-repressif-du-salvadorien-nayib-bukele_6752627_3210.html",
+      "summary": "Dans l’établissement autogéré, c’est la réinsertion qui prime. Et le taux de récidive est très inférieur à celui du système traditionnel. Un système que Flavio Bolsonaro, adversaire de Lula pour la présidentielle du 4 octobre, voudrait durcir plus encore.",
+      "image": "https://img.lemde.fr/2026/08/21/833/0/5000/2500/644/322/60/0/9531cb3_upload-1-gclybh9gzhcd-20260813-dsc08823.jpg",
+      "published_at": "2026-08-22T06:00:13+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "eb3368016ab5"
+    },
+    {
+      "title": "Cinq ans après, l’amer anniversaire de la loi Climat et résilience, inspirée par des propositions citoyennes : « presque toutes les mesures ont été détricotées »",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/22/cinq-ans-apres-l-amer-anniversaire-de-la-loi-climat-et-resilience-inspiree-par-des-propositions-citoyennes-presque-toutes-les-mesures-ont-ete-detricotees_6752625_3244.html",
+      "summary": "Le texte promulgué il y a cinq ans se voulait la traduction dans la loi des propositions de la convention citoyenne pour le climat visant à guider la France vers la décarbonation. Mais ses principales dispositions n’ont cessé d’être assouplies ou annulées depuis.",
+      "image": "https://img.lemde.fr/2026/08/21/0/0/5950/2975/644/322/60/0/5cf7974_upload-1-yf2yf3bkdyn0-000-399n4j2.jpg",
+      "published_at": "2026-08-22T06:00:09+02:00",
+      "source": "Le Monde Politique",
+      "category": "Sport",
+      "id": "00e99742e181"
+    },
+    {
+      "title": "Quiz : les années 2000, le XXIe siècle tisse sa toile",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/quiz-les-annees-2000-le-xxie-siecle-tisse-sa-toile-20260822_GT4IKARKQBEKLOLTE53O3FFSYQ/",
+      "summary": "(30/30) Quand Apple a-t-il lancé l’iPod ? Qui a remporté le 94e Tour de France ? Quel pays a dit non au traité de Lisbonne ?",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-22T04:00:00+00:00",
+      "source": "Libération",
+      "category": "Tech",
+      "id": "718bfba306f2"
+    },
     {
       "title": "Les tensions entre Israël et la Turquie, révélatrices de rivalités personnelles et stratégiques entre Benyamin Nétanyahou et Recep Tayyip Erdogan",
       "url": "https://www.lemonde.fr/international/article/2026/08/22/les-tensions-entre-israel-et-la-turquie-revelatrices-de-rivalites-personnelles-et-strategiques-entre-benyamin-netanyahou-et-recep-tayyip-erdogan_6752556_3210.html",
       "summary": "Du devenir de la bande de Gaza à l’évolution de la situation en Syrie, les points de friction ne manquent pas entre les deux puissances militaires de la Méditerranée orientale. Depuis trois ans, leurs relations ne cessent de se dégrader.",
       "image": "https://img.lemde.fr/2026/08/17/165/0/4604/2302/644/322/60/0/72799e9_ftp-1-mp8i2rihdvg4-5862452-01-06.jpg",
       "published_at": "2026-08-22T05:30:08+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "International",
       "id": "da622efafaf2"
     },
@@ -23,12 +73,22 @@
       "id": "d1af29ff44f1"
     },
     {
+      "title": "Au pic du Mas de La Grave, père et fils recréent un refuge à 2 000 mètres d’altitude : « Là, il fallait s’accrocher ! »",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/22/au-pic-du-mas-de-la-grave-pere-et-fils-recreent-un-refuge-a-2-000-metres-d-altitude-la-il-fallait-s-accrocher_6752522_3451060.html",
+      "summary": "« Havres des cimes » (6/7). Entre des travaux délicats et des démarches administratives complexes, il aura fallu beaucoup de ténacité à Denis et Victor Lavenant pour faire partie des rares propriétaires privés d’un refuge de montagne.",
+      "image": "https://img.lemde.fr/2026/06/16/395/0/4724/2362/644/322/60/0/9824c97_upload-1-higsk439cbi3-06-complement-refuge-la-grave-01.jpg",
+      "published_at": "2026-08-22T05:00:21+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "15c1f698f891"
+    },
+    {
       "title": "Aux Etats-Unis, les universités traversent une crise sans précédent, entre des études jugées trop chères et une défiance alimentée par le discours de Donald Trump",
       "url": "https://www.lemonde.fr/international/article/2026/08/22/aux-etats-unis-les-universites-traversent-une-crise-sans-precedent-entre-des-etudes-jugees-trop-cheres-et-une-defiance-alimentee-par-le-discours-de-donald-trump_6752520_3210.html",
       "summary": "Endettés, une quinzaine d’établissements d’enseignement supérieur ont fermé en 2025, une quarantaine en 2024. Outre les coupes dans les subventions, le monde académique est confronté à une baisse des effectifs étudiants, nombre de jeunes doutant de la valeur des compétences enseignées.",
       "image": "https://img.lemde.fr/2026/08/21/928/0/5568/2784/644/322/60/0/3f9b0ec_upload-1-okzakmoenfuy-000-42fd9f7.jpg",
       "published_at": "2026-08-22T05:00:06+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Sport",
       "id": "29091f75eece"
     },
@@ -38,7 +98,7 @@
       "summary": "La secrétaire nationale des Verts a plaidé, vendredi lors de leur université d’été, pour un dépassement des querelles partisanes, rappelant qu’« aucune famille politique du camp progressiste n’est capable de gagner seule » l’élection à la magistrature suprême.",
       "image": "https://img.lemde.fr/2026/08/21/382/429/3374/1687/644/322/60/0/da8d882_upload-1-96b35yrcb60w-mmagnin-journees-ete-ecolos-jour-2-24.jpg",
       "published_at": "2026-08-22T05:00:02+02:00",
-      "source": "Le Monde Politique",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "caa626d4d036"
     },
@@ -58,7 +118,7 @@
       "summary": "Le rédacteur en chef et le directeur de la publication, ainsi qu’une journaliste de « Stars and Stripes » ont été limogés, notamment pour « insubordination ». Ce média est financé en partie par le ministère de la défense mais est réputé pour son indépendance éditoriale.",
       "image": "https://img.lemde.fr/2026/08/19/399/0/4788/2394/644/322/60/0/28a6d4d_ftp-1-i5z02ms52len-d9bf0b1ca3b34fcd832a3ccae6aa0fc4-0-c1e2e4bf28524ce29878f65a4efe5456.jpg",
       "published_at": "2026-08-22T03:34:25+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "8d9973c920fd"
     },
@@ -81,6 +141,16 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "c1a67c8cba77"
+    },
+    {
+      "title": "TikTok paiera 400 millions de dollars pour solder des accusations de collecte illégale de données d’enfants américains",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/22/tiktok-paiera-400-millions-de-dollars-pour-solder-des-accusations-de-collecte-illegale-de-donnees-d-enfants-americains_6752354_4408996.html",
+      "summary": "Le réseau social est accusé d’avoir « sciemment » laissé des millions d’utilisateurs de moins de 13 ans créer des comptes et collecté leurs informations personnelles sans en informer leurs parents ni obtenir leur consentement.",
+      "image": "https://img.lemde.fr/2026/08/21/478/0/5735/2867/644/322/60/0/4975e3d_ftp-1-2bqvn41x411b-5891830-01-06.jpg",
+      "published_at": "2026-08-22T01:31:25+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "464155de5d4c"
     },
     {
       "title": "L’OM ouvre la saison de Ligue 1 avec une large victoire contre Strasbourg",
@@ -213,16 +283,6 @@
       "id": "331097ee80fa"
     },
     {
-      "title": "La forêt de Fontainebleau, ravagée par un incendie en juillet, rouvre partiellement au public samedi",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/21/la-foret-de-fontainebleau-ravagee-par-un-incendie-en-juillet-rouvre-partiellement-au-public-samedi_6752287_3244.html",
-      "summary": "« Quatre-vingt pour cent du massif pourra être rouvert et accessible au public en sécurité », a affirmé le préfet délégué pour l’égalité des chances, en précisant qu’une zone de la forêt resterait pour le moment interdite d’accès.",
-      "image": "https://img.lemde.fr/2026/08/20/694/0/6912/3456/644/322/60/0/2dcc1a0_ftp-1-6jsixz2py83e-5880981-01-06.jpg",
-      "published_at": "2026-08-21T21:47:30+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "96bcd7b52965"
-    },
-    {
       "title": "Julian Alaphilippe \"avait une place tellement à part dans le cyclisme français\", salue le président de la Fédération française de cyclisme après l'annonce de sa retraite",
       "url": "https://www.franceinfo.fr/sports/julian-alaphilippe-avait-une-place-tellement-a-part-dans-le-cyclisme-francais-salue-le-president-de-la-federation-francaise-de-cyclisme-apres-l-annonce-de-sa-retraite_8156750.html#xtor=RSS-3-[lestitres]",
       "summary": "\"Il faut mesurer ce que cela peut représenter\", insiste Michel Callot. Michel Callot, rappelant la prouesse du cycliste tricolore lors du Tour de France 2019.",
@@ -241,66 +301,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "b65517bea02a"
-    },
-    {
-      "title": "La réouverture partielle de la forêt de Fontainebleau \"va faire du bien à notre économie locale\", se réjouit le maire, Julien Gondard",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/la-reouverture-partielle-de-la-foret-de-fontainebleau-va-faire-du-bien-a-notre-economie-locale-se-rejouit-le-maire-julien-gondard_8156720.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le secteur boisé consacré à l'escalade rouvre également samedi, une bonne nouvelle pour les grimpeurs qui représentent \"à peu près chaque année un peu moins de 20 millions d'euros de retombées économiques\", précise JulienGondard.",
-      "image": "https://www.franceinfo.fr/pictures/6NXRyaqXcsKTyL5HVvM9BsvgQn8/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f236da27a8348696039.jpg",
-      "published_at": "2026-08-21T21:08:40+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "048cc87cf378"
-    },
-    {
-      "title": "Tennis : après l’annonce du retour de Carlos Alcaraz à l’US Open, Jannik Sinner déclare forfait",
-      "url": "https://www.liberation.fr/sports/tennis/tennis-carlos-alcaraz-annonce-son-retour-a-la-competition-pour-lus-open-20260820_5PQTFD7YBBEEHGZGI5KKAPJU5Q/",
-      "summary": "L’Italien, numéro 1 mondial a fait savoir ce vendredi faire l’impasse sur le dernier tournoi du Grand chelem de la saison. A l’inverse, Carlos Alcaraz avait annoncé jeudi son grand retour à la compétition après quatre mois hors des terrains.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-21T19:07:35+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "fb1e51b08df4"
-    },
-    {
-      "title": "Salle de bal de la Maison Blanche : la Cour suprême américaine autorise temporairement la reprise des travaux",
-      "url": "https://www.lemonde.fr/international/article/2026/08/21/salle-de-bal-de-la-maison-blanche-la-cour-supreme-americaine-autorise-temporairement-la-reprise-des-travaux_6752286_3210.html",
-      "summary": "La haute cour, saisie la semaine dernière par l’administration Trump, a bloqué de manière temporaire un jugement prononcé le 7 août par une cour d’appel fédérale, qui ordonnait la suspension du chantier.",
-      "image": "https://img.lemde.fr/2026/08/20/212/0/5729/2864/644/322/60/0/47b378c_ftp-1-56ixksgl4wy2-2026-08-20t164937z-811315212-rc2g2nadi6w9-rtrmadp-3-usa-trump-helipad.JPG",
-      "published_at": "2026-08-21T21:01:13+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "f6738aaa0761"
-    },
-    {
-      "title": "Des dizaines de milliers de préservatifs \"non conformes\" vendus en France ces derniers mois, les autorités recommandent des dépistages et tests de grossesse",
-      "url": "https://www.franceinfo.fr/sante/des-dizaines-de-milliers-de-preservatifs-non-conformes-vendus-en-france-ces-derniers-mois-les-autorites-recommandent-des-depistages-et-tests-de-grossesse_8156171.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'alerte concerne des préservatifs vendus en ligne mais également en pharmacie ou dans d'autres commerces.",
-      "image": "https://www.franceinfo.fr/pictures/HwK9YLL9Tcj1pIS2WP0SGoc7bl4/0x45:1024x621/432x243/filters:format(jpg):quality(50)/2026/08/21/6a882b5440362368572682.jpg",
-      "published_at": "2026-08-21T20:47:50+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "9eaf8c549002"
-    },
-    {
-      "title": "Etats-Unis : la Cour suprême autorise temporairement la poursuite des travaux de la salle de bal à la Maison Blanche",
-      "url": "https://www.liberation.fr/international/amerique/etats-unis-la-cour-supreme-autorise-temporairement-la-poursuite-des-travaux-de-la-salle-de-bal-a-la-maison-blanche-20260821_3QSMFLBSIFDM3PHHCWZD5UZ42U/",
-      "summary": "Dans leur décision rendue publique ce vendredi 21 août, les juges ont suspendu un temps une décision judiciaire qui bloquait la construction d’une vaste partie du projet si cher au président Trump.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-21T18:41:24+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "6fc4786ead73"
-    },
-    {
-      "title": "Rentrée des insoumis : Jean-Luc Mélenchon prend son clash en patience",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/rentree-des-insoumis-jean-luc-melenchon-prend-son-clash-en-patience-20260821_4ARSKWYNNJBVLBMIKXHXBMNBIY/",
-      "summary": "A huit mois de l’élection présidentielle, le chef de file LFI va-t-il arrondir les angles pour rassembler autour de lui ou conserver sa radicalité pour asseoir son socle ? Une équation de plus en plus périlleuse.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-21T18:35:02+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "4a0028290952"
     }
   ]
 }
