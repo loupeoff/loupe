@@ -1,13 +1,163 @@
 {
-  "generated_at": "2026-08-22T08:39:04.678604+00:00",
+  "generated_at": "2026-08-22T09:34:36.626027+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Territoires palestiniens : d’anciens diplomates appellent Paris et Londres à faire respecter le droit",
+      "url": "https://www.liberation.fr/international/moyen-orient/territoires-palestiniens-danciens-diplomates-appellent-paris-et-londres-a-faire-respecter-le-droit-20260822_DODBBGYUDZG5HL7G536PQUNOA4/",
+      "summary": "Dénonçant la situation humanitaire à Gaza et les violences en Cisjordanie, une centaine d’ex-ambassadeurs français et britanniques exhortent leur pays à agir, dans une tribune publiée ce samedi dans «le Monde».",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-08-22T09:27:00+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "cb48fa2414e9"
+    },
+    {
+      "title": "Mort de Sonia Bellina : ce que l'on sait de l'homme mis en examen pour l'assassinat de l'influenceuse",
+      "url": "https://www.franceinfo.fr/faits-divers/mort-de-sonia-bellina-ce-que-l-on-sait-de-l-homme-mis-en-examen-pour-l-assassinat-de-l-influenceuse_8157149.html#xtor=RSS-3-[lestitres]",
+      "summary": "Agé de 32 ans, il a déjà été condamné pour des violences conjugales. Il a reconnu \"avoir eu une relation\" avec l'influenceuse, mais a nié l'avoir tuée, selon la procureure de Nîmes.",
+      "image": "https://www.franceinfo.fr/pictures/S7ChsOUAB_gZ8VFmRf_I74IMK3k/0x135:965x678/432x243/filters:format(jpg):quality(50)/2026/08/20/6a86a5bf970e5440301750.jpg",
+      "published_at": "2026-08-22T11:21:00+02:00",
+      "source": "France Info",
+      "category": "Tech",
+      "id": "b7523958bcbd"
+    },
+    {
+      "title": "Une paillote détruite par un incendie à Sorbo-Ocagnano, deux personnes blessées",
+      "url": "https://france3-regions.franceinfo.fr/corse/une-paillote-detruite-par-un-incendie-a-sorbo-ocagnano-deux-personnes-blessees-3404884.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dans la nuit du vendredi 21 au samedi 22 août, un établissement situé sur la plage de Pinarello, sur la commune de Sorbo-Ocagnano, a été détruit par un incendie. Deux personnes ont été légèrement blessées. Une enquête a été ouverte afin de déterminer l'origine du feu.",
+      "image": "https://www.franceinfo.fr/pictures/hg8xm8BZmOoXrYD9x1mHY5_vph4/432x243/filters:format(jpg):quality(50)/2026/08/22/6a893c1ba81ec574043295.jpg",
+      "published_at": "2026-08-22T11:16:31+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "b1331dbab2b6"
+    },
+    {
+      "title": "Le Pentagone limoge les dirigeants d'un journal militaire pour \"insubordination\"",
+      "url": "https://www.franceinfo.fr/monde/usa/le-pentagone-limoge-les-dirigeants-d-un-journal-militaire-independant-pour-insubordination_8157194.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ce journal, financé en partie par le ministère de la Défense, est traditionnellement indépendant sur le plan éditorial. Le rédacteur en chef a déclaré à CBS News avoir été licencié après avoir évoqué dans une interview à la chaîne ses désaccords avec le ministère de la Défense.",
+      "image": "https://www.franceinfo.fr/pictures/_vZgFhQnsYIeeCOvxvvmmkXEiv8/0x46:1024x622/432x243/filters:format(jpg):quality(50)/2026/08/22/6a896448e6fc7278457819.jpg",
+      "published_at": "2026-08-22T11:16:24+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "c389475fc1e4"
+    },
+    {
+      "title": "Vols annulés, retardés ou déroutés.... ce que l'on sait des problèmes ce samedi à l'aéroport Marseille Provence",
+      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/vols-annules-retardes-ou-deroutes-ce-que-l-on-sait-des-problemes-ce-samedi-a-l-aeroport-marseille-provence-3404956.html#xtor=RSS-3-[lestitres]",
+      "summary": "De nombreux vols en provenance ou à destination de l'aéroport Marseille Provence, à Marignane, ont connu des problèmes ce samedi 22 août, jour de retour de vacances pour de nombreux passagers. Un logiciel météo était en panne à la tour de contrôle.",
+      "image": "https://www.franceinfo.fr/pictures/qmYmPc9rvuFWyPM_1-uIgw3kyv8/432x243/filters:format(jpg):quality(50)/2026/08/22/6a895fb082b49601325032.jpg",
+      "published_at": "2026-08-22T11:10:55+02:00",
+      "source": "France Info",
+      "category": "Tech",
+      "id": "a3a48df8067f"
+    },
+    {
+      "title": "Corse : deux blessés dans un nouvel incendie de paillote, après des incidents similaires au mois d’août",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/22/corse-deux-blesses-dans-un-nouvel-incendie-d-une-paillote-apres-des-incidents-similaires-au-mois-d-aout_6753095_3224.html",
+      "summary": "Une enquête a été ouverte pour déterminer les circonstances de ce sinistre, qui a détruit la paillote L’Osteria, sur la plage de Pinarello, en Haute-Corse, a fait savoir le procureur de Bastia. « A ce stade, aucune hypothèse n’est encore privilégiée », a-t-il dit.",
+      "image": "https://img.lemde.fr/2026/08/11/500/0/6000/3000/644/322/60/0/7f5c6f7_ftp-1-eh72jk7ekuoh-5814324-01-06.jpg",
+      "published_at": "2026-08-22T11:03:18+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "b086a493c733"
+    },
+    {
+      "title": "\"Une inspiration\", un \"patron\", et des remerciements... Les coureurs rendent hommage à Julian Alaphilippe après l'annonce de sa retraite",
+      "url": "https://www.franceinfo.fr/sports/cyclisme/julian-alaphilippe/une-inspiration-un-patron-et-des-remerciements-les-coureurs-rendent-hommage-a-julian-alaphilippe-apres-l-annonce-de-sa-retraite_8157173.html#xtor=RSS-3-[lestitres]",
+      "summary": "Julian Alaphilippe a annoncé prendre sa retraite, avec effet immédiat, vendredi, à l'âge de 34 ans et après une carrière couronnée de succès.",
+      "image": "https://www.franceinfo.fr/pictures/8dcfn-vyh0nSwTyK3gaNyL0dr9E/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/22/6a896553f1c6c929964328.jpg",
+      "published_at": "2026-08-22T11:03:18+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "997fd1d1458a"
+    },
+    {
+      "title": "Il y a une bonne astuce sur WhatsApp pour éviter d’être ajouté dans des groupes suspects",
+      "url": "https://www.numerama.com/tech/2316255-il-y-a-une-bonne-astuce-sur-whatsapp-pour-eviter-detre-ajoute-dans-des-groupes-suspects.html",
+      "summary": "Vous en avez marre d'être ajoutés à des groupes WhatsApp par de parfaits inconnus ? Entre les spams et les notifications abusives, ces invitations forcées sont un vrai fléau. Il y a un moyen simple et rapide de bloquer ces ajouts indésirables.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-22T09:02:39+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "56dd3106a4ef"
+    },
+    {
+      "title": "Climat : la nécessité d’une parole politique",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/22/climat-la-necessite-d-une-parole-politique_6753094_3232.html",
+      "summary": "Le silence des décideurs sur les conséquences de l’été caniculaire 2026 et les solutions à apporter ne peut se comprendre que comme une impuissance à agir, ou, pis, une absence de volonté de le faire. Or le décalage entre ce mutisme et la conscience éveillée des citoyens sur cette crise sera inévitablement source de colère.",
+      "image": "https://img.lemde.fr/2026/07/27/806/0/7830/3915/644/322/60/0/5299f26_ftp-1-kmd578tpzpgj-5717175-01-06.jpg",
+      "published_at": "2026-08-22T11:00:01+02:00",
+      "source": "Le Monde Politique",
+      "category": "Sport",
+      "id": "c7b5f25221fc"
+    },
+    {
+      "title": "Championnats du monde de badminton : Thom Gicquel et Delphine Delrue qualifiés pour la finale du double mixte, une première pour la France",
+      "url": "https://www.lemonde.fr/sport/article/2026/08/22/championnats-du-monde-de-badminton-thom-gicquel-et-delphine-delrue-qualifies-pour-la-finale-du-double-mixte-une-premiere-pour-la-france_6753093_3242.html",
+      "summary": "Têtes de série numéro 5, ils ont battu les Chinois Jiang Zhenbang et Wei Yaxin en trois sets, samedi. C’est la première fois que l’équipe de France parvient à se qualifier pour une finale des Mondiaux toutes catégories confondues.",
+      "image": "https://img.lemde.fr/2026/08/22/0/0/3292/1646/644/322/60/0/5a678fc_ftp-1-pnymvis80gpx-fdc4a53d85464f8e8e36168426c28b9c-0-2876517a61d84ffa80d9e0298f92a5ff.jpg",
+      "published_at": "2026-08-22T10:56:30+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "cbe5c1fc857b"
+    },
+    {
+      "title": "\"Des conditions bien plus compliquées\" : les céréaliers alsaciens inquiets du bas niveau historique du Rhin",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/des-conditions-bien-plus-compliquees-les-cerealiers-alsaciens-inquiets-du-bas-niveau-historique-du-rhin_8155397.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette sécheresse historique sur le fleuve franco-allemand a également des conséquences sur la culture céréalière. Des difficultés de transport aux quantités, les difficultés s'enchaînent pour eux.",
+      "image": "https://www.franceinfo.fr/pictures/qndF8z8in5JWCVPDIhHT-HSPyNI/0x53:512x341/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88ae640c850081450064.jpg",
+      "published_at": "2026-08-22T10:48:32+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "75c8326f360a"
+    },
+    {
+      "title": "L’échec des discussions commerciales entre Etats-Unis et Canada met à l’épreuve la stratégie de fermeté d’Ottawa",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/22/l-echec-des-discussions-commerciales-entre-etats-unis-et-canada-met-a-l-epreuve-la-strategie-de-fermete-d-ottawa_6753060_3234.html",
+      "summary": "Après l’échec des négociations, de nouveaux droits de douane américains de 50 % entrent en vigueur, samedi 22 août, sur une série de produits canadiens. Ottawa promet une riposte de même ampleur.",
+      "image": "https://img.lemde.fr/2026/08/17/166/0/4200/2100/644/322/60/0/6eea910_ftp-1-l6hsf1yvmx7g-2026-08-17t204739z-1211157575-rc2e0nar2iah-rtrmadp-3-canada-hydro.JPG",
+      "published_at": "2026-08-22T10:48:20+02:00",
+      "source": "Le Monde",
+      "category": "Culture",
+      "id": "c2495869c528"
+    },
+    {
+      "title": "Sécheresse : en Ille-et-Vilaine, la police de l’eau traque les pompages illégaux",
+      "url": "https://www.liberation.fr/societe/secheresse-en-ille-et-vilaine-la-police-de-leau-traque-les-pompages-illegaux-20260822_IYVAPFUCSJDVJMU5DT2AX43YFY/",
+      "summary": "Alors que le département vient de basculer en situation de «crise» sécheresse, les inspecteurs de l’Office français de la biodiversité (OFB) multiplient les relevés et les patrouilles.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-22T08:44:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "89ecd8afca1e"
+    },
+    {
+      "title": "Faute d’accord, le Canada subit de nouveaux droits de douane américains",
+      "url": "https://www.liberation.fr/international/amerique/faute-daccord-le-canada-subit-de-nouveaux-droits-de-douane-americains-20260822_JU7AFTWQDZHRTIA247VLQPX6QY/",
+      "summary": "Dénonçant les conditions injustes posées par Washington, le Premier ministre canadien assure qu’il imposera des taxes équivalentes, «au dollar près», aux Etats-Unis.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-22T08:39:38+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "6749fe1bad09"
+    },
+    {
+      "title": "\"La Palestine s'efface sous nos yeux\" : des ex-diplomates appellent Paris et Londres à faire respecter le droit dans les territoires palestiniens",
+      "url": "https://www.franceinfo.fr/monde/palestine/la-palestine-s-efface-sous-nos-yeux-des-ex-diplomates-appellent-paris-et-londres-a-faire-respecter-le-droit-dans-les-territoires-palestiniens_8157176.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dans une tribune publiée dans \"Le Monde\", des anciens ambassadeurs français et britanniques dénoncent la situation humanitaire à Gaza ainsi que les violences et destructions en Cisjordanie.",
+      "image": "https://www.franceinfo.fr/pictures/mch8YrvBr47XrVXzV4oiRgcxf1U/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/22/6a895fe2eb8bf407791615.jpg",
+      "published_at": "2026-08-22T10:38:38+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "d60c8b7c482b"
+    },
     {
       "title": "EN DIRECT, guerre en Ukraine : à Kryvy Rih, le bilan de l’attaque russe visant un centre commercial s’alourdit à 16 morts, les recherches continuent",
       "url": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-a-kryvy-rih-le-bilan-de-l-attaque-russe-visant-un-centre-commercial-s-alourdit-a-16-morts-les-recherches-continuent_6746952_3210.html",
       "summary": "Des drones russes ont visé vendredi un centre commercial à Kryvy Rih en Ukraine, provoquant des incendies dans les magasins et la mort de 16 personnes, tandis que plus de 120 autres ont été blessées, d’après le dernier bilan.",
       "image": "https://img.lemde.fr/2026/08/22/866/0/4314/2157/644/322/60/0/490f5c6_ftp-1-fpprkm9esvua-2026-08-22t073721z-480807614-rc2j3nauws14-rtrmadp-3-ukraine-crisis-attack-kryvyi-rih.JPG",
-      "published_at": "2026-08-22T10:31:39+02:00",
+      "published_at": "2026-08-22T10:31:33+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "7882b48f4d6e"
@@ -17,10 +167,20 @@
       "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/22/depuis-mayotte-edouard-philippe-repond-aux-critiques-de-jean-luc-melenchon-j-aimerais-qu-il-vienne-ici-et-qu-il-constate-que-la-crise-migratoire-est-pregnante_6753027_6205049.html",
       "summary": "Vendredi, l’ancien premier ministre d’Emmanuel Macron a multiplié les propositions visant à « fermer les vannes de l’immigration » dans le 101ᵉ département français.",
       "image": "https://img.lemde.fr/2026/08/21/472/0/6711/3355/644/322/60/0/9765efa_ftp-1-i3rsmxh4hhyv-5887401-01-06.jpg",
-      "published_at": "2026-08-22T10:31:33+02:00",
-      "source": "Le Monde Politique",
+      "published_at": "2026-08-22T10:31:29+02:00",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "8e13371f8eb8"
+    },
+    {
+      "title": "\"Tout le monde les écoutait... ou les subissait\" : peut-on encore parler de \"hits de l'été\", comme avant les réseaux sociaux ?",
+      "url": "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ils rythment encore nos vacances mais semblent moins nous rester en tête ces dernières années. Y'a-t-il un blues des chansons d'été ? L'émergence des plateformes et des réseaux sociaux changent petit à petit nos manières de les consommer et surtout, de les partager avec les autres.",
+      "image": "https://www.franceinfo.fr/pictures/FjUXrPw5aGIvC6CCCYxKdGFKtwQ/0x0:4000x2250/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88b864c09fe968349292.jpg",
+      "published_at": "2026-08-22T10:26:35+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "8c726b80148b"
     },
     {
       "title": "On a demandé à des touristes ce qu’ils pensaient vraiment de la cuisine à Paris : «Je ne suis pas prête pour les escargots»",
@@ -41,6 +201,16 @@
       "source": "Libération",
       "category": "Société",
       "id": "b622df1a0dc9"
+    },
+    {
+      "title": "Des plages du Calvados interdites à la baignade après les pluies orageuses",
+      "url": "https://www.franceinfo.fr/france/normandie/des-plages-du-calvados-interdites-a-la-baignade-apres-les-pluies-orageuses_8157146.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les précipitations de ces derniers jours ont entraîné ces fermetures pour des raisons préventives.",
+      "image": "https://www.franceinfo.fr/pictures/qrqgeHvuVE68Q3GJ-7VuMVE8xhc/0x83:1600x983/432x243/filters:format(jpg):quality(50)/2026/08/22/6a8959170f920697260890.jpg",
+      "published_at": "2026-08-22T10:11:24+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "3b1d15f53cdc"
     },
     {
       "title": "Présidentielle 2027 : Sandrine Rousseau prône \"une alliance\" des écologistes avec LFI",
@@ -83,6 +253,16 @@
       "id": "050e15a089eb"
     },
     {
+      "title": "Après le rappel de préservatifs défectueux, des utilisateurs potentiels et des pharmaciens insistent sur la vigilance nécessaire, \"même avec la norme CE\"",
+      "url": "https://www.franceinfo.fr/sante/temoignages-apres-le-rappel-de-preservatifs-defectueux-des-utilisateurs-potentiels-et-des-pharmaciens-insistent-sur-la-vigilance-necessaire-meme-avec-la-norme-ce_8157089.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les autorités recommandent d'effectuer des dépistages et des tests de grossesse alors que des dizaines de milliers de préservatifs \"non conformes\" ont été vendus en France ces derniers mois.",
+      "image": "https://www.franceinfo.fr/pictures/col1ulQG45bUVo8AEW1wZn_MOYw/0x278:2650x1769/432x243/filters:format(jpg):quality(50)/2026/08/22/6a89520e79ba8992522712.jpg",
+      "published_at": "2026-08-22T09:45:43+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "f1fce1723565"
+    },
+    {
       "title": "\"C'est l'été qui a montré l'urgence\" : les écologistes entendent porter l'enjeu climatique pendant la campagne présidentielle",
       "url": "https://www.franceinfo.fr/politique/eelv/reportage-c-est-le-moment-de-faire-valoir-nos-propositions-face-aux-chaleurs-records-et-aux-incendies-les-ecologistes-entendent-porter-l-enjeu-de-l-urgence-climatique-pendant-la-campagne-presidentielle_8156030.html#xtor=RSS-3-[lestitres]",
       "summary": "En invitant samedi l'intersyndicale des pompiers à leurs Journées d'été, les écologistes veulent mettre la pression sur le gouvernement dès la rentrée autour des sujets environnementaux.",
@@ -113,194 +293,14 @@
       "id": "73af4e1c7074"
     },
     {
-      "title": "En Ukraine, une frappe russe sur un centre commercial fait au moins 16 morts et 130 blessés dans le centre du pays",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-une-frappe-russe-sur-un-centre-commercial-fait-au-moins-six-morts-et-91-blesses-dans-le-centre-du-pays_8156576.html#xtor=RSS-3-[lestitres]",
-      "summary": "Quatre personnes, dont trois enfants, sont également mortes dans une frappe russe dans la région de Mykolaïv.",
-      "image": "https://www.franceinfo.fr/pictures/eWoZ31vLHBPEBw0VYm9WsQYjcfI/0x105:1024x681/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88757324059782706357.jpg",
-      "published_at": "2026-08-22T09:07:08+02:00",
+      "title": "\"On fera du vin mais moins qu'on espérait\" : pour les vignerons des Corbières, la double peine de la sécheresse et de l'incendie dévastateur",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/aude/on-fera-du-vin-mais-moins-qu-on-esperait-pour-les-vignerons-des-corbieres-la-double-peine-de-la-secheresse-et-de-l-incendie-devastateur-3404002.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dans l'Aude, les vignerons des Corbières font face à des récoltes désastreuses, conséquence d'une sécheresse historique et de l'incendie qui a ravagé leurs vignes en août 2025. Face à des rendements en chute libre, ils appellent à des mesures urgentes pour gérer l'eau et sauver leur agriculture.",
+      "image": "https://www.franceinfo.fr/pictures/drMqetPibjIsqfGCGiq9lmkSqQY/432x243/filters:format(jpg):quality(50)/2026/08/22/6a89318a5b438578129413.jpg",
+      "published_at": "2026-08-22T09:19:46+02:00",
       "source": "France Info",
-      "category": "International",
-      "id": "912f4e0f49a6"
-    },
-    {
-      "title": "La forêt de Fontainebleau, en partie ravagée en juillet par le feu, rouvre partiellement au public samedi",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/22/la-foret-de-fontainebleau-en-partie-ravagee-en-juillet-par-le-feu-rouvre-partiellement-au-public-samedi_6752287_3245.html",
-      "summary": "« Quatre-vingt pour cent du massif pourra être rouvert et accessible au public en sécurité », a affirmé le préfet délégué pour l’égalité des chances, en précisant qu’une zone de la forêt resterait pour le moment interdite d’accès.",
-      "image": "https://img.lemde.fr/2026/08/20/694/0/6912/3456/644/322/60/0/2dcc1a0_ftp-1-6jsixz2py83e-5880981-01-06.jpg",
-      "published_at": "2026-08-22T09:04:17+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "31127f32deda"
-    },
-    {
-      "title": "Guerre en Ukraine : une attaque russe sur un centre commercial en plein jour fait au moins 16 morts et 130 blessés",
-      "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-une-attaque-russe-sur-un-centre-commercial-en-plein-jour-fait-au-moins-18-morts-et-120-blesses-20260821_UDZX4F6HFBFDTBJ5NC4EAFDN7U/",
-      "summary": "Le bilan des frappes de drones lancés vendredi contre Kryvyï Rig, la ville natale de Volodymyr Zelensky, au centre du pays, risque d’évoluer. Le président ukrainien a dénoncé une attaque «cynique et ignoble».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-22T07:03:57+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "50746ef66edf"
-    },
-    {
-      "title": "Un mort et trois blessés après une attaque à l’épée dans un lycée de Suède",
-      "url": "https://www.liberation.fr/international/europe/plusieurs-blesses-apres-une-attaque-a-larme-blanche-dans-un-lycee-de-suede-20260821_BWV2XQ6RABGFXCR7X3XSRCXWNI/",
-      "summary": "L’assaillant a été arrêté par la police et est en détention. A ce stade, le mobile n’est pas connu.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-22T07:02:36+00:00",
-      "source": "Libération",
       "category": "Société",
-      "id": "1ab9dcd5fc69"
-    },
-    {
-      "title": "Jean-Michel Roussier, président du Havre AC : «Un club de foot n’a pas vocation à vivre du mécénat»",
-      "url": "https://www.liberation.fr/sports/football/jean-michel-roussier-president-du-havre-ac-un-club-de-foot-na-pas-vocation-a-vivre-du-mecenat-20260822_A4TF5LC6OZBTHCCSAMQ5L635KY/",
-      "summary": "Le dirigeant du club normand, qui attaque une quatrième saison consécutive en Ligue 1 ce week-end, décrit les équilibres économiques précaires du championnat, amputé d’une bonne partie de ses droits télé.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-22T07:02:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "c01dc5c6e7bc"
-    },
-    {
-      "title": "Amine le Conquérant, guide décapant des châteaux de France",
-      "url": "https://www.lemonde.fr/m-le-mag/article/2026/08/22/amine-le-conquerant-guide-decapant-des-chateaux-de-france_6752928_4500055.html",
-      "summary": "Avec son drone, son franc-parler et ses punchlines, le créateur de contenu Amine Kassid, dit « Amine le Conquérant », revigore la vulgarisation historique en partageant ses visites sur les réseaux sociaux. Un succès qui lui vaut aussi d’être victime de cyberharcèlement raciste. Face à ce déferlement de haine, de nombreuses personnalités le soutiennent, parmi lesquelles Stéphane Bern.",
-      "image": "https://img.lemde.fr/2026/08/14/469/0/1125/562/644/322/60/0/e565f79_ftp-1-yqna5uyctbjc-438700-3488354.jpg",
-      "published_at": "2026-08-22T09:00:02+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "16ae1bf46a93"
-    },
-    {
-      "title": "\"J'ai l'impression qu'on peut y arriver\" : aux universités d'été de LFI, les militants confiants pour 2027",
-      "url": "https://www.franceinfo.fr/politique/la-france-insoumise/reportage-j-ai-l-impression-qu-on-peut-y-arriver-aux-universites-d-ete-de-lfi-les-militants-confiants-pour-2027_8157035.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les Amfis se tiennent ce week-end et marquent la rentrée politique de Jean-Luc Mélenchon. Le leader insoumis prononcera un discours dimanche.",
-      "image": "https://www.franceinfo.fr/pictures/y0-zUWIsYXL5P_OE7PaiDst5cOA/0x410:4800x3110/432x243/filters:format(jpg):quality(50)/2026/08/22/6a893567e911d608110665.jpg",
-      "published_at": "2026-08-22T08:55:05+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "4abec91df1ab"
-    },
-    {
-      "title": "\"C'est un peu notre jardin\" : à peine un mois après l'incendie, la forêt de Fontainebleau rouvre partiellement au public",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/reportage-c-est-un-peu-notre-jardin-a-peine-un-mois-apres-l-incendie-la-foret-de-fontainebleau-rouvre-partiellement-au-public_8154119.html#xtor=RSS-3-[lestitres]",
-      "summary": "La préfecture de Seine-et-Marne a choisi de rouvrir 18 000 hectares de cet espace boisé, où promeneurs se mêlent aux joggeurs.",
-      "image": "https://www.franceinfo.fr/pictures/I3AkH-6GohzRZW7IDAgG0AqsJWc/0x0:2500x1406/432x243/filters:format(jpg):quality(50)/2026/08/22/6a89453b94d3c152331942.jpg",
-      "published_at": "2026-08-22T08:48:47+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "38329db6c567"
-    },
-    {
-      "title": "En Guinée, le retour de vacances de Mamadi Doumbouya ne suffit pas à faire taire les doutes sur sa capacité à tenir le pouvoir",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/22/en-guinee-le-retour-de-vacances-de-mamadi-doumbouya-ne-suffit-pas-a-faire-taire-les-doutes-sur-sa-capacite-a-tenir-le-pouvoir_6752895_3212.html",
-      "summary": "Le départ en congés du président guinéen, début août, s’est accompagné de mystérieuses assurances de l’armée quant à sa loyauté. L’institution est actuellement traversée par des tensions.",
-      "image": "https://img.lemde.fr/2026/08/21/213/0/4000/2000/644/322/60/0/21e7471_upload-1-omieoobcxfap-000-97hw4mq.jpg",
-      "published_at": "2026-08-22T08:30:09+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "5b8d5c210095"
-    },
-    {
-      "title": "Etats-Unis : la Cour suprême autorise temporairement la poursuite des travaux de la salle de bal à la Maison Blanche",
-      "url": "https://www.liberation.fr/international/amerique/etats-unis-la-cour-supreme-autorise-temporairement-la-poursuite-des-travaux-de-la-salle-de-bal-a-la-maison-blanche-20260821_3QSMFLBSIFDM3PHHCWZD5UZ42U/",
-      "summary": "Dans leur décision rendue publique ce vendredi 21 août, les juges ont suspendu un temps une décision judiciaire qui bloquait la construction d’une vaste partie du projet si cher au président Trump.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-22T06:29:27+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "6fc4786ead73"
-    },
-    {
-      "title": "Disparitions en série de chats à Taulé, en Bretagne : miaou sont-ils passés ?",
-      "url": "https://www.liberation.fr/societe/police-justice/disparitions-en-serie-de-chats-a-taule-en-bretagne-miaou-sont-ils-passes-20260822_RJQXWJTRWVF2ZJARQMVONWHNLI/",
-      "summary": "«Libération» s’est rendu sur la trace d’une dizaine de félins mystérieusement disparus dans le village du Finistère de 3 000 habitants, où plusieurs plaintes ont été déposées. Il y a treize ans, plus de 20 chats s’étaient déjà évaporés dans les mêmes circonstances.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-22T06:22:56+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "a8c36abf4fbb"
-    },
-    {
-      "title": "Au moins deux morts à la suite de frappes russes en Ukraine, la ville de Kiev touchée",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-deux-morts-a-la-suite-de-frappes-russes-en-ukraine-la-ville-de-kiev-touchee_8157083.html#xtor=RSS-3-[lestitres]",
-      "summary": "Ces frappes dans la nuit de vendredi à samedi font suite à une attaque meurtrière sur un centre commercial du centre du pays, qui a fait 16 morts.",
-      "image": "https://www.franceinfo.fr/pictures/oz0Se6oPZk1sUItWrkJ829H8WF0/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/22/6a893e7bd7983935999741.jpg",
-      "published_at": "2026-08-22T08:18:56+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "d618b90eb6b6"
-    },
-    {
-      "title": "Lancé à 1 799 €, le premier robot aspirateur avec un bras articulé chute à 719 €",
-      "url": "https://www.numerama.com/tech/2315867-lance-a-1-799-e-le-premier-robot-aspirateur-avec-un-bras-articule-chute-a-719-e.html",
-      "summary": "[Deal du jour] Le Roborock Saros Z70, premier robot aspirateur grand public équipé d'un bras articulé pour ramasser vos chaussettes, est désormais bien plus accessible.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-22T06:03:00+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "028c0e369859"
-    },
-    {
-      "title": "Vuelta 2026 : Tadej Pogacar pour compléter la trilogie des grands tours, les Français en embuscade",
-      "url": "https://www.lemonde.fr/sport/article/2026/08/22/vuelta-2026-tadej-pogacar-pour-completer-la-trilogie-des-grands-tours-les-francais-en-embuscade_6752829_3242.html",
-      "summary": "Le peloton va s’élancer pour trois semaines de course, samedi, à l’occasion du Tour d’Espagne. Tadej Pogacar, présent moins d’un mois après sa victoire sur la Grande Boucle, part à la conquête du seul grand tour qui manque à son palmarès.",
-      "image": "https://img.lemde.fr/2026/07/26/626/0/5334/2667/644/322/60/0/fae0287_ftp-1-tq62oz91pn4r-9b11debbe9364ceeaf94dbadd083caed-0-c9147c542a2b4e6e95f68576ef686f02.jpg",
-      "published_at": "2026-08-22T08:00:05+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "dfa761c0c58a"
-    },
-    {
-      "title": "De nouveaux droits de douane américains visant le Canada entrent en vigueur après l'échec d'ultimes négociations",
-      "url": "https://www.franceinfo.fr/monde/usa/droits-de-douane/de-nouveaux-droits-de-douane-americains-visant-le-canada-entrent-en-vigueur-apres-l-echec-d-ultimes-negociations_8157080.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Canada a promis de répliquer \"au dollar près\" à ces taxes de 50% voulus par Donald Trump contre plusieurs produits, dont le ciment ou les crosses de hockey.",
-      "image": "https://www.franceinfo.fr/pictures/oiu_x7l-vqECafjcSun1zEYIGxQ/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/22/6a893986e6dcd805211096.jpg",
-      "published_at": "2026-08-22T07:55:05+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "1250a28d62e5"
-    },
-    {
-      "title": "A Pittsfield, dans le Massachusetts, comment l’Amérique déclassée résiste à Donald Trump",
-      "url": "https://www.liberation.fr/international/amerique/a-pittsfield-dans-le-massachusetts-comment-lamerique-declassee-resiste-a-donald-trump-20260822_CBUVWRV4LBHVNDP37HAWQ6AJ4Q/",
-      "summary": "Dans cet ancien fief du géant américain General Electric, la désindustrialisation a laissé place au chômage et à la pauvreté. Malgré ce traumatisme, la cité de Nouvelle-Angleterre reste solidement démocrate.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-22T05:53:00+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "1da765c16889"
-    },
-    {
-      "title": "Au Caire, la longue restauration d’un mausolée soufi : « Ce type de projets ne doivent pas s’adresser aux seuls touristes »",
-      "url": "https://www.lemonde.fr/m-le-mag/article/2026/08/22/au-caire-la-longue-restauration-d-un-mausolee-soufi-ce-type-de-projets-ne-doivent-pas-s-adresser-aux-seuls-touristes_6752796_4500055.html",
-      "summary": "Depuis cinq ans, au Caire, l’ONG américaine World Monuments Fund s’emploie à faire renaître de ses ruines un complexe religieux du XVIᵉ siècle édifié par le maître soufi Ibrahim Al-Gulshani. Cette restauration vise aussi à redynamiser ce quartier médiéval méconnu de la capitale égyptienne et à y attirer davantage de touristes.",
-      "image": "https://img.lemde.fr/2026/08/12/725/0/1000/500/644/322/60/0/d074140_ftp-1-ngazcvpk9p4l-438477-3490450.jpg",
-      "published_at": "2026-08-22T07:30:06+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "f13f8029fbc2"
-    },
-    {
-      "title": "Au Muséum national d’histoire naturelle, le règne de la débrouille un an après une cyberattaque",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/22/au-museum-national-d-histoire-naturelle-le-regne-de-la-debrouille-un-an-apres-une-cyberattaque_6752795_4408996.html",
-      "summary": "L’attaque du 28 juillet 2025 a mis à l’arrêt les systèmes numériques du Muséum. Un an plus tard, l’institution en subit toujours les conséquences. Aucune information scientifique n’a été perdue, mais des bases de données restent inaccessibles.",
-      "image": "https://img.lemde.fr/2026/08/21/0/0/8192/4096/644/322/60/0/866535f_upload-1-s7122ntme6my-000-82qk9kf.jpg",
-      "published_at": "2026-08-22T07:30:01+02:00",
-      "source": "Le Monde",
-      "category": "Tech",
-      "id": "e27c427629fd"
-    },
-    {
-      "title": "Fuites de GTA 6 et cartes Pokémon 30ᵉ anniversaire, le recap Pop Culture de la semaine",
-      "url": "https://www.numerama.com/tech/2316177-fuites-de-gta-6-et-cartes-pokemon-30%e1%b5%89-anniversaire-le-recap-pop-culture-de-la-semaine.html",
-      "summary": "Pour ne rien manquer de l’actualité, suivez Numerama sur Google !",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-22T05:30:00+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "cb25c0435809"
+      "id": "741f3ef8d2bc"
     }
   ]
 }
