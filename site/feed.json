@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-08-22T19:28:09.155366+00:00",
+  "generated_at": "2026-08-22T20:31:52.985796+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Stations balnéaires : les consommateurs de drogue traqués par les gendarmes",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/stations-balneaires-les-consommateurs-de-drogue-traques-par-les-gendarmes_8157704.html#xtor=RSS-3-[lestitres]",
+      "summary": "Pendant les vacances, les gendarmes continuent de traquer les stupéfiants, alors que les saisies ont bondi de 25,9% depuis le début 2026. Les patrouilles se multiplient dans les stations balnéaires. Exemple à Deauville, dans le Calvados.",
+      "image": "https://www.franceinfo.fr/pictures/kxXnpTv_WRMqOmITyMqB_IuOLFE/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/22/6a89f148eb1d5045912858.jpg",
+      "published_at": "2026-08-22T22:22:28+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "03c902dd22ae"
+    },
+    {
+      "title": "\"Entre 10 à 30% de chance d'acheter un mauvais médicament\" : les dangers des produits de santé vendus sur internet",
+      "url": "https://www.franceinfo.fr/sante/entre-10-a-30-de-chance-d-acheter-un-mauvais-medicament-les-dangers-des-produits-de-sante-vendus-sur-internet_8157665.html#xtor=RSS-3-[lestitres]",
+      "summary": "Plus de 40 000 préservatifs vendus en France au cours des derniers mois, pour la plupart sur internet, se sont révélés non conformes et potentiellement défectueux. Peut-on acheter des produits de santé en ligne sans risque ? Enquête.",
+      "image": "https://www.franceinfo.fr/pictures/SN6OhZ_BsBYoMUMP1SG3de_Uj14/0x143:1666x1081/432x243/filters:format(jpg):quality(50)/2026/08/22/6a89eafb45079902802996.png",
+      "published_at": "2026-08-22T22:19:07+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "1837cab84848"
+    },
+    {
+      "title": "Une voiture percutée par un éboulement dans les Hautes-Alpes, deux blessés graves",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/leur-voiture-est-percutee-par-un-eboulement-et-finit-sa-course-dans-la-riviere-deux-blesses-graves-dans-les-hautes-alpes_8157659.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dans les Hautes-Alpes, une voiture qui circulait sur une départementale a été percutée par un bloc de pierre qui s’est détaché de la montagne, vendredi 21 août. Le véhicule a fini sa course dans la rivière. Les deux occupants ont été grièvement blessés.",
+      "image": "https://www.franceinfo.fr/pictures/mKp70PwGqmwcIE3jyAiwsoWOoPg/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/22/6a89e66b46b69853372201.jpg",
+      "published_at": "2026-08-22T22:12:21+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "b87f32d7b104"
+    },
+    {
+      "title": "Présidentielle 2027 : Edouard Philippe presse la droite et le centre de s’unir avant février",
+      "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/22/presidentielle-2027-edouard-philippe-presse-la-droite-et-le-centre-de-s-unir-avant-fevrier_6753612_6205049.html",
+      "summary": "Pour le maire du Havre, actuellement en déplacement de campagne à Mayotte et La Réunion, ce rassemblement est indispensable, pour contrer les candidatures de Marine Le Pen et Jean-Luc Mélenchon déjà solidement établies.",
+      "image": "https://img.lemde.fr/2026/08/22/566/0/6794/3397/644/322/60/0/372d257_ftp-1-k7d1rgoij3ii-5894761-01-06.jpg",
+      "published_at": "2026-08-22T21:41:12+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "26738ebc0133"
+    },
+    {
+      "title": "Arthur Fils écarte Flavio Cobolli et jouera la première finale de Masters 1000 de sa carrière à Cincinnati",
+      "url": "https://www.franceinfo.fr/sports/tennis/arthur-fils/arthur-fils-ecarte-flavio-cobolli-et-jouera-la-premiere-finale-de-masters-1000-de-sa-carriere-a-cincinnati_8157710.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le joueur de tennis français s'est défait facilement, samedi, de l'Italien. Le 21e mondial revient en pleine forme après ses forfaits à l'Open d'Australie et à Roland-Garros cette saison et après une longue pause pour soigner son dos.",
+      "image": "https://www.franceinfo.fr/pictures/6EL6I7DXE0yBVFMzaE6iQjWbj6Q/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/22/6a89f4a2353b3632264449.jpg",
+      "published_at": "2026-08-22T21:39:35+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "cd3c044d01c0"
+    },
     {
       "title": "A Toulouse, les communistes tracent leur route et préparent l’entrée en scène de Fabien Roussel",
       "url": "https://www.liberation.fr/politique/elections/a-toulouse-les-communistes-tracent-leur-route-et-preparent-lentree-en-scene-de-fabien-roussel-20260823_HEIITVFO4NGZBGVKCE62REB3LE/",
@@ -71,26 +121,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "1a4497b4a610"
-    },
-    {
-      "title": "\"Entre 10 à 30% de chance d'acheter un mauvais médicament\" : les dangers des produits de santé vendus sur internet",
-      "url": "https://www.franceinfo.fr/sante/entre-10-a-30-de-chance-d-acheter-un-mauvais-medicament-les-dangers-des-produits-de-sante-vendus-sur-internet_8157665.html#xtor=RSS-3-[lestitres]",
-      "summary": "Plus de 40 000 préservatifs vendus en France au cours des derniers mois, pour la plupart sur internet, se sont révélés non conformes et potentiellement défectueux. Peut-on acheter des produits de santé en ligne sans risque ? Enquête.",
-      "image": "https://www.franceinfo.fr/pictures/SN6OhZ_BsBYoMUMP1SG3de_Uj14/0x143:1666x1081/432x243/filters:format(jpg):quality(50)/2026/08/22/6a89eafb45079902802996.png",
-      "published_at": "2026-08-22T20:32:37+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "1837cab84848"
-    },
-    {
-      "title": "Une voiture percutée par un éboulement dans les Hautes-Alpes, deux blessés graves",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/leur-voiture-est-percutee-par-un-eboulement-et-finit-sa-course-dans-la-riviere-deux-blesses-graves-dans-les-hautes-alpes_8157659.html#xtor=RSS-3-[lestitres]",
-      "summary": "Dans les Hautes-Alpes, une voiture qui circulait sur une départementale a été percutée par un bloc de pierre qui s’est détaché de la montagne. Le véhicule a fini sa course dans la rivière ce vendredi 21 août. Les deux occupants ont été grièvement blessés.",
-      "image": "https://www.franceinfo.fr/pictures/mKp70PwGqmwcIE3jyAiwsoWOoPg/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/22/6a89e66b46b69853372201.jpg",
-      "published_at": "2026-08-22T20:24:48+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "b87f32d7b104"
     },
     {
       "title": "Un mort et neuf blessés dans un accident dans les vignes du Beaujolais",
@@ -223,6 +253,16 @@
       "id": "6749fe1bad09"
     },
     {
+      "title": "Quand, en 2018, Banksy vend son œuvre à la découpe",
+      "url": "https://www.lemonde.fr/culture/article/2026/08/22/quand-en-2018-banksy-vend-son-uvre-a-la-decoupe_6753509_3246.html",
+      "summary": "« Autodestructions artistiques » (6/6). A l’occasion d’enchères à Londres, la figure de proue du street art a déchiqueté sa toile à distance, sous les yeux des acheteurs ébahis. Un pied de nez au marché de l’art qui a démultiplié la valeur de la toile.",
+      "image": "https://img.lemde.fr/2026/06/11/800/0/4800/2400/644/322/60/0/dddbc2d_upload-1-3szcbr0uxl2m-020-1051962982.jpg",
+      "published_at": "2026-08-22T19:00:04+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "fb3700f084de"
+    },
+    {
       "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine assume l’intensification des frappes contre Kiev, qu’il accuse d’avoir ouvert la « boîte de Pandore », et promet des attaques « beaucoup plus destructrices »",
       "url": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-vladimir-poutine-assume-l-intensification-des-frappes-contre-kiev-qu-il-accuse-d-avoir-ouvert-la-boite-de-pandore-et-promet-des-attaques-beaucoup-plus-destructrices_6746952_3210.html",
       "summary": "Le président russe a directement lié, samedi, l’augmentation de la puissance et du nombre des frappes russes aux attaques ukrainiennes contre des infrastructures économiques et logistiques en Russie.",
@@ -261,46 +301,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "be4589fbf637"
-    },
-    {
-      "title": "Journalistes français détenus au Togo : Lomé affirme disposer d’« indices graves et concordants » à leur encontre",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/22/journalistes-francais-detenus-au-togo-lome-affirme-disposer-d-indices-graves-et-concordants-a-leur-encontre_6753474_3212.html",
-      "summary": "Arrêtés à la fin de juillet alors qu’ils tournaient un documentaire dans le nord du pays, les deux réalisateurs français sont poursuivis pour de supposées fausses déclarations liées à leur visa.",
-      "image": "https://img.lemde.fr/2026/08/22/427/0/3888/1944/644/322/60/0/9b6d539_upload-1-qrpbdjbejxvq-000-328q8el.jpg",
-      "published_at": "2026-08-22T18:11:45+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "d7d179aafbfd"
-    },
-    {
-      "title": "En Espagne, de violentes pluies font au moins onze blessés dans le nord-est du pays",
-      "url": "https://www.lemonde.fr/international/article/2026/08/22/en-espagne-de-violentes-pluies-font-au-moins-onze-blesses-dans-le-nord-est-du-pays_6753295_3211.html",
-      "summary": "Certaines zones de la région de Catalogne ont enregistré plus de 100 litres de pluie par mètre carré dans la nuit de vendredi à samedi, selon le service météorologique local.",
-      "image": "https://img.lemde.fr/2026/08/22/412/0/4096/2048/644/322/60/0/5855bdc_upload-1-e6xh2m5u4cud-epalivenine281598.jpg",
-      "published_at": "2026-08-22T18:11:16+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "1db6d8e69dca"
-    },
-    {
-      "title": "\"Nous sommes présents dans tous les ministères\" : pour la première fois, un membre du réseau de hauts fonctionnaires qui œuvrent en secret pour LFI témoigne",
-      "url": "https://www.franceinfo.fr/politique/la-france-insoumise/exclusif-nous-sommes-presents-dans-tous-les-ministeres-pour-la-premiere-fois-un-membre-du-reseau-de-hauts-fonctionnaires-qui-travaillent-en-secret-pour-lfi-temoigne_8157518.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un responsable du réseau des Phrygiens décrit, anonymement, leur organisation et leur travail dans les coulisses de la campagne de Jean-Luc Mélenchon.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-22T18:09:55+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "0e20d7d25d79"
-    },
-    {
-      "title": "« Mes collègues ont même fait un discours d’hommage en mon absence » : le pot de départ fantôme de Catherine, prof de lettres",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/22/mes-collegues-ont-meme-fait-un-discours-d-hommage-en-mon-absence-le-pot-de-depart-fantome-de-catherine-prof-de-lettres_6753472_3451060.html",
-      "summary": "« Bon vent ! » (18/18). Catherine Debaussart, 68 ans, a organisé des pots de départ pour les autres toute sa vie. Mais cette ancienne enseignante en collège avait prévenu : elle n’irait pas au sien !",
-      "image": "https://img.lemde.fr/2026/06/25/125/0/1500/750/644/322/60/0/587550e_upload-1-hdkmqynby47t-ftanet-lemonde-potdedepart-ho-13.jpg",
-      "published_at": "2026-08-22T18:00:10+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "b70b02b22b27"
     }
   ]
 }
