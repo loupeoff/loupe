@@ -1,19 +1,79 @@
 {
-  "generated_at": "2026-08-23T18:39:57.179609+00:00",
+  "generated_at": "2026-08-23T19:27:29.990944+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Présidentielle 2027 : le cofondateur de Place Publique, Raphaël Glucksmann, annonce être candidat \"pour relever la France\"",
+      "title": "Présidentielle : Raphaël Glucksmann est bel et bien candidat",
+      "url": "https://www.liberation.fr/politique/elections/presidentielle-raphael-glucksmann-est-bel-et-bien-candidat-20260823_V7X7J7ANVJERPODYUI6LSLQOSI/",
+      "summary": "Trois mois après son premier passage au 20 heures de TF1, le député européen a confirmé, ce dimanche, qu’il se lançait dans la course à l’Elysée. Un chemin périlleux, avec pour première étape la primaire organisée par le Parti socialiste.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-23T19:21:14+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "9517afa4664e"
+    },
+    {
+      "title": "Raphaël Glucksmann en campagne pour 2027 : ce n’est pas le tout d’être candidat",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/raphael-glucksmann-en-campagne-pour-2027-ce-nest-pas-le-tout-detre-candidat-20260823_RIVXGSGFNZA3XHVH6JZVX2SHXM/",
+      "summary": "Officiellement déclaré ce dimanche 23 août, le leader de Place publique, face à un Mélenchon préparé, a encore tout à construire, de ses soutiens à son programme, pour réussir sa course à la présidence.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-23T19:14:42+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "8165cbb729f7"
+    },
+    {
+      "title": "Présidentielle 2027 : le cofondateur de Place publique, Raphaël Glucksmann, annonce être candidat \"pour relever la France\"",
       "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-edouard-philippe-envisage-un-rassemblement-de-la-droite-et-du-centre-entre-novembre-et-fevrier_8158088.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Je me prépare depuis des mois\", a assuré l'eurodéputé au \"20 Heures\" de TF1.",
-      "image": "https://www.franceinfo.fr/pictures/kG0i4b-n8ZyF6ZkVMDLerKCLlZ8/0x5:1024x581/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b35be18bfd880823059.jpg",
-      "published_at": "2026-08-23T20:35:36+02:00",
+      "summary": "\"Je me prépare depuis des mois\", a assuré l'eurodéputé au \"20 Heures\" de TF1, martelant qu'il était candidat \"pour gagner\".",
+      "image": "https://www.franceinfo.fr/pictures/rCb6Q4BqePI05q-HC8azm2pX6A0/0x0:7164x4029/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b3e682c1a5303146964.jpg",
+      "published_at": "2026-08-23T21:03:07+02:00",
       "source": "France Info",
       "category": "Politique",
       "id": "421cd052f73e"
     },
     {
-      "title": "Raphaël Glucksmann annonce être candidat à l’élection présidentielle",
+      "title": "En Chine, des humanoïdes battent des records sportifs humains aux World Robot Games",
+      "url": "https://www.franceinfo.fr/sports/en-chine-des-humanoides-battent-des-records-sportifs-humains-aux-world-robot-games_8158808.html#xtor=RSS-3-[lestitres]",
+      "summary": "Lors de la cérémonie d'ouverture, samedi, un robot chinois a notamment battu le record du 100 mètres de la légende jamaïcaine Usain Bolt.",
+      "image": "https://www.franceinfo.fr/pictures/Rh6mDt4ewXgt2JhZJle81WCYYHY/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b434c4837d734243008.jpg",
+      "published_at": "2026-08-23T21:01:55+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "0879bc5f623a"
+    },
+    {
+      "title": "Léa Salamé se retire du « 20 heures » de France 2 après la déclaration officielle de candidature de Raphaël Glucksmann",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/23/lea-salame-se-retire-du-20-heures-de-france-2-apres-la-declaration-officielle-de-candidature-de-raphael-glucksmann_6754541_3234.html",
+      "summary": "Conformément à l’engagement pris dès son arrivée au JT de France Télévisions en 2025, la journaliste tire les conséquences de l’officialisation de la candidature de son compagnon à la présidentielle, et renonce à présenter le rendez-vous phare de l’information de service public.",
+      "image": "https://img.lemde.fr/2025/09/04/0/0/6192/3096/644/322/60/0/e563e99_ftp-import-images-1-8focqheoah7s-5795318-01-06.jpg",
+      "published_at": "2026-08-23T20:55:44+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "e4d344c5d58e"
+    },
+    {
+      "title": "La ministre déléguée à la Formation professionnelle appelle les entreprises à embaucher des apprentis",
+      "url": "https://www.franceinfo.fr/economie/entreprises/la-ministre-deleguee-a-la-formation-professionnelle-appelle-les-entreprises-a-embaucher-des-apprentis_8158805.html#xtor=RSS-3-[lestitres]",
+      "summary": "Sabrina Roubache reconnaît une baisse des aides publiques aux entreprises qui embauchent des apprentis, mais \"il n'y aura pas de coupe supplémentaire\", promet-elle dans \"Le Parisien\".",
+      "image": "https://www.franceinfo.fr/pictures/E4D7eh-MFc1GY_RDto2wa5H65jw/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b4033049f6295881243.jpg",
+      "published_at": "2026-08-23T20:47:59+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "fca15fed5ccc"
+    },
+    {
+      "title": "Entre Glucksmann et Mélenchon, l’avantage reviendra au plus ambitieux sur l’écologie",
+      "url": "https://www.liberation.fr/politique/entre-glucksmann-et-melenchon-lavantage-reviendra-au-plus-ambitieux-sur-lecologie-20260823_HYEV3HZKLRC6TJTOR6OOQFCJDU/",
+      "summary": "La canicule et les incendies exceptionnels de l’été ont replacé le réchauffement climatique au centre des préoccupations des Français. L’eurodéputé et l’insoumis en ont parfaitement conscience. Celui qui portera un projet crédible sur le sujet en tirera profit.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-23T18:43:23+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "a1c646f43070"
+    },
+    {
+      "title": "Raphaël Glucksmann annonce être candidat à l’élection présidentielle dans le cadre de la primaire organisée avec le Parti socialiste",
       "url": "https://www.lemonde.fr/politique/article/2026/08/23/raphael-glucksmann-annonce-etre-candidat-a-l-election-presidentielle-dans-le-cadre-de-la-primaire-organisee-avec-le-parti-socialiste_6754507_823448.html",
       "summary": "L’essayiste et fondateur de Place publique a annoncé sa candidature au journal de 20 heures, sur TF1, dimanche. En attendant de participer à une primaire organisée avec le Parti socialiste, il espère créer une dynamique dans les semaines à venir.",
       "image": "https://img.lemde.fr/2026/06/14/697/0/3149/1574/644/322/60/0/09d79b8_upload-1-nnuqzunnz2cn-mmagnin-meeting-raphael-glucksmann-82.jpg",
@@ -21,16 +81,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "575cb333ff82"
-    },
-    {
-      "title": "Présidentielle : Raphaël Glucksmann est bel et bien candidat",
-      "url": "https://www.liberation.fr/politique/elections/presidentielle-raphael-glucksmann-est-bel-et-bien-candidat-20260823_V7X7J7ANVJERPODYUI6LSLQOSI/",
-      "summary": "Trois mois après son premier passage au 20 heures de TF1, le député européen a confirmé ce dimanche qu’il se lançait dans la course à l’Elysée. Première étape : la primaire organisée par le Parti socialiste.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-23T18:31:53+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "9517afa4664e"
     },
     {
       "title": "L'état de santé du roi Harald de Norvège, âgé de 89 ans, s'est \"aggravé\"",
@@ -233,16 +283,6 @@
       "id": "f55c45a1a1c8"
     },
     {
-      "title": "Orages : neuf départements du Sud-Ouest en vigilance orange lundi après-midi",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/23/orages-neuf-departements-du-sud-ouest-en-vigilance-orange-lundi-apres-midi_6754437_3244.html",
-      "summary": "« Un épisode pluvio-orageux bien actif est attendu sur une large partie sud du pays lundi », a annoncé Météo-France, ajoutant que cette « dégradation orageuse » devrait ensuite toucher l’arc méditerranéen en fin d’après-midi.",
-      "image": "https://img.lemde.fr/2025/06/26/250/0/3000/1500/644/322/60/0/6086cdb_upload-1-scuzt07nr2vi-frame-9.jpg",
-      "published_at": "2026-08-23T18:06:33+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "0bfb21fcebcc"
-    },
-    {
       "title": "Orages : neuf départements du Sud-Ouest placés en vigilance orange ce lundi",
       "url": "https://www.liberation.fr/environnement/climat/orages-neuf-departements-du-sud-ouest-places-en-vigilance-orange-ce-lundi-20260823_D5C6E334YVBD5HNSGVSPYJX6S4/",
       "summary": "Le Gers, le Lot-et-Garonne, la Haute-Garonne, le Tarn-et-Garonne, le Lot, la Dordogne, la Corrèze, le Tarn et l’Aveyron seront concernés. L’épisode pourrait toucher le pourtour méditerranéen en fin d’après-midi.",
@@ -261,46 +301,6 @@
       "source": "France Info",
       "category": "Sport",
       "id": "c38baab75457"
-    },
-    {
-      "title": "Universités d’été de la gauche, Edouard Philippe à Mayotte, guerre commerciale entre les Etats-Unis et le Canada… L’actu de ce week-end des 22 et 23 août",
-      "url": "https://www.liberation.fr/international/europe/universites-dete-de-la-gauche-edouard-philippe-a-mayotte-guerre-commerciale-entre-les-etats-unis-et-le-canada-lactu-de-ce-week-end-des-22-et-23-aout-20260823_ZFR63Y33MBD35B4QZ73CEIVI7M/",
-      "summary": "La rédaction de «Libération» récapitule les principales actualités de ces samedi et dimanche.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-23T15:55:32+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "b932810e9ab7"
-    },
-    {
-      "title": "Médias et extrême droite, quelques glissements d’été, par Daniel Schneidermann",
-      "url": "https://www.liberation.fr/idees-et-debats/opinions/extreme-droite-petits-glissements-dete-au-monde-par-daniel-schneidermann-20260821_CS6SWBELIJBSPNP2V3DOYJEEDQ/",
-      "summary": "L’hypothèse «Le Pen au pouvoir» s’infiltre dans le récit médiatique dominant sous toutes ses formes et les digues s’effritent, alerte notre chroniqueur à partir, notamment, de sa lecture estivale du quotidien du soir : des articles excellents, informatifs, s’efforçant à la distance. Mais l’heure est-elle à la distance ?",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-23T15:54:23+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "2b1cfc47f9ee"
-    },
-    {
-      "title": "Naufrage en Méditerranée : 11 migrants sont morts au large de la Tunisie",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/23/naufrage-en-mediterranee-huit-migrants-sont-morts-au-large-de-la-tunisie_6754434_3212.html",
-      "summary": "Un bateau transportant 15 migrants tunisiens a fait naufrage dans la nuit de vendredi à samedi. Une seule personne a été secourue et trois autres sont toujours portées disparues.",
-      "image": "https://img.lemde.fr/2023/09/22/334/0/4000/2000/644/322/60/0/d869f4c_1695371261061-88a2704.jpeg",
-      "published_at": "2026-08-23T17:52:29+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "bd929f2cb595"
-    },
-    {
-      "title": "Un Palestinien de 14 ans tué par l'armée israélienne en Cisjordanie",
-      "url": "https://www.franceinfo.fr/monde/palestine/un-palestinien-de-14-ans-tue-par-l-armee-israelienne-en-cisjordanie_8158658.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Il n'y avait ni affrontements ni heurts justifiant qu'on tire sur un enfant et le tue\", a assuré un responsable du camp de réfugiés où il résidait. L'armée israélienne a déclaré vérifier les informations relatives à la mort de l'adolescent.",
-      "image": "https://www.franceinfo.fr/pictures/dSL2NZTcVerNyDCkR9ZWAf8yfZc/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b16779690a385373730.jpg",
-      "published_at": "2026-08-23T17:50:42+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "0da60ae40270"
     }
   ]
 }
