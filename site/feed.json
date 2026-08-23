@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-08-23T20:32:10.702466+00:00",
+  "generated_at": "2026-08-23T21:28:57.507302+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Le PSG a souffert à Rennes mais arrache le match nul dans le choc de la première journée de Ligue 1",
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-1/le-psg-a-souffert-a-rennes-mais-arrache-le-match-nul-dans-le-choc-de-la-premiere-journee-de-ligue-1_8158859.html#xtor=RSS-3-[lestitres]",
+      "summary": "Menés à la pause, les Parisiens ont pu compter sur leurs recrues de l'été pour revenir à la hauteur du Stade rennais dimanche.",
+      "image": "https://www.franceinfo.fr/pictures/Ci0aQva5VqdPQ3BwcaJ9gwchFVk/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b56f4341e2602986191.jpg",
+      "published_at": "2026-08-23T22:39:05+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "1de1042958f4"
+    },
     {
       "title": "Après Chartres, la maire de Dijon désapprouve à son tour la venue de Patrick Bruel",
       "url": "https://www.lemonde.fr/societe/article/2026/08/23/apres-chartres-la-maire-de-dijon-desapprouve-a-son-tour-la-venue-de-patrick-bruel_6754607_3224.html",
@@ -43,14 +53,14 @@
       "id": "c215ab5b9c2c"
     },
     {
-      "title": "Présidentielle 2027 : la participation de Raphaël Glucksmann à la primaire social-démocrate \"va permettre de réduire l'offre de candidatures à gauche\" au premier tour, se réjouit le député PS Arthur Delaporte",
-      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-edouard-philippe-envisage-un-rassemblement-de-la-droite-et-du-centre-entre-novembre-et-fevrier_8158088.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le cofondateur de Place publique a annoncé, dimanche soir sur TF1, son intention de participer à la primaire coorganisée par son parti et le PS, afin de devenir le candidat de la social-démocratie à la présidentielle.",
-      "image": "https://www.franceinfo.fr/pictures/fyzCFsCowBs0bPz0A282xefmHZ0/0x308:6000x3683/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b493e2168a509122615.jpg",
-      "published_at": "2026-08-23T21:28:56+02:00",
+      "title": "Présidentielle 2027 : \"C'est une forme de satisfaction\" que Raphaël Glucksmann ait annoncé sa candidature, salue le député PS Arthur Delaporte",
+      "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/presidentielle-2027-c-est-une-forme-de-satisfaction-que-raphael-glucksmann-ait-annonce-sa-candidature-salue-le-depute-ps-arthur-delaporte_8158850.html#xtor=RSS-3-[lestitres]",
+      "summary": "Raphaël Glucksmann a annoncé dimanche sur TF1 sa candidature à la présidentielle et participera à la primaire sociale-démocrate organisée en octobre par le PS et son propre parti, Place publique.",
+      "image": "https://www.franceinfo.fr/pictures/Bjl2kCfkEcv7Eotq07QkSadS-zQ/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6ae86ec8400941680766.jpg",
+      "published_at": "2026-08-23T21:21:55+02:00",
       "source": "France Info",
       "category": "Politique",
-      "id": "421cd052f73e"
+      "id": "b206463a41a8"
     },
     {
       "title": "Présidentielle : Raphaël Glucksmann est bel et bien candidat",
@@ -291,16 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "13a15f1b9212"
-    },
-    {
-      "title": "Festival de théâtre de rue d’Aurillac : «Phoenix», le chantier bien senti de Marzouk Machine",
-      "url": "https://www.liberation.fr/culture/scenes/festival-de-theatre-de-rue-daurillac-phoenix-le-chantier-bien-senti-de-marzouk-machine-20260823_ONPVDUWDIBCWBNHM2THSIPPWOE/",
-      "summary": "Mordant et subtil, le nouveau spectacle de la compagnie Marzouk Machine sort le spectateur de l’inertie en s’emparant des questions d’écologie.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-23T16:48:01+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "c14c3a5cddab"
     }
   ]
 }

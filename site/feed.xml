@@ -7,9 +7,19 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Sun, 23 Aug 2026 20:32:10 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 21:28:57 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>Le PSG a souffert à Rennes mais arrache le match nul dans le choc de la première journée de Ligue 1</title>
+    <link>https://www.franceinfo.fr/sports/foot/ligue-1/le-psg-a-souffert-a-rennes-mais-arrache-le-match-nul-dans-le-choc-de-la-premiere-journee-de-ligue-1_8158859.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/sports/foot/ligue-1/le-psg-a-souffert-a-rennes-mais-arrache-le-match-nul-dans-le-choc-de-la-premiere-journee-de-ligue-1_8158859.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Sun, 23 Aug 2026 22:39:05 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Menés à la pause, les Parisiens ont pu compter sur leurs recrues de l'été pour revenir à la hauteur du Stade rennais dimanche.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/Ci0aQva5VqdPQ3BwcaJ9gwchFVk/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b56f4341e2602986191.jpg" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>Après Chartres, la maire de Dijon désapprouve à son tour la venue de Patrick Bruel</title>
     <link>https://www.lemonde.fr/societe/article/2026/08/23/apres-chartres-la-maire-de-dijon-desapprouve-a-son-tour-la-venue-de-patrick-bruel_6754607_3224.html</link>
@@ -51,14 +61,14 @@
     <enclosure url="https://img.lemde.fr/2026/08/22/720/0/8640/4320/644/322/60/0/ec300e6_ftp-1-pto2jugt1upu-1fdb58dc47eb4fe5b2ae5c3aa5b128b5-0-f3b27937dae14ddea70a7fe5386f8b14.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>Présidentielle 2027 : la participation de Raphaël Glucksmann à la primaire social-démocrate &quot;va permettre de réduire l&apos;offre de candidatures à gauche&quot; au premier tour, se réjouit le député PS Arthur Delaporte</title>
-    <link>https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-edouard-philippe-envisage-un-rassemblement-de-la-droite-et-du-centre-entre-novembre-et-fevrier_8158088.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-edouard-philippe-envisage-un-rassemblement-de-la-droite-et-du-centre-entre-novembre-et-fevrier_8158088.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Sun, 23 Aug 2026 21:28:56 +0000</pubDate>
+    <title>Présidentielle 2027 : &quot;C&apos;est une forme de satisfaction&quot; que Raphaël Glucksmann ait annoncé sa candidature, salue le député PS Arthur Delaporte</title>
+    <link>https://www.franceinfo.fr/politique/raphael-glucksmann/presidentielle-2027-c-est-une-forme-de-satisfaction-que-raphael-glucksmann-ait-annonce-sa-candidature-salue-le-depute-ps-arthur-delaporte_8158850.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/politique/raphael-glucksmann/presidentielle-2027-c-est-une-forme-de-satisfaction-que-raphael-glucksmann-ait-annonce-sa-candidature-salue-le-depute-ps-arthur-delaporte_8158850.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Sun, 23 Aug 2026 21:21:55 +0000</pubDate>
     <category>Politique</category>
     <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Le cofondateur de Place publique a annoncé, dimanche soir sur TF1, son intention de participer à la primaire coorganisée par son parti et le PS, afin de devenir le candidat de la social-démocratie à la présidentielle.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/fyzCFsCowBs0bPz0A282xefmHZ0/0x308:6000x3683/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b493e2168a509122615.jpg" type="image/jpeg" length="0" />
+    <description><![CDATA[Raphaël Glucksmann a annoncé dimanche sur TF1 sa candidature à la présidentielle et participera à la primaire sociale-démocrate organisée en octobre par le PS et son propre parti, Place publique.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/Bjl2kCfkEcv7Eotq07QkSadS-zQ/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6ae86ec8400941680766.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>Présidentielle : Raphaël Glucksmann est bel et bien candidat</title>
@@ -299,16 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">Libération</source>
     <description><![CDATA[La ville vient d’équiper ses agents de tests pour les automobilistes qui consomment cette substance utilisée comme gaz hilarant. Le biologiste Guillaume Grzych alerte sur le manque de preuves scientifiques concernant leur fiabilité.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Festival de théâtre de rue d’Aurillac : «Phoenix», le chantier bien senti de Marzouk Machine</title>
-    <link>https://www.liberation.fr/culture/scenes/festival-de-theatre-de-rue-daurillac-phoenix-le-chantier-bien-senti-de-marzouk-machine-20260823_ONPVDUWDIBCWBNHM2THSIPPWOE/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/culture/scenes/festival-de-theatre-de-rue-daurillac-phoenix-le-chantier-bien-senti-de-marzouk-machine-20260823_ONPVDUWDIBCWBNHM2THSIPPWOE/</guid>
-    <pubDate>Sun, 23 Aug 2026 16:48:01 +0000</pubDate>
-    <category>Culture</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Mordant et subtil, le nouveau spectacle de la compagnie Marzouk Machine sort le spectateur de l’inertie en s’emparant des questions d’écologie.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>
