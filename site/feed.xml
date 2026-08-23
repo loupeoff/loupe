@@ -7,9 +7,19 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Sun, 23 Aug 2026 21:28:57 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 22:30:12 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
+  <item>
+    <title>EN DIRECT, guerre en Ukraine : Mykhaïlo Fedorov demande à Volodymyr Zelensky de s’expliquer sur la corruption dans son entourage</title>
+    <link>https://www.lemonde.fr/international/live/2026/08/23/en-direct-guerre-en-ukraine-mykhailo-fedorov-demande-a-volodymyr-zelensky-de-s-expliquer-sur-la-corruption-dans-son-entourage_6753793_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/08/23/en-direct-guerre-en-ukraine-mykhailo-fedorov-demande-a-volodymyr-zelensky-de-s-expliquer-sur-la-corruption-dans-son-entourage_6753793_3210.html</guid>
+    <pubDate>Sun, 23 Aug 2026 23:42:51 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[« Il est de sa responsabilité de nous dire à tous s’il était au courant ou non », a déclaré l’ancien ministre de la défense ukrainien, tout en refusant de « faire des suppositions ». Le Bureau national anticorruption ukrainien enquête sur un système présumé de détournement de plus de 3 millions de dollars impliquant des parlementaires et des banquiers.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/08/19/65/0/2000/1000/644/322/60/0/b799f2e_ftp-1-3f5lwty3tt2l-5c8ff14ac5ae42f985a2af6f2479142c-0-6c123198994141ed95fc5fed92dd8b67.jpg" type="image/jpeg" length="0" />
+  </item>
   <item>
     <title>Le PSG a souffert à Rennes mais arrache le match nul dans le choc de la première journée de Ligue 1</title>
     <link>https://www.franceinfo.fr/sports/foot/ligue-1/le-psg-a-souffert-a-rennes-mais-arrache-le-match-nul-dans-le-choc-de-la-premiere-journee-de-ligue-1_8158859.html#xtor=RSS-3-[lestitres]</link>
@@ -299,16 +309,6 @@
     <source url="https://loupeoff.github.io/loupe">France Info</source>
     <description><![CDATA[Patrick Bruel doit entamer une tournée de 35 dates début octobre pour célébrer les 35 ans de l'album "Alors regarde". Les concerts restent maintenus pour l'heure.]]></description>
     <enclosure url="https://www.franceinfo.fr/pictures/Vb6g-QqplSFpRSGtCH6vVr6oNJ8/0x0:3500x1968/432x243/filters:format(jpg):quality(50)/2025/11/19/maxnewsworldsix757780-691daa8ae6443247818697.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Des détecteurs de protoxyde d’azote pour la police municipale de Cannes : «C’est comme pour l’hydroxychloroquine, on va trop vite»</title>
-    <link>https://www.liberation.fr/societe/sante/des-detecteurs-de-protoxyde-dazote-pour-la-police-municipale-de-cannes-cest-comme-pour-lhydroxychloroquine-on-va-trop-vite-20260823_UDA5VKTOMZDLDNVXXP7MBNNT6E/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/societe/sante/des-detecteurs-de-protoxyde-dazote-pour-la-police-municipale-de-cannes-cest-comme-pour-lhydroxychloroquine-on-va-trop-vite-20260823_UDA5VKTOMZDLDNVXXP7MBNNT6E/</guid>
-    <pubDate>Sun, 23 Aug 2026 16:59:55 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[La ville vient d’équiper ses agents de tests pour les automobilistes qui consomment cette substance utilisée comme gaz hilarant. Le biologiste Guillaume Grzych alerte sur le manque de preuves scientifiques concernant leur fiabilité.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>
