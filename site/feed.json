@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-08-22T23:28:07.546944+00:00",
+  "generated_at": "2026-08-23T01:52:44.253881+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Des débuts en fanfare pour Lens, la bonne opération pour Lyon… Les résultats de la première journée de Ligue 1",
+      "url": "https://www.lemonde.fr/sport/article/2026/08/23/des-debuts-en-fanfare-pour-lens-la-bonne-operation-pour-lyon-les-resultats-de-la-premiere-journee-de-ligue-1_6753679_3242.html",
+      "summary": "Après avoir remporté le Trophée des champions face au PSG, les Sang et Or ont confirmé leurs ambitions avec un succès offensif contre Auxerre, tandis que l’OL a lancé sa saison en s’imposant à Toulouse, malgré un effectif largement remanié.",
+      "image": "https://img.lemde.fr/2026/08/22/146/0/1755/877/644/322/60/0/051e7ba_ftp-1-ht31y3311u8s-5895913-01-06.jpg",
+      "published_at": "2026-08-23T02:46:59+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "239ab00c3c1e"
+    },
     {
       "title": "Droits de douane : le premier ministre canadien, Mark Carney, dénonce la « guerre » commerciale lancée par Donald Trump",
       "url": "https://www.lemonde.fr/international/article/2026/08/23/droits-de-douane-le-premier-ministre-canadien-mark-carney-denonce-la-guerre-commerciale-lancee-par-donald-trump_6753507_3211.html",
       "summary": "En représailles aux nouvelles surtaxes américaines, entrées en vigueur samedi, le Canada va appliquer à son tour des surtaxes sur l’acier et les produits laitiers américains à partir du 8 septembre, a annoncé Ottawa.",
       "image": "https://img.lemde.fr/2026/08/22/684/0/8192/4096/644/322/60/0/5bc38c5_ftp-1-5ohn4agnjby9-e25433bf3ad54438b09dba555b7541e1-0-9284b1f0d38d430fac90e1f2516895bb.jpg",
-      "published_at": "2026-08-23T01:05:54+02:00",
+      "published_at": "2026-08-23T01:05:52+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "2697b3a69e4e"
@@ -245,7 +255,7 @@
     {
       "title": "Présidentielle 2027 : à Mayotte, Edouard Philippe promet de « fermer les vannes de l’immigration » à des élus lassés par les promesses",
       "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/22/presidentielle-2027-a-mayotte-edouard-philippe-promet-de-fermer-les-vannes-de-l-immigration-a-des-elus-lasses-par-les-promesses_6753542_6205049.html",
-      "summary": "Lors d’un déplacement de deux jours à Mayotte, Edouard Philippe a choisi comme thématique principale de sa rentrée politique la lutte contre l’immigration illégale. Le candidat Horizons a répété sa volonté d’y suspendre pendant cinq ans le droit du sol, le droit d’asile et le regroupement familial.",
+      "summary": "Lors d’un déplacement de deux jours, le président du parti Horizons a réitéré sa volonté de suspendre dans le département ultramarin pendant cinq ans le droit du sol, le droit d’asile et le regroupement familial.",
       "image": "https://img.lemde.fr/2026/08/21/405/0/6494/3247/644/322/60/0/30477bb_ftp-1-m4ihfga9k7bc-5887425-01-06.jpg",
       "published_at": "2026-08-22T19:30:02+02:00",
       "source": "Le Monde",
@@ -291,16 +301,6 @@
       "source": "France Info",
       "category": "Économie",
       "id": "e5d0fcbbbccf"
-    },
-    {
-      "title": "Plus de 500 000 Xiaomi SU7, des salariés Tesla cobayes, des Geely produites par Volvo : le récap’ Vroom de la semaine",
-      "url": "https://www.numerama.com/vroom/2315971-plus-de-500-000-xiaomi-su7-des-salaries-tesla-cobayes-des-geely-produites-par-volvo-le-recap-vroom-de-la-semaine.html",
-      "summary": "À la une sur Vroom cette semaine : Un nouveau cap franchi pour la jeune marque automobile Xiaomi, le Cybercab testé par les salariés Tesla et des Zeekr produites en Europe chez Volvo. Le futur n’attend pas : anticipez l’avenir des nouvelles technologies et de l’IA en lisant gratuitement ToujoursPlus, chaque jeudi dans votre boîte mail […]",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-22T16:28:00+00:00",
-      "source": "Numerama",
-      "category": "Économie",
-      "id": "6e3d008e03ce"
     }
   ]
 }
