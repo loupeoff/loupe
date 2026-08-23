@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-08-23T03:10:36.987832+00:00",
+  "generated_at": "2026-08-23T04:44:55.995029+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "EN DIRECT, guerre en Ukraine : trois morts dans des frappes russes dans la région de Zaporijia, selon les autorités locales",
+      "url": "https://www.lemonde.fr/international/live/2026/08/23/en-direct-guerre-en-ukraine-trois-morts-dans-des-frappes-russes-dans-la-region-de-zaporijia-selon-les-autorites-locales_6753793_3210.html",
+      "summary": "Selon Ivan Fedorov, chef de l’administration militaire de l’oblast de Zaporijia, les bombardements russes menés dans la nuit de samedi à dimanche ont aussi fait vingt blessés.",
+      "image": "https://img.lemde.fr/2026/08/19/523/0/4890/2445/644/322/60/0/6835e25_ftp-1-3tcfmazbb7bv-2026-08-19t101306z-1586334716-rc2l1na3gtbk-rtrmadp-3-ukraine-crisis-attack-zaporizhzhia.JPG",
+      "published_at": "2026-08-23T06:35:47+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "c7bdd2595b0d"
+    },
+    {
+      "title": "Démarrage compliqué pour le nouveau congé de naissance : «Je passais mes journées à envoyer des mails aux RH»",
+      "url": "https://www.liberation.fr/societe/familles/demarrage-complique-pour-le-nouveau-conge-de-naissance-je-passais-mes-journees-a-envoyer-des-mails-aux-rh-20260823_AKR6UPDIQ5HONI7BJVRRLE5QIM/",
+      "summary": "Alors que le congé supplémentaire de naissance est entré en vigueur le 1er juillet, certains parents doivent faire face aux indemnisations tardives, au stress des dossiers à gérer et des appels répétés à l’Assurance maladie.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-23T04:05:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "d740dfe91d1a"
+    },
+    {
+      "title": "Une rentrée littéraire marquée par les écrivains québécois : « Notre littérature est peut-être moins normée et plus libre »",
+      "url": "https://www.lemonde.fr/m-le-mag/article/2026/08/23/une-rentree-litteraire-marquee-par-les-ecrivains-quebecois-notre-litterature-est-peut-etre-moins-normee-et-plus-libre_6753760_4500055.html",
+      "summary": "La littérature canadienne francophone suscite depuis quelques années un engouement croissant sur le marché hexagonal, qui se confirme en cette rentrée littéraire. Porté d’abord par le travail de maisons indépendantes qui, outre-Atlantique, ont fait émerger une nouvelle génération d’écrivains, cet élan doit aussi beaucoup au soutien du gouvernement de la province.",
+      "image": "https://img.lemde.fr/2026/08/18/643/0/1280/640/644/322/60/0/37bffed_ftp-1-gxz5oc887tcj-438946-3492201.jpg",
+      "published_at": "2026-08-23T06:01:13+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "c1727d8ce5ee"
+    },
+    {
+      "title": "Le port de Marseille, destination émergente du trafic de drogue",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/23/le-port-de-marseille-destination-emergente-du-trafic-de-drogue_6753759_3224.html",
+      "summary": "Malgré l’importance de l’économie du « stup » dans la cité phocéenne, son port était jusqu’ici moins ciblé que ceux du Havre ou d’Anvers. Mais son emplacement au carrefour de la Méditerranée le rend de plus en plus attractif pour les réseaux criminels.",
+      "image": "https://img.lemde.fr/2026/08/21/376/0/3000/1500/644/322/60/0/d833d5a_upload-1-rkm9rng1f41v-le-monde-port-de-marseille-3.jpg",
+      "published_at": "2026-08-23T06:01:02+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "65fea59eee49"
+    },
+    {
+      "title": "En Sierra Leone, les habitants des bidonvilles piégés par la montée de l’océan : « On est encerclés par la mer et par des torrents de pluie et d’eaux usées »",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/23/en-sierra-leone-les-habitants-des-bidonvilles-pieges-par-la-montee-de-l-ocean-on-est-encercles-par-la-mer-et-par-des-torrents-de-pluie-et-d-eaux-usees_6753758_3244.html",
+      "summary": "A Freetown, les précipitations et les marées transforment les quartiers proches de l’océan en vastes zones inondables. Faute d’équipements, des dizaines de milliers d’habitants vivent dangereusement au rythme des crues.",
+      "image": "https://img.lemde.fr/2026/08/05/907/0/6784/3392/644/322/60/0/9b2cc9a_upload-1-g6ml8cwlpodc-14.jpg",
+      "published_at": "2026-08-23T06:01:00+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "70ac59c2f993"
+    },
+    {
+      "title": "« Nous sommes contraints d’utiliser le même cathéter 20 ou 30 fois » : à Gaza, pénuries et évacuations entravées mettent les malades en danger",
+      "url": "https://www.lemonde.fr/international/article/2026/08/23/nous-sommes-contraints-d-utiliser-le-meme-catheter-20-ou-30-fois-a-gaza-penuries-et-evacuations-entravees-mettent-les-malades-en-danger_6753749_3210.html",
+      "summary": "Détruits ou endommagés à 95 %, les hôpitaux de l’enclave palestinienne manquent de tout. Il n’y a plus d’IRM, et seulement deux scanners. Quelque 20 000 malades sont inscrits sur la liste d’évacuation, dont 200 sont dans un état critique et 2 000 auraient été évacués depuis février.",
+      "image": "https://img.lemde.fr/2026/08/13/418/0/5500/2750/644/322/60/0/7f7fbc3_ftp-1-pqtvybkll9xf-2026-08-13t070119z-937385346-rc2xsmarbupd-rtrmadp-3-israel-palestinian-gaza-cancer.JPG",
+      "published_at": "2026-08-23T06:00:28+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "3b460d6c2626"
+    },
+    {
+      "title": "De l’immortelle au ciste labdanum, ces plantes qui sentent bon l’été",
+      "url": "https://www.lemonde.fr/m-styles/article/2026/08/23/de-l-immortelle-au-ciste-labdanum-ces-plantes-qui-sentent-bon-l-ete_6753712_4497319.html",
+      "summary": "Certaines plantes, aromatiques, à fleurs ou à résine odorante, évoquent immédiatement les vacances et sont des classiques de la parfumerie. Partons à l’exploration (presque) olfactive de trois d’entre elles.",
+      "image": "https://img.lemde.fr/2026/07/13/62/0/1200/600/644/322/60/0/bb12651_upload-1-fj0guangoivl-776-parfum-001.jpg",
+      "published_at": "2026-08-23T04:30:10+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "8079d1c0dc3a"
+    },
     {
       "title": "Des débuts en fanfare pour Lens, la bonne opération pour Lyon… Les résultats de la première journée de Ligue 1",
       "url": "https://www.lemonde.fr/sport/article/2026/08/23/des-debuts-en-fanfare-pour-lens-la-bonne-operation-pour-lyon-les-resultats-de-la-premiere-journee-de-ligue-1_6753679_3242.html",
@@ -23,12 +93,12 @@
       "id": "2697b3a69e4e"
     },
     {
-      "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine promet des attaques « beaucoup plus destructrices » contre Kiev, évoquant des « mesures de représailles »",
+      "title": "Guerre en Ukraine : Vladimir Poutine promet des attaques « beaucoup plus destructrices » contre Kiev, évoquant des « mesures de représailles ». Retrouvez les informations du 16 au 22 août.",
       "url": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-vladimir-poutine-promet-des-attaques-beaucoup-plus-destructrices-contre-kiev-evoquant-des-mesures-de-represailles_6746952_3210.html",
       "summary": "Le président russe a directement lié, samedi, l’augmentation de la puissance et du nombre des frappes russes aux attaques ukrainiennes contre des infrastructures économiques et logistiques en Russie.",
       "image": "https://img.lemde.fr/2026/08/22/42/0/4750/2375/644/322/60/0/d77d17b_ftp-1-ygf6vrxoqqei-2026-08-22t154830z-1467919007-rc2p3naofp5t-rtrmadp-3-russia-election-putin.JPG",
       "published_at": "2026-08-22T23:17:51+02:00",
-      "source": "Le Monde",
+      "source": "Le Monde Inter",
       "category": "International",
       "id": "42c0d215ddec"
     },
@@ -188,7 +258,7 @@
       "summary": "En cas d’absence de budget, « une hausse [des] taux d’intérêt pèserait durablement sur l’Etat, mais aussi sur [l’]économie, et donc sur les ménages », estime le premier ministre dans une lettre envoyée aux parlementaires et révélée par « Le Parisien ».",
       "image": "https://img.lemde.fr/2026/08/18/430/0/4500/2250/644/322/60/0/4d55a6f_upload-1-8m9ou6jaswp6-mfache-17082026-le-monde-deplacement-lecornu-en-gironde-france-ii-044.jpg",
       "published_at": "2026-08-22T20:17:08+02:00",
-      "source": "Le Monde",
+      "source": "Le Monde Politique",
       "category": "Politique",
       "id": "b32ede177d2e"
     },
@@ -208,7 +278,7 @@
       "summary": "Un squelette, peut-être celui du célèbre mousquetaire, a été mis au jour par l’archéologue Wim Dijkman en mars dans une église de Maastricht, aux Pays-Bas. L’accusant de fouilles illégales, la municipalité lui a repris le projet. Il faudra attendre encore quelques mois pour que l’analyse ADN livre – ou non – ses secrets.",
       "image": "https://img.lemde.fr/2026/08/08/78/0/1299/649/644/322/60/0/086eb12_upload-1-cixsmhmjlozu-abaca-1001814-005.jpg",
       "published_at": "2026-08-22T20:06:17+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Culture",
       "id": "6b74e2560b74"
     },
@@ -231,76 +301,6 @@
       "source": "Le Monde Politique",
       "category": "Politique",
       "id": "eebc757c8d37"
-    },
-    {
-      "title": "Gemini gratuit, ChatGPT avec des pubs et GTA 6 en fuite sur PC – le récap’ tech de la semaine",
-      "url": "https://www.numerama.com/tech/2316147-gemini-gratuit-chatgpt-avec-des-pubs-et-gta-6-en-fuite-sur-pc-le-recap-tech-de-la-semaine.html",
-      "summary": "Cette semaine, l'actualité numérique a surtout été rythmée par la multiplication des fuites sur GTA 6 : le leaker prétend posséder une build du jeu et menace Rockstar Games. Dans le monde de l'IA, Google a relancé sa promotion « Gemini gratuit » pour les étudiants et ChatGPT s'apprête à déployer les publicités en France.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-22T17:49:00+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "18f9a9d8afaa"
-    },
-    {
-      "title": "En réponse aux surtaxes imposées par les Etats-Unis, le Canada annonce des mesures de rétorsion sur l'acier et les produits laitiers américains",
-      "url": "https://www.franceinfo.fr/monde/canada/en-reponse-aux-surtaxes-imposees-par-les-etats-unis-le-canada-annonce-des-mesures-de-retorsion-sur-l-acier-et-les-produits-laitiers-americains_8157563.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Canada ne pouvait \"pas accepter\" ce que proposaient les Etats-Unis pour sceller un accord commercial et éviter l'entrée en vigueur des surtaxes et ne \"leur donnera pas\", a-t-il ajouté.",
-      "image": "https://www.franceinfo.fr/pictures/7B0MlTQ8ODPmf2LCF4itn6Ns2-c/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/22/6a89ccb8f2fa8477987086.jpg",
-      "published_at": "2026-08-22T19:30:21+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "243616f320fb"
-    },
-    {
-      "title": "Présidentielle 2027 : à Mayotte, Edouard Philippe promet de « fermer les vannes de l’immigration » à des élus lassés par les promesses",
-      "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/22/presidentielle-2027-a-mayotte-edouard-philippe-promet-de-fermer-les-vannes-de-l-immigration-a-des-elus-lasses-par-les-promesses_6753542_6205049.html",
-      "summary": "Lors d’un déplacement de deux jours, le président du parti Horizons a réitéré sa volonté de suspendre dans le département ultramarin pendant cinq ans le droit du sol, le droit d’asile et le regroupement familial.",
-      "image": "https://img.lemde.fr/2026/08/21/405/0/6494/3247/644/322/60/0/30477bb_ftp-1-m4ihfga9k7bc-5887425-01-06.jpg",
-      "published_at": "2026-08-22T19:30:02+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "47550c61dae7"
-    },
-    {
-      "title": "Lens et Lyon déjà devant, Le Mans solide pour sa première... Des buts et du suspense en attendant Rennes-PSG pour la première journée de Ligue 1",
-      "url": "https://www.franceinfo.fr/sports/foot/ligue-1/apres-sa-victoire-contre-le-psg-au-trophee-des-champions-lens-attaque-idealement-sa-saison-de-ligue-1-en-battant-auxerre_8157620.html#xtor=RSS-3-[lestitres]",
-      "summary": "Pour son premier match de Ligue 1 de la saison 2026-2027, le RC Lens a largement dominé l'AJ Auxerre, même s'il s'est fait peur en fin de rencontre samedi, au lendemain de la large victoire de l'OM contre Strasbourg (4-0).",
-      "image": "https://www.franceinfo.fr/pictures/eMOyZ59SlitJdGIpGCZy-ThjT-w/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/22/6a89d7d2853cc447118770.jpg",
-      "published_at": "2026-08-22T19:20:46+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "e94debc25d71"
-    },
-    {
-      "title": "Faute d’accord, le Canada subit de nouveaux droits de douane américains et réplique «au dollar près».",
-      "url": "https://www.liberation.fr/international/amerique/faute-daccord-le-canada-subit-de-nouveaux-droits-de-douane-americains-20260822_JU7AFTWQDZHRTIA247VLQPX6QY/",
-      "summary": "Dénonçant les conditions injustes posées par Washington, le Premier ministre canadien assure qu’il ripostera par des taxes équivalentes aux Etats-Unis.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-22T17:18:24+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "6749fe1bad09"
-    },
-    {
-      "title": "Quand, en 2018, Banksy vend son œuvre à la découpe",
-      "url": "https://www.lemonde.fr/culture/article/2026/08/22/quand-en-2018-banksy-vend-son-uvre-a-la-decoupe_6753509_3246.html",
-      "summary": "« Autodestructions artistiques » (6/6). A l’occasion d’enchères à Londres, la figure de proue du street art a déchiqueté sa toile à distance, sous les yeux des acheteurs ébahis. Un pied de nez au marché de l’art qui a démultiplié la valeur de l’œuvre.",
-      "image": "https://img.lemde.fr/2026/06/11/800/0/4800/2400/644/322/60/0/dddbc2d_upload-1-3szcbr0uxl2m-020-1051962982.jpg",
-      "published_at": "2026-08-22T19:00:02+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "fb3700f084de"
-    },
-    {
-      "title": "Le Français Victor Crouin, champion d'Europe de squash, pour la quatrième fois d'affilée",
-      "url": "https://www.franceinfo.fr/sports/le-francais-victor-crouin-champion-d-europe-de-squash-pour-la-quatrieme-fois-d-affilee_8157572.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le joueur tricolore de 27 ans s'est imposé, samedi, à Budapest contre le Suisse Dimitri Steinmann (11-2, 11-7, 12-10).",
-      "image": "https://www.franceinfo.fr/pictures/CZK7fleQuSVs2TkQU9L6_1z3XoE/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/22/6a89c989789d8520734551.jpg",
-      "published_at": "2026-08-22T18:29:42+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "e5d0fcbbbccf"
     }
   ]
 }
