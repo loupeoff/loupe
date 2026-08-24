@@ -1,16 +1,126 @@
 {
-  "generated_at": "2026-08-24T04:54:21.566171+00:00",
+  "generated_at": "2026-08-24T05:45:16.079551+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Coalition des volontaires en Ukraine, Raphaël Glucksmann candidat, le tennisman français Arthur Fils sacré à Cincinatti… L’actu de ce lundi 24 août au matin",
+      "url": "https://www.liberation.fr/international/europe/coalition-des-volontaires-en-ukraine-raphael-glucksmann-candidat-le-tennisman-francais-arthur-fils-sacre-a-cincinatti-lactu-de-ce-lundi-24-aout-au-matin-20260824_FRDJZJRUYJCT5DMB62B67P7INA/",
+      "summary": "La rédaction de «Libération» compile les principales infos de ce lundi matin.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-24T05:39:59+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "31fff22a3649"
+    },
+    {
+      "title": "Coalition des volontaires : les soutiens européens de l’Ukraine réunis à Kyiv",
+      "url": "https://www.liberation.fr/international/europe/coalition-des-volontaires-les-soutiens-europeens-de-lukraine-reunis-a-kyiv-20260824_TCF6Z7OHXJACVEXRWLZG332QKE/",
+      "summary": "Volodymyr Zelensky espère la fourniture d’équipement de défense antiaérienne pour abattre les missiles russes et une pression accrue sur Moscou.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-08-24T05:37:48+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "360b85b65bfb"
+    },
+    {
+      "title": "En images : Oulan-Bator, ville transformée par l’exode rural, où la jeunesse cherche encore sa place",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/24/en-images-oulan-bator-ville-transformee-par-l-exode-rural-ou-la-jeunesse-cherche-encore-sa-place_6754922_3244.html",
+      "summary": "Alors que la capitale mongole accueille la 17ᵉ Conférence des Nations Unies sur la désertification (COP17) depuis le 17 août, « Le Monde » publie le travail du photographe Odhran Dunne, qui, en 2025, s’est intéressé à cette ville en mutation et a dressé le portrait de sa jeunesse, interrogeant ses aspirations et sa mémoire des steppes.",
+      "image": "https://img.lemde.fr/2026/06/29/1335/0/2004/1002/644/322/60/0/5df8ffe_upload-1-gglsc1a8v2az-khavar-pf-le-monde-odhran-dunne02.jpg",
+      "published_at": "2026-08-24T07:35:04+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "bf5eca2dbc16"
+    },
+    {
+      "title": "Soutiens, sondages, programme… Sur quoi s'appuie la candidature de Raphaël Glucksmann, qui lance sa campagne pour la présidentielle 2027 ?",
+      "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/soutiens-sondages-programme-sur-quoi-s-appuie-la-candidature-de-raphael-glucksmann-qui-lance-sa-campagne-pour-la-presidentielle-2027_8153303.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le député européen a annoncé dimanche soir sa candidature à la primaire du Parti socialiste, et indirectement à l'élection présidentielle de 2027.",
+      "image": "https://www.franceinfo.fr/pictures/PM8HB_RgttYZ28cj03GxpjgcKEs/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a856d7080e10321602273.jpg",
+      "published_at": "2026-08-24T07:32:31+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "d2f81f3e3350"
+    },
+    {
+      "title": "Incendie à Crans-Montana : Jacques Moretti en détention provisoire pour violences conjugales",
+      "url": "https://www.liberation.fr/societe/police-justice/incendie-a-crans-montana-jacques-moretti-en-detention-provisoire-pour-violences-conjugales-20260824_37DCTOYYCVEH3DQGIXF2355GGQ/",
+      "summary": "Le propriétaire du bar Le Constellation, dont l’incendie a fait 41 morts et 115 blessés la nuit du 1ᵉʳ de l’an, a été interpellé mi-août au domicile du couple en Suisse.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-24T05:24:10+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "23e0ea490cbb"
+    },
+    {
+      "title": "Les sushis au saumon, un mets pas si japonais",
+      "url": "https://www.liberation.fr/lifestyle/gastronomie/les-sushis-au-saumon-un-mets-pas-si-japonais-20260824_PBPWM4GT2RA7FIBNHTH23TTHHY/",
+      "summary": "Cette semaine, «Libé» évoque des plats dont l’histoire n’est pas forcément celle que l’on croit. Aujourd’hui, les sushis au saumon, qui n’auraient pas vu le jour sans une campagne marketing venue d’Oslo.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-24T05:15:00+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "3f55b955eaeb"
+    },
+    {
+      "title": "Guerre en Ukraine : une nouvelle réunion de la \"Coalition des volontaires\" lundi à Kiev, sur fond d'intensification des frappes",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-une-nouvelle-reunion-de-la-coalition-des-volontaires-lundi-a-kiev-sur-fond-d-intensification-des-frappes_8159126.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'Ukraine espère que ses principaux soutiens européens lui apporteront de nouveaux équipements de défense antiaérienne.",
+      "image": "https://www.franceinfo.fr/pictures/CwnQX7wZDiZ9wNjkFdS-UwrO0AQ/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8bd16033352022539693.jpg",
+      "published_at": "2026-08-24T07:13:24+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "197d8af113a4"
+    },
+    {
+      "title": "Orages : 16 départements en vigilance orange ce lundi",
+      "url": "https://www.liberation.fr/environnement/climat/orages-16-departements-en-vigilance-orange-ce-lundi-20260824_QY4PGJPGUZDVXGDTVTV5WN73KU/",
+      "summary": "Des vents pouvant dépasser 100 km/h et de la grêle sont attendus du Sud-Ouest au Sud-Est et sur le Massif central.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-24T05:13:20+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "1b1f0c7bf492"
+    },
+    {
+      "title": "Fuites de GTA 6 et cartes Pokémon 30ᵉ anniversaire, le recap Pop Culture de la semaine",
+      "url": "https://www.numerama.com/tech/2316177-fuites-de-gta-6-et-cartes-pokemon-30%e1%b5%89-anniversaire-le-recap-pop-culture-de-la-semaine.html",
+      "summary": "Du côté de l'industrie du jeu vidéo, la pression monte d'un cran autour du projet le plus attendu de la décennie : GTA 6 fait une nouvelle fois les frais d'une fuite massive qui secoue Rockstar Games. Pendant ce temps, la galaxie Star Wars continue de passionner les fans avec les révélations de la saison 2 d'Ahsoka. Enfin, la folie des collectionneurs s'apprête à passer un cap historique avec l'an",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-24T05:10:00+00:00",
+      "source": "Numerama",
+      "category": "Économie",
+      "id": "cb25c0435809"
+    },
+    {
+      "title": "\"On a préféré se dire que la vie continuait\" : de rescapé du Bataclan à l'Ultra-Trail du Mont-Blanc, le défi de Pierre Cabon, paraplégique",
+      "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/on-a-prefere-se-dire-que-la-vie-continuait-de-rescape-du-bataclan-a-l-ultra-trail-du-mont-blanc-le-defi-de-pierre-cabon-paraplegique_8133002.html#xtor=RSS-3-[lestitres]",
+      "summary": "Après avoir perdu l'usage de ses jambes lors de l'attentat du Bataclan, Pierre Cabon a décidé de participer à plusieurs grands événements sportifs, notamment une épreuve de l'UTMB.",
+      "image": "https://www.franceinfo.fr/pictures/s-Nx6LJLFYcPfALd3X1aiBd1KuU/790x430:2273x1264/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8af4df4b6d6300170250.jpg",
+      "published_at": "2026-08-24T06:59:38+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "755a91f33ebe"
+    },
     {
       "title": "En Ukraine, l’appel de Mykhaïlo Fedorov à organiser des élections froidement accueilli",
       "url": "https://www.lemonde.fr/international/article/2026/08/24/en-ukraine-l-appel-de-mykhailo-fedorov-a-organiser-des-elections-froidement-accueilli_6754889_3210.html",
       "summary": "L’ex-ministre de la défense avait réclamé, dans une vidéo publiée mardi, la tenue d’un scrutin malgré la guerre, tout en dénonçant la corruption au sein du pouvoir. « Des élections maintenant, c’est un tsunami qui fracturerait l’Ukraine », a répondu Volodymyr Zelensky.",
       "image": "https://img.lemde.fr/2026/08/23/216/0/2592/1296/644/322/60/0/9516f83_ftp-1-bvo0sn2ld9ap-5902657-01-06.jpg",
-      "published_at": "2026-08-24T06:45:05+02:00",
+      "published_at": "2026-08-24T06:45:03+02:00",
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "6b096649f3b1"
+    },
+    {
+      "title": "Orages : seize départements de la moitié sud du pays en vigilance orange lundi après-midi",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/24/orages-seize-departements-de-la-moitie-sud-du-pays-en-vigilance-orange-lundi-apres-midi_6754437_3245.html",
+      "summary": "« Un épisode pluvio-orageux actif et accompagné localement de phénomènes violents est attendu sur une large partie sud du pays lundi », a annoncé Météo-France.",
+      "image": "https://img.lemde.fr/2025/06/26/250/0/3000/1500/644/322/60/0/6086cdb_upload-1-scuzt07nr2vi-frame-9.jpg",
+      "published_at": "2026-08-24T06:43:00+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "abdc81a5b99d"
     },
     {
       "title": "Seize départements placés en vigilance orange aux orages à partir de lundi après-midi",
@@ -23,11 +133,11 @@
       "id": "32dcd8c4c734"
     },
     {
-      "title": "EN DIRECT, guerre en Ukraine : les principaux soutiens européens de Kiev se réunissent lundi, sur fond d’intensification des frappes",
+      "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
       "url": "https://www.lemonde.fr/international/live/2026/08/24/en-direct-guerre-en-ukraine-les-principaux-soutiens-europeens-de-kiev-se-reunissent-lundi-sur-fond-d-intensification-des-frappes_6753793_3210.html",
-      "summary": "Cette rencontre des Etats membres de la « coalition des volontaires », organisée le jour du 35e anniversaire de la proclamation de l’indépendance de l’Ukraine, sera coprésidée par le Royaume-Uni, la France et l’Allemagne. Le président du Conseil européen, Antonio Costa, y est attendu.",
+      "summary": "L’Ukraine accueille lundi une réunion de ses principaux soutiens européens, à qui elle réclame des équipements de défense antiaérienne qui lui font cruellement défaut et une pression accrue sur Moscou, à un moment où les attaques russes n’ont jamais fait autant de victimes civiles.",
       "image": "https://img.lemde.fr/2026/06/18/248/0/2976/1488/644/322/60/0/034855e_ftp-1-sjbiofsjrtua-5365375-01-06.jpg",
-      "published_at": "2026-08-24T06:29:24+02:00",
+      "published_at": "2026-08-24T06:29:20+02:00",
       "source": "Le Monde",
       "category": "International",
       "id": "517a860603d5"
@@ -93,6 +203,26 @@
       "id": "321e9926aecd"
     },
     {
+      "title": "Quand une société de recouvrement poursuit obstinément une personne victime d’usurpation d’identité",
+      "url": "https://www.lemonde.fr/argent/article/2026/08/24/quand-une-societe-de-recouvrement-poursuit-obstinement-une-personne-victime-d-usurpation-d-identite_6754848_1657007.html",
+      "summary": "Un fraudeur avait repris le nom, la date et le lieu de naissance d’un individu, mais utilisé une fausse pièce d’identité pour obtenir un crédit de 14 500 euros.",
+      "image": "https://img.lemde.fr/2023/04/18/90/0/3000/1500/644/322/60/0/87d8615_1681830091344-ertkllui.jpg",
+      "published_at": "2026-08-24T06:00:08+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "2d6cb6595b92"
+    },
+    {
+      "title": "Il y a vingt ans, Pluton perdait son statut de planète",
+      "url": "https://www.lemonde.fr/videos/video/2026/08/24/il-y-a-vingt-ans-pluton-perdait-son-statut-de-planete_6754847_1669088.html",
+      "summary": "Découverte en 1930, Pluton a longtemps été considérée comme la neuvième planète du Système solaire, jusqu’à un vote de l’Union astronomique internationale en 2006.",
+      "image": "https://img.lemde.fr/2026/06/22/99/0/1024/512/644/322/60/0/bac3687_upload-from-url-1-0kxcel4xfu8n-pluto-mosaic-gc-4000-1024x710.jpg",
+      "published_at": "2026-08-24T06:00:07+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "8ed11e9af565"
+    },
+    {
       "title": "Le badminton français sur le toit du monde, les Bleus champions d'Europe de cécifoot et l'OM premier leader de Ligue 1... Le récap sport du week-end",
       "url": "https://www.franceinfo.fr/sports/le-badminton-francais-sur-le-toit-du-monde-les-bleus-champions-d-europe-de-cecifoot-et-l-om-premier-leader-de-ligue-1-le-recap-sport-du-week-end_8158721.html#xtor=RSS-3-[lestitres]",
       "summary": "Le week-end a été aussi marqué par les deux premières étapes de Vuelta, avec déjà un certain Tadej Pogacar aux commandes.",
@@ -103,21 +233,11 @@
       "id": "8982c4b43bf3"
     },
     {
-      "title": "Soutiens, sondages, programme… Sur quoi s'appuie la candidature de Raphaël Glucksmann, qui lance sa campagne pour la présidentielle 2027 ?",
-      "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/soutiens-sondages-programme-sur-quoi-s-appuie-la-candidature-de-raphael-glucksmann-qui-lance-sa-campagne-pour-la-presidentielle-2027_8153303.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le député européen a annoncé dimanche soir sa candidature à la primaire du Parti socialiste, et indirectement à l'élection présidentielle de 2027.",
-      "image": "https://www.franceinfo.fr/pictures/PM8HB_RgttYZ28cj03GxpjgcKEs/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a856d7080e10321602273.jpg",
-      "published_at": "2026-08-24T05:59:29+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "d2f81f3e3350"
-    },
-    {
-      "title": "Présidentielle 2027 : la bataille des gauches irréconciliables est lancée",
+      "title": "Présidentielle 2027 : la bataille des gauches est lancée",
       "url": "https://www.lemonde.fr/politique/article/2026/08/24/presidentielle-2027-la-bataille-des-gauches-irreconciliables-est-lancee_6754812_823448.html",
       "summary": "Lors de l’université d’été de La France insoumise, où il a prononcé un discours très centré sur la planification écologique, Jean-Luc Mélenchon a multiplié les appels du pied pour attirer les Ecologistes. Son rival à gauche, Raphaël Glucksmann a, lui, annoncé sa candidature au « 20 heures » de TF1.",
       "image": "https://img.lemde.fr/2026/08/23/688/0/8256/4128/644/322/60/0/d800718_upload-1-uhk1uwt42eoo-dsc-3986.jpg",
-      "published_at": "2026-08-24T05:30:36+02:00",
+      "published_at": "2026-08-24T05:30:34+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "b30889b4fb5f"
@@ -137,30 +257,40 @@
       "url": "https://www.lemonde.fr/pixels/article/2026/08/24/emmanuel-macron-et-le-prince-saoudien-mbs-ont-cloture-l-esports-world-cup-a-paris_6754776_4408996.html",
       "summary": "Organisé au Grand Palais, à Paris, l’événement s’est achevé, dimanche, après sept semaines de compétitions de jeux vidéo. Véritable point d’orgue du « soft power » saoudien en la matière, il a rassemblé de nombreuses stars et personnalités politiques.",
       "image": "https://img.lemde.fr/2026/08/23/656/0/8000/4000/644/322/60/0/aecb61f_upload-1-2cgej8skbgq5-jmug260823031.jpg",
-      "published_at": "2026-08-24T05:00:38+02:00",
+      "published_at": "2026-08-24T05:00:29+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "069bd32d219e"
+    },
+    {
+      "title": "La crédibilité de la Réserve fédérale américaine, l’institution financière la plus puissante au monde, est en jeu",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/24/la-credibilite-de-la-fed-l-institution-financiere-la-plus-puissante-au-monde-est-en-jeu_6754774_3234.html",
+      "summary": "La Fed traverse une période difficile : une inflation qui dépasse son objectif de 2 % depuis cinq ans, Donald Trump qui s’attaque à son indépendance, et un président, Kevin Warsh, dont les débuts sont mouvementés. Son discours à Jackson Hole, le 28 août, s’annonce crucial.",
+      "image": "https://img.lemde.fr/2026/08/12/0/0/5318/2659/644/322/60/0/f904d89_ftp-1-linqlcpiryq5-2026-08-12t100044z-1908774413-rc2helalrcgt-rtrmadp-3-usa-fed-investors.JPG",
+      "published_at": "2026-08-24T05:00:18+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "f885d892c55b"
+    },
+    {
+      "title": "Des œufs moins nombreux et plus petits : le double effet de l’été caniculaire sur les élevages de poules pondeuses",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/24/des-ufs-moins-nombreux-et-plus-petits-le-double-effet-de-l-ete-caniculaire-sur-les-elevages-de-poules-pondeuses_6754778_3234.html",
+      "summary": "Les épisodes de fortes chaleurs ont révélé les inégalités d’adaptation des élevages, alors que jusqu’à 2 % du cheptel est mort lors de la seule vague de juin. Au-delà de la surmortalité, la chaleur entraîne aussi une baisse de la ponte et des œufs de plus petit calibre, soit autant de pertes pour les éleveurs.",
+      "image": "https://img.lemde.fr/2026/08/14/982/0/5894/2947/644/322/60/0/8d59cbc_upload-1-egcf5aruhsb4-euge-nie-baccotl1006078.jpg",
+      "published_at": "2026-08-24T05:00:18+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "ca331150e171"
     },
     {
       "title": "Au Canada, le retour du front commun contre Donald Trump",
       "url": "https://www.lemonde.fr/international/article/2026/08/24/au-canada-le-retour-du-front-commun-contre-donald-trump_6754775_3210.html",
       "summary": "En réponse à de nouveaux droits de douane américains, après l’échec des discussions commerciales avec les Etats-Unis, Ottawa choisit la riposte. Cette nouvelle escalade ravive l’unité nationale autour de la défense de la souveraineté du pays.",
       "image": "https://img.lemde.fr/2026/08/23/486/0/5500/2750/644/322/60/0/76b82ce_ftp-1-fvdmr9jmx1oq-2026-08-23t214710z-279035158-rc2r3nahqyvu-rtrmadp-3-usa-trump-tariffs-canada.JPG",
-      "published_at": "2026-08-24T05:00:25+02:00",
-      "source": "Le Monde Inter",
+      "published_at": "2026-08-24T05:00:07+02:00",
+      "source": "Le Monde",
       "category": "International",
       "id": "2ed6fc62bcd2"
-    },
-    {
-      "title": "La crédibilité de la Fed, l’institution financière la plus puissante au monde, est en jeu",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/24/la-credibilite-de-la-fed-l-institution-financiere-la-plus-puissante-au-monde-est-en-jeu_6754774_3234.html",
-      "summary": "La Réserve fédérale américaine traverse une période difficile : une inflation qui dépasse son objectif de 2 % depuis cinq ans, Donald Trump qui s’attaque à son indépendance, et un président, Kevin Warsh, dont les débuts sont mouvementés. Son discours à Jackson Hole, le 28 août, s’annonce crucial.",
-      "image": "https://img.lemde.fr/2026/08/12/0/0/5318/2659/644/322/60/0/f904d89_ftp-1-linqlcpiryq5-2026-08-12t100044z-1908774413-rc2helalrcgt-rtrmadp-3-usa-fed-investors.JPG",
-      "published_at": "2026-08-24T05:00:24+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "f885d892c55b"
     },
     {
       "title": "Le géant de l’ultra-fast-fashion Shein confirme son entrée en Bourse à Hongkong en septembre",
@@ -171,136 +301,6 @@
       "source": "Le Monde",
       "category": "Économie",
       "id": "b20d09df87a6"
-    },
-    {
-      "title": "Ligue 1 : le PSG arrache le nul à Rennes grâce à Ferran Torres, Lille démarre fort, courte victoire pour Monaco",
-      "url": "https://www.lemonde.fr/sport/article/2026/08/24/ligue-1-le-psg-arrache-le-nul-a-rennes-grace-a-ferran-torres-lille-demarre-fort-courte-victoire-pour-monaco_6754673_3242.html",
-      "summary": "Contraint de disputer son premier match de la saison loin du Parc des Princes en raison de l’état de sa pelouse, le champion de France a longtemps couru après le score avant d’être relancé par ses recrues estivales.",
-      "image": "https://img.lemde.fr/2026/08/23/803/0/1782/891/644/322/60/0/9944067_ftp-1-2q1nxsquaqui-5906606-01-06.jpg",
-      "published_at": "2026-08-24T00:45:39+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "72424426ac92"
-    },
-    {
-      "title": "Quelles armes la France va-t-elle fournir à l’Ukraine pour lutter contre les attaques aériennes russes ?",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/quelles-armes-la-france-va-t-elle-fournir-a-l-ukraine-pour-lutter-contre-les-attaques-aeriennes-russes_8158811.html#xtor=RSS-3-[lestitres]",
-      "summary": "Comment protéger l'Ukraine des attaques aériennes russes, toujours plus meurtrières ? Ce sera l’enjeu des échanges entre les dirigeants alliés de Kiev, lundi 24 août. Emmanuel Macron a dit durant le week-end vouloir donner à l’Ukraine tous les moyens nécessaires pour défendre son ciel. Concrètement, que propose la France ?",
-      "image": "https://www.franceinfo.fr/pictures/57HTat48jhq7g7zVK7AAy0aSY9w/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b3c417a069061414624.jpg",
-      "published_at": "2026-08-23T22:55:29+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "dd70e2a59c81"
-    },
-    {
-      "title": "Le PSG a souffert à Rennes mais arrache le match nul dans le choc de la première journée de Ligue 1",
-      "url": "https://www.franceinfo.fr/sports/foot/ligue-1/le-psg-a-souffert-a-rennes-mais-arrache-le-match-nul-dans-le-choc-de-la-premiere-journee-de-ligue-1_8158859.html#xtor=RSS-3-[lestitres]",
-      "summary": "Menés à la pause, les Parisiens ont pu compter sur leurs recrues de l'été pour revenir à la hauteur du Stade rennais dimanche.",
-      "image": "https://www.franceinfo.fr/pictures/Ci0aQva5VqdPQ3BwcaJ9gwchFVk/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b56f4341e2602986191.jpg",
-      "published_at": "2026-08-23T22:39:05+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "1de1042958f4"
-    },
-    {
-      "title": "Après Chartres, la maire de Dijon désapprouve à son tour la venue de Patrick Bruel",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/23/apres-chartres-la-maire-de-dijon-desapprouve-a-son-tour-la-venue-de-patrick-bruel_6754607_3224.html",
-      "summary": "Le chanteur de 67 ans doit entamer une tournée de 35 dates début octobre pour célébrer les 35 ans de l’album « Alors regarde ».",
-      "image": "https://img.lemde.fr/2026/06/03/427/0/5125/2562/644/322/60/0/a48fe11_ftp-1-0ztvtijztfil-5216889-01-06.jpg",
-      "published_at": "2026-08-23T22:22:27+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "94760f176ffb"
-    },
-    {
-      "title": "Avec «Petites Musiques de jour», le retour à bas bruit réussi de Julien Baer",
-      "url": "https://www.liberation.fr/culture/musique/avec-petites-musiques-de-jour-le-retour-a-bas-bruit-reussi-de-julien-baer-20260823_WUSPRSIJMNCNXKS7T6IVRD5PY4/",
-      "summary": "Après dix-sept ans d’absence et des collaborations sur des disques et livres jeunesse, le musicien revient avec un album instrumental lumineux aux échos d’Ennio Morricone ou de François de Roubaix.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-23T20:21:00+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "7e60daa63fda"
-    },
-    {
-      "title": "Jacques Moretti, principal suspect dans l'incendie de Crans-Montana, placé en détention provisoire pour violences conjugales",
-      "url": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/jacques-moretti-principal-suspect-dans-l-incendie-de-crans-montana-place-en-detention-provisoire-pour-violences-conjugales_8158871.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le mari de Jessica Moretti a été interpellé dans la nuit du 11 au 12 août dernier, au domicile du couple dans le canton du Valais.",
-      "image": "https://www.franceinfo.fr/pictures/t-kqZJJMHTo91nhpE0gslIWrMVQ/0x208:4000x2458/432x243/filters:format(jpg):quality(50)/2026/02/13/ok-moretti-698f654f00111406362651.jpg",
-      "published_at": "2026-08-23T22:02:30+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "e781ee780d3b"
-    },
-    {
-      "title": "Israël met en garde le Hamas après le lancement de cerfs-volants depuis Gaza",
-      "url": "https://www.lemonde.fr/international/article/2026/08/23/israel-met-en-garde-le-hamas-apres-le-lancement-de-cerfs-volants-depuis-gaza_6754574_3210.html",
-      "summary": "« C’est la responsabilité de l’armée d’agir à temps », a déclaré de son côté Uri Epstein, un représentant des communautés qui vivent proches de la frontière avec Gaza, et dont beaucoup ont été attaquées lors de l’attaque du Hamas le 7 octobre 2023.",
-      "image": "https://img.lemde.fr/2026/08/22/720/0/8640/4320/644/322/60/0/ec300e6_ftp-1-pto2jugt1upu-1fdb58dc47eb4fe5b2ae5c3aa5b128b5-0-f3b27937dae14ddea70a7fe5386f8b14.jpg",
-      "published_at": "2026-08-23T21:52:28+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "c215ab5b9c2c"
-    },
-    {
-      "title": "Présidentielle 2027 : \"C'est une forme de satisfaction\" que Raphaël Glucksmann ait annoncé sa candidature, salue le député PS Arthur Delaporte",
-      "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/presidentielle-2027-c-est-une-forme-de-satisfaction-que-raphael-glucksmann-ait-annonce-sa-candidature-salue-le-depute-ps-arthur-delaporte_8158850.html#xtor=RSS-3-[lestitres]",
-      "summary": "Raphaël Glucksmann a annoncé dimanche sur TF1 sa candidature à la présidentielle et participera à la primaire sociale-démocrate organisée en octobre par le PS et son propre parti, Place publique.",
-      "image": "https://www.franceinfo.fr/pictures/Bjl2kCfkEcv7Eotq07QkSadS-zQ/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6ae86ec8400941680766.jpg",
-      "published_at": "2026-08-23T21:21:55+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "b206463a41a8"
-    },
-    {
-      "title": "Présidentielle : Raphaël Glucksmann est bel et bien candidat",
-      "url": "https://www.liberation.fr/politique/elections/presidentielle-raphael-glucksmann-est-bel-et-bien-candidat-20260823_V7X7J7ANVJERPODYUI6LSLQOSI/",
-      "summary": "Trois mois après son premier passage au 20 heures de TF1, le député européen a confirmé, ce dimanche, qu’il se lançait dans la course à l’Elysée. Un chemin périlleux, avec, pour première étape, la primaire organisée par le Parti socialiste.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-23T19:21:14+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "9517afa4664e"
-    },
-    {
-      "title": "Le cofondateur de Place publique, Raphaël Glucksmann, officialise sa candidature à l'élection présidentielle \"pour relever la France\"",
-      "url": "https://www.franceinfo.fr/elections/presidentielle/le-cofondateur-de-place-publique-raphael-glucksmann-officialise-sa-candidature-a-l-election-presidentielle-pour-relever-la-france_8158841.html#xtor=RSS-3-[lestitres]",
-      "summary": "Dans son programme, son obsession sera d'augmenter \"la rémunération nette des travailleurs\" par une baisse des prélèvements sociaux sur les salaires, a-t-il dit sur TF1.",
-      "image": "https://www.franceinfo.fr/pictures/BGiUQizm0_HVwzFvDfbAx1hOe1w/0x32:1024x608/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b469028ec9356641489.jpg",
-      "published_at": "2026-08-23T21:18:27+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "e27c5604864f"
-    },
-    {
-      "title": "Raphaël Glucksmann en campagne pour 2027 : ce n’est pas le tout d’être candidat",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/raphael-glucksmann-en-campagne-pour-2027-ce-nest-pas-le-tout-detre-candidat-20260823_RIVXGSGFNZA3XHVH6JZVX2SHXM/",
-      "summary": "Officiellement déclaré ce dimanche 23 août, le leader de Place publique, face à un Mélenchon préparé, a encore tout à construire, de ses soutiens à son programme, pour réussir sa course à la présidence.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-23T19:14:42+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "8165cbb729f7"
-    },
-    {
-      "title": "En Chine, des humanoïdes battent des records sportifs humains aux World Robot Games",
-      "url": "https://www.franceinfo.fr/sports/en-chine-des-humanoides-battent-des-records-sportifs-humains-aux-world-robot-games_8158808.html#xtor=RSS-3-[lestitres]",
-      "summary": "Lors de la cérémonie d'ouverture, samedi, un robot chinois a notamment battu le record du 100 mètres de la légende jamaïcaine Usain Bolt.",
-      "image": "https://www.franceinfo.fr/pictures/Rh6mDt4ewXgt2JhZJle81WCYYHY/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b434c4837d734243008.jpg",
-      "published_at": "2026-08-23T21:01:55+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "0879bc5f623a"
-    },
-    {
-      "title": "Léa Salamé se retire du « 20 heures » de France 2 après la déclaration officielle de candidature de Raphaël Glucksmann",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/23/lea-salame-se-retire-du-20-heures-de-france-2-apres-la-declaration-officielle-de-candidature-de-raphael-glucksmann_6754541_3234.html",
-      "summary": "Conformément à l’engagement pris dès son arrivée au JT de France Télévisions en 2025, la journaliste tire les conséquences de l’officialisation de la candidature de son compagnon à la présidentielle, et renonce à présenter le rendez-vous phare de l’information de service public.",
-      "image": "https://img.lemde.fr/2025/09/04/0/0/6192/3096/644/322/60/0/e563e99_ftp-import-images-1-8focqheoah7s-5795318-01-06.jpg",
-      "published_at": "2026-08-23T20:55:41+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "e4d344c5d58e"
     }
   ]
 }
