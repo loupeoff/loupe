@@ -1,12 +1,132 @@
 {
-  "generated_at": "2026-08-24T11:35:52.961495+00:00",
+  "generated_at": "2026-08-24T13:04:45.105487+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Le gouvernement dit travailler \"à une reconduction\" des aides au carburant et du chèque énergie",
+      "title": "« Les citoyens n’avaient plus confiance en nous » : en Belgique, des tentatives de revivifier la démocratie par le tirage au sort",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/24/les-citoyens-n-avaient-plus-confiance-en-nous-en-belgique-des-tentatives-de-revivifier-la-democratie-par-le-tirage-au-sort_6755401_3451060.html",
+      "summary": "« Permis d’espérer » (1/6). L’abstention massive, les promesses politiques non tenues et la prégnance des mouvements autoritaires fragilisent nos démocraties. Afin de remédier à cette crise, l’écrivain belge David Van Reybrouck a inspiré de nombreuses initiatives délibératives qui ravivent la pratique démocratique.",
+      "image": "https://img.lemde.fr/2026/08/11/478/0/5906/2953/644/322/60/0/e25d638_upload-1-0ixr8itjcub0-permisdesperer-illustration1-de-mocratie.jpg",
+      "published_at": "2026-08-24T15:00:10+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "25b46db41a6f"
+    },
+    {
+      "title": "Franchises médicales : le gouvernement veut faire passer le plafond annuel de 100 à 140 euros",
+      "url": "https://www.liberation.fr/societe/sante/franchises-medicales-le-gouvernement-veut-faire-passer-le-plafond-annuel-de-100-a-140-euros-20260824_MHDKQWC4GVDGXL3FIIGNROHXJQ/",
+      "summary": "Après avoir annoncé un doublement de ce montant non remboursé par l’Assurance maladie à 200 euros, l’exécutif a rétropédalé mais compte maintenir une augmentation et une réévaluation régulière en prenant en compte l’inflation, selon le projet de décret ce lundi 24 août.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-24T12:53:24+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "881a309fe9be"
+    },
+    {
+      "title": "\"La solitude des professeurs est infinie\" de Yannick Haenel : quand l’enseignement cessera-t-il d’être un sport de combat ?",
+      "url": "https://www.franceinfo.fr/culture/livres/la-rentree-litteraire/la-solitude-des-professeurs-est-infinie-de-yannick-haenel-quand-l-enseignement-cessera-t-il-d-etre-un-sport-de-combat_8076242.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le romancier signe une épopée abrasive sur l’impossible métier d’enseignant au prisme des tribulations de son double littéraire Jean Deichel, jeune prof de banlieue au bord de la crise de nerfs. Une ode à la littérature et à la transmission.",
+      "image": "https://www.franceinfo.fr/pictures/VqoA9l1ea6O69fC8-ed2R5s9cO4/0x0:3649x2052/432x243/filters:format(jpg):quality(50)/2026/06/23/6a3abcba5145a326861946.jpg",
+      "published_at": "2026-08-24T14:40:17+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "be4a342785a9"
+    },
+    {
+      "title": "L'Union européenne débloque 6,1 milliards d'euros d'aide militaire supplémentaires à l'Ukraine",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-union-europeenne-debloque-6-1-milliards-d-euros-d-aide-militaire-supplementaire-a-l-ukraine_8159606.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette nouvelle tranche doit notamment permettre à Kiev de renforcer sa défense aérienne et ses capacités en missiles et munitions. Elle est annoncée alors que l'Ukraine réunit lundi ses principaux soutiens européens.",
+      "image": "https://www.franceinfo.fr/pictures/FdhmaXfcKAq570xyfCsKvUjQvPE/0x0:3000x1687/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c330c07115505961201.jpg",
+      "published_at": "2026-08-24T14:37:34+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "014201635386"
+    },
+    {
+      "title": "Le comique belge Noël Godin, célèbre \"entarteur\" de personnalités, est mort à 80 ans",
+      "url": "https://www.franceinfo.fr/culture/le-comique-belge-noel-godin-celebre-entarteur-de-personnalites-est-mort-a-80-ans_8159618.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le comédien, surnommé Georges Le Gloupier, s'était fait connaître en lançant des tartes à la crème sur des personnalités qu'il jugeait trop vaniteuses. Bill Gates, Nicolas Sarkozy ou encore Bernard-Henri Lévy avaient notamment été pris pour cible.",
+      "image": "https://www.franceinfo.fr/pictures/3PqAODuBD4gL6Vn8b1fhOzH1JHg/0x0:4928x2772/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c37ff47459945090357.jpg",
+      "published_at": "2026-08-24T14:29:32+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "62fd155ff78c"
+    },
+    {
+      "title": "Rentrée piratée : l’Education nationale, otage de sa propre fragilité numérique, par Yannick Trigance",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/rentree-piratee-leducation-nationale-otage-de-sa-propre-fragilite-numerique-par-yannick-trigance-20260824_O2KHETPIHJDC7BQYMIWEAKXOGA/",
+      "summary": "Proviseurs et principaux ont découvert à leur retour de congés, des messageries inaccessibles et une administration paralysée face à une cyberattaque : une situation révélatrice de la dépendance totale à des outils centralisés, sans aucun «plan B», dénonce Yannick Trigance.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-24T12:26:02+00:00",
+      "source": "Libération",
+      "category": "Tech",
+      "id": "09d364c00f38"
+    },
+    {
+      "title": "Interdiction du portable au lycée : le gouvernement vise la rentrée, un «mauvais timing» pour les syndicats",
+      "url": "https://www.liberation.fr/societe/education/linterdiction-des-telephones-portables-dans-les-lycees-pourra-etre-effective-des-la-rentree-annonce-le-gouvernement-20260824_RTFEMFLBR5AA7PRYGU6Z2VJW6U/",
+      "summary": "La porte-parole Maud Bregeon a annoncé ce lundi 24 août qu’Emmanuel Macron va promulguer la loi, à une semaine du retour des élèves. Les lycées «ne sont pas prêts», rétorquent les syndicats de chefs d’établissements.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-24T12:20:45+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "c720b6a6a6d7"
+    },
+    {
+      "title": "Raphaël Glucksmann, Ségolène Royal... Qui sont (à ce stade) les candidats à la primaire socialiste pour la présidentielle 2027 ?",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-segolene-royal-qui-sont-a-ce-stade-les-candidats-a-la-primaire-socialiste-pour-la-presidentielle-2027_8159171.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le cofondateur de Place publique a officialisé dimanche sa participation. Il n'est pas le seul sur la ligne de départ, tandis que d'autres, à gauche, ne souhaitent pas prendre part à ce scrutin.",
+      "image": "https://www.franceinfo.fr/pictures/iZmbRO1jukawQGiFerAWFYM5occ/0x0:3840x2160/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c326b8f408474221910.jpg",
+      "published_at": "2026-08-24T14:09:28+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "f376689e6b53"
+    },
+    {
+      "title": "Découverte de pétrole au Brésil : « Lula protège-t-il les écosystèmes d’une main pour mieux les détruire de l’autre ? »",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/24/decouverte-de-petrole-au-bresil-lula-protege-t-il-les-ecosystemes-d-une-main-pour-mieux-les-detruire-de-l-autre_6755367_3232.html",
+      "summary": "Le président brésilien a qualifié de « passeport pour l’avenir » la récente découverte de pétrole au large de l’Amazonie. Dans une tribune au « Monde », l’économiste Philippe Delacote y voit le signe d’une société « pétro-toxicomane » confrontée à un dilemme crucial : le profit individuel ou l’intérêt commun.",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/ee60724_upload-1-xx9yh2cjsasg-frame-789.jpg",
+      "published_at": "2026-08-24T14:00:06+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "1f841ad6af1b"
+    },
+    {
+      "title": "Guerre en Ukraine : \"L'Ukraine est debout\", affirme Emmanuel Macron à l'occasion des 35 ans de son indépendance",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-une-nouvelle-reunion-de-la-coalition-des-volontaires-lundi-a-kiev-sur-fond-d-intensification-des-frappes_8159126.html#xtor=RSS-3-[lestitres]",
+      "summary": "Une réunion de la \"Coalition des volonatires\" a lieu lundi dans la capitale ukrinaienne. Volodymyr Zelensky espère que ses principaux soutiens européens vont lui livrer de nouveaux équipements de défense antiaérienne.",
+      "image": "https://www.franceinfo.fr/pictures/UcwnuCM94ag0IkNuQx-hEgOybcA/0x0:4496x2529/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c319a4659b659015815.jpg",
+      "published_at": "2026-08-24T13:58:41+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "197d8af113a4"
+    },
+    {
+      "title": "Présidentielle 2027 : se rallier à Jean-Luc Mélenchon ou Raphaël Glucksmann, \"c'est acter les gauches irréconciliables\", souligne l'écologiste David Cormand",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-se-rallier-a-jean-luc-melenchon-ou-raphael-glucksmann-c-est-acter-les-gauches-irreconciliables-souligne-l-ecologiste-david-cormand_8159594.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Accepter les gauches irréconciliables, c'est garantir la victoire des autres\", estime aussi l'eurodéputé écologiste David Cormand.",
+      "image": "https://www.franceinfo.fr/pictures/CImaWqMynASV-4n8s2G5ZFWs7GE/0x258:4978x3059/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c3017a256b976607780.jpg",
+      "published_at": "2026-08-24T13:52:47+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "68cd10652b7c"
+    },
+    {
+      "title": "Les orages font d'importants dégâts dans les Landes : 3 500 foyers toujours privés d’électricité",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/les-orages-font-d-importants-degats-dans-les-landes-3-500-foyers-toujours-prives-d-electricite_8159582.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dans la nuit du dimanche 23 au lundi 24 août, les Landes ont été frappées par de violents orages. Les dégâts sont très importants et plusieurs milliers de foyers sont encore privés d’électricité. La circulation des trains a dû être interrompue entre Dax et Hendaye.",
+      "image": "https://www.franceinfo.fr/pictures/4eg7dfzA9Kr1rWlQJyvzvmjn5lM/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c2a517bad8836236055.jpg",
+      "published_at": "2026-08-24T13:28:37+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "0e69cc0e6472"
+    },
+    {
+      "title": "Le gouvernement dit \"travailler à une reconduction\" des aides aux carburants et du chèque énergie",
       "url": "https://www.franceinfo.fr/economie/automobile/essence/le-gouvernement-dit-travailler-a-une-reconduction-des-aides-au-carburant-et-du-cheque-energie_8159576.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les dispositifs destinés aux secteurs les plus exposés et aux travailleurs modestes grands rouleurs expirent le 31 août. Le chèque énergie pourrait, lui, être maintenu dans le budget 2027.",
-      "image": "https://www.franceinfo.fr/pictures/M6od2wUr81T3ohMzhpK8-LnRWIw/0x302:4197x2663/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c288a3ed29643231571.jpg",
+      "summary": "Les dispositifs destinés aux secteurs les plus exposés et aux travailleurs modestes grands rouleurs expirent le 31 août, alors que les prix à la pompe restent élevés.",
+      "image": "https://www.franceinfo.fr/pictures/at_92SR2BjGGgJIKWpLvTN2EpxY/0x134:4197x2495/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c288a3ed29643231571.jpg",
       "published_at": "2026-08-24T13:27:52+02:00",
       "source": "France Info",
       "category": "Politique",
@@ -123,7 +243,7 @@
       "id": "c22b8cb99eff"
     },
     {
-      "title": "Budget 2027 : le gouvernement veut « ouvrir le débat à une contribution raisonnable des retraités »",
+      "title": "Budget 2027 : le gouvernement promet « beaucoup de rigueur » et appelle à un effort partagé",
       "url": "https://www.lemonde.fr/politique/article/2026/08/24/budget-2027-le-gouvernement-veut-ouvrir-le-debat-a-une-contribution-raisonnable-des-retraites_6755332_823448.html",
       "summary": "Réunis lundi à l’Elysée pour le premier conseil des ministres de la rentrée, les membres du gouvernement ont engagé la préparation du budget 2027, avec l’objectif affiché de réduire le déficit.",
       "image": "https://img.lemde.fr/2026/08/24/233/0/8000/4000/644/322/60/0/edba50a_upload-1-nsq5ivghp05m-jmug260824021.jpg",
@@ -153,16 +273,6 @@
       "id": "9b06226121fe"
     },
     {
-      "title": "L’interdiction des téléphones portables dans les lycées «pourra être effective dès la rentrée», annonce le gouvernement",
-      "url": "https://www.liberation.fr/societe/education/linterdiction-des-telephones-portables-dans-les-lycees-pourra-etre-effective-des-la-rentree-annonce-le-gouvernement-20260824_RTFEMFLBR5AA7PRYGU6Z2VJW6U/",
-      "summary": "La porte-parole Maud Bregeon a annoncé ce lundi 24 août que la loi sera promulguée par Emmanuel Macron, alors que les élèves retournent en classe la semaine prochaine.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-24T10:30:02+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "c720b6a6a6d7"
-    },
-    {
       "title": "En Syrie, l’ancien grand mufti, proche de Bachar Al-Assad, condamné à la prison à perpétuité pour avoir « attisé la guerre civile »",
       "url": "https://www.lemonde.fr/international/article/2026/08/24/en-syrie-l-ancien-grand-mufti-proche-de-bachar-al-assad-condamne-a-la-prison-a-perpetuite_6755330_3210.html",
       "summary": "Ahmad Hassoun était connu pour sa proximité avec le président déchu et ses apparitions répétées à ses côtés lors d’occasions religieuses.",
@@ -183,16 +293,6 @@
       "id": "9133905e9c37"
     },
     {
-      "title": "Guerre en Ukraine : l'UE annonce une nouvelle tranche de 6,1 milliards d'euros d'aide militaire, avant une réunion de la \"Coalition des volontaires\"",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-une-nouvelle-reunion-de-la-coalition-des-volontaires-lundi-a-kiev-sur-fond-d-intensification-des-frappes_8159126.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'Ukraine espère que ses principaux soutiens européens lui apporteront de nouveaux équipements de défense antiaérienne.",
-      "image": "https://www.franceinfo.fr/pictures/My1je_PLF26UxYrRhU6lshhaYuw/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8bf90c013de848700031.jpg",
-      "published_at": "2026-08-24T12:15:29+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "197d8af113a4"
-    },
-    {
       "title": "Budget 2027 : \"Tous devront faire des efforts\" face à l'\"urgence\" de réduire les déficits, prévient le ministre des Comptes publics",
       "url": "https://www.franceinfo.fr/politique/direct-budget-2027-le-gouvernement-travaille-a-une-reconduction-des-aides-pour-les-secteurs-les-plus-exposes-a-la-hausse-des-prix-du-carburant_8159252.html#xtor=RSS-3-[lestitres]",
       "summary": "Parmi les pistes du gouvernement, figure l'idée d'une moindre revalorisation des pensions de retraite pour les plus aisés.",
@@ -201,106 +301,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "8e38b39740ae"
-    },
-    {
-      "title": "La région Ile-de-France travaille \"depuis 18 mois\" sur la construction d’un parc \"Dragon Ball\", indique sa présidente Valérie Pécresse",
-      "url": "https://www.franceinfo.fr/culture/bd/mangas/la-region-ile-de-france-travaille-depuis-18-mois-sur-la-construction-d-un-parc-dragon-ball-indique-sa-presidente-valerie-pecresse_8159408.html#xtor=RSS-3-[lestitres]",
-      "summary": "Alors que le projet est porté par une société d'investissement saoudienne, Emmanuel Macron reçoit ce lundi le prince héritier saoudien Mohammed ben Salman pour une journée consacrée au renforcement des liens économiques entre Paris et Ryad.",
-      "image": "https://www.franceinfo.fr/pictures/1KBqGy6Ol-dHg5Hq-Y2xJISR2kE/0x0:4801x2700/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c0ee533ff2151809618.jpg",
-      "published_at": "2026-08-24T12:07:22+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "2e55660409ee"
-    },
-    {
-      "title": "Mort de Philippe Bouvard : Emmanuel Macron salue une \"figure libre\" qui a \"accompagné des générations de Français\"",
-      "url": "https://www.franceinfo.fr/economie/medias/direct-mort-de-philippe-bouvard-emmanuel-macron-salue-une-figure-libre-qui-a-accompagne-des-generations-de-francais_8159447.html#xtor=RSS-3-[lestitres]",
-      "summary": "La voix historique des \"Grosses Têtes\" sur RTL s'est éteinte lundi à l'âge de 96 ans.",
-      "image": "https://www.franceinfo.fr/pictures/BKnF5_kirTQQ9g5MyM2y1ifgnDk/0x26:1024x602/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c14c562e89631403505.jpg",
-      "published_at": "2026-08-24T12:06:43+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "f95328de0552"
-    },
-    {
-      "title": "SpaceX confirme son désir de tuer la Falcon 9, mais pas tout de suite",
-      "url": "https://www.numerama.com/sciences/2316563-spacex-confirme-son-desir-de-tuer-la-falcon-9-mais-pas-tout-de-suite.html",
-      "summary": "La Falcon 9 n’est pas éternelle. Elon Musk vient de rappeler que sa fusée star, qui domine outrageusement le marché mondial, a vocation à disparaître au profit du gigantesque Starship. Une transition industrielle implacable sur le papier, mais qui devrait s'étaler sur plusieurs années.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-24T10:01:00+00:00",
-      "source": "Numerama",
-      "category": "Économie",
-      "id": "b29421ab4df4"
-    },
-    {
-      "title": "L’Iran juge « illégale » l’expulsion par la France de deux diplomates iraniens",
-      "url": "https://www.lemonde.fr/international/article/2026/08/24/teheran-juge-illegale-l-expulsion-par-la-france-de-deux-diplomates-iraniens_6755295_3210.html",
-      "summary": "Cette décision a été prise en représailles à l’interdiction par Téhéran du retour de deux diplomates français sur son territoire, arrêtés en juillet pour « ingérence » et dont l’un avait été molesté, selon le ministre français des affaires étrangères.",
-      "image": "https://img.lemde.fr/2026/08/24/95/0/3599/1799/644/322/60/0/21a3ff1_upload-1-9m3o0ogxctxk-ap26179355008979.jpg",
-      "published_at": "2026-08-24T12:00:26+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "2f961d78b3fa"
-    },
-    {
-      "title": "Plus de Wi-Fi à l’étage ? Amazon brade ce système Mesh Wi-Fi 7 pour enfin capter la fibre",
-      "url": "https://www.numerama.com/tech/2316497-plus-de-wi-fi-a-letage-amazon-brade-ce-systeme-mesh-wi-fi-7-pour-enfin-capter-la-fibre.html",
-      "summary": "[Deal du jour] Une bonne offre fibre ne sert plus à grand-chose dès que deux murs suffisent à faire disparaître son signal. Il existe heureusement une solution pour étendre le Wi-Fi dans tout le logement, et elle est actuellement en promotion chez Amazon.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-24T09:50:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "d930c9aaefff"
-    },
-    {
-      "title": "Les Pays-Bas absents de la prochaine édition de l'Eurovision jugeant le concours pas assez \"neutre\"",
-      "url": "https://www.franceinfo.fr/culture/musique/les-pays-bas-absents-de-la-prochaine-edition-de-l-eurovision-jugeant-le-concours-pas-assez-neutre_8159360.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'édition 2027 du concours européen de la chanson se déboulera le 15 mai en Bulgarie, suite à la victoire cette année de la chanteuse bulgare Darina Yotova,",
-      "image": "https://www.franceinfo.fr/pictures/61ikqORfzFN-TjbJPjPTgcrI_rw/0x0:4349x2446/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c113302da7486294444.jpg",
-      "published_at": "2026-08-24T11:41:30+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "ba4844c53255"
-    },
-    {
-      "title": "Éclipse lunaire : quand aura lieu la prochaine éclipse de Lune ?",
-      "url": "https://www.numerama.com/sciences/644005-prochaine-eclipse-lunaire-date-visibilite.html",
-      "summary": "En 2026, deux éclipses de Lune ont lieu. La première était une éclipse totale de Lune, survenue début mars. La prochaine éclipse lunaire est imminente : elle a lieu cet été, juste après l'éclipse solaire du 12 août. Quand aura-t-elle lieu exactement, et que pourra-t-on voir ? La France pourra-t-elle en profiter ?",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-24T09:40:33+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "56732a583cc2"
-    },
-    {
-      "title": "L'Iran qualifie d'\"illégale\" l'annonce de l'expulsion de deux diplomates iraniens par la France",
-      "url": "https://www.franceinfo.fr/monde/iran/l-iran-qualifie-d-illegale-l-annonce-de-l-expulsion-de-deux-diplomates-iraniens-par-la-france_8159396.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cette décision intervient après que la République islamique a annoncé que deux diplomates français, brièvement arrêtés à Téhéran en juillet pour \"ingérence\" avant de quitter le pays, ne seraient pas autorisés à revenir en Iran.",
-      "image": "https://www.franceinfo.fr/pictures/Rdy35mKMcLbnjMF1cPkb3CWKFjk/0x73:1024x649/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c0e7417208850274873.jpg",
-      "published_at": "2026-08-24T11:38:29+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "ec5553a1cc23"
-    },
-    {
-      "title": "« Des plafonds pas encore terminés » : à Mayotte, une rentrée des classes encore marquée par le cyclone Chido",
-      "url": "https://www.lemonde.fr/education/article/2026/08/24/des-plafonds-pas-encore-termines-a-mayotte-une-rentree-des-classes-encore-marquee-par-le-cyclone-chido_6755262_1473685.html",
-      "summary": "Différentes mobilisations de parents d’élèves ont eu lieu ce jour de rentrée pour dénoncer la lenteur des réparations de certains établissements du premier degré.",
-      "image": "https://img.lemde.fr/2026/08/24/402/0/5585/2792/644/322/60/0/35e6925_upload-1-9hrgy3hudney-000-87bg3cq.jpg",
-      "published_at": "2026-08-24T11:34:12+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "89f9708cda1c"
-    },
-    {
-      "title": "Présidentielle 2027 : la transition écologique, combat commun de la gauche",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/24/presidentielle-2027-la-transition-ecologique-combat-commun-de-la-gauche_6755229_3232.html",
-      "summary": "Même s’il demeure des divergences profondes sur certains sujets, comme celui du nucléaire, toutes les formations de gauche considèrent, à raison, ce sujet comme une urgence.",
-      "image": "https://img.lemde.fr/2026/08/23/260/0/8256/4128/644/322/60/0/6b5d2de_upload-1-5bn3iyeiecd3-dsc-0161.jpg",
-      "published_at": "2026-08-24T11:30:06+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "e871de4b7529"
     }
   ]
 }
