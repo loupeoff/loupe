@@ -1,16 +1,46 @@
 {
-  "generated_at": "2026-08-24T21:36:28.965619+00:00",
+  "generated_at": "2026-08-24T22:34:58.209385+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "La tornade qui s'est abattue sur Pomas, dans l'Aude, a blessé 41 personnes, dont quinze ont été transportées à l'hôpital",
-      "url": "https://www.franceinfo.fr/environnement/meteo/direct-orages-le-trafic-aerien-est-perturbe-lundi-soir-dans-les-aeroports-de-paris-bordeaux-toulouse-marseille-et-nice_8160020.html#xtor=RSS-3-[lestitres]",
-      "summary": "Environ 300 habitations ont été \"impactées\", selon la préfecture, et des centres d'hébergement ont été ouverts.",
-      "image": "https://www.franceinfo.fr/pictures/w58Phb-JzD5jHIWdenneWcVqyUQ/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c930dc64be878718559.jpg",
-      "published_at": "2026-08-24T23:30:41+02:00",
+      "title": "Handicap : « Des milliers d’élèves n’ont pas l’accompagnement dont ils ont besoin », déplore l’Unapei",
+      "url": "https://www.lemonde.fr/education/article/2026/08/25/handicap-des-milliers-d-eleves-n-ont-pas-l-accompagnement-dont-ils-ont-besoin-deplore-l-unapei_6755823_1473685.html",
+      "summary": "L’association de parents d’enfants en situation de handicap mental alerte à chaque rentrée sur l’offre de scolarisation insuffisante ou inadaptée, et demande une meilleure coordination entre l’éducation nationale et le secteur médico-social.",
+      "image": "https://img.lemde.fr/2026/08/24/637/0/5800/2900/644/322/60/0/1f41dbb_upload-1-b6zbmw0h5dqd-000-32hj7ka.jpg",
+      "published_at": "2026-08-25T00:01:04+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "52af29fe2c4e"
+    },
+    {
+      "title": "«Que chaque élève puisse jouir de ses droits» : malgré quelques avancées, la scolarisation des enfants en situation de handicap loin d’être satisfaisante",
+      "url": "https://www.liberation.fr/societe/education/que-chaque-eleve-puisse-jouir-de-ses-droits-malgre-quelques-avancees-la-scolarisation-des-enfants-en-situation-de-handicap-loin-detre-satisfaisante-20260825_JAJE2ABKGRG4ZH6TW2XFLCN6UI/",
+      "summary": "Selon une enquête menée par l’Unapei, un réseau d’associations, plus de 7 jeunes en situation de handicap sur 10 reçoivent moins de douze heures de cours par semaine.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-24T22:01:00+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "1fb253982610"
+    },
+    {
+      "title": "Mort de Philippe Bouvard : l'imitateur Laurent Gerra rend hommage à un homme \"passionnant\"",
+      "url": "https://www.franceinfo.fr/economie/medias/direct-mort-de-philippe-bouvard-emmanuel-macron-salue-une-figure-libre-qui-a-accompagne-des-generations-de-francais_8159447.html#xtor=RSS-3-[lestitres]",
+      "summary": "Laurent Gerra a rendu hommage lundi à Philippe Bouvard, se souvenant d'un homme \"brillantissime\", doté d'\"une culture démente\", mais aussi de sa \"bonne humeur\" et de sa \"joie de vivre\".",
+      "image": "https://www.franceinfo.fr/pictures/yJqD3kBqm17MyhTOvowXYlxxeT4/0x0:3888x2187/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c489e276a3358252147.jpg",
+      "published_at": "2026-08-24T23:57:25+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "f95328de0552"
+    },
+    {
+      "title": "Orages : tous les modes de transports fortement perturbés dans le sud de la France",
+      "url": "https://www.franceinfo.fr/economie/transports/sncf/orages-tous-les-modes-de-transports-fortement-perturbes-dans-le-sud-de-la-france_8160119.html#xtor=RSS-3-[lestitres]",
+      "summary": "Des retards de trains sont notamment signalés entre Narbonne et Sète, a annoncé le ministre des Transports, Philippe Tabarot, ainsi que des suppressions en Nouvelle-Aquitaine.",
+      "image": "https://www.franceinfo.fr/pictures/5cyUAAJI8qYeBJfyRXT961rSm34/0x325:6240x3835/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8cbcc83eabb996912884.jpg",
+      "published_at": "2026-08-24T23:54:41+02:00",
       "source": "France Info",
       "category": "Politique",
-      "id": "3f2d428acdea"
+      "id": "4776c75a93e0"
     },
     {
       "title": "\"On n'oublie jamais\" : enquête auprès des agents de recouvrement, qui traquent un milliard d'euros d'amendes impayées",
@@ -45,7 +75,7 @@
     {
       "title": "Dans l’Aude, 41 blessés après une tornade ; la commune de Pomas partiellement détruite",
       "url": "https://www.lemonde.fr/planete/article/2026/08/24/une-tornade-frappe-l-aude-et-cause-26-blesses-une-centaine-d-habitations-touchees_6755657_3245.html",
-      "summary": "Deux centres d’hébergement ont été ouverts aux victimes pour la nuit. Plus de 100 sapeurs-pompiers sont mobilisés et des renforts sont attendus.",
+      "summary": "Deux centres d’hébergement ont été ouverts aux victimes pour la nuit. Plus de 120 sapeurs-pompiers sont mobilisés et des renforts sont attendus.",
       "image": "https://img.lemde.fr/2026/08/24/665/0/1174/587/644/322/60/0/af0ca67_ftp-1-e1wgd8xfdqzo-2026-08-24t191049z-164417186-rc275nax55jp-rtrmadp-3-france-weather.JPG",
       "published_at": "2026-08-24T22:15:58+02:00",
       "source": "Le Monde",
@@ -187,7 +217,7 @@
       "url": "https://www.lemonde.fr/international/article/2026/08/24/l-arabie-saoudite-prevoit-d-investir-6-milliards-d-euros-pour-creer-trois-parcs-d-attractions-pres-de-paris-annonce-emmanuel-macron_6755620_3211.html",
       "summary": "Le projet, présenté par Emmanuel Macron comme « du jamais vu depuis Disneyland Paris », devrait créer 22 000 emplois directs, selon les estimations du chef de l’Etat.",
       "image": "https://img.lemde.fr/2026/08/24/1121/0/8000/4000/644/322/60/0/ccccdc5_upload-1-mf8hmlg1iyrm-jmug260824091.jpg",
-      "published_at": "2026-08-24T21:01:36+02:00",
+      "published_at": "2026-08-24T21:01:34+02:00",
       "source": "Le Monde",
       "category": "Économie",
       "id": "0261cc40acbe"
@@ -271,36 +301,6 @@
       "source": "Libération",
       "category": "Économie",
       "id": "70c849a6b998"
-    },
-    {
-      "title": "Guerre commerciale entre le Canada et les Etats-Unis : «Que vaut un accord commercial avec un menteur ?»",
-      "url": "https://www.liberation.fr/international/amerique/guerre-commerciale-entre-le-canada-et-les-etats-unis-que-vaut-un-accord-commercial-avec-un-menteur-20260824_5OXLY7EOPZERJH7OPNRYWXJTWU/",
-      "summary": "Alors que Washington multiplie les menaces douanières, Ottawa cherche à se détourner progressivement de son premier marché. Une stratégie ambitieuse, mais économiquement risquée, selon le politologue québécois Stéphane Paquin.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-24T18:18:39+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "243253e3e40a"
-    },
-    {
-      "title": "Présidentielle 2027 : ne partons pas en «guerre de l’eau»",
-      "url": "https://www.liberation.fr/idees-et-debats/presidentielle-2027-ne-partons-pas-en-guerre-de-leau-20260824_D3WH2XQ7EZBQ7CAG45DDQONDOU/",
-      "summary": "La raréfaction de cette ressource vitale est taillée pour la bagarre entre les candidats, mais c’est la dernière chose dont nous avons besoin. Car il est urgent d’établir des règles de partage et de réduire les usages absurdes.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-24T18:17:09+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "86c46181cc52"
-    },
-    {
-      "title": "Emmanuel Macron et le prince héritier saoudien annoncent un mégaprojet de trois parcs d'attractions près de Paris, avec 22 000 emplois attendus",
-      "url": "https://www.franceinfo.fr/economie/6-milliards-d-euros-et-22-000-emplois-potentiels-le-projet-saoudien-d-un-nouveau-parc-d-attraction-en-region-parisienne_8159990.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le projet monumental a été officiellement annoncé lundi soir, alors que le prince héritier saoudien Mohammed Ben Salmane est en visite à l'Elysée.",
-      "image": "https://www.franceinfo.fr/pictures/fhrLy1wIA3D-Dqm-XYhgWJxFYFk/0x232:4480x2752/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c85b432ce9910227234.jpg",
-      "published_at": "2026-08-24T19:54:19+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "6a2afbda6dd9"
     }
   ]
 }
