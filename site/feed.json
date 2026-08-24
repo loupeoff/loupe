@@ -1,7 +1,167 @@
 {
-  "generated_at": "2026-08-24T17:37:13.146727+00:00",
+  "generated_at": "2026-08-24T18:51:31.547363+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "« Ça m’inquiète pour plusieurs raisons » : il laisse Claude démonter le logiciel interne de ses appareils et affiche un bilan effroyable",
+      "url": "https://www.numerama.com/cyberguerre/2316933-ca-minquiete-pour-plusieurs-raisons-il-laisse-claude-demonter-le-logiciel-interne-de-ses-appareils-et-affiche-un-bilan-effroyable.html",
+      "summary": "Avec l’aide d’un agent IA, un chercheur en sécurité a réussi à prendre le contrôle de cinq périphériques du quotidien, de la webcam à la lampe connectée.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-24T18:50:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "b44e1dc0909b"
+    },
+    {
+      "title": "Sauvetage du Starship : un navire spécial est sur zone pour repêcher la fusée géante",
+      "url": "https://www.numerama.com/sciences/2316773-le-sauvetage-hors-norme-de-la-fusee-geante-starship-se-prepare-un-bateau-special-est-sur-zone.html",
+      "summary": "Fin de la dérive pour le Starship. Pour rapatrier sa fusée géante depuis l'océan Indien sans l'abîmer davantage, SpaceX s'apprête à la hisser hors de l'eau grâce à un gigantesque navire semi-submersible.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-24T18:43:45+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "aca5220858c4"
+    },
+    {
+      "title": "Avis favorable à la construction d’un data center de Microsoft près de Mulhouse",
+      "url": "https://www.liberation.fr/economie/economie-numerique/avis-favorable-a-la-construction-dun-data-center-de-microsoft-pres-de-mulhouse-20260824_OZIE3S37WNEHND6RHXRGQZD7LM/",
+      "summary": "Malgré l’opposition de 80 % des contributions citoyennes, le projet à deux milliards d’euros doit voir le jour dès 2029 sur 35 hectares de terres agricoles. Les associations écologistes dénoncent notamment son importante consommation d’électricité et d’eau.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-24T18:40:28+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "af33f9aacd00"
+    },
+    {
+      "title": "Orages : une impressionnante tornade balaye la commune de Pomas, dans l'Aude",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/orages-une-impressionnante-tornade-balaye-l-aude_8160017.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'événement s'est produit à Pomas, près de Carcassonne. Des habitations ont été endommagées, des toitures arrachées, et plusieurs routes sont coupées par des chutes d'arbres.",
+      "image": "https://www.franceinfo.fr/pictures/jyoaYzRWpg5v3T6NcMImGUDXyjw/195x0:1543x758/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c89b8417d1043218395.png",
+      "published_at": "2026-08-24T20:40:00+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "9a883a16eec9"
+    },
+    {
+      "title": "Thème Dragon Ball, durée du chantier, emplois… Trois questions sur le projet de parcs d'attractions sur un site près de Paris",
+      "url": "https://www.franceinfo.fr/economie/theme-dragon-ball-duree-du-chantier-emplois-trois-questions-sur-le-projet-de-parcs-d-attractions-sur-un-site-pres-de-paris_8159987.html#xtor=RSS-3-[lestitres]",
+      "summary": "Emmanuel Macron et le prince héritier saoudien ont officialisé, lundi, le projet de trois parcs d'attractions, en région parisienne. \"Un projet de cette ampleur, c'est environ cinq à six années\" d'ici l'ouverture, estime sur franceinfo Maxime Guény, directeur de la publication de Parcs et Loisirs Magazine.",
+      "image": "https://www.franceinfo.fr/pictures/xOkyZpJwU2dq8XYNeS9oMSTRPNg/0x0:4300x2418/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c8fb8ab39b995739216.jpg",
+      "published_at": "2026-08-24T20:39:45+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "1acaf6091da5"
+    },
+    {
+      "title": "Orages : le trafic aérien est perturbé lundi soir dans les aéroports de Paris, Bordeaux, Toulouse, Marseille et Nice",
+      "url": "https://www.franceinfo.fr/environnement/meteo/direct-orages-le-trafic-aerien-est-perturbe-lundi-soir-dans-les-aeroports-de-paris-bordeaux-toulouse-marseille-et-nice_8160020.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Des retards et des annulations de vols sont à prévoir jusqu’à la fin de la soirée\", a prévenu le ministre des Transports, Philippe Tabarot, dans un message posté sur la plateforme X.",
+      "image": "https://www.franceinfo.fr/pictures/rXwJhRlk2IK4UldGD2UXkk2rXSU/0x1793:5000x4606/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c8a7387d2e989635436.jpg",
+      "published_at": "2026-08-24T20:37:17+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "3f2d428acdea"
+    },
+    {
+      "title": "En Ukraine, la mort d’Oleksi Ioukov, le « collecteur d’âmes » qui consacrait sa vie à exhumer les corps de soldats morts sur le front",
+      "url": "https://www.lemonde.fr/international/article/2026/08/24/en-ukraine-la-mort-d-oleksi-ioukov-le-collecteur-d-ames-qui-consacrait-sa-vie-a-exhumer-les-corps-de-soldats-morts-sur-le-front_6755690_3210.html",
+      "summary": "Depuis 2022, cet ancien professeur de boxe thaï avait contribué à dégager près de 4 000 corps des zones de combat, des Russes comme des Ukrainiens, des militaires comme des civils. Il a été tué le 5 août par l’explosion d’une mine dans le Donbass, à l’âge de 40 ans.",
+      "image": "https://img.lemde.fr/2026/08/24/804/0/7512/3756/644/322/60/0/7022dad_upload-1-nxhtif5jiama-raf-005.JPG",
+      "published_at": "2026-08-24T20:30:04+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "97c2aa109a6f"
+    },
+    {
+      "title": "«Du jamais vu depuis Disneyland Paris» : Macron annonce trois parcs d’attractions en Ile-de-France, financés par l’Arabie saoudite",
+      "url": "https://www.liberation.fr/economie/du-jamais-vu-depuis-disneyland-paris-macron-annonce-trois-parcs-dattraction-en-ile-de-france-finances-par-larabie-saoudite-20260824_25WRU3GYUNE3LPHQV6SGA6IQFU/",
+      "summary": "Le protocole d’accord signé lundi 24 août, à l’occasion de la visite de Mohammed ben Salmane, prévoit six milliards de dollars d’investissement et la création de 22 000 emplois directs.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-24T18:19:00+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "70c849a6b998"
+    },
+    {
+      "title": "Guerre commerciale entre le Canada et les Etats-Unis : «Que vaut un accord commercial avec un menteur ?»",
+      "url": "https://www.liberation.fr/international/amerique/guerre-commerciale-entre-le-canada-et-les-etats-unis-que-vaut-un-accord-commercial-avec-un-menteur-20260824_5OXLY7EOPZERJH7OPNRYWXJTWU/",
+      "summary": "Alors que Washington multiplie les menaces douanières, Ottawa cherche à se détourner progressivement de son premier marché. Une stratégie ambitieuse, mais économiquement risquée, selon le politologue québécois Stéphane Paquin.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-24T18:18:39+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "243253e3e40a"
+    },
+    {
+      "title": "Présidentielle 2027 : ne partons pas en «guerre de l’eau»",
+      "url": "https://www.liberation.fr/idees-et-debats/presidentielle-2027-ne-partons-pas-en-guerre-de-leau-20260824_D3WH2XQ7EZBQ7CAG45DDQONDOU/",
+      "summary": "La raréfaction de cette ressource vitale est taillée pour la bagarre entre les candidats, mais c’est la dernière chose dont nous avons besoin. Car il est urgent d’établir des règles de partage et de réduire les usages absurdes.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-24T18:17:09+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "86c46181cc52"
+    },
+    {
+      "title": "Une tornade frappe l’Aude et arrache plusieurs toitures, sans faire de blessés",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/24/une-tornade-frappe-l-aude-et-arrache-plusieurs-toitures-sans-faire-de-blesses_6755657_3244.html",
+      "summary": "Les pompiers procèdent à des interventions « pour des toitures arrachées » dans la commune de Pomas. Ils affirment ne pas avoir reçu, à ce stade, d’« information alarmante » sur d’éventuelles victimes.",
+      "image": "https://img.lemde.fr/2026/08/24/458/0/9504/4752/644/322/60/0/46dfd80_ftp-1-gf33lzix4v44-5912478-01-06.jpg",
+      "published_at": "2026-08-24T20:15:39+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "c82a3f4b8cb2"
+    },
+    {
+      "title": "Soutien de la Chine à l’Iran : « Personne ne peut échapper aux sanctions américaines », déclare le secrétaire au Trésor américain",
+      "url": "https://www.lemonde.fr/international/article/2026/08/24/soutien-de-la-chine-a-l-iran-personne-ne-peut-echapper-aux-sanctions-americaines-declare-le-secretaire-au-tresor-americain_6755656_3210.html",
+      "summary": "Les pays qui ne participeraient pas aux sanctions souhaitées par les Etats-Unis « partageront l’isolement de l’Iran » a mis en garde Scott Bessent, alors que Donald Trump a appelé durant le week-end un certain nombre de pays à se joindre à sa « guerre économique ».",
+      "image": "https://img.lemde.fr/2026/08/24/31/0/3296/1648/644/322/60/0/f29cdc5_ftp-1-5gzr7hgvzqd9-063dea6cad944e61ae26381346ac99a2-0-551b19add85b4a03b9a727f89fdb456f.jpg",
+      "published_at": "2026-08-24T20:10:53+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "fbe821a1423b"
+    },
+    {
+      "title": "Parcs d’attractions près de Paris : l’Arabie saoudite prévoit d’investir 6 milliards d’euros, annonce Emmanuel Macron",
+      "url": "https://www.lemonde.fr/international/article/2026/08/24/l-arabie-saoudite-prevoit-d-investir-6-milliards-d-euros-pour-creer-trois-parcs-d-attractions-pres-de-paris-annonce-emmanuel-macron_6755620_3210.html",
+      "summary": "Le projet, présenté par Emmanuel Macron comme « du jamais vu depuis Disneyland Paris », devrait créer 22 000 emplois directs, selon les estimations du chef de l’Etat.",
+      "image": "https://img.lemde.fr/2026/08/24/1121/0/8000/4000/644/322/60/0/ccccdc5_upload-1-mf8hmlg1iyrm-jmug260824091.jpg",
+      "published_at": "2026-08-24T19:56:48+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "de0e90f62458"
+    },
+    {
+      "title": "Six milliards d'euros et 22 000 emplois potentiels : le projet saoudien de trois parcs d'attractions sur un site de région parisienne",
+      "url": "https://www.franceinfo.fr/economie/6-milliards-d-euros-et-22-000-emplois-potentiels-le-projet-saoudien-d-un-nouveau-parc-d-attraction-en-region-parisienne_8159990.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le projet monumental a été officiellement annoncé lundi soir, alors que le prince héritier saoudien Mohammed Ben Salmane est en visite à l'Elysée.",
+      "image": "https://www.franceinfo.fr/pictures/fhrLy1wIA3D-Dqm-XYhgWJxFYFk/0x232:4480x2752/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c85b432ce9910227234.jpg",
+      "published_at": "2026-08-24T19:54:19+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "6a2afbda6dd9"
+    },
+    {
+      "title": "Arrivée de la pub sur ChatGPT : «OpenAI suit la logique classique des modèles économiques des moteurs de recherche et de certains médias»",
+      "url": "https://www.liberation.fr/economie/economie-numerique/arrivee-de-la-pub-sur-chatgpt-openai-suit-la-logique-classique-des-modeles-economiques-des-moteurs-de-recherche-et-de-certains-medias-20260824_P35ZDRKT5NE4LPPQ4EFMTVFN2E/",
+      "summary": "Depuis lundi 24 août, les utilisateurs du robot conversationnel doivent faire avec les annonces publicitaires, à l’instar des autres plateformes en ligne. Pour «Libé», la socioéconomiste Mathilde Abel analyse le mécanisme qui pousse les sites à succès à réorganiser leur offre.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-24T17:38:02+00:00",
+      "source": "Libération",
+      "category": "Tech",
+      "id": "11cb9f486be7"
+    },
+    {
+      "title": "«Casser le mythe d’être “possédé par le diable”» : plongée dans le sacerdoce d’exorciste, activité au succès d’enfer face aux malheurs du monde",
+      "url": "https://www.liberation.fr/societe/casser-le-mythe-detre-possede-par-le-diable-plongee-dans-le-sacerdoce-dexorciste-activite-au-succes-denfer-face-aux-malheurs-du-monde-20260824_APCBWMRLN5HZBEGVXMLJRTYSBI/",
+      "summary": "Il existe au sein de l’Eglise un Bureau national des exorcistes et quelque 120 prêtres proposant ce service gratuit. Loin de l’image folklorique souvent véhiculée, leur travail est en réalité centré sur le mal-être des personnes et s’articule de plus en plus avec le monde de la santé.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-24T17:34:31+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "9e8de7abe6f8"
+    },
     {
       "title": "J’ai testé le Google Pixel 11 Pro et j’ai l’impression d’avoir gardé mon Pixel 10 Pro",
       "url": "https://www.numerama.com/tech/2316699-jai-teste-le-google-pixel-11-pro-et-jai-limpression-davoir-garde-mon-pixel-10-pro.html",
@@ -141,166 +301,6 @@
       "source": "Le Monde",
       "category": "Sport",
       "id": "a1db4f105c4d"
-    },
-    {
-      "title": "Candidature de Raphaël Glucksmann, interdiction du portable au lycée, mort de Philippe Bouvard… L’actu de ce lundi 24 août",
-      "url": "https://www.liberation.fr/international/europe/candidature-de-raphael-glucksmann-interdiction-du-portable-au-lycee-mort-de-philippe-bouvard-lactu-de-ce-lundi-24-aout-20260824_TE5FKYZK5VGZXEAH6OGKN5HG7U/",
-      "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée du lundi 24 août.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-24T16:20:52+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "c3ce17c67e2a"
-    },
-    {
-      "title": "Inde : Tukaram Mundhe, le commissaire à la sécurité alimentaire qui mène une répression contre le manque d’hygiène",
-      "url": "https://www.liberation.fr/international/asie-pacifique/inde-tukaram-mundhe-le-commissaire-a-la-securite-alimentaire-qui-mene-une-repression-contre-le-manque-dhygiene-20260824_AAG3MDCU4ZEIPKB7NB73UQEV6E/",
-      "summary": "Le fonctionnaire, en poste depuis mai 2026, a suspendu les permis d’exploitation de points de vente Domino’s, Pizza Hut, mais aussi de restaurants réputés. Son style offensif a conquis de nombreux Indiens, mais inquiète les commerçants.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-24T16:09:46+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "798c4896e922"
-    },
-    {
-      "title": "Des soldats français ayant posé avec un drapeau symbole des suprémacistes blancs visés par une procédure disciplinaire",
-      "url": "https://www.liberation.fr/societe/police-justice/des-soldats-francais-ayant-pose-avec-un-drapeau-symbole-des-supremacistes-blancs-vises-par-une-procedure-disciplinaire-20260824_ALO2VRU4GBB4LCMUWU7RIO663U/",
-      "summary": "Le ministère des Armées a déclaré ce lundi 24 août avoir identifié les deux groupes de militaires concernés, photographiés alors qu’ils étaient munis d’un drapeau de la Rhodésie.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-24T16:08:06+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "512564f1d068"
-    },
-    {
-      "title": "Samuel Eto’o, président de la fédération camerounaise, soutient Gianni Infantino, qui « a changé le football » à la tête de la FIFA",
-      "url": "https://www.lemonde.fr/sport/article/2026/08/24/fifa-samuel-eto-o-president-de-la-federation-camerounaise-soutient-gianni-infantino-qui-a-change-le-football_6755550_3242.html",
-      "summary": "Le patron de la Fédération internationale de football est embourbé dans une crise depuis l’échec de son projet contesté et finalement abandonné d’ouvrir l’instance mondiale à des investisseurs privés.",
-      "image": "https://img.lemde.fr/2021/12/14/225/0/2698/1349/644/322/60/0/d675609_487610993-000-9uf8ux.jpg",
-      "published_at": "2026-08-24T18:06:12+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "008cda8b532b"
-    },
-    {
-      "title": "Il donne un nom de domaine à Claude en lui disant de « faire ce qu’il veut » : voici le résultat",
-      "url": "https://www.numerama.com/tech/2316885-il-donne-un-nom-de-domaine-a-claude-en-lui-disant-de-faire-ce-quil-veut-voici-le-resultat.html",
-      "summary": "Au début du mois d’août 2026, un développeur a confié un nom de domaine à Claude avec une consigne volontairement vague : construire ce qu’il voulait. Deux semaines plus tard, l’IA d’Anthropic administre un étrange réseau social conçu pour les agents IA, avec sa propre constitution, sa monnaie et plusieurs centaines de « citoyens ».",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-24T16:04:56+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "bc251f925fa8"
-    },
-    {
-      "title": "The Witcher 4 sortira en 2028, CD Projekt Red invite le public à patienter",
-      "url": "https://www.numerama.com/pop-culture/2317009-the-witcher-4-sortira-en-2028-cd-projekt-red-invite-le-public-a-patienter.html",
-      "summary": "Attendu de pied ferme par les fans, The Witcher 4 a enfin une fenêtre de sortie. CD Projekt Red vise 2028 pour lancer sa nouvelle saga portée par Ciri.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-24T16:04:19+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "62262c6eee28"
-    },
-    {
-      "title": "Sérophobie : deux hommes victimes de harcèlement et de menaces entament une grève de la faim pour interpeller l’Etat",
-      "url": "https://www.liberation.fr/societe/police-justice/serophobie-deux-hommes-victimes-de-harcelement-et-de-menaces-entament-une-greve-de-la-faim-pour-interpeller-letat-20260824_23XJ2FTJ6VCVXLZHKGEBOGOINY/",
-      "summary": "Motivée par les discriminations qu’ils ont subies ces dernières années, l’action de Christophe Paco et Nicolas Aragona a commencé ce lundi 24 août devant le tribunal de Reims. Venus avec une quantité limitée de leur traitement contre le VIH, ils espèrent une réponse rapide des pouvoirs publics.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-24T15:56:31+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "a7fe9ae54dc3"
-    },
-    {
-      "title": "L'interdiction des téléphones portables dans les lycées \"pourra être effective dès la rentrée\", confirme le gouvernement",
-      "url": "https://www.franceinfo.fr/societe/education/l-interdiction-des-telephones-portables-dans-les-lycees-pourra-etre-effective-des-la-rentree-confirme-le-gouvernement_8159561.html#xtor=RSS-3-[lestitres]",
-      "summary": "Emmanuel Macron a \"pris la décision de promulguer la loi\" qui contient cette disposition, malgré la censure par le Conseil constitutionnel de son volet principal sur l'interdiction des réseaux sociaux aux moins de 15 ans, a précisé la porte-parole du gouvernement.",
-      "image": "https://www.franceinfo.fr/pictures/XFvB_rAgzTLh0NdvT3yPXotr2CM/0x613:5894x3929/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c2294f11c5721546811.jpg",
-      "published_at": "2026-08-24T17:56:25+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "c618e6e5d966"
-    },
-    {
-      "title": "Amazon affiche enfin l’historique des prix : nous avons vérifié sa fiabilité",
-      "url": "https://www.numerama.com/tech/2316771-ce-nouveau-bouton-amazon-pourrait-vous-eviter-dacheter-au-pire-moment.html",
-      "summary": "Amazon commence à afficher directement l’historique des prix de certains produits. Une nouveauté prometteuse pour distinguer les vraies promotions des rabais trompeurs, mais peut-elle remplacer Keepa ? Nous avons comparé les deux outils.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-24T15:55:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "3edb1b1f9ee2"
-    },
-    {
-      "title": "«On paye les économies faites sur la sécurité» : une préparation de rentrée compliquée par la cyberattaque contre l’Education nationale",
-      "url": "https://www.liberation.fr/societe/education/on-paye-les-economies-faites-sur-la-securite-une-preparation-de-rentree-compliquee-par-la-cyberattaque-contre-leducation-nationale-20260824_XWW3A7JLOBCHFNPD3WW3IDFIP4/",
-      "summary": "Septembre approche, mais la tâche est rendue ardue par des cybercriminels pour les chefs d’établissement. Xavier Yvart, secrétaire académique du syndicat SNPDEN-Unsa, revient sur les enjeux soulevés par ces incidents.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-24T15:54:35+00:00",
-      "source": "Libération",
-      "category": "Tech",
-      "id": "b11793213625"
-    },
-    {
-      "title": "Bally Bagayoko visé par une enquête du Parquet national financier pour détournement de fonds publics",
-      "url": "https://www.liberation.fr/politique/bally-bagayoko-vise-par-une-enquete-du-parquet-national-financier-pour-detournement-de-fonds-publics-20260824_Y57MGUQWWZC57APB5MMQ3LCAIY/",
-      "summary": "Le maire insoumis de Saint-Denis, qui a fait l’objet d’une plainte déposée par l’association AC !! Anti-Corruption, est mis en cause pour le cumul présumé de ses anciennes fonctions d’élu et de cadre de la RATP.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-24T15:54:17+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "945e3ee4cdaf"
-    },
-    {
-      "title": "Orages : 20 départements en vigilance orange ce lundi, une étape de la Vuelta annulée et une tornade vers Carcassonne",
-      "url": "https://www.liberation.fr/environnement/climat/orages-16-departements-en-vigilance-orange-ce-lundi-20260824_QY4PGJPGUZDVXGDTVTV5WN73KU/",
-      "summary": "Des vents pouvant dépasser 100 km/h et de la grêle se sont abattus du Sud-Ouest au Sud-Est, en passant par le Massif central, ainsi que dans les deux départements corses.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-24T15:53:53+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "1b1f0c7bf492"
-    },
-    {
-      "title": "La 3e étape de la Vuelta entre Gruissan et Font-Romeu annulée à cause d'un orage de grêle à une quinzaine de kilomètres de l'arrivée",
-      "url": "https://www.franceinfo.fr/sports/cyclisme/vuelta/la-3e-etape-de-la-vuelta-entre-gruissan-et-font-romeu-annulee-a-cause-d-un-orage-de-grele-a-une-quinzaine-de-kilometres-de-l-arrivee_8159828.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les coureurs ont été contraints de se mettre à l'abri dans un hôtel, à cause de conditions météo dantesques.",
-      "image": "https://www.franceinfo.fr/pictures/E6eoStbcctGCEdfXGyp6u3jjeXY/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c6ced6bb4b866281564.jpg",
-      "published_at": "2026-08-24T17:48:10+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "69dbacd2ef12"
-    },
-    {
-      "title": "Le maire LFI de Saint-Denis, Bally Bagayoko, visé par une enquête pour détournement de fonds publics",
-      "url": "https://www.franceinfo.fr/politique/le-maire-lfi-de-saint-denis-bally-bagayoko-vise-par-une-enquete-pour-detournement-de-fonds-publics_8159837.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Parquet national financier a ouvert une enquête visant Bally Bagayoko, maire La France insoumise (LFI) de Saint-Denis, notamment pour détournement de fonds publics, après une plainte concernant le cumul de son emploi à la RATP et de ses fonctions d'élu.",
-      "image": "https://www.franceinfo.fr/pictures/8nKc1D32zhcH49_L0s8TernpXnE/0x188:7416x4359/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c60dc58fd6536816026.jpg",
-      "published_at": "2026-08-24T17:46:57+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "f1a0019f6831"
-    },
-    {
-      "title": "Bally Bagayoko, maire de Saint-Denis, visé par une enquête pour détournement de fonds publics concernant son emploi à la RATP",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/24/bally-bagayoko-maire-de-saint-denis-vise-par-une-enquete-pour-detournement-de-fonds-publics-concernant-son-emploi-a-la-ratp_6755547_3224.html",
-      "summary": "Cette enquête préliminaire vise à « procéder aux vérifications utiles concernant les conditions d’emploi » de M. Bagayoko à la régie des transports parisiens, selon le PNF.",
-      "image": "https://img.lemde.fr/2026/08/24/46/0/5564/2782/644/322/60/0/4bc86f7_upload-1-gre6ekx1nmxb-000-a6fz8nj.jpg",
-      "published_at": "2026-08-24T17:44:50+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "ee0d5259a991"
-    },
-    {
-      "title": "Interdiction du téléphone portable au lycée : la mesure « pourra être effective dès la rentrée », assure le gouvernement",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/24/interdiction-du-telephone-portable-au-lycee-la-mesure-pourra-etre-effective-des-la-rentree-assure-le-gouvernement_6755546_3224.html",
-      "summary": "Malgré une volonté de l’exécutif de voir la mesure appliquer au plus vite, des doutes existent sur sa mise en place : les établissements doivent modifier leur règlement intérieur, ce qui suppose de consulter plusieurs instances. Mais des lycées n’ont pas été en mesure de mener cette procédure pour cause de fermeture durant l’été.",
-      "image": "https://img.lemde.fr/2026/08/24/625/0/5894/2947/644/322/60/0/abf89ce_ftp-1-daiacki8l1qv-5910454-01-06.jpg",
-      "published_at": "2026-08-24T17:42:16+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "52c40763f38d"
     }
   ]
 }
