@@ -1,14 +1,144 @@
 {
-  "generated_at": "2026-08-24T03:11:29.598422+00:00",
+  "generated_at": "2026-08-24T04:54:21.566171+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "En Ukraine, l’appel de Mykhaïlo Fedorov à organiser des élections froidement accueilli",
+      "url": "https://www.lemonde.fr/international/article/2026/08/24/en-ukraine-l-appel-de-mykhailo-fedorov-a-organiser-des-elections-froidement-accueilli_6754889_3210.html",
+      "summary": "L’ex-ministre de la défense avait réclamé, dans une vidéo publiée mardi, la tenue d’un scrutin malgré la guerre, tout en dénonçant la corruption au sein du pouvoir. « Des élections maintenant, c’est un tsunami qui fracturerait l’Ukraine », a répondu Volodymyr Zelensky.",
+      "image": "https://img.lemde.fr/2026/08/23/216/0/2592/1296/644/322/60/0/9516f83_ftp-1-bvo0sn2ld9ap-5902657-01-06.jpg",
+      "published_at": "2026-08-24T06:45:05+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "6b096649f3b1"
+    },
+    {
+      "title": "Seize départements placés en vigilance orange aux orages à partir de lundi après-midi",
+      "url": "https://www.franceinfo.fr/environnement/meteo/seize-departements-places-en-vigilance-orange-aux-orages-a-partir-de-lundi-apres-midi_8159069.html#xtor=RSS-3-[lestitres]",
+      "summary": "Des \"orages virulents\" sont d'abord attendus \"sur une large partie sud-ouest du pays\", puis gagneront le Massif central et le Sud-Est, prévient Météo-France.",
+      "image": "https://www.franceinfo.fr/pictures/OAoKGl2nvoLlSrySBSStJXsq1s8/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8bc8bc89ebc096194128.jpg",
+      "published_at": "2026-08-24T06:37:24+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "32dcd8c4c734"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : les principaux soutiens européens de Kiev se réunissent lundi, sur fond d’intensification des frappes",
+      "url": "https://www.lemonde.fr/international/live/2026/08/24/en-direct-guerre-en-ukraine-les-principaux-soutiens-europeens-de-kiev-se-reunissent-lundi-sur-fond-d-intensification-des-frappes_6753793_3210.html",
+      "summary": "Cette rencontre des Etats membres de la « coalition des volontaires », organisée le jour du 35e anniversaire de la proclamation de l’indépendance de l’Ukraine, sera coprésidée par le Royaume-Uni, la France et l’Allemagne. Le président du Conseil européen, Antonio Costa, y est attendu.",
+      "image": "https://img.lemde.fr/2026/06/18/248/0/2976/1488/644/322/60/0/034855e_ftp-1-sjbiofsjrtua-5365375-01-06.jpg",
+      "published_at": "2026-08-24T06:29:24+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "517a860603d5"
+    },
+    {
+      "title": "De Nicéphore Niépce aux télescopes spatiaux, Montpellier retrace les toutes premières fois de la photographie",
+      "url": "https://www.liberation.fr/culture/photographie/de-nicephore-niepce-aux-telescopes-spatiaux-montpellier-retrace-les-toutes-premieres-fois-de-la-photographie-20260824_ZH26BO67ANDAHMP232Q7A6GN4I/",
+      "summary": "Didactique et riche en anecdotes, l’exposition du Pavillon populaire retrace deux cents ans d’inventions liées au médium. Jusqu’au 1er novembre.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-24T04:22:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "319cedc64fda"
+    },
+    {
+      "title": "\"On se retrouve dedans sans forcément s'en rendre compte\" : les effets dévastateurs de l'addiction à la kétamine chez les jeunes inquiètent les spécialistes",
+      "url": "https://www.franceinfo.fr/sante/drogue-addictions/on-se-retrouve-dedans-sans-forcement-s-en-rendre-compte-les-effets-devastateurs-de-l-addiction-a-la-ketamine-chez-les-jeunes-inquietent-les-specialistes_8125583.html#xtor=RSS-3-[lestitres]",
+      "summary": "Longtemps consommée dans les seuls espaces festifs, notamment dans les soirées techno, la poudre blanche prend de l'ampleur dans la jeune génération, toutes classes sociales confondues, avec des conséquences ravageuses sur la santé des plus accros.",
+      "image": "https://www.franceinfo.fr/pictures/akZzChvsSv1aOuPvoHN4bO6IVS0/0x0:3840x2160/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85bf446a3c3415633957.jpg",
+      "published_at": "2026-08-24T06:02:06+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "5b967daacc34"
+    },
+    {
+      "title": "Guerre en Ukraine : quels sont les enjeux de la nouvelle réunion de la coalition des volontaires",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quels-sont-les-enjeux-de-la-nouvelle-reunion-de-la-coalition-des-volontaires_8157416.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dans un contexte d'intensification des frappes, les principaux soutiens de Kiev échangeront lundi à la mi-journée. Emmanuel Macron a déjà annoncé samedi l'envoi de nouveaux missiles intercepteurs pour aider Ukraine.",
+      "image": "https://www.franceinfo.fr/pictures/zZMVbsszZp6E8jjRcKZaDaDYVT0/0x0:5378x3025/432x243/filters:format(jpg):quality(50)/2026/08/22/6a89c442ba3ba531841906.jpg",
+      "published_at": "2026-08-24T06:01:12+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "6f88ac8cda1d"
+    },
+    {
+      "title": "Le canal de Suez, naissance et mort d’un mythe colonial, promesse d’un Orient où se mêlent aventure et fortune",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/24/le-canal-de-suez-naissance-et-mort-d-un-mythe-colonial-promesse-d-un-orient-ou-se-melent-aventure-et-fortune_6754854_3451060.html",
+      "summary": "« Suez, canal historique » (1/6). En 1869, la création d’un axe maritime permettant de relier la Méditerranée et la mer Rouge, exploité par les Français et les Britanniques, fascine l’Europe. D’abord symbole d’oppression coloniale pour le peuple égyptien, la voie d’eau devient un instrument d’émancipation quand le président Nasser annonce sa nationalisation, il y a tout juste soixante-dix ans, le ",
+      "image": "https://img.lemde.fr/2026/08/04/599/0/4000/2000/644/322/60/0/9dca532_upload-1-yboi8znzjbjf-img-7549.jpg",
+      "published_at": "2026-08-24T06:00:52+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "f060e786eead"
+    },
+    {
+      "title": "Minerais critiques : comment l’Afrique cherche à rééquilibrer le rapport de force avec les pays extracteurs",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/24/minerais-critiques-comment-l-afrique-cherche-a-reequilibrer-le-rapport-de-force-avec-les-pays-extracteurs_6754852_3212.html",
+      "summary": "Une quinzaine de pays africains, producteurs de cobalt, de manganèse ou de lithium, ont décrété des embargos ou des quotas depuis 2023, pour contraindre les opérateurs extérieurs à investir localement dans la transformation de ces minéraux.",
+      "image": "https://img.lemde.fr/2026/08/17/700/0/4200/2100/644/322/60/0/78fc6ca_upload-1-luvmpksepjqo-000-73hq8e9.jpg",
+      "published_at": "2026-08-24T06:00:38+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "0c5d220f8c7b"
+    },
+    {
+      "title": "La GPA pour les étrangers aux Etats-Unis mise à mal par Donald Trump",
+      "url": "https://www.lemonde.fr/international/article/2026/08/24/la-gpa-pour-les-etrangers-aux-etats-unis-mise-a-mal-par-donald-trump_6754849_3210.html",
+      "summary": "Un récent décret supprime le droit à la citoyenneté pour les enfants nés après une gestation pour autrui lorsque les parents d’intention sont étrangers. Dans le viseur de Washington, les Chinois, qui sont les plus nombreux à avoir recours à cette pratique, devant les Français.",
+      "image": "https://img.lemde.fr/2026/08/22/0/0/6400/3200/644/322/60/0/d664009_ftp-1-lt59w5tmmvdi-5892239-01-06.jpg",
+      "published_at": "2026-08-24T06:00:12+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "321e9926aecd"
+    },
+    {
+      "title": "Le badminton français sur le toit du monde, les Bleus champions d'Europe de cécifoot et l'OM premier leader de Ligue 1... Le récap sport du week-end",
+      "url": "https://www.franceinfo.fr/sports/le-badminton-francais-sur-le-toit-du-monde-les-bleus-champions-d-europe-de-cecifoot-et-l-om-premier-leader-de-ligue-1-le-recap-sport-du-week-end_8158721.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le week-end a été aussi marqué par les deux premières étapes de Vuelta, avec déjà un certain Tadej Pogacar aux commandes.",
+      "image": "https://www.franceinfo.fr/pictures/PagoGgpeH9NUeBVPAB0Y-h8nHMA/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b62e5ee299858853855.jpg",
+      "published_at": "2026-08-24T06:00:01+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "8982c4b43bf3"
+    },
+    {
+      "title": "Soutiens, sondages, programme… Sur quoi s'appuie la candidature de Raphaël Glucksmann, qui lance sa campagne pour la présidentielle 2027 ?",
+      "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/soutiens-sondages-programme-sur-quoi-s-appuie-la-candidature-de-raphael-glucksmann-qui-lance-sa-campagne-pour-la-presidentielle-2027_8153303.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le député européen a annoncé dimanche soir sa candidature à la primaire du Parti socialiste, et indirectement à l'élection présidentielle de 2027.",
+      "image": "https://www.franceinfo.fr/pictures/PM8HB_RgttYZ28cj03GxpjgcKEs/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a856d7080e10321602273.jpg",
+      "published_at": "2026-08-24T05:59:29+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "d2f81f3e3350"
+    },
+    {
+      "title": "Présidentielle 2027 : la bataille des gauches irréconciliables est lancée",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/24/presidentielle-2027-la-bataille-des-gauches-irreconciliables-est-lancee_6754812_823448.html",
+      "summary": "Lors de l’université d’été de La France insoumise, où il a prononcé un discours très centré sur la planification écologique, Jean-Luc Mélenchon a multiplié les appels du pied pour attirer les Ecologistes. Son rival à gauche, Raphaël Glucksmann a, lui, annoncé sa candidature au « 20 heures » de TF1.",
+      "image": "https://img.lemde.fr/2026/08/23/688/0/8256/4128/644/322/60/0/d800718_upload-1-uhk1uwt42eoo-dsc-3986.jpg",
+      "published_at": "2026-08-24T05:30:36+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "b30889b4fb5f"
+    },
+    {
+      "title": "Avec Sonia Mabrouk, BFM-TV parie sur une figure des médias Bolloré pour reconquérir des parts de marché",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/24/avec-sonia-mabrouk-bfm-tv-parie-sur-une-figure-des-medias-bollore-pour-reconquerir-des-parts-de-marche_6754777_3234.html",
+      "summary": "Partie de CNews et d’Europe 1 au cours de l’hiver, la journaliste sera sur l’antenne cinq soirs par semaine, dans un créneau qui la verra affronter Christine Kelly et Pascal Praud sur CNews, et David Pujadas et Darius Rochebin sur LCI.",
+      "image": "https://img.lemde.fr/2026/08/19/191/0/7490/3745/644/322/60/0/dc4814e_ftp-1-ro7n8jgjmv4x-5871976-01-06.jpg",
+      "published_at": "2026-08-24T05:00:42+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "881b38e5b491"
+    },
     {
       "title": "Emmanuel Macron et le prince saoudien « MBS » ont clôturé l’Esports World Cup, à Paris",
       "url": "https://www.lemonde.fr/pixels/article/2026/08/24/emmanuel-macron-et-le-prince-saoudien-mbs-ont-cloture-l-esports-world-cup-a-paris_6754776_4408996.html",
       "summary": "Organisé au Grand Palais, à Paris, l’événement s’est achevé, dimanche, après sept semaines de compétitions de jeux vidéo. Véritable point d’orgue du « soft power » saoudien en la matière, il a rassemblé de nombreuses stars et personnalités politiques.",
       "image": "https://img.lemde.fr/2026/08/23/656/0/8000/4000/644/322/60/0/aecb61f_upload-1-2cgej8skbgq5-jmug260823031.jpg",
       "published_at": "2026-08-24T05:00:38+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "069bd32d219e"
     },
@@ -28,7 +158,7 @@
       "summary": "La Réserve fédérale américaine traverse une période difficile : une inflation qui dépasse son objectif de 2 % depuis cinq ans, Donald Trump qui s’attaque à son indépendance, et un président, Kevin Warsh, dont les débuts sont mouvementés. Son discours à Jackson Hole, le 28 août, s’annonce crucial.",
       "image": "https://img.lemde.fr/2026/08/12/0/0/5318/2659/644/322/60/0/f904d89_ftp-1-linqlcpiryq5-2026-08-12t100044z-1908774413-rc2helalrcgt-rtrmadp-3-usa-fed-investors.JPG",
       "published_at": "2026-08-24T05:00:24+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "f885d892c55b"
     },
@@ -53,24 +183,14 @@
       "id": "72424426ac92"
     },
     {
-      "title": "Arthur Fils remporte le Masters 1000 de Cincinnati, le premier sacre d’un Français dans cette catégorie de tournoi depuis 2014",
-      "url": "https://www.lemonde.fr/sport/article/2026/08/24/arthur-fils-remporte-le-masters-1000-de-cincinnati-le-premier-sacre-d-un-francais-dans-cette-categorie-de-tournoi-depuis-2014_6754640_3242.html",
-      "summary": "Le tennisman francilien de 22 ans a battu l’Américain Frances Tiafoe (6-3, 1-6, 6-0), dimanche en finale. Avant lui, seul Guy Forget avait réussi à inscrire son nom au palmarès de la compétition depuis sa création en 1899.",
-      "image": "https://img.lemde.fr/2026/08/23/159/0/4949/2474/644/322/60/0/48e6756_ftp-1-7eknsxgr3r6c-5907025-01-06.jpg",
-      "published_at": "2026-08-24T00:31:43+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "8f999979159c"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : les principaux soutiens européens de Kiev se réunissent lundi, sur fond d’intensification des frappes",
-      "url": "https://www.lemonde.fr/international/live/2026/08/23/en-direct-guerre-en-ukraine-mykhailo-fedorov-demande-a-volodymyr-zelensky-de-s-expliquer-sur-la-corruption-dans-son-entourage_6753793_3210.html",
-      "summary": "Cette rencontre des Etats membres de la « coalition des volontaires », organisée le jour du 35e anniversaire de la proclamation de l’indépendance de l’Ukraine, sera coprésidée par le Royaume-Uni, la France et l’Allemagne. Le président du Conseil européen, Antonio Costa, y est attendu.",
-      "image": "https://img.lemde.fr/2026/06/18/248/0/2976/1488/644/322/60/0/034855e_ftp-1-sjbiofsjrtua-5365375-01-06.jpg",
-      "published_at": "2026-08-23T23:42:47+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "3a9c0a410181"
+      "title": "Quelles armes la France va-t-elle fournir à l’Ukraine pour lutter contre les attaques aériennes russes ?",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/quelles-armes-la-france-va-t-elle-fournir-a-l-ukraine-pour-lutter-contre-les-attaques-aeriennes-russes_8158811.html#xtor=RSS-3-[lestitres]",
+      "summary": "Comment protéger l'Ukraine des attaques aériennes russes, toujours plus meurtrières ? Ce sera l’enjeu des échanges entre les dirigeants alliés de Kiev, lundi 24 août. Emmanuel Macron a dit durant le week-end vouloir donner à l’Ukraine tous les moyens nécessaires pour défendre son ciel. Concrètement, que propose la France ?",
+      "image": "https://www.franceinfo.fr/pictures/57HTat48jhq7g7zVK7AAy0aSY9w/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b3c417a069061414624.jpg",
+      "published_at": "2026-08-23T22:55:29+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "dd70e2a59c81"
     },
     {
       "title": "Le PSG a souffert à Rennes mais arrache le match nul dans le choc de la première journée de Ligue 1",
@@ -81,6 +201,16 @@
       "source": "France Info",
       "category": "Sport",
       "id": "1de1042958f4"
+    },
+    {
+      "title": "Après Chartres, la maire de Dijon désapprouve à son tour la venue de Patrick Bruel",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/23/apres-chartres-la-maire-de-dijon-desapprouve-a-son-tour-la-venue-de-patrick-bruel_6754607_3224.html",
+      "summary": "Le chanteur de 67 ans doit entamer une tournée de 35 dates début octobre pour célébrer les 35 ans de l’album « Alors regarde ».",
+      "image": "https://img.lemde.fr/2026/06/03/427/0/5125/2562/644/322/60/0/a48fe11_ftp-1-0ztvtijztfil-5216889-01-06.jpg",
+      "published_at": "2026-08-23T22:22:27+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "94760f176ffb"
     },
     {
       "title": "Avec «Petites Musiques de jour», le retour à bas bruit réussi de Julien Baer",
@@ -167,140 +297,10 @@
       "url": "https://www.lemonde.fr/economie/article/2026/08/23/lea-salame-se-retire-du-20-heures-de-france-2-apres-la-declaration-officielle-de-candidature-de-raphael-glucksmann_6754541_3234.html",
       "summary": "Conformément à l’engagement pris dès son arrivée au JT de France Télévisions en 2025, la journaliste tire les conséquences de l’officialisation de la candidature de son compagnon à la présidentielle, et renonce à présenter le rendez-vous phare de l’information de service public.",
       "image": "https://img.lemde.fr/2025/09/04/0/0/6192/3096/644/322/60/0/e563e99_ftp-import-images-1-8focqheoah7s-5795318-01-06.jpg",
-      "published_at": "2026-08-23T20:55:44+02:00",
+      "published_at": "2026-08-23T20:55:41+02:00",
       "source": "Le Monde Politique",
       "category": "Politique",
       "id": "e4d344c5d58e"
-    },
-    {
-      "title": "La ministre déléguée à la Formation professionnelle appelle les entreprises à embaucher des apprentis",
-      "url": "https://www.franceinfo.fr/economie/entreprises/la-ministre-deleguee-a-la-formation-professionnelle-appelle-les-entreprises-a-embaucher-des-apprentis_8158805.html#xtor=RSS-3-[lestitres]",
-      "summary": "Sabrina Roubache reconnaît une baisse des aides publiques aux entreprises qui embauchent des apprentis, mais \"il n'y aura pas de coupe supplémentaire\", promet-elle dans \"Le Parisien\".",
-      "image": "https://www.franceinfo.fr/pictures/E4D7eh-MFc1GY_RDto2wa5H65jw/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b4033049f6295881243.jpg",
-      "published_at": "2026-08-23T20:47:59+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "fca15fed5ccc"
-    },
-    {
-      "title": "Entre Glucksmann et Mélenchon, l’avantage reviendra au plus ambitieux sur l’écologie",
-      "url": "https://www.liberation.fr/politique/entre-glucksmann-et-melenchon-lavantage-reviendra-au-plus-ambitieux-sur-lecologie-20260823_HYEV3HZKLRC6TJTOR6OOQFCJDU/",
-      "summary": "La canicule et les incendies exceptionnels de l’été ont replacé le réchauffement climatique au centre des préoccupations des Français. L’eurodéputé et l’insoumis en ont parfaitement conscience. Celui qui portera un projet crédible sur le sujet en tirera profit.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-23T18:43:23+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "a1c646f43070"
-    },
-    {
-      "title": "Raphaël Glucksmann annonce être candidat à l’élection présidentielle dans le cadre de la primaire organisée avec le Parti socialiste",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/23/raphael-glucksmann-annonce-etre-candidat-a-l-election-presidentielle-dans-le-cadre-de-la-primaire-organisee-avec-le-parti-socialiste_6754507_823448.html",
-      "summary": "L’essayiste et fondateur de Place publique a annoncé sa candidature au journal de 20 heures, sur TF1, dimanche. En attendant de participer à une primaire organisée avec le PS, il espère créer une dynamique dans les semaines à venir.",
-      "image": "https://img.lemde.fr/2026/06/14/697/0/3149/1574/644/322/60/0/09d79b8_upload-1-nnuqzunnz2cn-mmagnin-meeting-raphael-glucksmann-82.jpg",
-      "published_at": "2026-08-23T20:33:02+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "575cb333ff82"
-    },
-    {
-      "title": "L'état de santé du roi Harald de Norvège, âgé de 89 ans, s'est \"aggravé\"",
-      "url": "https://www.franceinfo.fr/monde/norvege/l-etat-de-sante-du-roi-harald-de-norvege-age-de-89-ans-s-est-aggrave_8158796.html#xtor=RSS-3-[lestitres]",
-      "summary": "Monté sur le trône de Norvège en 1991, Harald connaît depuis plusieurs années de multiples problèmes de santé, mais il a toujours exclu d'abdiquer",
-      "image": "https://www.franceinfo.fr/pictures/t9mlGhBuWlqArPKQd8U_b0OKsA4/0x60:1024x636/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b3948b35b5647593459.jpg",
-      "published_at": "2026-08-23T20:18:17+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "269f7c45dd1d"
-    },
-    {
-      "title": "Volodymyr Zelensky assure que l'Ukraine n'a pas pris part au sabotage du gazoduc Nord Stream",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-assure-que-l-ukraine-n-a-pas-pris-part-au-sabotage-du-gazoduc-nord-stream_8158781.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le parquet allemand a conclu le mois dernier que les explosions sur cette canalisation en mer Baltique avaient été provoquées sur ordre de l'Etat ukrainien.",
-      "image": "https://www.franceinfo.fr/pictures/6Z32XIH9-iNg-eW0crY2J60a5wk/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b367c5b77d125338643.jpg",
-      "published_at": "2026-08-23T20:07:13+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "4db2a31a31ef"
-    },
-    {
-      "title": "Dans le Val-de-Marne, un homme soupçonné d’avoir tué sa mère placé en garde à vue",
-      "url": "https://www.liberation.fr/societe/police-justice/dans-le-val-de-marne-un-homme-soupconne-davoir-tue-sa-mere-place-en-garde-a-vue-20260823_35WQCR3CPFHWJNZICMV3NFROVE/",
-      "summary": "Les policiers ont découvert ce dimanche le corps d’une femme présentant une plaie à la gorge. Son fils a été interpellé et un couteau de cuisine trouvé dans sa chambre, selon le parquet de Créteil.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-23T18:03:10+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "538dc6a3edbd"
-    },
-    {
-      "title": "Les Bleus triomphent de l’Angleterre et sont sacrés champions d’Europe de cécifoot",
-      "url": "https://www.liberation.fr/sports/football/les-bleus-triomphent-de-langleterre-et-sont-sacres-champions-deurope-de-cecifoot-20260823_ZRD35KDNWNC2LED2O7IVFQP3L4/",
-      "summary": "L’équipe de France s’est imposée 1 but à 0 ce dimanche à Strasbourg, portée par un Frédéric Villeroux des grands jours. Un quatrième sacre européen, qui s’ajoute à une victoire aux Jeux paralympiques de Paris en 2024.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-23T17:52:44+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "f14f716b793e"
-    },
-    {
-      "title": "Ukraine : après un été politiquement agité, Zelensky tente de reprendre la main",
-      "url": "https://www.liberation.fr/international/europe/ukraine-apres-un-ete-politiquement-agite-zelensky-tente-de-reprendre-la-main-20260823_SLJJNSSLARDGRORZMEQVWLGOQE/",
-      "summary": "Le président ukrainien profite des célébrations du 35e anniversaire de l’indépendance, ce lundi 24 août, pour retrouver un second souffle au niveau international et solder les dossiers de politique intérieure qui ont pollué ces derniers mois, écartant toute perspective d’élection à court terme.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-23T17:52:22+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "9aa4900ae5af"
-    },
-    {
-      "title": "L’équipe de France de cécifoot remporte son quatrième titre européen aux dépens de l’Angleterre",
-      "url": "https://www.lemonde.fr/sport/article/2026/08/23/l-equipe-de-france-de-cecifoot-remporte-son-quatrieme-titre-europeen-aux-depens-de-l-angleterre_6754474_3242.html",
-      "summary": "Médaillés d’or paralympiques aux Jeux de Paris 2024, les Bleus ont encore été portés par Frédéric Villeroux, leur capitaine et meilleur marqueur dans le tournoi avec six buts. Ils se sont imposés 1-0, dimanche, face au Three Lions à Strasbourg.",
-      "image": "https://img.lemde.fr/2026/08/23/605/0/7259/3629/644/322/60/0/b01a5d1_upload-1-1rlsrw5tqjii-iconsport-372567-0032.jpg",
-      "published_at": "2026-08-23T19:49:02+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "d97c1a92b261"
-    },
-    {
-      "title": "Au moins trente morts et une vingtaine de blessés dans l'éboulement d'une décharge en Guinée",
-      "url": "https://www.franceinfo.fr/monde/afrique/guinee/au-moins-trente-morts-et-une-vingtaine-de-blesses-dans-l-eboulement-d-une-decharge-en-guinee_8158778.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le gouvernement affirme que \"d'importants moyens matériels et humains ont été mobilisés pour rechercher d'éventuelles personnes encore ensevelies, secourir les victimes et procéder au dégagement des corps\".",
-      "image": "https://www.franceinfo.fr/pictures/AzsiQ4aF4JWuuOSA9kOhrpi9oYo/0x12:1024x588/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b31531199f078228588.jpg",
-      "published_at": "2026-08-23T19:46:39+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "513d5db63020"
-    },
-    {
-      "title": "Guinée : 30 morts dans l’éboulement d’une décharge à Conakry après de fortes pluies",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/23/guinee-30-morts-dans-l-eboulement-d-une-decharge-a-conakry-apres-de-fortes-pluies_6754473_3212.html",
-      "summary": "Le gouvernement avait annoncé ces derniers jours des opérations d’expulsion et de sécurisation des emprises autour de la décharge à cause des risques d’éboulement.",
-      "image": "https://img.lemde.fr/2026/08/23/350/0/4200/2100/644/322/60/0/8d5a12a_ftp-1-i7hpibqhx5tf-5903818-01-06.jpg",
-      "published_at": "2026-08-23T19:45:29+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "ca7a9566466e"
-    },
-    {
-      "title": "Les impôts piégés par un compte volé, un agent IA pirate des tickets Jira et des versions obscures de Qwen disent oui à tout : on vous raconte la semaine Cyberguerre",
-      "url": "https://www.numerama.com/cyberguerre/2316139-les-impots-pieges-par-un-compte-vole-un-agent-ia-pirate-des-tickets-jira-et-des-versions-obscures-de-qwen-disent-oui-a-tout-on-vous-raconte-la-semaine-cyberguerre.html",
-      "summary": "Trois actualités à retenir cette semaine dans le cyberespace : une fuite de données qui touche près de 700 000 Français, un agent IA qui a exploité une faille par lui-même jusqu'à s'infiltrer dans les outils internes de Snowflake, et des versions « uncensored » de Qwen qui répondent à tout, sans aucun garde-fou.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-23T17:32:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "a206a0f60ec4"
-    },
-    {
-      "title": "Ebola en RDC : cent jours d’une épidémie hors de contrôle",
-      "url": "https://www.liberation.fr/international/afrique/ebola-en-rdc-cent-jours-dune-epidemie-hors-de-controle-20260823_6G4WLXS5IREHDBIPT4CYJ7AKYI/",
-      "summary": "La 17e épidémie de cette fièvre hémorragique infectieuse se propage depuis la mi-mai dans l’est de la république démocratique du Congo à une vitesse sans précédent. Avec un taux de létalité de 50 %, elle a déjà fait plus de 2 400 morts.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-23T17:30:59+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "5d4fb8bdf94b"
     }
   ]
 }
