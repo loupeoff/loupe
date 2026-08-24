@@ -1,14 +1,134 @@
 {
-  "generated_at": "2026-08-24T13:57:56.776151+00:00",
+  "generated_at": "2026-08-24T14:51:09.141089+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Macha Méril, Laurent Ruquier, Roselyne Bachelot, Stéphane Bern... Les hommages émus à Philippe Bouvard déferlent après l'annonce de sa mort",
+      "url": "https://www.franceinfo.fr/culture/tv/macha-meril-laurent-ruquier-roselyne-bachelot-stephane-bern-une-vague-d-emotion-deferle-apres-la-mort-de-philippe-bouvard_8159459.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le journaliste a animé pendant 37 ans Les Grosse Têtes, son émission phare créée en 1977. Il a aussi présenté à la télévision de 1982 à 1987 \"Le petit théâtre de Bouvard\" sur Antenne 2.",
+      "image": "https://www.franceinfo.fr/pictures/5GgNRB-gAhwRgFWA024RDQqaTcU/0x27:3990x2271/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8bf1dd75b10665301970.jpg",
+      "published_at": "2026-08-24T16:46:24+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "32aeb86f6831"
+    },
+    {
+      "title": "La vigilance orange aux orages étendue à la Corse, 20 départements concernés au total",
+      "url": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/la-vigilance-orange-aux-orages-etendue-a-la-corse-20-departements-concernes-au-total_8159726.html#xtor=RSS-3-[lestitres]",
+      "summary": "Des \"orages virulents\", d'abord attendus \"sur une large partie sud-ouest du pays\", gagneront ensuite le Massif central et le Sud-Est avant de toucher la Corse, prévient Météo-France.",
+      "image": "https://www.franceinfo.fr/pictures/dFdoUs0cchHROYhEADIKe8upnb0/0x75:6240x3585/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c523e4b8e1493485272.jpg",
+      "published_at": "2026-08-24T16:34:27+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "d63339befe22"
+    },
+    {
+      "title": "La température moyenne des océans mondiaux bat un record historique, à 21,1 °C",
+      "url": "https://www.liberation.fr/environnement/climat/la-temperature-moyenne-des-oceans-mondiaux-bat-un-record-historique-a-211-c-20260824_27PJSYOTERBRDG5EPJT7O5HQTQ/",
+      "summary": "Ce pic absolu sur une journée a été révélé par l’observatoire européen Copernicus lundi 24 août, alors que les océans sont soumis à une pression sans précédent, liée au changement climatique d’origine humaine.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-24T14:31:11+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "c3996b4d302e"
+    },
+    {
+      "title": "Le mégafeu en Gironde, énième révélateur de la vulnérabilité des réseaux télécoms",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/24/le-megafeu-en-gironde-enieme-revelateur-de-la-vulnerabilite-des-reseaux-telecoms_6755475_3234.html",
+      "summary": "L’incendie parti de Saumos n’a pas épargné les infrastructures Internet fixe et de téléphonie mobile. Ce sinistre hors norme pose une nouvelle fois la question de l’adaptation des réseaux aux catastrophes et événements climatiques extrêmes.",
+      "image": "https://img.lemde.fr/2026/08/21/1276/0/8256/4128/644/322/60/0/61db207_upload-1-quezp9unmidt-orangelemonde-27.jpg",
+      "published_at": "2026-08-24T16:30:11+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "6b57c21a9468"
+    },
+    {
+      "title": "Budget 2027 : le gouvernement prêt à reconduire une deuxième fois la taxe « exceptionnelle » sur les grandes entreprises",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/24/budget-2027-le-gouvernement-pret-a-reconduire-une-deuxieme-fois-la-taxe-exceptionnelle-sur-les-grandes-entreprises_6755474_823448.html",
+      "summary": "Prévue pour ne durer qu’un an en 2025, reconduite en 2026, cette contribution devrait figurer au prochain budget. Roland Lescure, ministre de l’économie et des finances, a même reconnu, lundi 24 août, sur RMC et BFM-TV, que sa diminution était loin d’être acquise.",
+      "image": "https://img.lemde.fr/2026/08/24/2488/0/5333/2666/644/322/60/0/38ad7eb_upload-1-d8pmrhl9avq5-jmug260601005.jpg",
+      "published_at": "2026-08-24T16:30:08+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "a6fde3d49e75"
+    },
+    {
+      "title": "Sauvetage du Starship : un navire spécial est sur zone pour repêcher la fusée géante",
+      "url": "https://www.numerama.com/sciences/2316773-sauvetage-du-starship-un-navire-special-est-sur-zone-pour-repecher-la-fusee-geante.html",
+      "summary": "Fin de la dérive pour le Starship. Pour rapatrier sa fusée géante depuis l'océan Indien sans l'abîmer davantage, SpaceX s'apprête à la hisser hors de l'eau grâce à un gigantesque navire semi-submersible.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-24T14:22:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "aef6e4c695ab"
+    },
+    {
+      "title": "Deux casques bleus tués dans une embuscade au Soudan du Sud, selon l’ONU",
+      "url": "https://www.lemonde.fr/international/article/2026/08/24/deux-casques-bleus-tues-dans-une-embuscade-au-soudan-du-sud-selon-l-onu_6755472_3210.html",
+      "summary": "Les deux soldats de la Minuss ont été tués dans une « embuscade » dans l’Etat de Jonglei, où les combats entre forces gouvernementales et milices d’opposition se sont intensifiés ces derniers mois. L’ONU n’a pas précisé leur nationalité ni identifié les responsables de l’attaque.",
+      "image": "https://img.lemde.fr/2026/08/24/128/0/5000/2500/644/322/60/0/13f3d79_upload-1-lbgfuac181rl-000-97ur4d9.jpg",
+      "published_at": "2026-08-24T16:06:00+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "f8a206f748d8"
+    },
+    {
+      "title": "Guerre en Ukraine : pourquoi Kiev cherche à se fournir en systèmes antimissiles",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-pourquoi-kiev-cherche-a-se-fournir-en-systemes-antimissiles_8159591.html#xtor=RSS-3-[lestitres]",
+      "summary": "La Russie multiplie les tirs de missiles balistiques, des missiles particulièrement difficiles à détruire pour l'Ukraine, qui manque de défense anti-aérienne. La question qui doit être abordée, lundi, lors d'une réunion en Ukraine, avec ses principaux soutiens européens.",
+      "image": "https://www.franceinfo.fr/pictures/McRJkdt8raVKDtRO69UW_t0a8is/0x1:1024x577/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c3264f21bd190001646.jpg",
+      "published_at": "2026-08-24T16:01:45+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "b7bc4caee1c5"
+    },
+    {
+      "title": "Budget 2027 : \"Tous devront faire des efforts\" face à l'\"urgence\" de réduire les déficits, prévient le ministre des Comptes publics",
+      "url": "https://www.franceinfo.fr/politique/direct-budget-2027-le-gouvernement-travaille-a-une-reconduction-des-aides-pour-les-secteurs-les-plus-exposes-a-la-hausse-des-prix-du-carburant_8159252.html#xtor=RSS-3-[lestitres]",
+      "summary": "Parmi les pistes du gouvernement, figure l'idée d'une moindre revalorisation des pensions de retraite pour les plus aisés.",
+      "image": "https://www.franceinfo.fr/pictures/D-s1g4DByS6slhdhgHsnJyeYnfw/0x25:1024x601/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c04727f2a7881622561.jpg",
+      "published_at": "2026-08-24T16:01:41+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "8e38b39740ae"
+    },
+    {
+      "title": "Mort de Philippe Bouvard : l'imitateur Laurent Gerra rend hommage à un homme \"passionnant\" sur RTL",
+      "url": "https://www.franceinfo.fr/economie/medias/direct-mort-de-philippe-bouvard-emmanuel-macron-salue-une-figure-libre-qui-a-accompagne-des-generations-de-francais_8159447.html#xtor=RSS-3-[lestitres]",
+      "summary": "Laurent Gerra a rendu hommage lundi à Philippe Bouvard, se souvenant d'un homme \"brillantissime\", doté d'\"une culture démente\", mais aussi de sa \"bonne humeur\" et de sa \"joie de vivre\".",
+      "image": "https://www.franceinfo.fr/pictures/yJqD3kBqm17MyhTOvowXYlxxeT4/0x0:3888x2187/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c489e276a3358252147.jpg",
+      "published_at": "2026-08-24T16:00:12+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "f95328de0552"
+    },
+    {
+      "title": "En Hongrie, le festival Sziget reprend du poil de la fête",
+      "url": "https://www.liberation.fr/culture/musique/en-hongrie-le-festival-sziget-reprend-du-poil-de-la-fete-20260824_I2PSDTHMPZG6HMXC4B3ZG6V7IQ/",
+      "summary": "En difficulté depuis le Covid et longtemps menacé par l’extrême droite de Viktor Orbán, l’événement de Budapest où cohabitent musique, cirque ou danse retrouve des couleurs depuis sa reprise en main par l’un de ses fondateurs. Preuve en a été son édition 2026, mi-août.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-24T14:00:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "8c69c75b4f0e"
+    },
+    {
+      "title": "L’entarteur belge Noël Godin est mort à 80 ans après s’être «follement amusé»",
+      "url": "https://www.liberation.fr/international/europe/lentarteur-belge-noel-godin-est-mort-a-80-ans-apres-setre-follement-amuse-20260824_3EYG56G5QNEPVGLMRBVHPIRQOU/",
+      "summary": "L’homme n’aimait rien tant que de balancer de la chantilly sur «les pompeux cornichons», notamment BHL. Le plus beau trophée de ce lettré, érudit, anar et cinéphile : le patron de Microsoft Bill Gates.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-24T13:54:16+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "9e999a671242"
+    },
     {
       "title": "Franchises médicales : le gouvernement veut porter le plafond à 140 euros par l’adoption d’un décret, après avoir renoncé à le doubler",
       "url": "https://www.lemonde.fr/politique/article/2026/08/24/franchises-medicales-le-gouvernement-veut-porter-le-plafond-a-140-euros-par-l-adoption-d-un-decret-apres-avoir-renonce-a-le-doubler_6755438_823448.html",
       "summary": "Le 20 août, la ministre de la santé, Stéphanie Rist, avait annoncé que le gouvernement ne doublerait pas le montant, actuellement de 100 euros. Selon l’exécutif, le nouveau plafond correspond à la prise en compte de l’inflation depuis 2005.",
       "image": "https://img.lemde.fr/2026/08/24/412/0/8000/4000/644/322/60/0/3b0670c_upload-1-qqdstlavhqk5-jmug260824001.jpg",
       "published_at": "2026-08-24T15:52:26+02:00",
-      "source": "Le Monde Politique",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "81ffa68e4702"
     },
@@ -35,11 +155,11 @@
     {
       "title": "Interdiction du portable au lycée : \"Totalement impossible\" dès la rentrée, assure le syndicat enseignant SE-UNSA",
       "url": "https://www.franceinfo.fr/france/rentree/interdiction-du-portable-au-lycee-totalement-impossible-des-la-rentree-assure-le-syndicat-enseignant-se-unsa_8159663.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le gouvernement a annoncé lundi la promulgation de la loi sur l'interdiction des portables \"dès la rentrée\". Le secrétaire national du syndicat SE-UNSA explique sur franceinfo être \"pris de court\" et rappelle que les lycées devront changer leur règlement intérieur, voté ensuite par le Conseil d'administration.",
+      "summary": "La loi sur l'interdiction des portables dès la rentrée a été promulguée lundi. Le secrétaire national du syndicat SE-UNSA explique sur franceinfo être \"pris de court\" et rappelle que les lycées devront changer leur règlement intérieur, voté ensuite par le Conseil d'administration.",
       "image": "https://www.franceinfo.fr/pictures/gRdMgVRFhdprUNpOUp_wqt56psw/0x312:6000x3687/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c49cc12505611536803.jpg",
       "published_at": "2026-08-24T15:42:44+02:00",
       "source": "France Info",
-      "category": "Politique",
+      "category": "Sport",
       "id": "9152d9ee0eda"
     },
     {
@@ -51,6 +171,16 @@
       "source": "Numerama",
       "category": "Tech",
       "id": "5843cb7b6a65"
+    },
+    {
+      "title": "Le piratage des voitures connectées passe par l’autoradio : comment des pirates les transforment en relais pour botnet",
+      "url": "https://www.numerama.com/cyberguerre/2316775-le-piratage-des-voitures-connectees-passe-desormais-par-lautoradio-comment-des-pirates-les-transforment-en-relais-pour-botnet.html",
+      "summary": "Des chercheurs de Kaspersky ont mis au jour le premier malware Android connu à cibler spécifiquement les autoradios connectés. Objectif des attaquants : recruter discrètement chaque voiture infectée dans un immense réseau de machines zombies.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-08-24T13:39:04+00:00",
+      "source": "Numerama",
+      "category": "International",
+      "id": "48cdbd7bb17a"
     },
     {
       "title": "Noël Godin, comique belge et « entarteur » en série, est mort",
@@ -103,21 +233,11 @@
       "id": "861509e8e4f9"
     },
     {
-      "title": "Guerre en Ukraine : pourquoi Kiev cherche à se fournir en systèmes antimissiles",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-pourquoi-kiev-cherche-a-se-fournir-en-systemes-antimissiles_8159591.html#xtor=RSS-3-[lestitres]",
-      "summary": "La Russie multiplie les tirs de missiles balistiques, des missiles particulièrement difficiles à détruire pour l'Ukraine, qui manque de défense anti-aérienne. La question qui doit être abordée, lundi, lors d'une réunion en Ukraine, avec ses principaux soutiens européens.",
-      "image": "https://www.franceinfo.fr/pictures/McRJkdt8raVKDtRO69UW_t0a8is/0x1:1024x577/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c3264f21bd190001646.jpg",
-      "published_at": "2026-08-24T15:15:14+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "b7bc4caee1c5"
-    },
-    {
       "title": "VIH : deux hommes séropositifs, victimes de harcèlement et de menaces de mort, entament une grève de la faim pour dénoncer la « sérophobie »",
       "url": "https://www.lemonde.fr/societe/article/2026/08/24/vih-deux-hommes-seropositifs-victimes-de-harcelement-et-de-menaces-de-mort-entament-une-greve-de-la-faim-pour-denoncer-la-serophobie_6755403_3224.html",
       "summary": "En grève de la faim devant le palais de justice de Reims, Christophe Paco affirme se faire harceler en raison de sa séropositivité et avoir déposé plusieurs plaintes, toutes classées sans suite. Il a été rejoint par l’influenceur niçois Nicolas Aragona connu, sous le pseudonyme « Supersero ».",
       "image": "https://img.lemde.fr/2026/08/24/612/0/1080/540/644/322/60/0/e208718_upload-1-pf3rmqthjaku-38987.jpg",
-      "published_at": "2026-08-24T15:12:45+02:00",
+      "published_at": "2026-08-24T15:12:40+02:00",
       "source": "Le Monde",
       "category": "Société",
       "id": "091f61de6c33"
@@ -125,7 +245,7 @@
     {
       "title": "Le Livret A regagne de l’intérêt auprès des épargnants",
       "url": "https://www.lemonde.fr/argent/article/2026/08/24/le-livret-a-regagne-de-l-interet-aupres-des-epargnants_6755402_1657007.html",
-      "summary": "En juillet, les dépôts sur le produit d’épargne préféré des Français ont dépassé les retraits, une première depuis décembre 2025. L’amélioration de sa rémunération, passée de 1,5 % à 1,7 % le 1er août, n’explique pas à elle seule ce retour de la confiance.",
+      "summary": "En juillet, les dépôts sur le produit d’épargne préféré des Français ont dépassé les retraits, une première depuis décembre 2025. L’amélioration de sa rémunération, passée de 1,5 % à 1,7 % le 1ᵉʳ août, n’explique pas à elle seule ce retour de la confiance.",
       "image": "https://img.lemde.fr/2023/05/03/94/0/3000/1500/644/322/60/0/fbf8301_1683120136900-lmargent6.jpg",
       "published_at": "2026-08-24T15:09:44+02:00",
       "source": "Le Monde",
@@ -155,7 +275,7 @@
     {
       "title": "Franchises médicales : le gouvernement veut faire passer le plafond annuel de 100 à 140 euros",
       "url": "https://www.liberation.fr/societe/sante/franchises-medicales-le-gouvernement-veut-faire-passer-le-plafond-annuel-de-100-a-140-euros-20260824_MHDKQWC4GVDGXL3FIIGNROHXJQ/",
-      "summary": "Après avoir annoncé un doublement de ce montant non remboursé par l’Assurance maladie à 200 euros, l’exécutif a rétropédalé mais compte maintenir une augmentation et une réévaluation régulière en prenant en compte l’inflation, selon le projet de décret ce lundi 24 août.",
+      "summary": "Après avoir d’abord annoncé un doublement de ce montant non remboursé par l’Assurance maladie, l’exécutif a rétropédalé mais compte maintenir une augmentation et une réévaluation régulière en prenant en compte l’inflation, selon le projet de décret ce lundi 24 août. Entrée en application prévue le 1er octobre.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
       "published_at": "2026-08-24T12:53:24+00:00",
       "source": "Libération",
@@ -181,126 +301,6 @@
       "source": "France Info",
       "category": "Culture",
       "id": "be4a342785a9"
-    },
-    {
-      "title": "Le comique belge Noël Godin, célèbre \"entarteur\" de personnalités, est mort à 80 ans",
-      "url": "https://www.franceinfo.fr/culture/le-comique-belge-noel-godin-celebre-entarteur-de-personnalites-est-mort-a-80-ans_8159618.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le comédien, surnommé Georges Le Gloupier, s'était fait connaître en lançant des tartes à la crème sur des personnalités qu'il jugeait trop vaniteuses. Bill Gates, Nicolas Sarkozy ou encore Bernard-Henri Lévy avaient notamment été pris pour cible.",
-      "image": "https://www.franceinfo.fr/pictures/3PqAODuBD4gL6Vn8b1fhOzH1JHg/0x0:4928x2772/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c37ff47459945090357.jpg",
-      "published_at": "2026-08-24T14:29:32+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "62fd155ff78c"
-    },
-    {
-      "title": "Rentrée piratée : l’Education nationale, otage de sa propre fragilité numérique, par Yannick Trigance",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/rentree-piratee-leducation-nationale-otage-de-sa-propre-fragilite-numerique-par-yannick-trigance-20260824_O2KHETPIHJDC7BQYMIWEAKXOGA/",
-      "summary": "Proviseurs et principaux ont découvert à leur retour de congés, des messageries inaccessibles et une administration paralysée face à une cyberattaque : une situation révélatrice de la dépendance totale à des outils centralisés, sans aucun «plan B», dénonce Yannick Trigance.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-24T12:26:02+00:00",
-      "source": "Libération",
-      "category": "Tech",
-      "id": "09d364c00f38"
-    },
-    {
-      "title": "Interdiction du portable au lycée : le gouvernement vise la rentrée, un «mauvais timing» pour les syndicats",
-      "url": "https://www.liberation.fr/societe/education/linterdiction-des-telephones-portables-dans-les-lycees-pourra-etre-effective-des-la-rentree-annonce-le-gouvernement-20260824_RTFEMFLBR5AA7PRYGU6Z2VJW6U/",
-      "summary": "La porte-parole Maud Bregeon a annoncé ce lundi 24 août qu’Emmanuel Macron va promulguer la loi, à une semaine du retour des élèves. Les lycées «ne sont pas prêts», rétorquent les syndicats de chefs d’établissements.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-24T12:20:45+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "c720b6a6a6d7"
-    },
-    {
-      "title": "Raphaël Glucksmann, Ségolène Royal... Qui sont (à ce stade) les candidats à la primaire socialiste pour la présidentielle 2027 ?",
-      "url": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-segolene-royal-qui-sont-a-ce-stade-les-candidats-a-la-primaire-socialiste-pour-la-presidentielle-2027_8159171.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le cofondateur de Place publique a officialisé dimanche sa participation. Il n'est pas le seul sur la ligne de départ, tandis que d'autres, à gauche, ne souhaitent pas prendre part à ce scrutin.",
-      "image": "https://www.franceinfo.fr/pictures/iZmbRO1jukawQGiFerAWFYM5occ/0x0:3840x2160/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c326b8f408474221910.jpg",
-      "published_at": "2026-08-24T14:09:28+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "f376689e6b53"
-    },
-    {
-      "title": "Découverte de pétrole au Brésil : « Lula protège-t-il les écosystèmes d’une main pour mieux les détruire de l’autre ? »",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/24/decouverte-de-petrole-au-bresil-lula-protege-t-il-les-ecosystemes-d-une-main-pour-mieux-les-detruire-de-l-autre_6755367_3232.html",
-      "summary": "Le président brésilien a qualifié de « passeport pour l’avenir » la récente découverte de pétrole au large de l’Amazonie. Dans une tribune au « Monde », l’économiste Philippe Delacote y voit le signe d’une société « pétro-toxicomane » confrontée à un dilemme crucial : le profit individuel ou l’intérêt commun.",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/ee60724_upload-1-xx9yh2cjsasg-frame-789.jpg",
-      "published_at": "2026-08-24T14:00:06+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "1f841ad6af1b"
-    },
-    {
-      "title": "Guerre en Ukraine : \"L'Ukraine est debout\", affirme Emmanuel Macron à l'occasion des 35 ans de son indépendance",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-une-nouvelle-reunion-de-la-coalition-des-volontaires-lundi-a-kiev-sur-fond-d-intensification-des-frappes_8159126.html#xtor=RSS-3-[lestitres]",
-      "summary": "Une réunion de la \"Coalition des volonatires\" a lieu lundi dans la capitale ukrinaienne. Volodymyr Zelensky espère que ses principaux soutiens européens vont lui livrer de nouveaux équipements de défense antiaérienne.",
-      "image": "https://www.franceinfo.fr/pictures/UcwnuCM94ag0IkNuQx-hEgOybcA/0x0:4496x2529/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c319a4659b659015815.jpg",
-      "published_at": "2026-08-24T13:58:41+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "197d8af113a4"
-    },
-    {
-      "title": "Présidentielle 2027 : se rallier à Jean-Luc Mélenchon ou Raphaël Glucksmann, \"c'est acter les gauches irréconciliables\", souligne l'écologiste David Cormand",
-      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-se-rallier-a-jean-luc-melenchon-ou-raphael-glucksmann-c-est-acter-les-gauches-irreconciliables-souligne-l-ecologiste-david-cormand_8159594.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Accepter les gauches irréconciliables, c'est garantir la victoire des autres\", estime aussi l'eurodéputé écologiste David Cormand.",
-      "image": "https://www.franceinfo.fr/pictures/CImaWqMynASV-4n8s2G5ZFWs7GE/0x258:4978x3059/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c3017a256b976607780.jpg",
-      "published_at": "2026-08-24T13:52:47+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "68cd10652b7c"
-    },
-    {
-      "title": "Les orages font d'importants dégâts dans les Landes : 3 500 foyers toujours privés d’électricité",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/les-orages-font-d-importants-degats-dans-les-landes-3-500-foyers-toujours-prives-d-electricite_8159582.html#xtor=RSS-3-[lestitres]",
-      "summary": "Dans la nuit du dimanche 23 au lundi 24 août, les Landes ont été frappées par de violents orages. Les dégâts sont très importants et plusieurs milliers de foyers sont encore privés d’électricité. La circulation des trains a dû être interrompue entre Dax et Hendaye.",
-      "image": "https://www.franceinfo.fr/pictures/4eg7dfzA9Kr1rWlQJyvzvmjn5lM/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c2a517bad8836236055.jpg",
-      "published_at": "2026-08-24T13:28:37+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "0e69cc0e6472"
-    },
-    {
-      "title": "Le gouvernement dit \"travailler à une reconduction\" des aides aux carburants et du chèque énergie",
-      "url": "https://www.franceinfo.fr/economie/automobile/essence/le-gouvernement-dit-travailler-a-une-reconduction-des-aides-au-carburant-et-du-cheque-energie_8159576.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les dispositifs destinés aux secteurs les plus exposés et aux travailleurs modestes grands rouleurs expirent le 31 août, alors que les prix à la pompe restent élevés.",
-      "image": "https://www.franceinfo.fr/pictures/at_92SR2BjGGgJIKWpLvTN2EpxY/0x134:4197x2495/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c288a3ed29643231571.jpg",
-      "published_at": "2026-08-24T13:27:52+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "4b402f4e83d2"
-    },
-    {
-      "title": "Macha Méril, Laurent Ruquier, Roselyne Bachelot, Stéphane Bern... Les hommages émus à Philippe Bouvard déferlent après l'annonce de sa mort",
-      "url": "https://www.franceinfo.fr/culture/tv/macha-meril-laurent-ruquier-roselyne-bachelot-stephane-bern-une-vague-d-emotion-deferle-apres-la-mort-de-philippe-bouvard_8159459.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le journaliste a animé pendant 37 ans Les Grosse Têtes, son émission phare créée en 1977. Il a aussi présenté à la télévision de 1982 à 1987 \"Le petit théâtre de Bouvard\" sur Antenne 2.",
-      "image": "https://www.franceinfo.fr/pictures/5GgNRB-gAhwRgFWA024RDQqaTcU/0x27:3990x2271/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8bf1dd75b10665301970.jpg",
-      "published_at": "2026-08-24T13:24:35+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "32aeb86f6831"
-    },
-    {
-      "title": "La goélette scientifique Tara victime d'une attaque de pirates en Papouasie-Nouvelle-Guinée",
-      "url": "https://www.franceinfo.fr/sciences/la-goelette-scientifique-tara-victime-d-une-attaque-de-pirates-en-papouasie-nouvelle-guinee_8159573.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le navire de la Fondation Tara Océan a été attaqué par des pirates alors qu'il était au mouillage en Papouasie-Nouvelle-Guinée. Plusieurs biens, dont du matériel informatique, ont été volés.",
-      "image": "https://www.franceinfo.fr/pictures/TBD3HmgGyn6WEwuwsFeambWLI0M/0x166:3200x1966/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c290ce9e81076070801.jpg",
-      "published_at": "2026-08-24T13:21:56+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "aad187f84f20"
-    },
-    {
-      "title": "Orages : 18 départements en vigilance orange ce lundi",
-      "url": "https://www.liberation.fr/environnement/climat/orages-16-departements-en-vigilance-orange-ce-lundi-20260824_QY4PGJPGUZDVXGDTVTV5WN73KU/",
-      "summary": "Des vents pouvant dépasser 100 km/h et de la grêle sont attendus du Sud-Ouest au Sud-Est et sur le Massif central.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-24T11:21:46+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "1b1f0c7bf492"
     }
   ]
 }
