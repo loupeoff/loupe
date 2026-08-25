@@ -1,14 +1,194 @@
 {
-  "generated_at": "2026-08-25T03:06:54.111978+00:00",
+  "generated_at": "2026-08-25T04:47:16.510274+00:00",
   "article_count": 30,
   "articles": [
     {
+      "title": "\"La moitié du village est détruite\" : une tornade touche la commune de Pomas, dans l'Aude, et fait 41 blessés",
+      "url": "https://www.franceinfo.fr/environnement/meteo/une-tornade-touche-la-commune-de-pomas-dans-l-aude-et-endommage-plusieurs-habitations_8160002.html#xtor=RSS-3-[lestitres]",
+      "summary": "Environ 300 maisons ont été endommagées lors de cet épisode violent, survenu lundi en fin d'après-midi, selon la préfecture.",
+      "image": "https://www.franceinfo.fr/pictures/5mAFUNqkP6MvaNUgnyS59VWg1eM/0x84:1620x996/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c897c16a89648328660.jpg",
+      "published_at": "2026-08-25T06:30:38+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "81f54001fb23"
+    },
+    {
+      "title": "En Iran, le lent effondrement du pouvoir d’achat",
+      "url": "https://www.lemonde.fr/international/article/2026/08/25/en-iran-le-lent-effondrement-du-pouvoir-d-achat_6756195_3210.html",
+      "summary": "Alors que Washington renforce sa pression sur Téhéran, le rial, la monnaie iranienne, poursuit sa chute et les inquiétudes gagnent les marchés. Mais derrière les mauvaises statistiques économiques, ce sont surtout les ménages qui absorbent le choc, en réduisant leur consommation, leur épargne et leurs dépenses essentielles.",
+      "image": "https://img.lemde.fr/2026/08/24/290/0/3755/1877/644/322/60/0/add201e_ftp-1-wtflfwfjhu4o-5910557-01-06.jpg",
+      "published_at": "2026-08-25T06:30:11+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "d66e907c539e"
+    },
+    {
+      "title": "Le canal de Suez, chantier pharaonique et œuvre de la vie de Ferdinand de Lesseps, diplomate passionné et tenace",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/25/le-canal-de-suez-chantier-pharaonique-et-uvre-de-la-vie-de-ferdinand-de-lesseps-diplomate-passionne-et-tenace_6756161_3451060.html",
+      "summary": "« Suez, canal historique » (2/6). Les tentatives de relier la Méditerranée à la mer Rouge se sont succédé depuis l’Antiquité. Mais il a fallu attendre l’entrée en scène de Ferdinand de Lesseps, pourtant ni scientifique ni ingénieur, pour que le projet se concrétise. Personnage haut en couleur, l’ancien consul du Caire a su mettre à profit son amitié avec le souverain égyptien, Saïd Pacha, pour fin",
+      "image": "https://img.lemde.fr/2026/08/04/839/0/4889/2444/644/322/60/0/5a4d42a_upload-1-xxff7z9ztmhe-gettyimages-1056322612.jpg",
+      "published_at": "2026-08-25T06:00:23+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "24e41bbd1f8b"
+    },
+    {
+      "title": "Droit du travail : les pas si jolies colonies de vacances pour les « monos »",
+      "url": "https://www.lemonde.fr/emploi/article/2026/08/25/droit-du-travail-les-pas-si-jolies-colonies-de-vacances-pour-les-monos_6756158_1698637.html",
+      "summary": "Avec une rémunération minimale journalière de près de 50 euros et des dérogations fréquentes aux règles sur le repos, les conditions de travail des moniteurs de colonies de vacances restent proches du bénévolat, explique, dans sa chronique, le juriste Francis Kessler.",
+      "image": "https://img.lemde.fr/2026/08/21/429/0/4762/2381/644/322/60/0/6f905c3_upload-1-2rt674lqr22z-maxnewsspecialtwo255654.jpg",
+      "published_at": "2026-08-25T06:00:12+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "f9efc802141f"
+    },
+    {
+      "title": "Gabriel Attal : « Je souhaite une loi de programmation pour l’école et un ministre de l’éducation qui restera en poste cinq ans »",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/25/gabriel-attal-je-souhaite-une-loi-de-programmation-pour-l-ecole-et-un-ministre-de-l-education-qui-restera-en-poste-cinq-ans_6756157_3224.html",
+      "summary": "Rétablissement du certificat d’études, fermeture de collèges ghettos, augmentations salariales… Le candidat de Renaissance à la présidentielle dévoile dans un entretien au « Monde », et à quelques jours de la rentrée des classes, ses mesures pour l’éducation.",
+      "image": "https://img.lemde.fr/2026/08/24/1185/0/3146/1573/644/322/60/0/ed88157_upload-1-l7qz5za9k3ac-mmagnin-gabriel-attal-32.jpg",
+      "published_at": "2026-08-25T06:00:09+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "7ee86893f195"
+    },
+    {
+      "title": "David Lisnard : pour la présidentielle 2027, « sans une grande primaire ouverte à tous, la droite et le centre ne seront pas en mesure de l’emporter »",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/25/david-lisnard-pour-la-presidentielle-2027-sans-une-grande-primaire-ouverte-a-tous-la-droite-et-le-centre-ne-seront-pas-en-mesure-de-l-emporter_6756156_3232.html",
+      "summary": "Pour éviter la division, la compromission programmatique et la multiplication des candidatures, le maire de Cannes, ex-LR et candidat à la présidentielle, appelle, dans une tribune au « Monde », ses concurrents de la droite et du centre à accepter l’organisation d’une primaire.",
+      "image": "https://img.lemde.fr/2026/03/25/583/0/6141/3071/644/322/60/0/af186fe_ftp-1-kpu3tojx6y6d-5582955-01-06.jpg",
+      "published_at": "2026-08-25T06:00:06+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "658b2a01c320"
+    },
+    {
+      "title": "\"La Hantise\" : Jean-Philippe Toussaint tisse une histoire d'amour périlleuse dans un roman d'espionnage intime et cocasse",
+      "url": "https://www.franceinfo.fr/culture/livres/la-rentree-litteraire/la-hantise-jean-philippe-toussaint-tisse-une-histoire-d-amour-perilleuse-dans-un-roman-d-espionnage-intime-et-cocasse_8141846.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le nouveau roman de Jean-Philippe Toussaint nous plonge dans les coulisses des institutions européennes sur fond d'escroquerie internationale et de corruption.",
+      "image": "https://www.franceinfo.fr/pictures/xrN9LIvKsahrFP9fi4xw1leJ0rg/0x114:4160x2454/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79c6c167649101016347.jpg",
+      "published_at": "2026-08-25T06:00:01+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "d958ceff6fa2"
+    },
+    {
+      "title": "Sophie Adenot va effectuer une nouvelle sortie dans l’espace ce mardi",
+      "url": "https://www.liberation.fr/sciences/espace/sophie-adenot-va-effectuer-une-nouvelle-sortie-dans-lespace-ce-mardi-20260825_2LCM3W2U2BHETOB2ASUYAW7NNE/",
+      "summary": "L’astronaute de 44 ans doit terminer le remplacement d’une antenne pour laquelle elle était devenue la première Française à sortir dans l’espace la semaine dernière.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-25T03:59:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "6c9411335641"
+    },
+    {
+      "title": "\"Il doit nous donner envie\" : comment les élus socialistes accueillent-ils la candidature à la présidentielle de Raphaël Glucksmann ?",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/il-doit-nous-donner-envie-comment-les-elus-socialistes-accueillent-ils-la-candidature-a-la-presidentielle-de-raphael-glucksmann_8159336.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le candidat de Place publique se rendra aux universités d'été du PS à Blois en fin de semaine, avec l'objectif de convaincre une majorité de militants de voter pour lui lors de la primaire.",
+      "image": "https://www.franceinfo.fr/pictures/_sjTPpr9gab5PN9YulHTsnN0EhA/0x280:5394x3315/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c510b22aa8081163978.jpg",
+      "published_at": "2026-08-25T05:58:30+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "e0af0383f5b7"
+    },
+    {
+      "title": "Nouvelle sortie dans l'espace de Sophie Adenot : l'astronaute française retourne hors de la Station spatiale internationale",
+      "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/direct-nouvelle-sortie-dans-l-espace-de-sophie-adenot-l-astronaute-francaise-retourne-hors-de-la-station-spatiale-internationale_8159321.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'astronaute française et son coéquipier américain, Anil Menon, rempilent, mardi, une semaine après leur première séance à quelque 400 km d'altitude. Ils doivent s'aventurer dans le vide spatial dès 14h35, heure de Paris.",
+      "image": "https://www.franceinfo.fr/pictures/6vQI00fYbxFC2LLVtbFFLcOMwck/0x0:2048x1152/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c19eb34ef6323238728.jpg",
+      "published_at": "2026-08-25T05:57:49+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "c57ab3133bde"
+    },
+    {
+      "title": "Températures records, feux \"hors norme\", sécheresse \"inédite\"... Comment l'été 2026 a mis les Français à l'épreuve du changement climatique",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/recit-temperatures-records-feux-hors-norme-secheresse-inedite-comment-l-ete-2026-a-mis-les-francais-a-l-epreuve-du-changement-climatique_8156201.html#xtor=RSS-3-[lestitres]",
+      "summary": "Alors que l'été 2026 entre dans sa dernière phase, franceinfo remonte le fil de deux mois où la France a été confrontée à des événements climatiques sans précédent.",
+      "image": "https://www.franceinfo.fr/pictures/4tT03RF9hRHNHdz_K6QQN8ZvevY/0x0:3840x2160/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c5f8c22b0a187992707.jpg",
+      "published_at": "2026-08-25T05:57:01+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "afa322924916"
+    },
+    {
+      "title": "Canicules à répétition, sécheresse inédite... L'été 2026 va-t-il emporter avec lui nos souvenirs des saisons estivales \"normales\" ?",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicules-a-repetition-secheresse-inedite-l-ete-2026-va-t-il-emporter-avec-lui-nos-souvenirs-des-saisons-estivales-normales_8153633.html#xtor=RSS-3-[lestitres]",
+      "summary": "Avec le réchauffement climatique causé par les activités humaines, les étés n'ont plus le même visage que ceux du passé. A tel point qu'on s'habitue aux températures caniculaires et qu'on oublie \"le temps d'avant\".",
+      "image": "https://www.franceinfo.fr/pictures/nAMU1ttm6hy205CbdA5UswTUk7Q/0x0:3840x2160/432x243/filters:format(jpg):quality(50)/2026/08/21/6a885b86a30a2578595046.jpg",
+      "published_at": "2026-08-25T05:55:17+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "c0786282e115"
+    },
+    {
+      "title": "Faute de solution militaire, Donald Trump mise sur l’asphyxie économique pour vaincre l’Iran",
+      "url": "https://www.lemonde.fr/international/article/2026/08/25/faute-de-solution-militaire-donald-trump-mise-sur-l-asphyxie-economique-pour-vaincre-l-iran_6756122_3210.html",
+      "summary": "A l’approche des élections de mi-mandat, la Maison Blanche privilégie la pression économique à l’engagement militaire. Une soixantaine d’entités, personnes et navires iraniens ont été ajoutés à la liste des sanctions, a annoncé, lundi, le secrétaire au Trésor, Scott Bessent. Téhéran a réagi en parlant de « terrorisme économique ».",
+      "image": "https://img.lemde.fr/2026/08/22/25/0/8640/4320/644/322/60/0/dea3e3d_ftp-1-zwrsgpqvqk0f-70a73e7d79f84952bb75d30922efbe84-0-14be6f4c84d5433097f0b57c919ddf8b.jpg",
+      "published_at": "2026-08-25T05:30:34+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "851f0bd46568"
+    },
+    {
+      "title": "John Tilbury, le testament d’un discret géant",
+      "url": "https://www.liberation.fr/culture/musique/john-tilbury-le-testament-dun-discret-geant-20260825_R22XI4DRAVB4XFCCOLGNLBPKWA/",
+      "summary": "Figure de la musique expérimentale, le pianiste britannique de 90 ans convie anciens compagnons de route et jeune génération dans de précieux enregistrements.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-25T03:30:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "02ae5dd7af5c"
+    },
+    {
+      "title": "«La sobriété et la répartition équitable de l’eau sont le seul chemin pour lutter contre la sécheresse»",
+      "url": "https://www.liberation.fr/environnement/la-sobriete-et-la-repartition-equitable-de-leau-sont-le-seul-chemin-pour-lutter-contre-la-secheresse-20260825_7S2QQFSERNBCJG53ZNDFJ4W3GA/",
+      "summary": "L’hydroclimatologue Florence Habets estime que les solutions basées sur les technologies pour remédier au manque d’eau ne feront qu’augmenter sa consommation. Selon elle, mieux vaut miser sur la reconquête de sols en bonne santé.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-25T03:29:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "f9b2be8f2254"
+    },
+    {
+      "title": "Décharges illégales à Vittel : «Que Nestlé soit condamné à évacuer ses déchets, ce serait un minimum»",
+      "url": "https://www.liberation.fr/economie/conso/decharges-illegales-a-vittel-que-nestle-soit-condamne-a-evacuer-ses-dechets-ce-serait-un-minimum-20260825_CAQO6SJW5FGKFC45ZXQD43GBB4/",
+      "summary": "Dans les Vosges, le fabricant d’eaux en bouteille Vittel, Contrex et Hépar est accusé de laisser à l’abandon des dépotoirs de plastique, certains illégaux, sur des terrains lui appartenant. Membre du collectif Eau 88, Bernard Schmitt estime que la multinationale ne devrait pas échapper, devant la justice, à une obligation de remise en état des sites souillés.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-25T03:24:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "d2a3a171b7aa"
+    },
+    {
+      "title": "A l’occasion de la visite du prince héritier saoudien « MBS », un projet « colossal » de parc d’attractions près de Paris a été dévoilé",
+      "url": "https://www.lemonde.fr/international/article/2026/08/25/a-l-occasion-de-la-visite-du-prince-heritier-saoudien-mbs-un-projet-colossal-de-parc-d-attractions-pres-de-paris-a-ete-devoile_6756088_3210.html",
+      "summary": "La venue en France de Mohammed Ben Salman, alors que se tenait, lundi, un premier conseil du partenariat stratégique franco-saoudien, a été scandée par diverses annonces commerciales et considérations diplomatiques.",
+      "image": "https://img.lemde.fr/2026/08/24/1007/0/8000/4000/644/322/60/0/ea1c3fa_upload-1-yeidnvahshrh-jmug260824090.jpg",
+      "published_at": "2026-08-25T05:15:02+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "787e4baa317b"
+    },
+    {
+      "title": "Nos idées de séries : « Blood Sacrifice », « Le Rouge et le Noir », « Lanterns » « The Shards »…",
+      "url": "https://www.lemonde.fr/culture/article/2026/08/25/nos-idees-de-series-blood-sacrifice-le-rouge-et-le-noir-lanterns-the-shards_6756055_3246.html",
+      "summary": "En cette deuxième quinzaine du mois d’août, La Matinale vous propose une sélection de séries à découvrir sur petit écran, avec notamment un rendez-vous avec Green Lantern, l’un des plus anciens super-héros américains.",
+      "image": "https://img.lemde.fr/2026/08/24/50/0/1600/800/644/322/60/0/e80d5ad_upload-1-a6lxnnl2kmre-64af63fe218f877c3556f7980f3e7c05.jpg",
+      "published_at": "2026-08-25T05:00:20+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "f6d57752e257"
+    },
+    {
       "title": "Les Européens condamnent la stratégie de la terreur russe en Ukraine",
       "url": "https://www.lemonde.fr/international/article/2026/08/25/les-europeens-condamnent-la-strategie-de-la-terreur-russe-en-ukraine_6756021_3210.html",
-      "summary": "Réunis, lundi, autour de Volodymyr Zelensky pour une conférence de la coalition des volontaires, les dirigeants du Vieux Continent ont réitéré leurs marques de soutien, militaires et financières, à Kiev et ils ont dénoncé l’accentuation des frappes de la Russie contre les bâtiments civils.",
+      "summary": "Réunis, lundi, autour de Volodymyr Zelensky pour une conférence de la coalition des volontaires, les dirigeants du Vieux Continent ont réitéré leurs marques de soutien, militaires et financières, à Kiev, et dénoncé l’intensification des frappes de la Russie contre les civils.",
       "image": "https://img.lemde.fr/2026/08/24/308/0/4713/2356/644/322/60/0/35c2189_ftp-1-pehn42rmeqot-0e647e9107834c59ab922bec3fdea9d6-0-a93ee0009d764563937719c867d71924.jpg",
-      "published_at": "2026-08-25T05:00:11+02:00",
-      "source": "Le Monde Inter",
+      "published_at": "2026-08-25T05:00:09+02:00",
+      "source": "Le Monde",
       "category": "International",
       "id": "3563e9a4eb2e"
     },
@@ -68,7 +248,7 @@
       "summary": "Selon le président ukrainien, qui s’est exprimé lors d’une réunion des Etats membres de la coalition des volontaires, la défense de son pays est actuellement confrontée à un déficit budgétaire. Des décisions de dépenses prises en début d’année ont déjà entraîné l’utilisation anticipée de fonds prévus pour le second semestre 2026.",
       "image": "https://img.lemde.fr/2026/08/24/636/0/3975/1987/644/322/60/0/3034be8_ftp-1-iudcas2w86ti-5911628-01-06.jpg",
       "published_at": "2026-08-25T01:11:09+02:00",
-      "source": "Le Monde",
+      "source": "Le Monde Inter",
       "category": "Politique",
       "id": "8ffc90b27d99"
     },
@@ -103,16 +283,6 @@
       "id": "f95328de0552"
     },
     {
-      "title": "Orages : tous les modes de transports fortement perturbés dans le sud de la France",
-      "url": "https://www.franceinfo.fr/economie/transports/sncf/orages-tous-les-modes-de-transports-fortement-perturbes-dans-le-sud-de-la-france_8160119.html#xtor=RSS-3-[lestitres]",
-      "summary": "Des retards de trains sont notamment signalés entre Narbonne et Sète, a annoncé le ministre des Transports, Philippe Tabarot, ainsi que des suppressions en Nouvelle-Aquitaine.",
-      "image": "https://www.franceinfo.fr/pictures/5cyUAAJI8qYeBJfyRXT961rSm34/0x325:6240x3835/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8cbcc83eabb996912884.jpg",
-      "published_at": "2026-08-24T23:54:41+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "4776c75a93e0"
-    },
-    {
       "title": "\"On n'oublie jamais\" : enquête auprès des agents de recouvrement, qui traquent un milliard d'euros d'amendes impayées",
       "url": "https://www.franceinfo.fr/societe/justice/un-milliard-d-euros-d-amendes-impayees-ce-qui-se-cache-derriere-le-chiffre-de-la-cour-des-comptes-enquete-aupres-des-agents-de-recouvrement_8160101.html#xtor=RSS-3-[lestitres]",
       "summary": "Il s’agit d’amendes pour des délits, comme l’usage de stupéfiants ou la conduite sans assurance… Selon la Cour des comptes, à peine un quart est réglé avant majoration. Alors, lorsque les relances ne suffisent plus, des agents du Trésor public recherchent les mauvais payeurs et tentent de récupérer l’argent. Les équipes du \"20 Heures\" ont pu assister à certaines de ces opérations.",
@@ -123,16 +293,6 @@
       "id": "d16b7d115085"
     },
     {
-      "title": "\"La moitié du village est détruite\" : une tornade touche la commune de Pomas, dans l'Aude, et endommage une centaine d'habitations",
-      "url": "https://www.franceinfo.fr/environnement/meteo/une-tornade-touche-la-commune-de-pomas-dans-l-aude-et-endommage-plusieurs-habitations_8160002.html#xtor=RSS-3-[lestitres]",
-      "summary": "Quarante-et-une personnes ont été blessées lors de cet épisode violent, qui a endommagé 300 habitations environ.",
-      "image": "https://www.franceinfo.fr/pictures/5mAFUNqkP6MvaNUgnyS59VWg1eM/0x84:1620x996/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c897c16a89648328660.jpg",
-      "published_at": "2026-08-24T23:07:46+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "81f54001fb23"
-    },
-    {
       "title": "Les Etats-Unis retirent la Syrie de leur liste des pays accusés de soutenir le terrorisme",
       "url": "https://www.franceinfo.fr/monde/revolte-en-syrie/les-etats-unis-retirent-la-syrie-de-leur-liste-des-pays-accuses-de-soutenir-le-terrorisme_8160098.html#xtor=RSS-3-[lestitres]",
       "summary": "Le nom du pays figurait depuis 47 ans sur le registre des \"Specially Designated Global Terrorist\". Il s'agit d'une nouvelle étape dans la levée progressive des sanctions américaines.",
@@ -141,166 +301,6 @@
       "source": "France Info",
       "category": "Sport",
       "id": "c0a58b909d01"
-    },
-    {
-      "title": "Dans l’Aude, 41 blessés après une tornade ; la commune de Pomas partiellement détruite",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/24/une-tornade-frappe-l-aude-et-cause-26-blesses-une-centaine-d-habitations-touchees_6755657_3245.html",
-      "summary": "Deux centres d’hébergement ont été ouverts aux victimes pour la nuit. Plus de 120 sapeurs-pompiers sont mobilisés et des renforts sont attendus.",
-      "image": "https://img.lemde.fr/2026/08/24/665/0/1174/587/644/322/60/0/af0ca67_ftp-1-e1wgd8xfdqzo-2026-08-24t191049z-164417186-rc275nax55jp-rtrmadp-3-france-weather.JPG",
-      "published_at": "2026-08-24T22:15:58+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "e86ffc3ffe03"
-    },
-    {
-      "title": "Le Premier ministre israélien, Benyamin Nétanyahou, affirme que l'Iran a \"essayé de tuer\" l'un de ses fils",
-      "url": "https://www.franceinfo.fr/monde/israel/le-premier-ministre-israelien-benyamin-netanyahou-affirme-que-l-iran-a-essaye-de-tuer-l-un-de-ses-fils_8159969.html#xtor=RSS-3-[lestitres]",
-      "summary": "Il s'est exprimé durant une émission télévisée, et n'a pas livré davantage de précisions sur ce projet.",
-      "image": "https://www.franceinfo.fr/pictures/Wl1-_o1bIHUyQN1YzqUbHGOkvEA/0x0:4604x2589/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c81708027c075491777.jpg",
-      "published_at": "2026-08-24T22:08:42+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "af9f05195477"
-    },
-    {
-      "title": "Présidentielle 2027 : Edouard Philippe veut augmenter de 20 % la rémunération moyenne des enseignants sur un quinquennat",
-      "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/24/presidentielle-2027-edouard-philippe-veut-augmenter-de-20-la-remuneration-moyenne-des-enseignants-sur-un-quinquennat_6755790_6205049.html",
-      "summary": "L’ancien premier ministre et candidat Horizons à l’élection présidentielle souhaite par ailleurs instaurer une « amende de responsabilisation scolaire, sur le modèle de ce qui existe au Royaume-Uni », pour les « parents d’enfants harceleurs, perturbateurs ou absentéistes et les parents violents », a-t-il déclaré au « Figaro ».",
-      "image": "https://img.lemde.fr/2026/08/24/169/0/4600/2300/644/322/60/0/7ed4c29_upload-1-mv0ia5p8ppay-philippon-lemonde-20260830-0630.jpg",
-      "published_at": "2026-08-24T22:07:27+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "902cbfd24a18"
-    },
-    {
-      "title": "Dans l’Aude, le village de Pomas dévasté par une tornade",
-      "url": "https://www.liberation.fr/environnement/climat/dans-laude-le-village-de-pomas-devaste-par-une-tornade-20260824_YWIYY6Q6VZFELC2LZXKJWGEPTM/",
-      "summary": "Le phénomène a endommagé ce lundi 24 août une centaine d’habitations et fait 26 blessés, dont cinq hospitalisés. Plus de 115 pompiers ont été mobilisés pour sécuriser les lieux et venir en aide aux habitants.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-24T20:06:57+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "9d741e75bf62"
-    },
-    {
-      "title": "Les Etats-Unis retirent la Syrie de leur liste des pays accusés de soutenir le terrorisme",
-      "url": "https://www.liberation.fr/international/les-etats-unis-retirent-la-syrie-de-leur-liste-des-pays-accuses-de-soutenir-le-terrorisme-20260824_EGSKRGCWEVF4VFC5D5TTHYVHWM/",
-      "summary": "Après 47 ans de présence sur cette liste, la Syrie bénéficie d’un nouvel assouplissement des mesures américaines. Washington a également retiré HTS, l’ancienne formation dirigée par le président Ahmad al-Chareh, de plusieurs listes liées au terrorisme et aux sanctions.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-24T19:58:07+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "5ff01d45c35f"
-    },
-    {
-      "title": "Oise : un policier municipal mis en examen dans une affaire d’homicide routier",
-      "url": "https://www.liberation.fr/societe/police-justice/oise-un-policier-municipal-mis-en-examen-dans-une-affaire-dhomicide-routier-20260824_RFLM253N25GSBEVDBTOWXGB2KQ/",
-      "summary": "Après une course-poursuite ayant coûté la vie au conducteur d’un véhicule en fuite, l’agent a été placé ce lundi 24 août sous contrôle judiciaire. Une enquête a été ouverte pour déterminer les circonstances exactes de l’accident survenu vendredi soir près de Compiègne.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-24T19:45:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "f1e21fd0a86b"
-    },
-    {
-      "title": "Dix millions d'élèves seront interrogés sur d'éventuelles violences sexuelles commises à leur encontre, annonce le ministre Edouard Geffray",
-      "url": "https://www.franceinfo.fr/societe/education/dix-millions-d-eleves-seront-interroges-sur-d-eventuelles-violences-sexuelles-commises-a-leur-encontre-annonce-le-ministre-edouard-geffray_8160062.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Les résultats risquent d'être sismiques\", redoute le ministre de l'Education nationale, dans un entretien accordé à plusieurs journaux régionaux.",
-      "image": "https://www.franceinfo.fr/pictures/xLgifYMHra-JSPkJFe9vhe45pTs/0x292:5616x3451/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c9eae6f29f945155365.jpg",
-      "published_at": "2026-08-24T21:43:36+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "0b0e16be96b2"
-    },
-    {
-      "title": "«Trop c’est trop» : Silvestre, Lizarazu, Drogba, Petit… d’anciennes gloires du ballon rond demandent du «changement» à la tête de la Fifa",
-      "url": "https://www.liberation.fr/sports/football/trop-cest-trop-silvestre-lizarazu-drogba-petit-danciennes-gloires-du-ballon-rond-demandent-du-changement-a-la-tete-de-la-fifa-20260824_WP75FKWEAJFYVCANYGWWVPDPIA/",
-      "summary": "Dans un communiqué publié par l’ancien international tricolore et défenseur de Manchester United Mickaël Silvestre, plusieurs joueurs ont manifesté leur souhait de changement au sommet de l’instance qui régit le football mondial.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-24T19:41:50+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "c6597192e55c"
-    },
-    {
-      "title": "Un randonneur fait une chute mortelle de 400 mètres dans le massif du Dévoluy en Isère",
-      "url": "https://www.franceinfo.fr/faits-divers/un-randonneur-fait-une-chute-mortelle-de-400-metres-dans-le-massif-du-devoluy-en-isere_8160059.html#xtor=RSS-3-[lestitres]",
-      "summary": "Ce jeune homme de 34 ans parcourait lundi l'arête nord du Nid, à près de 2 500 mètres d'altitude, lorsqu'il a chuté, rapporte ICI Isère.",
-      "image": "https://www.franceinfo.fr/pictures/SFVw1o_6zZHz8J3sNSW1T7bNDg0/0x49:1200x724/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c9ced3331a471611483.jpg",
-      "published_at": "2026-08-24T21:41:33+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "1d463a2c1d26"
-    },
-    {
-      "title": "Violences sexuelles et sexistes : les élèves devront répondre à un questionnaire, annonce Edouard Geffray",
-      "url": "https://www.lemonde.fr/education/article/2026/08/24/violences-sexuelles-et-sexistes-les-eleves-devront-repondre-a-un-questionnaire-annonce-edouard-geffray_6755757_1473685.html",
-      "summary": "Plusieurs scandales de violences sexuelles dans le périscolaire parisien ont été révélés à l’automne 2025 et des dizaines d’animateurs suspendus, notamment pour agressions sexuelles. Des cas similaires ont également été signalés dans d’autres régions.",
-      "image": "https://img.lemde.fr/2026/05/27/633/0/7595/3797/644/322/60/0/d945ddb_ftp-1-oenncslbdhs1-5154243-01-06.jpg",
-      "published_at": "2026-08-24T21:39:41+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "09f8eba89008"
-    },
-    {
-      "title": "Bally Bagayoko visé par une enquête du Parquet national financier pour détournement de fonds publics",
-      "url": "https://www.liberation.fr/politique/bally-bagayoko-vise-par-une-enquete-du-parquet-national-financier-pour-detournement-de-fonds-publics-20260824_Y57MGUQWWZC57APB5MMQ3LCAIY/",
-      "summary": "Le maire insoumis de Saint-Denis, qui a fait l’objet d’une plainte déposée par l’association AC !! Anti-Corruption, est mis en cause pour le cumul présumé de ses anciennes fonctions d’élu et de cadre de la RATP.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-24T19:31:45+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "945e3ee4cdaf"
-    },
-    {
-      "title": "Les images de l'impressionnante tornade qui s'est abattue sur la commune de Pomas, dans l'Aude",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/orages-une-impressionnante-tornade-balaye-l-aude_8160017.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'événement s'est produit à Pomas, près de Carcassonne. Des habitations ont été endommagées, des toitures arrachées, et plusieurs routes sont coupées par des chutes d'arbres.",
-      "image": "https://www.franceinfo.fr/pictures/jyoaYzRWpg5v3T6NcMImGUDXyjw/195x0:1543x758/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c89b8417d1043218395.png",
-      "published_at": "2026-08-24T21:29:20+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "9a883a16eec9"
-    },
-    {
-      "title": "L’Arabie saoudite signe des contrats pour le développement du port de Djedda avec CMA CGM et pour le métro de Riyad avec Alstom",
-      "url": "https://www.lemonde.fr/international/article/2026/08/24/l-arabie-saoudite-signe-des-contrats-pour-le-developpement-du-port-de-djedda-avec-cma-cgm-et-pour-le-metro-de-riyad-avec-alstom_6755724_3210.html",
-      "summary": "Le premier prévoit la création d’un nouveau terminal au port de Djedda sur la mer Rouge, tandis que le second est consacré à la fourniture de rames supplémentaires pour les lignes de métro de la capitale saoudienne.",
-      "image": "https://img.lemde.fr/2026/08/24/939/0/8000/4000/644/322/60/0/17fb937_upload-1-r6s1qy51xda1-jmug260824089.jpg",
-      "published_at": "2026-08-24T21:03:20+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "2feecd01afeb"
-    },
-    {
-      "title": "Les Etats-Unis retirent la Syrie de leur liste des pays accusés de soutenir le terrorisme",
-      "url": "https://www.lemonde.fr/international/article/2026/08/24/les-etats-unis-retirent-la-syrie-de-leur-liste-des-pays-accuses-de-soutenir-le-terrorisme_6755723_3210.html",
-      "summary": "Le secrétaire d’Etat américain, Marco Rubio, avait expliqué que cette décision avait été prise après avoir reçu des « garanties formelles » de la part d’Ahmed Al-Charaa, ancien djihadiste devenu président de la Syrie, selon lesquelles « la Syrie ne soutiendra[it] pas d’actes de terrorisme international à l’avenir ».",
-      "image": "https://img.lemde.fr/2025/11/10/418/0/5017/2508/644/322/60/0/2d98a35_ftp-import-images-1-0u1scpeesutp-81c304022eab41678c72222476372b35-0-4e584837723e440ea915da8bbafd26c2.jpg",
-      "published_at": "2026-08-24T21:01:44+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "cd2c11d62e46"
-    },
-    {
-      "title": "L’Arabie saoudite prévoit d’investir 6 milliards d’euros pour créer trois parcs d’attractions près de Paris, annonce Emmanuel Macron",
-      "url": "https://www.lemonde.fr/international/article/2026/08/24/l-arabie-saoudite-prevoit-d-investir-6-milliards-d-euros-pour-creer-trois-parcs-d-attractions-pres-de-paris-annonce-emmanuel-macron_6755620_3211.html",
-      "summary": "Le projet, présenté par Emmanuel Macron comme « du jamais vu depuis Disneyland Paris », devrait créer 22 000 emplois directs, selon les estimations du chef de l’Etat.",
-      "image": "https://img.lemde.fr/2026/08/24/1121/0/8000/4000/644/322/60/0/ccccdc5_upload-1-mf8hmlg1iyrm-jmug260824091.jpg",
-      "published_at": "2026-08-24T21:01:34+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "0261cc40acbe"
-    },
-    {
-      "title": "Les Etats-Unis annoncent de nouvelles sanctions pour « couper toutes les ressources économiques » de l’Iran",
-      "url": "https://www.lemonde.fr/international/article/2026/08/24/les-etats-unis-annoncent-de-nouvelles-sanctions-pour-couper-toutes-les-ressources-economiques-de-l-iran_6755656_3211.html",
-      "summary": "Les pays qui ne participeraient pas aux sanctions souhaitées par les Etats-Unis « partageront l’isolement » du régime de Téhéran, a mis en garde Scott Bessent, le secrétaire au Trésor américain, lundi. De son côté, l’Iran a assuré disposer d’un « plan sur deux ans » pour contrer les sanctions.",
-      "image": "https://img.lemde.fr/2026/08/24/31/0/3296/1648/644/322/60/0/f29cdc5_ftp-1-5gzr7hgvzqd9-063dea6cad944e61ae26381346ac99a2-0-551b19add85b4a03b9a727f89fdb456f.jpg",
-      "published_at": "2026-08-24T20:52:50+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "ecdfd4318bb0"
     }
   ]
 }
