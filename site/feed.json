@@ -1,14 +1,34 @@
 {
-  "generated_at": "2026-08-24T23:28:27.531389+00:00",
+  "generated_at": "2026-08-25T01:44:15.027670+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "A Haïti, une attaque de gangs près de la capitale fait au moins 40 morts",
+      "url": "https://www.lemonde.fr/international/article/2026/08/25/haiti-une-attaque-de-gangs-pres-de-la-capitale-fait-au-moins-40-morts_6755955_3210.html",
+      "summary": "« Certaines personnes sont toujours portées disparues », fait savoir le maire de Kenscoff, qui fait également état de dizaines de blessés.",
+      "image": "https://img.lemde.fr/2026/08/24/0/0/4444/2222/644/322/60/0/d8eadeb_ftp-1-wgqueq6eaknm-5912918-01-06.jpg",
+      "published_at": "2026-08-25T02:10:14+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "30ecf290edba"
+    },
+    {
+      "title": "Sophie Adenot effectue, mardi, sa deuxième sortie dans l’espace pour parachever le changement d’une antenne",
+      "url": "https://www.lemonde.fr/sciences/article/2026/08/25/sophie-adenot-effectue-mardi-sa-deuxieme-sortie-dans-l-espace-pour-parachever-le-changement-d-une-antenne_6755922_1650684.html",
+      "summary": "Des difficultés avaient contraint, il y a une semaine, l’astronaute française à finir sa première sortie hors de la Station spatiale internationale (ISS) sans avoir pu aller au bout de sa mission avec son binôme, l’Américain Anil Menon.",
+      "image": "https://img.lemde.fr/2026/08/18/251/0/2198/1099/644/322/60/0/8c6fd95_ftp-1-zzmldnjbowwn-5867390-01-06.jpg",
+      "published_at": "2026-08-25T01:51:14+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "26678bd8343a"
+    },
     {
       "title": "La Cour suprême américaine autorise provisoirement le décret de Donald Trump restreignant le vote par correspondance",
       "url": "https://www.lemonde.fr/international/article/2026/08/25/la-cour-supreme-americaine-autorise-provisoirement-le-decret-de-donald-trump-restreignant-le-vote-par-correspondance_6755889_3210.html",
       "summary": "Des Etats gouvernés par les démocrates avaient obtenu d’un tribunal fédéral de première instance la suspension d’un décret signé le 31 mars par le président américain pour encadrer cette pratique.",
       "image": "https://img.lemde.fr/2026/08/24/189/0/4026/2013/644/322/60/0/aab64ab_upload-1-qhal71cmfv5j-063-2177885629.jpg",
-      "published_at": "2026-08-25T01:16:27+02:00",
-      "source": "Le Monde Inter",
+      "published_at": "2026-08-25T01:16:26+02:00",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "463d1cb2e4e6"
     },
@@ -281,26 +301,6 @@
       "source": "Numerama",
       "category": "Tech",
       "id": "aca5220858c4"
-    },
-    {
-      "title": "Avis favorable à la construction d’un data center de Microsoft près de Mulhouse",
-      "url": "https://www.liberation.fr/economie/economie-numerique/avis-favorable-a-la-construction-dun-data-center-de-microsoft-pres-de-mulhouse-20260824_OZIE3S37WNEHND6RHXRGQZD7LM/",
-      "summary": "Malgré l’opposition de 80 % des contributions citoyennes, le projet à deux milliards d’euros doit voir le jour dès 2029 sur 35 hectares de terres agricoles. Les associations écologistes dénoncent notamment son importante consommation d’électricité et d’eau.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-24T18:40:28+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "af33f9aacd00"
-    },
-    {
-      "title": "Thème Dragon Ball, durée du chantier, emplois… Trois questions sur le projet de parcs d'attractions sur un site près de Paris",
-      "url": "https://www.franceinfo.fr/economie/theme-dragon-ball-duree-du-chantier-emplois-trois-questions-sur-le-projet-de-parcs-d-attractions-sur-un-site-pres-de-paris_8159987.html#xtor=RSS-3-[lestitres]",
-      "summary": "Emmanuel Macron et le prince héritier saoudien ont officialisé, lundi, le projet de trois parcs d'attractions, en région parisienne. \"Un projet de cette ampleur, c'est environ cinq à six années\" d'ici l'ouverture, estime sur franceinfo Maxime Guény, directeur de la publication de Parcs et Loisirs Magazine.",
-      "image": "https://www.franceinfo.fr/pictures/xOkyZpJwU2dq8XYNeS9oMSTRPNg/0x0:4300x2418/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c8fb8ab39b995739216.jpg",
-      "published_at": "2026-08-24T20:39:45+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "1acaf6091da5"
     }
   ]
 }
