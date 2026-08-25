@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-08-25T01:44:15.027670+00:00",
+  "generated_at": "2026-08-25T03:06:54.111978+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Les Européens condamnent la stratégie de la terreur russe en Ukraine",
+      "url": "https://www.lemonde.fr/international/article/2026/08/25/les-europeens-condamnent-la-strategie-de-la-terreur-russe-en-ukraine_6756021_3210.html",
+      "summary": "Réunis, lundi, autour de Volodymyr Zelensky pour une conférence de la coalition des volontaires, les dirigeants du Vieux Continent ont réitéré leurs marques de soutien, militaires et financières, à Kiev et ils ont dénoncé l’accentuation des frappes de la Russie contre les bâtiments civils.",
+      "image": "https://img.lemde.fr/2026/08/24/308/0/4713/2356/644/322/60/0/35c2189_ftp-1-pehn42rmeqot-0e647e9107834c59ab922bec3fdea9d6-0-a93ee0009d764563937719c867d71924.jpg",
+      "published_at": "2026-08-25T05:00:11+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "3563e9a4eb2e"
+    },
+    {
+      "title": "Orages : un incendie, probablement déclenché par la foudre, a entraîné 200 évacuations spontanées en Corse",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/25/orages-un-incendie-probablement-declenche-par-la-foudre-a-entraine-200-evacuations-spontanees-en-corse_6755856_3245.html",
+      "summary": "Des vents violents se sont abattus, pendant la nuit de lundi à mardi, sur Alata, près d’Ajaccio. Les habitants ont commencé à regagner leur domicile et le feu est « quasiment fixé », selon les autorités.",
+      "image": "https://img.lemde.fr/2026/08/19/243/0/5374/2687/644/322/60/0/2f0f864_ftp-1-arr7y5r3tmdc-5875893-01-06.jpg",
+      "published_at": "2026-08-25T04:28:56+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "62518cb3f421"
+    },
+    {
+      "title": "Etats-Unis : un touriste français meurt sous 47 °C dans la Vallée de la mort",
+      "url": "https://www.lemonde.fr/international/article/2026/08/25/etats-unis-un-touriste-francais-meurt-sous-47-c-dans-la-vallee-de-la-mort_6755988_3210.html",
+      "summary": "Le véhicule que Pierre Michel Formosa, 68 ans, conduisait s’était enlisé dans la boue, et le randonneur était parti à pied chercher de l’aide. Il a été déclaré mort sur place.",
+      "image": "https://img.lemde.fr/2026/08/25/302/0/5000/2500/644/322/60/0/b96a691_upload-1-icrrq63dfwi4-000-363a7jz.jpg",
+      "published_at": "2026-08-25T04:23:58+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "9a95829aadc3"
+    },
     {
       "title": "A Haïti, une attaque de gangs près de la capitale fait au moins 40 morts",
       "url": "https://www.lemonde.fr/international/article/2026/08/25/haiti-une-attaque-de-gangs-pres-de-la-capitale-fait-au-moins-40-morts_6755955_3210.html",
@@ -41,16 +71,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "8ffc90b27d99"
-    },
-    {
-      "title": "Orages : les deux départements corses maintenus en vigilance orange",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/25/orages-les-deux-departements-corses-maintenus-en-vigilance-orange_6755856_3244.html",
-      "summary": "Les orages vont toucher une grande partie de l’île, « notamment sur la façade occidentale et le Cap », prévient Météo-France.",
-      "image": "https://img.lemde.fr/2026/08/19/243/0/5374/2687/644/322/60/0/2f0f864_ftp-1-arr7y5r3tmdc-5875893-01-06.jpg",
-      "published_at": "2026-08-25T00:48:25+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "3ea505f182c8"
     },
     {
       "title": "Handicap : « Des milliers d’élèves n’ont pas l’accompagnement dont ils ont besoin », déplore l’Unapei",
@@ -281,26 +301,6 @@
       "source": "Le Monde",
       "category": "Sport",
       "id": "ecdfd4318bb0"
-    },
-    {
-      "title": "« Ça m’inquiète pour plusieurs raisons » : il laisse Claude démonter le logiciel interne de ses appareils et affiche un bilan effroyable",
-      "url": "https://www.numerama.com/cyberguerre/2316933-ca-minquiete-pour-plusieurs-raisons-il-laisse-claude-demonter-le-logiciel-interne-de-ses-appareils-et-affiche-un-bilan-effroyable.html",
-      "summary": "Avec l’aide d’un agent IA, un chercheur en sécurité a réussi à prendre le contrôle de cinq périphériques du quotidien, de la webcam à la lampe connectée.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-24T18:50:00+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "b44e1dc0909b"
-    },
-    {
-      "title": "Sauvetage du Starship : un navire spécial est sur zone pour repêcher la fusée géante",
-      "url": "https://www.numerama.com/sciences/2316773-le-sauvetage-hors-norme-de-la-fusee-geante-starship-se-prepare-un-bateau-special-est-sur-zone.html",
-      "summary": "Fin de la dérive pour le Starship. Pour rapatrier sa fusée géante depuis l'océan Indien sans l'abîmer davantage, SpaceX s'apprête à la hisser hors de l'eau grâce à un gigantesque navire semi-submersible.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-24T18:43:45+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "aca5220858c4"
     }
   ]
 }
