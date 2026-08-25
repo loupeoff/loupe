@@ -1,23 +1,103 @@
 {
-  "generated_at": "2026-08-25T04:47:16.510274+00:00",
+  "generated_at": "2026-08-25T05:38:18.634970+00:00",
   "article_count": 30,
   "articles": [
     {
+      "title": "Le couscous royal, une interprétation française",
+      "url": "https://www.liberation.fr/lifestyle/gastronomie/le-couscous-royal-une-interpretation-francaise-20260825_G2Y4GTJO3ZFOLLHLVRSOUFI2XQ/",
+      "summary": "Cette semaine, «Libé» évoque des plats dont l’histoire n’est pas forcément celle que l’on croit. Aujourd’hui, le couscous royal, inventé pour flatter les palais français.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-25T05:37:00+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "094d0c5777fc"
+    },
+    {
+      "title": "Des familles de migrants expulsés par les Etats-Unis et morts dans le double séisme au Venezuela demandent des \"excuses\"",
+      "url": "https://www.franceinfo.fr/monde/venezuela/des-familles-de-migrants-expulses-par-les-etats-unis-et-morts-dans-le-double-seisme-au-venezuela-demandent-des-excuses_8160398.html#xtor=RSS-3-[lestitres]",
+      "summary": "Un groupe de 146 migrants, dont sept enfants, était détenu par les services du renseignement dans un vieux bâtiment de La Guaira, lorsque le tremblement de terre, survenu le 24 juin, a provoqué l'effondrement de l'édifice.",
+      "image": "https://www.franceinfo.fr/pictures/SsTWNvFBY7q2te0FJD_CcFnOE_s/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/25/6a8d23539f258516021030.jpg",
+      "published_at": "2026-08-25T07:19:00+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "3c02ac95c1dd"
+    },
+    {
+      "title": "Dans l’Aude, une tornade dévaste le village de Pomas et fait 41 blessés",
+      "url": "https://www.liberation.fr/environnement/climat/dans-laude-le-village-de-pomas-devaste-par-une-tornade-20260824_YWIYY6Q6VZFELC2LZXKJWGEPTM/",
+      "summary": "Le phénomène a endommagé plus de 300 habitations lundi 24 août en fin de journée. Une centaine pompiers a été mobilisée pour sécuriser les lieux et venir en aide aux habitants.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-25T05:02:48+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "9d741e75bf62"
+    },
+    {
+      "title": "Désinformation russe : de fausses chaînes Telegram, de fausses vidéos et un vrai-faux think tank israélien",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/25/desinformation-russe-de-fausses-chaines-telegram-de-fausses-videos-et-un-vrai-faux-think-tank-israelien_6756197_4408996.html",
+      "summary": "Un rapport publié mardi 25 août par OpenAI identifie un vrai-faux centre de réflexion lié à des opérateurs de propagande pro-Kremlin.",
+      "image": "https://img.lemde.fr/2026/08/24/250/0/3000/1500/644/322/60/0/09672d0_upload-1-op88vj7r67aj-illustration-sans-titre-22.jpg",
+      "published_at": "2026-08-25T07:00:09+02:00",
+      "source": "Le Monde",
+      "category": "Tech",
+      "id": "b465690595bd"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+      "url": "https://www.lemonde.fr/international/live/2026/08/25/en-direct-guerre-en-ukraine-deux-morts-et-une-raffinerie-en-feu-pres-de-krasnodar-en-russie-apres-une-attaque-ukrainienne-de-drones_6753793_3210.html",
+      "summary": "Deux personnes ont été tuées par une bombe guidée à Zaporijia, dans le sud de l’Ukraine, a fait savoir le chef de l’administration militaire locale, Ivan Fedorov.",
+      "image": "https://img.lemde.fr/2026/08/24/458/0/5500/2750/644/322/60/0/ebb5b1f_ftp-1-izx1mmjbwffz-c4ffcca9b8c24c9c8dcfe8e56201b403-0-e420e228dbd942948e3f97f21c210f58.jpg",
+      "published_at": "2026-08-25T06:57:30+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "c1839f931819"
+    },
+    {
+      "title": "«Libérez nos sœurs russes, Evguenia Berkovitch et Svetlana Petriïtchouk»",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/liberez-nos-soeurs-russes-evguenia-berkovitch-et-svetlana-petriitchouk-20260825_N7OAURGJVRE5XHJCA6S3RS2LQM/",
+      "summary": "Un collectif d’artistes de théâtre appelle la communauté française et européenne à mener des actions pour médiatiser les emprisonnements arbitraires dans des colonies pénitentiaires loin de Moscou d’Evguenia Berkovitch et de Svetlana Petrïitchouk.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-08-25T04:52:00+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "67c94ea8d93d"
+    },
+    {
+      "title": "Un incendie s'est déclaré à proximité d'Ajaccio, \"200 personnes ont évacué spontanément\", selon la préfecture",
+      "url": "https://www.franceinfo.fr/faits-divers/incendie/un-incendie-s-est-declare-a-proximite-d-ajaccio-200-personnes-ont-evacue-spontanement-selon-la-prefecture_8160365.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'incendie s'est déclenché vers 1 heure du matin alors que des vents violents s'abattaient sur la ville depuis 0h45, a constaté une journaliste de l'AFP.",
+      "image": "https://www.franceinfo.fr/pictures/btAzKHycdoESiwTfM37d3qREC-U/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/25/6a8d1b1829f11456270053.jpg",
+      "published_at": "2026-08-25T06:44:23+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "defe520429cf"
+    },
+    {
       "title": "\"La moitié du village est détruite\" : une tornade touche la commune de Pomas, dans l'Aude, et fait 41 blessés",
       "url": "https://www.franceinfo.fr/environnement/meteo/une-tornade-touche-la-commune-de-pomas-dans-l-aude-et-endommage-plusieurs-habitations_8160002.html#xtor=RSS-3-[lestitres]",
-      "summary": "Environ 300 maisons ont été endommagées lors de cet épisode violent, survenu lundi en fin d'après-midi, selon la préfecture.",
-      "image": "https://www.franceinfo.fr/pictures/5mAFUNqkP6MvaNUgnyS59VWg1eM/0x84:1620x996/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c897c16a89648328660.jpg",
+      "summary": "\"La moitié du village est détruite\", a témoigné Pierre, habitant de la commune voisine de Rouffiac, au micro d'ICI Occitanie. Une centaine de sapeurs-pompiers étaient mobilisés lundi soir.",
+      "image": "https://www.franceinfo.fr/pictures/zFjEXpd5PA4ut985TT8WFJZVXD4/0x168:1620x1080/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c897c16a89648328660.jpg",
       "published_at": "2026-08-25T06:30:38+02:00",
       "source": "France Info",
       "category": "Politique",
       "id": "81f54001fb23"
     },
     {
+      "title": "Cinq outils pour apprendre à reconnaître les chants d’oiseaux",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/25/cinq-outils-pour-apprendre-a-reconnaitre-les-chants-d-oiseaux_6756196_3244.html",
+      "summary": "Chaleur humaine vous propose des outils pour mieux connaître les oiseaux les plus proches de nous, et pour découvrir notre série d’épisodes « Envole-Moi »",
+      "image": "https://img.lemde.fr/2025/10/23/250/0/3000/1500/644/322/60/0/269a2c5_upload-1-unixw4s49jcr-frame-70.jpg",
+      "published_at": "2026-08-25T06:30:22+02:00",
+      "source": "Le Monde",
+      "category": "Culture",
+      "id": "932310672e42"
+    },
+    {
       "title": "En Iran, le lent effondrement du pouvoir d’achat",
       "url": "https://www.lemonde.fr/international/article/2026/08/25/en-iran-le-lent-effondrement-du-pouvoir-d-achat_6756195_3210.html",
       "summary": "Alors que Washington renforce sa pression sur Téhéran, le rial, la monnaie iranienne, poursuit sa chute et les inquiétudes gagnent les marchés. Mais derrière les mauvaises statistiques économiques, ce sont surtout les ménages qui absorbent le choc, en réduisant leur consommation, leur épargne et leurs dépenses essentielles.",
       "image": "https://img.lemde.fr/2026/08/24/290/0/3755/1877/644/322/60/0/add201e_ftp-1-wtflfwfjhu4o-5910557-01-06.jpg",
-      "published_at": "2026-08-25T06:30:11+02:00",
+      "published_at": "2026-08-25T06:30:07+02:00",
       "source": "Le Monde Inter",
       "category": "International",
       "id": "d66e907c539e"
@@ -33,26 +113,6 @@
       "id": "24e41bbd1f8b"
     },
     {
-      "title": "Droit du travail : les pas si jolies colonies de vacances pour les « monos »",
-      "url": "https://www.lemonde.fr/emploi/article/2026/08/25/droit-du-travail-les-pas-si-jolies-colonies-de-vacances-pour-les-monos_6756158_1698637.html",
-      "summary": "Avec une rémunération minimale journalière de près de 50 euros et des dérogations fréquentes aux règles sur le repos, les conditions de travail des moniteurs de colonies de vacances restent proches du bénévolat, explique, dans sa chronique, le juriste Francis Kessler.",
-      "image": "https://img.lemde.fr/2026/08/21/429/0/4762/2381/644/322/60/0/6f905c3_upload-1-2rt674lqr22z-maxnewsspecialtwo255654.jpg",
-      "published_at": "2026-08-25T06:00:12+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "f9efc802141f"
-    },
-    {
-      "title": "Gabriel Attal : « Je souhaite une loi de programmation pour l’école et un ministre de l’éducation qui restera en poste cinq ans »",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/25/gabriel-attal-je-souhaite-une-loi-de-programmation-pour-l-ecole-et-un-ministre-de-l-education-qui-restera-en-poste-cinq-ans_6756157_3224.html",
-      "summary": "Rétablissement du certificat d’études, fermeture de collèges ghettos, augmentations salariales… Le candidat de Renaissance à la présidentielle dévoile dans un entretien au « Monde », et à quelques jours de la rentrée des classes, ses mesures pour l’éducation.",
-      "image": "https://img.lemde.fr/2026/08/24/1185/0/3146/1573/644/322/60/0/ed88157_upload-1-l7qz5za9k3ac-mmagnin-gabriel-attal-32.jpg",
-      "published_at": "2026-08-25T06:00:09+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "7ee86893f195"
-    },
-    {
       "title": "David Lisnard : pour la présidentielle 2027, « sans une grande primaire ouverte à tous, la droite et le centre ne seront pas en mesure de l’emporter »",
       "url": "https://www.lemonde.fr/idees/article/2026/08/25/david-lisnard-pour-la-presidentielle-2027-sans-une-grande-primaire-ouverte-a-tous-la-droite-et-le-centre-ne-seront-pas-en-mesure-de-l-emporter_6756156_3232.html",
       "summary": "Pour éviter la division, la compromission programmatique et la multiplication des candidatures, le maire de Cannes, ex-LR et candidat à la présidentielle, appelle, dans une tribune au « Monde », ses concurrents de la droite et du centre à accepter l’organisation d’une primaire.",
@@ -61,6 +121,16 @@
       "source": "Le Monde Politique",
       "category": "Politique",
       "id": "658b2a01c320"
+    },
+    {
+      "title": "Gabriel Attal : « Je souhaite une loi de programmation pour l’école et un ministre de l’éducation qui restera en poste cinq ans »",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/25/gabriel-attal-je-souhaite-une-loi-de-programmation-pour-l-ecole-et-un-ministre-de-l-education-qui-restera-en-poste-cinq-ans_6756157_3224.html",
+      "summary": "Rétablissement du certificat d’études, fermeture de collèges ghettos, augmentations salariales… A quelques jours de la rentrée des classes, le candidat de Renaissance à la présidentielle dévoile ses mesures pour l’éducation, dans un entretien au « Monde ».",
+      "image": "https://img.lemde.fr/2026/08/24/1185/0/3146/1573/644/322/60/0/ed88157_upload-1-l7qz5za9k3ac-mmagnin-gabriel-attal-32.jpg",
+      "published_at": "2026-08-25T06:00:02+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "7ee86893f195"
     },
     {
       "title": "\"La Hantise\" : Jean-Philippe Toussaint tisse une histoire d'amour périlleuse dans un roman d'espionnage intime et cocasse",
@@ -127,7 +197,7 @@
       "url": "https://www.lemonde.fr/international/article/2026/08/25/faute-de-solution-militaire-donald-trump-mise-sur-l-asphyxie-economique-pour-vaincre-l-iran_6756122_3210.html",
       "summary": "A l’approche des élections de mi-mandat, la Maison Blanche privilégie la pression économique à l’engagement militaire. Une soixantaine d’entités, personnes et navires iraniens ont été ajoutés à la liste des sanctions, a annoncé, lundi, le secrétaire au Trésor, Scott Bessent. Téhéran a réagi en parlant de « terrorisme économique ».",
       "image": "https://img.lemde.fr/2026/08/22/25/0/8640/4320/644/322/60/0/dea3e3d_ftp-1-zwrsgpqvqk0f-70a73e7d79f84952bb75d30922efbe84-0-14be6f4c84d5433097f0b57c919ddf8b.jpg",
-      "published_at": "2026-08-25T05:30:34+02:00",
+      "published_at": "2026-08-25T05:30:32+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "851f0bd46568"
@@ -188,22 +258,12 @@
       "summary": "Réunis, lundi, autour de Volodymyr Zelensky pour une conférence de la coalition des volontaires, les dirigeants du Vieux Continent ont réitéré leurs marques de soutien, militaires et financières, à Kiev, et dénoncé l’intensification des frappes de la Russie contre les civils.",
       "image": "https://img.lemde.fr/2026/08/24/308/0/4713/2356/644/322/60/0/35c2189_ftp-1-pehn42rmeqot-0e647e9107834c59ab922bec3fdea9d6-0-a93ee0009d764563937719c867d71924.jpg",
       "published_at": "2026-08-25T05:00:09+02:00",
-      "source": "Le Monde",
+      "source": "Le Monde Inter",
       "category": "International",
       "id": "3563e9a4eb2e"
     },
     {
-      "title": "Orages : un incendie, probablement déclenché par la foudre, a entraîné 200 évacuations spontanées en Corse",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/25/orages-un-incendie-probablement-declenche-par-la-foudre-a-entraine-200-evacuations-spontanees-en-corse_6755856_3245.html",
-      "summary": "Des vents violents se sont abattus, pendant la nuit de lundi à mardi, sur Alata, près d’Ajaccio. Les habitants ont commencé à regagner leur domicile et le feu est « quasiment fixé », selon les autorités.",
-      "image": "https://img.lemde.fr/2026/08/19/243/0/5374/2687/644/322/60/0/2f0f864_ftp-1-arr7y5r3tmdc-5875893-01-06.jpg",
-      "published_at": "2026-08-25T04:28:56+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "62518cb3f421"
-    },
-    {
-      "title": "Etats-Unis : un touriste français meurt sous 47 °C dans la Vallée de la mort",
+      "title": "Un touriste français meurt sous 47 °C après une panne de voiture dans la Vallée de la mort, aux Etats-Unis",
       "url": "https://www.lemonde.fr/international/article/2026/08/25/etats-unis-un-touriste-francais-meurt-sous-47-c-dans-la-vallee-de-la-mort_6755988_3210.html",
       "summary": "Le véhicule que Pierre Michel Formosa, 68 ans, conduisait s’était enlisé dans la boue, et le randonneur était parti à pied chercher de l’aide. Il a été déclaré mort sur place.",
       "image": "https://img.lemde.fr/2026/08/25/302/0/5000/2500/644/322/60/0/b96a691_upload-1-icrrq63dfwi4-000-363a7jz.jpg",
@@ -238,69 +298,9 @@
       "summary": "Des Etats gouvernés par les démocrates avaient obtenu d’un tribunal fédéral de première instance la suspension d’un décret signé le 31 mars par le président américain pour encadrer cette pratique.",
       "image": "https://img.lemde.fr/2026/08/24/189/0/4026/2013/644/322/60/0/aab64ab_upload-1-qhal71cmfv5j-063-2177885629.jpg",
       "published_at": "2026-08-25T01:16:26+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "463d1cb2e4e6"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky souhaiterait anticiper le prêt financier européen de 2027 pour accroître la production ukrainienne de drones et missiles",
-      "url": "https://www.lemonde.fr/international/live/2026/08/25/en-direct-guerre-en-ukraine-volodymyr-zelensky-souhaiterait-anticiper-le-pret-financier-europeen-de-2027-pour-accroitre-la-production-ukrainienne-de-drones-et-missiles_6753793_3210.html",
-      "summary": "Selon le président ukrainien, qui s’est exprimé lors d’une réunion des Etats membres de la coalition des volontaires, la défense de son pays est actuellement confrontée à un déficit budgétaire. Des décisions de dépenses prises en début d’année ont déjà entraîné l’utilisation anticipée de fonds prévus pour le second semestre 2026.",
-      "image": "https://img.lemde.fr/2026/08/24/636/0/3975/1987/644/322/60/0/3034be8_ftp-1-iudcas2w86ti-5911628-01-06.jpg",
-      "published_at": "2026-08-25T01:11:09+02:00",
       "source": "Le Monde Inter",
       "category": "Politique",
-      "id": "8ffc90b27d99"
-    },
-    {
-      "title": "Handicap : « Des milliers d’élèves n’ont pas l’accompagnement dont ils ont besoin », déplore l’Unapei",
-      "url": "https://www.lemonde.fr/education/article/2026/08/25/handicap-des-milliers-d-eleves-n-ont-pas-l-accompagnement-dont-ils-ont-besoin-deplore-l-unapei_6755823_1473685.html",
-      "summary": "L’association de parents d’enfants en situation de handicap mental alerte à chaque rentrée sur l’offre de scolarisation insuffisante ou inadaptée, et demande une meilleure coordination entre l’éducation nationale et le secteur médico-social.",
-      "image": "https://img.lemde.fr/2026/08/24/637/0/5800/2900/644/322/60/0/1f41dbb_upload-1-b6zbmw0h5dqd-000-32hj7ka.jpg",
-      "published_at": "2026-08-25T00:01:04+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "52af29fe2c4e"
-    },
-    {
-      "title": "«Que chaque élève puisse jouir de ses droits» : malgré quelques avancées, la scolarisation des enfants en situation de handicap loin d’être satisfaisante",
-      "url": "https://www.liberation.fr/societe/education/que-chaque-eleve-puisse-jouir-de-ses-droits-malgre-quelques-avancees-la-scolarisation-des-enfants-en-situation-de-handicap-loin-detre-satisfaisante-20260825_JAJE2ABKGRG4ZH6TW2XFLCN6UI/",
-      "summary": "Selon une enquête menée par l’Unapei, un réseau d’associations, plus de 7 jeunes en situation de handicap sur 10 reçoivent moins de douze heures de cours par semaine.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-24T22:01:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "1fb253982610"
-    },
-    {
-      "title": "Mort de Philippe Bouvard : l'imitateur Laurent Gerra rend hommage à un homme \"passionnant\"",
-      "url": "https://www.franceinfo.fr/economie/medias/direct-mort-de-philippe-bouvard-emmanuel-macron-salue-une-figure-libre-qui-a-accompagne-des-generations-de-francais_8159447.html#xtor=RSS-3-[lestitres]",
-      "summary": "Laurent Gerra a rendu hommage lundi à Philippe Bouvard, se souvenant d'un homme \"brillantissime\", doté d'\"une culture démente\", mais aussi de sa \"bonne humeur\" et de sa \"joie de vivre\".",
-      "image": "https://www.franceinfo.fr/pictures/yJqD3kBqm17MyhTOvowXYlxxeT4/0x0:3888x2187/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c489e276a3358252147.jpg",
-      "published_at": "2026-08-24T23:57:25+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "f95328de0552"
-    },
-    {
-      "title": "\"On n'oublie jamais\" : enquête auprès des agents de recouvrement, qui traquent un milliard d'euros d'amendes impayées",
-      "url": "https://www.franceinfo.fr/societe/justice/un-milliard-d-euros-d-amendes-impayees-ce-qui-se-cache-derriere-le-chiffre-de-la-cour-des-comptes-enquete-aupres-des-agents-de-recouvrement_8160101.html#xtor=RSS-3-[lestitres]",
-      "summary": "Il s’agit d’amendes pour des délits, comme l’usage de stupéfiants ou la conduite sans assurance… Selon la Cour des comptes, à peine un quart est réglé avant majoration. Alors, lorsque les relances ne suffisent plus, des agents du Trésor public recherchent les mauvais payeurs et tentent de récupérer l’argent. Les équipes du \"20 Heures\" ont pu assister à certaines de ces opérations.",
-      "image": "https://www.franceinfo.fr/pictures/UgsdgZSSD93A2ev0Gw6xFApRfys/0x52:1283x774/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8cb13b33676038250490.jpg",
-      "published_at": "2026-08-24T23:13:59+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "d16b7d115085"
-    },
-    {
-      "title": "Les Etats-Unis retirent la Syrie de leur liste des pays accusés de soutenir le terrorisme",
-      "url": "https://www.franceinfo.fr/monde/revolte-en-syrie/les-etats-unis-retirent-la-syrie-de-leur-liste-des-pays-accuses-de-soutenir-le-terrorisme_8160098.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le nom du pays figurait depuis 47 ans sur le registre des \"Specially Designated Global Terrorist\". Il s'agit d'une nouvelle étape dans la levée progressive des sanctions américaines.",
-      "image": "https://www.franceinfo.fr/pictures/fac_rXlv-sE-DeZivZOxiDK4CD8/0x365:7008x4307/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8caa95d52ce385047116.jpg",
-      "published_at": "2026-08-24T22:40:17+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "c0a58b909d01"
+      "id": "463d1cb2e4e6"
     }
   ]
 }
