@@ -1,9 +1,159 @@
 {
-  "generated_at": "2026-08-25T13:02:16.226264+00:00",
+  "generated_at": "2026-08-25T13:56:50.323722+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Surprise : Apple dévoile la puce M6 pensée pour l’IA locale avec de nouveaux Mac mini et Mac Studio",
+      "title": "Infractions en conduite autonome : la Chine prépare une loi pour envoyer l’amende au constructeur",
+      "url": "https://www.numerama.com/vroom/2317759-infractions-en-conduite-autonome-la-chine-prepare-une-loi-pour-envoyer-lamende-au-constructeur.html",
+      "summary": "La question de la responsabilité est au cœur des préoccupations liées à la conduite autonome : en cas d’accident, mais aussi d’infractions routières. C’est sur ce second point que la Chine légifère en ce moment.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-08-25T13:41:00+00:00",
+      "source": "Numerama",
+      "category": "International",
+      "id": "1fc9ea7613f2"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : à Kramatorsk, le bilan s’alourdit à 21 blessés après les attaques russes de la nuit",
+      "url": "https://www.lemonde.fr/international/live/2026/08/25/en-direct-guerre-en-ukraine-a-kramatorsk-le-bilan-s-alourdit-a-21-blesses-apres-les-attaques-russes-de-la-nuit_6753793_3210.html",
+      "summary": "D’importants bombardements russes ont touché cette ville de l’est de l’Ukraine. Au total, « 34 immeubles d’habitation ont été endommagés » par des bombes, selon les autorités.",
+      "image": "https://img.lemde.fr/2026/08/24/720/0/8640/4320/644/322/60/0/028476c_ftp-1-zcshea21zcj3-7783d7dec26c4acbb4cf3712e07e539e-0-3dc3a27038e84355a4568131f166378e.jpg",
+      "published_at": "2026-08-25T15:38:46+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "931e37ffbe8e"
+    },
+    {
+      "title": "Droits de douane : Donald Trump nie toute ingérence dans les affaires des Canadiens francophones",
+      "url": "https://www.lemonde.fr/international/article/2026/08/25/droits-de-douane-donald-trump-nie-toute-ingerence-dans-les-affaires-des-canadiens-francophones_6756589_3210.html",
+      "summary": "Le président américain a dénoncé un « mensonge » du premier ministre canadien, Mark Carney, qui accuse Washington de vouloir s’en prendre au statut de la langue française dans les négociations commerciales entre les deux voisins.",
+      "image": "https://img.lemde.fr/2026/08/24/21/0/2613/1306/644/322/60/0/4790e3f_ftp-1-xgwdgdksqoc1-2026-08-24t202227z-1102145854-rc275na3by3q-rtrmadp-3-usa-trump.JPG",
+      "published_at": "2026-08-25T15:36:18+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "45b234793fc9"
+    },
+    {
+      "title": "Tout à couples (4/7) : Ulysse et Pénélope, retraites à part",
+      "url": "https://www.liberation.fr/portraits/tout-a-couples-47-ulysse-et-penelope-retraites-a-part-20260825_VFNKHIFMSNF6FLM3CNK7YX6MDI/",
+      "summary": "Tout l’été, «Libé» imagine ce que seraient devenus des duos mythiques de fiction. Aujourd’hui, les héros de «l’Odyssée», réunis, ou presque.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-25T13:35:00+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "bb58fe9825a7"
+    },
+    {
+      "title": "Pourquoi le gouvernement veut exclure certains fonds du PEA",
+      "url": "https://www.lemonde.fr/argent/article/2026/08/25/pourquoi-le-gouvernement-veut-exclure-certains-fonds-du-pea_6756588_1657007.html",
+      "summary": "Le ministère des finances pourrait profiter du budget 2027 pour suspendre l’éligibilité de certains ETF, des fonds indiciels cotés, au plan d’épargne en actions. Des fonds auxquels on reproche de contourner les règles du dispositif.",
+      "image": "https://img.lemde.fr/2026/08/13/250/0/3000/1500/644/322/60/0/67e96eb_upload-1-24hnr6blmkyq-papier-483.jpg",
+      "published_at": "2026-08-25T15:30:09+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "cbd8241df620"
+    },
+    {
+      "title": "Sophie Adenot retourne dans l’espace ce 25 août : pourquoi une EVA dure près de 6 heures, d’ailleurs ?",
+      "url": "https://www.numerama.com/sciences/2317289-sophie-adenot-retourne-dans-lespace-ce-25-aout-pourquoi-une-eva-dure-pres-de-6-heures-dailleurs.html",
+      "summary": "Sophie Adenot doit mener ce 25 août sa deuxième sortie extravéhiculaire en à peine une semaine. Un périple qui va durer un peu plus de 6 heures, ce qui est devenu la durée habituelle de ce type d'opération, à la fois pour des raisons de sécurité et de technologie.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-25T13:29:47+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "7c21d3459092"
+    },
+    {
+      "title": "Sécheresse : le Grand Est réclame « un plan européen massif » pour l’agriculture",
+      "url": "https://www.lemonde.fr/climat/article/2026/08/25/secheresse-le-grand-est-reclame-un-plan-europeen-massif-pour-l-agriculture_6756586_1652612.html",
+      "summary": "Le président de la région a appelé mardi la Commission européenne à mettre en place un « plan européen massif de sauvegarde et d’avenir pour l’agriculture », après un été marqué par une sécheresse exceptionnelle et d’importantes pertes dans plusieurs filières.",
+      "image": "https://img.lemde.fr/2026/08/21/625/0/7488/3744/644/322/60/0/946e9c9_ftp-1-papluei8wkhz-5887072-01-06.jpg",
+      "published_at": "2026-08-25T15:22:24+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "0a022872c477"
+    },
+    {
+      "title": "TikTok sanctionné d’une amende de 25 millions d’euros au Brésil pour des manquements envers les mineurs",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/25/tiktok-sanctionne-d-une-amende-de-25-millions-d-euros-au-bresil-pour-des-manquements-envers-les-mineurs_6756585_4408996.html",
+      "summary": "L’Agence nationale de protection des données du Brésil a ordonné à ByteDance Brasil, filiale brésilienne de la plateforme créée en Chine, de « supprimer les données collectées de façon irrégulière ».",
+      "image": "https://img.lemde.fr/2026/08/05/684/0/8192/4096/644/322/60/0/fac9654_ftp-1-y5tv3gjzmczi-2026-08-05t100023z-983009818-rc2tbcahm0fa-rtrmadp-3-disney-tiktok.JPG",
+      "published_at": "2026-08-25T15:20:00+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "46d105ef0184"
+    },
+    {
+      "title": "ChatGPT Plus : OpenAI réactive la limite des cinq heures d’usage pour deux outils avancés",
+      "url": "https://www.numerama.com/tech/2317749-chatgpt-plus-openai-reactive-la-limite-des-cinq-heures-dusage-pour-deux-outils-avances.html",
+      "summary": "Quelques semaines après l'avoir levée, OpenAI réactive sa limite des cinq heures sur Codex et ChatGPT Work pour les abonnés Plus, qui doivent de nouveau composer avec deux plafonds au lieu d'un.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-25T13:19:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "4a9fc7eb0a91"
+    },
+    {
+      "title": "La CFDT se prononce pour la taxation des héritages « dès le premier euro », une mesure de « justice sociale », estime Marylise Léon",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/25/la-cfdt-se-prononce-pour-la-taxation-des-heritages-des-le-premier-euro-une-mesure-de-justice-sociale-estime-marylise-leon_6756584_3234.html",
+      "summary": "La secrétaire générale du premier syndicat français s’est dite, mardi sur RTL, « favorable à une révision de l’impôt sur les successions », une idée qu’elle souhaite évoquer avec les candidats à la présidentielle, à l’exception de ceux d’extrême droite.",
+      "image": "https://img.lemde.fr/2026/06/22/290/0/4197/2098/644/322/60/0/0f895bc_ftp-1-rpvienv3qjjg-5405639-01-06.jpg",
+      "published_at": "2026-08-25T15:15:20+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "842df6fa1442"
+    },
+    {
+      "title": "Cisjordanie occupée : des journalistes de l’Agence France-Presse attaqués par des colons israéliens",
+      "url": "https://www.lemonde.fr/international/article/2026/08/25/cisjordanie-occupee-des-journalistes-de-l-agence-france-presse-attaques-par-des-colons-israeliens_6756583_3210.html",
+      "summary": "Les journalistes s’étaient rendus dans un village près de Bethléem pour rencontrer des militants israéliens organisant des visites solidaires auprès de Palestiniens harcelés par des colons israéliens, qui ont récemment bloqué une route dans la région.",
+      "image": "https://img.lemde.fr/2026/08/25/489/0/8063/4031/644/322/60/0/194068e_ftp-1-8itu8qgjubck-5916251-01-06.jpg",
+      "published_at": "2026-08-25T15:15:04+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "a6486c453377"
+    },
+    {
+      "title": "Guinée : éboulement meurtrier d’une décharge à Conakry",
+      "url": "https://www.lemonde.fr/international/video/2026/08/25/guinee-eboulement-meurtrier-d-une-decharge-a-conakry_6756582_3210.html",
+      "summary": "La catastrophe, survenue après de fortes pluies, a fait au moins 31 morts et 22 blessés, selon le dernier bilan des autorités. Un précédent bilan annoncé par le gouvernement dimanche faisait état de 30 morts.",
+      "image": "https://img.lemde.fr/2026/08/24/458/0/5500/2750/644/322/60/0/1ca7037_ftp-1-btlqpmncmltg-2026-08-24t200243z-721883308-rc235naz2377-rtrmadp-3-guinea-landslide.JPG",
+      "published_at": "2026-08-25T15:07:57+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "0466dd085a69"
+    },
+    {
+      "title": "Trois parcs d’attractions pour l’Ile-de-France : un anachronisme environnemental",
+      "url": "https://www.liberation.fr/politique/trois-parcs-dattractions-pour-lile-de-france-un-anachronisme-environnemental-20260825_ZYCEQGQTOVHTJEIL2LVX5XUZ6U/",
+      "summary": "Artificialisation des sols, renforcement de la centralisation, promotion du tourisme de masse et de divertissement carboné… Le protocole d’accord annoncé entre l’Arabie Saoudite et la France a tout du projet du siècle passé.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-25T13:04:04+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "d3b0758922b7"
+    },
+    {
+      "title": "« On ne peut pas arroser une forêt » : en Suisse, une méthode sylvicole d’avenir préserve de la canicule et des incendies",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/25/on-ne-peut-pas-arroser-une-foret-en-suisse-une-methode-sylvicole-d-avenir-preserve-de-la-canicule-et-des-incendies_6756581_3451060.html",
+      "summary": "« Permis d’espérer » (2/6). Alors que de trop nombreuses forêts européennes sont transformées en usines à bois par la monoculture et les coupes rases, la Confédération helvétique expérimente une technique ancestrale qui favorise la fraîcheur et la biodiversité.",
+      "image": "https://img.lemde.fr/2026/08/12/478/0/5906/2953/644/322/60/0/e1984cc_upload-1-4e1ww0xredf0-permisdesperer-illustration2-foretssuisse.jpg",
+      "published_at": "2026-08-25T15:00:09+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "28db7481b6ab"
+    },
+    {
+      "title": "L’artiste chinois Gao Zhen condamné à trois ans de prison pour des sculptures satyriques représentant Mao",
+      "url": "https://www.lemonde.fr/international/article/2026/08/25/l-artiste-chinois-gao-zhen-condamne-a-trois-ans-de-prison-pour-des-sculptures-satyriques-representant-mao_6756580_3210.html",
+      "summary": "Le plasticien, auteur, au côté de son frère Gao Qiang, d’œuvres iconoclastes dans les années 2000, a été jugé coupable d’avoir diffamé la mémoire du héros national, à l’issue d’un procès à huis clos.",
+      "image": "https://img.lemde.fr/2026/05/05/166/0/6144/3072/644/322/60/0/34ac3c9_upload-1-v6hzvvtr0x2e-rea10871935.jpg",
+      "published_at": "2026-08-25T15:00:07+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "6296153acd83"
+    },
+    {
+      "title": "Surprise : Apple dévoile la puce M6 avec de nouveaux Mac mini et Mac Studio pensés pour l’IA locale",
       "url": "https://www.numerama.com/tech/2317375-surprise-apple-devoile-la-puce-m6-pensee-pour-lia-locale-avec-de-nouveaux-mac-mini-et-mac-studio.html",
       "summary": "Deux semaines avant sa keynote de rentrée dédiée aux iPhone, Apple prend tout le monde par surprise en dévoilant deux nouveaux ordinateurs et deux nouvelles puces. Les Mac mini et Mac Studio seront disponibles le 22 septembre, probablement après les iPhone 18, avec des configurations inédites M6 et M5 Ultra.",
       "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
@@ -17,18 +167,18 @@
       "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/25/raphael-glucksmann-promet-une-revolution-ecologique-en-cent-jours-s-il-est-elu-president-de-la-republique_6756579_6205049.html",
       "summary": "Pour son premier déplacement de campagne, le cofondateur du parti Place publique a choisi le thème de l’éolien. Aux côtés du sénateur Yannick Jadot, il a promis d’engager, dès sa victoire, cent jours de transformation pour « libérer la France » de « son addiction au gaz et au pétrole ».",
       "image": "https://img.lemde.fr/2026/08/25/474/0/1080/540/644/322/60/0/221817e_upload-1-sy8z4gwuwipi-dsc04094.JPG",
-      "published_at": "2026-08-25T14:51:36+02:00",
-      "source": "Le Monde Politique",
+      "published_at": "2026-08-25T14:51:33+02:00",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "56cb7bb7b528"
     },
     {
-      "title": "« Patrick Bruel n’est pas le bienvenu », dit à son tour le maire d’Amiens",
+      "title": "« Patrick Bruel n’est pas le bienvenu », fait savoir le maire d’Amiens, après les élus de Chartres, Dijon et Strasbourg",
       "url": "https://www.lemonde.fr/societe/article/2026/08/25/patrick-bruel-n-est-pas-le-bienvenu-dit-a-son-tour-le-maire-d-amiens_6756578_3224.html",
       "summary": "Selon Frédéric Fauvet, le chanteur dispose « d’une liberté que la collectivité n’a pas : celle de renoncer de sa propre initiative » à ses concerts prévus. Une annulation unilatérale constituerait selon lui « une rupture abusive de contrat » et exposerait la collectivité « à un risque juridique et financier majeur »",
       "image": "https://img.lemde.fr/2026/08/25/354/0/4252/2126/644/322/60/0/a9cc9dd_upload-1-klhbxcmcqe1w-000-c63u3wf.jpg",
       "published_at": "2026-08-25T14:46:08+02:00",
-      "source": "Le Monde Politique",
+      "source": "Le Monde",
       "category": "Culture",
       "id": "7b4ea52dd64d"
     },
@@ -53,17 +203,17 @@
       "id": "ca16e88c3b96"
     },
     {
-      "title": "Sophie Adenot : suivez en direct la deuxième sortie de l’astronaute française hors de l’ISS, pour terminer sa mission restée inachevée",
+      "title": "Sophie Adenot a commencé sa deuxième sortie hors de l’ISS, pour terminer sa mission restée inachevée",
       "url": "https://www.lemonde.fr/sciences/article/2026/08/25/sophie-adenot-suivez-en-direct-la-deuxieme-sortie-de-l-astronaute-francaise-hors-de-l-iss-pour-terminer-sa-mission-restee-inachevee_6755922_1650685.html",
-      "summary": "Des difficultés avaient contraint, il y a une semaine, Sophie Adenot à finir sa première sortie hors de la Station spatiale internationale (ISS) sans avoir pu aller au bout de sa mission avec son binôme, l’Américain Anil Menon.",
+      "summary": "Lors de cette mission, qui doit durer environ six heures et demie, l’astronaute française et son coéquipier américain Anil Menon doivent terminer de remplacer une antenne permettant à l’ISS de communiquer avec le centre de contrôle de Houston, au Texas.",
       "image": "https://img.lemde.fr/2026/08/25/146/0/1664/832/644/322/60/0/146efc8_upload-1-a5jqb8qgtryi-000-c4y79zq.jpg",
-      "published_at": "2026-08-25T14:29:22+02:00",
+      "published_at": "2026-08-25T14:29:21+02:00",
       "source": "Le Monde",
-      "category": "Politique",
+      "category": "Sport",
       "id": "16c4cf94e146"
     },
     {
-      "title": "Tornade dans l’Aude : «Le réchauffement global génère des orages aux caractéristiques de plus en plus américaines»",
+      "title": "Tornade dans l’Aude : «Le réchauffement génère des orages aux caractéristiques de plus en plus américaines»",
       "url": "https://www.liberation.fr/environnement/climat/tornade-dans-laude-le-rechauffement-global-genere-des-orages-aux-caracteristiques-de-plus-en-plus-americaines-20260825_EOVIBYTLC5AYPIAT3FNDG7N57Y/",
       "summary": "Davide Faranda, chercheur au CNRS spécialiste des événements météorologiques extrêmes, explique le lien entre l’intensification des orages, déclencheurs de tornades, et l’augmentation des températures due aux émissions de gaz à effet de serre.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
@@ -93,16 +243,6 @@
       "id": "6e2dd5a87d21"
     },
     {
-      "title": "Au Maroc, la justice paralysée par une grève des avocats longue de plus de cent jours",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/25/au-maroc-la-justice-paralysee-par-une-greve-des-avocats-longue-de-plus-de-cent-jours_6756574_3212.html",
-      "summary": "L’Association des barreaux du Maroc est vent debout contre une nouvelle loi régissant l’activité des robes noires. Elle voit dans ce texte une « atteinte à leur indépendance ».",
-      "image": "https://img.lemde.fr/2026/08/25/364/0/3872/1936/644/322/60/0/e306485_upload-1-wqdpa248reie-000-96eu2kf.jpg",
-      "published_at": "2026-08-25T14:00:09+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "c2b482192a51"
-    },
-    {
       "title": "Présidentielle 2027 : le bilan d’Emmanuel Macron, un lourd héritage à porter pour Gabriel Attal et Edouard Philippe",
       "url": "https://www.lemonde.fr/politique/article/2026/08/25/presidentielle-2027-le-bilan-d-emmanuel-macron-un-lourd-heritage-a-porter-pour-gabriel-attal-et-edouard-philippe_6756575_823448.html",
       "summary": "Si l’ancien secrétaire général de l’Elysée, Alexis Kohler, s’est exprimé pour défendre le chef de l’Etat, les candidats issus du bloc central critiquent sa pratique du pouvoir tout en essayant de ne pas froisser son électorat.",
@@ -111,6 +251,16 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "23b3ea16ff1e"
+    },
+    {
+      "title": "Au Maroc, une grève des avocats longue de plus de cent jours paralyse la justice",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/25/au-maroc-la-justice-paralysee-par-une-greve-des-avocats-longue-de-plus-de-cent-jours_6756574_3212.html",
+      "summary": "L’Association des barreaux du Maroc proteste depuis le début de l’année contre une nouvelle loi régissant l’exercice du métier d’avocat. Elle voit dans ce texte une « atteinte à leur indépendance ».",
+      "image": "https://img.lemde.fr/2026/08/25/364/0/3872/1936/644/322/60/0/e306485_upload-1-wqdpa248reie-000-96eu2kf.jpg",
+      "published_at": "2026-08-25T14:00:06+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "c2b482192a51"
     },
     {
       "title": "En Afghanistan, l’Unicef estime qu’un million d’enfants pourraient mourir de malnutrition",
@@ -151,156 +301,6 @@
       "source": "Numerama",
       "category": "Économie",
       "id": "14e265eb7319"
-    },
-    {
-      "title": "L’artiste palestinien Sliman Mansour est mort",
-      "url": "https://www.liberation.fr/culture/lartiste-palestinien-sliman-mansour-est-mort-20260825_RR7LWITSMJAY7M6HDK3ANO6T4U/",
-      "summary": "Le peintre et sculpteur, dont les œuvres dépeignaient les traditions palestiniennes et la lutte de son peuple sous l’occupation israélienne, est décédé lundi 24 août à l’âge de 79 ans.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-25T11:15:49+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "bc5b7dec7530"
-    },
-    {
-      "title": "«Dodo la Saumure», proxénète rendu célèbre par l’affaire DSK, est mort",
-      "url": "https://www.liberation.fr/societe/police-justice/dodo-la-saumure-proxenete-rendu-celebre-par-laffaire-dsk-est-mort-20260825_LXFN4QW4NNGHNAIPODOZB2QIGQ/",
-      "summary": "Protagoniste de l’affaire du Carlton de Lille, Dominique Alderweireld s’est éteint en Belgique à 77 ans.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-25T11:09:01+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "48c339aa42db"
-    },
-    {
-      "title": "Depuis le Sud-libyen, les Haftar se rêvent en patrons du Sahara",
-      "url": "https://www.liberation.fr/international/afrique/depuis-le-sud-libyen-les-haftar-se-revent-en-patrons-du-sahara-20260825_G2ZTEUCDXZHKDM34E6SMLGKV24/",
-      "summary": "Contrôle sécuritaire, contrebande, libérations d’otages, soutien aux groupes armés… Saddam Haftar, le fils cadet du maréchal libyen, étend son influence sur le désert, jusque dans les pays frontaliers.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-25T11:02:38+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "3ad969a72eb7"
-    },
-    {
-      "title": "Sophie Adenot ressort dans l’espace : pourquoi les sorties extravéhiculaires sont-elles si longues, au fait ?",
-      "url": "https://www.numerama.com/sciences/2317289-sophie-adenot-ressort-dans-lespace-pourquoi-les-sorties-extra-vehiculaires-sont-elles-si-longues-au-fait.html",
-      "summary": "Sophie Adenot doit mener ce 25 août sa deuxième sortie extravéhiculaire en à peine une semaine. Un périple qui va durer un peu plus de 6 heures, ce qui est devenu la durée habituelle de ce type d'opération, à la fois pour des raisons de sécurité et de technologie.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-25T11:02:00+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "5e9c2d1c5058"
-    },
-    {
-      "title": "Trois robots humanoïdes sont en promotion sur ce site : oui, ils sont livrables en France",
-      "url": "https://www.numerama.com/tech/2317331-trois-robots-humanoides-sont-en-promotion-sur-ce-site-oui-ils-sont-livrables-en-france.html",
-      "summary": "Vous ne saviez pas quoi faire de vos économies ? Joybuy propose actuellement plusieurs robots humanoïdes d’Unitree en promotion et livrables en France. Sans doute le bon plan le plus déraisonnable du moment.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-25T10:50:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "e7bcfd70b752"
-    },
-    {
-      "title": "Ce mod pour Red Dead Redemption 2 entend combler un grand manque du jeu : le Mexique",
-      "url": "https://www.numerama.com/pop-culture/2317335-ce-mod-pour-red-dead-redemption-2-entend-combler-un-grand-manque-du-jeu-le-mexique.html",
-      "summary": "Un groupe de moddeurs a publié la deuxième bande-annonce de son projet ambitieux : intégrer le Mexique dans Red Dead Redemption 2. La sortie est prévue pour le 16 septembre 2026, uniquement pour la version PC.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-25T10:40:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "7704d202e374"
-    },
-    {
-      "title": "Réseaux sociaux et mineurs : la loi est castrée, mais les smartphones sont désormais interdits au lycée",
-      "url": "https://www.numerama.com/politique/2317249-reseaux-sociaux-et-mineurs-la-loi-est-castree-mais-les-smartphones-sont-desormais-interdits-au-lycee.html",
-      "summary": "Publiée au Journal officiel ce 25 août 2026, la loi censée bannir les réseaux sociaux pour les moins de 15 ans a été largement castrée. Le contrôle généralisé de l'âge n'aura pas lieu, du moins pour l'instant. Cependant, le texte conserve quelques dispositions qui s'appliqueront dès cette rentrée.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-25T10:35:52+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "3a507511c048"
-    },
-    {
-      "title": "Aux obsèques de François Patriat, Emmanuel Macron célèbre un homme « entier », « dans des temps où beaucoup pensent que l’inventaire vaut mieux que d’assumer bravement »",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/25/aux-obseques-de-francois-patriat-emmanuel-macron-celebre-un-homme-entier-dans-des-temps-ou-beaucoup-pensent-que-l-inventaire-vaut-mieux-que-d-assumer-bravement_6756571_823448.html",
-      "summary": "« Là où beaucoup pensent que l’esprit de défaite a déjà gagné, lui, il se battait », a notamment dit le président de la République, en hommage à l’ancien président du groupe macroniste au Sénat, à Semur-en-Auxois (Côte-d’Or), mort le 19 août.",
-      "image": "https://img.lemde.fr/2026/08/25/888/0/6637/3318/644/322/60/0/3bfcdb1_ftp-1-ttgkccsinp5k-5915300-01-06.jpg",
-      "published_at": "2026-08-25T12:32:21+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "eb03b18f73b4"
-    },
-    {
-      "title": "« On dirait une parodie » : Les Anneaux de pouvoir saison 3 se fait moquer par tout Internet",
-      "url": "https://www.numerama.com/pop-culture/2317369-on-dirait-une-parodie-les-anneaux-de-pouvoir-saison-3-se-fait-moquer-par-tout-internet.html",
-      "summary": "Pour la promotion de la troisième saison du Seigneur des anneaux : Les Anneaux de pouvoir, Prime Video pensait marquer les esprits en dévoilant un visuel de la cour naine de Khazad-dûm. C'est loupé. En quelques heures, la direction artistique de l'image est devenue la risée d'Internet.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-25T10:32:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "00bb4c13b4c1"
-    },
-    {
-      "title": "La mort de Macky Wéa, artisan de la mémoire et de la réconciliation après les drames d’Ouvéa",
-      "url": "https://www.lemonde.fr/disparitions/article/2026/08/25/la-mort-de-macky-wea-artisan-de-la-memoire-et-de-la-reconciliation-apres-les-drames-d-ouvea_6756570_3382.html",
-      "summary": "Le frère de l’assassin de Jean-Marie Tjibaou et de Yeiwéné Yeiwéné a animé le travail de mémoire et de dialogue après la tragédie de la grotte d’Ouvéa. Il est mort le 16 août, à l’âge de 78 ans.",
-      "image": "https://img.lemde.fr/2026/08/25/134/0/4594/2297/644/322/60/0/eec6b9f_upload-1-fpams1mhfwrl-000-14c3ks.jpg",
-      "published_at": "2026-08-25T12:30:46+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "02c8a0651f3f"
-    },
-    {
-      "title": "Votre enfant est équipé d’une montre connectée ? Racontez-nous",
-      "url": "https://www.lemonde.fr/pixels/appel-temoignages/2026/08/25/appel-a-temoignages-votre-enfant-est-equipe-d-une-montre-connectee-racontez-nous_6756569_4408996.html",
-      "summary": "Ce petit appareil électronique permet, entre autres, de communiquer avec un enfant pour s’organiser ou de suivre sa position GPS, voire de lui offrir ses premiers instants de sociabilité numérique.",
-      "image": "https://img.lemde.fr/2018/09/28/0/301/4870/2432/644/322/60/0/745c1d7_ZTbq_PWAseLCFOc7I4vRcxhH.JPG",
-      "published_at": "2026-08-25T12:30:09+02:00",
-      "source": "Le Monde",
-      "category": "Tech",
-      "id": "b793753f9d00"
-    },
-    {
-      "title": "L’appel de deux juristes à l’Europe méditerranéenne : « Nous proposons de créer un conseil permanent chargé de lutter contre les incendies et les inondations »",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/25/l-appel-de-deux-juristes-a-l-europe-mediterraneenne-nous-proposons-de-creer-un-conseil-permanent-charge-de-lutter-contre-les-incendies-et-les-inondations_6756568_3232.html",
-      "summary": "Kamel El Hilali, docteur en droit public, et Jean-Pierre Mignard, avocat, défendent, dans une tribune au « Monde », la création d’une instance indépendante composée de climatologues, de météorologues, de médecins, de sapeurs-pompiers, chargée d’anticiper et de coordonner la lutte contre le feu et l’eau.",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/dc0e248_upload-1-6oyyppysqvd6-frame-807.jpg",
-      "published_at": "2026-08-25T12:20:33+02:00",
-      "source": "Le Monde Inter",
-      "category": "Économie",
-      "id": "f2f1c8596e98"
-    },
-    {
-      "title": "Osman Kavala : la justice européenne ordonne à la Turquie de libérer « dans les plus brefs délais » le mécène, devenu un symbole de la répression du régime d’Erdogan",
-      "url": "https://www.lemonde.fr/international/article/2026/08/25/turquie-la-cour-europeenne-des-droits-de-l-homme-ordonne-la-liberation-dans-les-plus-brefs-delais-d-osman-kavala_6756534_3210.html",
-      "summary": "Le tribunal de Strasbourg a jugé, mardi, « nulle et non avenue » la condamnation à la perpétuité du mécène turc en 2022 pour « tentative de renversement du gouvernement » et ordonne à Ankara de lui verser plus de 110 000 euros.",
-      "image": "https://img.lemde.fr/2017/11/02/1098/0/1999/1000/644/322/60/0/d523b6e_9101-1suq0cx.yjq3l680k9.jpg",
-      "published_at": "2026-08-25T12:12:27+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "4906909c2134"
-    },
-    {
-      "title": "Les avocats vivent leur moment Doctissimo : «Aujourd’hui, tous les clients arrivent après avoir consulté une IA»",
-      "url": "https://www.liberation.fr/societe/police-justice/les-avocats-vivent-leur-moment-doctissimo-aujourdhui-tous-les-clients-arrivent-apres-avoir-consulte-une-ia-20260825_77X5UJEEHNERPMF2Y4FXRN4OMQ/",
-      "summary": "Alors qu’une étude révèle que deux personnes sur trois utilisent l’IA pour préparer leurs rendez-vous juridiques, les professionnels eux-mêmes y ont de plus en plus recours pour enrichir leurs plaidoiries. Un phénomène qui génère déjà des erreurs.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-08-25T10:08:00+00:00",
-      "source": "Libération",
-      "category": "Tech",
-      "id": "c45995f7a4fd"
-    },
-    {
-      "title": "Un député israélien d’extrême droite a tenté de détruire un mémorial palestinien dans un village de Cisjordanie occupée",
-      "url": "https://www.lemonde.fr/international/article/2026/08/25/en-cisjordanie-un-depute-israelien-d-extreme-droite-a-essaye-de-detruire-un-memorial-palestinien_6756501_3210.html",
-      "summary": "Les avertissements se multiplient en Israël, en réaction au risque de flambée de la violence à l’approche des élections législatives d’octobre, alors que le clivage entre partisans et opposants du premier ministre, Benyamin Nétanyahou, s’accentue.",
-      "image": "https://img.lemde.fr/2026/08/25/820/0/6406/3203/644/322/60/0/867be7a_ftp-1-0y2srautpsmz-5916119-01-06.jpg",
-      "published_at": "2026-08-25T12:05:14+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "313765be53b1"
     }
   ]
 }
