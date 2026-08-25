@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-08-25T10:40:32.647810+00:00",
+  "generated_at": "2026-08-25T11:35:06.355049+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Fernando Cerimedo, l’éminence grise des dirigeants d’extrême droite latino-américains, emprisonné en Bolivie pour tentative de féminicide",
+      "url": "https://www.lemonde.fr/international/article/2026/08/25/fernando-cerimedo-l-eminence-grise-des-dirigeants-d-extreme-droite-latino-americains-emprisonne-en-bolivie-pour-tentative-de-feminicide_6756572_3210.html",
+      "summary": "L’Argentin, proche collaborateur du président bolivien, a été arrêté dans l’est du pays après que son ex-compagne, l’avocate Nadia Beller, a été blessée par balles le 17 août. Le parquet soupçonne le stratège en communication et ancien conseiller de Jair Bolsonaro et Javier Milei d’être le commanditaire de l’agression.",
+      "image": "https://img.lemde.fr/2026/08/22/458/0/5500/2750/644/322/60/0/6953a88_ftp-1-1kihfmnrdczx-2026-08-22t042104z-1187288395-rc2a3naw3gbt-rtrmadp-3-bolivia-crime.JPG",
+      "published_at": "2026-08-25T13:30:12+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "a37d20b503b1"
+    },
+    {
+      "title": "Pluie artificielle : la startup Rainmaker a fait pleuvoir 70 000 m³ sur l’Alaska avec des drones",
+      "url": "https://www.numerama.com/sciences/2317245-pluie-artificielle-la-startup-rainmaker-a-fait-pleuvoir-70-000-m%c2%b3-sur-lalaska-avec-des-drones.html",
+      "summary": "L'entreprise américaine Rainmaker affirme avoir fabriqué de la pluie au-dessus de l'Alaska, en mesurant exactement la quantité d'eau tombée. Une réalisation qui relance un vieux débat : peut-on vraiment contrôler la météo ?",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-25T11:30:00+00:00",
+      "source": "Numerama",
+      "category": "Économie",
+      "id": "14e265eb7319"
+    },
+    {
+      "title": "L’artiste palestinien Sliman Mansour est mort",
+      "url": "https://www.liberation.fr/culture/lartiste-palestinien-sliman-mansour-est-mort-20260825_RR7LWITSMJAY7M6HDK3ANO6T4U/",
+      "summary": "Le peintre et sculpteur, dont les œuvres dépeignaient les traditions palestiniennes et la lutte de son peuple sous l’occupation israélienne, est décédé lundi 24 août à l’âge de 79 ans.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-25T11:15:49+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "bc5b7dec7530"
+    },
+    {
+      "title": "«Dodo la Saumure», proxénète rendu célèbre par l’affaire DSK, est mort",
+      "url": "https://www.liberation.fr/societe/police-justice/dodo-la-saumure-proxenete-rendu-celebre-par-laffaire-dsk-est-mort-20260825_LXFN4QW4NNGHNAIPODOZB2QIGQ/",
+      "summary": "Protagoniste de l’affaire du Carlton de Lille, Dominique Alderweireld s’est éteint en Belgique à 77 ans.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-25T11:09:01+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "48c339aa42db"
+    },
+    {
+      "title": "Depuis le Sud-libyen, les Haftar se rêvent en patrons du Sahara",
+      "url": "https://www.liberation.fr/international/afrique/depuis-le-sud-libyen-les-haftar-se-revent-en-patrons-du-sahara-20260825_G2ZTEUCDXZHKDM34E6SMLGKV24/",
+      "summary": "Contrôle sécuritaire, contrebande, libérations d’otages, soutien aux groupes armés… Saddam Haftar, le fils cadet du maréchal libyen, étend son influence sur le désert, jusque dans les pays frontaliers.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-25T11:02:38+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "3ad969a72eb7"
+    },
+    {
+      "title": "Sophie Adenot ressort dans l’espace : pourquoi les sorties extravéhiculaires sont-elles si longues, au fait ?",
+      "url": "https://www.numerama.com/sciences/2317289-sophie-adenot-ressort-dans-lespace-pourquoi-les-sorties-extra-vehiculaires-sont-elles-si-longues-au-fait.html",
+      "summary": "Sophie Adenot doit mener ce 25 août sa deuxième sortie extravéhiculaire en à peine une semaine. Un périple qui va durer un peu plus de 6 heures, ce qui est devenu la durée habituelle de ce type d'opération, à la fois pour des raisons de sécurité et de technologie.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-25T11:02:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "5e9c2d1c5058"
+    },
+    {
+      "title": "Trois robots humanoïdes sont en promotion sur ce site : oui, ils sont livrables en France",
+      "url": "https://www.numerama.com/tech/2317331-trois-robots-humanoides-sont-en-promotion-sur-ce-site-oui-ils-sont-livrables-en-france.html",
+      "summary": "Vous ne saviez pas quoi faire de vos économies ? Joybuy propose actuellement plusieurs robots humanoïdes d’Unitree en promotion et livrables en France. Sans doute le bon plan le plus déraisonnable du moment.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-25T10:50:00+00:00",
+      "source": "Numerama",
+      "category": "Sport",
+      "id": "e7bcfd70b752"
+    },
     {
       "title": "Ce mod pour Red Dead Redemption 2 entend combler un grand manque du jeu : le Mexique",
       "url": "https://www.numerama.com/pop-culture/2317335-ce-mod-pour-red-dead-redemption-2-entend-combler-un-grand-manque-du-jeu-le-mexique.html",
@@ -231,76 +301,6 @@
       "source": "France Info",
       "category": "Société",
       "id": "a44608a02080"
-    },
-    {
-      "title": "En Grèce, 85 migrants secourus au large de la Crète",
-      "url": "https://www.lemonde.fr/international/article/2026/08/25/en-grece-85-migrants-secourus-au-large-de-la-crete_6756432_3210.html",
-      "summary": "Repérés par un drone de Frontex, l’agence européenne de surveillance des frontières, les migrants se trouvaient à bord de deux canots pneumatiques, selon les garde-côtes helléniques.",
-      "image": "https://img.lemde.fr/2026/08/25/345/0/4252/2126/644/322/60/0/aad36f2_upload-1-scowkfzxgovz-000-98fx99f.jpg",
-      "published_at": "2026-08-25T10:57:27+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "d04fcdc72426"
-    },
-    {
-      "title": "Non, «Libération» n’a pas supprimé de commentaire de Rima Hassan sur Instagram",
-      "url": "https://www.liberation.fr/checknews/non-liberation-na-pas-supprime-de-commentaire-de-rima-hassan-sur-instagram-20260825_GERDURYNPJCBJB56D4THSTDCJU/",
-      "summary": "Alors que l’eurodéputée insoumise avait accusé publiquement notre journal de «censure» et de «mensonge», Meta a reconnu que son système de modération automatisé avait masqué «par erreur» un de ses commentaires.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-25T08:53:28+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "1731f99af854"
-    },
-    {
-      "title": "\"On a failli mourir\" : après le passage de la tornade dans l'Aude, des habitants du village ont tout perdu",
-      "url": "https://france3-regions.franceinfo.fr/occitanie/aude/carcassonne/temoignages-on-a-failli-mourir-apres-le-passage-de-la-tornade-dans-l-aude-des-habitants-du-village-ont-tout-perdu-3406007.html#xtor=RSS-3-[lestitres]",
-      "summary": "Lundi 24 août 2026, la tornade qui a eu lieu dans l'Aude a causé d'importants dégâts. Le village de Pomas a été particulièrement impacté, certains habitants ont perdu leurs maisons, c'est le cas de Chrystelle Perrier, qui a pu filmer la catastrophe en direct.",
-      "image": "https://www.franceinfo.fr/pictures/TcbpB9VqMy3Nqw4ha9DdK6X9b7U/432x243/filters:format(jpg):quality(50)/2026/08/25/6a8d4ad0b49d0166976958.png",
-      "published_at": "2026-08-25T10:51:08+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "228d63caf863"
-    },
-    {
-      "title": "Parcs d'attractions, 22 000 emplois… L'immense projet à six milliards d'euros financé par l'Arabie saoudite qui doit voir le jour dans le Val-d'Oise",
-      "url": "https://www.franceinfo.fr/economie/parcs-d-attractions-22-000-emplois-l-immense-projet-a-six-milliards-d-euros-finance-par-l-arabie-saoudite-qui-pourrait-voir-le-jour-dans-le-val-d-oise_8160074.html#xtor=RSS-3-[lestitres]",
-      "summary": "Transports, énergie, santé… Les investissements sont au cœur de la visite à Paris du prince héritier d'Arabie saoudite, reçu ce lundi 24 août par Emmanuel Macron. Parmi les projets les plus inattendus : un immense parc d’attractions consacré aux mangas, qui pourrait bien fleurir dans le Val-d'Oise, pour un coût total de six milliards d’euros. Mais alors pourquoi le royaume saoudien veut-il investi",
-      "image": "https://www.franceinfo.fr/pictures/Ergp3VIcKpS1AiOqcAruZr84EKU/37x0:1486x815/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8ca6b46d853456600784.jpg",
-      "published_at": "2026-08-25T10:49:30+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "a8efdbcb1489"
-    },
-    {
-      "title": "La Chine promet de « défendre fermement » ses intérêts, en réaction aux menaces américaines contre l’Iran",
-      "url": "https://www.lemonde.fr/international/article/2026/08/25/la-chine-promet-de-defendre-fermement-ses-interets-en-reaction-aux-menaces-americaines-contre-l-iran_6756431_3210.html",
-      "summary": "Le secrétaire au Trésor américain, Scott Bessent, a présenté lundi un nouveau train de sanctions dites « secondaires », touchant non pas l’Iran directement, mais ses partenaires commerciaux.",
-      "image": "https://img.lemde.fr/2026/08/25/459/0/8256/4128/644/322/60/0/2bfb5f7_upload-1-ussy2nbqt4j0-000-c6ef4t3.jpg",
-      "published_at": "2026-08-25T10:46:52+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "815a22d14662"
-    },
-    {
-      "title": "La Première ministre danoise réagit aux conseils de beauté non sollicités d’un chirurgien esthétique",
-      "url": "https://www.liberation.fr/international/europe/la-premiere-ministre-danoise-reagit-aux-conseils-de-beaute-non-sollicites-dun-chirurgien-esthetique-20260825_ZWNB7ZZFVRH6NCWZLHZKJKVOGE/",
-      "summary": "A son retour d’Ukraine - où elle a réaffirmé son soutien à Volodymyr Zelensky -, Mette Frederiksen a dû répondre à des considérations déplacées sur son physique.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-25T08:42:20+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "ddb54cb4c29e"
-    },
-    {
-      "title": "Netflix France : 15 films et séries à voir en septembre 2026",
-      "url": "https://www.numerama.com/pop-culture/2317237-netflix-france-15-films-et-series-a-voir-en-septembre-2026.html",
-      "summary": "Netflix a levé le voile sur son programme pour la rentrée 2026, notamment marquée par la diffusion du film adapté de la série Dix pour cent.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-25T08:39:00+00:00",
-      "source": "Numerama",
-      "category": "Culture",
-      "id": "ef1ed344c01f"
     }
   ]
 }
