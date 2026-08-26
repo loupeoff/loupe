@@ -1,14 +1,44 @@
 {
-  "generated_at": "2026-08-26T01:49:54.377898+00:00",
+  "generated_at": "2026-08-26T03:13:05.243230+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "La mort de Dolly Parton, héroïne de l’Amérique profonde et modèle féministe",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/08/26/la-mort-de-dolly-parton-heroine-de-l-amerique-profonde-et-modele-feministe_6756797_3382.html",
+      "summary": "La reine de la musique country et autrice-compositrice de plus d’un millier de titres, dont la chanson culte « Jolene », est morte le 25 août à l’âge de 80 ans, dans son Tennessee natal.",
+      "image": "https://img.lemde.fr/2026/08/25/0/0/2589/1295/644/322/60/0/f43ed80_ftp-1-huvuknngqd36-2026-08-25t180417z-1700374468-rc2u5nall7td-rtrmadp-3-people-dolly-parton.JPG",
+      "published_at": "2026-08-26T05:00:11+02:00",
+      "source": "Le Monde Inter",
+      "category": "Culture",
+      "id": "6b3ce5b6b6c5"
+    },
+    {
+      "title": "Ulrich Siegmund, la figure montante de l’extrême droite allemande qui galvanise les foules et fait trembler Berlin",
+      "url": "https://www.lemonde.fr/international/article/2026/08/26/ulrich-siegmund-la-figure-montante-de-l-extreme-droite-allemande-qui-galvanise-les-foules-et-fait-trembler-berlin_6756796_3210.html",
+      "summary": "La tête de liste aux élections régionales en Saxe-Anhalt, prévues le 6 septembre, pourrait permettre à l’AfD de diriger pour la première fois un Land depuis la fondation de la République fédérale. Derrière un visage lisse et séduisant, cet ancien vendeur de parfum d’ambiance défend un programme radical.",
+      "image": "https://img.lemde.fr/2026/08/25/416/0/4582/2291/644/322/60/0/f931bf7_upload-1-4lpf0tszlnet-033-av-2352-candidates-siegmund-afd-and-reckmann-cdu-election-sachsen-anhalt-anton-vester.jpg",
+      "published_at": "2026-08-26T05:00:10+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "7996e3e67a55"
+    },
+    {
+      "title": "La Cisjordanie sous tension en raison de nouvelles attaques d’extrémistes juifs",
+      "url": "https://www.lemonde.fr/international/article/2026/08/26/la-cisjordanie-sous-tension-en-raison-de-nouvelles-attaques-d-extremistes-juifs_6756762_3210.html",
+      "summary": "Les populations de Cisjordanie occupée sont confrontées quotidiennement au harcèlement violent des colons israéliens. La situation se dégrade, faisant craindre des risques d’une explosion de violence palestinienne en réponse aux agressions incessantes.",
+      "image": "https://img.lemde.fr/2026/08/25/682/0/5812/2906/644/322/60/0/2746d30_ftp-1-ynbdh39cu4jk-5916260-01-06.jpg",
+      "published_at": "2026-08-26T04:45:04+02:00",
+      "source": "Le Monde Inter",
+      "category": "Société",
+      "id": "ff32a1885a6d"
+    },
     {
       "title": "SpaceX annonce vouloir construire en Louisiane le plus grand site de lancement spatial au monde",
       "url": "https://www.lemonde.fr/sciences/article/2026/08/26/spacex-annonce-vouloir-construire-en-louisiane-le-plus-grand-site-de-lancement-spatial-au-monde_6756729_1650684.html",
       "summary": "Situé en bordure du Golfe du Mexique, dans le deuxième Etat le plus pauvre des Etats-Unis, le terrain choisi pour cette gigantesque base est deux fois et demie plus grand que la capitale Washington. La construction devrait commencer l’an prochain.",
       "image": "https://img.lemde.fr/2026/08/25/545/0/3269/1634/644/322/60/0/6018e4a_ftp-1-zuah65n4sd34-a697cc7257a042deab0ccc7493f61023-0-faa5412cc5754c46a35e31add15b659a.jpg",
       "published_at": "2026-08-26T03:25:23+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "International",
       "id": "94098d18ed2b"
     },
@@ -97,7 +127,7 @@
       "url": "https://www.lemonde.fr/societe/article/2026/08/25/assurance-maladie-mutuelles-professionnels-de-sante-et-associations-de-patients-inquiets-de-la-hausse-du-ticket-moderateur-et-des-plafonds-des-franchises_6756628_3224.html",
       "summary": "Avec le déremboursement d’actes médicaux et l’augmentation des plafonds des franchises sur les soins, le gouvernement cible les usagers du système de santé pour combler le déficit de l’Assurance-maladie. Un choix qui écorne le principe de solidarité, regrettent nombre d’acteurs de la santé.",
       "image": "https://img.lemde.fr/2026/08/25/277/0/2185/1092/644/322/60/0/91d9e90_upload-1-knmebtqwdpgf-image1.jpeg",
-      "published_at": "2026-08-25T23:19:56+02:00",
+      "published_at": "2026-08-25T23:19:55+02:00",
       "source": "Le Monde Politique",
       "category": "Politique",
       "id": "badfe5205baa"
@@ -121,6 +151,16 @@
       "source": "France Info",
       "category": "Politique",
       "id": "f7811d0ab770"
+    },
+    {
+      "title": "Sophie Adenot a effectué sa deuxième sortie hors de l’ISS, pour terminer d’y remplacer une antenne défectueuse",
+      "url": "https://www.lemonde.fr/sciences/article/2026/08/25/sophie-adenot-a-effectue-sa-deuxieme-sortie-hors-de-l-iss-pour-terminer-d-y-remplacer-une-antenne-defectueuse_6755922_1650685.html",
+      "summary": "Lors de cette mission, qui a duré environ six heures et demie, l’astronaute française et son coéquipier américain Anil Menon ont terminé de remplacer une antenne permettant à l’ISS de communiquer avec le centre de contrôle de Houston, au Texas.",
+      "image": "https://img.lemde.fr/2026/08/25/146/0/1664/832/644/322/60/0/146efc8_upload-1-a5jqb8qgtryi-000-c4y79zq.jpg",
+      "published_at": "2026-08-25T23:06:37+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "f59410dc0106"
     },
     {
       "title": "Dans «The Dog Stars», Ridley Scott n’y met pas du chien",
@@ -261,46 +301,6 @@
       "source": "France Info",
       "category": "Culture",
       "id": "a1c8760ea20d"
-    },
-    {
-      "title": "Les conditions de détention à la prison d’Aix-Luynes dénoncées devant la justice : «Ils transpirent tellement que leurs lits commencent à rouiller»",
-      "url": "https://www.liberation.fr/societe/les-conditions-de-detention-a-la-prison-daix-luynes-denoncees-devant-la-justice-ils-transpirent-tellement-que-leurs-lits-commencent-a-rouiller-20260825_JSUNZ4IHAVF7VPVAV4GD4VND4E/",
-      "summary": "Le Syndicat des avocats de France, l’Observatoire des prisons et l’ordre des avocats d’Aix ont défendu, ce mardi 25 août devant le tribunal administratif de Marseille, une requête en référé-liberté et demandé la mise en œuvre d’une quinzaine de mesures pour répondre à l’urgence. Une démarche similaire a déjà eu lieu à Bordeaux, une autre est à venir pour les Baumettes.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-25T19:23:20+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "9918b01ef13d"
-    },
-    {
-      "title": "Un militaire condamné pour évasion, après s'être échappé du tribunal de Tarbes pendant son procès pour violences conjugales",
-      "url": "https://www.franceinfo.fr/faits-divers/justice-proces/un-militaire-condamne-pour-evasion-apres-s-etre-echappe-du-tribunal-de-tarbes-pendant-son-proces-pour-violences-conjugales_8161364.html#xtor=RSS-3-[lestitres]",
-      "summary": "Il a été condamné à huit mois de prison ferme, rapporte mardi ICI Béarn Bigorre, après avoir déjà écopé de 16 mois de prison ferme pour violences conjugales en récidive, en mars dernier.",
-      "image": "https://www.franceinfo.fr/pictures/Kby3T8tFB3P0bbPh-q_8cthXg24/0x112:1200x787/432x243/filters:format(jpg):quality(50)/2026/08/25/6a8deb9e87200134969302.jpg",
-      "published_at": "2026-08-25T21:23:16+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "31ed6b9ef032"
-    },
-    {
-      "title": "Cinq mois après sa sortie, Crimson Desert revient déjà dans une nouvelle version (avec la VF)",
-      "url": "https://www.numerama.com/pop-culture/2318143-cinq-mois-apres-sa-sortie-crimson-desert-revient-deja-dans-une-nouvelle-version-avec-la-vf.html",
-      "summary": "Cinq mois après sa sortie, Crimson Desert profite de la Gamescom 2026 pour exhiber tous les changements apportés depuis son lancement et annonce une version améliorée du jeu.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-25T19:08:08+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "237be5f20710"
-    },
-    {
-      "title": "Mort de Dolly Parton, légende de la musique country",
-      "url": "https://www.liberation.fr/culture/musique/mort-de-dolly-parton-legende-de-la-musique-country-20260825_FD3XEKDDONHXFCFJN3U6EG4OVA/",
-      "summary": "La chanteuse américaine, autrice et compositrice, était âgée de 80 ans. En soixante ans de carrière, elle aura sorti des dizaines d’albums et vendu plus de cent millions de disques.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-25T19:04:55+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "d43e9159bfd4"
     }
   ]
 }
