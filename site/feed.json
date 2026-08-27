@@ -1,306 +1,306 @@
 {
-  "generated_at": "2026-08-27T09:23:33.646988+00:00",
+  "generated_at": "2026-08-27T20:17:25.171272+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "En rachetant Hugging Face, Nvidia mettrait la main sur bien plus qu’une plateforme de modèles d’IA",
-      "url": "https://www.numerama.com/tech/2319419-en-rachetant-hugging-face-nvidia-mettrait-la-main-sur-bien-plus-quune-plateforme-de-modeles-dia.html",
-      "summary": "Nvidia aurait accepté de débourser 12,9 milliards de dollars pour acquérir Hugging Face, l’une des principales plateformes de partage de modèles d’IA, selon The Information. Une opération qui lui permettrait surtout de contrôler un carrefour emprunté par des millions de développeurs, y compris ceux qui n’utilisent pas ses puces.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-27T09:15:00+00:00",
-      "source": "Numerama",
-      "category": "Économie",
-      "id": "2a939d17903b"
-    },
-    {
-      "title": "Torrents de boue, pont emporté, bâtiments submergés… Les images des inondations soudaines et meurtrières qui ont frappé le Népal et la Chine",
-      "url": "https://www.franceinfo.fr/monde/asie/en-images-torrents-de-boue-maisons-emportees-rues-submergees-les-images-des-inondations-soudaines-et-meurtrieres-qui-ont-frappe-le-nepal-et-la-chine_8163146.html#xtor=RSS-3-[lestitres]",
-      "summary": "Au moins 180 personnes sont mortes et plus de 1 300 autres sont portées disparues. Des vidéos authentifiées par les Révélateurs de France Télévisions témoignent de l'ampleur des dégâts.",
-      "image": "https://www.franceinfo.fr/pictures/cXO-BmLT1e9z_fiXyX3ZRlLU6Y8/5x0:1954x1096/432x243/filters:format(jpg)/2026/08/26/6a8f1e1b28f7e515655337.jpg",
-      "published_at": "2026-08-27T11:10:29+02:00",
+      "title": "En pleine guerre commerciale avec le Canada, Donald Trump signe un décret changeant le nom du lac Ontario en \"lac d'Amérique\"",
+      "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/en-pleine-guerre-commerciale-avec-le-canada-donald-trump-signe-un-decret-changeant-le-nom-du-lac-ontario-en-lac-d-amerique_8165573.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les tensions sont grandes entre Washington et Ottawa, après la rupture de négociations sur les droits de douane.",
+      "image": "https://www.franceinfo.fr/pictures/amEiT6s2xiOra7teSNeiONjjoV8/0x0:1024x576/432x243/filters:format(jpg)/2026/08/27/6a90799ca3e14753140747.jpg",
+      "published_at": "2026-08-27T22:13:30+02:00",
       "source": "France Info",
       "category": "International",
-      "id": "63d176d07392"
+      "id": "4a0cf43573eb"
     },
     {
-      "title": "Crues meurtrières au Népal : «Le réchauffement climatique n’affecte pas seulement les glaciers, il fragilise aussi les lits des rivières»",
-      "url": "https://www.liberation.fr/environnement/climat/crues-meurtrieres-au-nepal-le-rechauffement-climatique-naffecte-pas-seulement-les-glaciers-il-fragilise-aussi-les-lits-des-rivieres-20260827_MK27LKNMU5CW5LYE2DBNNITO5M/",
-      "summary": "Selon Jakob Steiner, chercheur à l’université de Graz, en Autriche, l’érosion des montagnes à cause de la hausse des températures augmente considérablement la fréquence des éboulements.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-27T09:10:15+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "4392626dd045"
-    },
-    {
-      "title": "GTA 6 ressuscite la muscu et la prise de poids, mécaniques cultes de San Andreas",
-      "url": "https://www.numerama.com/pop-culture/2319411-gta-6-ressuscite-la-muscu-et-la-prise-de-poids-mecaniques-cultes-de-san-andreas.html",
-      "summary": "Rockstar Games continue de dévoiler au compte-gouttes les fonctionnalités de GTA 6. Dans une interview accordée au magazine Dazed, les développeurs ont confirmé le retour d’une mécanique adorée par les fans depuis 2004 : la gestion physique de son personnage.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-27T09:10:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "029bbb5af862"
-    },
-    {
-      "title": "Halal chez KFC : l’association AVS dément la certification, les doutes demeurent",
-      "url": "https://www.liberation.fr/lifestyle/consommation/halal-chez-kfc-lassociation-avs-dement-la-certification-les-doutes-demeurent-20260827_WI7LVQ73GJCIZMOR4Q3A6NLF6U/",
-      "summary": "L’affaire repart… après le démenti de l’un des principaux organismes français de contrôle, la chaîne de poulet frit assure jouer la carte de la transparence. Mais peut-on vraiment savoir ce que recouvre le label affiché sur la viande servie aux clients ?",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-27T09:07:18+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "4edcdfc2e226"
-    },
-    {
-      "title": "EN DIRECT - Inondations au Népal : quatre Français parmi les disparus selon l’office népalais du tourisme",
-      "url": "https://www.liberation.fr/international/en-direct-coulees-de-boue-en-chine-et-au-nepal-quatre-francais-parmi-les-disparus-selon-loffice-nepalais-du-tourisme-20260827_VL5NPBRYLREPLKICEKYJABAHNY/",
-      "summary": "Le dernier bilan fait état d’au moins 270 morts et de plus de 1 300 personnes disparues, dont de nombreux touristes étrangers. La crue a été provoquée par l’effondrement d’un glacier.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-27T09:06:31+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "65bac1410383"
-    },
-    {
-      "title": "Quel est donc ce mystérieux modèle que XPeng prépare ?",
-      "url": "https://www.numerama.com/vroom/2319429-quel-est-donc-ce-mysterieux-modele-que-xpeng-prepare.html",
-      "summary": "Un prototype de break encore camouflé a été repéré en Chine, alors qu'il rentrait au siège de XPeng. C'est la troisième fois en quelques mois que le mystérieux véhicule est surpris. Un nouveau modèle est-il sur le point de faire son arrivée ?",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-27T09:05:00+00:00",
-      "source": "Numerama",
-      "category": "International",
-      "id": "302ae993c8c0"
-    },
-    {
-      "title": "Deux morts, un suspect en garde à vue, la piste terroriste écartée... Ce que l'on sait après qu'un automobiliste a foncé sur des piétons à Caen",
-      "url": "https://www.franceinfo.fr/faits-divers/deux-morts-un-suspect-en-garde-a-vue-la-piste-terroriste-ecartee-ce-que-l-on-sait-apres-qu-une-voiture-a-fonce-sur-des-pietons-a-caen_8164559.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le parquet de Caen a ouvert une enquête pour \"assassinat\" et \"violence volontaire avec arme\" après qu'une voiture a délibérément foncé sur des piétons, mercredi soir.",
-      "image": "https://www.franceinfo.fr/pictures/l-krsqUNsHRCMKPJu6vSkDQKuNU/0x53:1024x629/432x243/filters:format(jpg)/2026/08/27/6a8fdbae62b08784646903.jpg",
-      "published_at": "2026-08-27T11:04:10+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "9d445940bc99"
-    },
-    {
-      "title": "GTA 6 sur Netflix : à quelle heure regarder la grande présentation de ce jeudi",
-      "url": "https://www.numerama.com/pop-culture/2318723-gta-6-sur-netflix-a-quelle-heure-regarder-la-grande-presentation-de-ce-jeudi.html",
-      "summary": "Grand Theft Auto VI (ou GTA 6 pour les intimes) se montre enfin ce jeudi 27 août, mais Rockstar a choisi Netflix plutôt que YouTube. Voici l’heure exacte et comment le voir sans abonnement.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-27T09:00:00+00:00",
-      "source": "Numerama",
-      "category": "Culture",
-      "id": "26c6c8c39d29"
-    },
-    {
-      "title": "Orages : 35 départements en vigilance orange jeudi après-midi, risque de grêle",
-      "url": "https://www.liberation.fr/environnement/orages-23-departements-en-vigilance-orange-jeudi-apres-midi-risque-de-grele-20260827_X22JXZ3HZBE7ZMZJPYOBHDKAJ4/",
-      "summary": "Le phénomène «sera particulièrement marqué sur l’Auvergne jusqu’à la Bourgogne et les Vosges», a prévenu Météo France dans son bulletin du 27 août. La Corse est quant à elle en vigilance canicule à partir de midi.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-27T08:45:44+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "704013414435"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
-      "url": "https://www.lemonde.fr/international/live/2026/08/27/en-direct-guerre-en-ukraine-les-dernieres-informations-au-27-aout-2026_6753793_3210.html",
-      "summary": "L’armée de l’air ukrainienne a affirmé jeudi avoir « abattu ou neutralisé » 233 cibles aériennes russes au cours d’une attaque menée pendant la nuit, à partir de 18 heures mercredi. Les principales zones visées étaient les régions d’Odessa, de Kiev, de Dnipropetrovsk, de Poltava et de Zaporijia.",
-      "image": "https://img.lemde.fr/2026/08/27/458/0/5500/2750/644/322/60/0/e52dfc7_ftp-1-ubzondh5hvbq-2026-08-27t070753z-1531666317-rc2t6nasw5lv-rtrmadp-3-ukraine-crisis-attack-kyiv-region.JPG",
-      "published_at": "2026-08-27T10:37:36+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "7f687d039628"
-    },
-    {
-      "title": "Vigilance aux orages : 39 départements placés en alerte orange à partir de jeudi après-midi par Météo-France",
+      "title": "Alerte aux orages : 27 départements concernés par la vigilance orange jeudi soir, les intempéries se déplacent vers l'est",
       "url": "https://www.franceinfo.fr/environnement/meteo/direct-vigilance-aux-orages-39departements-places-en-alerte-orange-a-partir-de-jeudi-apres-midi-par-meteo-france_8164745.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'organisme prévoit un \"fort épisode orageux\" sur une large partie nord et est de la France, avec un \"risque marqué de phénomènes violents\".",
-      "image": "https://www.franceinfo.fr/pictures/_0_qAIG7oG7l0paoRGtOK5XkHxY/0x53:1024x629/432x243/filters:format(jpg)/2026/08/27/6a8ff63207f62235761965.jpg",
-      "published_at": "2026-08-27T10:32:54+02:00",
+      "summary": "Les orages se déplacent dans la soirée d'ouest en est sur la France, annonce Météo-France. La vigilance ne concerne plus l'Ile-de-France et les Hauts-de-France.",
+      "image": "https://www.franceinfo.fr/pictures/loUhdSI8OC_yRH8JhmeB9yLcq8c/0x388:3713x2477/432x243/filters:format(jpg)/2026/08/27/6a908ffc1f858152952705.jpg",
+      "published_at": "2026-08-27T22:09:29+02:00",
       "source": "France Info",
       "category": "Politique",
       "id": "79f7f7d1d7fc"
     },
     {
-      "title": "Népal : les images satellites montrent que les crues meurtrières viennent de l’effondrement d’un glacier",
-      "url": "https://www.numerama.com/sciences/2319415-nepal-les-images-satellites-montrent-que-les-crues-meurtrieres-viennent-de-leffondrement-dun-glacier.html",
-      "summary": "La catastrophe survenue au Népal le 26 août 2026 a été rapidement documentée par des images filmées par des témoins. Il a fallu attendre un peu plus pour obtenir les premières images de satellites, qui montrent comment les crues sont survenues, en complément des données géologiques.",
+      "title": "A Gaza, des frappes israéliennes font trois morts, selon les secours",
+      "url": "https://www.franceinfo.fr/monde/palestine/gaza/a-gaza-des-frappes-israeliennes-font-trois-morts-selon-les-secours_8165651.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'armée israélienne a confirmé avoir mené des frappes contre des \"terroristes du Hamas\" dans des zones de la bande de Gaza.",
+      "image": "https://www.franceinfo.fr/pictures/Ks2I1a0R8w5m7s0TJiddx1nG-dM/0x285:5472x3363/432x243/filters:format(jpg)/2026/08/27/6a909606c31c1527034517.jpg",
+      "published_at": "2026-08-27T22:00:07+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "0cf2ab295a80"
+    },
+    {
+      "title": "Les décriées ZFE contribuent bien à la baisse de la pollution de l’air, conclut une analyse l’Insee",
+      "url": "https://www.liberation.fr/environnement/pollution/les-decriees-zfe-contribuent-bien-a-la-baisse-de-la-pollution-de-lair-conclut-une-analyse-linsee-20260827_54IAQFGDJBBT5EDTCQCUD7OHY4/",
+      "summary": "Les travaux de l’institut français de la statistique montrent que la proportion de véhicules électriques et hybrides a fortement augmenté dans les villes concernées par ce dispositif, faisant reculer les émissions de polluants.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-27T19:56:49+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "9de9ad77ab92"
+    },
+    {
+      "title": "26 minutes de GTA 6 : le résumé de la présentation historique sur Netflix",
+      "url": "https://www.numerama.com/pop-culture/2319695-cest-le-grand-jour-pour-gta-6-suivez-en-direct-la-conference-de-presentation.html",
+      "summary": "13 ans après GTA 5, Rockstar Games a enfin dévoilé GTA 6 le 27 août, lors d'une présentation de 26 minutes diffusée en exclusivité sur Netflix. Missions, duo Jason-Lucia, nouveau système de police, activités secondaires : voici tout ce que l'on a appris avant la sortie du jeu, le 19 novembre 2026.",
       "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-27T08:30:26+00:00",
+      "published_at": "2026-08-27T19:40:43+00:00",
       "source": "Numerama",
       "category": "Culture",
-      "id": "4c474e2d721f"
+      "id": "aa03e158893f"
     },
     {
-      "title": "En Espagne, la crise de Ceuta tourne à l’épreuve pour Pedro Sánchez",
-      "url": "https://www.liberation.fr/international/europe/en-espagne-la-crise-de-ceuta-tourne-a-lepreuve-pour-pedro-sanchez-20260827_SJVAIIE4SBELVJAFE3DFTLNT5A/",
-      "summary": "Près d’un mois après l’entrée massive de candidats à l’immigration dans l’enclave espagnole du nord du Maroc, la situation humanitaire est inquiétante et les maladresses du gouvernement de gauche sont dénoncées par l’opposition.",
+      "title": "Vents jusqu'à 130 km/h, pluie abondante, grêle… D'impressionnants dégâts laissés par de violents orages en région parisienne ce jeudi soir",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/vents-jusqu-a-130-km-h-pluie-abondante-grele-d-impressionnants-degats-laisses-par-de-violents-orages-en-region-parisienne-ce-jeudi-soir_8165645.html#xtor=RSS-3-[lestitres]",
+      "summary": "Quarante-quatre départements sont ce soir du jeudi 27 août placés en vigilance orange. Les impacts de foudre se multiplient du Centre au Nord et jusqu’à l’Est, avec de nombreuses conséquences, à commencer par un trafic extrêmement perturbé dans les gares d'Austerlitz et la Gare de Lyon, à cause d'obstacles sur les voies. Grêle, pluies intenses, rafales à plus de 100 km/heure, des phénomènes tourbi",
+      "image": "https://www.franceinfo.fr/pictures/CXog1XVCjP0xbwrp0toWzELejfw/0x0:1404x790/432x243/filters:format(jpg)/2026/08/27/6a9090f812834568399432.jpg",
+      "published_at": "2026-08-27T21:33:32+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "a0a97f8bae9e"
+    },
+    {
+      "title": "GTA 6 s’est enfin dévoilé : voici où le précommander au meilleur prix",
+      "url": "https://www.numerama.com/pop-culture/2320113-gta-6-sest-enfin-devoile-voici-ou-le-precommander-au-meilleur-prix.html",
+      "summary": "Rockstar vient de dévoiler 26 minutes de son jeu sur Netflix. Si ce premier voyage à Vice City en tant que spectateur vous a convaincu, voici où précommander le jeu moins cher.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-27T19:30:55+00:00",
+      "source": "Numerama",
+      "category": "Culture",
+      "id": "7ba2c09170a6"
+    },
+    {
+      "title": "Marine Le Pen maintient le retour à la retraite à 62 ans, en rupture avec la ligne de Jordan Bardella",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/27/marine-le-pen-maintient-le-retour-a-la-retraite-a-62-ans-en-rupture-avec-la-ligne-de-jordan-bardella_6758537_823448.html",
+      "summary": "La candidate du Rassemblement national a officialisé jeudi 27 août, lors du débat avec les candidats putatifs à la présidentielle organisé par le Medef, son souhait de conserver l’un de ses derniers marqueurs « sociaux », la retraite à 62 ans, voire 60 ans. Elle prévoit d’y ajouter une incitation pour les salariés les plus âgés à continuer de travailler, via une suppression des cotisations retrait",
+      "image": "https://img.lemde.fr/2026/08/27/1433/0/2000/1000/644/322/60/0/be5ab09_upload-1-c8ewvdyqi3na-gj3a3513.jpg",
+      "published_at": "2026-08-27T21:30:12+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "45205370c34a"
+    },
+    {
+      "title": "Dette publique, retraites, réindustrialisation… Ce qu'il faut retenir du premier débat des principaux candidats à la présidentielle, organisé par le Medef",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/dette-publique-retraites-reindustrialisation-ce-qu-il-faut-retenir-du-premier-debat-des-principaux-candidats-a-la-presidentielle_8165342.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'organisation patronale a organisé jeudi à Roland-Garros le premier grand débat entre les sept principaux candidats à la fonction suprême. Ils ont été interrogés sur leur projet économique par des chefs d'entreprise.",
+      "image": "https://www.franceinfo.fr/pictures/GRKuuyyCE2LNaG5y035IS02AleI/0x53:1024x629/432x243/filters:format(jpg)/2026/08/27/6a90827ad2b09046681618.jpg",
+      "published_at": "2026-08-27T21:28:43+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "316ed5ea2e28"
+    },
+    {
+      "title": "Donald Trump, en plein bras de fer avec le Canada, signe un décret changeant le nom du lac Ontario en « lac d’Amérique »",
+      "url": "https://www.lemonde.fr/international/article/2026/08/27/donald-trump-en-plein-bras-de-fer-avec-le-canada-signe-un-decret-changeant-le-nom-du-lac-ontario-en-lac-d-amerique_6758536_3210.html",
+      "summary": "Le président américain, engagé dans une confrontation commerciale avec le Canada sur les droits de douane, a également évoqué la possibilité de renommer les océans Atlantique et Pacifique.",
+      "image": "https://img.lemde.fr/2026/08/27/0/0/4535/2267/644/322/60/0/2df35b0_ftp-1-y3rqszw0jwgr-2026-08-27t175305z-46341437-rc257nas5839-rtrmadp-3-usa-trump.JPG",
+      "published_at": "2026-08-27T21:19:53+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "678172d04007"
+    },
+    {
+      "title": "\"J'ai eu de bonnes discussions avec lui\" : Donald Trump assure que Vladimir Poutine \"ne va pas attaquer un territoire de l'Otan\"",
+      "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/j-ai-eu-de-bonnes-discussions-avec-lui-donald-trump-assure-que-vladimir-poutine-ne-va-pas-attaquer-un-territoire-de-l-otan_8165588.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Kremlin avait jugé ses accusations dénuées de tout lien \"avec la réalité\", après la visite du patron de la CIA à Moscou.",
+      "image": "https://www.franceinfo.fr/pictures/CvDnU_PqBLQbllySI0uE6Agp3Ps/0x154:2975x1828/432x243/filters:format(jpg)/2026/08/27/6a9087304235a531585592.jpg",
+      "published_at": "2026-08-27T21:01:57+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "b837ad829302"
+    },
+    {
+      "title": "En pleine guerre commerciale avec le Canada, Donald Trump rebaptise le lac Ontario en «lac d’Amérique»",
+      "url": "https://www.liberation.fr/international/amerique/en-pleine-guerre-commerciale-avec-le-canada-donald-trump-rebaptise-le-lac-ontario-en-lac-damerique-20260827_ENNNXLH6PZH2LJSDVKHDQSQOVE/",
+      "summary": "Le président américain, insatisfait des négociations commerciales avec son voisin d’Amérique du nord, a signé un décret ce jeudi 27 août pour renommer les eaux situées à la frontière américano-canadienne.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-27T08:28:55+00:00",
+      "published_at": "2026-08-27T18:58:53+00:00",
       "source": "Libération",
       "category": "Politique",
-      "id": "691d68110ac6"
+      "id": "a3df4801ec9f"
     },
     {
-      "title": "Canicules et sécheresse : \"L'effondrement est tel que les agriculteurs ne se relèveront pas tout seuls\", assure le secrétaire national du Modef",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicules-et-secheresse-l-effondrement-est-tel-que-les-agriculteurs-ne-se-releveront-pas-tout-seuls-assure-le-secretaire-national-du-modef_8164721.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Mouvement de défense des exploitants familiaux demande au gouvernement \"des aides qui représentent 80% de la perte subie\" à cause de la sécheresse.",
-      "image": "https://www.franceinfo.fr/pictures/EpU_AMUVeZJvXBLO24e3qV__OxQ/0x260:4992x3068/432x243/filters:format(jpg)/2026/08/27/6a8ff2b2d35ef007928717.jpg",
-      "published_at": "2026-08-27T10:27:43+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "afce02168e05"
-    },
-    {
-      "title": "Inondations au Népal et au Tibet : les images par satellite des destructions causées par les coulées de boues",
-      "url": "https://www.lemonde.fr/planete/video/2026/08/27/inondations-au-nepal-et-au-tibet-les-images-par-satellite-de-la-destruction-causee-par-les-coulees-de-boues_6758212_3244.html",
-      "summary": "Les glissements de terrain ont fait au moins 168 morts et 1 300 disparus, d’après un bilan provisoire du 27 août. Selon l’Institut d’études géologiques des Etats-Unis, la chute d’un glacier a provoqué un tremblement de terre de magnitude 5,2.",
-      "image": "https://img.lemde.fr/2026/08/27/60/0/1920/960/644/322/60/0/5254d28_upload-1-xagyjkrxlgud-h-thumbnail-00-00-06-20-still057.jpg",
-      "published_at": "2026-08-27T10:27:16+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "182c7f4b8b57"
-    },
-    {
-      "title": "Nouvelle stratégie nationale face au recul du trait de côte : «En cas de maladaptation, il sera très dur de faire machine arrière»",
-      "url": "https://www.liberation.fr/environnement/climat/nouvelle-strategie-nationale-face-au-recul-du-trait-de-cote-en-cas-de-maladaptation-il-sera-tres-dur-de-faire-machine-arriere-20260827_H4KA43PQ5NH4XOMUBMS5C47EMY/",
-      "summary": "Adoptée par décret le 20 août, la troisième mouture du document programmatique semble avoir pris la mesure des risques liés à l’érosion côtière mais sans que l’Etat se donne les moyens d’y répondre, pointe le chercheur Gonéri Le Cozannet.",
+      "title": "Mort de Yayoi Kusama, une vision hors norme",
+      "url": "https://www.liberation.fr/culture/mort-de-yayoi-kusama-une-vision-hors-norme-20260827_ACL7ERGHWVFNROJSEEELAMF7IU/",
+      "summary": "L’immense artiste japonaise disparue le 14 août, qui résidait depuis la fin des années 70 dans un hôpital psychiatrique, avait apprivoisé ses hallucinations, sublimées par une esthétique entre le monumental et les contes de fées.",
       "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-27T08:26:59+00:00",
+      "published_at": "2026-08-27T18:55:51+00:00",
       "source": "Libération",
       "category": "International",
-      "id": "acf991edc26b"
+      "id": "c224ba11706a"
     },
     {
-      "title": "\"Ça peut sembler assez extrême\" : des adolescents américains sceptiques face aux restrictions de Meta",
-      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/ca-peut-sembler-assez-extreme-des-adolescents-americains-sceptiques-face-aux-restrictions-de-meta_8164526.html#xtor=RSS-3-[lestitres]",
-      "summary": "Pour clore un procès historique, le groupe Meta accepte de payer au moins 12 milliards de dollars, et aussi de limiter l'accès à Instagram et Facebook aux adolescents américains.",
-      "image": "https://www.franceinfo.fr/pictures/z1uVbDJemynqVhTX7HkVV56EVWU/0x290:5568x3422/432x243/filters:format(jpg)/2026/08/27/6a8fd1c41b205676989271.jpg",
-      "published_at": "2026-08-27T10:11:45+02:00",
+      "title": "Rencontre des entrepreneurs de France : Coco croque le débat présidentiel",
+      "url": "https://www.liberation.fr/economie/rencontre-des-entrepreneurs-de-france-coco-croque-le-debat-presidentiel-20260827_33I4YYZIINCEPPZUMEJJIWQASM/",
+      "summary": "Notre dessinatrice a déambulé à Roland-Garros, où sept candidats à la présidentielle étaient réunis pour un débat organisé ce jeudi 27 août pour la rentrée du Medef. Choses vues et dessinées.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-27T18:53:39+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "a3be04c9f33c"
+    },
+    {
+      "title": "Au débat du Medef, les candidats à la présidentielle roulent leur boss",
+      "url": "https://www.liberation.fr/politique/au-medef-les-candidats-roulent-leur-boss-20260827_7MRVVV354JAFZL7JQ77MOKM5OI/",
+      "summary": "Dette, retraites, rôles de l’Etat… Pour le traditionnel raout estival de l’organisation patronale, sept candidats à la présidentielle se sont affrontés, ce jeudi 27 août, à coups de piques et de bons mots. Une performance que «Libé» a choisi de départager avec un seul outil : l’applaudimètre.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-27T18:48:33+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "7ad45227e2cb"
+    },
+    {
+      "title": "Débat de la présidentielle 2027 : fiscalité, réforme des retraites, pouvoir d’achat… Sept candidats se sont affrontés devant les chefs d’entreprise",
+      "url": "https://www.lemonde.fr/economie/live/2026/08/27/en-direct-debat-de-la-presidentielle-2027-fiscalite-reforme-des-retraites-pouvoir-d-achat-sept-candidats-se-sont-affrontes-devant-les-chefs-d-entreprise_6758467_3234.html",
+      "summary": "Les sept candidats à l’élection présidentielle ont été interrogés, jeudi, par des chefs d’entreprise sur leur programme économique, à l’occasion de la Rencontre des entrepreneurs de France, organisée par le Medef.",
+      "image": "https://img.lemde.fr/2026/08/27/438/0/3000/1500/644/322/60/0/340549f_upload-1-b6ne580b6sda-gj3a3675.jpg",
+      "published_at": "2026-08-27T20:36:05+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "fa5c142cb202"
+    },
+    {
+      "title": "Revivez le premier débat de la présidentielle 2027, organisé par le Medef, qui a opposé sept candidats pendant trois heures",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-attal-le-pen-melenchon-philippe-suivez-le-premier-debat-de-la-presidentielle-organise-par-le-medef-entre-sept-candidats-declares_8162033.html#xtor=RSS-3-[lestitres]",
+      "summary": "Jean-Luc Mélenchon, Marine Le Pen, Bruno Retailleau, Raphaël Glucksmann, Marine Tondelier, Gabriel Attal et Edouard Philippe étaient conviés à répondre à des patrons en clôture de l'université d'été de l'organisation, qui entend imposer ses thèmes dans la campagne.",
+      "image": "https://www.franceinfo.fr/pictures/7ju2EkYHpxfMsR4PVwHcg3r6nXs/0x0:6399x3599/432x243/filters:format(jpg)/2026/08/27/6a9055097c669671419726.jpg",
+      "published_at": "2026-08-27T20:33:29+02:00",
       "source": "France Info",
+      "category": "Politique",
+      "id": "95ab68e41a0a"
+    },
+    {
+      "title": "Ligue des champions : tirage corsé pour le PSG et Lille en phase de ligue, Lens davantage ménagé",
+      "url": "https://www.liberation.fr/sports/football/ligue-des-champions-tirage-corse-pour-le-psg-et-lille-en-phase-de-ligue-lens-davantage-menage-20260827_MJRCYZ7HGRG7ZFKB3ZIZ7L6QS4/",
+      "summary": "Les Parisiens devront notamment se frotter au Barça et à Manchester City, tandis que les Lillois défieront le Bayern Munich et Arsenal, en plus d’autres équipes de moindre dimension mais piégeuses.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-27T18:32:39+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "085a8353889f"
+    },
+    {
+      "title": "Donald Trump assure que «Vladimir Poutine ne va pas attaquer un pays de l’Otan»",
+      "url": "https://www.liberation.fr/international/donald-trump-assure-que-vladimir-poutine-ne-va-pas-attaquer-un-pays-de-lotan-20260827_AZOXHEKS5JCNRMSDG6HUWNWQ3Y/",
+      "summary": "Les services de renseignement européens ont également affirmé ce jeudi 27 août ne pas disposer d’indices concernant une attaque militaire russe sur l’Alliance atlantique, peu après la mystérieuse visite du chef de la CIA en Russie.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-08-27T18:25:13+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "afeb7f5db857"
+    },
+    {
+      "title": "Mort de Yayoi Kusama, une artiste de pois",
+      "url": "https://www.liberation.fr/culture/arts/art-contemporain/mort-a-97-ans-de-yayoi-kusama-princesse-de-lart-aux-petits-pois-20260827_IMJRCFKLSVDVZC5GGBWOQQ4TUI/",
+      "summary": "Véritable icône de l’art contemporain, l’extravagante Japonaise, qui vivait à l’hôpital psychiatrique depuis cinquante ans, a semé ses citrouilles et petits pois dans les musées de toute la planète. Elle est morte le 14 août à 97 ans.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-27T18:25:08+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "c5bf635edff5"
+    },
+    {
+      "title": "Un incendie s'est déclaré en Haute-Corse, plusieurs dizaines d'hectares parcourus par les flammes",
+      "url": "https://france3-regions.franceinfo.fr/corse/haute-corse/un-feu-se-declare-dans-le-secteur-de-la-plaine-de-calenzana-3407501.html#xtor=RSS-3-[lestitres]",
+      "summary": "170 sapeurs-pompiers de Haute-Corse interviennent actuellement sur un incendie déclaré au niveau de la commune de Calenzana. Plusieurs routes sont fermées à la circulation, et des habitants du secteur sont en cours d'évacuation.",
+      "image": "https://www.franceinfo.fr/pictures/5lbAHhRVcaVXaSOTj40j6sdVGJo/432x243/filters:format(jpg)/2026/08/27/6a90452b469da429568869.jpg",
+      "published_at": "2026-08-27T20:17:32+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "5aca02b3058f"
+    },
+    {
+      "title": "Elena Rybakina, Coco Gauff, Mirra Andreeva et Iga Swiatek dans la même partie, Loïs Boisson et Elsa Jacquemot face à des têtes de série... Découvrez le tableau féminin de l'US Open",
+      "url": "https://www.franceinfo.fr/sports/tennis/us-open/elena-rybakina-coco-gauff-mirra-andreeva-et-iga-swiatek-dans-la-meme-partie-lois-boisson-et-elsa-jacquemot-face-a-des-tetes-de-serie-decouvrez-le-tableau-feminin-de-l-us-open_8165591.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les Françaises et les meilleures joueuses mondiales sont fixées après le tirage au sort du tableau femmes de l'US Open, jeudi.",
+      "image": "https://www.franceinfo.fr/pictures/WOa8qOXaxuR_eVvBAXx5kRyPR6Y/0x0:1024x576/432x243/filters:format(jpg)/2026/08/27/6a907dab22a82194360292.jpg",
+      "published_at": "2026-08-27T20:12:48+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "b340b9c0be56"
+    },
+    {
+      "title": "Débat présidentiel du Medef : salaires, retraites, économies, dette… Revivez les échanges entre candidats à Roland-Garros",
+      "url": "https://www.liberation.fr/politique/en-direct-debat-presidentiel-du-medef-suivez-en-direct-les-echanges-entre-les-principaux-candidats-a-roland-garros-20260827_7L2F6JXE6BHYXA4PF34BYSPV7E/",
+      "summary": "De Jean-Luc Mélenchon à Marine Le Pen, en passant par Raphaël Glucksmann et Édouard Philippe, sept prétendants à l’élection de 2027 ont été interrogés par des patrons sur des thèmes économiques ce jeudi après-midi.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-27T18:11:21+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "2490f7f38d53"
+    },
+    {
+      "title": "Cyberattaques amplifiées par l’IA : OpenAI, Anthropic, Google et plus de 100 entreprises jugent « nécessaire » une « réponse mondiale »",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/27/cyberattaques-amplifiees-par-l-ia-openai-anthropic-google-et-plus-de-100-entreprises-jugent-necessaire-une-reponse-mondiale_6758503_4408996.html",
+      "summary": "Dans une lettre ouverte, les géants de la tech prévoient des attaques « beaucoup plus répandues et sophistiquées » dans « les mois qui viennent » et appellent chaque organisation à faire de la cyberdéfense « une priorité immédiate » de ses dirigeants.",
+      "image": "https://img.lemde.fr/2026/08/27/886/0/12068/6034/644/322/60/0/b5e4162_ftp-1-g1etspwnh5r1-5927679-01-06.jpg",
+      "published_at": "2026-08-27T20:09:31+02:00",
+      "source": "Le Monde",
+      "category": "Tech",
+      "id": "340fcc41b125"
+    },
+    {
+      "title": "Crue au Népal : en pleine désolation, la peur d’un nouveau déluge",
+      "url": "https://www.liberation.fr/international/asie-pacifique/crue-au-nepal-en-pleine-desolation-la-peur-dun-nouveau-deluge-20260827_FG2TPJX6DNAFVOCAVCKSG3SDV4/",
+      "summary": "La crue destructrice de mercredi 26 août a créé des retenues d’eau qui menacent de rompre, dans une région frontalière à l’accès difficile. Le bilan, toujours incertain, s’élève au moins à 392 morts et plus de 1 400 disparus.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-27T18:07:15+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "8ba28f448394"
+    },
+    {
+      "title": "Addiction aux réseaux sociaux : l’accord à l’amiable avec Meta, une révolution ou une simple tape sur les doigts ?",
+      "url": "https://www.liberation.fr/economie/economie-numerique/addiction-aux-reseaux-sociaux-laccord-a-lamiable-avec-meta-une-revolution-ou-une-simple-tape-sur-les-doigts-20260827_KLQN5BRE5NEWLJNMR2OZZRM54Q/",
+      "summary": "Mercredi 26 août, la société mère de Facebook a accepté de payer 17,1 milliards de dollars et de modifier ses produits pour mettre fin aux poursuites engagées par 29 Etats américains l’accusant de favoriser un comportement addictif chez les adolescents, et échapper à un changement profond de l’industrie des réseaux sociaux ?",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-08-27T18:03:51+00:00",
+      "source": "Libération",
       "category": "Économie",
-      "id": "901a26adf321"
+      "id": "8593ea1ccc28"
+    },
+    {
+      "title": "Kader Attia, plasticien : « Il faut tout faire pour entrer en immersion dans la culture de l’autre »",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/27/kader-attia-plasticien-il-faut-tout-faire-pour-entrer-en-immersion-dans-la-culture-de-l-autre_6758501_3451060.html",
+      "summary": "« Artistes à l’œuvre » (5/6). Le créateur français d’origine algérienne exprime, dans un entretien au « Monde », son attachement profond aux différentes cultures et, plus généralement, à l’« altérité ».",
+      "image": "https://img.lemde.fr/2026/07/30/2004/0/4016/2008/644/322/60/0/c19f9e0_upload-1-lrua9s8wacfn-kaderattia013.jpg",
+      "published_at": "2026-08-27T20:00:12+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "9afade28f13d"
+    },
+    {
+      "title": "Les ambitions contrariées d’Israël pour renverser le régime iranien",
+      "url": "https://www.lemonde.fr/international/article/2026/08/27/les-ambitions-contrariees-d-israel-pour-renverser-le-regime-iranien_6758500_3210.html",
+      "summary": "Le gouvernement de Benyamin Nétanyahou pensait profiter de la guerre déclenchée de concert avec les Etats-Unis, le 28 février, pour faire chuter la République islamique. Mais les plans prévus par le Mossad pour faire intervenir les groupes d’opposition kurdes et l’ancien président iranien Mahmoud Ahmadinejad ont échoué.",
+      "image": "https://img.lemde.fr/2026/08/24/594/0/7136/3568/644/322/60/0/af01f78_ftp-1-nq5ipgonk2f7-5910330-01-06.jpg",
+      "published_at": "2026-08-27T20:00:08+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "88d0c59b7fb3"
     },
     {
       "title": "Suivez en direct le 9e vol d’Ariane 6, en route vers une orbite que la fusée n’a jamais atteinte",
-      "url": "https://www.numerama.com/sciences/2319417-suivez-en-direct-le-9e-vol-dariane-6-en-route-vers-une-orbite-que-la-fusee-na-jamais-atteinte.html",
+      "url": "https://www.numerama.com/sciences/2319417-suivez-en-direct-le-vol-dariane-6-en-route-vers-une-orbite-que-la-fusee-na-jamais-atteinte.html",
       "summary": "Ce soir, Ariane 6 s’attaque à une destination inédite pour son 9e vol : l'orbite de transfert géostationnaire. Un lancement stratégique pour l'Europe, à suivre en direct, qui doit prouver la capacité du nouveau lanceur à succéder dignement à Ariane 5.",
       "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-27T08:09:58+00:00",
+      "published_at": "2026-08-27T17:52:35+00:00",
       "source": "Numerama",
       "category": "Économie",
-      "id": "3b498581ecbf"
+      "id": "5d7916275331"
     },
     {
-      "title": "Crues meurtrières au Népal et au Tibet : au moins quatre Français parmi les personnes portées disparues, selon les autorités népalaises",
-      "url": "https://www.franceinfo.fr/monde/asie/direct-crue-devastatrice-au-nepal-et-au-tibet-au-moins-quatre-francais-parmi-les-personnes-portees-disparues-selon-les-autorites-nepalaises_8164646.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'impressionnante coulée de boue a causé la mort d'au moins 180 personnes et fait plus d'un millier de disparus.",
-      "image": "https://www.franceinfo.fr/pictures/hBOhUVgOv_YA7ntdWJwVoStzsfw/0x73:1024x649/432x243/filters:format(jpg)/2026/08/27/6a8fe93e14670352699688.jpg",
-      "published_at": "2026-08-27T09:56:41+02:00",
+      "title": "Un choc Arthur Fils-Stéfanos Tsitsipas dès le 1er tour, Novak Djokovic et Carlos Alcaraz dans la même moitié... Découvrez le tableau masculin de l'US Open",
+      "url": "https://www.franceinfo.fr/sports/tennis/us-open/un-choc-arthur-fils-stefanos-tsitsipas-des-le-1er-tour-novak-djokovic-et-carlos-alcaraz-dans-la-meme-moitie-decouvrez-le-tableau-masculin-de-l-us-open_8165486.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le numéro 1 français, récent vainqueur du Masters 1000 de Cincinnati, sera opposé au Grec, double finaliste en Grand Chelem, au premier tour.",
+      "image": "https://www.franceinfo.fr/pictures/g3X2Q8dY_Dk49X3GCO3suu8IPm0/0x0:1024x576/432x243/filters:format(jpg)/2026/08/27/6a9063154af99457717548.jpg",
+      "published_at": "2026-08-27T19:49:27+02:00",
       "source": "France Info",
       "category": "Société",
-      "id": "98c29149a65c"
-    },
-    {
-      "title": "EN DIRECT, inondations au Népal et au Tibet : la catastrophe a fait au moins 270 morts, les sauveteurs cherchent plus de 1 000 survivants",
-      "url": "https://www.lemonde.fr/planete/live/2026/08/27/en-direct-crue-devastatrice-au-nepal-au-moins-180-morts-et-plus-de-1-300-disparus_6758177_3244.html",
-      "summary": "Les experts soupçonnent qu’un effondrement glaciaire dans l’Himalaya a provoqué une avalanche de pierre et de glace qui a tout enseveli sur son passage, mercredi, à la frontière entre le Népal et le Tibet. Quatre Français sont officiellement portés disparus, selon le bureau du tourisme népalais.",
-      "image": "https://img.lemde.fr/2026/08/27/250/0/3000/1500/644/322/60/0/b9448dd_ftp-1-yahzchecwpkp-5928551-01-06.jpg",
-      "published_at": "2026-08-27T09:50:44+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "44bfe0956f37"
-    },
-    {
-      "title": "\"Bobos dehors\" : des tags anti-touristes retrouvés sur des maisons dans un village d'Ille-et-Vilaine qui triple sa population l'été",
-      "url": "https://www.franceinfo.fr/economie/tourisme/bobos-dehors-des-tags-anti-touristes-retrouves-sur-des-maisons-dans-un-village-d-ille-et-vilaine-qui-triple-sa-population-l-ete_8164682.html#xtor=RSS-3-[lestitres]",
-      "summary": "Pour le maire de Saint-Suliac, Pascal Bianco, la commune d'Ille-et-Vilaine \"n'est la propriété de personne\".",
-      "image": "https://www.franceinfo.fr/pictures/1igX5NqU4Ysl0TaflncvfN-eTEM/0x2:1200x677/432x243/filters:format(jpg)/2026/08/27/6a8feafbf2e11715897924.jpg",
-      "published_at": "2026-08-27T09:48:50+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "34895144cb93"
-    },
-    {
-      "title": "Le satellite européen MTG-I2 lancé dans l'espace jeudi pour améliorer les prévisions météorologiques",
-      "url": "https://www.franceinfo.fr/sciences/espace/le-satellite-europeen-mtg-i2-lance-dans-l-espace-jeudi-pour-ameliorer-les-previsions-meteorologiques_8164487.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les données de ce satellite européen seront rafraîchies toutes les 2 minutes 30, contre 10 actuellement. Et les images seront de meilleure qualité.",
-      "image": "https://www.franceinfo.fr/pictures/KyneEBkUY_xaWQ2HS5K3X1vW7xM/0x363:6967x4281/432x243/filters:format(jpg)/2026/08/27/6a8fbfb76a269538302720.jpg",
-      "published_at": "2026-08-27T09:47:10+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "23bf8a50756d"
-    },
-    {
-      "title": "Caen : une voiture fonce sur des piétons, deux morts et neuf blessés",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/27/caen-une-voiture-fonce-sur-des-pietons-deux-morts-et-neuf-blesses_6757563_3225.html",
-      "summary": "Un individu a foncé sur un groupe d’une dizaine de personnes au volant de son véhicule, mercredi 26 août vers 22 heures, dans le quartier de la gare. L’auteur présumé a été interpellé.",
-      "image": "https://img.lemde.fr/2026/08/27/298/0/3584/1792/644/322/60/0/d2be2d5_ftp-1-vdmlzbw5eona-5926606-01-06.jpg",
-      "published_at": "2026-08-27T09:37:15+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "ca0e901c883e"
-    },
-    {
-      "title": "Plus de 1500 disparus, cause du drame, soutien international… ce que l’on sait des inondations meurtrières au Népal et au Tibet",
-      "url": "https://www.liberation.fr/international/asie-pacifique/victimes-cause-du-drame-soutien-international-ce-que-lon-sait-de-la-crue-meurtriere-au-nepal-et-au-tibet-20260827_T6W7IOWG3FB7NOHGNVAWHWILCY/",
-      "summary": "Un torrent de roches et de boue s’est abattu mercredi sur la frontière népalo-tibétaine, faisant au moins 180 morts. L’Institut géologique des Etats-Unis suspecte un «effondrement de glacier» ayant entraîné «des conséquences catastrophiques».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-27T07:37:08+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "a934c1156be4"
-    },
-    {
-      "title": "J’ai joué à Castlevania: Belmont’s Curse, « Pas mal, non ? C’est français »",
-      "url": "https://www.numerama.com/pop-culture/2319341-jai-joue-a-castlevania-belmonts-curse-pas-mal-non-cest-francais.html",
-      "summary": "Konami a décidé de faire confiance à un studio français pour redonner de l'éclat à la saga Castlevania. Avec l'épisode Belmont's Curse, attendu pour octobre 2026, elle retrouve sa soif de sang. Je l'ai découvert à l'occasion de la gamescom 2026.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-27T07:15:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "2b2e6ca06f57"
-    },
-    {
-      "title": "Un automobiliste fonce «délibérément» sur des piétons à Caen, deux morts",
-      "url": "https://www.liberation.fr/societe/police-justice/un-automobiliste-fonce-deliberement-sur-des-pietons-a-caen-un-mort-20260827_RNXBTUJMWJBSRGMWUQDG26GAOE/",
-      "summary": "Le suspect, un homme de 26 ans d’origine russe, aurait agi après une bagarre. Neuf personnes sont toujours prises en charge par les secours, dont six sont en urgence absolue.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-27T07:07:03+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "762515aed8eb"
-    },
-    {
-      "title": "\"Il ne s'agit pas de 'CNewsiser' BFMTV\", assure la journaliste Sonia Mabrouk, après des critiques en interne",
-      "url": "https://www.franceinfo.fr/economie/medias/il-ne-s-agit-pas-de-cnewsiser-bfmtv-assure-la-journaliste-sonia-mabrouk-apres-des-critiques-en-interne_8164649.html#xtor=RSS-3-[lestitres]",
-      "summary": "Arrivée lundi à BFMTV, après avoir quitté CNews, Sonia Mabrouk est accusée par des syndicats d'\"importer la ligne CNews\". \"J'entends ce qui est dit et j'entends aussi ce qui est dit par une grande partie de la rédaction\" qui \"salue ces premiers pas\", répond la journaliste sur France Inter.",
-      "image": "https://www.franceinfo.fr/pictures/JyvORhaPPPTilVHybJHGAVku_J4/83x0:1805x969/432x243/filters:format(jpg)/2026/08/27/6a8fe1193c93a791629124.png",
-      "published_at": "2026-08-27T09:03:49+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "9ccd8cc36947"
-    },
-    {
-      "title": "A la Gamescom 2026, l’insolente deuxième jeunesse du jeu vidéo « The Witcher III: Wild Hunt »",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/27/a-la-gamescom-2026-l-insolente-deuxieme-jeunesse-du-jeu-video-the-witcher-iii-wild-hunt_6758144_4408996.html",
-      "summary": "Sorti en 2015, le jeu de rôle de CD Projekt RED est remis au goût du jour avec une version remastérisée et l’extension « Songs of the Past », prévue pour 2027. Le salon du jeu vidéo de Cologne a été l’occasion d’un premier aperçu, auquel « Le Monde » a pu assister.",
-      "image": "https://img.lemde.fr/2026/08/26/120/0/3840/1920/644/322/60/0/7b8c7bc_upload-1-barsdia4fcrs-tw3re-gamescom-nature-vista-ps5-16x9-clean.png",
-      "published_at": "2026-08-27T09:00:09+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "b4bb9687d663"
-    },
-    {
-      "title": "Pourquoi la Lune devient-elle rouge pendant une éclipse ?",
-      "url": "https://www.numerama.com/sciences/2066475-eclipse-lunaire-pourquoi-la-lune-devient-elle-rouge.html",
-      "summary": "Dans la nuit du 27 au 28 août 2026, une éclipse partielle de Lune se produit. Les Français qui observeront l'événement vont voir le satellite prendre une teinte rougeâtre, ce qui amène parfois à l'appeler « Lune de sang ». Quelle est l'explication de ce phénomène ?",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-27T06:55:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "943a3f0493f1"
+      "id": "f6918b8616e2"
     }
   ]
 }
