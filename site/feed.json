@@ -1,7 +1,297 @@
 {
-  "generated_at": "2026-08-28T18:32:22.700550+00:00",
+  "generated_at": "2026-08-29T02:03:37.845315+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "corto.alto : «Le collage, c’est très proche de l’échantillonnage»",
+      "url": "https://www.liberation.fr/culture/musique/cortoalto-le-collage-cest-tres-proche-de-lechantillonnage-20260829_FXKDVJPGT5F7VCWEYUILSE365M/",
+      "summary": "Tromboniste, bassiste, producteur, l’Ecossais Liam Shortall, alias corto.alto, publie un second album entre jazz, hip-hop et électronique, libre et époustouflant de créativité.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-08-29T01:25:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "d256823c4a1c"
+    },
+    {
+      "title": "En Guadeloupe, deux gendarmes mis en examen pour homicide involontaire dans l’affaire Claude Jean-Pierre",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/29/en-guadeloupe-deux-gendarmes-mis-en-examen-pour-homicide-involontaire-dans-l-affaire-claude-jean-pierre_6759368_3224.html",
+      "summary": "Fin 2020, l’homme de 67 ans était tombé inanimé à Deshaies après avoir été extrait de son véhicule lors d’un contrôle routier. Sa mort avait été prononcée plusieurs jours plus tard au centre hospitalier universitaire de Pointe-à-Pitre.",
+      "image": "https://img.lemde.fr/2026/08/29/214/0/934/467/644/322/60/0/641eed9_upload-1-nly0tlvklggy-screen-shot-2026-08-28-at-5-10-32-pm.png",
+      "published_at": "2026-08-29T03:20:56+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "8a4f848f6b68"
+    },
+    {
+      "title": "Le PSG arrache un nul inespéré à Lille grâce à une fin de match folle, en Ligue 1",
+      "url": "https://www.lemonde.fr/sport/article/2026/08/29/le-psg-arrache-un-nul-inespere-a-lille-grace-a-une-fin-de-match-folle-en-ligue-1_6759335_3242.html",
+      "summary": "Menés de deux buts, les champions de France ont marqué deux fois dans le temps additionnel, grâce à Vitinha et Marquinhos, pour éviter une défaite. Mais après deux journées de championnat, le PSG n’a toujours pas réussi à s’imposer.",
+      "image": "https://img.lemde.fr/2026/08/28/329/0/2956/1478/644/322/60/0/9fa923c_ftp-1-cuhl0die6akk-5941746-01-06.jpg",
+      "published_at": "2026-08-29T03:13:51+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "64f697d0f3a4"
+    },
+    {
+      "title": "Le polémiste britannique d’extrême droite Milo Yiannopoulos arrêté par l’ICE, la police de l’immigration américaine",
+      "url": "https://www.lemonde.fr/international/article/2026/08/29/le-polemiste-d-extreme-droite-britannique-milo-yiannopoulos-arrete-par-l-ice-la-police-de-l-immigration-americaine_6759302_3210.html",
+      "summary": "Arrivé légalement sur le sol américain en 2019, le Britannique avait dépassé sa durée de séjour autorisée et s’était vu délivrer un ordre final d’expulsion, faute de s’être présenté à une audience sur son statut, selon le ministère de la sécurité intérieure.",
+      "image": "https://img.lemde.fr/2019/08/31/291/0/3500/1750/644/322/60/0/9c23132_BKS03_MASSACHUSETTS-PARADE-_0831_11.JPG",
+      "published_at": "2026-08-29T01:51:48+02:00",
+      "source": "Le Monde",
+      "category": "Culture",
+      "id": "733f1f3b28b6"
+    },
+    {
+      "title": "Donald Trump annonce un accord pétrolier avec le Venezuela pour donner aux Etats-Unis le contrôle d’une large partie des réserves du pays",
+      "url": "https://www.lemonde.fr/international/article/2026/08/29/donald-trump-annonce-un-accord-petrolier-avec-le-venezuela-pour-donner-aux-etats-unis-le-controle-de-65-milliards-de-barils-des-reserves-du-pays_6759300_3210.html",
+      "summary": "Cette annonce intervient près de neuf mois après la capture du président vénézuélien Nicolas Maduro, remplacé par Delcy Rodriguez. Selon l’occupant de la Maison Blanche, l’accord, qui porte sur 65 milliards de barils, doublerait les réserves des Etats-Unis.",
+      "image": "https://img.lemde.fr/2026/01/15/336/0/4034/2017/644/322/60/0/6e38f86_ftp-1-s3nnmlwdqh3c-5891840-01-06.jpg",
+      "published_at": "2026-08-29T01:43:45+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "54be759b1e11"
+    },
+    {
+      "title": "The Cramps : Trash tests",
+      "url": "https://www.liberation.fr/culture/musique/the-cramps-trash-tests-20260829_OOGSTLAJ3RHUDLCOMN6DTZYAZU/",
+      "summary": "",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-08-28T23:29:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "9e3f758ff4b4"
+    },
+    {
+      "title": "L’administration Trump envisagerait de céder à un promoteur une petite partie du parc national de Yosemite, en Californie",
+      "url": "https://www.lemonde.fr/international/article/2026/08/29/l-administration-trump-envisagerait-de-ceder-une-petite-partie-du-parc-national-de-yosemite-en-californie_6759267_3210.html",
+      "summary": "L’opération, à l’étude depuis plus d’un an, concernerait une bande de terre d’environ 400 mètres, convoitée par un investisseur immobilier privé, selon le site d’information américain Notus, à l’origine de ces révélations.",
+      "image": "https://img.lemde.fr/2015/12/29/250/0/3000/1500/644/322/60/0/970b739_0ecbf2d79e694e4483581cd407f42205-562d0f612dad400d86b84eeaff2abe14-0.jpg",
+      "published_at": "2026-08-29T01:22:40+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "b46a0a4b5058"
+    },
+    {
+      "title": "Au Liban, le Hezbollah rejette à nouveau l’accord-cadre conclu avec Isräel et refuse de « se rendre »",
+      "url": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/08/29/au-liban-le-hezbollah-rejette-a-nouveau-l-accord-cadre-conclu-avec-israel-et-refuse-de-se-rendre_6759234_6325529.html",
+      "summary": "« Nous sommes opposés à l’accord-cadre et nous appelons à le faire tomber », a affirmé Naïm Qassem, chef du Hezbollah pro-iranien, dans un discours retransmis vendredi par la chaîne du mouvement chiite, Al-Manar.",
+      "image": "https://img.lemde.fr/2026/08/28/73/0/1340/670/644/322/60/0/6d5a752_upload-1-xk0nd9ugmymn-screen-shot-2026-08-28-at-3-36-10-pm.png",
+      "published_at": "2026-08-29T00:56:13+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "fb545e4e3539"
+    },
+    {
+      "title": "Le député LFI Sébastien Delogu dénonce une « campagne de dénigrement » après sa garde à vue suivant son altercation avec des policiers",
+      "url": "https://www.lemonde.fr/politique/article/2026/08/29/le-depute-lfi-sebastien-delogu-denonce-une-campagne-de-denigrement-apres-sa-garde-a-vue-suivant-son-altercation-avec-des-policiers_6759201_823448.html",
+      "summary": "L’élu marseillais « réfute absolument les accusations relayées dans la presse [lui] reprochant d’être intervenu pour faire obstacle à une intervention policière dans [son] immeuble », lundi. Il comparaîtra devant le tribunal correctionnel, pour outrage, le 13 novembre.",
+      "image": "https://img.lemde.fr/2026/08/27/320/0/4828/2414/644/322/60/0/0ed1080_ftp-1-zbf1zr4pox4r-5930452-01-06.jpg",
+      "published_at": "2026-08-29T00:40:58+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "50f8ea55d5f3"
+    },
+    {
+      "title": "EN DIRECT, inondations au Népal et au Tibet : le Quai d’Orsay confirme que quatre Français sont portés disparus",
+      "url": "https://www.lemonde.fr/planete/live/2026/08/28/en-direct-inondations-au-nepal-et-au-tibet-le-quai-d-orsay-confirme-que-quatre-francais-sont-portes-disparus_6758177_3244.html",
+      "summary": "Le bilan de la catastrophe s’est alourdi, passant à 584 morts et près de 2 500 disparus. Mercredi, le Quai d’Orsay signalait la présence au Népal de 80 Français.",
+      "image": "https://img.lemde.fr/2026/08/28/401/0/5500/2750/644/322/60/0/16b0d7f_ftp-1-weetiscgmgkq-2026-08-28t122849z-33431769-rc2n7na35uw5-rtrmadp-3-nepal-floods.JPG",
+      "published_at": "2026-08-28T23:48:18+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "2034dce11657"
+    },
+    {
+      "title": "L'agence de notation Fitch maintient la note A+ de la France et sa perspective stable grâce à \"une économie importante et diversifiée\"",
+      "url": "https://www.franceinfo.fr/economie/croissance/l-agence-de-notation-fitch-maintient-la-note-a-de-la-france-et-sa-perspective-stable-grace-a-une-economie-importante-et-diversifiee_8167253.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'agence a relevé que la France disposait d'\"un secteur bancaire solide\",et \"d'une base d'investisseurs diversifiée\".",
+      "image": "https://www.franceinfo.fr/pictures/Bt1dEbTXv0NrJ2rDj5F6k3FO8QU/0x444:6744x4237/432x243/filters:format(jpg)/2026/08/28/6a92006e5087b611145480.jpg",
+      "published_at": "2026-08-28T23:44:44+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "3171428d14b6"
+    },
+    {
+      "title": "Le ministère des Affaires étrangères confirme que quatre Français sont portés disparus après les crues meurtrières au Népal et au Tibet",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/le-ministere-des-affaires-etrangeres-confirme-que-quatre-francais-sont-portes-disparus-apres-les-crues-meurtrieres-au-nepal-et-au-tibet_8167124.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les personnes disparues sont trois femmes de 35, 38 et 47 ans et d'un homme de 46 ans. Trois d'entre eux rentraient d'un pélerinage et se trouvaient à un poste-frontière dévasté par les crues.",
+      "image": "https://www.franceinfo.fr/pictures/elxdhUN52Ksqsp-xuO9vib54eB4/0x487:6192x3970/432x243/filters:format(jpg)/2026/08/28/6a91d6566c93c666016887.jpg",
+      "published_at": "2026-08-28T23:29:10+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "e311faffafab"
+    },
+    {
+      "title": "L’agence Fitch maintient la note de la dette de la France à A+ assortie d’une perspective stable",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/28/l-agence-fitch-maintient-la-note-de-la-dette-de-la-france-a-a-assortie-d-une-perspective-stable_6759168_3234.html",
+      "summary": "Cette décision survient dans un contexte économique tendu, à quelques semaines de la présentation du dernier budget du gouvernement avant l’élection présidentielle, et au moment où la question de la dette revient au cœur des débats.",
+      "image": "https://img.lemde.fr/2026/08/27/500/0/6000/3000/644/322/60/0/d1d24e0_upload-1-jzhjemcodd0y-cbi1332027.jpg",
+      "published_at": "2026-08-28T23:27:59+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "c8d57c8c7283"
+    },
+    {
+      "title": "La primaire sociale-démocrate sera \"un débat passionné\", mais il n'y aura \"pas de sang sur les murs\", assure Olivier Faure",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/la-primaire-sociale-democrate-sera-un-debat-passionne-mais-il-n-y-aura-pas-de-sang-sur-les-murs-assure-olivier-faure_8167235.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le premier secrétaire du parti socialiste ne s'est pas encore déclaré candidat à la primaire, en vue de la présidentielle de 2027.",
+      "image": "https://www.franceinfo.fr/pictures/ZmkpjfWyMqJf3gib0IWCR4zqkqg/0x182:7143x4199/432x243/filters:format(jpg)/2026/08/28/6a91fb068bd95552280326.jpg",
+      "published_at": "2026-08-28T23:18:40+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "451917488b98"
+    },
+    {
+      "title": "Céline Dion de retour à Paris : la chanteuse \"très émue\" de retrouver ses fans avant ses concerts français",
+      "url": "https://www.franceinfo.fr/culture/musique/celine-dion/celine-dion-de-retour-a-paris-la-chanteuse-tres-emue-de-retrouver-ses-fans-avant-ses-concerts-francais_8167223.html#xtor=RSS-3-[lestitres]",
+      "summary": "Elle a fait la surprise d'arriver ce vendredi 28 août à Paris : Céline Dion est de retour en France, son \"deuxième chez elle\", comme elle l'appelle. A deux semaines de ses premiers concerts, la ferveur est bien là. La superstar a pris le temps de saluer ses fans, venus en nombre pour l'accueillir.",
+      "image": "https://www.franceinfo.fr/pictures/jBdQs25BRoQyHm15LM_NSgMxowQ/0x46:1122x677/432x243/filters:format(jpg)/2026/08/28/6a91fa086a520768110211.jpg",
+      "published_at": "2026-08-28T23:14:03+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "9a154c343a69"
+    },
+    {
+      "title": "Un homme tué par balle près de Lyon, un autre blessé grièvement",
+      "url": "https://www.franceinfo.fr/faits-divers/un-homme-tue-par-balle-pres-de-lyon-un-autre-blesse-grievement_8167172.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les faits se sont déroulés à Décines-Charpieu (Rhône). Des CRS ont été dépêchés sur place par la préfecture.",
+      "image": "https://www.franceinfo.fr/pictures/jerpb2i8I5aM5UCOj5K4OxN1vF4/0x261:4000x2511/432x243/filters:format(jpg)/2026/08/28/6a91e8f344a5a313693987.jpg",
+      "published_at": "2026-08-28T23:04:17+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "326299f06728"
+    },
+    {
+      "title": "Au terme d'une fin de match électrique, le PSG revient de loin et arrache le match nul face à Lille lors de la deuxième journée de Ligue 1",
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-1/au-terme-d-une-fin-de-match-electrique-le-psg-revient-de-loin-et-arrache-le-match-nul-face-a-lille-lors-de-la-deuxieme-journee-de-ligue-1_8167148.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les Parisiens n'ont pas montré leur meilleur visage, vendredi, face à Lille. Ils ont été dominés sur la majorité du match avant de réagir dans les dernières secondes.",
+      "image": "https://www.franceinfo.fr/pictures/JXo5e5tU0BTEbea78uCEWLETvNI/0x0:4587x2580/432x243/filters:format(jpg)/2026/08/28/6a91f32bb88a2619584569.jpg",
+      "published_at": "2026-08-28T23:01:22+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "23dfe8d0a869"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : le pays prévoit de produire 1 000 drones par jour pour frapper la Russie, dit Volodymyr Zelensky",
+      "url": "https://www.lemonde.fr/international/live/2026/08/28/en-direct-guerre-en-ukraine-le-pays-prevoit-de-produire-1-000-drones-par-jour-pour-frapper-la-russie-dit-volodymyr-zelensky_6753793_3210.html",
+      "summary": "Selon le chef de l’Etat ukrainien, Kiev produit actuellement 300 drones en moyenne par jour. Il estime que les frappes ukrainiennes à longue portée commencent à avoir des effets économiques et logistiques importants en Russie.",
+      "image": "https://img.lemde.fr/2026/08/27/232/0/2788/1394/644/322/60/0/d12d8d2_ftp-1-mbomen0eyji1-e37a4df209164be49f6ee8a8509a48ab-0-cdb60a2259284be4bec830b17a3dec9c.jpg",
+      "published_at": "2026-08-28T23:00:04+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "cc4d2533352e"
+    },
+    {
+      "title": "Au Liban, le Hezbollah rejette à nouveau l'accord avec Israël et refuse de \"se rendre\"",
+      "url": "https://www.franceinfo.fr/monde/proche-orient/liban/au-liban-le-hezbollah-rejette-a-nouveau-l-accord-avec-israel-et-refuse-de-se-rendre_8167190.html#xtor=RSS-3-[lestitres]",
+      "summary": "Un accord conclu le 26 juin sous l'égide des Etats-Unis prévoit que l'armée libanaise rétablisse son autorité dans le sud du pays, sous réserve du désarmement du Hezbollah.",
+      "image": "https://www.franceinfo.fr/pictures/S31KRJMHu0sop4AyUAZ73k8Guv8/0x312:6000x3687/432x243/filters:format(jpg)/2026/08/28/6a91f0f291fdf457593424.jpg",
+      "published_at": "2026-08-28T22:41:05+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "39b686c3c69b"
+    },
+    {
+      "title": "Le Royaume-Uni bloque l'exportation d'un tableau Rembrandt estimé à 83 millions d'euros",
+      "url": "https://www.franceinfo.fr/culture/arts-expos/peinture/le-royaume-uni-bloque-l-exportation-d-un-tableau-rembrandt-estime-a-83-millions-d-euros_8167109.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le portrait, peint en 1657 par le grand maître flamand, représente une femme aisée d'Amsterdam, Catrina Hooghsaet.",
+      "image": "https://www.franceinfo.fr/pictures/yXbyEyTNjhYX0bJrDUKtyPvbL6o/0x299:2691x1813/432x243/filters:format(jpg)/2026/08/28/6a91eeae4c8bc661645590.jpg",
+      "published_at": "2026-08-28T22:25:33+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "d22841b5b2f7"
+    },
+    {
+      "title": "\"On a abusé de ma confiance\" : des femmes dénoncent les dérives des lunettes connectées",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/on-a-abuse-de-ma-confiance-des-femmes-denoncent-les-derives-des-lunettes-connectees_8167169.html#xtor=RSS-3-[lestitres]",
+      "summary": "Des influenceurs utilisent des lunettes connectées pour filmer des jeunes femmes qu'ils abordent dans la rue. Les vidéos sont ensuite postées sur les réseaux, souvent sans leur consentement. Plusieurs plaintes ont été déposées.",
+      "image": "https://www.franceinfo.fr/pictures/ZnswUMTnsN5actdaHEX7UC5s55c/134x0:1522x781/432x243/filters:format(jpg)/2026/08/28/6a91eb351682f084093707.png",
+      "published_at": "2026-08-28T22:13:33+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "6f5c29febe46"
+    },
+    {
+      "title": "Inondations au Népal et au Tibet : le Quai d’Orsay confirme que quatre Français sont portés disparus",
+      "url": "https://www.liberation.fr/international/asie-pacifique/en-direct-inondations-au-nepal-pres-de-470-morts-les-secours-recherchent-encore-plus-de-1-400-personnes-disparues-20260828_3YH7G5YVINEDNCRRIXJI2QORLM/",
+      "summary": "Après la crue monstre causée mercredi par l’effondrement d’un glacier, les autorités font état d’au moins 584 morts. De nombreux touristes étrangers manquent encore à l’appel.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-28T20:00:15+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "b18e92dbf311"
+    },
+    {
+      "title": "La fédération nationale des sapeurs-pompiers \"s'associe pleinement au mouvement\" de grève prévu du 8 septembre au 20 octobre, selon un de ses représentants",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/la-federation-nationale-des-sapeurs-pompiers-s-associe-pleinement-au-mouvement-de-greve-prevu-du-8-septembre-au-20-octobre-selon-un-de-ses-representants_8167166.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le lieutenant-colonel David Annotel appelle également à \"un renforcement des effectifs de pompiers professionnels d'environ 6 à 7 000 pour atteindre le chiffre de 50 000\".",
+      "image": "https://www.franceinfo.fr/pictures/udirzC9AEraznMSgrxCG2gqH0Aw/432x243/filters:format(jpg)/2026/07/27/6a66f4ea01516610475982.jpg",
+      "published_at": "2026-08-28T21:39:26+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "f04239772506"
+    },
+    {
+      "title": "«Zéro enfant à la rue cet hiver» : Emmanuel Grégoire veut créer 4 000 places d’hébergement pour les sans-abri parisiens",
+      "url": "https://www.liberation.fr/societe/zero-enfant-a-la-rue-cet-hiver-emmanuel-gregoire-veut-creer-4-000-places-dhebergement-pour-les-sans-abri-parisiens-20260828_GQQR6FS2ZNBDPGUKU4S7ON636I/",
+      "summary": "Le maire de Paris, interviewé par «le Parisien» vendredi, se fixe pour objectif de créer autant de places de relogement qu’il y a de personnes sans domicile dans la capitale.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-08-28T19:35:17+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "dac951199167"
+    },
+    {
+      "title": "L'ex-ministre ukrainien Mykhaïlo Fedorov, critique de Volodymyr Zelensky, devient conseiller à la défense en Italie",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ex-ministre-ukrainien-mykhailo-fedorov-critique-de-volodymyr-zelensky-devient-conseiller-a-la-defense-en-italie_8167115.html#xtor=RSS-3-[lestitres]",
+      "summary": "Mykhaïlo Fedorov avait été limogé après être entré en conflit avec le commandant de l'armée ukrainienne.",
+      "image": "https://www.franceinfo.fr/pictures/UDc7wiqCcB_e17Sp7gnqXJCRxu4/0x0:6876x3867/432x243/filters:format(jpg)/2026/08/28/6a91e2331064e339580046.jpg",
+      "published_at": "2026-08-28T21:34:48+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "2f5b1497c27c"
+    },
+    {
+      "title": "Kevin Warsh renforce la crédibilité de la Fed face à Donald Trump à Jackson Hole",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/28/kevin-warsh-renforce-la-credibilite-de-la-fed-face-a-donald-trump-a-jackson-hole_6759135_3234.html",
+      "summary": "Lors de son discours devant les décideurs monétaires réunis dans le Wyoming, le président de la Réserve fédérale américaine n’a pas caché que la lutte contre l’inflation était sa priorité, laissant supposer qu’une augmentation des taux se profilait.",
+      "image": "https://img.lemde.fr/2026/08/28/326/0/5426/2713/644/322/60/0/c290bab_ftp-1-kmk6vdllxyxe-5939307-01-06.jpg",
+      "published_at": "2026-08-28T21:30:09+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "9d779c86cc6e"
+    },
+    {
+      "title": "A Blois, les socialistes n’ont que la primaire en tête",
+      "url": "https://www.liberation.fr/politique/a-blois-les-socialistes-nont-que-la-primaire-en-tete-20260828_5EOHNP4MFFENROPPXXLOVK753A/",
+      "summary": "Même si Olivier Faure refuse pour l’heure d’officialiser sa candidature, le scrutin qui aura lieu les 10 et 16 octobre était au cœur de toutes les discussions, ce vendredi 28 août, dans les allées des universités d’été du PS.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-08-28T19:00:46+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "1342a919cfbb"
+    },
+    {
+      "title": "Berlin victime d’un chantage aux bitcoins après une cyberattaque",
+      "url": "https://www.liberation.fr/international/berlin-victime-dun-chantage-aux-bitcoins-apres-une-cyberattaque-20260828_H57CTDGNLBEIBFAJNKUX6CIDGI/",
+      "summary": "Un groupe connu pour ses attaques au «ransomware», logiciels visant à bloquer des données dans l’attente d’une rançon, demande l’équivalent de 2 millions d’euros à l’exécutif de la capitale allemande.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-08-28T18:56:52+00:00",
+      "source": "Libération",
+      "category": "Tech",
+      "id": "10ccff0cda89"
+    },
+    {
+      "title": "Crues meurtrières au Népal : l'opération de sauvetage exceptionnelle de plusieurs ouvriers coincés dans un tunnel",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/crues-meurtrieres-au-nepal-l-operation-de-sauvetage-exceptionnelle-de-plusieurs-ouvriers-coinces-dans-un-tunnel_8167112.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le bilan continue de s'alourdir, trois jours après la coulée de boue qui a dévasté le Népal : 584 morts et près de 2 500 disparus. Une opération de sauvetage très périlleuse d'une centaine d'ouvriers prisonniers d'un tunnel sur un chantier est en cours.",
+      "image": "https://www.franceinfo.fr/pictures/3t8Uk6W6Nj-DGL1KSFKmJwtPULA/146x0:1590x812/432x243/filters:format(jpg)/2026/08/28/6a91d2ee07e7b485201589.png",
+      "published_at": "2026-08-28T20:28:00+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "70b753d64bff"
+    },
     {
       "title": "Ange, Jungle, FKJ, Photons... la playlist du cahier musique de «Libération»",
       "url": "https://www.liberation.fr/culture/musique/ange-jungle-fkj-photons-la-playlist-du-cahier-musique-de-liberation-20260828_R2FVWKURNZCJ5LC42YSH5BRUIY/",
@@ -11,296 +301,6 @@
       "source": "Libération",
       "category": "Culture",
       "id": "b87387440ec4"
-    },
-    {
-      "title": "Tremblement de terre, lac proglaciaire ou éboulement : quelle est la cause réelle de la coulée de boue mortelle au Népal ?",
-      "url": "https://www.liberation.fr/checknews/tremblement-de-terre-lac-proglaciaire-ou-eboulement-quelle-est-la-cause-reelle-de-la-coulee-de-boue-mortelle-au-nepal-20260828_U24L27BTN5G3LI372BUTPOFQ5I/",
-      "summary": "Les premières analyses scientifiques, l’étude des images satellites, les données sismiques et les vidéos de la catastrophe permettent d’en savoir plus sur son origine exacte.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-08-28T18:15:22+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "abb907650d54"
-    },
-    {
-      "title": "Dans les campagnes, ces bistrots qui résistent",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/dans-les-campagnes-ces-bistrots-qui-resistent-20260828_TAOGDXXNNNAJLBTRWPWHFIYVW4/",
-      "summary": "Dans les villages, ces ultimes lieux de sociabilité sont un précieux rempart au sentiment d’abandon qui profite au RN. Des Côtes-d’Armor au Gard, en passant par le Loiret, «Libé» a fait son tour de France.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-28T18:12:49+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "3155ffc5f7d2"
-    },
-    {
-      "title": "A la foire de Châlons-en-Champagne, Bruno Retailleau doit déjà lever les doutes sur sa candidature",
-      "url": "https://www.liberation.fr/politique/a-la-foire-de-chalons-en-champagne-bruno-retailleau-doit-deja-lever-les-doutes-sur-sa-candidature-20260828_FA45KQGZJZATJOVQXIGDHZ3QDI/",
-      "summary": "Dans la Marne ce 28 août après un été discret en Vendée, le candidat Les Républicains à la présidentielle veut convaincre de la pertinence de sa présence à droite aux côtés de Gabriel Attal et Edouard Philippe.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-28T18:03:16+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "91a351024f50"
-    },
-    {
-      "title": "«Un populiste se disant attaqué par l’establishment» : comment Donald Trump a-t-il établi son classement des meilleurs et des pires présidents ?",
-      "url": "https://www.liberation.fr/international/un-populiste-se-disant-attaque-par-lestablishment-comment-donald-trump-a-t-il-etabli-son-classement-des-meilleurs-et-des-pires-presidents-20260828_LKWYKBGW4NENHI2EB2NNCCVXPM/",
-      "summary": "Il serait le meilleur, Obama et Biden les pires. Pour réaliser son douteux palmarès du Bureau ovale, le locataire de la Maison Blanche s’est inspiré d’un travail d’historiens, tout en ajoutant quelques facéties, explique la politologue spécialiste des Etats-Unis Nicole Bacharan.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-28T18:03:04+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "cf5d77b8b831"
-    },
-    {
-      "title": "Inondations au Népal et au Tibet : le poste-frontière de Gyirong au cœur de la dévastation",
-      "url": "https://www.liberation.fr/international/asie-pacifique/inondations-au-nepal-et-au-tibet-le-poste-frontiere-de-gyirong-au-coeur-de-la-devastation-20260828_AMHG4IXHXFAITEBGGO4CHN4IIM/",
-      "summary": "Environ 700 secouristes ont enfin atteint, ce vendredi 28 août, la zone la plus touchée par le déluge de boue et de glace à la frontière entre la Chine et le Népal. Le bilan officiel de cinq morts côté chinois risque de s’alourdir.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-28T17:48:55+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "8c1bb56235cb"
-    },
-    {
-      "title": "Le feu de la forêt de Fontainebleau est officiellement éteint",
-      "url": "https://www.liberation.fr/environnement/le-feu-de-la-foret-de-fontainebleau-est-officiellement-eteint-20260828_NSBFBQXZMFA3PIADRHALIW7EG4/",
-      "summary": "L’incendie, qui s’était déclaré le 12 juillet, avait parcouru 2 000 hectares dans le massif forestier. Le domaine avait déjà été partiellement rouvert au public samedi dernier.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-28T17:47:17+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "cc63b780ab1a"
-    },
-    {
-      "title": "Les autorités déclarent éteint le feu en forêt de Fontainebleau, un mois et demi après qu'il se soit déclaré",
-      "url": "https://www.franceinfo.fr/faits-divers/incendie/la-mobilisation-de-tous-a-permis-de-contenir-les-incendies-les-autorites-declarent-le-feu-eteint-en-foret-de-fontainebleau_8167079.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"La mobilisation de tous a permis de contenir les incendies\", salue le préfet des Seine-et-Marne. Plusieurs départs de feu avaient brûlé près de 2 000 hectares de cette forêt d'Ile-de-France en juillet.",
-      "image": "https://www.franceinfo.fr/pictures/IVFTXRdMooXvWEgtpfnaRN05PA8/0x766:7309x4878/432x243/filters:format(jpg)/2026/08/28/6a91c543ad6c5277820639.jpg",
-      "published_at": "2026-08-28T19:30:57+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "a8fac3d0516d"
-    },
-    {
-      "title": "Israël mène une frappe en Cisjordanie, et dit avoir tué «trois terroristes»",
-      "url": "https://www.liberation.fr/international/moyen-orient/israel-mene-une-frappe-en-cisjordanie-et-dit-avoir-tue-trois-terroristes-20260828_LNMGBPBH5JCANLXWCU7FH3P3ZY/",
-      "summary": "Parmi les morts figure Qaïs Bitawi, décrit comme «l’un des dirigeants les plus éminents des Brigades d’Al-Qods». Une telle opération est rare dans ce territoire palestinien.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-08-28T17:26:32+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "372acc5314f2"
-    },
-    {
-      "title": "Marine Le Pen « voit l’économie à travers l’électeur d’Hénin-Beaumont » : les réserves du patronat après la rentrée du Medef",
-      "url": "https://www.lemonde.fr/politique/article/2026/08/28/marine-le-pen-voit-l-economie-a-travers-l-electeur-d-henin-beaumont-les-reserves-du-patronat-apres-la-rentree-du-medef_6759065_823448.html",
-      "summary": "Une partie des chefs d’entreprise, qui trouvaient Jordan Bardella plus malléable et sensible au discours libéral, ne se font pas d’illusions sur le programme de la candidate RN pour la présidentielle de 2027, décrit comme populiste. Mais Jean-Luc Mélenchon fait toujours figure de repoussoir ultime.",
-      "image": "https://img.lemde.fr/2026/08/27/0/0/4589/2294/644/322/60/0/222064a_upload-1-gskamvdlpjei-cbi1332108.jpg",
-      "published_at": "2026-08-28T19:25:59+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "201cf19d2be8"
-    },
-    {
-      "title": "Le Club Med va être coté à Hongkong pour son retour en Bourse, annonce le groupe Fosun",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/28/fosun-le-proprietaire-chinois-du-club-med-annonce-la-cotation-de-l-operateur-touristique-a-hongkong-pour-son-retour-en-bourse_6759064_3234.html",
-      "summary": "Le produit de l’introduction en Bourse de Club Med Lifestyle Group, qui regroupe Club Med et ses autres entreprises spécialisées dans le secteur, « sera utilisé pour l’expansion et la modernisation de son activité mondiale de complexes hôteliers », a fait savoir, vendredi, le groupe dans un communiqué.",
-      "image": "https://img.lemde.fr/2026/08/28/182/0/5780/2890/644/322/60/0/3909949_upload-1-fndcifk5trlf-000-86p46qg.jpg",
-      "published_at": "2026-08-28T19:18:53+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "9ba20bb2b43b"
-    },
-    {
-      "title": "Marseille : le voisin de Sébastien Delogu, soupçonné de vol de montre de luxe, est-il «ressorti libre» ?",
-      "url": "https://www.liberation.fr/checknews/marseille-le-voisin-de-sebastien-delogu-soupconne-de-vol-de-montre-de-luxe-est-il-ressorti-libre-20260828_WK3R4IDETVH33JXDKZRXJTKELI/",
-      "summary": "Dans un tweet publié vendredi 28 août, le député LFI évoque une «supercherie». A l’issue de l’audience de comparution immédiate qui a eu lieu jeudi, le parquet indique à «CheckNews» que le voisin de l’élu a été relaxé.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-08-28T17:18:48+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "fb2a4967cdf4"
-    },
-    {
-      "title": "Robin des Bois ou pas ? Le film d’Andrew Garfield est un enfer marketing pour Hollywood",
-      "url": "https://www.numerama.com/pop-culture/2321047-robin-des-bois-ou-pas-le-film-dandrew-garfield-est-un-enfer-marketing-pour-hollywood.html",
-      "summary": "À quinze jours à peine de sa sortie en salles, The Uprising, le nouveau drame historique de Paul Greengrass porté par Andrew Garfield, traverse une crise d’identité inédite. Robin des Bois ou pas Robin des Bois ?",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-28T17:11:00+00:00",
-      "source": "Numerama",
-      "category": "Culture",
-      "id": "c8ea78a78b7c"
-    },
-    {
-      "title": "EN DIRECT - Inondations au Népal et au Tibet : le Quai d’Orsay confirme que quatre Français sont portés disparus",
-      "url": "https://www.liberation.fr/international/asie-pacifique/en-direct-inondations-au-nepal-pres-de-470-morts-les-secours-recherchent-encore-plus-de-1-400-personnes-disparues-20260828_3YH7G5YVINEDNCRRIXJI2QORLM/",
-      "summary": "Après la crue monstre causée mercredi par l’effondrement d’un glacier, les autorités font état d’au moins 584 morts. De nombreux touristes étrangers manquent encore à l’appel.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-28T17:06:10+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "b18e92dbf311"
-    },
-    {
-      "title": "Crues meurtrières au Népal et au Tibet : quatre Français sont portés disparus, confirme le ministère des Affaires étrangères",
-      "url": "https://www.franceinfo.fr/monde/asie/direct-crues-meurtrieres-au-nepal-la-catastrophe-a-fait-au-moins-469-morts-selon-un-nouveau-bilan-provisoire-de-la-police-nepalaise_8165981.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le bilan continue de s'alourdir après la catastrophe, qui a fait au moins 584 morts et près de 2 500 disparus selon les décomptes cumulés des autorités népalaises et chinoises.",
-      "image": "https://www.franceinfo.fr/pictures/gD7SfFc1Bw_Z5UMnUuBehXMQVpU/0x0:4000x2250/432x243/filters:format(jpg)/2026/08/28/6a91a70682ce2012083328.jpg",
-      "published_at": "2026-08-28T19:06:04+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "c3ec16d2840e"
-    },
-    {
-      "title": "« J’étais certaine de mourir » : après les inondations au Népal et au Tibet, des survivants stupéfaits et des familles qui cherchent désespérément leurs proches",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/28/j-etais-certaine-de-mourir-dans-les-hopitaux-de-katmandou-des-survivants-stupefaits-et-des-familles-qui-cherchent-desesperement-leurs-proches_6759063_3244.html",
-      "summary": "Les hôpitaux de Katmandou voient défiler un flux incessant de proches de personnes portées disparues après les crues monumentales qui ont fait au moins 584 morts, alors que près de 2 500 personnes restent portées disparues au Népal et au Tibet.",
-      "image": "https://img.lemde.fr/2026/08/28/616/0/7398/3699/644/322/60/0/8746a2a_ftp-1-oqixaj7ecnbs-f3f53c0ed29b4721b871e064e63825fb-0-4ca8a091e6de44e2a42cb0244503ccd6.jpg",
-      "published_at": "2026-08-28T19:04:06+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "f8e67022d6c2"
-    },
-    {
-      "title": "Une enquête pour « apologie du terrorisme » ouverte après l’inauguration d’une fresque en hommage à un séparatiste basque dans les Pyrénées-Atlantiques",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/28/une-enquete-pour-apologie-du-terrorisme-ouverte-apres-l-inauguration-d-une-fresque-en-hommage-a-un-separatiste-basque-dans-les-pyrenees-atlantiques_6759062_3224.html",
-      "summary": "Le préfet du département a fait un signalement après l’inauguration, dimanche, à Itxassou, d’une peinture murale réalisée en l’honneur de Txomin Olhagaray, un membre de l’organisation armée Iparretarrak, mort dans l’explosion de sa bombe en 1980.",
-      "image": "https://img.lemde.fr/2026/08/28/485/0/5819/2909/644/322/60/0/3c96606_ftp-1-1mhvmsf32nvd-5938925-01-06.jpg",
-      "published_at": "2026-08-28T19:02:59+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "b0d96f2f90e9"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : la Russie a attaqué le pays avec sept missiles et 96 drones d’attaque, dit l’armée de l’air ukrainienne",
-      "url": "https://www.lemonde.fr/international/live/2026/08/28/en-direct-guerre-en-ukraine-la-russie-a-attaque-le-pays-avec-sept-missiles-et-96-drones-d-attaque-dit-l-armee-de-l-air-ukrainienne_6753793_3210.html",
-      "summary": "« La plupart des drones ennemis ont été dirigés vers la capitale », Kiev, a précisé l’armée. La défense aérienne ukrainienne a abattu ou neutralisé six des sept missiles ainsi que 73 drones d’attaque.",
-      "image": "https://img.lemde.fr/2026/08/28/823/0/5467/2733/644/322/60/0/110db9c_ftp-1-jcgndsuqptyn-5937252-01-06.jpg",
-      "published_at": "2026-08-28T18:59:10+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "1fa3254a16d0"
-    },
-    {
-      "title": "L'armée israélienne annonce avoir tué \"trois terroristes\" dans une rare frappe en Cisjordanie occupée",
-      "url": "https://www.franceinfo.fr/monde/palestine/l-armee-israelienne-annonce-avoir-tue-trois-terroristes-dans-une-rare-frappe-en-cisjordanie-occupee_8167028.html#xtor=RSS-3-[lestitres]",
-      "summary": "Israël a présenté ces trois hommes tués dans la région de Jénine comme des membres du Hamas, mais une autre organisation, le Jihad islamique, les a revendiqués comme ses combattants.",
-      "image": "https://www.franceinfo.fr/pictures/-CVcEBbZsDsZX4_ID_FPx1vakj0/0x92:7642x4391/432x243/filters:format(jpg)/2026/08/28/6a91bd358418f315388720.jpg",
-      "published_at": "2026-08-28T18:54:53+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "dcddee8a2a27"
-    },
-    {
-      "title": "Vol d'un collier de diamants exceptionnel et historique dans un musée autrichien",
-      "url": "https://www.franceinfo.fr/culture/patrimoine/vol-d-un-collier-de-diamants-exceptionnel-et-historique-dans-un-musee-autrichien_8166767.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cette parure de plus de 200 carats, commandée par la reine d'Egypte en 1939, était présentée dans une exposition temporaire consacrée à la maison Van Cleef & Arpels.",
-      "image": "https://www.franceinfo.fr/pictures/S3uSOBUy1lOTPsw87e6V1i0yi-U/0x922:2327x2231/432x243/filters:format(jpg)/2026/08/28/6a91b071bbba7140571913.jpg",
-      "published_at": "2026-08-28T18:51:33+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "7c45e79d389c"
-    },
-    {
-      "title": "Champion de France en titre, l’AS Monaco proche de quitter le monde du basket professionnel",
-      "url": "https://www.lemonde.fr/sport/article/2026/08/28/champion-de-france-en-titre-l-as-monaco-proche-de-quitter-le-monde-du-basket-professionnel_6759060_3242.html",
-      "summary": "Le CNOSF a confirmé, vendredi, la décision prise par la Direction nationale du conseil et du contrôle de gestion et la chambre d’appel fédérale, visant à exclure le club de la Principauté des deux divisions professionnelles du championnat français.",
-      "image": "https://img.lemde.fr/2026/08/28/202/0/5433/2716/644/322/60/0/363cc2a_upload-1-01s9wcut0mit-000-b7tc7yc.jpg",
-      "published_at": "2026-08-28T18:51:09+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "e6dcce5ace9a"
-    },
-    {
-      "title": "Corse : Jean-Pierre Giacomoni, dit « Bazooka », figure du banditisme insulaire, a été assassiné près de son domicile",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/28/corse-jean-pierre-giacomoni-dit-bazooka-figure-du-banditisme-insulaire-a-ete-assassine-pres-de-son-domicile_6759059_3224.html",
-      "summary": "Cet homme de 61 ans avait déjà subi deux tentatives d’assassinat en 2010 et 2017. Il a été atteint par cinq tirs, dont un à la tête. Il était sorti de prison en janvier.",
-      "image": "https://img.lemde.fr/2026/08/28/189/0/2400/1200/644/322/60/0/b7424e7_upload-1-kxoxesg3jdos-maxmatinnews139567.jpg",
-      "published_at": "2026-08-28T18:45:54+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "d1f7a34c2f4a"
-    },
-    {
-      "title": "J’ai joué à Fable et le premier contact fut rassurant",
-      "url": "https://www.numerama.com/pop-culture/2320785-jai-joue-a-fable-et-le-premier-contact-fut-rassurant.html",
-      "summary": "Fable, RPG ultra-attendu développé sous l'égide de Xbox, était jouable pour la première fois à l'occasion de la Gamescom 2026. J'ai pu tester cette démo axée sur les combats.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-28T16:38:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "a152c41819c9"
-    },
-    {
-      "title": "Présidentielle 2027 : François Hollande refuse encore de participer à la primaire social-démocrate et table sur \"un moment de vérité en décembre\"",
-      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-le-parti-socialiste-fait-sa-rentree-politique-a-blois-avec-en-ligne-de-mire-la-primaire-de-la-gauche_8166293.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le candidat de Place publique, Raphaël Glucksmann, qui compte participer à la primaire, est aussi présent à Blois pour la rentrée des socialistes.",
-      "image": "https://www.franceinfo.fr/pictures/w1HKDpc0nyzEwkt0b0kI88Xkgys/0x106:1024x682/432x243/filters:format(jpg)/2026/08/28/6a91b883ce808584373554.jpg",
-      "published_at": "2026-08-28T18:36:14+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "cb2015c545bd"
-    },
-    {
-      "title": "Basket : plombé par sa dette l’AS Monaco reste privée de parquets",
-      "url": "https://www.liberation.fr/sports/basket-plombe-par-sa-dette-las-monaco-reste-privee-de-parquets-20260828_OSO37MI2BJAADNDVA5TKTZNK4U/",
-      "summary": "Le Comité olympique a validé la décision de la fédération d’interdire au club monégasque de participer aux championnats professionnels. Le champion de France en titre argue d’un nouvel investisseur et demande un ultime réexamen.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-08-28T16:35:41+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "74919b42d509"
-    },
-    {
-      "title": "En images, les inondations qui ont submergé le Népal et le Tibet",
-      "url": "https://www.lemonde.fr/international/video/2026/08/28/en-image-le-raz-de-maree-qui-a-submerge-le-nepal-et-le-tibet_6759058_3210.html",
-      "summary": "Vendredi matin, les autorités népalaises ont ordonné en urgence l’évacuation des zones sinistrées après le début de rupture d’un lac de retenue formé à la suite de la coulée de boue en territoire tibétain.",
-      "image": "https://img.lemde.fr/2026/08/28/276/0/3317/1658/644/322/60/0/67976b4_ftp-1-i4fx63uy773n-939fbf2cd5354a13bfbbfd768aeee840-0-97deb998dca74189a321f500e5f0a5a2.jpg",
-      "published_at": "2026-08-28T18:35:00+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "c65b946cdd6f"
-    },
-    {
-      "title": "Courts métrages d’Arthur Harari sur Mubi : trois souvenirs de sa jeunesse",
-      "url": "https://www.liberation.fr/culture/cinema/courts-metrages-darthur-harari-sur-mubi-trois-souvenirs-de-sa-jeunesse-20260828_ONFH442X6VEIFNIHSAKIT3PYHA/",
-      "summary": "A l’occasion de la sortie en salles de «l’Inconnue», nouveau long du cinéaste, la plateforme propose trois de ses premiers films, entre errances et marasme familial.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-08-28T16:32:00+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "0f7705b2b33b"
-    },
-    {
-      "title": "En Guinée, les soupçons d’exécutions extrajudiciaires se renforcent après la découverte de nouveaux corps",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/28/en-guinee-les-soupcons-d-executions-extrajudiciaires-se-renforcent-apres-la-decouverte-de-nouveaux-corps_6759057_3212.html",
-      "summary": "Alors que les cas de disparitions forcées se multiplient dans le pays depuis le putsch du général Mamadi Doumbouya, le 5 septembre 2021, six corps ont été découverts, lundi 24 août, dans une fosse commune à Sabakhouré.",
-      "image": "https://img.lemde.fr/2026/02/14/333/0/4000/2000/644/322/60/0/0b0ddbf_ftp-1-y5akz3txgd6i-5172949-01-06.jpg",
-      "published_at": "2026-08-28T18:30:07+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "1370ccda0b36"
-    },
-    {
-      "title": "Des marques paient des milliers d’euros pour apparaître sur ce futur MacBook",
-      "url": "https://www.numerama.com/tech/2320857-des-marques-paient-des-milliers-deuros-pour-apparaitre-sur-ce-futur-macbook.html",
-      "summary": "Pour financer son premier MacBook, un développeur a mis aux enchères dix espaces publicitaires sur son capot. Deux jours plus tard, les marques ont déjà misé près de trois fois le prix de l’ordinateur.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-08-28T16:29:47+00:00",
-      "source": "Numerama",
-      "category": "Économie",
-      "id": "a6c55dff7972"
-    },
-    {
-      "title": "\"Deux de mes collaborateurs ont disparu\" : un guide français habitué de la région témoigne après les crues meurtrières au Népal",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/deux-de-mes-collaborateurs-ont-disparu-un-guide-francais-habitue-de-la-region-temoigne-apres-les-crues-meurtrieres-au-nepal_8166752.html#xtor=RSS-3-[lestitres]",
-      "summary": "Une gigantesque coulée de boue a tout englouti sur son passage mercredi au Népal. Le guide et accompagnateur français Simon Allix, familier des lieux, décrit les conditions de voyage dans la zone aujourd'hui dévastée.",
-      "image": "https://www.franceinfo.fr/pictures/mKHEhbumNiWD6n5yqqv39t2cFXs/0x0:997x561/432x243/filters:format(jpg)/2026/08/28/6a91a3011860e176091447.jpg",
-      "published_at": "2026-08-28T18:18:21+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "dc34b2827b2c"
     }
   ]
 }
