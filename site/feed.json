@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-09-03T21:38:38.487543+00:00",
+  "generated_at": "2026-09-03T23:57:01.231154+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "A deux mois des élections de mi-mandat, l’administration Trump repart à l’offensive sur le vote par correspondance",
+      "url": "https://www.lemonde.fr/international/article/2026/09/04/a-deux-mois-des-elections-de-mi-mandat-l-administration-trump-repart-a-l-offensive-sur-le-vote-par-correspondance_6765288_3210.html",
+      "summary": "L’exécutif américain a de nouveau demandé à la Cour suprême, jeudi, de lui permettre d’appliquer un décret visant à encadrer plus strictement le vote par correspondance, une mesure contestée en justice par plusieurs Etats gouvernés par des démocrates.",
+      "image": "https://img.lemde.fr/2026/09/03/258/0/7832/3916/644/322/60/0/ff22882_ftp-1-xtnj9pwsvtq1-ab8443913d864f22a4662e571f801f4f-0-d712d7b9dd174d1fa13024f7d8605afb.jpg",
+      "published_at": "2026-09-04T01:03:13+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "0073111ac606"
+    },
+    {
+      "title": "La FIFA dénonce une « campagne de dénigrement » menée par l’UEFA à son égard",
+      "url": "https://www.lemonde.fr/football/article/2026/09/04/la-fifa-denonce-une-campagne-de-denigrement-menee-par-l-uefa-a-son-egard_6765287_1616938.html",
+      "summary": "Dans le sillage du projet économique avorté de la FIFA, l’instance européenne prépare une action en justice contre le patron du foot mondial, Gianni Infantino, pour « gestion déloyale ».",
+      "image": "https://img.lemde.fr/2026/08/24/0/0/3207/1603/644/322/60/0/e9a3d0f_ftp-1-dk5qimn4vuft-5910273-01-06.jpg",
+      "published_at": "2026-09-04T01:01:45+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "57565f944895"
+    },
+    {
+      "title": "Un objet suspect découvert près d'un poste électrique en Allemagne, deux autres sabotages ont visé des infrastructures électriques du pays en quelques jours",
+      "url": "https://www.franceinfo.fr/monde/europe/allemagne/un-objet-suspect-decouvert-pres-d-un-poste-electrique-en-allemagne-deux-autres-sabotages-ont-vise-des-infrastructures-electriques-du-pays-en-quelques-jours_8176091.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette découverte survient deux jours après deux possibles attaques contre d'autres postes électriques, derniers actes de sabotage présumés visant les infrastructures critiques du pays.",
+      "image": "https://www.franceinfo.fr/pictures/0WaBHv-jUDMtxsKzB7bvZ92WuJ8/0x53:1024x629/432x243/filters:format(jpg)/2026/09/04/6a99f5cd2dd21898300452.jpg",
+      "published_at": "2026-09-04T00:37:33+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "cbe0d2231a5e"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : une dizaine de blessés signalés à Kiev à la suite d’attaques de drones russes",
+      "url": "https://www.lemonde.fr/international/live/2026/09/04/en-direct-guerre-en-ukraine-une-dizaine-de-blesses-signales-a-kiev-a-la-suite-d-attaques-de-drones-russes_6760568_3210.html",
+      "summary": "Un immeuble de neuf étages a notamment été touché dans le quartier d’Holossіїv, selon les services de secours ukrainiens, qui ont fait état de trois blessées et de 25 personnes évacuées.",
+      "image": "https://img.lemde.fr/2026/09/03/720/0/8640/4320/644/322/60/0/d620162_ftp-1-weyisn0tnkaq-e0d3677b6e9b42578978543b0b74e52d-0-d099104adbf3446ca7d5754b545737af.jpg",
+      "published_at": "2026-09-04T00:27:58+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "5ec19db46201"
+    },
+    {
+      "title": "Le constructeur automobile Volkswagen confirme une nouvelle vague de 50 000 licenciements dans le monde",
+      "url": "https://www.franceinfo.fr/economie/le-constructeur-automobile-volkswagen-confirme-une-nouvelle-vague-de-50-000-licenciements-dans-le-monde_8176070.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le premier constructeur européen avait déjà annoncé entre 2024 et 2026 vouloir supprimer 50 000 emplois en Allemagne d'ici 2030.",
+      "image": "https://www.franceinfo.fr/pictures/32Fuc0wuw5LuxFBWGbr-YD7ETxc/0x53:1024x629/432x243/filters:format(jpg)/2026/09/03/6a99e954b247f688820884.jpg",
+      "published_at": "2026-09-03T23:44:52+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "91ec77c8644b"
+    },
     {
       "title": "L'ancien maire de Chateaudun Fabien Verdier candidat à la primaire de la gauche pour porter la voix des \"sous-préfectures\"",
       "url": "https://www.franceinfo.fr/elections/presidentielle/l-ancien-maire-de-chateaudun-fabien-verdier-candidat-a-la-primaire-de-la-gauche-pour-porter-la-voix-des-sous-prefectures_8176064.html#xtor=RSS-3-[lestitres]",
@@ -13,7 +63,7 @@
       "id": "aca69b87e418"
     },
     {
-      "title": "Au procès de Bertrand Venteau, le président Coordination rurale, deux mondes qui s’opposent",
+      "title": "Au procès de Bertrand Venteau, le président de la Coordination rurale, deux mondes qui s’opposent",
       "url": "https://www.lemonde.fr/economie/article/2026/09/03/au-proces-de-bertrand-venteau-le-president-coordination-rurale-deux-mondes-qui-s-opposent_6765254_3234.html",
       "summary": "Devant le tribunal correctionnel d’Auch, jeudi 3 septembre, le syndicaliste agricole a reconnu et assumé les propos qu’il avait tenus le 19 décembre 2025, quand il disait vouloir « faire la peau aux écolos ».",
       "image": "https://img.lemde.fr/2026/09/03/688/0/8256/4128/644/322/60/0/9e9d906_upload-1-0h795z0fzdwy-abacanewsroy-981882-010.jpg",
@@ -53,16 +103,6 @@
       "id": "9ca6ad03c122"
     },
     {
-      "title": "Guerre au Moyen-Orient : le vice-président américain confirme une enquête sur une frappe contre un mariage en Iran, mais se dit \"sceptique\"",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-iran-attaque-a-nouveau-des-bases-militaires-americaines-au-koweit-donald-trump-menace-de-frapper-a-tout-moment_8174660.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Premier ministre israélien a assuré jeudi qu'Israël avait \"la capacité d'éliminer cette menace une fois pour toutes\".",
-      "image": "https://www.franceinfo.fr/pictures/XdUpPZmCixJ5CH5tMLPx_YHqAYk/0x53:1024x629/432x243/filters:format(jpg)/2026/09/03/6a99d74a642bf227861699.jpg",
-      "published_at": "2026-09-03T22:27:44+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "868714404219"
-    },
-    {
       "title": "Le journal \"Sud Ouest\" en passe d'être racheté d'\"ici la fin de l'année\" par le groupe Rossel, propriétaire de \"la Voix du Nord\"",
       "url": "https://www.franceinfo.fr/economie/medias/le-journal-sud-ouest-en-passe-d-etre-rachete-d-ici-la-fin-de-l-annee-par-le-groupe-rossel-proprietaire-de-la-voix-du-nord_8176034.html#xtor=RSS-3-[lestitres]",
       "summary": "L'entrée en négociations est \"une décision lourde\" prise \"à l'unanimité\" de la cinquantaine d'actionnaires, avec \"beaucoup d'émotion\", a déclaré à l'AFP Tristan Lemoîne, vice-président du conseil d'administration de groupe Sud Ouest.",
@@ -83,13 +123,13 @@
       "id": "d6cca69daaf8"
     },
     {
-      "title": "Le conseil de surveillance de Volkswagen approuve un plan de restructuration prévoyant la suppression de 50 000 postes",
+      "title": "Volkswagen s’accorde sur une restructuration historique, 100 000 emplois supprimés en perspective d’ici à 2030",
       "url": "https://www.lemonde.fr/economie/article/2026/09/03/le-conseil-de-surveillance-de-volkswagen-approuve-un-plan-de-restructuration-prevoyant-la-suppression-de-50-000-postes_6765221_3234.html",
       "summary": "Le constructeur allemand estime qu’une « adaptation conséquente des capacités de personnel à la réalité économique est indispensable », en raison de la pression concurrentielle mondiale croissante, des mutations de la demande et de la technologie.",
-      "image": "https://img.lemde.fr/2026/09/03/480/0/5760/2880/644/322/60/0/7decc5f_ftp-1-hxddu3nnrrhe-2026-09-03t050009z-1061542318-rc2zanapqomi-rtrmadp-3-volkswagen-redundancies.JPG",
+      "image": "https://img.lemde.fr/2026/09/03/242/0/5760/2880/644/322/60/0/7decc5f_ftp-1-hxddu3nnrrhe-2026-09-03t050009z-1061542318-rc2zanapqomi-rtrmadp-3-volkswagen-redundancies.JPG",
       "published_at": "2026-09-03T21:48:30+02:00",
       "source": "Le Monde",
-      "category": "Sport",
+      "category": "Économie",
       "id": "e147f66b598b"
     },
     {
@@ -118,7 +158,7 @@
       "summary": "Le gouvernement de République démocratique du Congo a multiplié les initiatives, ces dernières années, pour conclure des partenariats économiques, et s’est notamment rapproché des Etats-Unis, dont l’ambassade a été déplacée dans la Ville sainte en 2018.",
       "image": "https://img.lemde.fr/2026/05/06/0/0/3000/1500/644/322/60/0/6fe950e_ftp-1-n4ztpngqhqm3-58ac2f0baab349ee8c047a3f7aeda703-0-350ce427faea47aba0e1332576e1d922.jpg",
       "published_at": "2026-09-03T21:29:47+02:00",
-      "source": "Le Monde",
+      "source": "Le Monde Inter",
       "category": "Politique",
       "id": "b7de79e22409"
     },
@@ -131,16 +171,6 @@
       "source": "Libération",
       "category": "Économie",
       "id": "82a1b6ecd97a"
-    },
-    {
-      "title": "« Point de vue du Gras » de Nicéphore Niépce, première photo de l’histoire, revient en France pour le bicentenaire de la photographie",
-      "url": "https://www.lemonde.fr/culture/article/2026/09/03/point-de-vue-du-gras-de-nicephore-niepce-premiere-photo-de-l-histoire-revient-en-france-pour-le-bicentenaire-de-la-photographie_6765219_3246.html",
-      "summary": "Le paysage sur plaque d’étain a été pris en 1827. Il est considéré comme « la plus ancienne photographie encore existante réalisée à l’aide d’une camera obscura », fait savoir le ministère de la culture.",
-      "image": "https://img.lemde.fr/2026/09/03/253/0/2597/1298/644/322/60/0/5bd4521_upload-1-avgptu1owaga-view-from-the-window-at-le-gras-joseph-nice-phore-nie-pce.jpg",
-      "published_at": "2026-09-03T21:21:21+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "97c29a377083"
     },
     {
       "title": "A Lyon, agressions racistes et affrontements entre supporteurs rivaux autour du stade de l’OL",
@@ -183,16 +213,6 @@
       "id": "75d72f58bf4d"
     },
     {
-      "title": "Fondée par des Français, la start-up d’intelligence artificielle Hugging Face défend son rachat par l’américain Nvidia, au nom de l’« open source »",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/03/fondee-par-des-francais-la-start-up-d-intelligence-artificielle-hugging-face-defend-son-rachat-par-l-americain-nvidia-au-nom-de-l-open-source_6765217_3234.html",
-      "summary": "La plateforme de référence pour la publication de modèles d’IA ouverts vient d’être rachetée pour 13 milliards de dollars par le géant mondial des processeurs. Une acquisition qui illustre la difficulté en Europe de conserver ses champions technologiques.",
-      "image": "https://img.lemde.fr/2026/09/03/392/0/4370/2185/644/322/60/0/f8a564f_upload-1-r0cub42ceghv-delangue-clement-19a4389.jpg",
-      "published_at": "2026-09-03T20:50:27+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "9ae4bc206eb2"
-    },
-    {
       "title": "La République démocratique du Congo va déplacer son ambassade en Israël à Jérusalem",
       "url": "https://www.liberation.fr/international/moyen-orient/la-republique-democratique-du-congo-va-deplacer-son-ambassade-en-israel-a-jerusalem-20260903_NLV3WVHKQFHPLF5EWTWQXKTCCQ/",
       "summary": "Cette décision, annoncée par le président congolais, Félix Tshisekedi, lors d’un déplacement dans l’Etat hébreu ce jeudi, représente une rupture par rapport au consensus international.",
@@ -218,7 +238,7 @@
       "summary": "Venue à Paris pour alerter sur les risques de banqueroute qui menace la collectivité, la délégation transpartisane calédonienne a obtenu des subventions supplémentaires, outre les 430 millions prévus en 2026 dans le pacte de refondation. Un soutien conditionné à la poursuite des réformes économiques.",
       "image": "https://img.lemde.fr/2026/09/03/153/0/5000/2500/644/322/60/0/33d3364_upload-1-fgm4h9yxag54-000-c3me9g8.jpg",
       "published_at": "2026-09-03T20:42:12+02:00",
-      "source": "Le Monde Politique",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "5367229f2c8c"
     },
@@ -281,26 +301,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "8fbcfbb5bc0d"
-    },
-    {
-      "title": "«J’assume mes propos» : à son procès, Bertrand Venteau de la Coordination rurale dément tout appel à la violence",
-      "url": "https://www.liberation.fr/environnement/agriculture/jassume-mes-propos-a-son-proces-bertrand-venteau-de-la-coordination-rurale-dement-tout-appel-a-la-violence-20260903_L27Y4SXZQFH7TAHNEUHO2TSLEA/",
-      "summary": "Le président du syndicat agricole était jugé ce jeudi 3 septembre à Auch pour des propos violents tenus dix mois plus tôt. Face aux juges, il a défendu la métaphore du combat politique. Dehors, les soutiens de la CR ont jeté des œufs sur les parties civiles écologistes venues au tribunal.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-03T18:24:28+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "b65f06266a6f"
-    },
-    {
-      "title": "Une magistrate, membre de l’Arcom, dépose plainte après une lettre de menaces",
-      "url": "https://www.liberation.fr/economie/medias/une-magistrate-membre-de-larcom-depose-plainte-apres-une-lettre-de-menaces-20260903_F35RDGZSUVBF7FB6T2EK7LHSSQ/",
-      "summary": "Laurence Pécaut-Rivolier a expliqué aux policiers avoir reçu cet été ce courrier écrit à la main et en lettres capitales. D’autres personnalités, journalistes ou élus, ont été destinataires de courriers similaires, certains envoyés du même bureau de poste.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-03T18:19:05+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "ddcff88ebbc1"
     }
   ]
 }
