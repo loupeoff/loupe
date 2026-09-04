@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-09-04T21:21:31.841605+00:00",
+  "generated_at": "2026-09-04T23:55:07.890301+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Donald Trump affirme que ses émissaires se rendent à Moscou et à Kiev avec un plan « visant à mettre fin à la guerre »",
+      "url": "https://www.lemonde.fr/international/live/2026/09/05/en-direct-guerre-en-ukraine-donald-trump-affirme-que-ses-emissaires-se-rendent-a-moscou-et-a-kiev-avec-un-plan-visant-a-mettre-fin-a-la-guerre_6760568_3210.html",
+      "summary": "Un drone russe a frappé, vendredi après-midi, le siège du service de sécurité d’Ukraine, dans le centre de Kiev. Une « escalade majeure », selon la diplomatie ukrainienne. Volodymyr Zelensky a annoncé la préparation d’une riposte.",
+      "image": "https://img.lemde.fr/2026/09/04/542/0/6500/3250/644/322/60/0/479aa53_ftp-1-lkymkaaxgucs-2026-09-04t193223z-591715852-rc2jcnalktcf-rtrmadp-3-usa-trump.JPG",
+      "published_at": "2026-09-05T01:25:08+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "8cffcc0012f0"
+    },
+    {
+      "title": "Le PSG toujours sans succès après sa défaite contre Monaco, seul leader de Ligue 1",
+      "url": "https://www.lemonde.fr/sport/article/2026/09/05/le-psg-toujours-sans-succes-apres-sa-defaite-contre-monaco-seul-leader-de-ligue-1_6765929_3242.html",
+      "summary": "Battus à domicile, vendredi soir, par des Monégasques réalistes (1-2), les Parisiens ne comptent que deux points après trois journées de championnat. L’Olympique lyonnais pointe en deuxième position après sa victoire face à Auxerre (3-1).",
+      "image": "https://img.lemde.fr/2026/09/04/380/0/2864/1432/644/322/60/0/aef2efb_ftp-1-u3j2mgzpfnvd-5998385-01-06.jpg",
+      "published_at": "2026-09-05T01:23:19+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "a70ee35ff440"
+    },
+    {
+      "title": "Dragon Ball : les ayants droit japonais démentent avoir donné leur accord pour un parc à thème en France",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/05/dragon-ball-les-ayants-droit-japonais-dementent-avoir-donne-leur-accord-pour-un-parc-a-theme-en-france_6765896_4408996.html",
+      "summary": "Le projet d’un parc d’attractions dédié aux mangas, et plus spécifiquement à l’œuvre créée par Akira Toriyama, a été annoncé conjointement par la France et l’Arabie saoudite le 24 août, sans que la licence n’ait été obtenue.",
+      "image": "https://img.lemde.fr/2026/09/04/354/0/6586/3293/644/322/60/0/7b692b2_ftp-1-occcnsubhmcp-5993435-01-06.jpg",
+      "published_at": "2026-09-05T01:14:50+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "d0063343f4dc"
+    },
+    {
+      "title": "Au Liban, des frappes israéliennes dans le sud et l'est font trois morts et 23 blessés",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/au-liban-des-frappes-israeliennes-dans-le-sud-et-l-est-font-trois-morts-et-23-blesses_8177951.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le ministère de la Santé du Liban a fait état de frappes sur cinq localités, situées dans les régions méridionales de Tyr et Nabatiyé, et dans la Békaa, dans l'est du pays.",
+      "image": "https://www.franceinfo.fr/pictures/o1dA0oPuO0WRbqIJ3oKCimVNfp0/0x53:1024x629/432x243/filters:format(jpg)/2026/09/04/6a9b3d77419e3581350571.jpg",
+      "published_at": "2026-09-04T23:52:18+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "1ed4d17dba45"
+    },
+    {
+      "title": "Donald Trump affirme que ses émissaires se rendent à Moscou et à Kiev avec un plan \"visant à mettre fin à la guerre\"",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-que-ses-emissaires-se-rendent-a-moscou-et-a-kiev-avec-un-plan-visant-a-mettre-fin-a-la-guerre_8177936.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ce sera la première fois que Jared Kushner et Steve Witkoff se rendront à Kiev depuis le retour de Donald Trump au pouvoir l'année dernière.",
+      "image": "https://www.franceinfo.fr/pictures/teo868GTxliF8Fb8GcHebjiUebI/0x53:1024x629/432x243/filters:format(jpg)/2026/09/04/6a9b384f32bd2801100377.jpg",
+      "published_at": "2026-09-04T23:30:45+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "f45668fd3838"
+    },
     {
       "title": "Des manifestants évacués lors du congrès annuel de Reform UK",
       "url": "https://www.franceinfo.fr/monde/royaume-uni/des-manifestants-evacues-lors-du-congres-annuel-de-reform-uk_8177933.html#xtor=RSS-3-[lestitres]",
@@ -25,7 +75,7 @@
     {
       "title": "Le PSG renversé par Monaco et toujours sans victoire après trois journées de Ligue 1",
       "url": "https://www.franceinfo.fr/sports/foot/ligue-1/le-psg-renverse-par-monaco-et-toujours-sans-victoire-apres-trois-journees-de-ligue-1_8177840.html#xtor=RSS-3-[lestitres]",
-      "summary": "Alors qu'il avait bien entamé son match, le club de la capitale a été renversé pour sa grande rentrée au Parc des Princes, vendredi.",
+      "summary": "Alors qu'il avait bien entamé son match, le club de la capitale a été renversé en deuxième période par l'ASM (1-2), vendredi.",
       "image": "https://www.franceinfo.fr/pictures/nmNjk0G4reaMRA-nqVE_6JEmmXc/0x0:3500x1968/432x243/filters:format(jpg)/2026/09/04/6a9b319905229901995371.jpg",
       "published_at": "2026-09-04T23:02:10+02:00",
       "source": "France Info",
@@ -43,7 +93,7 @@
       "id": "95a80576aa58"
     },
     {
-      "title": "Les Bleues réussissent leur entrée en lice à la Coupe du monde en surclassant la Hongrie",
+      "title": "Les Bleues réussissent leur entrée en lice à la Coupe du monde de basket en surclassant la Hongrie",
       "url": "https://www.franceinfo.fr/sports/basket/coupe-du-monde/les-bleues-reussissent-leur-entree-en-lice-a-la-coupe-du-monde-en-surclassant-la-hongrie_8177861.html#xtor=RSS-3-[lestitres]",
       "summary": "Il n'y a pas eu match entre les vice-championnes olympiques et des Hongroises qui faisaient leur retour à ce niveau après 28 ans d'absence.",
       "image": "https://www.franceinfo.fr/pictures/qqU38MK_PzP5oL70NjsXLXMcbc4/0x0:4301x2419/432x243/filters:format(jpg)/2026/09/04/6a9b257d25799126861898.jpg",
@@ -66,7 +116,7 @@
       "title": "L'ancienne ministre de la Justice Rachida Dati, bientôt jugée pour corruption, a demandé à redevenir magistrate",
       "url": "https://www.franceinfo.fr/politique/rachida-dati/l-ancienne-ministre-de-la-justice-rachida-dati-bientot-jugee-pour-corruption-a-demande-a-redevenir-magistrate_8177876.html#xtor=RSS-3-[lestitres]",
       "summary": "\"Elle sera prochainement affectée dans le cadre de la procédure de transparence classique des magistrats\", a précisé le ministère de la Justice, sollicité par franceinfo.",
-      "image": "https://www.franceinfo.fr/pictures/J1STv-iwRER7alyj2mCyjOWNG-A/0x53:1024x629/432x243/filters:format(jpg)/2026/09/04/6a9b24030d69a276298833.jpg",
+      "image": "https://www.franceinfo.fr/pictures/HqDoOap8_82EpG84Pm51E0mYIt0/0x0:1024x576/432x243/filters:format(jpg)/2026/09/04/6a9b24030d69a276298833.jpg",
       "published_at": "2026-09-04T22:09:51+02:00",
       "source": "France Info",
       "category": "Politique",
@@ -143,6 +193,16 @@
       "id": "3a143337830c"
     },
     {
+      "title": "Sébastien Lecornu inaugure l’usine de fusées réutilisables de MaiaSpace à Vernon",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/04/sebastien-lecornu-inaugure-l-usine-de-fusees-reutilisables-de-maiaspace-a-vernon_6765862_3234.html",
+      "summary": "L’usine doit à terme couvrir 12 000 mètres carrés et produire divers composants de fusées dont la capacité d’emport est de 4 tonnes en orbite basse, contre 22,8 tonnes pour la fusée Falcon 9 de SpaceX.",
+      "image": "https://img.lemde.fr/2026/09/04/649/0/7796/3898/644/322/60/0/fa9c74d_ftp-1-vwsmod9dvysh-5995961-01-06.jpg",
+      "published_at": "2026-09-04T21:13:21+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "0b2e0f1a94cc"
+    },
+    {
       "title": "Jordan Bardella critiqué par ses adversaires pour avoir signé un protocole d'accord symbolique avec l'extrême droite anglaise pour renvoyer des migrants vers la France",
       "url": "https://www.franceinfo.fr/politique/jordan-bardella/jordan-bardella-critique-par-ses-adversaires-pour-avoir-signe-un-protocole-d-accord-symbolique-avec-l-extreme-droite-anglaise-pour-renvoyer-des-migrants-vers-la-france_8177786.html#xtor=RSS-3-[lestitres]",
       "summary": "Selon ce document, les Britanniques pourraient alors \"renvoyer en France\" toutes les personnes arrêtées sur les bateaux \"interceptés dans [leurs] eaux territoriales\", a souligné le leader de Reform UK, Nigel Farage.",
@@ -193,16 +253,6 @@
       "id": "57863c4c16d9"
     },
     {
-      "title": "US Open : Arthur Rinderknech s'incline face à Daniil Medvedev et ne verra pas la deuxième semaine",
-      "url": "https://www.franceinfo.fr/sports/tennis/us-open/us-open-arthur-rinderknech-s-incline-face-a-daniil-medvedev-et-ne-verra-pas-la-deuxieme-semaine_8177798.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Français n'a jamais semblé en mesure de pouvoir prendre le dessus sur la tête de série n°7, vendredi.",
-      "image": "https://www.franceinfo.fr/pictures/rS2KQgq0CSbjkeBmf1QnXoPZxic/0x0:7052x3966/432x243/filters:format(jpg)/2026/09/04/6a9b0d0819f19489456870.jpg",
-      "published_at": "2026-09-04T20:48:55+02:00",
-      "source": "France Info",
-      "category": "Culture",
-      "id": "82abb295be31"
-    },
-    {
       "title": "Jordan Bardella, le RN version jet-set",
       "url": "https://www.liberation.fr/idees-et-debats/bardella-le-rn-version-jet-set-20260904_XWKKLIFGPRBEROMRWW6NA7MKQ4/",
       "summary": "Si la vie privée et les goûts de luxe du président du RN ne regardent que lui, ils mettent à mal le récit d’une extrême droite proche du peuple entretenu par une Marine Le Pen bien décidée à imposer sa ligne soi-disant sociale.",
@@ -211,16 +261,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "497277a83837"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : Donald Trump affirme que ses émissaires se rendent à Moscou et à Kiev avec un plan « visant à mettre fin à la guerre »",
-      "url": "https://www.lemonde.fr/international/live/2026/09/04/en-direct-guerre-en-ukraine-kiev-prepare-une-riposte-a-l-attaque-russe-contre-le-siege-de-son-service-de-securite-annonce-volodymyr-zelensky_6760568_3210.html",
-      "summary": "Un drone russe a frappé vendredi après-midi le siège du service de sécurité d’Ukraine, dans le centre de Kiev. Une « escalade majeure », selon la diplomatie ukrainienne. Volodymyr Zelensky a annoncé la préparation d’une riposte.",
-      "image": "https://img.lemde.fr/2026/09/04/542/0/6500/3250/644/322/60/0/479aa53_ftp-1-lkymkaaxgucs-2026-09-04t193223z-591715852-rc2jcnalktcf-rtrmadp-3-usa-trump.JPG",
-      "published_at": "2026-09-04T20:42:09+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "af700f509328"
     },
     {
       "title": "Un homme tue par balle une femme dans le Finistère avant d'être héliporté dans un état \"très critique\"",
@@ -233,7 +273,7 @@
       "id": "1924c865eba0"
     },
     {
-      "title": "Un bombardement israélien fait deux morts dans le sud du Liban",
+      "title": "Un bombardement israélien fait trois morts dans le sud du Liban",
       "url": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/09/04/un-bombardement-israelien-fait-deux-morts-dans-le-sud-du-liban_6765860_6325529.html",
       "summary": "Deux jeunes hommes ont été « pris pour cible alors qu’ils circulaient à moto » à Nabatiyé, non loin de la colline d’Ali-Taher, dont l’armée israélienne affirme avoir pris le contrôle.",
       "image": "https://img.lemde.fr/2026/09/04/208/0/2500/1250/644/322/60/0/a42b24e_ftp-1-n27mfqn5bec8-5994015-01-06.jpg",
@@ -245,7 +285,7 @@
     {
       "title": "Les chiffres de l’emploi aux Etats-Unis supérieurs aux prévisions ouvrent la voie à une hausse des taux",
       "url": "https://www.lemonde.fr/economie/article/2026/09/04/les-chiffres-de-l-emploi-americain-superieurs-aux-previsions-ouvrent-la-voie-a-une-hausse-des-taux_6765859_3234.html",
-      "summary": "L’économie des Etats-Unis a créé trois fois plus d’emplois qu’attendu en août selon les statistiques mensuelles du marché du travail et le taux de chômage est stable à 4,1 %. Ces chiffres pourraient justifier une hausse des taux d’intérêt alors que Donald Trump continue de réclamer leur baisse.",
+      "summary": "L’économie américaine a créé trois fois plus d’emplois qu’attendu en août selon les statistiques mensuelles du marché du travail et le taux de chômage est stable à 4,1 %. Ces chiffres pourraient justifier une hausse des taux d’intérêt alors que Donald Trump continue de réclamer leur baisse.",
       "image": "https://img.lemde.fr/2026/09/04/228/0/5903/2951/644/322/60/0/871d3d7_upload-1-e9mjkvbxxt4c-063-2284068737.jpg",
       "published_at": "2026-09-04T20:28:50+02:00",
       "source": "Le Monde",
@@ -261,46 +301,6 @@
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "0aee1e75730d"
-    },
-    {
-      "title": "Marion Brunet, «compañeros» retrouvés",
-      "url": "https://www.liberation.fr/culture/marion-brunet-companeros-retrouves-20260904_XFGI5N3Q2RA3NKWA23DINOEQ6Q/",
-      "summary": "Dans «Ne cherche pas le chaos», un jeu de piste jusqu’au Chili mené par la fille d’un exilé de l’époque Pinochet.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-09-04T18:10:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "23ab25f838e0"
-    },
-    {
-      "title": "L'ONU adopte une réforme de la cartographie mondiale, plus proche de la réalité",
-      "url": "https://www.franceinfo.fr/monde/onu/l-onu-adopte-une-reforme-de-la-cartographie-mondiale-plus-proche-de-la-realite_8177771.html#xtor=RSS-3-[lestitres]",
-      "summary": "La résolution vise à encourager les organisations internationales et les Etats à utiliser des représentations cartographiques de type \"Equal Earth\".",
-      "image": "https://www.franceinfo.fr/pictures/gzVj18mXVXtA2UWqybeQhIkdqik/82x0:2917x1595/432x243/filters:format(jpg)/2026/09/04/6a9acb39e0878250162494.jpg",
-      "published_at": "2026-09-04T20:04:11+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "4a6b1a35f656"
-    },
-    {
-      "title": "Julio Iglesias de nouveau visé par une plainte pour agression sexuelle de deux ex-employées",
-      "url": "https://www.liberation.fr/societe/police-justice/julio-iglesias-de-nouveau-vise-par-une-plainte-pour-agression-sexuelle-de-deux-ex-employees-20260904_D3SEZWK5RBFZDAR6LB7XTCRUPI/",
-      "summary": "Une ONG de défense des droits des femmes a annoncé ce vendredi que les accusatrices du chanteur de 82 ans tentaient à nouveau de le faire juger par la justice espagnole, qui s’était déclarée incompétente sur le dossier.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-09-04T18:01:30+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "c9c6756740d8"
-    },
-    {
-      "title": "« Les soldats d’Allah » : trois hommes soupçonnés d’un projet d’action violente contre la communauté juive interpellés",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/04/les-soldats-d-allah-trois-hommes-soupconnes-d-un-projet-d-action-violente-contre-la-communaute-juive-interpelles_6765857_3224.html",
-      "summary": "Selon les informations du « Monde », les trois suspects, arrêtés mardi par la direction générale de la sécurité intérieure, projetaient également un départ en Afrique pour intégrer les rangs de l’organisation Etat islamique.",
-      "image": "https://img.lemde.fr/2024/10/24/0/0/2250/1125/644/322/60/0/6ecd7dc_1729771573543-frame-125.jpg",
-      "published_at": "2026-09-04T20:00:32+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "1a2fc8cd60f7"
     }
   ]
 }
