@@ -1,15 +1,185 @@
 {
-  "generated_at": "2026-09-05T15:55:43.830868+00:00",
+  "generated_at": "2026-09-05T18:07:35.619671+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Les Etats-Unis affirment avoir détruit trois pétroliers iraniens après des tirs contre deux de ses navires dans le Golfe persique",
-      "url": "https://www.lemonde.fr/international/article/2026/09/05/les-etats-unis-affirment-avoir-detruit-trois-petroliers-iraniens-apres-des-tirs-contre-deux-de-ses-navires-dans-le-golfe-persique_6766361_3210.html",
-      "summary": "L’armée américaine dit avoir frappé trois pétroliers iraniens samedi, en représailles à des tirs de missiles de l’armée iranienne contre deux de ses navires dans le Golfe.",
-      "image": "https://img.lemde.fr/2026/09/05/71/0/1730/865/644/322/60/0/e425269_ftp-1-dxsvmy5yxi9q-5003234-01-06.jpg",
-      "published_at": "2026-09-05T17:50:36+02:00",
-      "source": "Le Monde Inter",
+      "title": "Deux émissaires de Donald Trump ont rencontré Vladimir Poutine à Moscou avant d’aller en Ukraine",
+      "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-trump-envoie-ses-emissaires-a-moscou-et-a-kyiv-20260905_SSK3ISIWH5BFZKL262VHQKAC7U/",
+      "summary": "Jared Kushner et Steve Witkoff ont rencontré le président russe ce samedi 5 septembre, avant un déplacement à Kyiv prévu dimanche.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-09-05T17:46:54+00:00",
+      "source": "Libération",
       "category": "International",
+      "id": "3f6b3a318184"
+    },
+    {
+      "title": "Présidentielle 2027 : Eric Ciotti, maire de Nice, propose «un pacte d’alliance» à Marine Le Pen",
+      "url": "https://www.liberation.fr/politique/presidentielle-2027-eric-ciotti-maire-de-nice-propose-un-pacte-dalliance-a-marine-le-pen-20260905_ASP3I5ZKF5D25IALL3SS653NPI/",
+      "summary": "Le dirigeant de l’Union des droites pour la République (UDR) a officialisé, lors de sa rentrée politique à ce samedi, son soutien à la candidate du RN dans la course à l’Elysée. Il a mis en avant une «quinzaine de propositions» qu’il a transmises à la candidate RN.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-09-05T17:42:05+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "31bf10beb780"
+    },
+    {
+      "title": "Election présidentielle : Jordan Bardella réaffirme son \"amitié politique indéfectible\" avec Marine Le Pen, malgré les polémiques",
+      "url": "https://www.franceinfo.fr/politique/direct-campagne-presidentielle-jean-luc-melenchon-gabriel-attal-et-marine-tondelier-venus-vendre-leur-candidature-a-la-braderie-de-lille_8178386.html#xtor=RSS-3-[lestitres]",
+      "summary": "En cette rentrée politique, des candidats de tous bords prennent la parole ce week-end, depuis la braderie de Lille où la Foire de Châlons-en-Champagne.",
+      "image": "https://www.franceinfo.fr/pictures/3gxI8Wu-NcT_-FGs4M9U_XJUsdU/0x46:1024x622/432x243/filters:format(jpg)/2026/09/05/6a9c500fd2f4f324499704.jpg",
+      "published_at": "2026-09-05T19:24:37+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "d332e375ee2b"
+    },
+    {
+      "title": "Un fonds d'investissement américain abandonne son projet de rachat des Girondins de Bordeaux après la confirmation de la rétrogradation du club en Régional",
+      "url": "https://www.franceinfo.fr/sports/foot/girondins-de-bordeaux/un-fonds-d-investissement-americain-abandonne-son-projet-de-rachat-des-girondins-de-bordeaux-apres-la-confirmation-de-la-retrogradation-du-club-en-regional_8178995.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Notre offre était conditionnée à la participation du club aux championnats nationaux\", a justifié Park Bench, société d'investissement américaine.",
+      "image": "https://www.franceinfo.fr/pictures/MgyJadw9F52VuXvYJZA83H2Y5tQ/432x243/filters:format(jpg)/2026/08/16/6a81d7af43077374419613.jpg",
+      "published_at": "2026-09-05T19:20:01+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "683e4fb31412"
+    },
+    {
+      "title": "Le Pentagone a soumis des responsables militaires américains au détecteur de mensonge après des fuites, d’après le « New York Times »",
+      "url": "https://www.lemonde.fr/international/article/2026/09/05/le-pentagone-a-soumis-des-responsables-militaires-americains-au-detecteur-de-mensonge-apres-des-fuites-d-apres-le-new-york-times_6766366_3210.html",
+      "summary": "Une cinquantaine de membres de l’état-major ont été interrogés au polygraphe pour identifier la source d’une fuite sur une possible pénurie de munitions américaines.",
+      "image": "https://img.lemde.fr/2026/09/05/445/0/2754/1377/644/322/60/0/c8bd925_upload-1-tj8rbj5z61px-000-b4jv8t3.jpg",
+      "published_at": "2026-09-05T19:17:10+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "3e3b84908f78"
+    },
+    {
+      "title": "Guerre en Ukraine : Vladimir Poutine rencontre les émissaires américains de Donald Trump à Moscou",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-de-donald-trump-attendus-a-moscou-et-a-kiev-pour-faire-avancer-les-choses-selon-le-president-americain_8178449.html#xtor=RSS-3-[lestitres]",
+      "summary": "Après leur visite à Moscou, Jared Kushner et Steve Witkoff doivent se rendre à Kiev pour la première fois depuis le début de leur travail de médiateur dans ce conflit débuté en 2022.",
+      "image": "https://www.franceinfo.fr/pictures/HUqryBc7D9oaWbRVwyDQkDXyers/0x0:5430x3054/432x243/filters:format(jpg)/2026/09/05/6a9c0cd9a02cf870190922.jpg",
+      "published_at": "2026-09-05T19:13:17+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "f6fb1405a3a2"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine rencontrent les deux émissaires américains, Steve Witkoff et Jared Kushner, au Kremlin",
+      "url": "https://www.lemonde.fr/international/live/2026/09/05/en-direct-guerre-en-ukraine-vladimir-poutine-et-les-deux-emissaires-americains-steve-wiktoff-et-jared-kushner-ont-commence-leurs-discussions-au-kremlin_6760568_3210.html",
+      "summary": "Donald Trump n’a pas précisé si la proposition dont ses émissaires sont porteurs impliquait une cession de territoire de la part de l’Ukraine, comme il l’avait laissé entendre auparavant. Les deux hommes doivent rencontrer dimanche Volodymyr Zelensky, à Kiev, pour la première fois depuis le début de leur travail de médiateur.",
+      "image": "https://img.lemde.fr/2026/09/05/208/0/5214/2607/644/322/60/0/c342544_ftp-1-cvhvqerdzjos-5004891-01-06.jpg",
+      "published_at": "2026-09-05T19:12:38+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "79b93abbb571"
+    },
+    {
+      "title": "\"Un peu plus de 61 000 foyers fiscaux\" en France, \"payent plus de 100 000 euros d'impôts\", révèle la directrice générale des finances publiques",
+      "url": "https://www.franceinfo.fr/economie/impots/un-peu-plus-de-61-000-foyers-fiscaux-en-france-payent-plus-de-100-000-euros-d-impots-revele-la-directrice-generale-des-finances-publiques_8178905.html#xtor=RSS-3-[lestitres]",
+      "summary": "Sur 1 000 foyers qui paient de l’impôt sur le revenu, un peu plus de trois foyers en moyenne paient plus de 100 000 euros.",
+      "image": "https://www.franceinfo.fr/pictures/Yv3fvcv7V7Ektb3BTbwD4EXhzK0/0x265:5086x3125/432x243/filters:format(jpg)/2026/09/05/6a9c3a2eec84b469706028.jpg",
+      "published_at": "2026-09-05T19:11:51+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "1b2c11b5975a"
+    },
+    {
+      "title": "Pouvoir d'achat, RN... Jean-Luc Mélenchon dévoile ses premières mesures de campagne pour 2027 à la braderie de Lille",
+      "url": "https://www.franceinfo.fr/politique/melenchon/pouvoir-d-achat-rn-jean-luc-melenchon-a-delivre-un-discours-de-campagne-depuis-la-braderie-de-lille_8178941.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le leader de La France insoumise et candidat à la présidentielle a tenu un discours de rentrée à la braderie de Lille, dans lequel il a notamment proposé de bloquer les prix.",
+      "image": "https://www.franceinfo.fr/pictures/ij66fE1wjBArW1akzf7ftbRIR54/0x0:5943x3342/432x243/filters:format(jpg)/2026/09/05/6a9c42201ef86960639080.jpg",
+      "published_at": "2026-09-05T19:11:24+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "2ca35dd95b40"
+    },
+    {
+      "title": "VIDEO | voici « l’Octogone », le plus grand centre de commandement militaire au monde construit en Egypte",
+      "url": "https://www.lemonde.fr/international/video/2026/09/05/video-voici-l-octogone-le-plus-grand-centre-de-commandement-militaire-au-monde-construit-en-egypte_6766363_3211.html",
+      "summary": "A une cinquantaine de kilomètres du Caire, l’Egypte a inauguré, le 4 juillet 2026, un complexe militaire de 92 kilomètres carrés implanté en plein désert.",
+      "image": "https://img.lemde.fr/2026/09/05/139/0/2616/1308/644/322/60/0/efa7a66_upload-1-6bsubzam9lpu-capture-d-e-cran-2026-09-05-a-18-06-10.png",
+      "published_at": "2026-09-05T18:35:49+02:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "32deadec08ee"
+    },
+    {
+      "title": "J’ai vu Warlock, et Hogwarts Legacy ferait bien de s’en inspirer",
+      "url": "https://www.numerama.com/pop-culture/2323725-jai-vu-warlock-et-hogwarts-legacy-ferait-bien-de-sen-inspirer.html",
+      "summary": "Wizards of the Coast continue de faire fructifier la licence Donjons et Dragons (D&D pour les intimes) avec Warlock, un jeu d'action-aventure attendu pour 2027. On a assisté à une présentation à la gamescom, et ça s'annonce prometteur.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-09-05T16:31:00+00:00",
+      "source": "Numerama",
+      "category": "Sport",
+      "id": "9bb8e2b89cd8"
+    },
+    {
+      "title": "Le youtubeur Greg Guillotin reconnaît \"des violences physiques et psychologiques\" sur son ancienne compagne",
+      "url": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/le-youtubeur-greg-guillotin-reconnait-des-violences-physiques-et-psychologiques-sur-son-ancienne-compagne_8178590.html#xtor=RSS-3-[lestitres]",
+      "summary": "Visé par une plainte, déposée par son ex-compagne, Greg Guillotin reconnaît \"des violences physiques et psychologiques\".",
+      "image": "https://www.franceinfo.fr/pictures/4bS9b8nPi2ugcvWdLC1doTGQWNo/29x0:1085x594/432x243/filters:format(jpg)/2026/09/05/6a9be782ba33f055023873.jpg",
+      "published_at": "2026-09-05T18:30:27+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "fe69049662f7"
+    },
+    {
+      "title": "L'éditeur de \"Tetris\" fait bloc contre un jeu vidéo mis en ligne par la Maison Blanche",
+      "url": "https://www.franceinfo.fr/monde/usa/l-editeur-de-tetris-fait-bloc-contre-un-jeu-video-mis-en-ligne-par-la-maison-blanche_8178773.html#xtor=RSS-3-[lestitres]",
+      "summary": "La présidence américaine a créé un jeu intitulé \"Build The Wall\" dont l'objectif est de construire un mur à la frontière très inspiré de la création de The Tetris Company. \"Nous prenons l'atteinte à la propriété intellectuelle très au sérieux\", a fait savoir l'entreprise.",
+      "image": "https://www.franceinfo.fr/pictures/LtjBMloyOwa84Y8t3lFTJFeeje0/45x0:1601x875/432x243/filters:format(jpg)/2026/09/05/6a9c2b5ca0f39442346206.png",
+      "published_at": "2026-09-05T18:17:29+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "7cf55167c893"
+    },
+    {
+      "title": "En Allemagne, des milliers de manifestants pour \"la démocratie\" à la veille d'un scrutin régional où l'extrême droite est favorite",
+      "url": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-des-milliers-de-manifestants-pour-la-democratie-a-la-veille-d-un-scrutin-regional-ou-l-extreme-droite-est-favorite_8178782.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le parti Alternative für Deutschland est pressentie pour remporter une victoire historique une Saxe-Anhalt, une région de l'ex-République démocratique allemande plus pauvre que la moyenne du reste du pays.",
+      "image": "https://www.franceinfo.fr/pictures/r02evJ35aFEckDVmiX58lSGCBnE/0x218:4976x3017/432x243/filters:format(jpg)/2026/09/05/6a9c1e5783c79821579814.jpg",
+      "published_at": "2026-09-05T18:02:46+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "1aa6faae3156"
+    },
+    {
+      "title": "Le jeune Allemand Marco Brenner s'offre une victoire de prestige au sommet sur la 14e étape de la Vuelta",
+      "url": "https://www.franceinfo.fr/sports/cyclisme/vuelta/le-jeune-allemand-marco-brenner-s-offre-une-victoire-de-prestige-au-sommet-sur-la-14e-etape-de-la-vuelta_8178917.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le coureur de l'équipe Tudor a levé les bras en haut de la Sierra de la Pandera samedi.",
+      "image": "https://www.franceinfo.fr/pictures/x_POVYs84uIB0dQRUiL5Xy4Z3W4/0x312:6000x3687/432x243/filters:format(jpg)/2026/09/05/6a9c45e730506427073138.jpg",
+      "published_at": "2026-09-05T17:59:23+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "30448b37a5e7"
+    },
+    {
+      "title": "A Hongkong, des figures du mouvement prodémocratie condamnées en appel pour un fonds d’aide aux manifestants de 2019",
+      "url": "https://www.lemonde.fr/international/article/2026/09/05/a-hongkong-des-figures-du-mouvement-prodemocratie-condamnees-en-appel-pour-un-fonds-d-aide-aux-manifestants-de-2019_6766362_3210.html",
+      "summary": "Le gouvernement chinois a confirmé, le 3 septembre, les condamnations à des amendes de cinq accusés dont le cardinal Joseph Zen, l’avocate Margaret Ng et la chanteuse Denise Ho.",
+      "image": "https://img.lemde.fr/2026/09/03/95/0/4000/2000/644/322/60/0/29315ae_ftp-1-stgova3rdx7g-019cf3ec25b74480ba2edb7dc4add05b-0-dcc4bf290ab94b88af1473178ca9b2dc.jpg",
+      "published_at": "2026-09-05T17:57:03+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "9979da6479e0"
+    },
+    {
+      "title": "Marine Tondelier veut une loi pour \"interdire le mensonge en politique\" après les propos polémiques d'un sénateur sur un pesticide",
+      "url": "https://www.franceinfo.fr/politique/eelv/marine-tondelier-veut-une-loi-pour-interdire-le-mensonge-en-politique-apres-les-propos-polemiques-d-un-senateur-sur-un-pesticide_8178884.html#xtor=RSS-3-[lestitres]",
+      "summary": "La patronne des Ecologistes veut un \"arsenal législatif solide pour protéger la qualité du débat public\", inspiré du modèle gallois, en se défendant de vouloir un \"ministère de la vérité\".",
+      "image": "https://www.franceinfo.fr/pictures/9CH2_xXpa_bo8mh22kzjplEKW_E/0x0:5078x2856/432x243/filters:format(jpg)/2026/09/05/6a9c36be211f0058688901.jpg",
+      "published_at": "2026-09-05T17:55:28+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "79b60c1b363f"
+    },
+    {
+      "title": "Les Etats-Unis affirment avoir détruit trois pétroliers iraniens en représailles à des tirs contre deux de leurs navires dans le golfe Persique",
+      "url": "https://www.lemonde.fr/international/article/2026/09/05/les-etats-unis-affirment-avoir-detruit-trois-petroliers-iraniens-apres-des-tirs-contre-deux-de-ses-navires-dans-le-golfe-persique_6766361_3210.html",
+      "summary": "Un porte-avions et un destroyer américains « ont échappé à de multiples attaques iraniennes non provoquées », selon l’armée américaine.",
+      "image": "https://img.lemde.fr/2026/09/05/71/0/1730/865/644/322/60/0/e425269_ftp-1-dxsvmy5yxi9q-5003234-01-06.jpg",
+      "published_at": "2026-09-05T17:50:33+02:00",
+      "source": "Le Monde",
+      "category": "Société",
       "id": "a9300b0eacf8"
     },
     {
@@ -43,24 +213,24 @@
       "id": "3243d17b6dc9"
     },
     {
+      "title": "« On s’adapte à la situation » : à Laval, les terrains de football à l’épreuve de la sécheresse et du changement climatique",
+      "url": "https://www.lemonde.fr/sport/article/2026/09/05/on-s-adapte-a-la-situation-a-laval-les-terrains-de-football-a-l-epreuve-de-la-secheresse-et-du-changement-climatique_6766360_3242.html",
+      "summary": "Avec les épisodes caniculaires de l’été, la Mayenne a instauré des restrictions d’usage de l’eau. Si le Stade lavallois, pensionnaire de Ligue 2, est parvenu à préserver sa pelouse, le terrain de l’US Laval, club amateur, reste impraticable.",
+      "image": "https://img.lemde.fr/2026/09/05/732/0/4256/2128/644/322/60/0/8de8e37_upload-1-5vsps142zh10-vfeo-laval-040926-1471.jpg",
+      "published_at": "2026-09-05T17:30:01+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "ec6163851ef1"
+    },
+    {
       "title": "Jordan Bardella sur le soutien à l’Ukraine : « On ne peut pas donner de l’argent sans aucune garantie ni sans la sûreté que cet argent sera remboursé un jour »",
       "url": "https://www.lemonde.fr/politique/article/2026/09/05/jordan-bardella-sur-le-soutien-a-l-ukraine-on-ne-peut-pas-donner-de-l-argent-sans-aucune-garantie-ni-sans-la-surete-que-cet-argent-sera-rembourse-un-jour_6766357_823448.html",
       "summary": "Le président du RN a pris la parole sur la guerre en Ukraine, samedi, après les déclarations de Louis Alliot appelant à « couper le robinet » du soutien à Kiev.",
       "image": "https://img.lemde.fr/2026/09/04/600/0/5500/2750/644/322/60/0/d1a4f1b_ftp-1-zdee0ipqwvde-2026-09-04t141814z-904065401-rc2ecnaq0by2-rtrmadp-3-britain-politics-reform-conference.JPG",
-      "published_at": "2026-09-05T17:28:55+02:00",
+      "published_at": "2026-09-05T17:28:52+02:00",
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "f3924b5dc20e"
-    },
-    {
-      "title": "En Allemagne, des milliers de manifestants pour \"la démocratie\" à la veille d'un scrutin régional où l'extrême droite est favorite",
-      "url": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-des-milliers-de-manifestants-pour-la-democratie-a-la-veille-d-un-scrutin-regional-ou-l-extreme-droite-est-favorite_8178782.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le parti Alternative für Deutschland est pressentie pour remporter une victoire historique une Saxe-Anhalt, une région de l'ex-République démocratique allemande plus pauvre que la moyenne du reste du pays.",
-      "image": "https://www.franceinfo.fr/pictures/r02evJ35aFEckDVmiX58lSGCBnE/0x218:4976x3017/432x243/filters:format(jpg)/2026/09/05/6a9c1e5783c79821579814.jpg",
-      "published_at": "2026-09-05T17:28:46+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "1aa6faae3156"
     },
     {
       "title": "\"Rose\" : Sandra Huller, exceptionnelle dans la peau d'un mystérieux paysan soldat du XVIIe siècle",
@@ -123,184 +293,14 @@
       "id": "0ba37e175b67"
     },
     {
-      "title": "Election présidentielle : à Lille, Jean-Luc Mélenchon qualifie Jordan Bardella de \"fasciste sans réputation\"",
-      "url": "https://www.franceinfo.fr/politique/direct-campagne-presidentielle-jean-luc-melenchon-gabriel-attal-et-marine-tondelier-venus-vendre-leur-candidature-a-la-braderie-de-lille_8178386.html#xtor=RSS-3-[lestitres]",
-      "summary": "En cette rentrée politique, des candidats de tous bords prennent la parole ce week-end, depuis la braderie de Lille où la Foire de Châlons-en-Champagne.",
-      "image": "https://www.franceinfo.fr/pictures/LCtjBkNldwmTSKgvUwe0uPgrmqc/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/05/6a9c2adc6f0c2170147081.jpg",
-      "published_at": "2026-09-05T16:54:32+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "d332e375ee2b"
-    },
-    {
       "title": "Guerre en Ukraine : le RN est un « cheval de Troie des impérialistes » pour Marine Tondelier, le « parti de l’étranger » pour Raphaël Glucksmann",
       "url": "https://www.lemonde.fr/politique/article/2026/09/05/guerre-en-ukraine-le-rn-est-un-cheval-de-troie-des-imperialistes-pour-marine-tondelier-le-parti-de-l-etranger-pour-raphael-glucksmann_6766353_823448.html",
       "summary": "Les déclarations de plusieurs cadres du parti d’extrême droite sur les limites à apporter à l’aide à Kiev ont été de nouveau critiquées, samedi, à gauche.",
       "image": "https://img.lemde.fr/2026/09/05/13/0/5078/2539/644/322/60/0/90c3e03_ftp-1-7g9btvnvduxz-5002287-01-06.jpg",
-      "published_at": "2026-09-05T16:41:22+02:00",
-      "source": "Le Monde Inter",
+      "published_at": "2026-09-05T16:41:19+02:00",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "7aedff1afc7d"
-    },
-    {
-      "title": "En Allemagne, des milliers de manifestants pour « la démocratie » à la veille du scrutin local en Saxe-Anhalt",
-      "url": "https://www.lemonde.fr/international/article/2026/09/05/en-allemagne-des-milliers-de-manifestants-pour-la-democratie-a-la-veille-du-scrutin-local-en-saxe-anhalt_6766352_3210.html",
-      "summary": "Des milliers de personnes ont défilé à Magdebourg, à la veille d’élections régionales où l’extrême droite espère une victoire historique.",
-      "image": "https://img.lemde.fr/2026/09/05/616/0/5696/2848/644/322/60/0/f038fa4_ftp-1-dewns2tyaamd-5002486-01-06.jpg",
-      "published_at": "2026-09-05T16:38:48+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "e6656745be92"
-    },
-    {
-      "title": "«Resonance», un Asobo assez beau",
-      "url": "https://www.liberation.fr/culture/jeux-video/resonance-un-asobo-assez-beau-20260905_KLYXTBMPZ5APNE3ICEUVX76XPU/",
-      "summary": "Après un deuxième épisode raté de sa série «A Plague Tale», le studio bordelais se rachète avec un épisode lorgnant «Tomb Raider».",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-09-05T14:31:00+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "18637ceb2f1c"
-    },
-    {
-      "title": "Vladimir Poutine, chef de guerre et chef de campagne électorale, prépare la Russie à une escalade militaire",
-      "url": "https://www.lemonde.fr/international/article/2026/09/05/vladimir-poutine-chef-de-guerre-et-chef-de-campagne-electorale-prepare-la-russie-a-une-escalade-militaire_6766351_3210.html",
-      "summary": "Pour la première fois depuis l’invasion de l’Ukraine en février 2022, les Russes élisent leurs députés entre les 18 et 20 septembre. Orchestré par le Kremlin, ce scrutin n’a pas d’enjeu électoral et est avant tout un instrument pour mobiliser à la guerre.",
-      "image": "https://img.lemde.fr/2026/09/04/577/0/5528/2764/644/322/60/0/eb70a1d_ftp-1-pikcbyuyhxa9-5997187-01-06.jpg",
-      "published_at": "2026-09-05T16:30:11+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "61b02e51cfcc"
-    },
-    {
-      "title": "En visite en Cisjordanie, l’ambassadeur américain fait porter la sécurité des Palestiniens sur Israël",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-visite-en-cisjordanie-lambassadeur-americain-fait-porter-la-securite-des-palestiniens-sur-israel-20260905_FR45VW2T6BA6HIIRQWLKCBDKJI/",
-      "summary": "Mike Huckabee, fervent soutien d’Israël et de la colonisation, s’est rendu samedi 5 septembre auprès d’une communauté américano-palestinienne victime d’attaques. Il réclame des sanctions contre leurs auteurs.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-09-05T14:23:28+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "ace430981242"
-    },
-    {
-      "title": "Sept départements du sud de la France en vigilance orange \"canicule\" avec des températures \"inédites pour un mois de septembre\"",
-      "url": "https://www.franceinfo.fr/environnement/meteo/sept-departements-du-sud-de-la-france-sont-en-vigilance-orange-canicule-des-temperatures-inedites-pour-un-mois-de-septembre_8178356.html#xtor=RSS-3-[lestitres]",
-      "summary": "Ces chaleurs doivent continuer sur la journée de dimanche, avant un rafraîchissement prévu pour lundi.",
-      "image": "https://www.franceinfo.fr/pictures/gQfOBArqlGlncI-w1Pw5jckC_9o/0x52:1024x628/432x243/filters:format(jpg)/2026/09/05/6a9ba7d44716f641741648.jpg",
-      "published_at": "2026-09-05T16:16:51+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "271edeafc268"
-    },
-    {
-      "title": "«Les Nuits expérimentales» de Christian Thorel, lu par Pierre Hild, éditeur",
-      "url": "https://www.liberation.fr/culture/livres/les-nuits-experimentales-de-christian-thorel-lu-par-pierre-hild-editeur-20260905_JYJ3ZZOJDFHCFNSKUWA2KRHVKI/",
-      "summary": "Une lectrice ou un lecteur chronique un coup de cœur. Aujourd’hui, une sarabande née du papier et de la pellicule.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-09-05T14:11:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "2de05f3531ce"
-    },
-    {
-      "title": "Judo : Teddy Riner forfait pour les championnats du monde",
-      "url": "https://www.liberation.fr/sports/judo-teddy-riner-forfait-pour-les-championnats-du-monde-20260905_K4LIQYWB3RHC7D2MPPI4CW2BNU/",
-      "summary": "A 37 ans, le triple champion olympique souffre de l’épaule et ne briguera pas un douzième titre mondial le mois prochain en Azerbaïdjan. Il n’a pas livré un seul combat depuis 2024.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-09-05T14:04:04+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "a8dd4e6c6564"
-    },
-    {
-      "title": "Présidentielle 2027 : pour Gabriel Attal et Edouard Philippe, le poids d’un bilan écologique contrasté",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/05/presidentielle-2027-pour-gabriel-attal-et-edouard-philippe-le-poids-d-un-bilan-ecologique-contraste_6766350_4355770.html",
-      "summary": "« Les candidats et le climat ». Les deux principaux aspirants du bloc central défendent une vision pragmatique de l’adaptation climatique, qui marierait croissance et écologie. A Matignon, ils avaient surtout privilégié l’économie.",
-      "image": "https://img.lemde.fr/2026/08/18/36/0/2895/1447/644/322/60/0/0cc3e05_ftp-1-9bqsly8uwkzr-5866160-01-06.jpg",
-      "published_at": "2026-09-05T16:00:04+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "a74b589badd4"
-    },
-    {
-      "title": "Au Liban, des frappes israéliennes dans le sud et l'est font quatre morts et 32 blessés",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/au-liban-des-frappes-israeliennes-dans-le-sud-et-l-est-font-trois-morts-et-23-blesses_8177951.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le ministère de la Santé du Liban a fait état de frappes sur cinq localités, situées dans les régions méridionales de Tyr et Nabatiyé, et dans la Békaa, dans l'est du pays.",
-      "image": "https://www.franceinfo.fr/pictures/43h3RAoeVd8juyV1PyOpks_rvQI/0x106:1024x682/432x243/filters:format(jpg)/2026/09/04/6a9b3d77419e3581350571.jpg",
-      "published_at": "2026-09-05T15:59:28+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "1ed4d17dba45"
-    },
-    {
-      "title": "Piratage du fisc : la DGFiP évoque \"une excellente nouvelle\" après l'arrestation de deux suspects et s'excuse une nouvelle fois pour ce \"vol\" de données",
-      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/piratage-du-fisc-la-dgfip-evoque-une-excellente-nouvelle-apres-l-arrestation-de-deux-suspects-et-s-excuse-une-nouvelle-fois-pour-ce-vol-de-donnees_8178776.html#xtor=RSS-3-[lestitres]",
-      "summary": "Au sein de la DGFiP, seulement \"100 personnes\" sur 93 000 agents s'occupent exclusivement de la cybersécurité, précise sur France Inter, la directrice générale des finances publiques.",
-      "image": "https://www.franceinfo.fr/pictures/lRKXYaeDLkUmrgAyEodzXvHOP18/432x243/filters:format(jpg)/2026/08/17/6a832341343e4065394325.jpg",
-      "published_at": "2026-09-05T15:41:00+02:00",
-      "source": "France Info",
-      "category": "Tech",
-      "id": "aa99c467aae4"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : Moscou et Kiev annoncent une suspension de leurs attaques contre les capitales pendant trois jours à l’occasion de la visite de Jared Kushner et de Steve Witkoff",
-      "url": "https://www.lemonde.fr/international/live/2026/09/05/en-direct-guerre-en-ukraine-le-kremlin-annonce-une-suspension-des-frappes-sur-kiev-pendant-trois-jours-a-l-occasion-de-la-visite-de-jared-kushner-et-de-steve-witkoff_6760568_3210.html",
-      "summary": "Volodymyr Zelensky a annoncé que l’Ukraine était « prête à s’abstenir de frappes contre Moscou » pendant la durée de la visite des deux émissaires américains. Plus tôt dans la journée, Vladimir Poutine avait ordonné une suspension des bombardements sur Kiev, le Kremlin précisant que cette décision était liée « à la préparation et à la tenue de contacts » avec la délégation américaine.",
-      "image": "https://img.lemde.fr/2026/09/05/228/0/3757/1878/644/322/60/0/a1a8484_ftp-1-b0gkfyf8uaj3-5003208-01-06.jpg",
-      "published_at": "2026-09-05T15:34:35+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "d627a4469e12"
-    },
-    {
-      "title": "Des manifestants anti-immigration ont bloqué l'accès au port de Douvres, le trafic maritime entre la France et le Royaume-Uni brièvement interrompu",
-      "url": "https://www.franceinfo.fr/societe/immigration/des-manifestants-anti-immigration-ont-bloque-l-acces-au-port-de-douvres-le-trafic-maritime-entre-la-france-et-le-royaume-uni-brievement-interrompu_8178743.html#xtor=RSS-3-[lestitres]",
-      "summary": "La circulation était de nouveau \"fluide\" en milieu de journée, a fait savoir le port britannique de Douvres, après le blocage des routes menant à cette infrastructure.",
-      "image": "https://www.franceinfo.fr/pictures/UEFwDeealyqW662jXwht4cN4DEI/0x407:3930x2618/432x243/filters:format(jpg)/2026/09/05/6a9c112d5ce40554027949.jpg",
-      "published_at": "2026-09-05T15:33:11+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "88a2599f9888"
-    },
-    {
-      "title": "A Marseille, la revue culturelle et solidaire «Un autre monde» permet aux personnes à la rue «d’exister autrement dans l’espace social»",
-      "url": "https://www.liberation.fr/societe/a-marseille-la-revue-culturelle-et-solidaire-un-autre-monde-permet-aux-personnes-a-la-rue-dexister-autrement-dans-lespace-social-20260905_VMTMTJTZJBCF5FUZKRW2GQNB4Y/",
-      "summary": "Vendu dans les rues et lieux culturels de la ville par des habitants en grande précarité, le magazine, qualitatif sur le fond comme la forme, participe au changement de regard sur cette situation, pour les lecteurs comme les colporteurs.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-05T13:31:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "be55781e9c4b"
-    },
-    {
-      "title": "C’est la plus grande carte des champs magnétiques cosmiques jamais réalisée, grâce à un radiotélescope australien",
-      "url": "https://www.numerama.com/sciences/2323279-cest-la-plus-grande-carte-des-champs-magnetiques-cosmiques-jamais-realisee-grace-a-un-radiotelescope-australien.html",
-      "summary": "Une carte des champs magnétiques cosmiques a été réalisée avec un télescope radio australien, le plus puissant du monde.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-05T13:31:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "2b0c63eec2fb"
-    },
-    {
-      "title": "Au Royaume-Uni, l’accès au port de Douvres brièvement perturbé par des manifestants anti-immigration cagoulés",
-      "url": "https://www.lemonde.fr/international/article/2026/09/05/au-royaume-uni-l-acces-au-port-de-douvres-brievement-perturbe-par-des-manifestants-anti-immigration-cagoules_6766349_3210.html",
-      "summary": "Des images diffusées en ligne ont montré des manifestants vêtus de noir affluer vers les routes du port de Douvres, interrompant dans la matinée le trafic maritime avec la France.",
-      "image": "https://img.lemde.fr/2026/09/05/801/0/4000/2000/644/322/60/0/ca63529_ftp-1-pon9gcdnurjf-cf28e90e8eb24cfc94109e5da2009143-0-1cd7333aa9604d7f8315a1191cc50205.jpg",
-      "published_at": "2026-09-05T15:29:43+02:00",
-      "source": "Le Monde Inter",
-      "category": "Sport",
-      "id": "52baa2a71f6b"
-    },
-    {
-      "title": "Fêtes juives : Nuñez demande un renforcement de la sécurité autour des lieux de culte",
-      "url": "https://www.liberation.fr/societe/religions/fetes-juives-nunez-demande-un-renforcement-de-la-securite-autour-des-lieux-de-culte-20260905_3HXCQ6JE65FW5DZS6REAQSA2NM/",
-      "summary": "Le ministre de l’Intérieur souligne que les actes antisémites se maintiennent à «un niveau élevé».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-05T13:20:28+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "0b0cbbca0d2b"
     }
   ]
 }
