@@ -1,26 +1,276 @@
 {
-  "generated_at": "2026-09-06T16:52:17.584889+00:00",
+  "generated_at": "2026-09-06T19:01:14.994466+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Fabien Roussel officialise sa candidature à la présidentielle et promet « un projet de rupture »",
+      "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/09/06/fabien-roussel-officialise-sa-candidature-a-la-presidentielle-et-promet-un-projet-de-rupture_6767491_6205049.html",
+      "summary": "Après un vote favorable des militants du PCF à 72 %, le communiste a confirmé sa candidature à l’Elysée au JT de TF1, assurant avoir fait « un choix largement réfléchi » malgré la multiplication des candidatures à gauche.",
+      "image": "https://img.lemde.fr/2026/09/06/203/0/5206/2603/644/322/60/0/a73860f_ftp-1-jqtxaoqgipum-5014666-01-06.jpg",
+      "published_at": "2026-09-06T20:58:26+02:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "b6a06216d8f6"
+    },
+    {
+      "title": "Cisjordanie : Nétanyahou a ordonné d’évacuer des implantations de colons",
+      "url": "https://www.liberation.fr/international/moyen-orient/cisjordanie-netanyahou-a-ordonne-devacuer-des-implantations-de-colons-20260906_FNJ7C5CTBBGFLDHH65AWEB3I6E/",
+      "summary": "Selon des médias israéliens, sa décision a été prise sous pression américaine alors que fin août, le Premier ministre avait promis de poursuivre l’implantation de colonies en Cisjordanie, occupée par Israël depuis 1967.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-09-06T18:55:28+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "92b071675731"
+    },
+    {
+      "title": "Au Miam de Sète, la délicieuse débandade d’Adrien Fregosi",
+      "url": "https://www.liberation.fr/culture/au-miam-de-sete-la-delicieuse-debandade-dadrien-fregosi-20260906_3ZQHJE426ZBNLJCYCOHMGORPQE/",
+      "summary": "Le musée international des Arts modestes consacre une exposition à l’artiste, disparu en 2024, dont les œuvres oscillent entre sentiments poignants et autodérision.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-09-06T18:47:00+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "f28d70c62164"
+    },
+    {
+      "title": "EN DIRECT, élections régionales en Allemagne : l’AfD effectue une poussée historique en Saxe-Anhalt mais les conséquences restent incertaines",
+      "url": "https://www.lemonde.fr/international/live/2026/09/06/en-direct-elections-regionales-en-allemagne-l-afd-effectue-une-poussee-historique-en-saxe-anhalt-mais-les-consequences-restent-incertaines_6767342_3210.html",
+      "summary": "Largement en tête dans cette région, Alternative pour l’Allemagne, menée par Ulrich Siegmund, pourrait devenir le premier parti d’extrême droite à diriger un Land depuis 1945, à condition qu’il obtienne la majorité absolue ou tisse des alliances à l’issue du dépouillement. La CDU s’effondre et le sort du chancelier Friedrich Merz est en débat.",
+      "image": "https://img.lemde.fr/2026/09/06/263/0/3641/1820/644/322/60/0/95171bf_ftp-1-zj7lsi5dlikc-5014454-01-06.jpg",
+      "published_at": "2026-09-06T20:46:10+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "351976fec9ea"
+    },
+    {
+      "title": "Ukraine : face aux émissaires de Trump, Zelensky réclame des garanties",
+      "url": "https://www.liberation.fr/international/europe/ukraine-face-aux-emissaires-de-trump-zelensky-reclame-des-garanties-20260906_AXFO7R4WY5DK7NC7RALKJXSVYY/",
+      "summary": "Steve Witkoff et Jared Kushner ont rencontré Volodymyr Zelensky ce dimanche 6 septembre, au lendemain de leur entretien avec Vladimir Poutine à Moscou.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-09-06T18:46:09+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "7298d7e36474"
+    },
+    {
+      "title": "\"Un projet de rupture\" : le communiste Fabien Roussel officialise sa candidature à la présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/le-communiste-fabien-roussel-officialise-sa-candidature-a-l-election-presidentielle-de-2027-pour-defendre-un-projet-de-rupture_8179856.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le maire de Saint-Amand-les-Eaux et ancien député du Nord se lance pour la seconde fois dans la course à l'Elysée, avec la volonté de réaliser un meilleur score qu'en 2022 (2,28%).",
+      "image": "https://www.franceinfo.fr/pictures/xfKZIog8BYYyx3qP-TUj4ykGmuI/0x0:6048x3402/432x243/filters:format(jpg)/2026/09/06/6a9d7749d20fa789153211.jpg",
+      "published_at": "2026-09-06T20:43:30+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "8bd53ee2a753"
+    },
+    {
+      "title": "L'évènement caritatif ZEvent dépasse les 20 millions d'euros de dons, un record à quelques heures de la fin de son ultime édition",
+      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/l-evenement-caritatif-zevent-depasse-les-16-5-millions-d-euros-de-dons-un-record-a-quelques-heures-de-la-fin-de-son-ultime-edition_8179991.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ce marathon caritatif de streamers existe depuis 2016, il s'agit de sa toute dernière édition.",
+      "image": "https://www.franceinfo.fr/pictures/UvXSWZ1Wkty7IL_4nLo2OzjOmnI/0x512:4927x3280/432x243/filters:format(jpg)/2019/09/23/phpYrz1hQ.jpg",
+      "published_at": "2026-09-06T20:39:14+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "96f08a52de23"
+    },
+    {
+      "title": "Présidentielle 2027 : Fabien Roussel repart en campagne",
+      "url": "https://www.liberation.fr/politique/presidentielle-2027-fabien-roussel-repart-en-campagne-20260906_LNP67N3RFJGH5AWISUMBPUHHO4/",
+      "summary": "Invité ce dimanche soir du JT de TF1, le secrétaire national du Parti communiste français a confirmé son entrée dans la course à l’Elysée. Déjà candidat en 2022, il avait obtenu 2,28 % des voix au premier tour, ce qui lui vaut d’être accusé par LFI d’avoir empêché Jean-Luc Mélenchon d’accéder au second tour.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-09-06T18:38:45+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "35bb230407f0"
+    },
+    {
+      "title": "«Quelle merde !» : en Saxe-Anhalt, l’AfD tutoie la majorité absolue",
+      "url": "https://www.liberation.fr/international/europe/quelle-merde-en-saxe-anhalt-lafd-tutoie-la-majorite-absolue-20260906_OZWNEGQ6IFBPZCYLX354N7RCR4/",
+      "summary": "Avec plus de 44% des voix, l’extrême droite allemande pulvérise son record dans le Land de l’est et peut encore rêver d’une majorité absolue. A Magdebourg, militants antifascistes et conservateurs encaissent une défaite sans précédent.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-09-06T18:38:23+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "9b6ee592a9ab"
+    },
+    {
+      "title": "Le ZEvent 2026 fait ses adieux en pulvérisant son record absolu, plusieurs heures avant la fin du marathon caritatif",
+      "url": "https://www.numerama.com/politique/2326171-le-zevent-2026-fait-ses-adieux-en-pulverisant-son-record-absolu-plusieurs-heures-avant-la-fin-du-marathon-caritatif.html",
+      "summary": "Le ZEvent vient de battre son record absolu de dons, à quelques heures de refermer dix ans d’histoire. Pour sa dixième et dernière édition, le marathon caritatif a passé la barre des 16 millions d’euros dans l'après-midi, puis des 20 millions en soirée.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-09-06T18:33:49+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "091ece97e080"
+    },
+    {
+      "title": "Ségolène Royal annonce qu'elle a obtenu les parrainages nécessaires pour participer à la primaire socialiste",
+      "url": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/segolene-royal-annonce-qu-elle-a-obtenu-les-parrainages-necessaires-pour-participer-a-la-primaire-socialiste_8180078.html#xtor=RSS-3-[lestitres]",
+      "summary": "Outsider du scrutin d'octobre, l'ancienne ministre assure qu'elle a \"gardé beaucoup d'amitiés au sein du Parti socialiste\", dont elle fut la candidate à la présidentielle en 2007.",
+      "image": "https://www.franceinfo.fr/pictures/RUDSQ3j98Bvw4hFc0-aCbXdb0sA/0x0:5537x3114/432x243/filters:format(jpg)/2026/09/06/6a9dafbf89767250551490.jpg",
+      "published_at": "2026-09-06T20:31:39+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "0c2114bae142"
+    },
+    {
+      "title": "«J’ai gardé beaucoup d’amitiés au sein du PS» : Ségolène Royal annonce avoir recueilli les parrainages nécessaires pour participer à la primaire socialiste",
+      "url": "https://www.liberation.fr/politique/jai-garde-beaucoup-damities-au-sein-du-ps-segolene-royal-annonce-avoir-recueilli-les-parrainages-necessaires-pour-participer-a-la-primaire-socialiste-20260906_TGNB44755FCRHDOUV3B7B7TKJA/",
+      "summary": "Outre l’ancienne ministre, battue au second tour de l’élection présidentielle de 2007, six autres candidats sont déclarés à la primaire, qui aura lieu en deux tours en octobre.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-09-06T18:31:17+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "bdd2f9d8c059"
+    },
+    {
+      "title": "Yémen : plus de 300 morts dans les affrontements entre Houthis et les forces gouvernementales depuis jeudi",
+      "url": "https://www.liberation.fr/international/moyen-orient/yemen-plus-de-300-morts-dans-les-affrontements-entre-houthis-et-les-forces-gouvernementales-depuis-jeudi-20260906_QC2HOLC37FEODAMMI6XKXWRJ2U/",
+      "summary": "Les rebelles soutenus par Téhéran progressent en direction du détroit de Bab el-Mandab, d’autant plus stratégique pour le transport des matières premières que le détroit d’Ormuz est contrôlé par l’Iran.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-09-06T18:18:31+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "f4b23197923f"
+    },
+    {
+      "title": "Victoire de l’AfD en Saxe-Anhalt : «Un tournant historique en Allemagne»",
+      "url": "https://www.liberation.fr/international/europe/victoire-de-lafd-en-saxe-anhalt-un-tournant-historique-en-allemagne-20260906_3XG57DFNQRCLRLNECCLAKIAPPM/",
+      "summary": "Pour le politologue Benjamin Höhne, de l’Université technique de Chemnitz, en Saxe, le score de l’extrême droite pour les élections de Saxe-Anhalt est d’une ampleur inédite.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-09-06T18:17:31+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "9a96bc387c12"
+    },
+    {
+      "title": "Avant la présidentielle, le grand marché de Michel-Edouard Leclerc",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/avant-la-presidentielle-le-grand-marche-de-michel-edouard-leclerc-20260906_AKPERZU4OBG4RLGO4ZDC57NDX4/",
+      "summary": "Omniprésent sur les terrains médiatiques et politiques, au point de fréquenter tout l’échiquier, la tête de gondole de l’enseigne familiale devenue mastodonte cultive une forme d’ambiguïté qui, chez lui, relève de la marque de fabrique.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-09-06T18:16:57+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "69d1b30ca964"
+    },
+    {
+      "title": "Benyamin Nétanyahou a donné l'ordre d'évacuer des implantations de colons en Cisjordanie occupée, selon l'un de ses ministres",
+      "url": "https://www.franceinfo.fr/monde/israel/benyamin-netanyahou-a-donne-l-ordre-d-evacuer-des-implantations-de-colons-en-cisjordanie-occupee-selon-l-un-de-ses-ministres_8180066.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Premier ministre israélien avait pourtant promis, fin août, de poursuivre l'implantation de colonies en Cisjordanie. Plusieurs médias évoquent des pressions américaines pour expliquer ce revirement.",
+      "image": "https://www.franceinfo.fr/pictures/hrE2v2wvBhuvefLlktKWc9sMGxo/0x0:4604x2589/432x243/filters:format(jpg)/2026/09/06/6a9dabe15319a589478037.jpg",
+      "published_at": "2026-09-06T20:08:47+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "475bbcb528c1"
+    },
+    {
+      "title": "EN DIRECT - Allemagne : l’extrême droite remporte une très large victoire en Saxe-Anhalt mais devra attendre pour savoir si elle pourra diriger le Land",
+      "url": "https://www.liberation.fr/international/europe/en-direct-allemagne-lextreme-droite-en-quete-dune-victoire-historique-en-saxe-anhalt-20260906_JWLEFIHGCZEWXMT3OZMIRPGJDY/",
+      "summary": "L’AfD a obtenu 44 % des voix selon les premiers sondages sortie des urnes. Mais elle n’est pas encore assurée de gouverner, si elle n’obtient pas la majorité absolue des sièges avec ses alliés.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-09-06T17:52:18+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "de735f1163e3"
+    },
+    {
+      "title": "À Gaza, des milliers de disparus toujours recherchés par leurs proches",
+      "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/a-gaza-des-milliers-de-disparus-toujours-recherches-par-leurs-proches_8179940.html#xtor=RSS-3-[lestitres]",
+      "summary": "À Gaza, l’impasse persiste. Les Palestiniens n’ont toujours pas les moyens de reconstruire avant l’hiver, ni de retrouver leurs disparus, dont certains pourraient être détenus en Israël ou ensevelis sous les décombres depuis bientôt trois ans.",
+      "image": "https://www.franceinfo.fr/pictures/jG9G_AZI5Fg_iF5NYZkAvUsdZ2I/0x321:5472x3399/432x243/filters:format(jpg)/2026/09/06/6a9d8b066e2cd285950421.jpg",
+      "published_at": "2026-09-06T19:43:48+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "3b1c96b2561f"
+    },
+    {
+      "title": "\"Un parti ouvertement néonazi\" : Bruno Le Maire alerte sur le \"danger\" de l'AfD en Allemagne, après la victoire de l'extrême droite en Saxe-Anhalt",
+      "url": "https://www.franceinfo.fr/politique/bruno-le-maire/un-parti-ouvertement-neonazi-bruno-le-maire-alerte-sur-le-danger-de-l-afd-en-allemagne_8180030.html#xtor=RSS-3-[lestitres]",
+      "summary": "Bruno Le Maire était le premier invité de l'émission \"Le Grand Enjeu\" sur franceinfo dimanche 6 septembre. L'ancien ministre de l'Économie s'est exprimé sur la victoire du parti d'extrême droite allemand l'AfD en Saxe-Anhalt, mais aussi sur la visite de Jordan Bardella au Royaume-Uni ou le budget pour 2027.",
+      "image": "https://www.franceinfo.fr/pictures/VtqL6u4plNB0v7h4GV5Ysj2QlnE/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/06/6a9d9f4126e64313018607.jpg",
+      "published_at": "2026-09-06T19:25:07+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "70ccc6b191c2"
+    },
+    {
+      "title": "«Des agences continuent de dissuader les gens de m’engager» : Susan Sarandon assure perdre des rôles en raison de ses critiques à l’égard d’Israël",
+      "url": "https://www.liberation.fr/international/des-agences-continuent-de-dissuader-les-gens-de-mengager-susan-sarandon-assure-perdre-des-roles-en-raison-de-ses-critiques-a-legard-disrael-20260906_3MC6FXXRYBBVNLLTJMJNAZ27NI/",
+      "summary": "Lors de la Mostra de Venise, l’actrice américaine de 79 ans, qui fait partie des voix les plus engagées de l’industrie du cinéma américain pour critiquer la guerre à Gaza, a assuré se voir refuser des films.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-09-06T17:10:36+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "5717ad7e3944"
+    },
+    {
+      "title": "Elections régionales en Allemagne : \"Nous avons écrit l'histoire\", réagit le leader de l'extrême droite en Saxe-Anhalt après la victoire de son parti",
+      "url": "https://www.franceinfo.fr/monde/europe/allemagne/direct-elections-regionales-en-allemagne-les-bureaux-de-votes-sont-ouverts-en-saxe-anhalt-ou-l-extreme-droite-est-favorite_8179493.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le parti d'extrême droite Alternative für Deutschland (AfD) a remporté ce Land de l'est du pays, où l'extrême droite a fait une percée inédite dans le pays depuis 1945.",
+      "image": "https://www.franceinfo.fr/pictures/IQEicjT6MMfg4yR9Hv9fyhp_S10/0x0:6526x3670/432x243/filters:format(jpg)/2026/09/06/6a9d9194ac562332470706.jpg",
+      "published_at": "2026-09-06T19:06:22+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "dcb133a574ec"
+    },
+    {
+      "title": "En lançant sa fusée en orbite, la start-up bavaroise Isar Aerospace bouleverse l’écosystème spatial européen",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/06/en-lancant-sa-fusee-en-orbite-la-start-up-bavaroise-isar-aerospace-bouleverse-l-ecosysteme-spatial-europeen_6767457_3234.html",
+      "summary": "La fusée Spectrum a placé sur orbite cinq satellites samedi. Un succès qui permet à l’entreprise allemande de prétendre jouer un rôle de complément à Ariane-6 face à l’américain SpaceX.",
+      "image": "https://img.lemde.fr/2026/09/06/106/0/3840/1920/644/322/60/0/2efa7b7_ftp-1-tvbqpbyt9to1-5011200-01-06.jpg",
+      "published_at": "2026-09-06T19:03:12+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "542f870c2cc6"
+    },
+    {
+      "title": "Allemagne : Friedrich Merz, le chancelier que la CDU préfère cacher pendant les campagnes",
+      "url": "https://www.liberation.fr/international/europe/allemagne-friedrich-merz-le-chancelier-que-la-cdu-prefere-cacher-en-campagne-20260906_FS7AUCIAYZHPPICRY4ODNDDY2Y/",
+      "summary": "Mis à distance pendant la campagne, le chancelier allemand paie dans les urnes ce dimanche soir l’impopularité record de son gouvernement. Deux autres élections régionales, le 20 septembre, pourraient encore accélérer les spéculations sur sa succession.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-09-06T17:02:33+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "d00a4088fe3c"
+    },
+    {
+      "title": "Cinquante ans après la mort de Mao Zedong, l’ombre persistante du « Grand Timonier » sur la Chine",
+      "url": "https://www.lemonde.fr/international/article/2026/09/06/cinquante-ans-apres-la-mort-de-mao-zedong-l-ombre-persistante-du-grand-timonier-sur-la-chine_6767456_3210.html",
+      "summary": "« Mao, l’encombrant héritage » (1/7). Mort le 9 septembre 1976, le fondateur de la République populaire de Chine continue de peser sur la vie politique du pays. Le Parti communiste, dont Mao a fait le socle du pouvoir, reste tiraillé entre allégeance à son mythe et dénonciation de ses « erreurs » qui ont mené des dizaines de millions de personnes à la mort.",
+      "image": "https://img.lemde.fr/2026/09/03/0/0/5000/2500/644/322/60/0/2064df4_upload-1-eq7dhake3sbj-20260820-9718.jpg",
+      "published_at": "2026-09-06T19:00:04+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "53e30fdbc58c"
+    },
+    {
+      "title": "Des pacemakers coupés du suivi médical, Linux étouffé par les IA et des comptes Claude piratés et revendus : on vous raconte la semaine Cyberguerre",
+      "url": "https://www.numerama.com/cyberguerre/2325799-des-pacemakers-coupes-du-suivi-medical-linux-etouffe-par-les-ia-et-des-comptes-claude-pirates-et-revendus-on-vous-raconte-la-semaine-cyberguerre.html",
+      "summary": "Trois actualités à retenir cette semaine dans le cyberespace : une cyberattaque qui prive de télésurveillance les nouveaux pacemakers d'un géant de la santé, l'infrastructure de Linux à bout de souffle face aux scrapers IA, et des sessions Claude piratées qui alimentent un marché parallèle.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-09-06T17:00:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "fa2a8bec64b2"
+    },
+    {
+      "title": "Guerre en Ukraine : après la visite des émissaires américains, Zelensky assure que la question territoriale ne peut être «résolue» que lors de rencontres entre présidents",
+      "url": "https://www.liberation.fr/international/europe/ukraine-les-emissaires-de-trump-pour-la-premiere-fois-a-kyiv-au-lendemain-de-leur-rencontre-avec-poutine-20260906_ABKCLMIB4BCJPFBRIFRZCPHFHY/",
+      "summary": "Steve Witkoff et Jared Kushner ont rencontré ce dimanche le président ukrainien, après une visite la veille à Vladimir Poutine. A l’issue des discussions, ils ont invité les dirigeants à faire des «compromis».",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-09-06T16:56:20+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "b8d33938fa24"
+    },
     {
       "title": "Après les pourparlers avec les émissaires américains, Volodymyr Zelensky estime que la guerre va se poursuivre jusqu'à l'hiver prochain",
       "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/apres-moscou-les-emissaires-americains-sont-arrives-a-kiev-pour-leur-premiere-visite-dans-la-capitale-ukrainienne_8179715.html#xtor=RSS-3-[lestitres]",
       "summary": "Steve Witkoff et Jared Kushner, chargés par Donald Trump d'un travail de médiation entre la Russie et l'Ukraine, se sont entretenus avec le président Volodymyr Zelensky, au lendemain de leur rencontre avec Vladimir Poutine.",
       "image": "https://www.franceinfo.fr/pictures/YBd5IxL50xPw7XlGiHBosdyL9ng/0x0:2852x1604/432x243/filters:format(jpg)/2026/09/06/6a9d989d5eb6a265177986.jpg",
-      "published_at": "2026-09-06T18:46:59+02:00",
+      "published_at": "2026-09-06T18:54:52+02:00",
       "source": "France Info",
       "category": "International",
       "id": "e52f129d1347"
-    },
-    {
-      "title": "EN DIRECT - Allemagne : l’extrême droite remporte une très large victoire en Saxe-Anhalt",
-      "url": "https://www.liberation.fr/international/europe/en-direct-allemagne-lextreme-droite-en-quete-dune-victoire-historique-en-saxe-anhalt-20260906_JWLEFIHGCZEWXMT3OZMIRPGJDY/",
-      "summary": "L’AfD a obtenu 44 % des voix selon les premiers sondages sortie des urnes. Mais elle n’est pas encore assurée de gouverner le Land, si elle n’obtient la majorité absolue des sièges avec ses alliés.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-06T16:42:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "de735f1163e3"
     },
     {
       "title": "Qui est Ulrich Siegmund, le candidat de l'extrême droite allemande qui a remporté l'élection régionale en Saxe-Anhalt ?",
@@ -33,16 +283,6 @@
       "id": "740e15e5c34c"
     },
     {
-      "title": "En Allemagne, l'AfD remporte une très large victoire en Saxe-Anhalt, une première pour un parti d'extrême droite depuis 1945",
-      "url": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-l-afd-remporte-une-tres-large-victoire-en-saxe-anhalt-une-premiere-pour-un-parti-d-extreme-droite-depuis-1945_8179994.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le parti Alternative für Deutschland a récolté près de 44% des voix, selon les premières estimations publiées par les instituts de sondages.",
-      "image": "https://www.franceinfo.fr/pictures/ff22MBxKDKtWXRpMxyR8ifrxzd4/0x0:4864x2736/432x243/filters:format(jpg)/2026/09/06/6a9d93a013371571827958.jpg",
-      "published_at": "2026-09-06T18:33:55+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "ecad4cf55ed8"
-    },
-    {
       "title": "Qui est Ulrich Siegmund, la figure montante de l’AfD qui galvanise les foules et fait trembler Berlin ?",
       "url": "https://www.lemonde.fr/international/article/2026/09/06/qui-est-ulrich-siegmund-la-figure-montante-de-l-extreme-droite-allemande-qui-galvanise-les-foules-et-fait-trembler-berlin_6756796_3211.html",
       "summary": "Alors qu’une victoire de l’extrême droite se dessine en Saxe-Anhalt, ce dimanche soir 6 septembre, nous vous reproposons le portrait de la tête de liste régionale du parti AfD, publié pour la première fois le 26 août, lorsque cet ancien vendeur de parfums d’ambiance était en campagne.",
@@ -53,16 +293,6 @@
       "id": "60b97966d7a1"
     },
     {
-      "title": "Elections régionales en Allemagne : \"Nous avons écrit l'histoire\", réagit le leader de l'extrême droite en Saxe-Anhalt après la victoire de son parti",
-      "url": "https://www.franceinfo.fr/monde/europe/allemagne/direct-elections-regionales-en-allemagne-les-bureaux-de-votes-sont-ouverts-en-saxe-anhalt-ou-l-extreme-droite-est-favorite_8179493.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le parti d'extrême droite Alternative für Deutschland (AfD) a remporté ce Land de l'est du pays, où l'extrême droite a fait une percée inédite dans le pays depuis 1945.",
-      "image": "https://www.franceinfo.fr/pictures/IQEicjT6MMfg4yR9Hv9fyhp_S10/0x0:6526x3670/432x243/filters:format(jpg)/2026/09/06/6a9d9194ac562332470706.jpg",
-      "published_at": "2026-09-06T18:25:31+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "dcb133a574ec"
-    },
-    {
       "title": "Large victoire de l’extrême droite en Allemagne, une braderie de Lille très politique, le youtubeur Greg Guillotin accusé de violences conjugales… L’actu de ce week-end des 5 et 6 septembre",
       "url": "https://www.liberation.fr/international/europe/large-victoire-de-lextreme-droite-en-allemagne-une-braderie-de-lille-tres-politique-le-youtubeur-greg-guillotin-accuse-de-violences-conjugales-lactu-de-ce-week-end-des-5-et-6-septembre-20260906_3DA4XCBOKZHVDCLWSRKLDZVP4Y/",
       "summary": "La rédaction de «Libération» récapitule les principales actualités des deux derniers jours.",
@@ -71,236 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "782de2418cbd"
-    },
-    {
-      "title": "Guerre des prix des voitures chinoises, plus d’autonomie pour le Scénic et le Tesla Model Y explose les scores : le récap’ Vroom de la semaine",
-      "url": "https://www.numerama.com/vroom/2325795-guerre-des-prix-des-voitures-chinoises-plus-dautonomie-pour-le-scenic-et-le-tesla-model-y-explose-les-scores-le-recap-vroom-de-la-semaine.html",
-      "summary": "À la une sur Vroom cette semaine : la Chine veut mettre fin à la guerre des prix de ses marques à l'étranger, Renault offre plus d'autonomie au Scénic électrique et le Tesla Model Y s'offre la première place des immatriculations en août.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-09-06T16:24:00+00:00",
-      "source": "Numerama",
-      "category": "International",
-      "id": "6f752091dec1"
-    },
-    {
-      "title": "\"Une insulte à la mémoire de ce village martyr\" : Olivier Faure critiqué après avoir comparé Le Porge, ravagé par les flammes, à Oradour-sur-Glane",
-      "url": "https://www.franceinfo.fr/politique/ps/une-insulte-a-la-memoire-de-ce-village-martyr-olivier-faure-critique-apres-avoir-compare-le-porge-detruit-par-les-flammes-a-oradour-sur-glane_8179841.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le premier secrétaire du Parti socialiste a osé une comparaison vendredi sur ICI Gironde, au lendemain de sa visite au Porge (Gironde), où 183 maisons ont été détruites lors d'un incendie cet été.",
-      "image": "https://www.franceinfo.fr/pictures/12tpO40uMqyNEUwtLNRK7zrVGvs/0x87:1024x663/432x243/filters:format(jpg)/2026/09/06/6a9d8a85c9787096399622.jpg",
-      "published_at": "2026-09-06T18:15:28+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "be25f4830a09"
-    },
-    {
-      "title": "Kimi Antonelli, auteur d’une remontée spectaculaire, remporte un Grand Prix d’Italie de F1 qui a viré au fiasco pour Ferrari",
-      "url": "https://www.lemonde.fr/sport/article/2026/09/06/kimi-antonelli-auteur-d-une-remontee-spectaculaire-remporte-un-grand-prix-d-italie-de-f1-qui-a-vire-au-fiasco-pour-ferrari_6767422_3242.html",
-      "summary": "Le prodige de Mercedes, parti du fond de la grille, s’est imposé dimanche, devenant le premier Italien à triompher à Monza depuis 60 ans. Dans les rangs de la Scuderia, Lewis Hamilton, qui n’a pu faire mieux que sixième, voit ses rêves de sacre s’éloigner.",
-      "image": "https://img.lemde.fr/2026/09/06/329/0/2300/1150/644/322/60/0/aa1faf5_ftp-1-gik2kgxvtrmf-2026-09-06t152010z-2018430613-up1em9616lled-rtrmadp-3-motor-f1-italy.JPG",
-      "published_at": "2026-09-06T18:13:45+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "0f81b98de8f0"
-    },
-    {
-      "title": "VIDÉO | Au Liban, des bombardements israéliens font au moins quatre morts",
-      "url": "https://www.lemonde.fr/international/video/2026/09/06/video-au-liban-des-bombardements-israeliens-font-au-moins-quatre-morts_6767420_3210.html",
-      "summary": "Ce bilan provisoire fait également état de vingt blessés, dont trois enfants. L’armée israélienne affirme avoir riposté au lancement par le Hezbollah de deux drones contre ses soldats dans le sud du Liban.",
-      "image": "https://img.lemde.fr/2026/09/06/413/0/4957/2478/644/322/60/0/7e279f4_ftp-1-cmqple0mksdz-5012702-01-06.jpg",
-      "published_at": "2026-09-06T18:02:35+02:00",
-      "source": "Le Monde Inter",
-      "category": "Sport",
-      "id": "12ba949931ff"
-    },
-    {
-      "title": "Guerre au Soudan : des preuves supplémentaires de l’existence d’un programme d’armes chimiques en 2024",
-      "url": "https://www.lemonde.fr/afrique/article/2026/09/06/guerre-au-soudan-des-preuves-supplementaires-de-l-existence-d-un-programme-d-armes-chimiques-en-2024_6767419_3212.html",
-      "summary": "Le « Washington Post » et le « New York Times » ont eu accès à des notes internes, des vidéos, des photos et des interceptions téléphoniques attestant que des bombes au chlore ont été développées par l’armée soudanaise et utilisées pendant au moins 6 mois contre leurs adversaires paramilitaires.",
-      "image": "https://img.lemde.fr/2026/09/06/418/0/5016/2508/644/322/60/0/c13689e_upload-1-qppyjld5pcbp-000-c4qn4we.jpg",
-      "published_at": "2026-09-06T18:00:04+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "528a6b259a44"
-    },
-    {
-      "title": "Des heurts et deux interpellations dans l'Oise lors d'un hommage à un mort après une course-poursuite avec la police",
-      "url": "https://www.franceinfo.fr/faits-divers/des-heurts-et-deux-interpellations-dans-l-oise-lors-d-un-hommage-a-un-mort-apres-une-course-poursuite-avec-la-police_8179934.html#xtor=RSS-3-[lestitres]",
-      "summary": "La marche blanche à Margny-lès-Compiègne survient deux semaines après la mise en examen d'un policier municipal pour homicide routier.",
-      "image": "https://www.franceinfo.fr/pictures/r9ngtzoN8tPjGovmhgHkiuQj-EI/0x325:6240x3835/432x243/filters:format(jpg)/2026/09/06/6a9d859c3f1d1975561613.jpg",
-      "published_at": "2026-09-06T17:58:22+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "7410afbbb7cd"
-    },
-    {
-      "title": "Après une fin de semaine marquée par la chaleur, les températures vont baisser sur l'Hexagone",
-      "url": "https://www.franceinfo.fr/environnement/meteo/apres-une-fin-de-semaine-marquee-par-la-chaleur-les-temperatures-vont-baisser-sur-l-hexagone_8179820.html#xtor=RSS-3-[lestitres]",
-      "summary": "La vigilance orange sera encore en vigueur lundi pour six départements, alors qu'une perturbation arrivera sur le nord-ouest du pays à partir de mardi.",
-      "image": "https://www.franceinfo.fr/pictures/xE2hBcd5Sqpv83zT4EQeRkoCJzo/0x514:4990x3321/432x243/filters:format(jpg)/2026/09/06/6a9d70a236619663723578.jpg",
-      "published_at": "2026-09-06T17:51:06+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "0ef5d0cc9a16"
-    },
-    {
-      "title": "Le bilan de la crue dans l'Himalaya porté à 43 morts et 519 disparus au Tibet, au moins 1 341 morts et près de 5 000 disparus au Népal voisin",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/le-bilan-de-la-crue-dans-l-himalaya-porte-a-43-morts-et-519-disparus-au-tibet-au-moins-1-341-morts-et-pres-de-5-000-disparus-au-nepal-voisin_8179682.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le précédent décompte des autorités chinoises, rendu public vendredi, faisait état de 31 morts et 531 disparus.",
-      "image": "https://www.franceinfo.fr/pictures/oqRy_gL-bacIS83qVVw4PRFqNNU/0x53:1024x629/432x243/filters:format(jpg)/2026/09/06/6a9d3fe12323e823263513.jpg",
-      "published_at": "2026-09-06T17:48:14+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "e444f44c1d5c"
-    },
-    {
-      "title": "Ukraine : les émissaires de Trump pour la première fois à Kyiv au lendemain de leur rencontre avec Poutine",
-      "url": "https://www.liberation.fr/international/europe/ukraine-les-emissaires-de-trump-pour-la-premiere-fois-a-kyiv-au-lendemain-de-leur-rencontre-avec-poutine-20260906_ABKCLMIB4BCJPFBRIFRZCPHFHY/",
-      "summary": "Steve Witkoff et Jared Kushner ont rencontré ce dimanche Volodymyr Zelensky. La veille, un conseiller du président russe avait qualifié «constructive, extrêmement franche et empreinte de confiance» leur entrevue avec Vladimir Poutine.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-09-06T15:45:58+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "b8d33938fa24"
-    },
-    {
-      "title": "Sous une chaleur caniculaire, le maillot vert Wout van Aert s'offre au sprint une nouvelle victoire sur la 15e étape de la Vuelta",
-      "url": "https://www.franceinfo.fr/sports/cyclisme/vuelta/sous-une-chaleur-caniculaire-le-maillot-vert-wout-van-aert-s-offre-au-sprint-une-nouvelle-victoire-sur-la-15e-etape-de-la-vuelta_8179943.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le coureur de la Visma-Lease a Bike a levé les bras à Cordoue, dimanche, à l'issue d'une étape largement raccourcie pour préserver les organismes du peloton. Il s'était déjà imposé vendredi.",
-      "image": "https://www.franceinfo.fr/pictures/6jtg3z7-DaLGEf_glJBMYaqjlJc/0x0:3313x1863/432x243/filters:format(jpg)/2026/09/06/6a9d8947911ff091220428.jpg",
-      "published_at": "2026-09-06T17:43:30+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "4bca8d433aed"
-    },
-    {
-      "title": "Le ZEvent 2026 fait ses adieux en battant largement son record absolu, plusieurs heures avant la fin du marathon caritatif",
-      "url": "https://www.numerama.com/politique/2326171-le-zevent-2026-fait-ses-adieux-en-battant-largement-son-record-absolu-plusieurs-heures-avant-la-fin-du-marathon-caritatif.html",
-      "summary": "Le ZEvent vient de battre son record absolu de dons, à quelques heures de refermer dix ans d’histoire. Pour sa dixième et dernière édition, le marathon caritatif a passé la barre des 16 millions d’euros.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-06T15:30:56+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "e7e1fc5c296a"
-    },
-    {
-      "title": "Assassinat de Federico Martín Aramburú, ou comment la violence de l’extrême droite passe sous silence",
-      "url": "https://www.liberation.fr/politique/assassinat-de-federico-martin-aramburu-ou-comment-la-violence-de-lextreme-droite-passe-sous-silence-20260906_Y3Y7OHPEX5H3DN53CKSJBRHFHQ/",
-      "summary": "Les deux militants fascistes Loïk Le Priol, 32 ans, et son ami Romain Bouvier, 35 ans, sont jugés à partir du lundi 7 septembre pour la mort de l’ex-rugbyman argentin. Un non-sujet pour les médias de la bollosphère ?",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-09-06T15:30:16+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "a753641dda45"
-    },
-    {
-      "title": "« CIA, les guerres secrètes de l’après 11-Septembre », sur France.tv : quand les agents de l’ombre passent à table",
-      "url": "https://www.lemonde.fr/culture/article/2026/09/06/cia-les-guerres-secretes-de-l-apres-11-septembre-sur-france-tv-quand-les-agents-de-l-ombre-passent-a-table_6767418_3246.html",
-      "summary": "L’enquête en trois volets, tirée du livre d’Antoine Mariotti, réunit des acteurs de premier plan de vingt ans de lutte « contre la terreur ».",
-      "image": "https://img.lemde.fr/2026/09/04/0/232/1632/816/644/322/60/0/b2585c4_upload-1-vmct7mouotr1-cia2clesguerressecrc388tesdel27aprc388s11septembre-10.jpg",
-      "published_at": "2026-09-06T17:30:10+02:00",
-      "source": "Le Monde",
-      "category": "Culture",
-      "id": "7a55628bcc23"
-    },
-    {
-      "title": "Indonésie : les vols suspendus dans huit aéroports après une éruption volcanique, 170 000 passagers cloués au sol",
-      "url": "https://www.liberation.fr/international/asie-pacifique/indonesie-les-vols-suspendus-dans-six-aeroports-apres-une-eruption-volcanique-20260906_X2HHL6X26BGTHDSHGUC3ZL4OQU/",
-      "summary": "Le Krakatoa, entre Java et Sumatra, est entré en activité samedi et ses cendres se sont dispersées dans l’espace aérien. Près de 1500 vols ont été affectés.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-09-06T15:27:57+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "90668e20a879"
-    },
-    {
-      "title": "Mostra de Venise 2026 : bim bam boomers et coup de cœur",
-      "url": "https://www.liberation.fr/culture/cinema/mostra-de-venise-2026-bim-bam-boomers-et-coup-de-coeur-20260906_AO2K2LHZ5BHDJMJ2SAXKOGE3PA/",
-      "summary": "En compétition du festival italien qui dure jusqu’au 12 septembre, Werner Herzog et Paul Schrader sucrent les fraises, Nanni Moretti nous séduit, Robert Pattinson chasse les prédateurs.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-06T15:11:55+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "26d29372f133"
-    },
-    {
-      "title": "Yémen : 141 morts depuis samedi dans les affrontements entre rebelles houthistes et forces gouvernementales",
-      "url": "https://www.lemonde.fr/international/article/2026/09/06/yemen-141-morts-depuis-samedi-dans-les-affrontements-entre-rebelles-houthistes-et-forces-gouvernementales_6767385_3210.html",
-      "summary": "Ce bilan porte à plus de 300 le nombre de morts depuis l’offensive lancée jeudi par les houthistes et visant à garder le contrôle de l’accès à la mer Rouge.",
-      "image": "https://img.lemde.fr/2026/09/05/398/0/4774/2387/644/322/60/0/fe7c208_ftp-1-3bb2fjmrxxhc-5002175-01-06.jpg",
-      "published_at": "2026-09-06T17:08:26+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "139789048749"
-    },
-    {
-      "title": "«La génération d’avant a eu les Enfoirés. Le ZEvent, c’est un peu notre truc à nous» : pour sa dernière édition, le marathon caritatif pulvérise son record de dons",
-      "url": "https://www.liberation.fr/economie/economie-numerique/la-generation-davant-a-eu-les-enfoires-le-zevent-cest-un-peu-notre-truc-a-nous-pour-sa-derniere-edition-le-marathon-caritatif-pulverise-son-record-de-dons-20260906_6VRO2TIBHFDV7IOAHZS435C4YI/",
-      "summary": "L’événement, qui s’achèvera dimanche soir, a déjà récolté 11 millions d’euros pour 22 associations. Annoncée comme étant la dernière, cette édition «se veut explosive, grandiose», a prévenu le streamer ZeratoR.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-06T15:08:09+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "176917c58e54"
-    },
-    {
-      "title": "Formule 1 : Kimi Antonelli s'impose à Monza, après un début de Grand Prix d'Italie interrompu par l'impressionnante sortie de route de Charles Leclerc",
-      "url": "https://www.franceinfo.fr/sports/auto-moto/formule-1/formule-1-kimi-antonelli-s-impose-a-monza-apres-un-debut-de-grand-prix-d-italie-interrompu-par-l-impressionnante-sortie-de-route-de-charles-leclerc_8179808.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le leader du championnat a renoué avec la victoire, dimanche, au Grand Prix d'Italie, en signant une grosse remontée, lui qui s'est élancé à la 19e place sur la grille.",
-      "image": "https://www.franceinfo.fr/pictures/jGY8vikwktFv0uykPsoUk6b-JpY/0x740:7107x4738/432x243/filters:format(jpg)/2026/09/06/6a9d7e312f67b396308146.jpg",
-      "published_at": "2026-09-06T17:05:49+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "921a74b9fd35"
-    },
-    {
-      "title": "« Une grosse dernière fête » : dans les coulisses du Z Event 2026, ultime édition du marathon caritatif sur Twitch",
-      "url": "https://www.lemonde.fr/pixels/article/2026/09/06/une-grosse-derniere-fete-dans-les-coulisses-du-z-event-2026-ultime-edition-du-marathon-caritatif-sur-twitch_6767383_4408996.html",
-      "summary": "Cocréé par le streameur ZeratoR, l’événement est devenu en dix ans l’un des rendez-vous majeurs de l’Internet français, inspirant de nombreuses initiatives similaires. Pour ce dernier numéro, quelque 330 créateurs de contenu se sont rassemblés ce week-end dans une ambiance survoltée.",
-      "image": "https://img.lemde.fr/2026/09/05/674/0/8089/4044/644/322/60/0/9a68c53_ftp-1-3s4idgdqdrp4-5003354-01-06.jpg",
-      "published_at": "2026-09-06T17:00:34+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "0c70112f8307"
-    },
-    {
-      "title": "Au festival Visa pour l’image, l’Iranien Hashem Shakeri témoigne d’un peuple « coupé du monde »",
-      "url": "https://www.lemonde.fr/culture/article/2026/09/06/au-festival-visa-pour-l-image-l-iranien-hashem-shakeri-temoigne-d-un-peuple-coupe-du-monde_6767380_3246.html",
-      "summary": "Le photographe, qui expose son travail à Perpignan, est l’un des rares à avoir pu témoigner des répercussions de la guerre sur le quotidien des habitants de son pays.",
-      "image": "https://img.lemde.fr/2026/09/06/315/0/1890/945/644/322/60/0/a0b5094_upload-1-vjmymrksmvhz-iran-001.jpg",
-      "published_at": "2026-09-06T17:00:20+02:00",
-      "source": "Le Monde",
-      "category": "Culture",
-      "id": "21139ead92c0"
-    },
-    {
-      "title": "J’ai essayé la voiture électrique parfaite, j’ai nommé le Porsche Cayenne Electric",
-      "url": "https://www.numerama.com/vroom/2319189-jai-essaye-la-voiture-electrique-parfaite-jai-nomme-le-porsche-cayenne-electric.html",
-      "summary": "Imposant, débordant de puissance et technologique, le nouveau Porsche Cayenne Electric cumule les superlatifs. Bluffé sur tous les points, après en avoir pris le volant sur route et sur circuit, je me demande s'il ne s'agirait tout simplement pas de LA meilleure voiture électrique.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-09-06T14:39:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "7c9f8cd0ee4d"
-    },
-    {
-      "title": "Aubervilliers : un enfant de 3 ans meurt dans l’explosion d’un pavillon",
-      "url": "https://www.liberation.fr/societe/un-enfant-meurt-dans-lexplosion-dun-pavillon-a-aubervilliers-20260906_AFL2GHC55FFNLAZGYLVNSYUH4E/",
-      "summary": "Selon le maire de la commune de Seine-Saint-Denis, une fuite de gaz est à l’origine du drame. Sept personnes ont été blessées, dont deux sont en urgence absolue.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-09-06T14:38:20+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "4e96743de184"
-    },
-    {
-      "title": "En déplacement au Groenland, Ursula von der Leyen veut briser la glace",
-      "url": "https://www.liberation.fr/international/europe/en-deplacement-au-groenland-ursula-von-der-leyen-veut-briser-la-glace-20260906_6DXSCK6AS5FHZGYONWDYVX4HFA/",
-      "summary": "Alors que l’UE cherche à redéfinir sa stratégie dans l’Arctique, notamment face aux vélléités trumpiennes, Ursula von der Leyen est en déplacement à Nuuk, où elle doit dévoiler de nouveaux investissements financiers.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-09-06T14:36:11+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "64633b58cf77"
     }
   ]
 }
