@@ -1,13 +1,123 @@
 {
-  "generated_at": "2026-09-07T20:27:40.027940+00:00",
+  "generated_at": "2026-09-07T23:25:05.808759+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "En Ukraine, le procureur général démissionne sur fond d'accusations de corruption",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-le-procureur-general-demissionne-sur-fond-d-accusations-de-corruption_8181800.html#xtor=RSS-3-[lestitres]",
+      "summary": "Il est accusé d'avoir appartenu à un réseau qui recevait de l'argent pour protéger des centres d'appels frauduleux organisant des escroqueries au téléphone.",
+      "image": "https://www.franceinfo.fr/pictures/bwt_dwZ9jVpmyNzud4_y7b-yFwM/0x53:1024x629/432x243/filters:format(jpg)/2026/09/08/6a9f3707456b3674636747.jpg",
+      "published_at": "2026-09-08T00:13:36+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "cf3326868d71"
+    },
+    {
+      "title": "Les services de renseignement financier ont enregistré un nouveau record de déclarations de soupçon de soupçons de fraudes en 2025",
+      "url": "https://www.franceinfo.fr/economie/fraude/les-services-de-renseignement-financier-ont-enregistre-un-nouveau-record-de-declarations-de-soupcon-de-soupcons-de-fraudes-en-2025_8181791.html#xtor=RSS-3-[lestitres]",
+      "summary": "Tracfin a fait pour la première fois usage de son droit d'opposition pour saisir des fonds en crypto-actifs, qui ont fait l'objet de deux fois plus de signalements à la justice qu'en 2024.",
+      "image": "https://www.franceinfo.fr/pictures/s4_-jH5dwZYxp-PNpzytB-2ebvU/0x53:1024x629/432x243/filters:format(jpg)/2026/09/07/6a9f3003c3258845737295.jpg",
+      "published_at": "2026-09-07T23:43:35+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "0920e191eab3"
+    },
+    {
+      "title": "Cuba dénonce les pertes financières « record » de l’embargo américain",
+      "url": "https://www.lemonde.fr/international/article/2026/09/07/cuba-denonce-les-pertes-financieres-record-de-l-embargo-americain_6767998_3210.html",
+      "summary": "Le gouvernement cubain estime les pertes à 8 milliards de dollars entre mars 2025 et février 2026, un chiffre qui ne prend pas en compte le blocus pétrolier. Paradoxalement, cette alerte coïncide avec une hausse sans précédent des importations en provenance des Etats-Unis par le secteur privé cubain.",
+      "image": "https://img.lemde.fr/2026/09/07/1744/0/3781/1890/644/322/60/0/34cc403_ftp-1-2wrgprr4gx3o-2026-09-07t185702z-1749585104-rc2genajiq87-rtrmadp-3-cuba-crisis.JPG",
+      "published_at": "2026-09-07T23:30:42+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "1905abc3734b"
+    },
+    {
+      "title": "La tour Eiffel est restée fermée lundi, après des consignes pour limiter la présence des femmes lors de la visite d'une délégation hindoue",
+      "url": "https://www.franceinfo.fr/societe/religion/la-tour-eiffel-est-restee-fermee-lundi-apres-des-consignes-pour-limiter-la-presence-des-femmes-lors-de-la-visite-d-une-delegation-hindoue_8181443.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dans un courrier, les salariés affirment que des consignes ont été passées pour effacer la présence des femmes lors du passage de représentants de l'organisation BAPS.",
+      "image": "https://www.franceinfo.fr/pictures/R8B9DaJ3ravhOEiSatHe1yBTtiA/0x5:1024x581/432x243/filters:format(jpg)/2026/09/07/6a9eddf4befed915144461.jpg",
+      "published_at": "2026-09-07T23:29:43+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "9b24b759ee26"
+    },
+    {
+      "title": "Intelligence artificielle, voitures, smartphones : pourquoi le monde dépend des puces de Taïwan",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle-voitures-smartphones-pourquoi-le-monde-depend-des-puces-de-taiwan_8181782.html#xtor=RSS-3-[lestitres]",
+      "summary": "Taïwan est au cœur de la production mondiale de semi-conducteurs. Dans un laboratoire ultra-stratégique, chercheurs et ingénieurs travaillent sur les puces de demain, utilisées notamment dans l’intelligence artificielle. Une domination technologique qui place l’île au centre des rivalités entre la Chine, les États-Unis et les autres grandes puissances.",
+      "image": "https://www.franceinfo.fr/pictures/VWgmvCif142FImYQ-aSb11Bwrp0/0x8:863x493/432x243/filters:format(jpg)/2026/09/07/6a9f2abb9ba10935361814.jpg",
+      "published_at": "2026-09-07T23:21:26+02:00",
+      "source": "France Info",
+      "category": "Tech",
+      "id": "441fa4d9e613"
+    },
+    {
+      "title": "Du sommet de l'État au quotidien des habitants, comment Taïwan se prépare à une guerre avec la Chine",
+      "url": "https://www.franceinfo.fr/monde/asie/taiwan/du-sommet-de-l-etat-au-quotidien-des-habitants-comment-taiwan-se-prepare-a-une-guerre-avec-la-chine_8181767.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'île de Taïwan fait face à l’immense territoire chinois : elle se gouverne elle-même, mais Pékin la revendique. Jeudi encore, ses garde-côtes surveillaient des navires chinois au large. Alors, face à la menace d’une attaque, les habitants apprennent à se protéger. Notre journaliste Maryse Burgot s’est rendue sur place pour suivre leurs préparatifs.",
+      "image": "https://www.franceinfo.fr/pictures/XWsEPZSHmtOhzixo--bTy3GfDuY/39x0:1239x675/432x243/filters:format(jpg)/2026/09/07/6a9f2791a58aa222823355.jpg",
+      "published_at": "2026-09-07T23:09:05+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "c77dbad89778"
+    },
+    {
+      "title": "La Finlande a inauguré une clôture de 200 km à la frontière avec la Russie",
+      "url": "https://www.franceinfo.fr/monde/russie/la-finlande-a-inaugure-une-cloture-de-200-km-a-la-frontiere-avec-la-russie_8181752.html#xtor=RSS-3-[lestitres]",
+      "summary": "En 2023, la Finlande a accusé la Russie de lui livrer une \"guerre hybride\" en orchestrant l'arrivée de ressortissants de pays tiers à sa frontière, des allégations que le Kremlin a rejetées.",
+      "image": "https://www.franceinfo.fr/pictures/aCo2F3Ry4AdHhxk2cbim5v5Rj-M/0x53:1024x629/432x243/filters:format(jpg)/2026/09/07/6a9f190c201c7268734632.jpg",
+      "published_at": "2026-09-07T22:49:19+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "ed5793ca3e39"
+    },
+    {
+      "title": "Jordan Bardella pris au piège de la traduction ? Ce que révèle l'accord avec Nigel Farage",
+      "url": "https://www.franceinfo.fr/politique/jordan-bardella/jordan-bardella-pris-au-piege-de-la-traduction-ce-que-revele-l-accord-avec-nigel-farage_8181680.html#xtor=RSS-3-[lestitres]",
+      "summary": "Jordan Bardella et Nigel Farage ont signé le 4 septembre un accord sur le retour des migrants interceptés dans les eaux britanniques. Mais entre les versions française et anglaise du texte, une phrase a disparu. Une différence de traduction qui pourrait bien changer la portée de l'engagement pris par le président du RN.",
+      "image": "https://www.franceinfo.fr/pictures/KH90gQnDii2d8u34z3Zg-p-RvMA/0x40:824x503/432x243/filters:format(jpg)/2026/09/07/6a9f0c118d4e7014154825.jpg",
+      "published_at": "2026-09-07T22:36:22+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "c301975be1a6"
+    },
+    {
+      "title": "Violences dans le périscolaire à Paris : Emmanuel Grégoire inaugure une nouvelle école de formation des animateurs",
+      "url": "https://www.lemonde.fr/societe/article/2026/09/07/violences-dans-le-periscolaire-a-paris-emmanuel-gregoire-inaugure-une-nouvelle-ecole-de-formation-des-animateurs_6767996_3224.html",
+      "summary": "Ce programme de formation de cent heures, obligatoire, s’appliquera aux 3 000 animateurs titulaires et contractuels de la filière, a précisé le maire de Paris.",
+      "image": "https://img.lemde.fr/2026/09/01/477/0/5724/2862/644/322/60/0/3083a38_ftp-1-5b60pjxpcome-5967522-01-06.jpg",
+      "published_at": "2026-09-07T22:34:00+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "047f686b2ce9"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky évoque la possibilité d’une nouvelle session de négociations trilatérales",
+      "url": "https://www.lemonde.fr/international/live/2026/09/07/en-direct-guerre-en-ukraine-volodymyr-zelensky-evoque-la-possibilite-d-une-nouvelle-session-de-negociations-trilaterales_6766818_3210.html",
+      "summary": "« Nous avons septembre et octobre pour trouver un moyen de parler », a déclaré le président ukrainien. « Je pense que le président Trump peut trouver un moyen de lancer réellement le processus de négociation avant le froid de l’hiver », a-t-il ajouté.",
+      "image": "https://img.lemde.fr/2026/09/06/166/0/2000/1000/644/322/60/0/a7f1672_ftp-1-s8mwfalq77xj-5013509-01-06.jpg",
+      "published_at": "2026-09-07T22:33:51+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "8d16b087225d"
+    },
+    {
+      "title": "\"Je m'inquiète beaucoup\" : les professeurs de Saxe-Anhalt sur le qui-vive face aux projets scolaires de l'extrême droite allemande",
+      "url": "https://www.franceinfo.fr/monde/europe/allemagne/je-m-inquiete-beaucoup-les-professeurs-de-saxe-anhalt-sur-le-qui-vive-face-aux-projets-scolaires-de-l-extreme-droite-allemande_8181695.html#xtor=RSS-3-[lestitres]",
+      "summary": "Moins de place pour la période nazie, davantage pour les grandes figures nationales, comme Bismarck… Le parti d'extrême droite allemand AfD, à deux doigts d'accéder au pouvoir en Saxe-Anhalt, veut revoir les programmes scolaires de la région. L'objectif de la formation est clair : \"en finir avec la culture de la culpabilité\". De quoi inquiéter les enseignants.",
+      "image": "https://www.franceinfo.fr/pictures/e-bjG6iWqVjdcy1ZQEoajwE8Rz8/43x0:995x535/432x243/filters:format(jpg)/2026/09/07/6a9f0dff0444f824320303.jpg",
+      "published_at": "2026-09-07T22:29:19+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "e49fdc7713a0"
+    },
     {
       "title": "\"Comment peut-on faire ça en étant allemand ?\" : l'Allemagne sous le choc après le score historique du parti d'extrême droite AfD",
       "url": "https://www.franceinfo.fr/monde/europe/allemagne/comment-peut-on-faire-ca-en-etant-allemand-l-allemagne-sous-le-choc-apres-le-score-historique-du-parti-d-extreme-droite-afd_8181668.html#xtor=RSS-3-[lestitres]",
       "summary": "En Allemagne, les discussions ont commencé pour permettre à l'extrême droite de l'AfD de gouverner en Saxe-Anhalt. Il manque trois élus au parti pour obtenir la majorité. L'appui pourrait venir d'un petit parti de gauche pro-russe. En attendant, la contestation s'exprime dans la rue.",
       "image": "https://www.franceinfo.fr/pictures/OCNpNBCnTXnVDq9ZRN2WD-ZMv4w/0x9:832x477/432x243/filters:format(jpg)/2026/09/07/6a9f02505a68d814755103.jpg",
-      "published_at": "2026-09-07T22:23:28+02:00",
+      "published_at": "2026-09-07T22:25:05+02:00",
       "source": "France Info",
       "category": "Politique",
       "id": "8706ec9d0cff"
@@ -15,10 +125,10 @@
     {
       "title": "En Colombie, le soldat de la Légion étrangère française pris en otage par une guérilla est « sain et sauf »",
       "url": "https://www.lemonde.fr/international/article/2026/09/07/en-colombie-le-soldat-de-la-legion-etrangere-francaise-pris-en-otage-par-une-guerilla-est-sain-et-sauf_6767995_3210.html",
-      "summary": "Le soldat colombien de la Légion étrangère française, enlevé le 6 août par des guérilleros, a réussi à leur échapper, a annoncé lundi l’état-major français des armées.",
+      "summary": "Le soldat colombien de la Légion étrangère française, enlevé le 6 août par des guérilleros, a réussi à leur échapper, a annoncé lundi l’état-major des armées français.",
       "image": "https://img.lemde.fr/2026/09/07/408/0/4928/2464/644/322/60/0/71c8116_upload-1-dfd3ozurhf0b-000-36v87pj.jpg",
-      "published_at": "2026-09-07T22:19:07+02:00",
-      "source": "Le Monde Inter",
+      "published_at": "2026-09-07T22:19:05+02:00",
+      "source": "Le Monde",
       "category": "Sport",
       "id": "e70600bfb913"
     },
@@ -83,26 +193,6 @@
       "id": "ce8d45293cd6"
     },
     {
-      "title": "\"Je m'inquiète beaucoup\" : les professeurs de Saxe-Anhalt sur le qui-vive face aux projets scolaires de l'extrême droite allemande",
-      "url": "https://www.franceinfo.fr/monde/europe/allemagne/je-m-inquiete-beaucoup-les-professeurs-de-saxe-anhalt-sur-le-qui-vive-face-aux-projets-scolaires-de-l-extreme-droite-allemande_8181695.html#xtor=RSS-3-[lestitres]",
-      "summary": "Moins de place pour la période nazie, davantage pour les grandes figures nationales, comme Bismarck… Le parti d'extrême droite allemand AfD, à deux doigts d'accéder au pouvoir en Saxe-Anhalt, veut revoir les programmes scolaires de la région. L'objectif de la formation est clair : \"en finir avec la culture de la culpabilité\". De quoi inquiéter les enseignants.",
-      "image": "https://www.franceinfo.fr/pictures/e-bjG6iWqVjdcy1ZQEoajwE8Rz8/43x0:995x535/432x243/filters:format(jpg)/2026/09/07/6a9f0dff0444f824320303.jpg",
-      "published_at": "2026-09-07T21:21:19+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "e49fdc7713a0"
-    },
-    {
-      "title": "Coupe Davis : Arthur Fils, numéro 1 français, forfait pour le prochain match de l’équipe de France",
-      "url": "https://www.lemonde.fr/sport/article/2026/09/07/coupe-davis-arthur-fils-numero-1-francais-forfait-pour-le-prochain-match-de-l-equipe-de-france_6767993_3242.html",
-      "summary": "Vainqueur mi-août du Masters 1000 de Cincinnati, puis sorti de manière inattendue dès le premier tour de l’US Open quelques semaines plus tard, l’Essonnien de 22 ans devait être la pièce maîtresse des Bleus à Québec.",
-      "image": "https://img.lemde.fr/2026/08/31/398/0/4433/2216/644/322/60/0/2f775b7_ftp-1-shxmdgy0e5qk-2026-08-31t210511z-850027084-up1em8v1ee8ik-rtrmadp-3-tennis-usopen.JPG",
-      "published_at": "2026-09-07T21:07:26+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "188392fdfbe7"
-    },
-    {
       "title": "Allemagne : Ulrich Siegmund, la tête de liste du parti d’extrême droite AfD, remporte les élections régionales en Saxe-Anhalt",
       "url": "https://www.lemonde.fr/international/video/2026/09/07/allemagne-ulrich-siegmund-la-tete-de-liste-du-parti-d-extreme-droite-afd-remporte-les-elections-regionales-en-saxe-anhalt_6767992_3210.html",
       "summary": "Le parti d’extrême droite Alternative pour l’Allemagne (AfD), fondé en 2013, a enregistré, dimanche 6 septembre, le meilleur résultat de son histoire dans ce Land de l’ancienne Allemagne de l’Est. Une première pour l’extrême droite depuis la seconde guerre mondiale.",
@@ -121,16 +211,6 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "e73c1cfd1132"
-    },
-    {
-      "title": "Budget de la Sécu 2027 : le gouvernement étudie de possibles prélèvements sur l'épargne salariale, Matignon évoque un simple \"document de travail\"",
-      "url": "https://www.franceinfo.fr/economie/le-gouvernement-etudie-la-piste-l-instauration-de-prelevements-sur-l-epargne-salariale-pour-financer-le-budget-2027-selon-le-ministre-de-l-economie_8180675.html#xtor=RSS-3-[lestitres]",
-      "summary": "D'après le quotidien \"Les Echos\", l'exécutif envisage de soumettre à cotisations une partie des primes d'intéressement, de participation ou les abondements des employeurs aux plans d'épargne. Mais l'entourage du Premier ministre assure qu'à ce stade, rien n'est acté.",
-      "image": "https://www.franceinfo.fr/pictures/TQwHU8ww0ARTBPhaOZrytFzyR7M/0x0:1024x576/432x243/filters:format(jpg)/2026/09/07/6a9e7c09ee253197907029.jpg",
-      "published_at": "2026-09-07T20:56:42+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "006b0442fca8"
     },
     {
       "title": "Budget 2027 : Matignon a saisi la justice après une fuite sur \"des travaux internes\" autour de l'épargne salariale",
@@ -221,86 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "6d17c5e7b1e4"
-    },
-    {
-      "title": "L’Union européenne promet de resserrer les liens avec le Groenland",
-      "url": "https://www.lemonde.fr/international/article/2026/09/07/l-union-europeenne-promet-de-resserrer-les-liens-avec-le-groenland_6767987_3210.html",
-      "summary": "Huit mois après les menaces américaines d’annexion du territoire autonome danois, Ursula von der Leyen, présidente de la Commission européenne, s’est rendue à Nuuk, les 6 et 7 septembre. Elle y a présenté une enveloppe de 200 millions d’euros de soutien à l’île.",
-      "image": "https://img.lemde.fr/2026/09/07/1291/0/7744/3872/644/322/60/0/e7aef6c_ftp-1-y5ufooycedd1-492065b72edf4bd1afa4e7c1915d26b2-0-7d97f696fddb4d75adb9d84d63857119.jpg",
-      "published_at": "2026-09-07T20:00:02+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "ae3212ba6aa2"
-    },
-    {
-      "title": "«C’est assumé, on ne peut pas être au four et au moulin dans une élection» : pourquoi le camp Philippe dédaigne les sociaux-démocrates",
-      "url": "https://www.liberation.fr/politique/elections/cest-assume-on-ne-peut-pas-etre-au-four-et-au-moulin-dans-une-election-pourquoi-le-camp-philippe-dedaigne-les-sociaux-democrates-20260907_ZNDMPMGPYVHXDGPB7LW6T26WVM/",
-      "summary": "Le candidat Horizons, qui a encore musclé, ce lundi 7 septembre, le volet répressif de son projet contre le narcotrafic, s’attache, à ce stade, à aligner des propositions urticantes pour la gauche, dont il aura pourtant besoin plus tard, dans l’hypothèse d’un second tour face à Marine Le Pen.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-07T17:59:01+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "5896fc0d4517"
-    },
-    {
-      "title": "La victoire de l’AfD, une onde de choc en Allemagne qui fait trembler la France",
-      "url": "https://www.liberation.fr/international/europe/la-victoire-de-lafd-une-onde-de-choc-en-allemagne-qui-fait-trembler-la-france-20260907_AMN2XFSRBFAUTMOLRZY4XQHJUM/",
-      "summary": "Applaudi par les deux nations sans qui la défaite du nazisme aurait été impossible en 1945, les Etats-Unis et la Russie, le score du parti d’extrême droite doit nous mettre en alerte sur la menace qui plane, en France, pour 2027.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-07T17:50:19+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "cf2ac4ee4fdd"
-    },
-    {
-      "title": "Nicolas Offenstadt, historien : «Ce vote a des raisons propres à l’Allemagne de l’Est, où ses citoyens se sentent “déclassés”»",
-      "url": "https://www.liberation.fr/idees-et-debats/nicolas-offenstadt-historien-ce-vote-a-des-raisons-propres-a-lallemagne-de-lest-ou-ses-citoyens-se-sentent-declasses-20260907_VCIW5UQDF5DOFIB5PSOWUUN7YA/",
-      "summary": "L’AfD profite de la montée en puissance de l’extrême droite en Europe et ailleurs mais aussi du rejet d’une coalition à gauche ou à droite, impuissante face aux enjeux économiques et sociaux, analyse le chercheur.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-09-07T17:47:33+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "eefc918b3a65"
-    },
-    {
-      "title": "A Saint-Paul-de-Vence, le «Davos du cinéma» suscite un malaise dans la profession",
-      "url": "https://www.liberation.fr/culture/cinema/a-saint-paul-de-vence-le-davos-du-cinema-suscite-un-malaise-dans-la-profession-20260907_IHA3VQVW6RAOPNCHFV4Y3RWSWA/",
-      "summary": "Ce lundi 7 septembre, un grand raout élyséen rassemble quelque 200 décideurs venus de 65 pays, tous réunis à la Fondation Maeght dans les Alpes-Maritimes, afin de disserter sur l’avenir du cinéma. Mais avec qui autour de la table ?",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-07T17:36:59+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "2f94295b4292"
-    },
-    {
-      "title": "Allemagne : la gauche pro-russe devenue faiseuse de roi",
-      "url": "https://www.liberation.fr/international/europe/allemagne-la-gauche-pro-russe-devenue-faiseuse-de-roi-20260907_EUCK4JSZQBFPHFP3FIGOMEAIIQ/",
-      "summary": "BSW, le petit parti aux positions hétéroclites, porté par sa fondatrice Sahra Wagenknecht, a entre ses mains l’avenir politique de la Saxe-Anhalt, après la victoire de l’AfD dimanche 6 septembre.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-07T17:32:02+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "aeb5dc4c00db"
-    },
-    {
-      "title": "99 % d’éclaboussures en moins : l’urinoir parfait existe, et la recherche en physique a aidé à le dénicher",
-      "url": "https://www.numerama.com/sciences/2326525-99-declaboussures-en-moins-lurinoir-parfait-existe-et-la-recherche-en-physique-a-aide-a-le-denicher.html",
-      "summary": "Le prix Ig Nobel de physique a été décerné à une équipe de scientifiques qui ont travaillé sur la question des urinoirs. Leur but : mettre la main sur la meilleure architecture qui empêche les éclaboussures.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-07T17:31:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "ab5d466d8b1b"
-    },
-    {
-      "title": "Grève et fermeture de la tour Eiffel après l’éviction du personnel féminin lors de la visite d’une délégation hindoue",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/07/greve-et-fermeture-de-la-tour-eiffel-apres-l-eviction-du-personnel-feminin-lors-de-la-visite-d-une-delegation-hindoue_6767984_3224.html",
-      "summary": "La Société d’exploitation de la tour Eiffel a déclaré que le groupe avait demandé que la visite soit organisée en limitant les « interactions avec les femmes » et a reconnu que « ces conditions n’auraient pas dû être acceptées ».",
-      "image": "https://img.lemde.fr/2026/09/07/476/0/5712/2856/644/322/60/0/1cab48d_ftp-1-5tbol5x2wpr3-2026-09-07t153349z-1266849540-rc2fenaobbkp-rtrmadp-3-france-eiffel-tower.JPG",
-      "published_at": "2026-09-07T19:27:01+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "b021499c5688"
     }
   ]
 }
