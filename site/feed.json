@@ -1,7 +1,227 @@
 {
-  "generated_at": "2026-09-14T18:30:44.185747+00:00",
+  "generated_at": "2026-09-14T22:24:20.113356+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Les Etats-Unis mettent fin aux limites d’émissions polluantes imposées aux centrales électriques",
+      "url": "https://www.lemonde.fr/planete/article/2026/09/15/les-etats-unis-mettent-fin-aux-limites-d-emissions-polluantes-imposees-aux-centrales-electriques_6773984_3244.html",
+      "summary": "La décision de l’administration Trump va à l’encontre des recommandations dans la lutte contre le changement climatique, et suscite l’inquiétude des experts et des associations environnementales.",
+      "image": "https://img.lemde.fr/2026/08/24/1440/0/8640/4320/644/322/60/0/897e825_ftp-1-tcbxqioz5iz5-3c0a8f69e0074ebb97ebe4af4330729b-2-734797f230b345a7b972301c636ec9b0.jpg",
+      "published_at": "2026-09-15T00:16:11+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "c61242ad20dc"
+    },
+    {
+      "title": "Le coup de main en milliard de dollars d’un géant bancaire chinois à Huawei",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/15/le-coup-de-main-en-milliard-de-dollars-d-un-geant-bancaire-chinois-a-huawei_6773951_4355770.html",
+      "summary": "Un virement de 1,3 milliard de dollars, effectué dans l’urgence par une filiale londonienne après l’inculpation de Huawei aux Etats-Unis début 2019, révèle l’inféodation de l’ICBC, leader bancaire chinois, à la ligne politique de Pékin, selon une enquête du Consortium international des journalistes d’investigation (ICIJ).",
+      "image": "https://img.lemde.fr/2026/09/14/250/0/3000/1500/644/322/60/0/8b8b695_upload-1-8mult6rjnmhn-icbc-01.jpg",
+      "published_at": "2026-09-15T00:01:13+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "fb076d37ece9"
+    },
+    {
+      "title": "L'administration Trump abroge les limites d'émissions polluantes imposées aux centrales électriques",
+      "url": "https://www.franceinfo.fr/environnement/l-administration-trump-abroge-les-limites-d-emissions-polluantes-imposees-aux-centrales-electriques_8192606.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le secteur énergétique représente près d'un quart des émissions de gaz à effet de serre des Etats-Unis, premier pollueur historique.",
+      "image": "https://www.franceinfo.fr/pictures/6hELkqSuEbNIish6vauc5mXUeSM/0x106:1024x682/432x243/filters:format(jpg)/2026/09/14/6aa86a7df300c321898486.jpg",
+      "published_at": "2026-09-14T23:51:46+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "a8beffd6ab42"
+    },
+    {
+      "title": "Violences dans le périscolaire : l'ex-ministre de l'Éducation Vincent Peillon regrette qu'il n'y ait pas de filière d'éducateurs",
+      "url": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire-l-ex-ministre-de-l-education-vincent-peillon-regrette-qu-il-n-y-ait-pas-de-filiere-d-educateurs_8192582.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'ex-ministre a reconnu que le budget obtenu à l'époque pour le périscolaire était \"ridicule\".",
+      "image": "https://www.franceinfo.fr/pictures/m6m2hpWLCL681lGqajgBLG2Bslw/0x12:1024x588/432x243/filters:format(jpg)/2026/09/14/6aa8601c034ed672059324.jpg",
+      "published_at": "2026-09-14T23:11:34+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "20d4689c526d"
+    },
+    {
+      "title": "\"On ne trouve pas le sommeil\" : des Marseillais excédés par les rodéos urbains, désormais traqués par drones par les policiers",
+      "url": "https://www.franceinfo.fr/marseille/on-ne-trouve-pas-le-sommeil-des-marseillais-excedes-par-les-rodeos-urbains-desormais-traques-par-drones-par-les-policiers_8192579.html#xtor=RSS-3-[lestitres]",
+      "summary": "À Marseille, des centaines de jeunes se retrouvent chaque jour sur une route de la ville, au guidon de motos souvent trafiquées. Des passages incessants sous les fenêtres d'habitants, parfois jusqu’à 3 heures du matin. Les riverains n’en peuvent plus. Face à ces nuisances, la police renforce ses contrôles, avec l’appui de drones.",
+      "image": "https://www.franceinfo.fr/pictures/rcQ85vr2jbm83baV0WRGV06nq5U/65x0:1433x770/432x243/filters:format(jpg)/2026/09/14/6aa85f89dd739057167471.jpg",
+      "published_at": "2026-09-14T22:57:00+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "4f75e5d535b4"
+    },
+    {
+      "title": "Le rappeur américain Macklemore écarté de la tournée d'Ed Sheeran après des propos pro-palestiniens",
+      "url": "https://www.franceinfo.fr/culture/musique/le-rappeur-americain-macklemore-ecarte-de-la-tournee-d-ed-sheeran-apres-des-propos-pro-palestiniens_8192549.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les propos du rappeur ont engendré des accusations d'antisémitisme et des appels sur les réseaux sociaux à le bannir de la tournée.",
+      "image": "https://www.franceinfo.fr/pictures/8AS3henWDM38tfhP5367LqFqMTw/0x106:1024x682/432x243/filters:format(jpg)/2026/09/14/6aa853fa69f5d959635522.jpg",
+      "published_at": "2026-09-14T22:36:54+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "8a74f9991af5"
+    },
+    {
+      "title": "Le mariage du fils de Donald Trump secrètement financé par un oligarque proche de Vladimir Poutine",
+      "url": "https://www.liberation.fr/international/amerique/le-mariage-du-fils-de-donald-trump-secretement-finance-par-un-oligarque-proche-de-vladimir-poutine-20260914_KP54KUGVTNEJNIWWUD3E5MT2Q4/",
+      "summary": "Selon le média d’investigation ProPublica, le Russe Umar Kremlev a dépensé des centaines de milliers de dollars pour cet événement. Il s’est déroulé en mai et comptait d’autres invités russes, d’après nos confrères.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-09-14T20:02:00+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "a1400048b2e0"
+    },
+    {
+      "title": "Le pape Léon XIV rétablit les salaires des cardinaux et des hauts responsables du Vatican au niveau pré-Covid",
+      "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-retablit-les-salaires-des-cardinaux-et-des-hauts-responsables-du-vatican-au-niveau-pre-covid_8192525.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette annonce s'inscrit dans un contexte financier plus favorable pour le Saint-Siège. Dans son dernier rapport annuel, la banque du Vatican a mis en avant une \"année record\".",
+      "image": "https://www.franceinfo.fr/pictures/1sbA1ogrJsRNWXMNNp9yCbFbD4o/0x0:1024x576/432x243/filters:format(jpg)/2026/09/14/6aa84eb4788ca315599063.jpg",
+      "published_at": "2026-09-14T21:58:06+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "8d20de0e57a5"
+    },
+    {
+      "title": "Hongrie : le gouvernement présente un projet de loi pour amender la législation anti-LGBT+ introduite par Viktor Orban",
+      "url": "https://www.lemonde.fr/international/article/2026/09/14/hongrie-le-gouvernement-presente-un-projet-de-loi-pour-amender-la-legislation-anti-lgbt-introduite-par-viktor-orban_6773884_3210.html",
+      "summary": "Le gouvernement de Péter Magyar propose d’aligner la législation hongroise sur le droit de l’UE en supprimant l’interdiction de la « promotion de l’homosexualité » auprès des mineurs.",
+      "image": "https://img.lemde.fr/2026/06/27/456/0/5500/2750/644/322/60/0/b3eb9ef_ftp-1-iynthuk1sjfx-2026-06-27t125200z-1929371101-rc2c2maykksh-rtrmadp-3-hungary-lgbt-pride.JPG",
+      "published_at": "2026-09-14T21:50:24+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "91722e968436"
+    },
+    {
+      "title": "La société en charge du chantier de l'autoroute A69 écope d'une amende pour des travaux réalisés hors du périmètre autorisé",
+      "url": "https://www.franceinfo.fr/environnement/crise-climatique/chantier-de-l-autoroute-a69/la-societe-en-charge-du-chantier-de-l-autoroute-a69-ecope-d-une-amende-pour-des-travaux-realises-hors-du-perimetre-autorise_8192480.html#xtor=RSS-3-[lestitres]",
+      "summary": "Atosca, le concessionnaire, a dit prendre \"acte\" de la décision, tout en estimant s'être conformé aux différents arrêtés préfectoraux et ordonnances.",
+      "image": "https://www.franceinfo.fr/pictures/MJsanHAAJbDiBiak-St3fAP-WE4/0x53:1024x629/432x243/filters:format(jpg)/2026/09/14/6aa8480f11fa8116634748.jpg",
+      "published_at": "2026-09-14T21:33:14+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "b92673a0153c"
+    },
+    {
+      "title": "Bob Mackie, le couturier flamboyant de Cher, est mort",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/09/14/bob-mackie-le-couturier-flamboyant-de-cher-est-mort_6773883_3382.html",
+      "summary": "Avec ses robes transparentes, ses plumes, ses perles et ses cristaux, il a largement façonné l’image spectaculaire de Cher. Leur collaboration a bousculé les codes.",
+      "image": "https://img.lemde.fr/2026/09/14/456/0/5472/2736/644/322/60/0/68918e6_ftp-1-tziuqvncdz88-2026-09-14t175427z-1328959775-rc25jnaj428i-rtrmadp-3-people-bob-mackie.JPG",
+      "published_at": "2026-09-14T21:20:40+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "e26428000783"
+    },
+    {
+      "title": "Reprise du conflit au Yémen : près de 94 000 déplacés, selon l’OIM",
+      "url": "https://www.lemonde.fr/international/video/2026/09/14/reprise-du-conflit-au-yemen-pres-de-94-000-deplaces-selon-l-oim_6773882_3210.html",
+      "summary": "Les rebelles pro-iraniens multiplient les assauts contre l’Arabie saoudite. Dans la semaine, ils avaient déjà consolidé leur emprise sur le détroit stratégique de Bab Al-Mandab.",
+      "image": "https://img.lemde.fr/2026/09/14/445/0/5335/2667/644/322/60/0/4abdb89_ftp-1-42diqcsjixfh-13aaaf4f905e4bccbd548a0aefbe3cb6-0-88016ca1daa1435397ea8284e3dd5e64.jpg",
+      "published_at": "2026-09-14T21:18:03+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "2c285c8cdb50"
+    },
+    {
+      "title": "Un Britannique admet avoir drogué et violé sa femme pendant plus de vingt ans",
+      "url": "https://www.liberation.fr/international/europe/un-britannique-admet-avoir-drogue-et-viole-sa-femme-pendant-plus-de-vingt-ans-20260914_TZF7RRCYWNFUDF4ICICZK3LUCQ/",
+      "summary": "Douze autres hommes sont accusés d’avoir agressé l’épouse alors qu’elle était inconsciente.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-09-14T19:17:03+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "328111447b3a"
+    },
+    {
+      "title": "La plainte de la mère de la petite Rosa visant Gérald Darmanin classée sans suite",
+      "url": "https://www.liberation.fr/societe/police-justice/la-plainte-de-la-mere-de-la-petite-rosa-visant-gerald-darmanin-classee-sans-suite-20260914_FLM2L3AMKNEBXNJXZLN5KY6MEI/",
+      "summary": "L’affaire Rosa est apparue dans la foulée de la mort de Lyhanna. Dans sa plainte, la mère de Rosa reprochait au ministre «de ne pas avoir mis l’institution judiciaire en mesure d’assurer un traitement efficace des plaintes relatives aux violences sexuelles sur mineurs, en dépit de dysfonctionnements d’ores et déjà identifiés en la matière».",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-09-14T19:05:52+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "531df5acd9e6"
+    },
+    {
+      "title": "Au Royaume-Uni, le gouvernement se prépare à nationaliser Speciality Steel, la troisième aciérie du pays",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/14/au-royaume-uni-le-gouvernement-se-prepare-a-nationaliser-speciality-steel-la-troisieme-acierie-du-pays_6773881_3234.html",
+      "summary": "Londres a renoncé à un rachat privé, solution jugée insuffisamment stable, et entend garder toutes les options ouvertes pour l’avenir de l’entreprise au plus de 1 300 salariés.",
+      "image": "https://img.lemde.fr/2026/09/14/300/0/5654/2827/644/322/60/0/4636599_upload-1-dd9clhclehbw-2025-09-04t105642z-1982429476-rc2xkgacceyz-rtrmadp-3-liberty-steel-britain.JPG",
+      "published_at": "2026-09-14T21:04:10+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "751f4123299b"
+    },
+    {
+      "title": "New York : fermeture d’une douzaine de sites de deepfakes pornographiques de célébrités",
+      "url": "https://www.liberation.fr/economie/economie-numerique/new-york-fermeture-dune-douzaine-de-sites-de-deepfakes-pornographiques-de-celebrites-20260914_BAGKNE7E5NA4LIPM5S3VSP7WPY/",
+      "summary": "Selon le procureur de New York, il s’agit de la plus importante saisie judiciaire de noms de domaine de sites consacrés à la pornographie illégale générée par IA.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-09-14T19:00:09+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "78527299d504"
+    },
+    {
+      "title": "Affaire Lyhanna : la plainte de la mère de la petite Rosa contre Gérald Darmanin classée sans suite",
+      "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-la-plainte-de-la-mere-de-la-petite-rosa-contre-gerald-darmanin-classee-sans-suite_8192453.html#xtor=RSS-3-[lestitres]",
+      "summary": "La mère de Rosa avait porté plainte, le 29 juin, auprès de la Cour de justice de la République, pour \"mise en danger délibérée de la vie d'autrui\" et \"non-assistance à personne en danger\".",
+      "image": "https://www.franceinfo.fr/pictures/FOC50J41UarhBYnKFjsby9Tf4C4/0x0:6192x3483/432x243/filters:format(jpg)/2026/09/14/6aa83ef505223539534462.jpg",
+      "published_at": "2026-09-14T20:57:38+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "03c9351e1e15"
+    },
+    {
+      "title": "Hongrie : premier signe clair et encourageant d’un changement de politique concernant les droits LGBT +",
+      "url": "https://www.liberation.fr/international/europe/hongrie-premier-signe-clair-et-encourageant-dun-changement-de-politique-concernant-les-droits-lgbt-20260914_FLSOFHLWLNDFRI4JO4VLFQZW7Q/",
+      "summary": "Le gouvernement de Peter Magyar a présenté un projet de loi supprimant des mesures prises sous Viktor Orban qui interdisaient la «promotion de l’homosexualité» auprès des mineurs.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-09-14T18:56:44+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "7f7923cd72cd"
+    },
+    {
+      "title": "Agression de trois jeunes étudiants à Strasbourg : le caractère antisémite des faits rejeté par le tribunal",
+      "url": "https://www.liberation.fr/societe/police-justice/agression-de-trois-jeunes-etudiants-a-strasbourg-le-caractere-antisemite-des-faits-rejete-par-le-tribunal-20260914_DK4LTD47OZDMXG5Y56XDBWIVL4/",
+      "summary": "L’audience concernant l’agression de trois jeunes gens juifs à Strasbourg fin janvier 2024 cristallise les tensions autour du conflit israélo-palestinien en France. Le tribunal condamne l’agression mais rejette le caractère antisémite des faits de violence.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-09-14T18:50:42+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "d84fb1d7577b"
+    },
+    {
+      "title": "\"J'ai peur de tomber en panne\" : 1 000 stations-service sont presque à sec en France",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/j-ai-peur-de-tomber-en-panne-1-000-stations-service-sont-presque-a-sec-en-france_8192459.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les prix des carburants continuent de grimper, mais faire le plein devient de plus en plus compliqué : 13 % des stations-service sont en rupture d’approvisionnement et manquent d’au moins un carburant. Chez TotalEnergies, le plafond des tarifs attire les automobilistes. Certaines cuves se vident avant même la livraison suivante.",
+      "image": "https://www.franceinfo.fr/pictures/GrsaLiF7g6our1faktP6P05p5ts/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/14/6aa840941833e196825575.jpg",
+      "published_at": "2026-09-14T20:46:36+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "f7bc413fab95"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Kiev se dit prêt à ne plus bombarder les infrastructures énergétiques russes, à condition d’une réciprocité de Moscou",
+      "url": "https://www.lemonde.fr/international/live/2026/09/14/en-direct-guerre-en-ukraine-kiev-se-dit-pret-a-ne-plus-bombarder-les-infrastructures-energetiques-russes-a-condition-d-une-reciprocite-de-moscou_6772184_3210.html",
+      "summary": "M. Zelensky a annoncé que l’Ukraine avait proposé à ses alliés de sécuriser un accord avec la Russie pour faire cesser ce type de bombardements à l’approche de l’hiver. Le dirigeant a toutefois précisé qu’il n’avait pas la certitude que la Russie ait la volonté de respecter un quelconque accord. Donald Trump a affirmé plus tôt dans la journée que Kiev et Moscou avaient accepté de cesser ces bombar",
+      "image": "https://img.lemde.fr/2026/08/27/665/0/8192/4096/644/322/60/0/6481dea_ftp-1-kyr1evi1qvhq-2026-08-27t145749z-1844829356-rc27wla06bna-rtrmadp-3-turkey-oil-russia-diesel.JPG",
+      "published_at": "2026-09-14T20:44:02+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "7a0ece1a95d4"
+    },
+    {
+      "title": "A Strasbourg, au procès de l’agression de trois étudiants juifs, des violences reconnues mais pas de caractère antisémite",
+      "url": "https://www.lemonde.fr/societe/article/2026/09/14/a-strasbourg-au-proces-de-l-agression-de-trois-etudiants-juifs-des-violences-reconnues-mais-pas-de-caractere-antisemite_6773880_3224.html",
+      "summary": "Deux jeunes femmes étaient jugées lundi 14 septembre pour l’agression, en janvier 2024, de trois étudiants juifs sur fond de conflit israélo-palestinien. Abandonnée au cours des investigations, la circonstance aggravante d’antisémitisme n’a pas été retenue à l’audience.",
+      "image": "https://img.lemde.fr/2026/07/28/250/0/3000/1500/644/322/60/0/da5aacb_upload-1-vhqfy6yrplr7-frame-1191.jpg",
+      "published_at": "2026-09-14T20:32:16+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "36b71fecf4e2"
+    },
     {
       "title": "A69 : le concessionnaire Atosca devra payer plus de 850 000 euros pour non-respect de ses obligations",
       "url": "https://www.liberation.fr/environnement/a69-le-concessionnaire-atosca-devra-payer-plus-de-850-000-euros-pour-non-respect-de-ses-obligations-20260914_CMBGII2ZD5GCNCOROW7WTRIOL4/",
@@ -78,229 +298,9 @@
       "summary": "Face aux attaques répétées contre l’Etat de droit de la part du candidat Les Républicains à l’élection présidentielle, Bruno Retailleau, l’ancien ministre libéral et l’avocat rappellent, dans une tribune au « Monde », que « rien n’autorise le peuple à fouler aux pieds les droits les plus sacrés des individus ».",
       "image": "https://img.lemde.fr/2026/02/25/245/0/1500/750/644/322/60/0/3c9f105_upload-1-ipiqrwsin5ch-frame-989.jpg",
       "published_at": "2026-09-14T20:00:10+02:00",
-      "source": "Le Monde Politique",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "5909c95bd1fa"
-    },
-    {
-      "title": "Préférence nationale : sur le logement, la «lubie xénophobe» de Marine Le Pen",
-      "url": "https://www.liberation.fr/societe/logement/preference-nationale-sur-le-logement-la-lubie-xenophobe-de-marine-le-pen-20260914_LVAI2OVBPRBV3ELWPP6BK3RNWQ/",
-      "summary": "Les solutions de sortie de crise du logement avancées par la cheffe de file du RN servent surtout à conforter sa base électorale sur le principe de préférence nationale, selon de nombreux acteurs du secteur.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-14T17:53:15+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "fcc139f24ffd"
-    },
-    {
-      "title": "Est-il vrai que «70 % des Français sont éligibles au parc social», mais «seulement 11 % en bénéficient», comme le dit Marine Le Pen ?",
-      "url": "https://www.liberation.fr/checknews/est-il-vrai-que-70-des-francais-sont-eligibles-au-parc-social-mais-seulement-11-en-beneficient-comme-le-dit-marine-le-pen-20260914_SXW5FDHVGFEAFBZA5BO5J34LJU/",
-      "summary": "Pour défendre sa «priorité nationale» dans le logement social, la candidate d’extrême droite s’appuie sur des chiffres sans rapport avec sa revendication.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-09-14T17:52:16+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "8791a3159f17"
-    },
-    {
-      "title": "Oasis annonce une tournée mondiale en 2027, avec deux concerts au Stade de France",
-      "url": "https://www.lemonde.fr/culture/article/2026/09/14/oasis-annonce-une-tournee-mondiale-en-2027-avec-deux-concerts-au-stade-de-france_6773876_3246.html",
-      "summary": "En raison d’une demande record, les fans doivent s’inscrire sur le site officiel du groupe avant jeudi 17 heures pour tenter d’obtenir un code d’accès à la billetterie. Les ventes s’ouvriront du 25 au 27 septembre en France, avec des places de 84 € à 249 €.",
-      "image": "https://img.lemde.fr/2026/09/14/480/0/5792/2896/644/322/60/0/9ddaa68_ftp-1-szdgng6mzwsx-2026-09-14t165800z-1773410198-rc2iena0o84c-rtrmadp-3-music-oasis.JPG",
-      "published_at": "2026-09-14T19:51:20+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "b7901457efb6"
-    },
-    {
-      "title": "Marine Le Pen consolide son ancrage chez les retraités, son obsession en vue de la présidentielle de 2027",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/14/marine-le-pen-consolide-son-ancrage-chez-les-retraites-son-obsession-en-vue-de-la-presidentielle-de-2027_6773875_823448.html",
-      "summary": "Le RN s’oppose aux pistes d’économie du gouvernement pour marquer son soutien aux retraités, qui lui ont jusqu’ici barré l’accès à l’Elysée. Cette défense de leur pouvoir d’achat va de pair avec un affichage de sérieux.",
-      "image": "https://img.lemde.fr/2026/09/13/250/0/3000/1500/644/322/60/0/8cd78d1_upload-1-2p26ungn3lrf-rn-meetingrentre-e-asurp-100418.jpg",
-      "published_at": "2026-09-14T19:47:44+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "4d0c848cbccf"
-    },
-    {
-      "title": "«Faire des choix cohérents avec mes convictions» : Sarah Saldmann annonce son départ de Cnews et d’Europe 1",
-      "url": "https://www.liberation.fr/economie/medias/faire-des-choix-coherents-avec-mes-convictions-sarah-saldmann-annonce-son-depart-de-cnews-et-deurope-1-20260914_TOIUW7NTNJDQDE4N37NBMYAZVE/",
-      "summary": "Dans un texte publié ce lundi 14 septembre sur X, l’avocate met directement en cause «l’importance prise par le média Frontières», site et magazine identitaire, sur les médias de Vincent Bolloré.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-09-14T17:45:29+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "2cea27a27723"
-    },
-    {
-      "title": "Fonction publique : le dispositif des ruptures conventionnelles pérennisé mais revu à la baisse",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/14/fonction-publique-le-dispositif-des-ruptures-conventionnelles-perennise-mais-revu-a-la-baisse_6773874_823448.html",
-      "summary": "Tout en maintenant le dispositif pour les fonctionnaires, le gouvernement a modifié les montants des indemnités pouvant être versées aux agents publics. Si l’administration défend une logique de « régulation » pour éviter certains « effets d’aubaine », les syndicats y voient une logique d’économies.",
-      "image": "https://img.lemde.fr/2026/06/08/254/0/3000/1500/644/322/60/0/b4b460d_upload-1-wykhohx83ubx-frame-165.jpg",
-      "published_at": "2026-09-14T19:34:59+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "84fded558444"
-    },
-    {
-      "title": "Avengers: Secret Wars : Thomas Jane tease-t-il le retour de son Punisher de 2004 ?",
-      "url": "https://www.numerama.com/pop-culture/2332891-avengers-secret-wars-thomas-jane-tease-t-il-le-retour-de-son-punisher-de-2004.html",
-      "summary": "Vingt-deux ans après avoir enfilé le célèbre t-shirt à la tête de mort, Thomas Jane prépare-t-il un retour dans le multivers Marvel en tant que Punisher ?",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-09-14T17:25:00+00:00",
-      "source": "Numerama",
-      "category": "Sport",
-      "id": "31be0d2d6a91"
-    },
-    {
-      "title": "Tourisme : les ONG qui luttent contre le dérèglement climatique dénoncent la course aux visiteurs étrangers en France",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/14/tourisme-les-ong-qui-luttent-contre-le-dereglement-climatique-denoncent-la-course-aux-visiteurs-etrangers-en-france_6773873_3234.html",
-      "summary": "Après avoir atteint le cap de 100 millions de touristes étrangers, le pays veut désormais accroître leurs recettes. Le Réseau action climat, qui regroupe plusieurs associations engagées dans lutte contre le réchauffement climatique, met en garde contre une stratégie coûteuse pour le climat et le pouvoir d’achat",
-      "image": "https://img.lemde.fr/2026/09/14/324/0/3916/1958/644/322/60/0/ea97007_upload-1-oebkzvpb0m6w-000-688v6zq.jpg",
-      "published_at": "2026-09-14T19:18:07+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "75acef52c17c"
-    },
-    {
-      "title": "«Sciences et Avenir» et «la Recherche» bientôt vendus au groupe Reworld par LVMH",
-      "url": "https://www.liberation.fr/economie/medias/sciences-et-avenir-et-la-recherche-bientot-vendus-au-groupe-reworld-par-lvmh-20260914_76QUOA2KERFJBE6TZ5T3SUNVQ4/",
-      "summary": "Les deux titres cédés par Claude Perdriel à Bernard Arnault en même temps que «Challenges» sont sur le point d’être rachetés par le groupe de presse magazine aux méthodes décriées.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-14T17:15:08+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "a47ae779a1e9"
-    },
-    {
-      "title": "iOS 27 est disponible sur iPhone : les 10 meilleures nouveautés à essayer dès maintenant",
-      "url": "https://www.numerama.com/tech/2332767-ios-27-est-disponible-sur-iphone-les-10-meilleures-nouveautes-a-essayer-des-maintenant.html",
-      "summary": "Après trois mois de bêta, iOS 27 est disponible au téléchargement sur tous les iPhone à partir de l'iPhone 11. En France, en l'absence de Siri AI, il faut se contenter de plus petites nouveautés comme un appareil photo personnalisable, le retour de la photothèque et un éditeur de photos avec IA. Voici les 10 nouveautés à tester en premier.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-14T17:12:52+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "339f2cccc294"
-    },
-    {
-      "title": "Donald Trump fustige une \"conspiration malsaine\" contre l'intelligence artificielle et s'en prend au patron d'Anthropic",
-      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/donald-trump-fustige-une-conspiration-malsaine-contre-l-intelligence-artificielle-et-s-en-prend-au-patron-d-anthropic_8192303.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le patron d'Anthropic Dario Amodei plaidait samedi pour une décélération qui permettrait de mieux appréhender les risques de l'intelligence artificielle.",
-      "image": "https://www.franceinfo.fr/pictures/qgECIHZnIx61bi9ZTOOBE-UJKFU/0x18:1024x594/432x243/filters:format(jpg)/2026/09/14/6aa81ef46753b052535552.jpg",
-      "published_at": "2026-09-14T19:12:39+02:00",
-      "source": "France Info",
-      "category": "Tech",
-      "id": "431c1ba1cd49"
-    },
-    {
-      "title": "Ukraine : Zelensky limoge le procureur général, accusé de corruption",
-      "url": "https://www.liberation.fr/international/europe/ukraine-zelensky-limoge-le-procureur-general-accuse-de-corruption-20260914_CODXYPKFGZA7ZFBZJVCUD5WXQI/",
-      "summary": "Rouslan Kravtchenko a répliqué en annonçant son intention «d’informer nos partenaires internationaux de la situation réelle au sein des autorités de lutte contre la corruption».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-14T17:11:52+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "3d77f2f106da"
-    },
-    {
-      "title": "Vladimir Poutine, un président bunkérisé dans une Russie mise sous cloche",
-      "url": "https://www.lemonde.fr/international/article/2026/09/14/vladimir-poutine-un-president-bunkerise-dans-une-russie-mise-sous-cloche_6773871_3210.html",
-      "summary": "« Le système Poutine » (1/3). Les pléthoriques « siloviki », ces officiers issus des services de sécurité, ont pris le pouvoir et sont omniprésents dans les élites. Dans la société, ils ont diffusé un climat de peur et de suspicion qui interdit toute remise en question du Kremlin et de la guerre en Ukraine.",
-      "image": "https://img.lemde.fr/2026/09/14/4/0/2126/1063/644/322/60/0/cba6560_upload-1-ou23dxti4rrk-lemonde-serie-poutine-300dpi-1-b.jpg",
-      "published_at": "2026-09-14T19:00:07+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "31c0c3821f12"
-    },
-    {
-      "title": "Aux Pays-Bas, la douleur des victimes du système de la protection de l’enfance en milieu fermé",
-      "url": "https://www.lemonde.fr/international/article/2026/09/14/aux-pays-bas-la-douleur-des-victimes-du-systeme-de-la-protection-de-l-enfance-en-milieu-ferme_6773870_3210.html",
-      "summary": "Pendant plus de trente ans, des dizaines de milliers d’enfants souffrant de graves problèmes psychiatriques ont été placés dans des institutions fermées. Le gouvernement néerlandais leur a présenté des excuses le 29 août, mais la fermeture de tous ces centres n’est pas prévue avant 2030.",
-      "image": "https://img.lemde.fr/2026/09/13/250/0/3000/1500/644/322/60/0/ec996bf_upload-1-8mouqwumpqez-l1121258-copy.JPG",
-      "published_at": "2026-09-14T18:57:52+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "8ca5ddbe4e3a"
-    },
-    {
-      "title": "«J’ai toujours voulu me suicider en emportant des gens avec moi» : l’auteur d’une attaque au sabre contre des migrants condamné",
-      "url": "https://www.liberation.fr/societe/immigration/jai-toujours-voulu-me-suicider-en-emportant-des-gens-avec-moi-lauteur-dune-attaque-au-sabre-contre-des-migrants-condamne-20260914_CEQJ6Q5EXFEIXBIVW6EDPZKHHU/",
-      "summary": "Transparent sur «sa haine des Africains, des musulmans et des Arabes», William M. était poursuivi pour s’en être pris à un camp de migrants, en 2021. Il comparaîtra de nouveau en février pour l’attaque d’un centre culturel kurde l’année suivante, qui a fait trois morts.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-09-14T16:40:04+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "24bc37e41b71"
-    },
-    {
-      "title": "Trump complotiste, Thales inquiet, les Bourses en baisse : les trois infos à retenir aujourd’hui sur l’IA et sa régulation",
-      "url": "https://www.liberation.fr/economie/economie-numerique/trump-complotiste-thales-inquiet-les-bourses-en-baisse-les-trois-infos-a-retenir-aujourdhui-sur-lia-et-sa-regulation-20260914_7MTXVOXCKRDZ7L2GGBVER4ILD4/",
-      "summary": "L’essentiel des informations du jour sur le patron de Thales appelle à la régulation, les marchés financiers se montrent frileux et Donald Trump crie au complot. Récapitulatif des dernières nouvelles.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-09-14T16:39:28+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "56b8628b1fe7"
-    },
-    {
-      "title": "Pollution : Donald Trump fait sauter le verrou climatique des centrales électriques",
-      "url": "https://www.liberation.fr/international/amerique/pollution-trump-fait-sauter-le-verrou-climatique-des-centrales-electriques-20260914_DA7ZJBBT2VBOFB5U43RFYSTW4U/",
-      "summary": "L’Agence de protection de l’environnement s’apprête à supprimer les normes limitant les émissions de CO2 pour les centrales au charbon et au gaz. Un recul qui couronne la croisade climatosceptique et pro-fossile du président américain.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-14T16:38:59+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "0d7c7df34f06"
-    },
-    {
-      "title": "«La gentillesse à l’état pur» : au procès de l’assassinat de Federico Martín Aramburú, l’émouvante déposition des proches du rugbyman",
-      "url": "https://www.liberation.fr/societe/police-justice/la-gentillesse-a-letat-pur-au-proces-de-lassassinat-de-federico-martin-aramburu-lemouvante-deposition-des-proches-du-rugbyman-20260914_ZE7WPC7V3FHFLPKVZSSF4TNMCE/",
-      "summary": "Au sixième jour du procès de Loïk Le Priol et Romain Bouvier, les proches du rugbyman se sont employés à dépeindre un homme «solaire», au «grand cœur», fêtard mais pas bagarreur. Alors que l’émotion envahissait les proches du défunt, les accusés n’ont manifesté aucune réaction.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-09-14T16:35:57+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "b68092e4f83f"
-    },
-    {
-      "title": "La flambée des prix alimentaires et à la pompe attise la colère sociale en France",
-      "url": "https://www.liberation.fr/economie/la-flambee-des-prix-alimentaires-et-a-la-pompe-attise-la-colere-sociale-20260914_534MVB4NCNAG7ERJKJJDKZMEUM/",
-      "summary": "Partagés par d’anciens gilets jaunes et le mouvement Bloquons tout, les appels à se mobiliser contre l’envolée du coût de la vie affluent sur les réseaux sociaux, alors que les aides ciblées du gouvernement paraissent bien insuffisantes.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-14T16:33:48+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "3dc441867ae4"
-    },
-    {
-      "title": "« Une lubie xénophobe » : les propositions sur le logement de Marine Le Pen suscitent un tollé auprès de responsables politiques et d’associations",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/14/une-lubie-xenophobe-les-propositions-sur-le-logement-de-marine-le-pen-suscitent-un-tolle_6773868_823448.html",
-      "summary": "La priorité nationale dans le logement social et la suppression de la loi SRU proposées dimanche par la candidate du Rassemblement national inquiètent des responsables politiques de gauche et de droite et des associations.",
-      "image": "https://img.lemde.fr/2026/09/13/250/0/3000/1500/644/322/60/0/54407aa_upload-1-243ntc8kjb41-rn-meetingrentre-e-asurp-209146.jpg",
-      "published_at": "2026-09-14T18:29:39+02:00",
-      "source": "Le Monde Politique",
-      "category": "Société",
-      "id": "97275f195564"
-    },
-    {
-      "title": "Qui est Magdalena Andersson, la sociale-démocrate favorite pour être la prochaine Première ministre suédoise ?",
-      "url": "https://www.liberation.fr/international/europe/qui-est-magdalena-andersson-la-sociale-democrate-favorite-pour-etre-la-prochaine-premiere-ministre-suedoise-20260914_MTY67RCGABDR7MAKE6LCBNK5DU/",
-      "summary": "A la tête d’une alliance de gauche et du centre, l’économiste de 59 ans est pour l’instant donnée gagnante des élections législatives. Entre stabilité budgétaire et crédibilité économique, elle mène une politique parmi les plus «frugales» de l’Union européenne.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-14T16:28:37+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "a9b0318818a2"
-    },
-    {
-      "title": "Frédérique Galametz devient la première directrice de la rédaction de « L’Equipe »",
-      "url": "https://www.lemonde.fr/actualite-medias/article/2026/09/14/frederique-galametz-devient-la-premiere-femme-directrice-de-la-redaction-de-l-equipe_6773867_3236.html",
-      "summary": "Après trente ans de carrière à « L’Equipe », Frédérique Galametz prend seule les rênes de la rédaction, marquant une étape-clé dans l’histoire du journal sportif.",
-      "image": "https://img.lemde.fr/2026/09/14/464/0/5568/2784/644/322/60/0/3fd6311_upload-1-bowy2xn6ryay-000-32xe9aw.jpg",
-      "published_at": "2026-09-14T18:23:08+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "41d4d8406c94"
     }
   ]
 }
