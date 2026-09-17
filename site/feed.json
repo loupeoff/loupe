@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-09-16T22:02:46.448152+00:00",
+  "generated_at": "2026-09-17T00:20:41.118678+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Le Congrès américain adopte un nouveau paquet de sanctions contre la Russie et ses alliés",
+      "url": "https://www.lemonde.fr/international/article/2026/09/17/le-congres-americain-adopte-un-nouveau-paquet-de-sanctions-contre-la-russie-et-ses-allies_6775666_3210.html",
+      "summary": "Le projet de loi prévoit pour la première fois côté américain de s’en prendre à la flotte fantôme de la Russie et donne au président américain le pouvoir d’imposer des droits de douane sur les cinq principaux pays importateurs de gaz et de pétrole russes.",
+      "image": "https://img.lemde.fr/2026/09/16/572/0/6869/3434/644/322/60/0/7a5ed38_ftp-1-zsaaop03nird-2026-09-16t181645z-1617103859-rc2ekna42ybc-rtrmadp-3-usa-congress.JPG",
+      "published_at": "2026-09-17T02:17:36+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "c045e4276e0d"
+    },
+    {
+      "title": "Oscars 2027 : le film « Minotaure » va être proposé par la France pour concourir dans la catégorie meilleur film international",
+      "url": "https://www.lemonde.fr/culture/article/2026/09/17/oscars-2027-le-film-minotaure-va-etre-propose-par-la-france-pour-concourir-dans-la-categorie-meilleur-film-international_6775633_3246.html",
+      "summary": "La candidature française doit être envoyée à l’Académie des Oscars, qui annoncera le 21 janvier 2027 quels sont les nommés dans cette catégorie.",
+      "image": "https://img.lemde.fr/2026/09/16/701/0/1200/600/644/322/60/0/302906b_upload-1-0kgfrbvfipzk-f9dbbc962b3358af6569ec1739edfa54.jpeg",
+      "published_at": "2026-09-17T01:13:02+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "e8152c507cb4"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : le Congrès américain adopte un ensemble de sanctions contre la Russie",
+      "url": "https://www.lemonde.fr/international/live/2026/09/17/en-direct-guerre-en-ukraine-le-congres-americain-adopte-un-ensemble-de-sanctions-contre-la-russie_6772184_3210.html",
+      "summary": "Le projet de loi approuvé, après le Sénat, par la Chambre des représentants, mercredi, prévoit pour la première fois côté américain de s’en prendre à la flotte fantôme de la Russie. De son côté, l’Ukraine dit manquer de missiles pour ses F-16 et demande des livraisons d’urgence.",
+      "image": "https://img.lemde.fr/2026/09/16/688/0/8256/4128/644/322/60/0/07fbc89_ftp-1-4qxcpwhtsqnv-5107809-01-06.jpg",
+      "published_at": "2026-09-17T01:12:03+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "54de7d05f9e1"
+    },
+    {
+      "title": "Nice : Christian Estrosi visé par une enquête pour détournement de fonds publics après un signalement d’Eric Ciotti",
+      "url": "https://www.lemonde.fr/societe/article/2026/09/17/nice-christian-estrosi-vise-par-une-enquete-pour-detournement-de-fonds-publics-apres-un-signalement-d-eric-ciotti_6775567_3224.html",
+      "summary": "L’affaire avait déjà fait l’objet d’une plainte de l’association Transparence citoyenne, qui avait relevé plus de 312 000 euros de frais de représentation remboursés sans justificatif au profit de l’ancien maire (Horizons), entre 2016 et 2025.",
+      "image": "https://img.lemde.fr/2026/02/26/966/0/5793/2896/644/322/60/0/f2a36d9_ftp-1-wxgw3j8ixcjx-5298625-01-06.jpg",
+      "published_at": "2026-09-17T00:28:50+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "b1a32364ef26"
+    },
+    {
+      "title": "La banque en ligne britannique Revolut se dit victime d’« une escroquerie sophistiquée », des données clients compromises",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/16/la-banque-en-ligne-britannique-revolut-se-dit-victime-d-une-escroquerie-sophistiquee-des-donnees-clients-compromises_6775534_3234.html",
+      "summary": "Des pirates ont usurpé l’identité d’une agence gouvernementale pour obtenir des données sensibles de clients. Une enquête a été ouverte en Italie et le régulateur britannique de la protection des données examine des informations après un « signalement ».",
+      "image": "https://img.lemde.fr/2026/09/15/310/0/4726/2363/644/322/60/0/8de8e57_ftp-1-vyhouvc1vloj-2026-09-15t190605z-1378975226-rc2nnfatr1sn-rtrmadp-3-colombia-revolut.JPG",
+      "published_at": "2026-09-16T23:50:33+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "c84e0ca879dc"
+    },
     {
       "title": "Marine Le Pen souhaite \"interdire le voile\" islamique \"de manière progressive\"",
       "url": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-souhaite-interdire-le-voile-islamique-de-maniere-progressive_8196287.html#xtor=RSS-3-[lestitres]",
@@ -33,7 +83,7 @@
       "id": "0b39e8c0b220"
     },
     {
-      "title": "Israël et le Maroc vont ouvrir des ambassades dans leurs pays respectifs, annonce la diplomatie israélienne",
+      "title": "Israël et le Maroc vont ouvrir des ambassades dans leurs pays respectifs, annonce la diplomatie de l’Etat hébreu",
       "url": "https://www.lemonde.fr/international/article/2026/09/16/israel-et-le-maroc-vont-ouvrir-des-ambassades-dans-leur-pays-respectif-annonce-la-diplomatie-israelienne_6775501_3210.html",
       "summary": "Le ministère israélien a aussi annoncé que des accords économiques seraient conclus entre les deux pays, qui disposent de bureaux de liaison, avant la fin de 2026, ainsi qu’une extension des vols directs entre le Maroc et Israël.",
       "image": "https://img.lemde.fr/2026/09/09/311/0/3737/1868/644/322/60/0/8764821_ftp-1-wwjzg1thndut-5036851-01-06.jpg",
@@ -105,7 +155,7 @@
     {
       "title": "Christian Estrosi visé par une enquête pour détournement de fonds publics, après un signalement d’Eric Ciotti",
       "url": "https://www.liberation.fr/societe/police-justice/christian-estrosi-vise-par-une-enquete-pour-detournement-de-fonds-publics-apres-un-signalement-deric-ciotti-20260916_CMPVPGB33FDKDFJAVWEYEJSZKQ/",
-      "summary": "Le maire de Nice reproche à son prédécesseur et ennemi juré l’absence de justificatifs pour une partie de ses notes de frais, un écart évalué à 312 euros par l’association Transparence citoyenne.",
+      "summary": "Le maire de Nice reproche à son prédécesseur et ennemi juré l’absence de justificatifs pour une partie de ses notes de frais, un écart évalué à 312 000 euros par l’association Transparence citoyenne.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
       "published_at": "2026-09-16T20:00:53+00:00",
       "source": "Libération",
@@ -167,7 +217,7 @@
       "url": "https://www.lemonde.fr/politique/article/2026/09/16/prix-des-carburants-sebastien-lecornu-prolonge-les-aides-ciblees-jusqu-au-31-decembre_6775464_823448.html",
       "summary": "Emmanuel Macron a demandé, mercredi, en conseil des ministres, une « totale mobilisation » du gouvernement sur « l’approvisionnement » et la « maîtrise des prix » des carburants.",
       "image": "https://img.lemde.fr/2026/09/16/360/0/3744/1872/644/322/60/0/d027609_ftp-1-ur62rlxs4onh-5104477-01-06.jpg",
-      "published_at": "2026-09-16T21:27:02+02:00",
+      "published_at": "2026-09-16T21:26:58+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "3e61227b9c16"
@@ -251,56 +301,6 @@
       "source": "Libération",
       "category": "Société",
       "id": "d8fa1b80702c"
-    },
-    {
-      "title": "Démarchage téléphonique : une amende de 1,1 million d’euros infligée à l’opérateur Syma Mobile",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/16/demarchage-telephonique-une-amende-de-1-1-million-d-euros-infligee-a-l-operateur-syma-mobile_6775458_3234.html",
-      "summary": "L’opérateur, propriété du groupe Altice, a notamment été ciblé par la DGCCRF pour ne pas avoir saisi chaque mois l’organisme chargé de la gestion de la liste d’opposition au démarchage téléphonique, Bloctel.",
-      "image": "https://img.lemde.fr/2026/09/16/354/0/4252/2126/644/322/60/0/c8b4569_upload-1-9vdcfw0wmeit-maxnewsfrsix306403.jpg",
-      "published_at": "2026-09-16T20:35:13+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "3fb1a29fa1d8"
-    },
-    {
-      "title": "Héritage : pour 2027, la gauche et la droite se disputent la part du magot",
-      "url": "https://www.liberation.fr/economie/heritage-pour-2027-la-gauche-et-la-droite-se-disputent-la-part-du-magot-20260916_OPGM5NZYFBEWVDQRXBQBPHTPDU/",
-      "summary": "Face à la «grande transmission» des baby-boomers qui promet de faire exploser les inégalités de patrimoine en France, les candidats de gauche proposent de mettre davantage à contribution les plus grosses fortunes. Un repoussoir pour la droite et l’extrême droite.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-09-16T18:32:44+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "0d66fe468724"
-    },
-    {
-      "title": "Les eurodéputés de gauche réclament le retrait d’une exposition « anti-avortement » au Parlement européen",
-      "url": "https://www.lemonde.fr/international/article/2026/09/16/les-eurodeputes-de-gauche-reclament-le-retrait-d-une-exposition-anti-avortement-au-parlement-europeen_6775457_3210.html",
-      "summary": "L’exposition, mettant en avant le « miracle de la vie », s’inscrit « en réalité dans une campagne plus large opposée au droit à l’avortement », ont dénoncé Manon Aubry, Terry Reintke et Iratxe Garcia Perez, présidentes des groupes de gauche radicale, des Verts et des sociaux-démocrates à Strasbourg.",
-      "image": "https://img.lemde.fr/2026/09/16/627/0/7522/3761/644/322/60/0/652032d_upload-1-ojarvrjddlid-000-34pc8wd.jpg",
-      "published_at": "2026-09-16T20:32:09+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "65663a830b73"
-    },
-    {
-      "title": "Un syndicat de policiers dénonce des \"dérives managériales\" au sein du Groupe de sécurité de la présidence de la République",
-      "url": "https://www.franceinfo.fr/faits-divers/police/un-syndicat-de-policiers-denonce-des-derives-manageriales-au-sein-du-groupe-de-securite-de-la-presidence-de-la-republique_8196062.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le chef de ce service chargé de la protection d'Emmanuel Macron, un gendarme arrivé à ce poste en septembre 2025, est accusé de favoriser les militaires au détriment des policiers.",
-      "image": "https://www.franceinfo.fr/pictures/-unOXTxKE9zLn8d1Zm3O5JmullM/666x2706:3024x4032/432x243/filters:format(jpg)/2026/09/16/6aaadce2394e0994561423.jpg",
-      "published_at": "2026-09-16T20:30:23+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "a2caf81b9f76"
-    },
-    {
-      "title": "Violences sexuelles dans le périscolaire : à Paris, dix ans de failles et d’inertie",
-      "url": "https://www.liberation.fr/societe/education/violences-sexuelles-dans-le-periscolaire-a-paris-dix-ans-de-failles-et-dinertie-20260916_AJDXAB3PHBB4ZBGBLMVJQYTFWI/",
-      "summary": "Le maire de la capitale, Emmanuel Grégoire, sa prédécesseure Anne Hidalgo et l’ex-premier adjoint Patrick Bloche ont été entendus mardi et mercredi par les sénateurs après l’ouverture d’une mission d’information. Avec une question centrale : comment ont pu perdurer les défaillances, pourtant identifiées dès 2015 ?",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-16T18:27:37+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "9243f7b9b77f"
     }
   ]
 }
