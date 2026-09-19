@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-09-19T20:30:02.124210+00:00",
+  "generated_at": "2026-09-19T22:52:33.273700+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "L’Olympique lyonnais et le Paris FC prennent place sur le podium de Ligue 1",
+      "url": "https://www.lemonde.fr/sport/article/2026/09/20/l-olympique-lyonnais-et-le-paris-fc-prennent-place-sur-le-podium-de-ligue-1_6777878_3242.html",
+      "summary": "L’OL a surclassé Rennes (4-0) en lui infligeant sa première défaite de la saison en championnat, lors de la 5e journée, samedi. Le PFC a, lui, dominé Strasbourg (2-1) et confirmé ses ambitions. Le Mans et Toulouse ont signé leur première victoire.",
+      "image": "https://img.lemde.fr/2026/09/19/144/0/3240/1620/644/322/60/0/a09a3a1_ftp-1-0ouftc856y82-2026-09-19t191611z-191334251-up1em9j1hiy61-rtrmadp-3-soccer-france-ol-ren.JPG",
+      "published_at": "2026-09-20T00:37:39+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "11b93a9638b6"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : quatre civils tués dans une frappe russe dans l’oblast de Soumy",
+      "url": "https://www.lemonde.fr/international/live/2026/09/19/en-direct-guerre-en-ukraine-quatre-civils-tues-dans-une-frappe-russe-dans-l-oblast-de-soumy_6772184_3210.html",
+      "summary": "Une voiture a été prise pour cible, samedi, par un drone russe, a annoncé Oleh Hryhorov, chef de l’administration militaire régionale. Par ailleurs, on centre commercial de Dnipro a été en grande partie détruit par un incendie qui s’est déclaré à la suite des tirs de l’armée russe, faisant quatre blessés.",
+      "image": "https://img.lemde.fr/2026/09/19/174/0/4716/2358/644/322/60/0/16390b8_ftp-1-ok6yktmrrdxy-2026-09-19t170022z-1360989322-rc2hmnatnnse-rtrmadp-3-ukraine-crisis-attack-dnipro.JPG",
+      "published_at": "2026-09-19T23:22:01+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "faccd6586de1"
+    },
+    {
+      "title": "L'Olympique Lyonnais écrase Rennes, battu pour la première fois de la saison, et grimpe sur le podium",
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-1/l-olympique-lyonnais-ecrase-rennes-battu-pour-la-premiere-fois-de-la-saison-et-grimpe-sur-le-podium_8201060.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dans un match interrompu une dizaine de minutes pour une banderole insultante en fin de première mi-temps, l'OL a pris le meilleur sur les Bretons, samedi soir.",
+      "image": "https://www.franceinfo.fr/pictures/iNEQWG8cf1_o2_uBq8biynIAGJ0/0x663:6372x4248/432x243/filters:format(jpg)/2026/09/19/6aaef145622ae710205907.jpg",
+      "published_at": "2026-09-19T22:52:52+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "ce8294bfaa26"
+    },
     {
       "title": "Arabie saoudite : la coalition militaire accuse les houthistes d’avoir lancé un missile balistique sur Riyad",
       "url": "https://www.lemonde.fr/international/article/2026/09/19/arabie-saoudite-la-coalition-militaire-accuse-les-houthistes-d-avoir-lance-un-missile-balistique-sur-riyad_6777045_3211.html",
@@ -13,12 +43,22 @@
       "id": "ff8b13b2f744"
     },
     {
+      "title": "Combien devrait coûter l’organisation de la visite du pape en France ?",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/combien-devrait-couter-l-organisation-de-la-visite-du-pape-en-france_8201066.html#xtor=RSS-3-[lestitres]",
+      "summary": "La visite du Pape Léon XIV en France commencera vendredi 25 septembre. L’État se concentrant sur la sécurité, c’est l’Église de France qui aura la charge des dépenses d’organisation. La conférence des évêques de France a d'ailleurs lancé un appel aux donateurs. Quel sera le coût de cette visite ?",
+      "image": "https://www.franceinfo.fr/pictures/JGSJ8qdnM-corLv52OPRh2Im_KI/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/19/6aaee57b692d9774044279.jpg",
+      "published_at": "2026-09-19T21:47:31+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "6e23f0499b66"
+    },
+    {
       "title": "Présidentielle 2027 : Nicolas Dupont-Aignan candidat pour la quatrième fois",
       "url": "https://www.lemonde.fr/politique/article/2026/09/19/presidentielle-2027-nicolas-dupont-aignan-candidat-pour-la-quatrieme-fois_6777845_823448.html",
       "summary": "Le candidat souverainiste n’a jamais dépassé les 5 % au premier tour de la présidentielle.",
       "image": "https://img.lemde.fr/2022/03/14/727/0/3437/1719/644/322/60/0/9ec2d72_5749972-01-06.jpg",
       "published_at": "2026-09-19T21:27:57+02:00",
-      "source": "Le Monde Politique",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "4545d594627a"
     },
@@ -31,6 +71,16 @@
       "source": "Le Monde",
       "category": "Politique",
       "id": "a098421e04e4"
+    },
+    {
+      "title": "Catherine Ringer, célèbre voix des Rita Mitsouko, inhumée à Paris aux côtés de Fred Chichin",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/09/19/catherine-ringer-celebre-voix-des-rita-mitsouko-inhumee-a-paris-aux-cotes-de-fred-chichin_6777842_3382.html",
+      "summary": "La chanteuse, morte lundi des suites d’un cancer à l’âge de 68 ans, avait souhaité des obsèques dans la plus stricte intimité.",
+      "image": "https://img.lemde.fr/2026/09/19/417/0/5004/2502/644/322/60/0/21ac35d_ftp-1-qdeu4pcfyp31-5126826-01-06.jpg",
+      "published_at": "2026-09-19T21:03:21+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "095be21cac5d"
     },
     {
       "title": "Le Festival du « Monde » interroge la place des femmes dans la statuaire parisienne",
@@ -63,12 +113,22 @@
       "id": "3d590201444d"
     },
     {
+      "title": "Visite du pape Léon XIV : les préparatifs se poursuivent à une semaine de l'événement",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/visite-du-pape-leon-xiv-les-preparatifs-se-poursuivent-a-une-semaine-de-l-evenement_8201021.html#xtor=RSS-3-[lestitres]",
+      "summary": "Samedi 26 septembre, ils seront plus de 600 000 sur la place de la Concorde et sur les Champs-Elysées à Paris pour participer à la messe du pape Léon XIV. La veille, il sera au Stade de France puis se rendra à Lourdes et Metz. À une semaine du rendez-vous, les préparatifs se poursuivent.",
+      "image": "https://www.franceinfo.fr/pictures/T3GZ1GWcDwXi0u3D6TNuiePlL_c/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/19/6aaed6e6e5fac682410047.jpg",
+      "published_at": "2026-09-19T20:43:44+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "53a9c5888f2c"
+    },
+    {
       "title": "Présidentielle 2027 : Philippe Brun réclame d’être réintégré dans la primaire à gauche",
       "url": "https://www.lemonde.fr/politique/article/2026/09/19/presidentielle-2027-philippe-brun-reclame-d-etre-reintegre-dans-la-primaire-a-gauche_6777840_823448.html",
       "summary": "Le député en avait été exclu mercredi après des accusations de violence d’une militante. Il a également été suspendu du Parti socialiste à titre conservatoire.",
       "image": "https://img.lemde.fr/2026/09/16/270/0/3235/1617/644/322/60/0/1e3b055_ftp-1-myxnyiwsayvj-5105218-01-06.jpg",
       "published_at": "2026-09-19T20:40:06+02:00",
-      "source": "Le Monde Politique",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "206267e02c92"
     },
@@ -217,7 +277,7 @@
       "url": "https://www.lemonde.fr/intimites/article/2026/09/19/emma-heming-willis-sur-la-maladie-de-son-mari-bruce-willis-malgre-l-incapacite-a-communiquer-l-amour-est-la-je-sais-que-je-vivrai-la-suite-de-l-histoire-avec-lui_6777836_6190330.html",
       "summary": "A 67 ans, l’acteur américain apprenait souffrir de dégénérescence fronto-temporale. Près de quatre ans après le diagnostic, son épouse raconte comment elle a composé avec la maladie et son nouveau rôle d’aidante. Un récit qu’elle livre également dans un ouvrage, traduit en français au printemps.",
       "image": "https://img.lemde.fr/2026/09/10/540/0/1440/720/644/322/60/0/db1ad34_upload-1-cym4wnuommqi-bw-emma-1.jpeg",
-      "published_at": "2026-09-19T19:00:12+02:00",
+      "published_at": "2026-09-19T19:00:08+02:00",
       "source": "Le Monde",
       "category": "Culture",
       "id": "a1560b2ee631"
@@ -241,66 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "0db26620de9c"
-    },
-    {
-      "title": "A Paris, la Techno Parade monte le son contre la loi Ripost sur les troubles à l’ordre public",
-      "url": "https://www.lemonde.fr/culture/article/2026/09/19/a-paris-la-techno-parade-monte-le-son-contre-la-loi-ripost-sur-les-troubles-a-l-ordre-public_6777833_3246.html",
-      "summary": "Après deux ans d’absence, la manifestation festive a fait son retour, samedi après-midi, dans une ambiance bon enfant et avec comme leitmotiv quelques piques contre la loi adoptée cet été, qui sanctionne plus sévèrement les free-parties.",
-      "image": "https://img.lemde.fr/2026/09/19/388/0/5648/2824/644/322/60/0/b86b993_ftp-1-8izei7ywc7oh-5127662-01-06.jpg",
-      "published_at": "2026-09-19T18:44:57+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "ef34046bfd23"
-    },
-    {
-      "title": "Budget 2027 : \"La France a besoin de retrouver le chemin de la raison budgétaire\", défend Jordan Bardella",
-      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-politique-jean-louis-borloo-est-l-invite-d-honneur-des-universites-d-ete-du-modem-a-la-recherche-de-mecanos-de-la-republique_8199446.html#xtor=RSS-3-[lestitres]",
-      "summary": "Lors d'un déplacement, le président du RN a promis un \"contre budget\" avec l'ambition d'un \"nettoyage sans précédent\" des finances publiques.",
-      "image": "https://www.franceinfo.fr/pictures/914u7CQl0uqKWvQ2MNoJ_S8H0qc/0x0:6000x3375/432x243/filters:format(jpg)/2026/09/19/6aaeb74482031544030691.jpg",
-      "published_at": "2026-09-19T18:36:18+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "f47e06e92164"
-    },
-    {
-      "title": "Accord sur le Groenland : «Pour les Etats-Unis, c’est une reculade significative par rapport aux objectifs fixés par Trump»",
-      "url": "https://www.liberation.fr/international/europe/accord-sur-le-groenland-pour-les-etats-unis-cest-une-reculade-significative-par-rapport-aux-objectifs-fixes-par-trump-20260919_JWTRYIAECBEO5PEJLQDLTNT7FE/",
-      "summary": "Le chercheur en géopolitique Mikaa Blugeon-Mered estime que le deal annoncé par le président américain entérine en réalité un «rééquilibrage» du rapport de force avec le Danemark et le Groenland, au détriment de Washington.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-09-19T16:36:08+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "6da8b25d5324"
-    },
-    {
-      "title": "Ils prédisent l’apocalypse par l’IA, c’est quoi les AI doomers ?",
-      "url": "https://www.numerama.com/tech/2335869-ils-predisent-lapocalypse-par-lia-cest-quoi-les-ai-doomers.html",
-      "summary": "Né dans la culture meme d'internet, le terme « AI doomer » désigne aujourd'hui un véritable courant de pensée, porté jusque dans les plus grands laboratoires d'IA.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-19T16:32:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "737880c824e1"
-    },
-    {
-      "title": "CNN et deux autres médias empêchés d’entrer à la Maison Blanche",
-      "url": "https://www.liberation.fr/international/amerique/donald-trump-ne-veut-plus-a-la-maison-blanche-des-chaines-de-television-cnn-et-msnow-et-du-media-en-ligne-politico-20260918_U743ONYUORB7RJFCUWAQO3IBL4/",
-      "summary": "Cette décision spectaculaire arrive à un moment de grande difficulté politique pour Donald Trump, entre la flambée des prix des carburants et la guerre en Iran dont il n’arrive pas à trouver l’issue.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-09-19T16:19:57+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "890b848f5e13"
-    },
-    {
-      "title": "Le président de la Mutualité française appelle les parlementaires à \"réduire les taxes\" sur les complémentaires santé pour éviter une hausse des cotisations",
-      "url": "https://www.franceinfo.fr/economie/budget/le-president-de-la-mutualite-francaise-appelle-les-parlementaires-a-reduire-les-taxes-sur-les-complementaires-sante-pour-eviter-une-hausse-des-cotisations_8200919.html#xtor=RSS-3-[lestitres]",
-      "summary": "Invité sur franceinfo, Eric Chenut souligne que ces taxes \"sont passées en vingt ans de 400 millions d'euros à 7,5 milliards.\"",
-      "image": "https://www.franceinfo.fr/pictures/gyTLJHhwzDDKTnVfEK-JGEuStgk/0x270:5184x3186/432x243/filters:format(jpg)/2026/09/19/6aaeb53d50c75542939849.jpg",
-      "published_at": "2026-09-19T18:16:16+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "73731ebaaff2"
     }
   ]
 }
