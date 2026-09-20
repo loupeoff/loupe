@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-19T22:52:33.273700+00:00",
+  "generated_at": "2026-09-20T00:57:13.136122+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Saint-Pierre-et-Miquelon est bien « français », martèle sur place Emmanuel Macron, en réponse aux visées expansionnistes de Donald Trump",
+      "url": "https://www.lemonde.fr/international/article/2026/09/20/saint-pierre-et-miquelon-est-bien-francais-martele-sur-place-emmanuel-macron-en-reponse-aux-visees-expansionnistes-de-donald-trump_6777911_3210.html",
+      "summary": "Dès son arrivée sur place, le président a réaffirmé la souveraineté française sur l’unique territoire d’outre-mer situé dans l’Atlantique Nord, où il doit recevoir, dimanche, le premier ministre canadien, Mark Carney.",
+      "image": "https://img.lemde.fr/2026/09/19/684/0/8192/4096/644/322/60/0/236e6b2_ftp-1-d1b73n5jhuza-5130983-01-06.jpg",
+      "published_at": "2026-09-20T01:43:51+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "78606a8c1a94"
+    },
     {
       "title": "L’Olympique lyonnais et le Paris FC prennent place sur le podium de Ligue 1",
       "url": "https://www.lemonde.fr/sport/article/2026/09/20/l-olympique-lyonnais-et-le-paris-fc-prennent-place-sur-le-podium-de-ligue-1_6777878_3242.html",
@@ -37,7 +47,7 @@
       "url": "https://www.lemonde.fr/international/article/2026/09/19/arabie-saoudite-la-coalition-militaire-accuse-les-houthistes-d-avoir-lance-un-missile-balistique-sur-riyad_6777045_3211.html",
       "summary": "De fortes détonations ont retenti dans la matinée de samedi. Le royaume subit ces derniers jours la pression des combattants houthistes au Yémen, mais c’est la première fois que la capitale saoudienne est concernée par une alerte.",
       "image": "https://img.lemde.fr/2026/09/19/108/0/3446/1723/644/322/60/0/7adf73c_ftp-1-xqdddxajeh7r-2026-09-19t111353z-362501476-rc28mnaol58f-rtrmadp-3-iran-crisis-saudi-yemen.JPG",
-      "published_at": "2026-09-19T22:02:33+02:00",
+      "published_at": "2026-09-19T22:02:30+02:00",
       "source": "Le Monde",
       "category": "Politique",
       "id": "ff8b13b2f744"
@@ -291,16 +301,6 @@
       "source": "Le Monde Politique",
       "category": "Politique",
       "id": "e167b98747ae"
-    },
-    {
-      "title": "Logement : les APL seront «gelées» l’an prochain",
-      "url": "https://www.liberation.fr/societe/logement/logement-les-apl-seront-gelees-lan-prochain-20260919_U7MFJMS6EFH6LKSLRYWSXPOJ2A/",
-      "summary": "Les aides personnalisées au logement ne seront pas revalorisées l’an prochain, a annoncé le ministre du Logement, Vincent Jeanbrun, ce samedi. Un gel qui doit contribuer aux 54 milliards d’euros d’économies prévues dans le budget 2027.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-19T16:45:42+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "0db26620de9c"
     }
   ]
 }
