@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-09-20T21:25:08.548950+00:00",
+  "generated_at": "2026-09-21T00:06:20.351759+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "En Allemagne, le parti de Friedrich Merz essuie une défaite historique",
+      "url": "https://www.lemonde.fr/international/article/2026/09/21/en-allemagne-le-parti-de-friedrich-merz-essuie-une-defaite-historique_6778548_3210.html",
+      "summary": "Pour la première fois depuis 1949, l’union démocrate-chrétienne (CDU), parti du chancelier, est passée sous les 5 % lors d’un scrutin régional, dans le Land de Mecklembourg-Poméranie-Occidentale, seuil requis pour être représentée au Parlement régional.",
+      "image": "https://img.lemde.fr/2026/09/20/320/0/3808/1904/644/322/60/0/16d10b8_ftp-1-x4i0017anbib-2026-09-20t163345z-1842270819-rc24nnailtfm-rtrmadp-3-germany-election-berlin-merz.JPG",
+      "published_at": "2026-09-21T00:22:10+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "2a0b808a02ed"
+    },
+    {
+      "title": "Dans les Landes, le street-art ressuscite les légendes locales",
+      "url": "https://www.liberation.fr/forums/dans-les-landes-le-street-art-ressuscite-les-legendes-locales-20260921_55EIGUV6HVCUBJZTS7MNZZTHF4/",
+      "summary": "A travers ses peintures colorées, le duo d’artistes La RoyaL légendaire redonne vie aux contes et histoires populaires régionales et explore les liens entre le ciel et l’imaginaire landais.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-09-20T22:14:00+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "156a755d0459"
+    },
+    {
+      "title": "Elif Eralp, le nouveau visage de la gauche radicale, aux portes de Berlin",
+      "url": "https://www.lemonde.fr/international/article/2026/09/20/elif-eralp-le-nouveau-visage-de-la-gauche-radicale-aux-portes-de-berlin_6778515_3210.html",
+      "summary": "Die Linke est arrivé en tête des élections régionales dans la capitale allemande dimanche 20 septembre. Le fruit d’un renouvellement de ses dirigeants et d’une campagne inspirée des méthodes du sénateur américain Bernie Sanders.",
+      "image": "https://img.lemde.fr/2026/09/20/688/0/8256/4128/644/322/60/0/98128f3_ftp-1-vuiopgkaftsa-5138372-01-06.jpg",
+      "published_at": "2026-09-20T23:58:50+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "f5f0d4bd587a"
+    },
+    {
+      "title": "OM-PSG : le résumé du succès efficace mais peu enlevé des Parisiens au Vélodrome, pour le classique de la Ligue 1",
+      "url": "https://www.lemonde.fr/sport/article/2026/09/20/om-psg-le-resume-du-succes-efficace-mais-peu-enleve-des-parisiens-au-velodrome-pour-le-classique-de-la-ligue-1_6778482_3242.html",
+      "summary": "Après avoir été tenu muet par la défense marseillaise en première période, le Paris Saint-Germain a finalement su profiter des errances techniques de leurs rivaux pour s’imposer au Vélodrome (2-1), dimanche à Marseille.",
+      "image": "https://img.lemde.fr/2026/09/20/171/0/2300/1150/644/322/60/0/4180b40_ftp-1-j7ptywfr71nv-2026-09-20t202317z-2041271644-up1em9k1kmsre-rtrmadp-3-soccer-france-om-psg.JPG",
+      "published_at": "2026-09-20T23:17:07+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "f232ffaaf5a4"
+    },
     {
       "title": "L'Iran annonce la fermeture d'un centre culturel affilié à l'ambassade de France à Téhéran",
       "url": "https://www.franceinfo.fr/monde/iran/l-iran-annonce-la-fermeture-d-un-centre-culturel-affilie-a-l-ambassade-de-france-a-teheran_8201816.html#xtor=RSS-3-[lestitres]",
@@ -113,16 +153,6 @@
       "id": "50a81d5c180d"
     },
     {
-      "title": "Au Festival du Monde, une balade ornithologique pour apprendre à regarder les oiseaux de Paris",
-      "url": "https://www.lemonde.fr/festival/article/2026/09/20/au-festival-du-monde-une-balade-ornithologique-pour-apprendre-a-regarder-les-oiseaux-de-paris_6778415_4415198.html",
-      "summary": "Au Festival du Monde, dimanche 20 septembre, une promenade dans le au Jardin des plantes organisée par la Ligue pour la protection des oiseaux a permis aux festivaliers de découvrir les oiseaux qui peuplent la capitale.",
-      "image": "https://img.lemde.fr/2026/09/20/200/0/1600/800/644/322/60/0/ba864e8_upload-1-vbg6cmfeaiuc-photo-2026-09-20-19-31-06-1.jpg",
-      "published_at": "2026-09-20T21:00:09+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "f658a1b2fa6a"
-    },
-    {
       "title": "Emmanuel Macron sera interviewé jeudi à 20 heures sur France 2 et TF1",
       "url": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-sera-interviewe-jeudi-a-20-heures-sur-france-2-et-tf1_8202125.html#xtor=RSS-3-[lestitres]",
       "summary": "Le président répondra en direct aux questions des journalistes Caroline Roux et Gilles Bouleau",
@@ -163,9 +193,9 @@
       "id": "313b9890a965"
     },
     {
-      "title": "La France et le Canada vont « travailler à un rapprochement » sur plusieurs sujets, annonce Emmanuel Macron",
+      "title": "À Saint-Pierre-et-Miquelon, la France et le Canada plaident pour un rapprochement « profond »",
       "url": "https://www.lemonde.fr/international/article/2026/09/20/la-france-et-le-canada-vont-travailler-a-un-rapprochement-sur-plusieurs-sujets-annonce-emmanuel-macron_6778413_3210.html",
-      "summary": "Le président français a accueilli le premier ministre canadien à Saint-Pierre-et-Miquelon, unique territoire d’outre-mer situé dans l’Atlantique Nord.",
+      "summary": "« Nous croyons ensemble que nos pays sont deux grandes nations indépendantes et qui veulent le rester », a déclaré Emmanuel Macron, dimanche, au côté du premier ministre canadien Mark Carney, venu en voisin.",
       "image": "https://img.lemde.fr/2026/09/20/214/0/5500/2750/644/322/60/0/a543517_ftp-1-xyevodhit4k6-2026-09-20t150315z-1552513687-rc22nnabpe3k-rtrmadp-3-france-canada.JPG",
       "published_at": "2026-09-20T20:23:16+02:00",
       "source": "Le Monde",
@@ -271,36 +301,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "0caae8db4e3f"
-    },
-    {
-      "title": "Présidentielle : face aux bouleversements du monde, l’illusion du «pré carré» français",
-      "url": "https://www.liberation.fr/politique/presidentielle-face-aux-bouleversements-du-monde-lillusion-du-pre-carre-francais-20260920_MGBDF5WTSRFH5IKB7JX6SWANXY/",
-      "summary": "Inflation, agriculture, climat… Alors que l’influence des événements à l’étranger se fait sentir dans tous les aspects de nos vies, les candidats rechignent à placer l’international au cœur de leur campagne. Une grossière erreur.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-20T17:26:47+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "b6f8577b7776"
-    },
-    {
-      "title": "Budget 2027 : Sébastien Lecornu promet 5 milliards d’euros de plus aux collectivités locales",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/20/budget-2027-sebastien-lecornu-promet-5-milliards-d-euros-de-plus-aux-collectivites-locales_6778406_823448.html",
-      "summary": "Dans un courrier au Sénat, le premier ministre s’engage à ce que les dépenses des villes, départements et régions évoluent au même niveau que l’inflation, alors que celles de l’Etat seront « inférieures ». Mais l’engagement est jugé « flou » par certains élus.",
-      "image": "https://img.lemde.fr/2026/09/18/0/0/5681/2840/644/322/60/0/06890d9_ftp-1-z8tmubjf1a5i-5118590-01-06.jpg",
-      "published_at": "2026-09-20T19:24:01+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "165805417e92"
-    },
-    {
-      "title": "François Bayrou défend une primaire nébuleuse du « grand fleuve central » pour la présidentielle",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/20/francois-bayrou-defend-une-primaire-nebuleuse-du-grand-fleuve-central-pour-la-presidentielle_6778405_823448.html",
-      "summary": "L’ancien premier ministre a proposé, lors de l’université de rentrée de son parti, un calendrier pour organiser un scrutin ouvert afin de désigner un candidat unique allant de la gauche à la droite modérée d’ici à début 2027. Mais peu de ses invités du week-end comme des cadres du MoDem ne veulent, pour l’heure, de cette option.",
-      "image": "https://img.lemde.fr/2026/09/18/113/0/2048/1024/644/322/60/0/27799c5_upload-1-npqqk52qipjb-img-7516.JPG",
-      "published_at": "2026-09-20T19:07:56+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "cef29a3e64a8"
     }
   ]
 }
