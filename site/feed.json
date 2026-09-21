@@ -1,306 +1,306 @@
 {
-  "generated_at": "2026-09-21T13:54:24.032531+00:00",
+  "generated_at": "2026-09-21T19:16:20.761405+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Copier le code sans ouvrir le mail : Google s’attaque au geste de trop de la double authentification",
-      "url": "https://www.numerama.com/cyberguerre/2336985-copier-le-code-sans-ouvrir-le-mail-google-sattaque-au-geste-de-trop-de-la-double-authentification.html",
-      "summary": "Gmail affiche désormais un bouton qui copie en un appui le code de vérification reçu par e-mail, sans qu'on ait à ouvrir le message. Il est déployé sur Android et iOS, la version web n'est pas concernée pour l'instant.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-21T13:50:46+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "392991f7681e"
+      "title": "IA et médias : lettre à celles et ceux qui cliquent encore",
+      "url": "https://www.liberation.fr/economie/economie-numerique/ia-et-medias-lettre-a-celles-et-ceux-qui-cliquent-encore-20260922_KEH46RCVP5DCVIMRBFIVVL6GPY/",
+      "summary": "En trois ans, la manière dont nous vous informons a changé plus vite qu’avec l’arrivée du Web. Ce que l’intelligence artificielle fait aux rédactions est une chose. Ce que ça vous fait, à vous lecteurs, en est une autre.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-09-21T19:07:26+00:00",
+      "source": "Libération",
+      "category": "Tech",
+      "id": "1f247ed92e38"
     },
     {
-      "title": "Gazole, essence : visualisez à quel point les prix à la pompe ont explosé dans les stations-service depuis le début de la guerre au Moyen-Orient",
-      "url": "https://www.franceinfo.fr/economie/automobile/essence/carte-gazole-essence-visualisez-a-quel-point-les-prix-a-la-pompe-ont-explose-dans-les-stations-service-depuis-le-debut-de-la-guerre-au-moyen-orient_8202743.html#xtor=RSS-3-[lestitres]",
-      "summary": "Comparez les tarifs dans les points de vente près de chez vous à l'aide de notre carte actualisée en temps réel.",
-      "image": "https://www.franceinfo.fr/pictures/c3F9qTiCwjqTDrTDUoNOECCKPLY/0x0:3840x2160/432x243/filters:format(jpg)/2026/04/01/69cd1c9426bff044370046.jpg",
-      "published_at": "2026-09-21T15:49:58+02:00",
+      "title": "Crise des carburants : Edouard Philippe et Gabriel Attal ne veulent pas se faire rouler dessus",
+      "url": "https://www.liberation.fr/politique/crise-des-carburants-edouard-philippe-et-gabriel-attal-ne-veulent-pas-se-faire-rouler-dessus-20260921_3IUYWSIXK5C7VGLEZUBPDYGKXU/",
+      "summary": "Les candidats Renaissance et Horizons à la présidentielle voient leur campagne percutée par l’envolée des prix de l’essence. Et l’absence de marge de manœuvre budgétaire ramène les deux ex-Premiers ministres au bilan des quinquennats d’Emmanuel Macron.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-09-21T19:04:25+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "fd975f1e3832"
+    },
+    {
+      "title": "Crise des carburants : pour les Français comme pour le gouvernement, le stress monte d’un cran",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/crise-des-carburants-pour-les-francais-comme-pour-le-gouvernement-le-stress-monte-dun-cran-20260921_2ABFELDDEZEHLJJAE44XYR2JAA/",
+      "summary": "En attendant de nouvelles mesures du l’exécutif, promises pour ce mardi 22 septembre, l’augmentation du prix à la pompe angoisse les citoyens et handicape de nombreuses professions.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-09-21T18:51:17+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "21299a101521"
+    },
+    {
+      "title": "Le système électrique français a souffert pendant les canicules, mais \"sans mettre en difficulté\" l'approvisionnement",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-systeme-electrique-francais-a-souffert-pendant-les-canicules-mais-sans-mettre-en-difficulte-l-approvisionnement_8203424.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"La disponibilité du réseau de transport d'électricité est restée très bonne tout au long de l'été\", a rapporté l'entreprise publique RTE.",
+      "image": "https://www.franceinfo.fr/pictures/UkY4q3HAEFHUWZbo2zYzTqcBxmE/0x393:5000x3206/432x243/filters:format(jpg)/2026/09/21/6ab179474c12d885014341.jpg",
+      "published_at": "2026-09-21T20:51:09+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "d90f36fb9987"
+    },
+    {
+      "title": "Flambée du prix des carburants : «Comment continuer de travailler sans travailler à perte ?»",
+      "url": "https://www.liberation.fr/economie/social/flambee-du-prix-des-carburants-comment-continuer-de-travailler-sans-travailler-a-perte-20260921_5ERPRCTOBBD4TILU43GAKKUG44/",
+      "summary": "Alors que l’exécutif cherche la parade pour sortir de la crise, les prix à la pompe n’en finissent pas d’alimenter la colère des Français. De nombreuses professions sont dans le rouge vif, et notamment les infirmières et les aides à domicile, grandes oubliées à ce jour des mesures de soutien, qui craignent une dégradation du service rendu.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-09-21T18:49:27+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "329ec2add1b0"
+    },
+    {
+      "title": "\"Ce sont des choses qu’on voit de plus en plus\" : sur Booking.com, des annonces frauduleuses piègent les clients",
+      "url": "https://www.franceinfo.fr/economie/enquete-francetv-ce-sont-des-choses-qu-on-voit-de-plus-en-plus-sur-booking-com-des-annonces-frauduleuses-piegent-les-clients_8203433.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le géant de la réservation de logements en ligne assure, de son côté, que toute annonce suspecte est suspendue dans les 24 heures.",
+      "image": "https://www.franceinfo.fr/pictures/FFC087qHirPnyFDJ1o2k1AZvgsE/0x456:4375x2917/432x243/filters:format(jpg)/2026/09/21/6ab16d7e60bd1000835597.jpg",
+      "published_at": "2026-09-21T20:45:30+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "fa8ccabcb316"
+    },
+    {
+      "title": "A Clairefontaine, Zinédine Zidane dirige son premier entraînement avec les Bleus",
+      "url": "https://www.franceinfo.fr/sports/foot/zinedine-zidane/a-clairefontaine-zinedine-zidane-dirige-son-premier-entrainement-avec-les-bleus_8203565.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le nouveau sélectionneur a dirigé lundi sa première séance avec les Bleus. Douze joueurs étaient présents sur le terrain Platini, dans une atmosphère particulièrement calme.",
+      "image": "https://www.franceinfo.fr/pictures/s65_m85Xjjl5lXwu_lKNYmQj6Cg/0x0:6000x3375/432x243/filters:format(jpg)/2026/09/21/6ab17736d2ef9294742216.jpg",
+      "published_at": "2026-09-21T20:39:57+02:00",
       "source": "France Info",
       "category": "Politique",
-      "id": "317c451cdceb"
+      "id": "b367d218e5f1"
     },
     {
-      "title": "Le Consortium international des journalistes d’investigation s’inquiète de la disparition d’un de ses enquêteurs à Djibouti",
-      "url": "https://www.lemonde.fr/afrique/article/2026/09/21/le-consortium-international-des-journalistes-d-investigation-s-inquiete-de-la-disparition-d-un-de-ses-enqueteurs-a-djibouti_6779171_3212.html",
-      "summary": "Le journaliste sud-africain Micah Reddy et son fixeur local Kooki Mahmood n’ont pas donné de nouvelles depuis samedi. Leur employeur redoute qu’ils aient été arrêtés par les services de sécurité djiboutiens.",
-      "image": "https://img.lemde.fr/2026/09/21/60/0/1920/960/644/322/60/0/4875be5_upload-1-kjjq1ic5ox5q-icij-micah-reddy.jpg",
-      "published_at": "2026-09-21T15:48:54+02:00",
-      "source": "Le Monde",
+      "title": "Economies sur la fonction publique, taxe «modérée» des patrimoines : les pistes de la Cour des comptes pour redresser les finances publiques",
+      "url": "https://www.liberation.fr/economie/social/economies-sur-la-focntion-publique-taxe-moderee-des-patrimoines-les-pistes-de-la-cour-des-comptes-pour-redresser-les-finances-publiques-20260921_ZSH2O463DBDXFFBIAJA7BEWYHA/",
+      "summary": "Dans une note publiée ce lundi 21 septembre, l’instance dirigée par l’ex-ministre macroniste Amélie de Montchalin, chargée de veiller à la bonne tenue des comptes publics, a évoqué deux pistes de réflexion dans l’optique de ramener le déficit public à 3 % du PIB en 2029.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-09-21T18:33:47+00:00",
+      "source": "Libération",
       "category": "Politique",
-      "id": "98b7fd313ada"
+      "id": "95eb7aeb8aa7"
     },
     {
-      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky devrait rencontrer Donald Trump mardi à New York",
-      "url": "https://www.lemonde.fr/international/live/2026/09/21/en-direct-guerre-en-ukraine-volodymyr-zelensky-devrait-rencontrer-donald-trump-mardi-a-new-york_6777944_3210.html",
-      "summary": "Le président ukrainien doit rencontrer son homologue américain mardi après-midi, en marge de l’Assemblée générale des Nations unies, selon l’Agence France-Presse.",
-      "image": "https://img.lemde.fr/2026/09/18/581/0/6963/3481/644/322/60/0/11226ab_ftp-1-cc72y6bajiu6-5122276-01-06.jpg",
-      "published_at": "2026-09-21T15:46:00+02:00",
-      "source": "Le Monde",
+      "title": "Friedrich Merz lutte pour sa survie politique après la débâcle de la CDU : « La politique fédérale a joué un rôle majeur, et ma personne également »",
+      "url": "https://www.lemonde.fr/international/article/2026/09/21/friedrich-merz-lutte-pour-sa-survie-politique-apres-la-debacle-de-la-cdu-la-politique-federale-a-joue-un-role-majeur-et-ma-personne-egalement_6779301_3211.html",
+      "summary": "Refusant d’endosser seul la responsabilité des défaites de son parti aux élections régionales des 6 et 20 septembre, le chancelier allemand n’entend pas quitter ses fonctions et a promis de rouvrir les discussions sur les réformes avec son partenaire de coalition, le Parti social-démocrate.",
+      "image": "https://img.lemde.fr/2026/09/21/457/0/5418/2709/644/322/60/0/961f429_ftp-1-ydor3uw6pp5y-5145475-01-06.jpg",
+      "published_at": "2026-09-21T20:30:20+02:00",
+      "source": "Le Monde Inter",
       "category": "Politique",
-      "id": "687ff0eca25e"
+      "id": "9b4c5cf046ef"
     },
     {
-      "title": "Flambée des prix des carburants : une deuxième réunion à Matignon organisée sur \"l'accompagnement à court et moyen terme\" des Français",
+      "title": "Des volets et des brasseurs d’air pour le logement social : après les canicules de l’été, un plan d’urgence d’adaptation proposé par les bailleurs sociaux",
+      "url": "https://www.lemonde.fr/societe/article/2026/09/21/des-volets-et-des-brasseurs-d-air-pour-le-logement-social-apres-les-canicules-de-l-ete-un-plan-d-urgence-d-adaptation-propose-par-les-bailleurs-sociaux_6779338_3224.html",
+      "summary": "L’Union sociale pour l’habitat, qui organise de mardi à jeudi le congrès des HLM à Bordeaux, souhaite voir installés au plus vite des équipements, en profitant des chantiers de rénovation thermiques déjà lancés et en ciblant les régions les plus touchées par les fortes chaleurs.",
+      "image": "https://img.lemde.fr/2026/09/21/801/0/1969/984/644/322/60/0/d54d935_upload-1-bstntyvikus6-032-millerand-5h9a3285.jpg",
+      "published_at": "2026-09-21T20:30:06+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "06ff4a17fccb"
+    },
+    {
+      "title": "Procès de l’assassinat d’Aramburú : le principal accusé, Loïk Le Priol, assure être «celui qui a été agressé»",
+      "url": "https://www.liberation.fr/societe/police-justice/proces-de-lassassinat-daramburu-le-principal-accuse-loik-le-priol-assure-etre-celui-qui-a-ete-agresse-20260921_KWFI4LRE4VHOBFJCQ5JQMBG4HQ/",
+      "summary": "Au onzième jour d’audience, le militant identitaire a livré sa vérité à la barre : celle d’un ancien commando qui «assume» mais se présente en victime, jusqu’à nier l’évidence des images et son propre parcours dans l’extrême droite.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-09-21T18:07:40+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "65ed143c10af"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir intercepté 45 drones ukrainiens en douze heures",
+      "url": "https://www.lemonde.fr/international/live/2026/09/21/en-direct-guerre-en-ukraine-la-russie-affirme-avoir-intercepte-45-drones-ukrainiens-en-douze-heures_6777944_3210.html",
+      "summary": "Des attaques de drones ont fait deux blessés lundi dans l’oblast russe de Briansk, a annoncé le gouverneur par intérim de la région.",
+      "image": "https://img.lemde.fr/2026/09/21/351/0/2970/1485/644/322/60/0/a6cd65c_ftp-1-cmuqm2c0wqg6-2026-09-21t152439z-834062788-rc2qmnaq063v-rtrmadp-3-ukraine-crisis-russia-refinery-moscow.JPG",
+      "published_at": "2026-09-21T20:04:48+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "7231be1be025"
+    },
+    {
+      "title": "Flambée des prix des carburants : le gouvernement présentera de nouvelles aides lors d'une conférence de presse mardi à 17 heures",
       "url": "https://www.franceinfo.fr/economie/automobile/essence/direct-flambee-des-prix-des-carburants-deux-reunions-se-tiennent-a-matignon-lundi-pour-evoquer-la-crise-energetique_8202515.html#xtor=RSS-3-[lestitres]",
-      "summary": "Une première réunion a eu lieu lundi matin avec des directeurs d'administrations centrales, au sujet des approvisionnements en pétrole et en gaz, perturbés par la guerre au Moyen-Orient.",
-      "image": "https://www.franceinfo.fr/pictures/sChEPTsrJ1q3iAzKiZuGSB2oqp0/0x0:913x513/432x243/filters:format(jpg)/2026/09/21/6ab12ceb5f976131983355.jpg",
-      "published_at": "2026-09-21T15:44:45+02:00",
+      "summary": "Les ministres se sont réunis, dans l'après-midi, pour réfléchir à \"l'accompagnement à court et moyen terme\" des Français.",
+      "image": "https://www.franceinfo.fr/pictures/AbLoiy4B6hnhbTkDzNii9RYsVlY/0x0:7640x4297/432x243/filters:format(jpg)/2026/09/21/6ab15f5e02280401990105.jpg",
+      "published_at": "2026-09-21T20:04:33+02:00",
       "source": "France Info",
       "category": "Politique",
       "id": "a124725f1a6e"
     },
     {
-      "title": "Les autorités japonaises appellent 1,6 million de personnes à évacuer à l'approche du typhon Dujuan",
-      "url": "https://www.franceinfo.fr/monde/japon/les-autorites-japonaises-appellent-1-6-million-de-personnes-a-evacuer-a-l-approche-du-typhon-dujuan_8203019.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le phénomène météo se trouvait lundi,à environ 130 kilomètres au sud de Katsuura, près de Tokyo, avec des vents atteignant 144 km/h.",
-      "image": "https://www.franceinfo.fr/pictures/Jh06AusnyDW0JOlnZn5kJ028fl0/0x0:1024x576/432x243/filters:format(jpg)/2026/09/21/6ab12912e5ad3601039312.jpg",
-      "published_at": "2026-09-21T15:36:20+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "83d1967ac0a9"
+      "title": "Le grand déclassement de l’automobile allemande",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/21/le-grand-declassement-de-l-automobile-allemande_6779304_3234.html",
+      "summary": "Chute des ventes et des bénéfices, plongeon boursier et suppressions de postes se multiplient au sein des groupes allemands, notamment chez Volkswagen. Lundi, le syndicat IG Metall a organisé plus de 280 rassemblements outre-Rhin pour la défense de l’emploi.",
+      "image": "https://img.lemde.fr/2026/09/21/684/0/8192/4096/644/322/60/0/5d809b6_upload-1-ljlmnnctnkgu-000-b9r44tb.jpg",
+      "published_at": "2026-09-21T20:03:49+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "ff89f789d342"
     },
     {
-      "title": "A Paris, une nouvelle cycliste meurt après une collision avec un camion",
-      "url": "https://www.liberation.fr/societe/police-justice/paris-une-cycliste-meurt-apres-une-collision-avec-un-camion-20260921_OJ2CQBGW6JCOVAGYBJYJC7TD6Q/",
-      "summary": "L’accident s’est produit ce lundi 21 septembre au matin au carrefour d’un pont enjambant la Seine. La victime est une femme de 57 ans. L’association Paris en selle met en cause un endroit «très dangereux» pour les cyclistes.",
+      "title": "Miguel Masaisai, qui traversait l’Afrique à vélo pour demander la fin de la guerre en RDC, est mort percuté par un camion",
+      "url": "https://www.lemonde.fr/afrique/article/2026/09/21/miguel-masaisai-qui-traversait-l-afrique-a-velo-pour-demander-la-fin-de-la-guerre-en-rdc-est-mort-percute-par-un-camion_6779298_3213.html",
+      "summary": "Le jeune homme, originaire de Goma, dans l’Est de la République démocratique du Congo, s’était fixé pour mission de pédaler jusqu’à Rabat, au Maroc, pour demander la fin de la guerre dans son pays. Son périple a pris fin sur une route du Congo-Brazzaville.",
+      "image": "https://img.lemde.fr/2026/09/21/640/0/1536/768/644/322/60/0/89671f3_upload-1-9njubbh50z1g-762916763-4899747373639749-2807984142406698788-n.jpg",
+      "published_at": "2026-09-21T20:01:38+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "7d6a7067ded4"
+    },
+    {
+      "title": "Les frères Gremaud, pour « Mon frère » au Théâtre du Rond-Point à Paris : « Les personnes qu’on étiquette non-valides n’ont pas d’autre choix que de résister »",
+      "url": "https://www.lemonde.fr/culture/article/2026/09/21/les-freres-gremaud-pour-mon-frere-au-theatre-du-rond-point-a-paris-les-personnes-qu-on-etiquette-non-valides-n-ont-pas-d-autre-choix-que-de-resister_6779303_3246.html",
+      "summary": "Dans leur spectacle « Mon frère », François et son cadet Christian, atteint de surdité, abordent avec une infinie tendresse le handicap. Un récit intime et politique à portée universelle dont ils expliquent la conception dans un entretien au « Monde ».",
+      "image": "https://img.lemde.fr/2026/07/09/78/0/1840/920/644/322/60/0/0f0194c_upload-1-w5fmxohsdwru-357182-6a4d05cf825b3.jpeg",
+      "published_at": "2026-09-21T20:00:05+02:00",
+      "source": "Le Monde",
+      "category": "Culture",
+      "id": "40a96248fedf"
+    },
+    {
+      "title": "À peine sorti, ce robot laveur Narwal à serpillière autonettoyante baisse déjà de prix",
+      "url": "https://www.numerama.com/tech/2337149-a-peine-sorti-ce-robot-laveur-narwal-a-serpilliere-autonettoyante-baisse-deja-de-prix.html",
+      "summary": "[Deal du jour] Lancé ce mois de septembre 2026, le Narwal Freo 20 Edge reprend le lavage à chenille de son grand frère (le Freo 20) dans une version plus accessible. Ce robot aspirateur laveur bénéficie déjà d’une réduction de 80 €.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+      "published_at": "2026-09-21T18:00:00+00:00",
+      "source": "Numerama",
+      "category": "Tech",
+      "id": "055b13473d7e"
+    },
+    {
+      "title": "Budget 2027 : la Cour des comptes relance l’idée d’un nouvel impôt sur la fortune",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/21/budget-2027-la-cour-des-comptes-relance-l-idee-d-un-nouvel-impot-sur-la-fortune_6779302_823448.html",
+      "summary": "Dans une nouvelle note, l’institution préconise, pour des raisons d’équité, de créer un impôt sur la fortune personnelle et demande à nouveau de réduire les avantages fiscaux du pacte Dutreil. Deux pistes écartées à ce stade par le premier ministre, Sébastien Lecornu, avant l’examen du budget au Parlement.",
+      "image": "https://img.lemde.fr/2026/09/21/464/0/5568/2784/644/322/60/0/b20a561_upload-1-q7eyiztbunrb-000-322r36m.jpg",
+      "published_at": "2026-09-21T19:56:54+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "48568ba3d6e5"
+    },
+    {
+      "title": "Nicolas Batum, ancien capitaine des Bleus du basket et champion d’Europe 2013, prend sa retraite à 37 ans",
+      "url": "https://www.liberation.fr/sports/nicolas-batum-ancien-capitaine-des-bleus-du-basket-et-champion-deurope-2013-prend-sa-retraite-a-37-ans-20260921_WTJWECWIDZEX7FLW4LVYTBUXGM/",
+      "summary": "L’ailier fort à la rigueur défensive reconnue, se retire des parquets après 18 saisons NBA, plus de 1 200 matchs et un des plus beaux CV en sélection. Il l’a annoncé ce lundi dans une vidéo publiée sur Instagram.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-09-21T17:55:28+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "485a26ad511b"
+    },
+    {
+      "title": "Présidentielle 2027 : les Ecologistes trancheront en décembre sur l’avenir de la candidature de Marine Tondelier",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/21/presidentielle-2027-les-ecologistes-trancheront-en-decembre-sur-l-avenir-de-la-candidature-de-marine-tondelier_6779300_823448.html",
+      "summary": "La candidature présidentielle portée par la secrétaire nationale des Verts est encore défendue par le parlement interne du parti, qui l’a confirmée le 21 septembre. Mais dans les rangs écologistes, rares sont ceux qui croient à une victoire finale sur cette ligne.",
+      "image": "https://img.lemde.fr/2026/09/18/949/0/8000/4000/644/322/60/0/3a69ca6_upload-1-kh5hygoz4a7e-jmug260918009.jpg",
+      "published_at": "2026-09-21T19:47:55+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "8f2f3a9a8d0d"
+    },
+    {
+      "title": "\"Dans un pur réflexe militaire, je prends mon arme et j'appuie\" : au procès de l'assassinat de Federico Martin Aramburu, Loïk Le Priol nie toujours la préméditation",
+      "url": "https://www.franceinfo.fr/faits-divers/assassinat-du-rugbyman-federico-martin-aramburu/dans-un-pur-reflexe-militaire-je-prends-mon-arme-et-j-appuie-au-proces-de-l-assassinat-de-federico-martin-aramburu-loik-le-priol-nie-toujours-la-premeditation_8202989.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'ancien militaire, principal accusé, s'est exprimé lundi sur les faits survenus le 19 mars 2022. Il a une nouvelle fois évoqué une situation de légitime défense devant la cour d'assises de Paris.",
+      "image": "https://www.franceinfo.fr/pictures/cm6yKEDa5brtPvgsRsxDXTKMTbQ/0x0:2464x1386/432x243/filters:format(jpg)/2026/09/21/6ab11e2c8f421855622683.jpg",
+      "published_at": "2026-09-21T19:43:24+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "ff45d50e5ddb"
+    },
+    {
+      "title": "Une explosion dans une usine classée Seveso a fait un blessé à Saint-Pierre-lès-Elbeuf, près de Rouen",
+      "url": "https://www.franceinfo.fr/france/normandie/seine-maritime/une-explosion-dans-une-usine-classee-seveso-a-fait-un-blesse-a-saint-pierre-les-elbeuf-pres-de-rouen_8203481.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Tout a été circonscrit rapidement grâce aux pompiers, il n'y a pas eu d'émanation, ni de confinement\", a précisé la mairie à France 3.",
+      "image": "https://www.franceinfo.fr/pictures/cgeJJ0rzWrqYo9g-d496590J6w0/0x250:4300x2669/432x243/filters:format(jpg)/2026/09/21/6ab16840e35c8501800710.jpg",
+      "published_at": "2026-09-21T19:42:47+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "e1f740c4fe8c"
+    },
+    {
+      "title": "Nicolas Batum, double vice-champion olympique de basket, prend sa retraite",
+      "url": "https://www.lemonde.fr/sport/article/2026/09/21/basket-nicolas-batum-double-vice-champion-olympique-prend-sa-retraite_6779299_3242.html",
+      "summary": "« Papa a fini de jouer au basket », a annoncé l’ancien capitaine des Bleus dans une vidéo tournée en partie avec son fils à Pont-l’Evêque (Calvados), rappelant ses « dix-huit ans en NBA » et « quinze ans en équipe de France ».",
+      "image": "https://img.lemde.fr/2021/08/05/0/0/4932/2466/644/322/60/0/32d9d26_5401807-01-06.jpg",
+      "published_at": "2026-09-21T19:36:57+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "21295d354a1f"
+    },
+    {
+      "title": "Google condamné en Irlande pour avoir enfreint les règles européennes sur les données de géolocalisation",
+      "url": "https://www.liberation.fr/economie/economie-numerique/google-condamne-en-irlande-pour-avoir-enfreint-les-regles-europeennes-sur-les-donnees-de-geolocalisation-20260921_D7X2ON2TTFG5LBB5IA4G4Z6F4U/",
+      "summary": "Huit ans après des plaintes d’associations de consommateurs, le géant américain a été condamné ce lundi 21 septembre à une amende de 403 millions d’euros.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-09-21T17:31:03+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "0fee99e40875"
+    },
+    {
+      "title": "Jacques Leveugle, soupçonné de viols et d'agressions sexuelles sur près de 80 mineurs, est mort en détention",
+      "url": "https://www.franceinfo.fr/faits-divers/jacques-leveugle-soupconne-de-viols-et-d-agressions-sexuelles-sur-pres-de-80-mineurs-est-mort-en-detention_8203505.html#xtor=RSS-3-[lestitres]",
+      "summary": "Un procès aurait dû se tenir en 2027, mais sa mort entraîne l'extinction des poursuites à son encontre.",
+      "image": "https://www.franceinfo.fr/pictures/eTnI2LNtw01Hu2qlVUd3aK9ebvA/0x93:1024x669/432x243/filters:format(jpg)/2026/09/21/6ab169abe5e44232396954.jpg",
+      "published_at": "2026-09-21T19:30:42+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "079881df4a91"
+    },
+    {
+      "title": "Le pédocriminel Joël Le Scouarnec sera-t-il «libérable» d’ici quatre ou cinq ans ?",
+      "url": "https://www.liberation.fr/checknews/le-pedocriminel-joel-le-scouarnec-sera-t-il-liberable-dici-quatre-ou-cinq-ans-20260921_EYKUPKHTHNGVLCNHORQKWICJUE/",
+      "summary": "Interrogée sur LCI, l’avocate d’une des victimes de l’ex-chirurgien affirme que «dans quelques années, Joël Le Scouarnec sera dehors».",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-09-21T17:30:12+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "461b57a51f77"
+    },
+    {
+      "title": "France Inter : au lendemain de l’éviction de Charles Sapin, le sentiment d’un «grand gâchis»",
+      "url": "https://www.liberation.fr/economie/medias/france-inter-au-lendemain-de-leviction-de-charles-sapin-le-sentiment-dun-grand-gachis-20260921_ZNL7TCCLURDHFGRJOW5QBRF324/",
+      "summary": "Loin de triompher après avoir obtenu gain de cause, syndicats et salariés de la radio, cibles de la droite et de l’extrême droite, déplorent ce lundi 21 septembre «une rentrée calamiteuse» qui aurait dû être évitée par la direction.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-09-21T17:25:26+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "22bc5a567edc"
+    },
+    {
+      "title": "Croix géante, «sainte tunique» et influenceurs : les catholiques identitaires font de l’entrisme autour de la visite de Léon XIV en France",
+      "url": "https://www.liberation.fr/societe/religions/croix-geante-sainte-tunique-et-influenceurs-les-catholiques-identitaires-font-de-lentrisme-autour-de-la-visite-de-leon-xiv-en-france-20260921_AJLQRFCXSFFYPDJLT4M6FTMV7Q/",
+      "summary": "Organisée et militante, la mouvance identitaire s’est mise en ordre de marche pour imprimer sa marque sur le voyage du pape dans l’Hexagone, vendredi 25 et samedi 26 septembre.",
       "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-09-21T13:33:32+00:00",
+      "published_at": "2026-09-21T17:22:53+00:00",
       "source": "Libération",
       "category": "Société",
-      "id": "74486445cec0"
+      "id": "ceb526c2038e"
     },
     {
-      "title": "Friedrich Merz, très fragilisé, défend le maintien de son gouvernement pour « l’avenir démocratique » de l’Allemagne",
-      "url": "https://www.lemonde.fr/international/article/2026/09/21/friedrich-merz-tres-fragilise-defend-le-maintien-de-son-gouvernement-pour-l-avenir-democratique-de-l-allemagne_6779165_3210.html",
-      "summary": "Le chancelier allemand, bien qu’ayant reconnu un « désastre » électoral de son parti, la CDU, aux élections régionales du Mecklembourg-Poméranie-Occidentale et de Berlin, dimanche, tente de contenir le débat concernant son avenir politique.",
-      "image": "https://img.lemde.fr/2026/09/21/0/36/8120/4060/644/322/60/0/6cf4df9_ftp-1-mqzu2htr5msi-5145232-01-06.jpg",
-      "published_at": "2026-09-21T15:26:45+02:00",
+      "title": "« Les compagnies aériennes iraniennes ne pourront plus fonctionner, partout dans le monde », dès le 23 septembre, déclare le Trésor américain",
+      "url": "https://www.lemonde.fr/international/article/2026/09/21/les-compagnies-aeriennes-iraniennes-ne-pourront-plus-fonctionner-partout-dans-le-monde-des-le-23-septembre-declare-le-tresor-americain_6779296_3210.html",
+      "summary": "Au début de septembre, le gouvernement américain a placé sur sa liste noire l’entièreté du secteur aérien iranien et a menacé de sanctionner toute organisation travaillant avec les compagnies aériennes d’Iran.",
+      "image": "https://img.lemde.fr/2026/09/21/506/0/5292/2646/644/322/60/0/d679552_ftp-1-ugnocu6spu3f-2026-09-21t132213z-2125814534-rc22nnaeaz0g-rtrmadp-3-usa-china-bessent.JPG",
+      "published_at": "2026-09-21T19:10:14+02:00",
       "source": "Le Monde",
       "category": "Politique",
-      "id": "bbfda43851c0"
+      "id": "0b9da56f0f0d"
     },
     {
-      "title": "Elections sénatoriales : comment ça marche ?",
-      "url": "https://www.liberation.fr/politique/elections/elections-senatoriales-comment-ca-marche-20260921_776AVTVZONBB3CGABOJU7DARAY/",
-      "summary": "Dimanche 27 septembre, la moitié des 348 sièges du Sénat sera renouvelée. Méconnu du grand public, ce scrutin indirect est pourtant d’importance dans le jeu politique et institutionnel.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-21T13:26:38+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "57622c1ae0be"
-    },
-    {
-      "title": "Comment expliquer les ruptures de carburants dans certains endroits de France ?",
-      "url": "https://www.franceinfo.fr/economie/transports/penurie-de-carburants/comment-expliquer-les-ruptures-de-carburants-dans-certains-endroits-de-france_8202836.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les taux de rupture en carburants des stations-service sont différents selon les départements et les régions. Il est, par exemple, assez élevé dans le Grand Est, alors que la Corse reste épargnée par des problèmes d'approvisionnement, selon des données officielles du gouvernement. Explications",
-      "image": "https://www.franceinfo.fr/pictures/ee0vYINC5okXenkhmSheFejrack/0x0:5776x3249/432x243/filters:format(jpg)/2026/09/21/6ab1272c7ed0c259508055.jpg",
-      "published_at": "2026-09-21T15:25:42+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "76adff3aba89"
-    },
-    {
-      "title": "Allemagne : accroché au radeau de ses réformes, Merz tente de ne pas sombrer",
-      "url": "https://www.liberation.fr/international/europe/allemagne-accroche-au-radeau-de-ses-reformes-merz-tente-de-ne-pas-sombrer-20260921_ILSQZ2E2EFGU3HMZKBS65IEVGA/",
-      "summary": "Malgré trois élections locales largement perdues en septembre et une impopularité record, le chancelier refuse de jeter l’éponge. Son seul salut d’après lui : faire passer d’ici Noël les «grandes réformes» promises aux Allemands il y a plus d’un an.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-21T13:21:47+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "6986808da3be"
-    },
-    {
-      "title": "Les médias CNN, MS NOW et Politico poursuivent l'administration Trump après leur exclusion de la Maison Blanche",
-      "url": "https://www.franceinfo.fr/monde/usa/les-medias-cnn-ms-now-et-politico-poursuivent-l-administration-trump-apres-leur-exclusion-de-la-maison-blanche_8202992.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Laisser faire ceci sans le contester menacerait la liberté de la presse et le droit du public à un journalisme indépendant et libre de toute pression du gouvernement\", ont-ils écrit lundi dans un communiqué commun.",
-      "image": "https://www.franceinfo.fr/pictures/LfN9YtTL1OLC8ChkunW1vlpsPzE/0x106:1024x682/432x243/filters:format(jpg)/2026/09/21/6ab11f3aafe5a208400535.jpg",
-      "published_at": "2026-09-21T15:20:42+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "c147de86a00e"
-    },
-    {
-      "title": "Les radios réclament qu’un récepteur FM et DAB+ soit obligatoire dans toutes les voitures neuves pour éviter un monopole du streaming",
-      "url": "https://www.lemonde.fr/actualite-medias/article/2026/09/21/les-radios-reclament-qu-un-recepteur-fm-et-dab-soit-obligatoire-dans-toutes-les-voitures-neuves_6779164_3236.html",
-      "summary": "Certains constructeurs, notamment américains ou chinois, ne proposent plus systématiquement l’accès à la radio dans l’équipement multimédia de leurs véhicules, mais seulement aux plateformes de streaming comme Spotify.",
-      "image": "https://img.lemde.fr/2026/09/21/459/0/5514/2757/644/322/60/0/8467600_upload-1-xibqd6k84iki-000-a2pk3we.jpg",
-      "published_at": "2026-09-21T15:19:54+02:00",
-      "source": "Le Monde",
-      "category": "Tech",
-      "id": "8e4adf836c6c"
-    },
-    {
-      "title": "Petite enfance : Stéphanie Rist annonce un plan d’urgence de 90 millions d’euros",
-      "url": "https://www.liberation.fr/societe/petite-enfance-stephanie-rist-annonce-un-plan-durgence-de-90-millions-deuros-20260921_DHKA7UURWJEZZPIPUPJR623RTA/",
-      "summary": "Etalées sur deux ans, les aides devraient notamment permettre, selon la ministre, de revaloriser le financement des crèches ainsi que les aides au démarrage perçues par les assistantes maternelles.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-21T13:19:17+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "29c105f8b79a"
-    },
-    {
-      "title": "Google lance officiellement ses Googlebook pour concurrencer les MacBook d’Apple",
-      "url": "https://www.numerama.com/tech/2336957-google-lance-officiellement-ses-googlebook-pour-concurrencer-les-macbook-dapple.html",
-      "summary": "Les premiers Googlebook sont officiels. Avec ces nouveaux ordinateurs portables, Google rapproche Android du PC et fait une grande place à Gemini. Modèles, prix et disponibilité : voici ce qu’il faut savoir avant d’en acheter un.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-09-21T13:15:00+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "2f29a4811ccb"
-    },
-    {
-      "title": "Un homme de 82 ans meurt après une bagarre pour un transat en Grèce",
-      "url": "https://www.franceinfo.fr/monde/grece/un-homme-de-82-ans-meurt-apres-une-bagarre-pour-un-transat-pres-d-athenes_8202911.html#xtor=RSS-3-[lestitres]",
-      "summary": "Une violente altercation autour d'un transat a coûté la vie à un octogénaire dimanche, sur une plage de la station balnéaire huppée près d'Athènes. Deux personnes ont été interpellées.",
-      "image": "https://www.franceinfo.fr/pictures/A83isWrT01dTH3j5mt8SYeXi7pI/0x52:1024x628/432x243/filters:format(jpg)/2026/09/21/6ab10eafc36db633099900.jpg",
-      "published_at": "2026-09-21T15:14:30+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "87951be14257"
-    },
-    {
-      "title": "Carburant : \"On ne veut pas d'aide\" aux gros rouleurs, mais une revalorisation des frais de déplacement \"tout de suite\", réclame le Collectif Infirmiers libéraux en colère",
-      "url": "https://www.franceinfo.fr/economie/automobile/essence/carburant-on-ne-veut-pas-d-aide-aux-gros-rouleurs-mais-une-revalorisation-des-frais-de-deplacement-tout-de-suite-reclame-le-collectif-infirmiers-liberaux-en-colere_8203046.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le prix du gazole atteignait 2,41 euros en moyenne dimanche en France, soit un nouveau record. Une flambée des prix qui impacte directement l'activité des infirmiers à domicile.",
-      "image": "https://www.franceinfo.fr/pictures/lPR72rwkNpSR2DkEZBp59MER78M/0x254:4930x3028/432x243/filters:format(jpg)/2026/09/21/6ab12c8ec21a2874040408.jpg",
-      "published_at": "2026-09-21T15:10:43+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "65236977fcda"
-    },
-    {
-      "title": "Les radios s’unissent pour pouvoir continuer à être écoutées dans les voitures",
-      "url": "https://www.liberation.fr/economie/medias/les-radios-sunissent-pour-pouvoir-continuer-a-etre-ecoutees-dans-les-voitures-20260921_44W5L4DUKBCHREXZXG2K7CCGME/",
-      "summary": "Certains constructeurs automobiles ne proposent plus, ou seulement en option, des récepteurs, privilégiant l’accés aux plateformes genre Spotify. Des stations publiques, privées et associatives s’inquiètent dans un communiqué commun et demandent que cet équipement soit obligatoire.",
+      "title": "Poursuivi pour violences sexuelles sur près de 90 mineurs, Jacques Leveugle est mort en détention",
+      "url": "https://www.liberation.fr/societe/police-justice/poursuivi-pour-violences-sexuelles-sur-pres-de-90-mineurs-jacques-leveugle-est-mort-en-detention-20260921_LZWFP6FHHVHN7GKYKIBV6GAURA/",
+      "summary": "Agé de 79 ans, il avait été mis en examen en 2024, après la découverte de ses mémoires, dans lesquels il avait noté les noms de ses victimes. Les crimes dont il est suspecté s’étalent de 1967 à 2022, dans de nombreux pays.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-09-21T13:03:03+00:00",
+      "published_at": "2026-09-21T17:06:23+00:00",
       "source": "Libération",
       "category": "Sport",
-      "id": "9e035cc428b8"
-    },
-    {
-      "title": "« La Chine contribue à la fonte polaire à travers ses émissions, dont elle se déclare la victime »",
-      "url": "https://www.lemonde.fr/idees/article/2026/09/21/la-chine-contribue-a-la-fonte-polaire-a-travers-ses-emissions-dont-elle-se-declare-la-victime_6779129_3232.html",
-      "summary": "Avec la « route polaire de la soie », la Chine offre à sa croissance de nouvelles voies commerciales rendues navigables par le réchauffement climatique auquel elle contribue massivement, analyse le chercheur Jean-Yves Heurtebise dans une tribune au « Monde ».",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/ec86958_upload-1-0mqtcvdezuwy-frame-1278.jpg",
-      "published_at": "2026-09-21T15:00:27+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "11026862f35d"
-    },
-    {
-      "title": "« Le marché obligataire rappelle à Donald Trump que le prix de l’argent ne se décrète pas »",
-      "url": "https://www.lemonde.fr/idees/article/2026/09/21/le-marche-obligataire-rappelle-a-donald-trump-que-le-prix-de-l-argent-ne-se-decrete-pas_6779128_3232.html",
-      "summary": "Les droits de douane pèsent sur les prix, le conflit avec l’Iran fait grimper les cours de l’énergie et les besoins de financement du gouvernement américain restent considérables. Tout cela finit par se traduire dans une même tendance : la hausse du taux d’intérêt à dix ans, explique Stéphane Lauer, éditorialiste au « Monde », dans sa chronique.",
-      "image": "https://img.lemde.fr/2026/09/16/1363/0/8177/4088/644/322/60/0/f452d12_ftp-1-5phoyvdlh5pp-5106127-01-06.jpg",
-      "published_at": "2026-09-21T15:00:12+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "b9132aaeaa2c"
-    },
-    {
-      "title": "En Asie, El Niño alimente une saison exceptionnelle de typhons « intenses et de longue durée », qui désorganise le transport maritime",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/21/en-asie-el-nino-alimente-une-saison-exceptionnelle-de-typhons-intenses-et-de-longue-duree-qui-desorganise-le-transport-maritime_6779127_3234.html",
-      "summary": "Le phénomène climatique engendre retards, paralysies et perturbations sans précédent dans les ports de la première région exportatrice du monde, qui se répercutent sur toute la chaîne logistique et font grimper les tarifs du fret.",
-      "image": "https://img.lemde.fr/2026/09/20/1094/0/8192/4096/644/322/60/0/1dcb7b5_upload-1-gikkyxeoaubn-035-2598009804673908742.jpg",
-      "published_at": "2026-09-21T15:00:10+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "3eae0b2e00d4"
-    },
-    {
-      "title": "\"Il ne s'agit ni plus ni moins que de l'avenir démocratique de notre pays\" : le chancelier allemand, Friedrich Merz, promet que son gouvernement restera en place",
-      "url": "https://www.franceinfo.fr/monde/europe/allemagne/il-ne-s-agit-ni-plus-ni-moins-que-de-l-avenir-democratique-de-notre-pays-le-chancelier-allemand-friedrich-merz-promet-que-son-gouvernement-restera-en-place_8202977.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Nous sommes résolus, ensemble, à être à la hauteur des défis historiques auxquels notre pays est confronté\", a déclaré le dirigeant allemand alors que l'AfD a appelé à sa démission, après sa nouvelle percée électorale de dimanche.",
-      "image": "https://www.franceinfo.fr/pictures/WpewZfe2xCCKwzPdr09fIv0c5vk/0x73:1024x649/432x243/filters:format(jpg)/2026/09/21/6ab1237059d5e476105416.jpg",
-      "published_at": "2026-09-21T14:58:44+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "678a62b75f75"
-    },
-    {
-      "title": "Éco-score des voitures électriques : une révision du calcul pourrait entraîner un vrai chamboule-tout",
-      "url": "https://www.numerama.com/vroom/2336955-eco-score-des-voitures-electriques-une-revision-du-calcul-pourrait-entrainer-un-vrai-chamboule-tout.html",
-      "summary": "Un projet de révision de l'éco-score est en réflexion au sein du gouvernement pour créer une troisième catégorie dédiée aux véhicules électriques 7 places. Ce cadeau pour les véhicules familiaux cache en réalité un durcissement assez lourd de conséquences pour les autres.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-21T12:55:19+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "ebcfa1d06e00"
-    },
-    {
-      "title": "Mais au fait, c’est quand l’automne ? Les 21, 22, 23 ou 24 septembre ?",
-      "url": "https://www.liberation.fr/sciences/mais-au-fait-cest-quand-lautomne-les-21-22-23-ou-24-septembre-20260921_6S65XHP5VFAP5MXO5G4GR2NTUU/",
-      "summary": "Ce mercredi, à 2 heures du matin, le Soleil sera pile en face de l’équateur. Comme lors de l’équinoxe de printemps, la durée de la nuit sera égale à celle du jour. «Libé» vous explique ce phénomène astronomique.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-09-21T12:54:24+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "718a8100ac2b"
-    },
-    {
-      "title": "Vade retro papanas, par Luc Le Vaillant",
-      "url": "https://www.liberation.fr/idees-et-debats/opinions/vade-retro-papanas-par-luc-le-vaillant-20260921_DJXIXL57JVHM7M2GEW7AEDFKHM/",
-      "summary": "Le catholicisme du débonnaire pape Léon, en visite en France, demeure une machine réactionnaire à même de séduire les identitaires paniqués comme les indifférents indolents.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-09-21T12:45:20+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "4433ffc44fa5"
-    },
-    {
-      "title": "Gaza : trois Palestiniens, dont un enfant, tués par des tirs israéliens",
-      "url": "https://www.lemonde.fr/international/article/2026/09/21/gaza-trois-palestiniens-dont-un-enfant-tues-par-des-tirs-israeliens_6779126_3210.html",
-      "summary": "Les services de secours du territoire palestinien font état de trois victimes lundi, dont un enfant de 11 ans mort après que des chars israéliens ont ouvert le feu sur des tentes dans le camp d’Al-Mawasi.",
-      "image": "https://img.lemde.fr/2026/09/19/684/0/8192/4096/644/322/60/0/bf6bff3_upload-1-ugq3ocy5suav-af4a3549.JPG",
-      "published_at": "2026-09-21T14:39:55+02:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "052732b73328"
-    },
-    {
-      "title": "Fabien Roussel et la Russie : un pacifisme dévoyé et une incompréhensible indulgence",
-      "url": "https://www.liberation.fr/politique/fabien-roussel-et-la-russie-un-pacifisme-devoye-et-une-incomprehensible-indulgence-20260921_AQL7XJCL5BEARFNPQCMQ7T2HWI/",
-      "summary": "On peut être hostile par principe à la guerre, sans être à deux doigts de réhabiliter Poutine et de faire de ses adversaires les principaux fauteurs de troubles, comme l’a fait le candidat PCF à la présidentielle ce lundi 21 septembre sur France Inter.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-09-21T12:25:16+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "16f2570eab44"
-    },
-    {
-      "title": "Les médias CNN, MS NOW et « Politico » poursuivent l’administration Trump après leur interdiction d’accès à la Maison Blanche",
-      "url": "https://www.lemonde.fr/international/article/2026/09/21/les-medias-cnn-ms-now-et-politico-poursuivent-l-administration-trump-apres-leur-interdiction-d-acces-a-la-maison-blanche_6779121_3210.html",
-      "summary": "Donald Trump avait annoncé, vendredi, une interdiction « avec effet immédiat » d’accéder à la Maison Blanche pour les journalistes de ces trois médias américains accrédités, les accusant d’écrire « de fausses histoires tout le temps ».",
-      "image": "https://img.lemde.fr/2026/09/20/333/0/4000/2000/644/322/60/0/928ada6_ftp-1-humyt04hqy7w-2026-09-20t175947z-1806072531-rc25nnalbqat-rtrmadp-3-usa-trump-media.JPG",
-      "published_at": "2026-09-21T14:15:22+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "41822e7f5e72"
-    },
-    {
-      "title": "Vous avez trop de réunions ? Ce petit badge qui enregistre et résume vos réunions grâce à l’IA perd 51 € pour la rentrée",
-      "url": "https://www.numerama.com/tech/2336825-vous-avez-trop-de-reunions-ce-petit-badge-qui-enregistre-et-resume-vos-reunions-grace-a-lia-perd-51-e-pour-la-rentree.html",
-      "summary": "[Deal du jour] Le Plaud NotePin, un petit enregistreur vocal qui transcrit et résume vos conversations avec l'IA, tombe à 118,90 € au lieu de 169,90 € sur le site de la marque.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-09-21T12:15:00+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "b3bceaa831b3"
-    },
-    {
-      "title": "Gemini a piraté trois entreprises mais Google ne parle pas de « désalignement »",
-      "url": "https://www.numerama.com/tech/2336627-gemini-a-pirate-trois-entreprises-mais-google-ne-parle-pas-de-desalignement.html",
-      "summary": "Lors d'un test mené en mai, Gemini s'est introduit chez trois entreprises en devinant des identifiants. Google a confirmé l'incident, en insistant sur les défaillances du test plutôt que sur le comportement du modèle.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-09-21T12:02:00+00:00",
-      "source": "Numerama",
-      "category": "Économie",
-      "id": "2dc5b6ef72a2"
+      "id": "8505b0cc46d0"
     }
   ]
 }
