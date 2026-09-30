@@ -1,16 +1,126 @@
 {
-  "generated_at": "2026-09-29T20:39:02.698895+00:00",
+  "generated_at": "2026-09-30T00:17:40.031059+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Aux Etats-Unis, la Cour suprême donne un nouveau feu vert à l’expulsion de sans-papiers vers des pays tiers",
+      "url": "https://www.lemonde.fr/international/article/2026/09/30/aux-etats-unis-la-cour-supreme-leve-de-nouveau-des-limites-aux-expulsions-de-sans-papiers-vers-des-pays-tiers_6785791_3210.html",
+      "summary": "L’instance à majorité conservatrice a accédé, mardi, à un recours de l’administration Trump qui lui demandait de suspendre une décision des juridictions inférieures, permettant ainsi d’expulser une personne en situation irrégulière vers un autre pays que le sien.",
+      "image": "https://img.lemde.fr/2026/09/29/687/0/8243/4121/644/322/60/0/ec616e9_ftp-1-nvmznllz0bp1-2026-09-29t100119z-1927729860-rc2hqnay7x58-rtrmadp-3-usa-court-term.JPG",
+      "published_at": "2026-09-30T01:31:06+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "71ff3e572282"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine | Lutte contre les drones à réaction russes, préparation à l’hiver… Ce que Kiev envisage pour les mois à venir",
+      "url": "https://www.lemonde.fr/international/live/2026/09/30/en-direct-guerre-en-ukraine-lutte-contre-les-drones-a-reaction-russes-preparation-a-l-hiver-ce-que-kiev-envisage-pour-les-mois-a-venir_6783795_3210.html",
+      "summary": "Volodymyr Zelensky veut accélérer la production de moyens permettant d’intercepter les drones à réaction russes et a fixé des objectifs précis pour octobre.",
+      "image": "https://img.lemde.fr/2026/09/17/880/0/5616/2808/644/322/60/0/3cc5edb_ftp-1-2bzcvoabkgdo-2026-09-17t100414z-1594700211-rc2nvlalyfwq-rtrmadp-3-usa-trump-nato-future.JPG",
+      "published_at": "2026-09-30T00:46:42+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "ec24cdc04419"
+    },
+    {
+      "title": "OpenAI pousse la logique des agents IA en proposant un genre de collaborateur virtuel actif « vingt-quatre heures sur vingt-quatre »",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/30/openai-pousse-la-logique-des-agents-ia-en-proposant-un-genre-de-collaborateur-virtuel-actif-vingt-quatre-heures-sur-vingt-quatre_6785725_3234.html",
+      "summary": "Dots, la fonctionnalité annoncée par la start-up lors d’une conférence mardi, rappelle la logique d’assistants IA capables de réaliser des tâches en continu, comme Muse de Meta ou OpenClaw.",
+      "image": "https://img.lemde.fr/2026/09/29/605/0/7260/3630/644/322/60/0/9d4899a_ftp-1-inl8cqj2u8zb-61f009c2457b497b90d8fb60f3fd4a7e-1-d0efaf45e9db4ace93769618886cbe90.jpg",
+      "published_at": "2026-09-30T00:15:02+02:00",
+      "source": "Le Monde",
+      "category": "Tech",
+      "id": "f756f5d1cf87"
+    },
+    {
+      "title": "On est monté à bord de la BMW i3, la berline électrique aux 912 km d’autonomie qui peut inquiéter Tesla",
+      "url": "https://www.numerama.com/vroom/2342045-on-est-monte-a-bord-de-la-bmw-i3-la-berline-electrique-aux-912-km-dautonomie-qui-peut-inquieter-tesla.html",
+      "summary": "La nouvelle BMW i3 est la première Série 3 100 % électrique. Elle sera vendue en France à partir de 59 900 €, avec jusqu'à 710 km d'autonomie WLTP. Au sommet de la gamme, une version revendique jusqu'à 912 km d'autonomie. Voici mes premières impressions à bord.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-09-29T22:01:00+00:00",
+      "source": "Numerama",
+      "category": "Politique",
+      "id": "2e6e0bb40354"
+    },
+    {
+      "title": "Un ministre israélien prend la défense de Jordan Bardella après des accusations d'antisémitisme",
+      "url": "https://www.franceinfo.fr/politique/front-national/un-ministre-israelien-prend-la-defense-de-jordan-bardella-apres-des-accusations-d-antisemitisme_8215484.html#xtor=RSS-3-[lestitres]",
+      "summary": "Amichaï Chikli considère que Jordan Bardella \"est l'une des voix les plus claires en Europe contre le Hamas\".",
+      "image": "https://www.franceinfo.fr/pictures/E93imzRIMcQymVuwJfjrvPP-V_w/0x297:5712x3510/432x243/filters:format(jpg)/2026/09/29/6abc32c33e815069577733.jpg",
+      "published_at": "2026-09-29T23:53:10+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "4da1a15c1d22"
+    },
+    {
+      "title": "Mobilisation dans la Fonction Publique : 206 000 manifestants selon le ministère de l'Intérieur, 300 000 pour la CGT.",
+      "url": "https://www.franceinfo.fr/economie/greve/mobilisation-dans-la-fonction-publique-206-000-manifestants-selon-le-ministere-de-l-interieur-300-000-pour-la-cgt_8215472.html#xtor=RSS-3-[lestitres]",
+      "summary": "Près de 10 % des agents de la fonction publique ont observé le mot d'ordre de grève pour protester contre le gel du point d'indice.",
+      "image": "https://www.franceinfo.fr/pictures/UmUsmVrP7xLIVOozsIolyaovFWg/0x335:6436x3955/432x243/filters:format(jpg)/2026/09/29/6abc2cb05faff573546195.jpg",
+      "published_at": "2026-09-29T23:26:57+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "4e90c7f4ac28"
+    },
+    {
+      "title": "Présidentielle 2027 : Edouard Philippe dévoile son projet de retraite à 65 ans et 45 annuités",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/29/presidentielle-2027-edouard-philippe-devoile-son-projet-de-retraite-a-65-ans-et-45-annuites_6785692_823448.html",
+      "summary": "Dévoilant les grandes lignes de la réforme qu’il entend mener, l’ancien premier ministre promet des mesures de justice sociale, en permettant notamment à « un Français sur trois » de continuer à partir entre 60 et 64 ans.",
+      "image": "https://img.lemde.fr/2026/09/18/666/0/8000/4000/644/322/60/0/2d1e7d7_upload-1-au2rnlnx3muw-jmug260918036.jpg",
+      "published_at": "2026-09-29T23:19:14+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "483a6466140a"
+    },
+    {
+      "title": "Le Rassemblement national fait bloc autour de Jordan Bardella, visé par des accusations d'antisémitisme",
+      "url": "https://www.franceinfo.fr/politique/front-national/le-rassemblement-national-fait-bloc-autour-de-jordan-bardella-vise-par-des-accusations-d-antisemitisme_8215460.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Rassemblement national serre les rangs autour de Jordan Bardella. Mardi 29 septembre, les responsables du parti ont pris sa défense, jusqu'à ouvrir exceptionnellement à la presse leur réunion de groupe à l'Assemblée nationale. Une démonstration d'unité face aux écrits antisémites que Mediapart attribue au président du RN.",
+      "image": "https://www.franceinfo.fr/pictures/dK8wmyXhnvN1AlSBxoG-UUViDKo/0x46:1017x619/432x243/filters:format(jpg)/2026/09/29/6abc29610af8c078400313.jpg",
+      "published_at": "2026-09-29T23:15:44+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "fbf945f1054e"
+    },
+    {
+      "title": "En Espagne, Emmanuel Macron livre ses recettes contre la montée des \"extrêmes\" en Europe",
+      "url": "https://www.franceinfo.fr/monde/europe/en-espagne-emmanuel-macron-livre-ses-recettes-contre-la-montee-des-extremes-en-europe_8215454.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Président de la République fait le constat d'une fatigue démocratique sur le vieux continent et appelle à \"reprendre le contrôle\".",
+      "image": "https://www.franceinfo.fr/pictures/h0gmfTojSsUC8ts8Qz7HSon3_D0/0x53:1024x629/432x243/filters:format(jpg)/2026/09/29/6abc274807db1494312402.jpg",
+      "published_at": "2026-09-29T23:07:56+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "6c17629a6d18"
+    },
+    {
+      "title": "Les médias Bolloré chassent la « taupe » d’un RN paranoïaque",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/29/les-medias-bollore-chassent-la-taupe-d-un-rn-paranoiaque_6785691_823448.html",
+      "summary": "Promettant de révéler l’identité d’un prétendu traître au sein du Rassemblement national, le nouveau média « L’Infiltré » a finalement fait machine arrière. Cette annonce ratée a nourri la psychose du parti dans ses rapports à la presse.",
+      "image": "https://img.lemde.fr/2026/03/25/968/0/5900/2950/644/322/60/0/38376f8_upload-1-ebcc4rfl2eqp-jmug260324022.jpg",
+      "published_at": "2026-09-29T22:55:06+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "aa449b9f4c78"
+    },
     {
       "title": "Double incendie près de Dijon : des habitations menacées, un pompier blessé, le feu se propage toujours",
       "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/cote-d-or/double-incendie-pres-de-dijon-des-habitations-menacees-a-plombieres-les-dijon-3425324.html#xtor=RSS-3-[lestitres]",
       "summary": "Deux départs de feu de forêts se sont déclarés ce mardi 29 septembre dans l'après-midi, à Velars-sur-Ouche et surtout à Plombières-lès-Dijon (Côte d'Or), où le feu continuait sa progression vers 20h. Une dizaine d'hectares ont brûlé et des habitations, protégées par les pompiers, sont menacées. Un pompier a été blessé.",
       "image": "https://www.franceinfo.fr/pictures/tWgBrmGkoKzb-WneNyQiEKwTkTQ/432x243/filters:format(jpg)/2026/09/29/6abbe5f8bc905343161930.jpg",
-      "published_at": "2026-09-29T22:30:35+02:00",
+      "published_at": "2026-09-29T22:39:59+02:00",
       "source": "France Info",
       "category": "Sport",
       "id": "dd32d9729b0a"
+    },
+    {
+      "title": "Grève des fonctionnaires : \"Les agents publics sont ceux dans notre pays qui sont le plus sujets aux fake news\", assure Amélie de Montchalin, présidente de la Cour des comptes",
+      "url": "https://www.franceinfo.fr/economie/greve/greve-des-fonctionnaires/greve-des-fonctionnaires-les-agents-publics-sont-ceux-dans-notre-pays-qui-sont-le-plus-sujets-aux-fake-news-assure-amelie-de-montchalin-presidente-de-la-cour-des-comptes_8215424.html#xtor=RSS-3-[lestitres]",
+      "summary": "Pour sa première interview en tant que première présidente de la Cour des comptes, Amélie de Montchalin revient notamment dans le \"20 Heures\" du 29 septembre sur l'explosion du montant de la dette française et la mobilisation des fonctionnaires, invitant à \"remettre des faits dans le débat\".",
+      "image": "https://www.franceinfo.fr/pictures/aV6WHSZvbkVZIAcqkAmFipuQHCA/0x41:1262x750/432x243/filters:format(jpg)/2026/09/29/6abc2191f23c6518510474.jpg",
+      "published_at": "2026-09-29T22:38:21+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "ca1648ebd406"
     },
     {
       "title": "La Région Ile-de-France estime à près d'un million d'euros les dégâts causés par le blocage des lycées",
@@ -53,36 +163,6 @@
       "id": "5b2aeb89a44f"
     },
     {
-      "title": "Les fonctionnaires dans la rue pour le pouvoir d'achat",
-      "url": "https://www.franceinfo.fr/economie/greve/les-fonctionnaires-dans-la-rue-pour-le-pouvoir-d-achat_8215394.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les fonctionnaires ont défilé dans la rue aujourd’hui. Une mobilisation restée limitée avec 206.000 manifestants en France, selon le ministère de l’Intérieur. Au cœur des revendications, le pouvoir d’achat. Mais celui des agents publics a-t-il vraiment baissé ces dernières années ?",
-      "image": "https://www.franceinfo.fr/pictures/O4r7yTY3LpsGqAZXT2rOZLQ7J0Y/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/29/6abc0cb290a9f666111957.jpg",
-      "published_at": "2026-09-29T22:00:02+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "53bd6c3b965c"
-    },
-    {
-      "title": "Au collège Georges-Politzer de Bagnolet, de l’eau non potable depuis plusieurs mois",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/29/au-college-georges-politzer-de-bagnolet-de-l-eau-non-potable-depuis-plusieurs-mois_6785690_3224.html",
-      "summary": "Alors que rien n’avait été mis en œuvre jusque-là, l’établissement de Seine-Saint-Denis restera fermé mercredi afin que les opérations nécessaires pour régler ce problème soient effectuées.",
-      "image": "https://img.lemde.fr/2026/09/29/500/0/6048/3024/644/322/60/0/b340e8b_upload-1-l8cpfotdlrfw-000-32h89k9.jpg",
-      "published_at": "2026-09-29T21:59:29+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "57173c3ac815"
-    },
-    {
-      "title": "Ecrits antisémites attribués à Jordan Bardella : un ministre israélien prend la défense du président du RN",
-      "url": "https://www.franceinfo.fr/politique/jordan-bardella/direct-propos-antisemites-attribues-a-jordan-bardella-on-assiste-a-la-machine-a-fabriquer-des-boules-puantes-affirme-le-vice-president-du-groupe-rn-a-l-assemblee-nationale_8214344.html#xtor=RSS-3-[lestitres]",
-      "summary": "Amichaï Chikli considère que le patron du Rassemblement national est une \"des voix les plus claires contre le Hamas\".",
-      "image": "https://www.franceinfo.fr/pictures/RhWz_sPqMSVZw6idL84OH0WbP-4/0x157:3023x1858/432x243/filters:format(jpg)/2026/09/29/6abc17982d12e002070996.jpg",
-      "published_at": "2026-09-29T21:55:29+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "12852efef5f2"
-    },
-    {
       "title": "Blocage des lycées : Laurent Nuñez, ministre de l'Intérieur, annonce 440 interpellations dans la journée de mardi",
       "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees-laurent-nunez-ministre-de-l-interieur-annonce-440-interpellations-dans-la-journee-de-mardi_8215373.html#xtor=RSS-3-[lestitres]",
       "summary": "Selon le locataire de la place Beauveau, ces interpellations concernent principalement des mineurs.",
@@ -101,16 +181,6 @@
       "source": "Le Monde Inter",
       "category": "Sport",
       "id": "7375636ee09e"
-    },
-    {
-      "title": "Grève de la Fonction publique : \"La vie est chère, mais les salaires sont très bas\" : plusieurs corps de métiers mobilisés dans les rues de Fort-de-France",
-      "url": "https://la1ere.franceinfo.fr/martinique/greve-de-la-fonction-publique-la-vie-est-chere-mais-les-salaires-sont-tres-bas-plusieurs-corps-de-metiers-mobilises-dans-les-rues-de-fort-de-france-1743236.html#xtor=RSS-3-[lestitres]",
-      "summary": "Salaires, pouvoir d’achat, conditions de travail, moyens accordés aux services publics et défense des retraites : les revendications sont nombreuses ce mardi 29 septembre. À l’appel de l’ensemble des organisations syndicales, plusieurs corps de métiers de la fonction publique sont mobilisés, parmi lesquels les enseignants, les policiers, les sapeurs-pompiers ou encore les agents territoriaux.",
-      "image": "https://www.franceinfo.fr/pictures/ruGTPNzc1z8i2SfZTQELQTt26Eo/432x243/filters:format(jpg)/2026/09/29/6abc07b129cbd583233994.png",
-      "published_at": "2026-09-29T21:06:38+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "89f04f564e7d"
     },
     {
       "title": "Au procès en appel des assistants parlementaires européens du Modem, la défense plaide la relaxe",
@@ -231,76 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "58eedd23a14f"
-    },
-    {
-      "title": "Bardella accusé d’antisémitisme : ce n’est pas un détail",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/bardella-accuse-dantisemitisme-ce-nest-pas-un-detail-20260929_KC27KDI5NREMBNLKQUH7DIJMKA/",
-      "summary": "Il est trop tôt pour mesurer les conséquences que les révélations de «Mediapart» auront sur l’opinion publique. Il faut espérer qu’elles en auront. Et continuer de dénoncer la fable de la dédiabolisation de l’extrême droite.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-09-29T18:10:15+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "4cb3277b5269"
-    },
-    {
-      "title": "A Paris, les fonctionnaires mobilisent pour défendre le pouvoir d’achat : «Plus personne ne s’en sort»",
-      "url": "https://www.liberation.fr/economie/social/a-paris-les-fonctionnaires-mobilises-pour-defendre-leur-pouvoir-dachat-plus-personne-ne-sen-sort-20260929_GXSNGZZX6JCHLNPTBSOZ4XZDTY/",
-      "summary": "Environ 70 000 personnes ont manifesté mardi 29 septembre dans la capitale, à l’appel de l’intersyndicale de la fonction publique, laissant entrevoir une colère bien plus large à l’approche de la présidentielle.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-29T18:04:11+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "2950e3d9c685"
-    },
-    {
-      "title": "L’Algérie, principal pays de départ de migrants vers l’Espagne",
-      "url": "https://www.lemonde.fr/afrique/article/2026/09/29/l-algerie-principal-pays-de-depart-de-migrants-vers-l-espagne_6785682_3212.html",
-      "summary": "Depuis le début de l’année 2026, les Algériens sont la troisième nationalité la plus représentée parmi les entrées clandestines en Europe, après les Bangladais et les Soudanais.",
-      "image": "https://img.lemde.fr/2026/09/29/1105/0/5385/2692/644/322/60/0/d934f7c_upload-1-j2ddm8hxlauc-000-83982cl.jpg",
-      "published_at": "2026-09-29T20:00:09+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "3b4ce4e1a307"
-    },
-    {
-      "title": "«J’ai vidé mon PEL» : un rapport pointe le coût des violences sexuelles pour les victimes",
-      "url": "https://www.liberation.fr/societe/jai-vide-mon-pel-un-rapport-pointe-le-cout-des-violences-sexuelles-pour-les-victimes-20260929_EKDZSCFN2NB2JF433UIQT7DNNM/",
-      "summary": "Pour porter leur affaire en justice ou se reconstruire, les victimes de violences sexistes et sexuelles doivent faire face à de lourdes dépenses, avec un maigre soutien de l’état, pointent les députées Modem et LFI Sandrine Josso et Elise Leboucher.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-09-29T17:59:20+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "e6f8d85e0e20"
-    },
-    {
-      "title": "Plus d'un milliard de personnes utilisent ChatGPT chaque semaine dans le monde, selon OpenAI",
-      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/plus-d-un-milliard-de-personnes-utilisent-chatgpt-chaque-semaine-dans-le-monde-selon-openai_8215331.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'entreprise américaine a annoncé mardi le lancement d'un nouveau modèle d'intelligence artificielle cinq fois moins cher.",
-      "image": "https://www.franceinfo.fr/pictures/9D7JfEsphmKVMeqcru30PaU6SvM/0x508:5000x3320/432x243/filters:format(jpg)/2026/09/29/6abbf806e9cf9224090376.jpg",
-      "published_at": "2026-09-29T19:59:06+02:00",
-      "source": "France Info",
-      "category": "Tech",
-      "id": "bdad62828a76"
-    },
-    {
-      "title": "Pour l’économiste Mathieu Plane, «la gestion de la dette est le principal échec économique du macronisme»",
-      "url": "https://www.liberation.fr/economie/pour-leconomiste-mathieu-plane-la-gestion-de-la-dette-est-le-principal-echec-economique-du-macronisme-20260929_QLC2P5IGIBE37DEVCIZO634H4A/",
-      "summary": "L’envolée de la dette française n’est pas due qu’aux chocs extérieurs comme le Covid ou la crise énergétique, estime le spécialiste des finances publiques à l’Institut français d’économie. L’instabilité politique engendrée par la dissolution de 2024 met également à mal la «crédibilité budgétaire» du pays.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-09-29T17:56:06+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "7b30dcf4ebe4"
-    },
-    {
-      "title": "Municipales à Vaulx-en-Velin : la justice annule les élections, remportées par LFI, pour des irrégularités sur une liste divers centre",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/29/municipales-a-vaulx-en-velin-la-justice-annule-les-elections-remportees-par-lfi-apres-celles-de-venissieux_6785680_823448.html",
-      "summary": "Cette décision, conforme à l’avis de la rapporteuse publique, invalide l’élection du député « insoumis » Abdelkader Lahmar, en raison d’irrégularités sur une liste divers centre, a précisé la mairie, en annonçant vouloir saisir le Conseil d’Etat.",
-      "image": "https://img.lemde.fr/2026/09/29/382/0/5837/2918/644/322/60/0/adfe4fe_upload-1-oxlgpg1mq6kg-000-a62c9re.jpg",
-      "published_at": "2026-09-29T19:54:34+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "fcdba83264c6"
     }
   ]
 }
