@@ -1,7 +1,137 @@
 {
-  "generated_at": "2026-10-01T21:44:34.320841+00:00",
+  "generated_at": "2026-10-02T01:32:30.537871+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "L’Estonie, menacée par la Russie, forme ses enfants au maniement des drones",
+      "url": "https://www.lemonde.fr/international/article/2026/10/02/l-estonie-menacee-par-la-russie-forme-ses-enfants-au-maniement-des-drones_6786724_3210.html",
+      "summary": "A Tallinn, joystick en main, des élèves font face aux écrans de simulateurs de vol au Centre de découverte de l’énergie. L’exercice vient compléter la formation à la défense déjà obligatoire pour les lycéens. Leurs compétences pourront, une fois qu’ils seront adultes, s’appliquer au domaine militaire.",
+      "image": "https://img.lemde.fr/2026/10/01/361/0/4333/2166/644/322/60/0/d3df57f_upload-1-vgpfa5uv90hg-000-72kv7y4.jpg",
+      "published_at": "2026-10-02T03:30:07+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "28d5487a14fb"
+    },
+    {
+      "title": "Le retour sur Terre s’amorce pour Sophie Adenot, avec l’arrivée de sa relève à bord de l’ISS",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/02/le-retour-sur-terre-s-amorce-pour-sophie-adenot-avec-l-arrivee-de-sa-releve-a-bord-de-l-iss_6786691_1650684.html",
+      "summary": "Le nouvel équipage de la Station spatiale internationale, Crew-13, a rejoint le laboratoire orbital après un trajet d’un peu moins de huit heures, le plus rapide jamais réalisé par un vaisseau américain, selon l’Agence spatiale américaine.",
+      "image": "https://img.lemde.fr/2026/09/02/712/0/5568/2784/644/322/60/0/d09e047_ftp-1-w2barng4cihh-5976078-01-06.jpg",
+      "published_at": "2026-10-02T02:51:01+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "7a2f09712bc4"
+    },
+    {
+      "title": "OpenAI exclut trois chercheurs en sécurité de l’IA accusés de fuites d’informations sensibles",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/02/openai-exclut-trois-chercheurs-en-securite-de-l-ia-accuses-de-fuites-d-informations-sensibles_6786658_4408996.html",
+      "summary": "La start-up fait état de plusieurs manquements, dont l’un concerne des informations communiquées à un groupe extérieur d’évaluation de l’intelligence artificielle.",
+      "image": "https://img.lemde.fr/2026/09/29/424/0/5088/2544/644/322/60/0/89ddcaf_ftp-1-xv5nmpvvmhxi-5221697-01-06.jpg",
+      "published_at": "2026-10-02T02:02:03+02:00",
+      "source": "Le Monde",
+      "category": "Tech",
+      "id": "45a6b0ee6231"
+    },
+    {
+      "title": "L’océan a aussi ses paysages",
+      "url": "https://www.liberation.fr/forums/locean-a-aussi-ses-paysages-20261002_USHG3S7QDNDNFKE6HJBMZRQ7ZQ/",
+      "summary": "Face aux enjeux écologiques et géopolitiques, les fonds marins incarnent des représentations paysagères sources d’un savoir empirique jusqu’ici peu étudié, utile à la valorisation et à la gestion de l’écosystème marin, estiment les géographes Lola Guyon et Gaëtan Jolly.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-10-01T23:24:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "23ea5756091b"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Kiev et Bruxelles s’accordent sur les modalités du financement de l’Ukraine jusqu’en 2027",
+      "url": "https://www.lemonde.fr/international/live/2026/10/02/en-direct-guerre-en-ukraine-kiev-et-bruxelles-s-accordent-sur-les-modalites-du-financement-de-l-ukraine-jusqu-en-2027_6783795_3210.html",
+      "summary": "L’Union européenne a déjà accordé à Kiev un prêt de 90 milliards d’euros pour 2026 et 2027 et n’entend pas, à ce stade, augmenter son engagement, a-t-on expliqué à Bruxelles. L’Ukraine estime son déficit budgétaire à 20 milliards de dollars, cette année, et cherche 53 milliards de dollars d’aide étrangère supplémentaire pour 2027.",
+      "image": "https://img.lemde.fr/2026/10/01/1051/0/8640/4320/644/322/60/0/ffce6bc_ftp-1-zhq2bublydde-df92c5ca118a44a4851687ba3aee9920-2-040ade91db8f4d18b678b0140890d519.jpg",
+      "published_at": "2026-10-02T00:50:02+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "235c4a69648f"
+    },
+    {
+      "title": "\"Il m'a dit : 'On vous remplace par l'IA'\" : ces professionnels qui se tournent vers les métiers manuels pour survivre à l'intelligence artificielle",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/il-m-a-dit-on-vous-remplace-par-l-ia-ces-professionnels-qui-se-tournent-vers-les-metiers-manuels-pour-survivre-a-l-intelligence-artificielle_8218888.html#xtor=RSS-3-[lestitres]",
+      "summary": "Changer de métier avant d’être remplacé par une machine, c'est le choix de certains salariés qui se tournent vers le travail manuel. Pour eux, apprendre à réparer une fuite ou à faire du pain, c’est retrouver un savoir-faire qu’ils pensent mieux protégé de l’intelligence artificielle. Les métiers manuels tiennent-ils leur revanche ?",
+      "image": "https://www.franceinfo.fr/pictures/lT2If4QsAGVq0lNcXcT-OgL5ecA/137x0:1216x607/432x243/filters:format(jpg)/2026/10/01/6abecc56166c1107527841.jpg",
+      "published_at": "2026-10-02T00:23:51+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "1cf3a2b3f830"
+    },
+    {
+      "title": "\"La démission doit aller de soi\" : les adversaires du RN appellent Jordan Bardella \"à tirer des conséquences\" des nouvelles révélations de Mediapart",
+      "url": "https://www.franceinfo.fr/politique/jordan-bardella/la-demission-doit-aller-de-soi-les-adversaires-du-rn-appellent-jordan-bardella-a-tirer-des-consequences-des-nouvelles-revelations-de-mediapart_8218915.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le média en ligne affirme qu'il a pu authentifier des écrits antisémites du patron du RN lorsqu'il était jeune militant, ce que le parti à la flamme et son dirigeant contestent.",
+      "image": "https://www.franceinfo.fr/pictures/wi6pmY5e8PjMBRBncUYCvE4hKa8/0x223:6958x4137/432x243/filters:format(jpg)/2026/10/02/6abeda3c0ddf3088724883.jpg",
+      "published_at": "2026-10-02T00:11:22+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "d2d5ce5f7bc5"
+    },
+    {
+      "title": "Budget 2027 : le Medef évalue à \"près de 20 milliards d'euros\" les prélèvements et taxes touchant les entreprises",
+      "url": "https://www.franceinfo.fr/economie/budget/direct-budget-2027-le-gouvernement-presente-ses-projets-de-loi-de-finances-et-de-financement-de-la-securite-sociale-en-conseil-des-ministres-a-partir-de-10h30_8216482.html#xtor=RSS-3-[lestitres]",
+      "summary": "Sébastien Lecornu et ses ministres ont dévoilé jeudi un \"budget de redressement\" pour la France, avec 54 milliards d'euros d'économies à trouver pour 2027, dont 43 milliards via des mesures nouvelles.",
+      "image": "https://www.franceinfo.fr/pictures/jq2Z82NDmwjdeuj4OkTh_oAbAKY/0x0:5662x3184/432x243/filters:format(jpg)/2026/10/01/6abe7135a33ad590254952.jpg",
+      "published_at": "2026-10-02T00:10:37+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "521970a3fce6"
+    },
+    {
+      "title": "Blocage des lycées : les manifestations seront interdites aux abords des établissements fermés",
+      "url": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/direct-blocage-des-lycees-les-eleves-et-les-etudiants-appeles-a-un-acte-deux-de-la-mobilisation-malgre-les-violences_8217775.html#xtor=RSS-3-[lestitres]",
+      "summary": "La situation s'est tendue jeudi avec plusieurs incendies devant des établissements scolaires et des échauffourées entre lycéens et forces de l'ordre. Le Premier ministre a présidé une cellule interministérielle de crise à Matignon.",
+      "image": "https://www.franceinfo.fr/pictures/0IkGD6ebpYnlclmn-j3VbgTCBA4/0x238:4570x2808/432x243/filters:format(jpg)/2026/10/01/6abe999b0bdf6076052195.jpg",
+      "published_at": "2026-10-02T00:08:32+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "59777196c9a7"
+    },
+    {
+      "title": "Débat de la primaire de la gauche : revivez les échanges entre les cinq candidats sur France 2 et France Inter",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-suivez-le-debat-des-candidats-a-la-primaire-du-pole-socialiste-sur-france-2-et-france-inter-a-20h40_8218531.html#xtor=RSS-3-[lestitres]",
+      "summary": "Durant deux heures, Olivier Faure, Raphaël Glucksmann, Jérôme Guedj, Emmanuel Maurel et Ségolène Royal vont s'affronter lors du seul débat de la campagne de la primaire.",
+      "image": "https://www.franceinfo.fr/pictures/dgrxDRI5kZcPcLZ8Qgim76yZFo0/0x394:7567x4650/432x243/filters:format(jpg)/2026/10/01/6abeca8fcdb8e836243707.jpg",
+      "published_at": "2026-10-02T00:07:33+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "d9b7800fd5b6"
+    },
+    {
+      "title": "De Gaza aux insoumis : les candidats rejouent les mêmes disputes au deuxième débat de la primaire PS",
+      "url": "https://www.liberation.fr/politique/elections/poutine-gaza-lfi-les-candidats-rejouent-les-memes-disputes-au-deuxieme-debat-de-la-primaire-ps-20261002_GPZWGX3LQRACZDO7WCQ7G6AH7A/",
+      "summary": "Sur le plateau de France Télévisions et Radio France, Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Emmanuel Maurel et Jérôme Guedj ont encore appuyé sur leurs divergences en matière de questions internationales et d’alliance possible avec la France insoumise aux législatives.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-10-01T22:01:57+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "3a1b277388b8"
+    },
+    {
+      "title": "Le Défenseur des droits se saisit de la blessure d'un jeune lors du blocage des lycées",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-defenseur-des-droits-se-saisit-de-la-blessure-d-un-jeune-lors-du-blocage-des-lycees_8218918.html#xtor=RSS-3-[lestitres]",
+      "summary": "Selon son avocate, le jeune homme âgé de 14 ans a une double fracture de la mâchoire, une enquête de l'IGPN est également ouverte.",
+      "image": "https://www.franceinfo.fr/pictures/LkL8R1pLkNVFyXQ0ixPjzRqcBN0/0x238:4570x2808/432x243/filters:format(jpg)/2026/10/02/6abed7fe6acf3749427207.jpg",
+      "published_at": "2026-10-02T00:01:11+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "69c5192c0c2d"
+    },
+    {
+      "title": "Carburants : Donald Trump dit qu’il « pourrait » demander aux Européens de puiser dans leurs réserves de gazole pour faire baisser les prix",
+      "url": "https://www.lemonde.fr/international/article/2026/10/02/carburants-donald-trump-dit-qu-il-pourrait-demander-aux-europeens-de-puiser-dans-leurs-reserves-de-gazole-pour-faire-baisser-les-prix_6786592_3210.html",
+      "summary": "Le ministre des finances américain, Scott Bessent, a appelé jeudi les Européens à mettre « immédiatement » du gazole sur le marché pour contrer l’envolée du prix du carburant, avant une réunion d’urgence des pays de l’UE sur le sujet.",
+      "image": "https://img.lemde.fr/2026/10/01/1248/0/5504/2752/644/322/60/0/01c552d_upload-1-iocm9l5joglu-000-c96989x.jpg",
+      "published_at": "2026-10-01T23:59:57+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "17f9941b24b7"
+    },
     {
       "title": "Salaires, Ukraine, Gaza, LFI : les 4 moments marquants du deuxième débat de la primaire à gauche",
       "url": "https://www.liberation.fr/politique/salaires-ukraine-gaza-lfi-les-4-moments-marquants-du-deuxieme-debat-de-la-primaire-a-gauche-20261001_ZKJQXSWQXFBEDFXDOCELKKSJVM/",
@@ -11,16 +141,6 @@
       "source": "Libération",
       "category": "International",
       "id": "2574515074b4"
-    },
-    {
-      "title": "Blocage des lycées : les manifestations seront interdites aux abords des établissements fermés",
-      "url": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/direct-blocage-des-lycees-les-eleves-et-les-etudiants-appeles-a-un-acte-deux-de-la-mobilisation-malgre-les-violences_8217775.html#xtor=RSS-3-[lestitres]",
-      "summary": "La situation s'est tendue jeudi avec plusieurs incendies devant des établissements scolaires et des échauffourées entre lycéens et forces de l'ordre. Le Premier ministre a présidé une cellule interministérielle de crise à Matignon.",
-      "image": "https://www.franceinfo.fr/pictures/0IkGD6ebpYnlclmn-j3VbgTCBA4/0x238:4570x2808/432x243/filters:format(jpg)/2026/10/01/6abe999b0bdf6076052195.jpg",
-      "published_at": "2026-10-01T23:29:57+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "59777196c9a7"
     },
     {
       "title": "Blocage des lycées, affaire Bardella, guerre à Gaza... Sept séquences à retenir du débat des candidats à la primaire de la gauche",
@@ -35,32 +155,12 @@
     {
       "title": "Revivez le deuxième débat de la primaire de gauche : des candidats moins unis que jamais",
       "url": "https://www.liberation.fr/politique/elections/en-direct-primaire-de-la-gauche-sociale-democrate-suivez-le-deuxieme-debat-sur-liberationfr-20261001_WRIVWX3CDFBJXBZVMUK46FXJ7A/",
-      "summary": "Une semaine après le premier, Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel se retrouvent pour un deuxième débat sur France 2.",
+      "summary": "Une semaine après le premier, Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel se sont retrouvés pour un deuxième débat sur France 2.",
       "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
       "published_at": "2026-10-01T21:17:03+00:00",
       "source": "Libération",
       "category": "Société",
       "id": "c422952b7cd8"
-    },
-    {
-      "title": "\"Il m'a dit : 'On vous remplace par l'IA'\" : ces professionnels qui se tournent vers les métiers manuels pour survivre à l'intelligence artificielle",
-      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/il-m-a-dit-on-vous-remplace-par-l-ia-ces-professionnels-qui-se-tournent-vers-les-metiers-manuels-pour-survivre-a-l-intelligence-artificielle_8218888.html#xtor=RSS-3-[lestitres]",
-      "summary": "Changer de métier avant d’être remplacé par une machine, c'est le choix de certains salariés qui se tournent vers le travail manuel. Pour eux, apprendre à réparer une fuite ou à faire du pain, c’est retrouver un savoir-faire qu’ils pensent mieux protégé de l’intelligence artificielle. Les métiers manuels tiennent-ils leur revanche ?",
-      "image": "https://www.franceinfo.fr/pictures/lT2If4QsAGVq0lNcXcT-OgL5ecA/137x0:1216x607/432x243/filters:format(jpg)/2026/10/01/6abecc56166c1107527841.jpg",
-      "published_at": "2026-10-01T23:12:33+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "1cf3a2b3f830"
-    },
-    {
-      "title": "Débat de la primaire de la gauche : revivez les échanges entre les cinq candidats sur France 2 et France Inter",
-      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-suivez-le-debat-des-candidats-a-la-primaire-du-pole-socialiste-sur-france-2-et-france-inter-a-20h40_8218531.html#xtor=RSS-3-[lestitres]",
-      "summary": "Durant deux heures, Olivier Faure, Raphaël Glucksmann, Jérôme Guedj, Emmanuel Maurel et Ségolène Royal vont s'affronter lors du seul débat de la campagne de la primaire.",
-      "image": "https://www.franceinfo.fr/pictures/dgrxDRI5kZcPcLZ8Qgim76yZFo0/0x394:7567x4650/432x243/filters:format(jpg)/2026/10/01/6abeca8fcdb8e836243707.jpg",
-      "published_at": "2026-10-01T23:04:12+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "d9b7800fd5b6"
     },
     {
       "title": "Le ministre de l'Education annonce que le gouvernement renonce à faire payer des frais d'inscription dans les BTS et les classes préparatoires",
@@ -187,7 +287,7 @@
       "url": "https://www.lemonde.fr/economie/article/2026/10/01/la-france-en-pleine-tempete-sur-la-dette-les-taux-d-interet-au-plus-haut-depuis-2002_6786587_3234.html",
       "summary": "Les taux français ont frôlé 5 % jeudi 1ᵉʳ octobre. Si cette flambée des marchés obligataires vient des Etats-Unis, l’Europe y est particulièrement exposée.",
       "image": "https://img.lemde.fr/2026/10/01/205/0/2500/1250/644/322/60/0/ffacfda_upload-1-bwnvr7k6rxof-jmug261001016.jpg",
-      "published_at": "2026-10-01T21:22:43+02:00",
+      "published_at": "2026-10-01T21:22:42+02:00",
       "source": "Le Monde",
       "category": "Économie",
       "id": "6891b086bd1b"
@@ -201,106 +301,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "eb2c3660c0f6"
-    },
-    {
-      "title": "Face aux preuves de «Mediapart», Bardella acculé et une stratégie de défense qui pâlit",
-      "url": "https://www.liberation.fr/politique/face-aux-preuves-de-mediapart-bardella-accule-et-une-strategie-de-defense-qui-palit-20261001_FVSOGRHRN5CGLCEPVVHLE2PLWI/",
-      "summary": "Accusé d’avoir écrit des messages antisémites lorsqu’il était jeune militant, le patron du RN nie en bloc. Au risque d’enfoncer son parti dans le malaise après les preuves avancées ce jeudi 1er octobre par le média d’investigation ?",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-01T19:20:51+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "8c5895105eb0"
-    },
-    {
-      "title": "\"Je ne vois pas comment\" le RN et Jordan Bardella \"peuvent contester l'authenticité des messages\", affirme un journaliste de Mediapart",
-      "url": "https://www.franceinfo.fr/politique/jordan-bardella/je-ne-vois-pas-comment-le-rn-et-jordan-bardella-peuvent-contester-l-authenticite-des-messages-affirme-un-journaliste-de-mediapart_8218792.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le média d'investigation en ligne a révélé jeudi avoir pu authentifier les messages antisémites datant de 2013 attribués au président du RN Jordan Bardella, dont ce dernier dément être l'auteur.",
-      "image": "https://www.franceinfo.fr/pictures/UmW48iyXZP1LACYODj3ca_2-vOI/0x159:3066x1884/432x243/filters:format(jpg)/2026/10/01/6abeb2467c825623496251.jpg",
-      "published_at": "2026-10-01T21:20:11+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "ad15874ae57e"
-    },
-    {
-      "title": "Mobilisation des lycéens : en quête de stratégie, le gouvernement cible LFI",
-      "url": "https://www.liberation.fr/politique/mobilisation-des-lyceens-en-quete-de-strategie-le-gouvernement-cible-lfi-20261001_QQ3NWM2DDRFZHPGIE2ZMK3H6YI/",
-      "summary": "Secoué par l’ampleur des manifestations, l’exécutif accuse le mouvement mélenchoniste d’être le détonateur de la colère lycéenne, malgré le risque d’apparaître sourd aux revendications. Le ministre de l’Education nationale doit recevoir vendredi les associations lycéennes.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-01T19:18:05+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "54d82119428f"
-    },
-    {
-      "title": "Budget 2027 : dernières coupes pour la route",
-      "url": "https://www.liberation.fr/economie/budget-2027-dernieres-coupes-pour-la-route-20261001_I2DX35RYQRC6TORIVBYWQP7P7Q/",
-      "summary": "Jeudi, au terme d’une décennie de macronisme, le gouvernement a dévoilé ses ultimes textes budgétaires afin de ramener le déficit à 5% du PIB. Il compte sur des économies mais surtout sur des nouvelles recettes. Et pour faire avaler la pilule au Parlement, vend un projet «réversible».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-01T19:10:21+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "d0fa4ca6a239"
-    },
-    {
-      "title": "Pourquoi l’Algérie a élargi la peine de mort aux incendiaires et aux kidnappeurs d’enfants",
-      "url": "https://www.lemonde.fr/international/article/2026/10/01/pourquoi-l-algerie-a-elargi-la-peine-de-mort-aux-incendiaires-et-aux-kidnappeurs-d-enfants_6786586_3210.html",
-      "summary": "Après les feux de forêts intenses et meurtriers de l’été, le chef de l’Etat, Abdelmadjid Tebboune, a souhaité élargir le nombre de « crimes capitaux », passibles de la peine de mort. Le pays respectait pourtant un moratoire sur cette question depuis 1993.",
-      "image": "https://img.lemde.fr/2026/08/28/595/0/6720/3360/644/322/60/0/f92fa16_ftp-1-crk8youumy8l-5936445-01-06.jpg",
-      "published_at": "2026-10-01T21:07:04+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "91f4ce40e694"
-    },
-    {
-      "title": "Blocage des lycées : plusieurs établissements fermés vendredi après une nouvelle journée de mobilisation",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/blocage-des-lycees-plusieurs-etablissements-fermes-vendredi-apres-une-nouvelle-journee-de-mobilisation_8218720.html#xtor=RSS-3-[lestitres]",
-      "summary": "Quelques blessés légers et de nombreuses dégradations sont à déplorer jeudi, le point sur la situation avec le réseau ICI.",
-      "image": "https://www.franceinfo.fr/pictures/ybjFBO8hQv-ziwTMMorQMgZtQEc/0x336:4671x2964/432x243/filters:format(jpg)/2026/10/01/6abe9f0696095066806812.jpg",
-      "published_at": "2026-10-01T21:01:59+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "f4fa2bcec9aa"
-    },
-    {
-      "title": "Jordan Bardella accusé d’antisémitisme : «Mediapart» publie les preuves qui accablent le président du RN",
-      "url": "https://www.liberation.fr/politique/jordan-bardella-accuse-dantisemitisme-mediapart-publie-les-preuves-et-accable-le-president-du-rn-20261001_RC4Y66BAV5EOJESH2OD6V5O7PY/",
-      "summary": "Le site d’investigation a révélé ce jeudi 1er octobre les documents et la méthode qui ont permis d’authentifier les messages antisémites attribués au numéro 1 du parti d’extrême droite. Ce dernier, qui dénonce des «montages grossiers», a porté plainte pour diffamation.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-01T18:59:37+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "128a9612a958"
-    },
-    {
-      "title": "Devant les lycées, élèves et profs font bloc : «On se sent soutenus et ça rend notre combat plus crédible»",
-      "url": "https://www.liberation.fr/societe/education/devant-les-lycees-eleves-et-profs-font-bloc-on-se-sent-soutenus-et-ca-rend-notre-combat-plus-credible-20261001_DTUCX6KBQVHWPGP5U6PQ7W3NKM/",
-      "summary": "Après trois journées de manifestations, la gronde prend de l’ampleur parmi les lycéens, soutenus et protégés par leurs enseignants indignés de la répression policière qui sévit.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-10-01T18:55:00+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "800fd7b0e120"
-    },
-    {
-      "title": "Blocages des lycées : oui, la jeunesse sait se révolter par elle-même",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/blocages-des-lycees-oui-la-jeunesse-sait-se-revolter-par-elle-meme-20261001_XPTXR32ETNC4NLY5QHQILGKEUU/",
-      "summary": "Le mouvement lycéen qui traverse le pays gagne en ampleur. Ces jeunes, dont la révolte est légitime, se retrouvent pris en étau entre des violences policières et un gouvernement qui les discrédite, rejetant la faute sur La France insoumise.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-01T18:54:18+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "0a41c800775d"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine rejette la proposition d’arrêt mutuel des frappes à longue portée entre Russie et Ukraine",
-      "url": "https://www.lemonde.fr/international/live/2026/10/01/en-direct-guerre-en-ukraine-vladimir-poutine-rejette-la-proposition-d-arret-mutuel-des-frappes-a-longue-portee-entre-russie-et-ukraine_6783795_3210.html",
-      "summary": "Le président russe a rejeté, jeudi, l’idée d’un arrêt mutuel des frappes à longue portée avec l’Ukraine, en réponse à des propositions formulées par Kiev et Washington.",
-      "image": "https://img.lemde.fr/2026/10/01/589/0/7076/3538/644/322/60/0/39e5f74_ftp-1-grbz8par4auj-a4953d11300241c29b3459fac03af4bb-0-40998199973f4f61b16aa3f534273323.jpg",
-      "published_at": "2026-10-01T20:51:18+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "fc121f782b6c"
     }
   ]
 }
