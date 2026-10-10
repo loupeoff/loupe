@@ -1,7 +1,127 @@
 {
-  "generated_at": "2026-10-09T20:48:53.562871+00:00",
+  "generated_at": "2026-10-10T00:40:57.336628+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Un séisme de magnitude 7,7 a secoué le Panama, provoquant d’importants dégâts matériels",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/10/un-seisme-de-magnitude-7-7-a-secoue-le-panama-provoquant-d-importants-degats-materiels_6790632_3245.html",
+      "summary": "« Nous faisons face à un grand désastre », a déclaré le président, José Raul Mulino, en évoquant des routes « totalement effondrées » dans les zones les plus touchées par le tremblement de terre, sans préciser s’il y avait des victimes.",
+      "image": "https://img.lemde.fr/2026/10/09/665/0/7976/3988/644/322/60/0/360c319_ftp-1-afw4zedm6vgn-5312068-01-06.jpg",
+      "published_at": "2026-10-10T01:51:59+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "27cd0212e00a"
+    },
+    {
+      "title": "Lens inflige à l’Olympique lyonnais sa première défaite de la saison en Ligue 1",
+      "url": "https://www.lemonde.fr/sport/article/2026/10/10/lens-inflige-a-l-olympique-lyonnais-sa-premiere-defaite-de-la-saison-en-ligue-1_6790703_3242.html",
+      "summary": "Pour le deuxième match de leur nouvel entraîneur, Yannick Cahuzac, les Sang et Or se sont imposés (2-1), vendredi soir à domicile, grâce à des buts de Florian Sotoca et Matthieu Udol, tous deux idéalement servis par Florian Thauvin, avant une réduction de l’écart de Khalis Merah.",
+      "image": "https://img.lemde.fr/2026/10/09/112/0/2726/1363/644/322/60/0/cb51d81_ftp-1-gvqd09q7esln-2026-10-09t192441z-701308556-up1ema91hx4ld-rtrmadp-3-soccer-france-rcl-ol.JPG",
+      "published_at": "2026-10-10T01:37:38+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "6a720f7772cf"
+    },
+    {
+      "title": "Katie Zacharia, « membre dévouée du mouvement MAGA » et nouvelle porte-parole de la Maison Blanche",
+      "url": "https://www.lemonde.fr/international/article/2026/10/10/donald-trump-nomme-katie-zacharia-membre-devouee-du-mouvement-maga-nouvelle-porte-parole-de-la-maison-blanche_6790670_3210.html",
+      "summary": "« Servir Donald Trump et le peuple américain en cette année charnière des 250 ans [du pays] est l’honneur de toute une vie », a déclaré la Californienne, présentée comme « une alliée loyale et brillante depuis le début » par le président américain, qui a annoncé sa nomination vendredi.",
+      "image": "https://img.lemde.fr/2026/10/09/633/0/1857/928/644/322/60/0/0c37b23_upload-1-6pgu0vnd8vd9-063-2298850605.jpg",
+      "published_at": "2026-10-10T00:55:10+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "bc228b166d40"
+    },
+    {
+      "title": "L'administration Trump jette le doute sur une exécution en direct qui a soulevé l'indignation",
+      "url": "https://www.franceinfo.fr/monde/usa/l-administration-trump-jette-le-doute-sur-une-execution-en-direct-qui-a-souleve-l-indignation_8230822.html#xtor=RSS-3-[lestitres]",
+      "summary": "Donald Trump a dit vendredi que la décision de diffuser publiquement l'exécution d'un meurtrier de soldats américains n'avait pas été prise, tout en se disant favorable à la mise à mort elle-même, par un peloton militaire.",
+      "image": "https://www.franceinfo.fr/pictures/fPpJzjD0fdcSlItrGmATl31gzEs/0x106:1024x682/432x243/filters:format(jpg)/2026/10/10/6ac96451309ee157210304.jpg",
+      "published_at": "2026-10-10T00:02:02+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "592aa4882709"
+    },
+    {
+      "title": "Au dernier jour d'examen de la loi \"intégrale\", le Rassemblement national fait tomber plusieurs mesures",
+      "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/au-dernier-jour-d-examen-de-la-loi-integrale-le-rassemblement-national-fait-tomber-plusieurs-mesures_8230735.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ces votes ont suscité les critiques de la coalition féministe et enfantiste à l'origine du texte, celle-ci dénonçant un \"recul\" sur \"les droits au travail et la protection des femmes étrangères\".",
+      "image": "https://www.franceinfo.fr/pictures/WPlUb_N5LOW3iq5ud4vIqfXYbFU/0x53:1024x629/432x243/filters:format(jpg)/2026/10/09/6ac962090ca4b972130269.jpg",
+      "published_at": "2026-10-09T23:53:16+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "ebe9b1295e6f"
+    },
+    {
+      "title": "Donald Trump choisit la commentatrice conservatrice Katie Zacharia comme porte-parole",
+      "url": "https://www.franceinfo.fr/monde/usa/donald-trump-choisit-la-commentatrice-conservatrice-katie-zacharia-comme-porte-parole_8230702.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette Californienne a déjà été pendant quelques semaines porte-parole du ministère de la Sécurité intérieure, de février à avril 2026.",
+      "image": "https://www.franceinfo.fr/pictures/pMtBf0tCjU6Fsoko-icz3JUooXk/0x0:1024x576/432x243/filters:format(jpg)/2026/10/09/6ac938341dd68009316615.jpg",
+      "published_at": "2026-10-09T23:35:32+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "c1cd6be0153f"
+    },
+    {
+      "title": "Israël accuse l'Autorité palestinienne de \"tromperie\" avec un report des élections",
+      "url": "https://www.franceinfo.fr/monde/palestine/israel-accuse-l-autorite-palestinienne-de-tromperie-avec-un-report-des-elections_8230732.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'Autorité palestinienne, dirigée par Mahmoud Abbas, n'a pas annoncé à ce stade le report de ces élections, officiellement toujours prévues le 28 novembre.",
+      "image": "https://www.franceinfo.fr/pictures/8Yg04cwvL6KgDgaUBRaD69nDCKU/0x0:1024x576/432x243/filters:format(jpg)/2026/10/09/6ac95d281ecc3315557368.jpg",
+      "published_at": "2026-10-09T23:31:54+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "f88c753c9b52"
+    },
+    {
+      "title": "Donald Trump annonce des livraisons massives de diesel russe à quelques semaines des élections de mi-mandat",
+      "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/trump-annonce-des-livraisons-massives-de-diesel-russe-a-quelques-semaines-des-elections-de-mi-mandat_8230807.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette annonce surprise, confirmée par Vladimir Poutine, coïncide avec une reprise des discussions entre Américains et Ukrainiens sur la guerre avec la Russie.",
+      "image": "https://www.franceinfo.fr/pictures/lneacHOdb4fHwr1AbDQTCYrlNKc/0x80:1024x656/432x243/filters:format(jpg)/2026/10/09/6ac95b056977d621823511.jpg",
+      "published_at": "2026-10-09T23:23:44+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "09bd1c81bbfa"
+    },
+    {
+      "title": "Un séisme de magnitude 7,7 a secoué le Panama, une alerte au tsunami déclenchée",
+      "url": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-7-6-a-secoue-le-panama-selon-le-service-sismologique-americain_8230687.html#xtor=RSS-3-[lestitres]",
+      "summary": "Selon les rapports préliminaires, le tremblement de terre a été ressenti dans tout le Panama. Les autorités ont appelé la population au calme.",
+      "image": "https://www.franceinfo.fr/pictures/3f7AjYWTCxLdU2EhRPkwu8xI4WU/0x0:1024x576/432x243/filters:format(jpg)/2026/10/09/6ac958acdc118483377800.jpg",
+      "published_at": "2026-10-09T23:12:14+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "158003832478"
+    },
+    {
+      "title": "Les députés rejettent la partie \"recettes\" du budget 2027 en commission, à quelques jours du débat dans l'hémicycle",
+      "url": "https://www.franceinfo.fr/economie/budget/les-deputes-rejettent-la-partie-recettes-du-budget-2027-en-commission-a-quelques-jours-du-debat-dans-l-hemicycle_8230801.html#xtor=RSS-3-[lestitres]",
+      "summary": "Si ces trois jours de débats n'étaient qu'une répétition autour de ce texte, le résultat laisse augurer de longues tractations à venir pour le gouvernement de Sébastien Lecornu.",
+      "image": "https://www.franceinfo.fr/pictures/ZmG1w8dE46JYztiN0VZhl6f6Ibw/0x106:1024x682/432x243/filters:format(jpg)/2026/10/09/6ac957cfbf726750697141.jpg",
+      "published_at": "2026-10-09T23:09:46+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "e1c6e5660c5d"
+    },
+    {
+      "title": "Lens se relance en battant Lyon en ouverture de la 6e journée de Ligue 1 (2-1)",
+      "url": "https://www.franceinfo.fr/sports/foot/lens-se-relance-en-battant-lyon-en-ouverture-de-la-6e-journee-de-ligue-1-2-1_8230795.html#xtor=RSS-3-[lestitres]",
+      "summary": "Après quatre matches sans victoire en Ligue 1, les hommes de Yannick Cahuzac remontent provisoirement à la 7e place du championnat.",
+      "image": "https://www.franceinfo.fr/pictures/ws1RQofsIYHRsJQpBk1f0-3GJ8A/0x0:1024x576/432x243/filters:format(jpg)/2026/10/09/6ac9541f703de656477125.jpg",
+      "published_at": "2026-10-09T22:57:58+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "43f55abe9e92"
+    },
+    {
+      "title": "Budget 2027 : les députés rejettent largement la partie « recettes » en commission, le texte débattu à partir de mardi dans l’Hémicycle",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/09/budget-2027-les-deputes-rejettent-la-partie-recettes-en-commission_6790637_823448.html",
+      "summary": "La mise à contribution des retraités et des collectivités a cristallisé les tensions lors des débats en commission sur le budget 2027. Les députés repartiront de la copie initiale dans l’Hémicycle, dès mardi.",
+      "image": "https://img.lemde.fr/2026/10/07/666/0/8000/4000/644/322/60/0/b03941d_upload-1-dmvx4gn0ki53-jmug261006074.jpg",
+      "published_at": "2026-10-09T22:49:41+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "d7e46497ebf8"
+    },
     {
       "title": "Les Etats-Unis imposent des sanctions contre la Cour pénale internationale, l'institution dénonce une \"attaque contre l'Etat de droit\"",
       "url": "https://www.franceinfo.fr/monde/usa/les-etats-unis-imposent-des-sanctions-contre-la-cour-penale-internationale-l-institution-denonce-une-attaque-contre-l-etat-de-droit_8230324.html#xtor=RSS-3-[lestitres]",
@@ -11,16 +131,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "66b932eba2c4"
-    },
-    {
-      "title": "\"C'est le Moyen-Âge\" : outrage aux États-Unis après l'annonce d'une exécution publique et diffusée en direct",
-      "url": "https://www.franceinfo.fr/monde/usa/c-est-le-moyen-age-outrage-aux-etats-unis-apres-l-annonce-d-une-execution-publique-et-diffusee-en-direct_8230690.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les États-Unis vont-ils rejoindre l'Iran et l'Afghanistan en rétablissant la peine de mort publique ? Le ministre de la défense Pete Hegseth a annoncé que la mise à mort par peloton d'exécution de l'auteur d'une tuerie de masse sera diffusée en direct.",
-      "image": "https://www.franceinfo.fr/pictures/y_qFKHC9aSX5-bgaqYfs-RfBsao/0x56:1190x726/432x243/filters:format(jpg)/2026/10/09/6ac934a8473ab675286910.jpg",
-      "published_at": "2026-10-09T22:42:35+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "0fbe3e94f036"
     },
     {
       "title": "Le prix Nobel de la paix est décerné à la Sud-Africaine Navanethem \"Navi\" Pillay, \"pour ses efforts en faveur de la promotion de la paix et du droit international\"",
@@ -33,14 +143,14 @@
       "id": "5ce5a91fe9d4"
     },
     {
-      "title": "Un séisme de magnitude 7,7 a secoué le Panama, une alerte au tsunami déclenchée",
-      "url": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-7-6-a-secoue-le-panama-selon-le-service-sismologique-americain_8230687.html#xtor=RSS-3-[lestitres]",
-      "summary": "Selon les rapports préliminaires, le tremblement de terre a été ressenti dans tout le Panama. Les autorités ont appelé la population au calme.",
-      "image": "https://www.franceinfo.fr/pictures/A5zo4AmOyCWC0B11UWZqwN9VZYw/0x12:1024x588/432x243/filters:format(jpg)/2026/10/09/6ac934bc948a5972899048.jpg",
-      "published_at": "2026-10-09T22:34:49+02:00",
+      "title": "\"Abracadabra, on arrive à faire sortir 3 000 remplaçants\" : les lycéens et enseignants restent sceptiques après les annonces du gouvernement",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/abracadabra-on-arrive-a-faire-sortir-3-000-remplacants-les-lyceens-et-enseignants-restent-sceptiques-apres-les-annonces-du-gouvernement_8230675.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le ministre de l'éducation a annoncé un plan d'urgence pour le remplacement des professeurs absents. 3 000 remplaçants pourraient, selon Édouard Geffray, être déployés très rapidement. Qui sont-ils, et comment expliquer qu'ils n'aient pas été mobilisés dès la rentrée ?",
+      "image": "https://www.franceinfo.fr/pictures/In3ESAmaVSVGRKj0TLazjxTOgak/0x19:1206x697/432x243/filters:format(jpg)/2026/10/09/6ac930d624354947527151.jpg",
+      "published_at": "2026-10-09T22:31:40+02:00",
       "source": "France Info",
-      "category": "Société",
-      "id": "158003832478"
+      "category": "Politique",
+      "id": "b34a276d3410"
     },
     {
       "title": "Sufjan Stevens dans tous ses états : «Come on feel the Illinoise»",
@@ -53,11 +163,11 @@
       "id": "c465759d3e3b"
     },
     {
-      "title": "EN DIRECT, guerre en Ukraine : le Kremlin confirme l’accord entre Donald Trump et Vladimir Poutine sur des livraisons massives de diesel russe",
+      "title": "EN DIRECT, guerre en Ukraine : le Kremlin confirme l’accord entre Donald Trump et Vladimir Poutine sur des livraisons massives de gazole russe",
       "url": "https://www.lemonde.fr/international/live/2026/10/09/en-direct-guerre-en-ukraine-le-kremlin-confirme-l-accord-entre-donald-trump-et-vladimir-poutine-sur-des-livraisons-massives-de-diesel-russe_6787996_3210.html",
       "summary": "« La partie russe a réaffirmé sa volonté de fournir du pétrole et des produits pétroliers aux marchés américain et mondial », a déclaré le Kremlin après un appel téléphonique entre les deux dirigeants, confirmant l’annonce faite peu auparavant par Donald Trump.",
       "image": "https://img.lemde.fr/2026/10/09/57/0/3612/1806/644/322/60/0/614c1f4_ftp-1-aojux5wpgyzr-2026-10-09t195000z-729805144-rc2dsnaxmkyr-rtrmadp-3-usa-trump-diesel.JPG",
-      "published_at": "2026-10-09T22:18:46+02:00",
+      "published_at": "2026-10-09T22:18:44+02:00",
       "source": "Le Monde",
       "category": "International",
       "id": "2b4a573acf4c"
@@ -73,16 +183,6 @@
       "id": "b8e494fc0513"
     },
     {
-      "title": "L'ancienne ministre Najat Vallaud-Belkacem propose la mise en place d'un \"conclave de l'éducation\"",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/l-ancienne-ministre-najat-vallaud-belkacem-propose-la-mise-en-place-d-un-conclave-de-l-education_8230771.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'ancienne ministre socialiste de l'Education nationale propose, vendredi sur franceinfo, de réunir \"les représentants des organisations lycéennes, les représentants des enseignants, les représentants des collectivités locales et ceux des parents\".",
-      "image": "https://www.franceinfo.fr/pictures/A8XLwI-9vxHWrxqMfu6GEbU8xeI/0x0:4200x2362/432x243/filters:format(jpg)/2026/10/09/6ac94989f33b3795745780.jpg",
-      "published_at": "2026-10-09T22:12:02+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "615365e8435e"
-    },
-    {
       "title": "A quelques semaines des midterms, Donald Trump négocie avec Vladimir Poutine des livraisons massives de diesel russe",
       "url": "https://www.liberation.fr/international/a-quelques-semaines-des-midterms-donald-trump-negocie-avec-vladimir-poutine-des-livraisons-massives-de-diesel-russe-20261009_RCBZUJXY35EXDBJKSJWYPZRGW4/",
       "summary": "Le président républicain a annoncé vendredi l’importation de plusieurs millions de tonnes de diesel, dont la hausse, poussée par la guerre au Moyen-Orient et les attaques ukrainiennes sur les infrastructures russes, pèse sur le quotidien des Américains et sur la popularité du camp républicain.",
@@ -91,16 +191,6 @@
       "source": "Libération",
       "category": "International",
       "id": "ad43cb06f526"
-    },
-    {
-      "title": "Donald Trump choisit la commentatrice conservatrice Katie Zacharia comme porte-parole",
-      "url": "https://www.franceinfo.fr/monde/usa/donald-trump-choisit-la-commentatrice-conservatrice-katie-zacharia-comme-porte-parole_8230702.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cette Californienne a déjà été pendant quelques semaines porte-parole du ministère de la Sécurité intérieure, de février à avril 2026.",
-      "image": "https://www.franceinfo.fr/pictures/pMtBf0tCjU6Fsoko-icz3JUooXk/0x0:1024x576/432x243/filters:format(jpg)/2026/10/09/6ac938341dd68009316615.jpg",
-      "published_at": "2026-10-09T22:07:05+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "c1cd6be0153f"
     },
     {
       "title": "Présidentielle 2027 : le très droitier Gilles Platret présente sa candidature et embouteille son espace politique",
@@ -123,16 +213,6 @@
       "id": "68f7b0b70cac"
     },
     {
-      "title": "Mobilisation des lycéens : \"Non\", le mouvement ne s'essouffle pas, estime le représentant fédéral de l'Union syndicale lycéenne à Paris",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-3-000-professeurs-remplacants-vont-etre-affectes-dans-les-heures-qui-viennent-l-association-les-lyceens-salue-une-premiere-annonce-concrete_8229388.html#xtor=RSS-3-[lestitres]",
-      "summary": "Des propos tenus alors qu'une source gouvernementale a évoqué une \"nette décélération\" de la mobilisation un peu plus tôt dans la journée.",
-      "image": "https://www.franceinfo.fr/pictures/7UdQrRQR-HnzRjIbb9fRxll0KnY/0x53:1024x629/432x243/filters:format(jpg)/2026/10/09/6ac944271756a257231352.jpg",
-      "published_at": "2026-10-09T21:44:46+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "6f0c2d5bd3d2"
-    },
-    {
       "title": "Le prix Nobel de la paix décerné à l’avocate sud-africaine Navanethem Pillay",
       "url": "https://www.lemonde.fr/international/video/2026/10/09/le-prix-nobel-de-la-paix-decerne-a-l-avocate-sud-africaine-navanethem-pillay_6790635_3210.html",
       "summary": "Agée de 85 ans, Navi Pillay a notamment été juge et haut-commissaire des Nations unies aux droits de l’homme et présidente du Tribunal pénal international pour le Rwanda.",
@@ -141,16 +221,6 @@
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "9f6a46ebd5fe"
-    },
-    {
-      "title": "\"Les réseaux sociaux sont une mine d'informations extraordinaire\" : comment fonctionnent les enquêtes de l'IGPN ?",
-      "url": "https://www.franceinfo.fr/faits-divers/police/les-reseaux-sociaux-sont-une-mine-d-informations-extraordinaire-comment-fonctionnent-les-enquetes-de-l-igpn_8230723.html#xtor=RSS-3-[lestitres]",
-      "summary": "Depuis le début de la contestation étudiante, 6 877 personnes, dont 86 % de mineurs, ont été placées en garde à vue. Parallèlement, 24 enquêtes ont été confiées à l'IGPN pour des suspicions de violences policières.",
-      "image": "https://www.franceinfo.fr/pictures/dMxSC_cvYdzZthHiungB9tMxAKg/0x31:1184x697/432x243/filters:format(jpg)/2026/10/09/6ac93f6f1e499084659633.jpg",
-      "published_at": "2026-10-09T21:31:28+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "28b595bef95c"
     },
     {
       "title": "Mélenchon juge Attal «personnellement responsable» d’une partie de la révolte lycéenne, à cause de Parcoursup",
@@ -223,84 +293,14 @@
       "id": "c72fb1132efa"
     },
     {
-      "title": "Mobilisation des lycéens : une adolescente de 14 ans porte plainte après avoir été percutée par une voiture de la police à Dunkerque lundi",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-une-adolescente-de-14-ans-porte-plainte-apres-avoir-ete-percutee-par-une-voiture-de-la-police-a-dunkerque-lundi_8230696.html#xtor=RSS-3-[lestitres]",
-      "summary": "Une enquête avait été ouverte par le parquet pour \"mise en danger d'autrui\", après la diffusion d'une vidéo montrant une voiture de police \"avancer à vive allure à proximité de plusieurs personnes à pied\".",
-      "image": "https://www.franceinfo.fr/pictures/VxfL4rAfR-56EGe2uivKliSdzSU/0x310:4300x2729/432x243/filters:format(jpg)/2026/10/09/6ac938a854c9e421353602.jpg",
-      "published_at": "2026-10-09T20:56:28+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "2d412c24abe1"
-    },
-    {
       "title": "«Naza» : révéler ce que Nétanyahou voulait garder sous clé",
       "url": "https://www.liberation.fr/idees-et-debats/editorial/naza-reveler-ce-que-netanyahou-voulait-garder-sous-cle-20261009_QNJALKSOI5EYHILFVEWZU3M3BQ/",
-      "summary": "Le brillant documentaire, qui sort lundi 12 octobre, est un électrochoc pour la société et le pouvoir israéliens. Un film essentiel et courageux face à l’horreur imposée par Tel-Aviv à Gaza.",
+      "summary": "Ce documentaire glaçant, qui sort lundi 12 octobre, est un électrochoc pour la société et le pouvoir israéliens. Un film essentiel et courageux face à l’horreur imposée par Tel-Aviv à Gaza.",
       "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
       "published_at": "2026-10-09T18:53:03+00:00",
       "source": "Libération",
       "category": "International",
       "id": "37c143e86a90"
-    },
-    {
-      "title": "Attaque pendant le vol Flydubaï : le copilote planifiait une attaque sur l’aéroport de Tel Aviv, selon la justice émiratie",
-      "url": "https://www.liberation.fr/international/moyen-orient/attaque-pendant-le-vol-flydubai-le-copilote-planifiait-une-attaque-sur-laeroport-de-tel-aviv-20261009_3AZ3D4RX6RFFFAD5FBBNW5XC3E/",
-      "summary": "Lors d’un point presse ce vendredi, le procureur des Emirats arabes unis est revenu sur les motivations du copilote qui a poignardé son collègue, mercredi 30 septembre, en plein vol entre Dubaï et Israël.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-10-09T18:49:58+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "05c54c846727"
-    },
-    {
-      "title": "Extorsion et tortures sexuelles sur Discord : le «gourou» néonazi Rohan Rane condamné à 20 ans de réclusion",
-      "url": "https://www.liberation.fr/societe/police-justice/extorsion-et-tortures-sexuelles-sur-discord-le-gourou-neonazi-rohan-rane-condamne-a-20-ans-de-reclusion-20261009_DKOJADG2BVC7NBMMVR37GGWIH4/",
-      "summary": "Au bout de cinq jours d’un procès à huis clos, c’est une peine plus légère que celle requise par le parquet général, qui a été prononcée contre ce ressortissant indien, vendredi 9 octobre. Satisfaites, les parties civiles auraient néanmoins préféré une audience publique, afin de sensibiliser le public aux violences masculinistes.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-09T18:46:23+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "4c2d42733016"
-    },
-    {
-      "title": "Le Panama secoué par un puissant séisme ; une alerte tsunami lancée dans l’est du Pacifique par l’agence de sismologie américaine",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/09/le-panama-secoue-par-un-puissant-seisme-une-alerte-tsunami-lancee-dans-l-est-du-pacifique-par-l-agence-de-sismologie-americaine_6790632_3244.html",
-      "summary": "Selon les rapports préliminaires, le tremblement de terre a été ressenti dans tout le Panama. Les autorités ont appelé la population au calme.",
-      "image": "https://img.lemde.fr/2026/10/09/572/0/6784/3392/644/322/60/0/5c592cb_ftp-1-dzrfpemwa7yl-5310409-01-06.jpg",
-      "published_at": "2026-10-09T20:42:03+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "0a01a52f4c85"
-    },
-    {
-      "title": "Inflation, trésorerie à sec, réchauffement climatique : les agriculteurs inquiets pour leur avenir",
-      "url": "https://www.liberation.fr/environnement/agriculture/inflation-tresorerie-a-sec-rechauffement-climatique-les-agriculteurs-inquiets-pour-leur-avenir-20261009_SLVR3C6O5BFI5OWZTFJSSGLLCQ/",
-      "summary": "Pris dans un quotidien fait de débrouille et d’inquiétude, trois exploitants agricoles témoignent auprès de «Libé» des dégâts de la sécheresse estivale comme de la flambée des prix sur leur production et leurs revenus.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-10-09T18:42:00+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "00816a45f5be"
-    },
-    {
-      "title": "Rohan Rane, un étudiant nihiliste violent, condamné à vingt ans de réclusion criminelle pour avoir imposé des tortures sexuelles à des mineures sur Internet",
-      "url": "https://www.lemonde.fr/societe/article/2026/10/09/rohan-rane-un-etudiant-nihiliste-violent-condamne-a-20-ans-de-reclusion-criminelle-pour-avoir-impose-des-tortures-sexuelles-a-des-mineures-sur-internet_6790630_3224.html",
-      "summary": "Cet étudiant administrait un groupe en ligne spécialisé dans l’ultraviolence et la sextorsion. Son procès est le premier en France concernant cette mouvance, venue des Etats-Unis, qualifiée d’« extrémisme violent nihiliste ».",
-      "image": "https://img.lemde.fr/2026/10/09/189/168/3908/1954/644/322/60/0/0550300_upload-1-sbzad1apoapf-rohan-rane-3-adria-fruitos.jpg",
-      "published_at": "2026-10-09T20:31:55+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "5c89bdf780b7"
-    },
-    {
-      "title": "Des discussions débutent entre les Etats-Unis et l'Ukraine, les Européens conviés",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-discussions-debutent-entre-les-etats-unis-et-l-ukraine-les-europeens-convies_8230672.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les efforts de médiation de Washington étaient au point mort depuis le début de la guerre contre l'Iran en février mais ont repris ces dernières semaines.",
-      "image": "https://www.franceinfo.fr/pictures/XsaFwDVqUKRK69Adoexnt2noxlQ/0x66:1024x642/432x243/filters:format(jpg)/2026/10/09/6ac9307be4410016705302.jpg",
-      "published_at": "2026-10-09T20:20:58+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "56c0ba011628"
     }
   ]
 }
