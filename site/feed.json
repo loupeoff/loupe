@@ -1,306 +1,306 @@
 {
-  "generated_at": "2026-10-14T06:04:17.282935+00:00",
+  "generated_at": "2026-10-14T11:42:46.501637+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Frappes russes en Ukraine, avenir de Duralex, choc PSG-City… L’actu de ce 14 octobre au matin",
-      "url": "https://www.liberation.fr/international/europe/frappes-russes-en-ukraine-avenir-de-duralex-choc-psg-city-lactu-de-ce-14-octobre-au-matin-20261014_73BNESLMLJCQRNKJGG7KX44TFM/",
-      "summary": "La rédaction de «Libération» compile les principales infos du jour.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-10-14T05:55:21+00:00",
+      "title": "Ukraine : six morts dans des frappes russes contre des infrastructures énergétiques, le rôle des Etats-Unis mis en cause",
+      "url": "https://www.liberation.fr/international/europe/ukraine-des-infrastructures-energetiques-encore-frappees-par-la-russie-au-moins-6-morts-dans-le-pays-20261014_VX43GGFVEJC3RFAUYSFJHJNQ7Q/",
+      "summary": "Les autorités ukrainiennes disent ne pas avoir pu anticiper l’attaque russe massive survenue dans la nuit en raison d’une absence de renseignements fournis par leurs alliés et de la limitation des satellites Starlink d’Elon Musk.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-10-14T11:33:27+00:00",
       "source": "Libération",
-      "category": "Sport",
-      "id": "1f0afb8f14af"
+      "category": "Politique",
+      "id": "61305a458471"
     },
     {
-      "title": "L’élan du pontificat de Léon XIV percuté par la révélation de son cancer au poumon",
-      "url": "https://www.liberation.fr/international/europe/lelan-du-pontificat-de-leon-xiv-percute-par-la-revelation-de-son-cancer-au-poumon-20261014_EP55VHIIEVDEHH6MRVGGL6ARUI/",
-      "summary": "Le pape américain, à qui un lobe du poumon droit a été retiré, devra rassurer dans les mois à venir sur son état de santé. Jamais aucun souverain pontife n’en avait parlé publiquement de cette manière.",
+      "title": "Niger : les images d’une éruption de pétrole qui provoque l’inquiétude",
+      "url": "https://www.lemonde.fr/afrique/video/2026/10/14/niger-les-images-d-une-eruption-de-petrole-qui-provoque-l-inquietude_6793729_3212.html",
+      "summary": "Selon le ministère du pétrole, il s’agit d’un « incident environnemental d’une gravité exceptionnelle ».",
+      "image": "https://img.lemde.fr/2026/10/14/60/0/1920/960/644/322/60/0/f9c8f55_upload-1-glbgs7on6uyu-niger.jpg",
+      "published_at": "2026-10-14T13:31:22+02:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "ad2649423885"
+    },
+    {
+      "title": "Au Brésil, Lula mise sur des manifestations géantes et les réseaux sociaux pour convaincre les électeurs avant le second tour de la présidentielle",
+      "url": "https://www.lemonde.fr/international/article/2026/10/14/au-bresil-lula-mise-sur-des-manifestations-geantes-et-les-reseaux-sociaux-pour-convaincre-les-electeurs-avant-le-second-tour-de-la-presidentielle_6793728_3210.html",
+      "summary": "Le président sortant, arrivé derrière Flavio Bolsonaro au premier tour, espère rallier à son camp une partie des 33 millions d’abstentionnistes et des 8 millions d’électeurs qui ont voté pour les petits candidats.",
+      "image": "https://img.lemde.fr/2026/10/12/333/0/4000/2000/644/322/60/0/92192a6_ftp-1-eyygjgtxdja0-da73c6622bc04caca7524bc86fa685d5-0-3fd1a1ae21e54139b727331f8b99effd.jpg",
+      "published_at": "2026-10-14T13:30:06+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "34080ac01b77"
+    },
+    {
+      "title": "Aubagne : l’adolescent de 14 ans reconnaît les faits mais conteste « avoir voulu tuer les personnes ciblées »",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/14/aubagne-l-adolescent-de-14-ans-reconnait-les-faits-mais-conteste-avoir-voulu-tuer-les-personnes-ciblees_6793727_3224.html",
+      "summary": "Le suspect a invoqué une « volonté de vengeance en raison d’un harcèlement des professeurs et de ses camarades » non corroboré à ce stade des investigations. L’adolescent est présenté mercredi à trois juges d’instruction antiterroristes en vue de sa mise en examen.",
+      "image": "https://img.lemde.fr/2026/10/12/551/0/6617/3308/644/322/60/0/d2c5584_ftp-1-urxhqn6cnl1o-5332432-01-06.jpg",
+      "published_at": "2026-10-14T13:27:52+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "665903b71ed3"
+    },
+    {
+      "title": "L'adolescent arrêté après des tirs dans un collège à Aubagne reconnaît les faits mais conteste \"avoir voulu tuer\"",
+      "url": "https://www.franceinfo.fr/faits-divers/l-adolescent-arrete-apres-des-tirs-dans-un-college-a-aubagne-reconnait-les-faits-mais-conteste-avoir-voulu-tuer_8237104.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dans un communiqué, le Parquet national antiterroriste précise que l'adolescent a admis en garde à vue avoir \"muri son projet depuis plusieurs mois\".",
+      "image": "https://www.franceinfo.fr/pictures/PiKUeBh__AN3FyA1CmzGM3UO1Lg/0x146:5831x3426/432x243/filters:format(jpg)/2026/10/14/6acf620cbe478319119740.jpg",
+      "published_at": "2026-10-14T13:26:41+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "64aab4dae629"
+    },
+    {
+      "title": "« La leçon de Marco Rubio aux Européens, à Athènes, a contre elle vingt mois de gouvernement brutal et de diplomatie erratique »",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/14/la-lecon-de-marco-rubio-aux-europeens-a-athenes-a-contre-elle-vingt-mois-de-gouvernement-brutal-et-de-diplomatie-erratique_6793726_3232.html",
+      "summary": "Le secrétaire d’Etat américain, qui s’est exprimé devant le Parthénon, le 7 octobre, a fait du nationalisme le seul horizon du Vieux Continent. Un discours mis à mal par la politique sans boussole de Donald Trump, entre controverses et volte-face, note Gilles Paris, éditorialiste au « Monde », dans sa chronique.",
+      "image": "https://img.lemde.fr/2026/10/14/237/0/8640/4320/644/322/60/0/82e496d_upload-1-ze1gcinzkc6m-000-d2j9642-1.jpg",
+      "published_at": "2026-10-14T13:18:57+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "26ea109d070f"
+    },
+    {
+      "title": "Inauguration d’une mega-prison pour lutter contre les gangs au Costa Rica : le signe de la propagation du «modèle Bukele» en Amérique latine",
+      "url": "https://www.liberation.fr/international/amerique/inauguration-dune-mega-prison-pour-lutter-contre-les-gangs-au-costa-rica-le-signe-de-la-propagation-du-modele-bukele-en-amerique-latine-20261014_2A3N6EL6SJE73MRELVGXEAQQDI/",
+      "summary": "Le Centre de haute sécurité contre le crime organisé pourra accueillir 5 100 détenus des plus dangereux du pays. Il est inspiré de la politique sécuritaire au Salvador, très répressive et admirée par les régimes de droite américains.",
       "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-10-14T05:46:49+00:00",
+      "published_at": "2026-10-14T11:18:03+00:00",
       "source": "Libération",
       "category": "Société",
-      "id": "aac1db6cb512"
+      "id": "1d74b2013efb"
     },
     {
-      "title": "Collège d'Aubagne : les cours dans l'établissement Joseph-Lakanal suspendus au moins jusqu'à jeudi soir",
-      "url": "https://www.franceinfo.fr/faits-divers/college-d-aubagne-les-cours-dans-l-etablissement-joseph-lakanal-suspendus-au-moins-jusqu-a-jeudi-soir_8236702.html#xtor=RSS-3-[lestitres]",
-      "summary": "Après qu'un élève a ouvert le feu dans le collège, une cellule d'urgence médico-psychologique est encore ouverte ce mercredi dans l'établissement.",
-      "image": "https://www.franceinfo.fr/pictures/NIS-7f1-IW2lPvLnSWlzt1DM-cI/0x700:6720x4480/432x243/filters:format(jpg)/2026/10/14/6acf16b5f36eb435755431.jpg",
-      "published_at": "2026-10-14T07:44:30+02:00",
+      "title": "La France insoumise présente son projet de budget 2027 avec 25 milliards d'euros dédiés à la \"diminution\" de la dette",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/la-france-insoumise-presente-son-projet-de-budget-2027-avec-25-milliards-d-euros-dedies-a-la-diminution-de-la-dette_8237077.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ce texte serait ainsi une réponse à la \"culture dominante\" du \"néolibéralisme\", a plaidé Jean-Luc Mélenchon mercredi lors d'une conférence de presse organisée au siège de son parti.",
+      "image": "https://www.franceinfo.fr/pictures/gTPNo9nOZQxtKK65bGNQL56z9Ek/0x0:1024x576/432x243/filters:format(jpg)/2026/10/14/6acf5a4096c3f616288147.jpg",
+      "published_at": "2026-10-14T13:15:06+02:00",
       "source": "France Info",
-      "category": "Société",
-      "id": "03d2c7cdf68a"
+      "category": "Politique",
+      "id": "95b33342f666"
     },
     {
-      "title": "En Guyane, un garçon de 8 ans retrouvé mort déshydraté dans un bus scolaire à Matoury",
-      "url": "https://la1ere.franceinfo.fr/guyane/un-garcon-de-8-ans-retrouve-mort-deshydrate-dans-un-bus-scolaire-a-matoury-1747812.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un petit garçon de 8 ans a été retrouvé mort déshydraté ce mardi 13 octobre dans un bus à Paramana, près du village Sainte-Rose de Lima à Matoury. Les pompiers ont été alertés par la directrice de son école, car l'enfant ne s'était pas présenté le matin à l'école.",
-      "image": "https://www.franceinfo.fr/pictures/kwdB3bwp_5SrNfWB_k4Y8Tdjr8s/432x243/filters:format(jpg)/2026/10/13/6ace98bd00378399718195.jpg",
-      "published_at": "2026-10-14T07:35:49+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "0871bfbe2d94"
-    },
-    {
-      "title": "Guerre en Ukraine : au moins six morts après des frappes russes, des infrastructures énergétiques touchées à Kiev",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-infrastructures-energetiques-touchees-par-des-missiles-russes-a-kiev_8236531.html#xtor=RSS-3-[lestitres]",
-      "summary": "Plusieurs régions d'Ukraine ont été touchées par des tirs de missiles russes, dans la nuit.",
-      "image": "https://www.franceinfo.fr/pictures/N1h1oW5JFFuN7zB_JKEDtM4aoio/0x312:6876x4180/432x243/filters:format(jpg)/2026/10/14/6acf04655c0ee830652838.jpg",
-      "published_at": "2026-10-14T07:32:30+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "ddaa7e1c0380"
-    },
-    {
-      "title": "Mobilisation lycéenne : un policier mis en examen pour un jeune éborgné au LBD à Tours, 36 enquêtes ouvertes par l’IGPN",
-      "url": "https://www.liberation.fr/societe/police-justice/mobilisation-lyceenne-un-policier-mis-en-examen-pour-un-jeune-eborgne-au-lbd-a-tours-36-enquetes-ouvertes-par-ligpn-20261014_NKMQUPHUGBGXPIBTTN7B2UIWVU/",
-      "summary": "Selon les propos du ministre de l’Intérieur, Laurent Nuñez, devant les sénateurs, la police des polices a pour l’instant ouvert quatre enquêtes pour des blessures «mutilantes» et six pour des blessures «significatives».",
+      "title": "Aubagne : le collégien de 14 ans reconnaît les faits mais conteste l’intention de tuer",
+      "url": "https://www.liberation.fr/societe/police-justice/aubagne-le-collegien-de-14-ans-reconnait-les-faits-mais-conteste-lintention-de-tuer-20261014_S4YDLHFQ3RACZHZXBPB7TVIG54/",
+      "summary": "Entendu par les enquêteurs, l’adolescent a par ailleurs dénoncé un harcèlement de la part du corps professoral et d’autres élèves, selon un communiqué diffusé par le parquet le 14 octobre.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-14T05:29:47+00:00",
+      "published_at": "2026-10-14T11:14:20+00:00",
       "source": "Libération",
       "category": "Politique",
-      "id": "1885baac3741"
+      "id": "620ac5e059cc"
     },
     {
-      "title": "La déforestation a ralenti dans le monde en 2025, mais pas en Afrique centrale, selon une étude de référence",
-      "url": "https://www.franceinfo.fr/environnement/crise-climatique/forets/la-deforestation-a-ralenti-dans-le-monde-en-2025-mais-pas-en-afrique-centrale-selon-une-etude-de-reference_8236513.html#xtor=RSS-3-[lestitres]",
-      "summary": "La situation s'est dégradée l'an dernier dans le bassin du Congo, où la déforestation a atteint 2,4 millions d'hectares, un niveau pour la première fois comparable à celui de l'Amérique latine.",
-      "image": "https://www.franceinfo.fr/pictures/DLztCpSjdEMCLy7RflJAhlUT_3Y/0x37:6703x3807/432x243/filters:format(jpg)/2026/10/14/6acf120c88c92717325327.jpg",
-      "published_at": "2026-10-14T07:25:28+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "a126fd936f9f"
-    },
-    {
-      "title": "«Les Misérables», «Minotaure», «le Jour de son retour»... Nos critiques des sorties cinéma de la semaine",
-      "url": "https://www.liberation.fr/culture/cinema/les-miserables-minotaure-le-jour-de-son-retour-nos-critiques-des-sorties-cinema-de-la-semaine-20261014_IDMPFBLG2ZHXZCG2II5PJTSWUE/",
-      "summary": "«Libé» vous guide dans les sorties cinéma de ce mercredi 14 octobre, avec aussi «Englouti», «le Corset», «Malfaisante» et «Qui vit encore». Bandes-annonces à l’appui.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-10-14T05:15:12+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "4f2b75c894fb"
-    },
-    {
-      "title": "«Englouti», un film dur à digérer",
-      "url": "https://www.liberation.fr/culture/cinema/englouti-un-film-dur-a-digerer-20261014_IVRMG4HGFBAE3L3RH3NCPLC3QQ/",
-      "summary": "Plein de bons sentiments et de gros sabots, le thriller de Brian Duffield tourne plutôt au mélo, malgré de bonnes idées et un Austin Abrams efficace.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-14T05:13:01+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "850a171da5dd"
-    },
-    {
-      "title": "Des débris de missiles font quatre blessés en Arabie saoudite, Riyad revendique des frappes au Yémen",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/des-debris-de-missiles-font-quatre-blesses-en-arabie-saoudite-riyad-revendique-des-frappes-au-yemen_8236528.html#xtor=RSS-3-[lestitres]",
-      "summary": "D'après la défense civile saoudienne, les missiles ont été tirés par \"la milice houthie\" yéménite.",
-      "image": "https://www.franceinfo.fr/pictures/fNZWPZF0-6KicJc4qMHSX61RWYU/0x0:6180x3476/432x243/filters:format(jpg)/2026/10/14/6acf0dca32aa7521883327.jpg",
-      "published_at": "2026-10-14T07:07:12+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "9aad82e40d7d"
-    },
-    {
-      "title": "Julia Cagé et Alain Finkielkraut en débat : «Pour la gauche, éviter l’élection de Marine Le Pen n’est pas un programme politique»",
-      "url": "https://www.liberation.fr/idees-et-debats/julia-cage-et-alain-finkielkraut-en-debat-pour-la-gauche-eviter-lelection-de-marine-le-pen-nest-pas-un-programme-politique-20261014_D5XVWP2KNFGUJFG7KC3ZAMNUH4/",
-      "summary": "Dans l’optique de la présidentielle, «Libération» a réuni le philosophe réac et l’économiste de gauche pour une discussion parfois houleuse sur le pluralisme dans les médias, la montée du Rassemblement national et l’émiettement de la gauche.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-14T05:06:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "032ae87d89f6"
-    },
-    {
-      "title": "Mon covoiturage qui dérape : «Je suis réveillé par des bruits de flingue et de balles»",
-      "url": "https://www.liberation.fr/lifestyle/voyages/mon-covoiturage-qui-derape-je-suis-reveille-par-des-bruits-de-flingue-et-de-balles-20261014_UMDE5ADMNZBVPEJMWQSBKVNPGI/",
-      "summary": "La voiture à plusieurs, c’est bon pour le portefeuille mais parfois, tout ne se passe pas comme prévu. Dans le troisième épisode de notre série, Antoine se rappelle un conducteur au comportement pour le moins nonchalant.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-10-14T05:05:00+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "ab563a5274ed"
-    },
-    {
-      "title": "\"C'était un squelette\" : les Ukrainiens coincés dans la ville occupée d'Olechky sont confrontés à la famine",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-c-etait-un-squelette-les-ukrainiens-coinces-dans-la-ville-occupee-d-olechky-sont-confrontes-a-la-famine_8236051.html#xtor=RSS-3-[lestitres]",
-      "summary": "En Ukraine, près de 2 000 personnes restent piégées à Olechky, coupés du monde. Les habitants sont confrontés à une pénurie aiguë de nourriture et les autorités ukrainiennes appellent la communauté internationale à faciliter l’ouverture d’un corridor humanitaire.",
-      "image": "https://www.franceinfo.fr/pictures/NfuO8vhSqATEOX97QYnMAK1nKiU/0x53:1024x629/432x243/filters:format(jpg)/2026/10/13/6ace8beac456d975994248.jpg",
-      "published_at": "2026-10-14T06:53:46+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "616985b99ebc"
-    },
-    {
-      "title": "«Il faut imaginer un prisonnier qui essaie de s’échapper» : à Tanger, la jeunesse marocaine désemparée rêve d’ailleurs",
-      "url": "https://www.liberation.fr/international/afrique/il-faut-imaginer-un-prisonnier-qui-essaie-de-sechapper-a-tanger-la-jeunesse-marocaine-desemparee-reve-dailleurs-20261014_LFIZJFIHHBDENMG6VMB4ZL6QUM/",
-      "summary": "Fin juillet, plus de 70 000 personnes, la plupart marocaines, ont traversé la frontière vers Ceuta, enclave espagnole au Maroc, avant de faire le chemin en sens inverse les jours suivants. Une fuite massive et soudaine qui illustre un mal-être aux causes multiples.",
+      "title": "Affaire des viols à Cornell : la prestigieuse université suspend les soirées de fraternités pendant un an",
+      "url": "https://www.liberation.fr/international/amerique/affaire-des-viols-a-cornell-la-prestigieuse-universite-suspend-les-soirees-de-fraternites-pendant-un-an-20261014_FXXYL7MEHRHNFE6M6WV24SMDHA/",
+      "summary": "La direction de la fac, bousculée par les accusations de viols en réunion sur une étudiante en 2024 dans un de ces groupes masculins, examinera «si et comment la vie au sein des fraternités peut se poursuivre en toute sécurité».",
       "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-10-14T04:47:00+00:00",
+      "published_at": "2026-10-14T11:06:50+00:00",
       "source": "Libération",
       "category": "Société",
-      "id": "788de715cc71"
+      "id": "4d956e0093d2"
     },
     {
-      "title": "EN DIRECT, guerre en Ukraine : plusieurs régions frappées par des missiles russes, des infrastructures énergétiques endommagées à Kiev",
-      "url": "https://www.lemonde.fr/international/live/2026/10/14/en-direct-guerre-en-ukraine-des-infrastructures-energetiques-de-kiev-visees-par-une-attaque-russe-massive-selon-le-maire_6791198_3210.html",
-      "summary": "« Des infrastructures énergétiques de Kiev et de sa région ont été la cible d’une attaque massive au moyen de missiles balistiques », a dit le maire de la capitale ukrainienne, qui recense trois morts. Deux personnes sont mortes à Dnipropetrovsk et une autre dans la région de Zaporijia.",
-      "image": "https://img.lemde.fr/2026/10/14/674/0/8090/4045/644/322/60/0/2d8bc1c_ftp-1-crpw0nvgeauj-5347154-01-06.jpg",
-      "published_at": "2026-10-14T06:44:44+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "f7c02a1a7b42"
-    },
-    {
-      "title": "Budget de la France : \"Il faudra du temps\" avant de retrouver \"l'entière confiance\" des marchés, estime la cheffe du FMI",
-      "url": "https://www.franceinfo.fr/economie/budget/budget-de-la-france-il-faudra-du-temps-avant-de-retrouver-l-entiere-confiance-des-marches-estime-la-cheffe-du-fmi_8236639.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'examen du budget 2027 a démarré mardi à l'Assemblée nationale, avec l'ambition de retrouver l'an prochain un déficit à 5% du PIB.",
-      "image": "https://www.franceinfo.fr/pictures/49XZsA4Fgp0s5-L06J1Gyl29hYQ/0x625:6000x4000/432x243/filters:format(jpg)/2026/10/14/6acf07132fa88477193603.jpg",
-      "published_at": "2026-10-14T06:39:22+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "9fa62eb3a234"
-    },
-    {
-      "title": "Un rapport dénonce des inégalités dans l’offre de formations pour les lycéens de Seine-Saint-Denis",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-rapport-denonce-des-inegalites-dans-l-offre-de-formations-pour-les-lyceens-de-seine-saint-denis_8236600.html#xtor=RSS-3-[lestitres]",
-      "summary": "Selon ce rapport, les lycées du département proposent notamment moins de spécialités aux élèves. Ces derniers ont donc moins de perspectives dans l'enseignement supérieur.",
-      "image": "https://www.franceinfo.fr/pictures/GDyG7uygmGj7TX22-LT3mV7UfYU/0x325:2016x1459/432x243/filters:format(jpg)/2026/10/14/6acf0539cbcc8091152440.jpg",
-      "published_at": "2026-10-14T06:32:14+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "fa129c56719e"
-    },
-    {
-      "title": "Procès des revenantes de l’Etat islamique : Radia Selma Tahar Aouidate, une radicalisation dans la cellule familiale",
-      "url": "https://www.liberation.fr/societe/police-justice/proces-des-revenantes-de-letat-islamique-radia-selma-tahar-aouidate-une-radicalisation-dans-la-cellule-familiale-20261014_UHD5VU2TTVD4XKG4DFCFPRFAM4/",
-      "summary": "Issue d’une famille roubaisienne dont 23 membres sont venus gonfler les rangs de l’EI, la jeune femme de 33 ans comparaît ce mercredi 14 octobre devant la cour d’assises spéciale de Paris pour «association de malfaiteurs terroriste» criminelle. Elle encourt trente ans de réclusion criminelle.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-10-14T04:31:00+00:00",
-      "source": "Libération",
-      "category": "Tech",
-      "id": "c9a57e857590"
-    },
-    {
-      "title": "Dans le film d’horreur «Malfaisante», Jessica Chastain en maman goule",
-      "url": "https://www.liberation.fr/culture/cinema/dans-le-film-dhorreur-malfaisante-jessica-chastain-en-maman-goule-20261014_NFWBKDKALZAN7GCKRQXQWMHH6Y/",
-      "summary": "Le cinéaste Rob Savage et son personnage de mère à moitié maléfique échouent à réinventer le trope du doppelgänger.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-10-14T04:18:00+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "589169afcf22"
-    },
-    {
-      "title": "L'opération au poumon du pape Léon XIV \"s'est bien déroulée\", le nodule cancéreux a été retiré, annonce le Vatican",
-      "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/l-operation-au-poumon-du-pape-leon-xiv-s-est-bien-deroulee-annonce-le-vatican_8236060.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le pape entame sa convalescence à l'hôpital Gemelli de Rome, après y avoir subi une opération chirurgicale sans complications au cours de laquelle un nodule cancéreux lui a été retiré au poumon.",
-      "image": "https://www.franceinfo.fr/pictures/UDf5B-3Rz-OVaL0zAQuftXzZy5U/0x0:6830x3841/432x243/filters:format(jpg)/2026/10/13/6ace7cfde2cd2258718846.jpg",
-      "published_at": "2026-10-14T06:11:22+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "ed592e46cbab"
-    },
-    {
-      "title": "Jean-Marc Jancovici : « Tant qu’il n’y a pas dans la population une compréhension partagée du climat, le politique ne bougera pas »",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/14/jean-marc-jancovici-tant-qu-il-n-y-a-pas-dans-la-population-une-comprehension-partagee-du-climat-le-politique-ne-bougera-pas_6793395_823448.html",
-      "summary": "L’ingénieur spécialiste de l’énergie, fondateur du groupe de réflexion The Shift Project, expose les lourds enjeux climatiques qui pèsent sur les prochains gouvernements, à six mois de l’élection présidentielle de 2027.",
-      "image": "https://img.lemde.fr/2026/10/13/790/0/3854/1927/644/322/60/0/7d86fcd_upload-1-qatcspfwgtfi-kzihnioglu-pol-jancovici-12102026-02.JPG",
-      "published_at": "2026-10-14T06:00:18+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "d3218d853e7b"
-    },
-    {
-      "title": "Budget 2027 : Sébastien Lecornu s’accroche à son objectif d’un déficit inférieur à 3 % du PIB en 2029",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/14/budget-2027-sebastien-lecornu-s-accroche-a-son-objectif-d-un-deficit-inferieur-a-3-du-pib-en-2029_6793396_823448.html",
-      "summary": "Dans les annexes au projet de loi de finances pour 2027, le gouvernement promet de ramener le déficit de 5,4 % du produit intérieur brut en 2026 à 2,8 % en 2029. Un ajustement massif jugé de moins en moins crédible par les économistes.",
-      "image": "https://img.lemde.fr/2026/10/07/664/0/8000/4000/644/322/60/0/0a3bd49_upload-1-dsgtaswa954r-jmug261006021.jpg",
-      "published_at": "2026-10-14T06:00:18+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "3d9d088a1a12"
-    },
-    {
-      "title": "Pourquoi le choc de Ligue des champions contre Manchester City sera le premier baromètre de la saison du PSG",
-      "url": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/pourquoi-le-choc-de-ligue-des-champions-contre-manchester-city-sera-le-premier-barometre-de-la-saison-du-psg_8235658.html#xtor=RSS-3-[lestitres]",
-      "summary": "Après une mise en route difficile, le PSG a vraiment lancé sa saison le mois dernier et rencontre, mercredi, son premier gros obstacle.",
-      "image": "https://www.franceinfo.fr/pictures/727huuz_r3btH_w-g-Ga0I8naWQ/0x0:2634x1481/432x243/filters:format(jpg)/2026/10/13/6ace3e2bbe988838803232.jpg",
-      "published_at": "2026-10-14T06:00:09+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "110529f942d2"
-    },
-    {
-      "title": "Retraite : près de 80 000 mères de famille pourraient perdre le bénéfice de la surcote parentale",
-      "url": "https://www.lemonde.fr/argent/article/2026/10/14/retraite-pres-de-80-000-meres-de-famille-pourraient-perdre-le-benefice-de-la-surcote-parentale_6793394_1657007.html",
-      "summary": "Les réformes successives provoquent des dommages collatéraux et placent des candidats à la retraite face à des choix cornéliens.",
-      "image": "https://img.lemde.fr/2025/08/06/125/0/1500/750/644/322/60/0/d999304_upload-1-y8hx8v2elpnp-lmargent192.jpg",
-      "published_at": "2026-10-14T06:00:07+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "65d39014fa15"
-    },
-    {
-      "title": "\"J'ai le sentiment que c'est la fin des mots, et la fin des mots, c'est peut-être la fin des mondes\" : Delphine Horvilleur revient sur le dialogue impossible et la parole perdue",
-      "url": "https://www.franceinfo.fr/culture/livres/entretien-j-ai-le-sentiment-que-c-est-la-fin-des-mots-et-la-fin-des-mots-c-est-peut-etre-la-fin-des-mondes-delphine-horvilleur-revient-sur-le-dialogue-impossible-et-la-parole-perdue_8232655.html#xtor=RSS-3-[lestitres]",
-      "summary": "Dans son essai, Delphine Horvilleur cite Elie Wiesel qui écrivait : \"Jamais se taire quand des êtres humains endurent la souffrance et l'humiliation ou que ce soit\". L'autrice et essayiste fait de ces mots sa maxime en observant cette guerre entre Israël et le Hamas.",
-      "image": "https://www.franceinfo.fr/pictures/jWrJdHw0K6aWgKIaBDhKRCgDQhI/0x455:1365x1223/432x243/filters:format(jpg)/2026/10/12/6accb3291c835224723288.jpg",
-      "published_at": "2026-10-14T06:00:02+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "0e6073fdd642"
-    },
-    {
-      "title": "Découvrez la nouvelle appli : Libé tout compris",
-      "url": "https://www.liberation.fr/plus/communiques/decouvrez-la-nouvelle-appli-libe-tout-compris-20261014_CD6VE2PQVVDEJIPZUPVZ4OO5Z4/",
-      "summary": "Libération fait peau neuve avec une nouvelle application pour smartphone, comprenant un nouvel outil de recherche, de nouvelles sélections (Verso, 5 à 7), la montée en puissance de la vidéo et le renforcement de son identité visuelle.",
+      "title": "Une supernova presque en direct : le télescope James Webb a observé une probable explosion seulement 4 à 10 jours après la disparition de l’étoile",
+      "url": "https://www.numerama.com/sciences/2353007-une-supernova-presque-en-direct-le-telescope-james-webb-a-observe-une-probable-explosion-seulement-4-a-10-jours-apres-la-disparition-de-letoile.html",
+      "summary": "Une probable supernova a pu être observée par le télescope James Webb quelques jours seulement après l'explosion de son étoile. Une chance rare pour étudier ces événements dans l'Univers lointain.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-14T04:00:01+00:00",
-      "source": "Libération",
+      "published_at": "2026-10-14T11:01:00+00:00",
+      "source": "Numerama",
       "category": "Politique",
-      "id": "7fe54ac77036"
+      "id": "c256c08edc44"
     },
     {
-      "title": "En lycée pro, l’éducation «low cost» à hauteur de salle de classe",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/en-lycee-pro-leducation-low-cost-a-hauteur-de-salle-de-classe-20261014_O6A3FKRGLJEA5N7EA5FDJQMSSI/",
-      "summary": "Orientation subie pour «fournir» les métiers en tension et recours massif à des profs contractuels sans aucune formation… Céline Legent, enseignante contractuelle de lettres-histoire en banlieue parisienne, témoigne, en plein mouvement lycéen, de la réalité de ce qu’est l’éducation en lycée professionnel.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-14T03:51:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "599036e52fcf"
-    },
-    {
-      "title": "Comment expliquer le nombre important de gardes à vue depuis le début de la mobilisation lycéenne ?",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/comment-expliquer-le-nombre-important-de-gardes-a-vue-depuis-le-debut-de-la-mobilisation-lyceenne_8235619.html#xtor=RSS-3-[lestitres]",
-      "summary": "En un peu plus de trois semaines, plus de 6 800 personnes ont été placées en garde à vue, et plus de huit sur dix étaient mineures, selon le ministère de la Justice. Avocats, magistrats, policiers, mais aussi chercheurs et associations ont des lectures divergentes quant à cette situation.",
-      "image": "https://www.franceinfo.fr/pictures/gt59hVHrn4qDj24docoRaxkdNvs/0x0:1024x576/432x243/filters:format(jpg)/2026/10/13/6ace32669dff2285597674.jpg",
-      "published_at": "2026-10-14T05:46:08+02:00",
+      "title": "En Inde, deux chefs du mouvement contestataire des \"cafards\" placés en détention après des manifestations",
+      "url": "https://www.franceinfo.fr/monde/inde/en-inde-deux-chefs-du-mouvement-contestataire-des-cafards-places-en-detention-apres-des-manifestations_8237065.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les deux hommes âgés de 30 et 27 ans ont été placés pour au moins cinq jours en détention pour leur \"tentatives répétées de perturber l'ordre public et de violer la loi\".",
+      "image": "https://www.franceinfo.fr/pictures/xrjr_tznC2iRMl7ieA3SKm6GSOg/180x286:884x682/432x243/filters:format(jpg)/2026/10/14/6acf57ae130bd370244384.jpg",
+      "published_at": "2026-10-14T13:00:34+02:00",
       "source": "France Info",
       "category": "Sport",
-      "id": "211bc8799455"
+      "id": "3b6def28c991"
     },
     {
-      "title": "\"Un risque que beaucoup d'entreprises sous-estiment\" : pourquoi les frigos de supermarchés et autres objets connectés sont-ils si vulnérables face aux cyberattaques ?",
-      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-risque-que-beaucoup-d-entreprises-sous-estiment-pourquoi-les-frigos-de-supermarches-et-autres-objets-connectes-sont-ils-si-vulnerables-face-aux-cyberattaques_8235535.html#xtor=RSS-3-[lestitres]",
-      "summary": "Des hackeurs ont perturbé des centaines de supermarchés en France, lundi, en faisant monter la température d'installations frigorifiques accessibles via internet. Un rappel que les objets connectés sont souvent mal protégés face aux cyberattaques.",
-      "image": "https://www.franceinfo.fr/pictures/pViRTjmaP3ir2TOLdYGdGkGpXu8/0x12:1024x588/432x243/filters:format(jpg)/2026/10/13/6ace45ca43169975206391.jpg",
-      "published_at": "2026-10-14T05:45:43+02:00",
-      "source": "France Info",
-      "category": "Tech",
-      "id": "f73f880faaa7"
+      "title": "En Azerbaïdjan, des manifestants protestent contre l’interdiction du port du hijab à l’école",
+      "url": "https://www.lemonde.fr/international/article/2026/10/14/en-azerbaidjan-des-manifestants-protestent-contre-l-interdiction-du-port-du-hijab-a-l-ecole_6793725_3210.html",
+      "summary": "L’adoption par le conseil des ministres d’une directive interdisant les tenues vestimentaires jugées « contraires au principe de l’enseignement laïc » a provoqué une vive réaction dans le pays, à 95 % musulman.",
+      "image": "https://img.lemde.fr/2026/10/14/0/0/8028/4014/644/322/60/0/4b1eee8_upload-1-7gsor4vnunpo-000-c2qv87j.jpg",
+      "published_at": "2026-10-14T13:00:06+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "fa7ce8e76d0f"
+    },
+    {
+      "title": "Dépendance aux hydrocarbures russes : entre Moscou et Bruxelles, la bataille de chiffres",
+      "url": "https://www.liberation.fr/international/europe/dependance-aux-hydrocarbures-russes-entre-moscou-et-bruxelles-la-bataille-de-chiffres-20261014_NIGCZDHK5JHJBG3PUKBPXTUCVQ/",
+      "summary": "La Russie affirme que l’Union européenne a acheté pour 19 milliards d’euros d’hydrocarbures russes depuis janvier 2026, en dépit des sanctions. Un bilan contesté par Bruxelles, même si les importations continuent, sous certaines conditions.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-10-14T10:57:21+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "acceb126dd01"
+    },
+    {
+      "title": "A412 en Haute-Savoie : une première audience contre le chantier",
+      "url": "https://www.liberation.fr/environnement/a412-en-haute-savoie-une-premiere-audience-contre-le-chantier-20261014_MV3G4RL6LBFN5DSO5UCOTQ46SI/",
+      "summary": "Les opposants au projet autoroutier ont rendez-vous ce mercredi 14 octobre à la cour d’appel administrative de Lyon, saisie pour un référé-suspension qui pourrait mettre à l’arrêt les travaux bien entamés.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-10-14T10:49:36+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "800c60bacc43"
     },
     {
       "title": "\"Les industriels sont tout-puissants ici\" : comment l'ammoniac et les particules fines polluent l'air et la vie des habitants de Saint-Malo",
       "url": "https://www.franceinfo.fr/environnement/pollution/pollution-de-l-air/enquete-franceinfo-les-industriels-sont-tout-puissants-ici-comment-l-ammoniac-et-les-particules-fines-polluent-l-air-et-la-vie-des-habitants-de-saint-malo_8226484.html#xtor=RSS-3-[lestitres]",
       "summary": "Face à l'ampleur de la situation et aux dangers pour la santé, la Cité corsaire va être placée sous surveillance renforcée à partir du 1er janvier, avec la création d'une zone à risques.",
       "image": "https://www.franceinfo.fr/pictures/T6SOcGC3a11De-23PGYo-CraZhA/0x0:3840x2160/432x243/filters:format(jpg)/2026/10/12/6acd01f58bf09954793198.jpg",
-      "published_at": "2026-10-14T05:45:01+02:00",
+      "published_at": "2026-10-14T12:34:12+02:00",
       "source": "France Info",
       "category": "Politique",
       "id": "efea2fd8c85c"
+    },
+    {
+      "title": "\"Des faits de nature criminelle\" : l'avocat du lycéen à la main arrachée à Lens a déposé plainte pour \"violences volontaires ayant entraîné une infirmité permanente\"",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/des-faits-de-nature-criminelle-l-avocat-du-lyceen-a-la-main-arrachee-a-lens-a-depose-plainte-pour-violences-volontaires-ayant-entraine-une-infirmite-permanente_8236930.html#xtor=RSS-3-[lestitres]",
+      "summary": "Evan, 15 ans, a été longuement entendu mardi par l'Inspection générale de la police nationale (IGPN), en charge de l'enquête, depuis le CHR de Lille où il est toujours hospitalisé, a précisé Bertrand Wattez.",
+      "image": "https://www.franceinfo.fr/pictures/Nr51eJfLKWRj84fmbIYOmlQlIRE/0x301:5798x3563/432x243/filters:format(jpg)/2026/10/14/6acf530f4b566173322907.jpg",
+      "published_at": "2026-10-14T12:34:03+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "eb7ee3cf241d"
+    },
+    {
+      "title": "A 4 807,47 mètres, le mont Blanc a poussé de 1,88 mètre en trois ans",
+      "url": "https://www.liberation.fr/environnement/climat/a-4-80747-metres-le-mont-blanc-a-pousse-d188-metre-en-trois-ans-20261014_3JDSZKZ75VDFVF3L7C32NU7CG4/",
+      "summary": "La hauteur du sommet enneigé varie au gré des conditions météorologiques, un phénomène suivi depuis 2001 par les géomètres-experts pour mieux comprendre son évolution dans le temps.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-10-14T10:24:34+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "ae3f50cb0933"
+    },
+    {
+      "title": "Mobilisation lycéenne : Emmanuel Macron demande au gouvernement «des réponses concrètes dans les semaines à venir»",
+      "url": "https://www.liberation.fr/societe/education/mobilisation-lyceenne-un-peu-moins-de-200-etablissements-fermes-ce-mercredi-selon-le-ministre-de-leducation-20261014_APKKFUJDP5ES7LO3TCGGIHJRO4/",
+      "summary": "Le ministre de l’Education, Edouard Geffray, a chiffré ce mercredi à «environ 200» le nombre d’établissements fermés ce mercredi, avec «aucune perturbation repérée dans les trois quarts des départements» de France.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-10-14T10:22:26+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "6e92b7b963c4"
+    },
+    {
+      "title": "Arabie saoudite : des explosions entendues à Riyad ; les houthistes revendiquent des attaques sur des sites pétroliers et des aéroports en Arabie saoudite",
+      "url": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/10/14/attaques-en-arabie-saoudite-de-nouvelles-explosions-a-riyad-les-houthistes-revendiquent-des-frappes-sur-les-installations-petrolieres-et-les-aeroports-saoudiens_6793721_6325529.html",
+      "summary": "La capitale saoudienne a de nouveau été visée par un missile houthiste, mercredi, tandis que la coalition menée par l’Arabie saoudite contre les combattants pro-iraniens au Yémen a visé Saana, la capitale yéménite, mardi.",
+      "image": "https://img.lemde.fr/2026/10/14/240/0/960/480/644/322/60/0/88ccbbb_ftp-1-cb0owa1tgix2-2026-10-14t075856z-1546767291-rc2v2oat5lxu-rtrmadp-3-iran-crisis-saudi-yemen.JPG",
+      "published_at": "2026-10-14T12:21:13+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "b8d919c2ba6c"
+    },
+    {
+      "title": "Gaza dévastée par trois ans de guerre : les preuves vues du ciel",
+      "url": "https://www.liberation.fr/checknews/gaza-devastee-par-trois-ans-de-guerre-les-preuves-vues-du-ciel-20261014_DMCGVEV5DJASRKWHZSOE35AN6A/",
+      "summary": "Alors que Gaza reste interdite d’accès à la presse internationale, «Libération» publie une enquête visuelle inédite qui documente, grâce aux images satellite, ce que la guerre menée par l’armée israélienne a fait au territoire et à ses habitants.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-10-14T10:19:32+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "d764e2bd0f1b"
+    },
+    {
+      "title": "Tours : l’adolescent éborgné par un tir de LBD à Tours est sorti de l’hôpital, un policier mis en examen",
+      "url": "https://www.liberation.fr/societe/police-justice/mobilisation-lyceenne-un-policier-mis-en-examen-pour-un-jeune-eborgne-au-lbd-a-tours-36-enquetes-ouvertes-par-ligpn-20261014_NKMQUPHUGBGXPIBTTN7B2UIWVU/",
+      "summary": "Devant les sénateurs, le ministre de l’Intérieur Laurent Nuñez a annoncé mardi que l’IGPN avait ouvert à ce stade 36 enquêtes, dont quatre pour des blessures «mutilantes» et six pour des blessures «significatives».",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-10-14T10:18:41+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "1885baac3741"
+    },
+    {
+      "title": "Au Brésil, des artistes indigènes inquiets d’un retour au pouvoir des Bolsonaro : «On sera plus que jamais en danger»",
+      "url": "https://www.liberation.fr/international/amerique/au-bresil-des-artistes-indigenes-inquiets-dun-retour-au-pouvoir-des-bolsonaro-on-sera-plus-que-jamais-en-danger-20261014_CV7JPYAFDBHYJIDLABO7L5YLCA/",
+      "summary": "Alors que Flávio Bolsonaro pourrait être élu Président le 25 octobre, cinq personnalités originaires de communautés autochtones du pays racontent à «Libération» leurs craintes. Et l’espoir, malgré tout, que Lula l’emporte.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-10-14T10:11:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "6ba2c6028d62"
+    },
+    {
+      "title": "Un instituteur d'une école maternelle en Charente visé par une enquête pour agressions sexuelles et viol sur plusieurs enfants",
+      "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-instituteur-d-une-ecole-maternelle-en-charente-vise-par-une-enquete-pour-agressions-sexuelles-et-viol-sur-plusieurs-enfants_8237044.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le suspect de 60 ans est présenté à un juge ce mercredi, le parquet réclame son placement en détention provisoire.",
+      "image": "https://www.franceinfo.fr/pictures/TPrMRpRck1sWUL0q0xTndRAoxCA/0x643:5000x3456/432x243/filters:format(jpg)/2026/10/07/6ac65694d01b1900331264.jpg",
+      "published_at": "2026-10-14T12:04:02+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "465d3f51a58d"
+    },
+    {
+      "title": "La Moldavie confrontée à une sécheresse historique du Dniestr sur fond de tensions géopolitiques",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/14/la-moldavie-confrontee-a-une-secheresse-historique-du-dniestr-sur-fond-de-tensions-geopolitiques_6793719_3244.html",
+      "summary": "Le pays, qui partage les eaux du fleuve avec l’Ukraine et la région séparatiste prorusse de Transnistrie, fait son possible pour sécuriser l’approvisionnement en eau potable de la capitale, Chisinau. Mais la cogestion est rendue difficile par les rivalités régionales et la guerre en Ukraine.",
+      "image": "https://img.lemde.fr/2026/10/13/500/0/6000/3000/644/322/60/0/9dc879b_upload-1-2fn9oiotrkuq-sipa-01303771-000001.jpg",
+      "published_at": "2026-10-14T12:00:03+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "b93197a129f9"
+    },
+    {
+      "title": "Un an après le casse du Louvre, les enquêteurs toujours à la recherche des receleurs et des commanditaires",
+      "url": "https://www.liberation.fr/culture/arts/un-an-apres-le-casse-du-louvre-les-enqueteurs-toujours-a-la-recherche-des-receleurs-et-des-commanditaires-20261014_LY3G2OYHGZAP3MRTJGYCNB5DBU/",
+      "summary": "Si les enquêteurs ont reconstitué une partie du mode opératoire de ce vol spectaculaire, les versions contradictoires des suspects et l’absence de receleurs identifiés entretiennent le flou.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-10-14T09:59:54+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "07146b8addc8"
+    },
+    {
+      "title": "Mobilisation lycéenne : 2 000 professeurs ont été remplacés, annonce la porte-parole du gouvernement",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-des-etablissements-toujours-bloques-aucune-perturbation-dans-les-trois-quarts-des-departements-ajoute-edouard-geffray_8236774.html#xtor=RSS-3-[lestitres]",
+      "summary": "La porte-parole du gouvernement a fait un point d'étape après la promesse faite par le ministre de l'Education de déployer 3 000 professeurs remplaçants.",
+      "image": "https://www.franceinfo.fr/pictures/JkvDUqePqyLYdrNxMwKgI0hoDus/0x36:6720x3816/432x243/filters:format(jpg)/2026/10/14/6acf51456df2a376006729.jpg",
+      "published_at": "2026-10-14T11:58:12+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "9b2a42236960"
+    },
+    {
+      "title": "\"Ça va demander des mesures ambitieuses\" : The Shift Project de Jean-Marc Jancovici publie un plan pour décarboner l'économie en vue de la présidentielle",
+      "url": "https://www.franceinfo.fr/environnement/crise-climatique/ca-va-demander-des-mesures-ambitieuses-the-shift-project-de-jean-marc-jancovici-publie-un-plan-pour-decarboner-l-economie-en-vue-de-la-presidentielle_8236849.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le groupe de réflexion pointe dans son livre plusieurs enjeux principaux, dont l'électrification massive du pays et la production d'une électricité bas-carbone en mixant production nucléaire et renouvelable.",
+      "image": "https://www.franceinfo.fr/pictures/d2SKAWu4xwcsHjJijFdtTrGNw8Y/0x0:5000x2812/432x243/filters:format(jpg)/2026/10/14/6acf421b830b3299020610.jpg",
+      "published_at": "2026-10-14T11:52:50+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "02e806b77c86"
+    },
+    {
+      "title": "Une attaque de drones ukrainiens a ciblé un centre de données de la banque publique russe Sberbank",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-attaque-de-drones-ukrainiens-a-cible-un-centre-de-donnees-de-la-banque-publique-russe-sberbank_8237014.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Tous les systèmes et services de Sberbank fonctionnement normalement, sans aucune défaillance\", a assuré la banque.",
+      "image": "https://www.franceinfo.fr/pictures/3gvs5E_qYdbPwp7oVB6XO029FOY/0x0:4265x2399/432x243/filters:format(jpg)/2026/10/14/6acf508bc2b80259653961.jpg",
+      "published_at": "2026-10-14T11:52:07+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "9c2210bc6041"
+    },
+    {
+      "title": "Gaël Monfils : une retraite en catimini",
+      "url": "https://www.liberation.fr/sports/tennis/gael-monfils-une-retraite-en-catimini-20261014_MUAVQUF35NCOPHVLSFMP6UKEZE/",
+      "summary": "En demandant, le 5 octobre, son inscription sur la liste des joueurs retraités à l’Agence internationale pour l’intégrité du tennis, qui l’éloigne des courts pour au moins six mois, le Français de 40 ans renonce à ses adieux espérés au Masters 1 000 de Paris.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-10-14T09:49:05+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "ff24def4a3cf"
     }
   ]
 }
