@@ -1,16 +1,226 @@
 {
-  "generated_at": "2026-10-15T19:01:02.934762+00:00",
+  "generated_at": "2026-10-15T22:07:02.966898+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "Un grave accident entre un bus et un train fait 19 blessés à l'entrée du tunnel sous la Manche, près de Calais",
+      "url": "https://www.franceinfo.fr/faits-divers/accident/un-grave-accident-entre-un-bus-et-un-train-s-est-produit-a-l-entree-du-tunnel-sous-la-manche-pres-de-calais-et-a-fait-une-vingtaine-de-blesses_8239282.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'incident s'est produit jeudi soir à Coquelles (Pas-de-Calais). La préfecture fait, à ce stade, état de cinq personnes en urgence absolue, mais aucun pronostic vital n'est engagé.",
+      "image": "https://www.franceinfo.fr/pictures/q561djKLNyArLxjlk-bcksSikGw/0x0:1024x576/432x243/filters:format(jpg)/2026/10/15/6ad124961f843738215929.jpg",
+      "published_at": "2026-10-15T23:56:50+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "ae65c8bc0655"
+    },
     {
       "title": "Mobilisation lycéenne : depuis le début du mouvement, 165 membres du personnel de l'Education nationale ont été blessés, selon Edouard Geffray",
       "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mouvement-lyceen-les-organisations-lyceennes-doivent-etre-recues-pour-la-troisieme-fois-par-le-ministre-de-l-education_8238049.html#xtor=RSS-3-[lestitres]",
       "summary": "\"Ces violences doivent cesser. En démocratie, seul le dialogue permet d’avancer. Il se poursuit à tous les niveaux\", a déclaré le ministre de l'Education, jeudi sur les réseaux sociaux.",
       "image": "https://www.franceinfo.fr/pictures/jdbIMdnpba0En6nnsmc-OrQG6os/0x53:1024x629/432x243/filters:format(jpg)/2026/10/15/6ad11de89eaed085849005.jpg",
-      "published_at": "2026-10-15T20:55:16+02:00",
+      "published_at": "2026-10-15T23:55:56+02:00",
       "source": "France Info",
       "category": "Politique",
       "id": "2cf22bbf5017"
+    },
+    {
+      "title": "Guerre en Ukraine : après sa rencontre avec Volodymyr Zelensky, Emmanuel Macron affirme qu’il est \"capital\" de donner les moyens à l’Ukraine de se défendre",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-volodymyr-zelensky-annonce-la-reprise-des-frappes-contre-des-raffineries-russes-apres-les-attaques-de-moscou-contre-des-infrastructures-energetiques_8238340.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"J'ai redit ce soir au Président Zelensky notre détermination à nous tenir aux côtés de l'Ukraine et du peuple ukrainien\", a déclaré le président français sur ses réseaux sociaux.",
+      "image": "https://www.franceinfo.fr/pictures/JA7jG1i1-6OFihgffE6XFUobdII/0x53:1024x629/432x243/filters:format(jpg)/2026/10/15/6ad0cece35392470924178.jpg",
+      "published_at": "2026-10-15T23:54:35+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "493e52daec94"
+    },
+    {
+      "title": "Un tireur fait \"plusieurs victimes\" dans une école primaire de l'Oregon aux Etats-Unis",
+      "url": "https://www.franceinfo.fr/monde/usa/un-tireur-fait-plusieurs-victimes-dans-une-ecole-primaire-de-l-oregon-aux-etats-unis_8239228.html#xtor=RSS-3-[lestitres]",
+      "summary": "Lorsque les agents sont arrivés sur place, le tireur \"avait été abattu\" a précisé la porte-parole de la police, Sheila Miller, lors d'une conférence de presse.",
+      "image": "https://www.franceinfo.fr/pictures/4ne3by9S_nmdgeeBsKz3mzh3Y6U/630x446:4358x2542/432x243/filters:format(jpg)/2026/10/15/6ad149e559d59332798589.jpg",
+      "published_at": "2026-10-15T23:53:26+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "bbb2d1a5e497"
+    },
+    {
+      "title": "Tunnel sous la Manche : collision entre un minibus et un train de fret à l’arrêt, 19 blessés",
+      "url": "https://www.liberation.fr/international/europe/tunnel-de-la-manche-collision-entre-un-bus-et-un-train-19-blesses-dont-5-en-urgence-absolue-20261015_SCJJ6TEZ3NBZ5BW3RWLDHTDIH4/",
+      "summary": "L’accident, est survenu ce jeudi vers 19 h 30 à l’entrée du tunnel, à Coquelles dans le Pas-de-Calais. Il n’a pas eu d’impact sur la circulation des Eurostar et des trains de fret. «Aucun pronostic vital n’est engagé», selon la préfecture.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-10-15T21:33:16+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "92c517a023a4"
+    },
+    {
+      "title": "L'OM concède une défaite rageante face à l'Olympiakos en Ligue Europa",
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-europa/l-om-concede-une-defaite-rageante-face-a-l-olympiakos-en-ligue-europa_8239318.html#xtor=RSS-3-[lestitres]",
+      "summary": "Après deux journées de saison régulière, les Marseillais ne comptent aucun point en Ligue Europa.",
+      "image": "https://www.franceinfo.fr/pictures/CE2Qc862MXSlyJm9jM4jXDRxn3I/0x0:3367x1893/432x243/filters:format(jpg)/2026/10/15/6ad138d489210934337006.jpg",
+      "published_at": "2026-10-15T23:13:13+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "f916ef2f4699"
+    },
+    {
+      "title": "Le Stade Rennais souffre mais arrache la victoire en fin de match contre l'OFI Crète en Ligue Europa",
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-europa/le-stade-rennais-souffre-mais-arrache-la-victoire-en-fin-de-match-contre-l-ofi-crete-en-ligue-europa_8239381.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les Rennais étaient menés jusqu'à 76e minute de jeu, mais ont réussi à décrocher les trois points à domicile contre l'OFI Crète, jeudi (2-1).",
+      "image": "https://www.franceinfo.fr/pictures/PMKPJeyS9t0_YhHeh_BY9fiekWk/0x0:3799x2136/432x243/filters:format(jpg)/2026/10/15/6ad13b937e6f6149450811.jpg",
+      "published_at": "2026-10-15T22:59:23+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "adc12942afef"
+    },
+    {
+      "title": "«Une question assez explosive» : Edouard Philippe évoque des vacances plus courtes et un apprentissage concentré le matin",
+      "url": "https://www.liberation.fr/politique/une-question-assez-explosive-edouard-philippe-evoque-des-vacances-plus-courtes-et-un-apprentissage-concentre-le-matin-20261015_6OL2IPY2CVC3TL23TJOXZZKAZ4/",
+      "summary": "Lors d’une réunion d’appartements connectée ce jeudi sur les rythmes scolaires, le candidat Horizons à la présidentielle a suggéré de raccourcir les congés de la Toussaint et de Pâques pour réduire le nombre d’heures de cours par jour.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-10-15T20:55:30+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "c8948a92ee4a"
+    },
+    {
+      "title": "Liban : le Hezbollah reconnaît qu’une demi-tonne d’explosifs saisis il y a quelques jours étaient destinés à la « résistance » contre Israël",
+      "url": "https://www.lemonde.fr/international/article/2026/10/15/liban-le-hezbollah-reconnait-qu-une-demi-tonne-d-explosifs-saisis-la-semaine-derniere-etaient-destines-a-la-resistance-contre-israel_6794798_3210.html",
+      "summary": "Le groupe pro-iranien a demandé au gouvernement libanais « la restitution du véhicule et de son contenu », car il s’agit de « capacités » que le parti utilise contre Israël. Le secrétaire d’Etat américain, Marco Rubio, a exhorté le président libanais à ne pas rendre ces explosifs au Hezbollah.",
+      "image": "https://img.lemde.fr/2026/10/15/302/0/3623/1811/644/322/60/0/36a333c_upload-1-imeev3wxhpaf-ngas-lm-liban-rachaya-olives-9522.jpg",
+      "published_at": "2026-10-15T22:50:49+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "211be62347b6"
+    },
+    {
+      "title": "La CGT de la Fonderie de Bretagne \"en veut beaucoup à l'Etat\" après la liquidation judiciaire de l'entreprise",
+      "url": "https://www.franceinfo.fr/economie/industrie/la-cgt-de-la-fonderie-de-bretagne-en-veut-beaucoup-a-l-etat-apres-la-liquidation-judiciaire-de-l-entreprise_8239351.html#xtor=RSS-3-[lestitres]",
+      "summary": "Maël Le Goff, délégué de la CGT de la Fonderie de Bretagne évoque du \"dégoût\" pour le placement en liquidation judiciaire, jeudi, de ce site industriel qui compte 244 salariés.",
+      "image": "https://www.franceinfo.fr/pictures/rmOQdDx-jWsoYQ6H1ffyEXog2Z8/432x243/filters:format(jpg)/2026/10/14/6acf62d36caeb018817453.jpg",
+      "published_at": "2026-10-15T22:25:11+02:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "d332939165d5"
+    },
+    {
+      "title": "Un policier filmé en train d'effectuer un tir tendu avec un lanceur de grenades lacrymogènes lors d'une mobilisation lycéenne à Nancy, des observateurs de la LDH bousculés",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-policier-filme-en-train-d-effectuer-un-tir-tendu-avec-un-lanceur-de-grenades-lacrymogenes-lors-d-une-mobilisation-lyceenne-a-nancy-des-observateurs-de-la-ldh-bouscules_8239369.html#xtor=RSS-3-[lestitres]",
+      "summary": "Pour le moment, la Ligue des droits de l'homme étudie la possibilité de déposer plainte en raison des deux observateurs bousculés.",
+      "image": "https://www.franceinfo.fr/pictures/4wjKrKM1WsXxlkS6Kyqo8_mRShE/0x0:5423x3050/432x243/filters:format(jpg)/2026/10/15/6ad13524a60eb454392672.jpg",
+      "published_at": "2026-10-15T22:22:02+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "9fe8cf066d70"
+    },
+    {
+      "title": "Tunnel sous la Manche : un accident entre un bus et un train de fret fait dix-neuf blessés",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/15/tunnel-sous-la-manche-un-accident-entre-un-bus-et-un-train-de-fret-fait-dix-neuf-blesses_6794797_3224.html",
+      "summary": "Le minibus, qui a percuté une rame de train à l’arrêt, transportait des conducteurs de poids lourds qui s’apprêtaient à embarquer à bord d’une navette LeShuttle, a fait savoir la préfecture du Pas-de-Calais.",
+      "image": "https://img.lemde.fr/2024/10/24/375/0/2250/1125/644/322/60/0/4e171be_1729786778722-frame-159.jpg",
+      "published_at": "2026-10-15T22:04:48+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "9a8bca8df1b3"
+    },
+    {
+      "title": "Présidentielle 2027 : Raphaël Glucksmann dénonce la « capitulation » de Marine Le Pen sur l’aide à l’Ukraine",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/15/presidentielle-2027-raphael-glucksmann-denonce-la-capitulation-de-marine-le-pen-sur-l-aide-a-l-ukraine_6794796_823448.html",
+      "summary": "La promesse de la candidate RN de cesser l’aide financière de la France à l’Ukraine après six mois de pouvoir si elle était élue en 2027 reviendrait à « soumet[tre] l’ensemble de l’Europe à Vladimir Poutine », a estimé le candidat-social-démocrate.",
+      "image": "https://img.lemde.fr/2026/10/12/231/0/4724/2362/644/322/60/0/9609a1f_upload-1-4gmrk05yuf4k-mmagnin-primaire-gauche-resultats-84.jpg",
+      "published_at": "2026-10-15T21:55:47+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "a050397e58e4"
+    },
+    {
+      "title": "« Made in Europe » contre moteurs thermiques, le marchandage franco-allemand pour protéger l’industrie automobile européenne",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/15/made-in-europe-contre-moteurs-thermiques-le-marchandage-franco-allemand-pour-proteger-l-industrie-automobile-europeenne_6794795_3234.html",
+      "summary": "Après des mois des discussions, la France et l’Allemagne se sont accordées pour assouplir l’interdiction des voitures thermiques après 2035, en échange, comme le souhaitait Emmanuel Macron, de garanties sur la production de véhicules au sein de l’UE.",
+      "image": "https://img.lemde.fr/2026/10/13/1188/0/8640/4320/644/322/60/0/5e0cec5_ftp-1-4d2tmk046xwy-5338633-01-06.jpg",
+      "published_at": "2026-10-15T21:54:39+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "ba5093c257e8"
+    },
+    {
+      "title": "Interpellation d’un élève au sein du lycée Paul-Eluard : à quelles conditions la police peut-elle intervenir dans un établissement scolaire ?",
+      "url": "https://www.liberation.fr/societe/police-justice/interpellation-dun-eleve-au-sein-du-lycee-paul-eluard-a-quelles-conditions-la-police-peut-elle-intervenir-dans-un-etablissement-scolaire-20261015_IMO4QDLWKVCYRL4QBSHA4NVZUU/",
+      "summary": "Deux policiers en civil sont entrés ce jeudi dans un établissement de Saint-Denis (93) afin d’interpeller un adolescent qui s’y était réfugié après les avoir insultés pendant un blocus. En avaient-ils le droit ? «Libération» fait le point.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-10-15T19:46:36+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "92a18148da8c"
+    },
+    {
+      "title": "\"Vous devenez fou\" : Cécile Kohler et Jacques Paris racontent la \"torture blanche\", la méthode du régime iranien pour \"briser votre esprit\"",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-vous-devenez-fou-cecile-kohler-et-jacques-paris-racontent-la-torture-blanche-la-methode-du-regime-iranien-pour-briser-votre-esprit_8236993.html#xtor=RSS-3-[lestitres]",
+      "summary": "Deux touristes au mauvais endroit au mauvais moment, qui ont bien failli ne jamais revenir vivants de leurs vacances en Iran... Cécile Kohler et Jacques Paris ont passé presque quatre ans en détention arbitraire, dans des conditions extrêmement dures. Pour \"Envoyé spécial\", ils livrent un témoignage exceptionnel sur cette pratique glaçante des geôles iraniennes : la \"torture blanche\".",
+      "image": "https://www.franceinfo.fr/pictures/UoOj2NyqqrViK2tQAJ49rHZ8440/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/15/6ad0e2db68fc9731235357.jpg",
+      "published_at": "2026-10-15T21:43:18+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "6c80211dd8cd"
+    },
+    {
+      "title": "«On ne s’attendait à rien et on est quand même déçus» : pas d’avancée notable entre Edouard Geffray et les organisations lycéennes",
+      "url": "https://www.liberation.fr/societe/education/on-ne-sattendait-a-rien-et-on-est-quand-meme-decus-pas-davancee-notable-entre-edouard-geffray-et-les-organisations-lyceennes-20261015_ZKFRMKXH3JFGXPU2DNA52ABH2E/",
+      "summary": "A l’issue d’une troisième réunion avec les représentants de lycéens, le ministre de l’Education n’a pas convaincu. Alors qu’il promet des annonces sur Parcoursup d’ici la fin du mois, plusieurs militants ont annoncé vouloir échanger directement avec Matignon.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-10-15T19:32:10+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "9d8461ce929f"
+    },
+    {
+      "title": "Royaume-Uni : des membres du parti d’extrême droite Reform UK filmés en train de tenir des propos racistes",
+      "url": "https://www.liberation.fr/international/europe/royaume-uni-des-membres-du-parti-dextreme-droite-reform-uk-filmes-en-train-de-tenir-des-propos-racistes-20261015_TKMASWY3CZGQ5KCLNLWGXORBTQ/",
+      "summary": "Des premiers extraits d’un documentaire diffusé dimanche 18 octobre ont filtré mercredi, où des candidats à différentes élections locales sont enregistrés en caméra cachée. La formation assure avoir fait le ménage dans ses rangs.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-10-15T19:18:54+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "5b548ad71af2"
+    },
+    {
+      "title": "\"On ne se rendra pas aux prochaines réunions avec Edouard Geffray\", assure l'association Les Lycéens!, qui en appelle désormais à Sébastien Lecornu",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-ne-se-rendra-pas-aux-prochaines-reunions-avec-edouard-geffray-assure-l-association-les-lyceens-qui-en-appelle-desormais-a-sebastien-lecornu_8239309.html#xtor=RSS-3-[lestitres]",
+      "summary": "Pour ce troisième échange entre le ministre de l'Education nationale et les organisations lycéennes, aucune avancée notable n'a été enregistrée, et ce, depuis le début du mouvement. Le syndicat Les Lycéens!, comme l'USL, a de nouveau appelé les lycéens à manifester le samedi 17 octobre aux côtés d'autres catégories de mécontents",
+      "image": "https://www.franceinfo.fr/pictures/SQyl2d4ngUhqIsI77n0e_eLW2jo/0x53:1024x629/432x243/filters:format(jpg)/2026/07/16/6a587459b0b42501396879.jpg",
+      "published_at": "2026-10-15T21:13:42+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "9f5ae1210508"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : le ministre de la défense britannique plaide la cause de Kiev auprès de Washington",
+      "url": "https://www.lemonde.fr/international/live/2026/10/15/en-direct-guerre-en-ukraine-le-ministre-de-la-defense-britannique-plaide-la-cause-de-kiev-aupres-de-washington_6791198_3210.html",
+      "summary": "Dans un contexte de tensions croissantes entre les Etats-Unis et l’Ukraine, Wes Streeting a estimé que l’allié ukrainien « contribuera à la puissance américaine ».",
+      "image": "https://img.lemde.fr/2026/10/15/282/0/5310/2655/644/322/60/0/638301d_ftp-1-jlebdohiey8x-cc73a3f0b9ea4c34b782ad009d3cda37-0-f1bf8af6a94342c0bcd8cc56cce1db04.jpg",
+      "published_at": "2026-10-15T21:01:06+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "b3337911d61a"
+    },
+    {
+      "title": "Gérald Darmanin estime qu’« aucun magistrat ne doit être menacé ou insulté », en réaction aux attaques contre un juge de Bobigny",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/15/gerald-darmanin-estime-qu-aucun-magistrat-ne-doit-etre-menace-ou-insulte-en-reaction-aux-attaques-contre-un-juge-de-bobigny_6794794_3224.html",
+      "summary": "Youssef Badr, juge du tribunal de Bobigny, fait l’objet d’une enquête de 24 pages du magazine d’extrême droite « Frontières », et reçoit depuis sa publication de nombreuses attaques en ligne, qui préoccupent la profession.",
+      "image": "https://img.lemde.fr/2026/07/28/0/0/3926/1963/644/322/60/0/0d1888a_upload-1-wn5stcdidakf-04bi-nat-y5a6425-copie.jpg",
+      "published_at": "2026-10-15T20:55:49+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "9f1c09c92b46"
+    },
+    {
+      "title": "En Dordogne, un ex-professeur de musique condamné à un an de prison ferme pour des agressions sexuelles sur onze fillettes",
+      "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/en-dordogne-un-ex-professeur-de-musique-condamne-a-un-an-de-prison-ferme-pour-des-agressions-sexuelles-sur-onze-fillettes_8239264.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'ancien enseignant a également été condamné à une interdiction définitive d'exercer une profession ou une activité bénévole avec des mineurs et son nom a été inscrit au fichier des auteurs d'infractions sexuelles (FIJAIS).",
+      "image": "https://www.franceinfo.fr/pictures/3u3tsF-YcXVc59rjEG9j_tu1-QQ/432x243/filters:format(jpg)/2026/09/29/6abbdc0b6dd53958931208.jpg",
+      "published_at": "2026-10-15T20:54:01+02:00",
+      "source": "France Info",
+      "category": "Culture",
+      "id": "49b958e0f9af"
     },
     {
       "title": "Pourquoi Volodymyr Zelensky se sent « trahi » par les Etats-Unis ?",
@@ -21,6 +231,16 @@
       "source": "Le Monde Inter",
       "category": "International",
       "id": "e10b83089153"
+    },
+    {
+      "title": "L'AS Monaco s'impose dans la douleur sur la pelouse du CSKA Sofia pour ses débuts en Ligue Conférence",
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-europa-conference/l-as-monaco-s-impose-dans-la-douleur-sur-la-pelouse-du-cska-sofia-pour-ses-debuts-en-ligue-conference_8239237.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les Monégasques, qui font partie des favoris de la compétition, ont été très réalistes pour s'imposer 2-1 en Bulgarie, jeudi.",
+      "image": "https://www.franceinfo.fr/pictures/djbOkwAxsq2c8kC7X2mBwXsPAKM/0x0:5000x2812/432x243/filters:format(jpg)/2026/10/15/6ad11cac5ba8b901640681.jpg",
+      "published_at": "2026-10-15T20:50:08+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "ee22df3013de"
     },
     {
       "title": "En Russie, Sergueï Sokolov, rédacteur en chef du média indépendant \"Novaïa Gazeta\", est sorti de son interrogatoire",
@@ -81,226 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "0d7ee31f53f2"
-    },
-    {
-      "title": "L’extension de l’aéroport de Lille-Lesquin est bien partie",
-      "url": "https://www.liberation.fr/environnement/pollution/lextension-de-laeroport-de-lille-lesquin-est-bien-partie-20261015_QJT5C3VWCJE5ZJKFTI3CLIQR7A/",
-      "summary": "Au tribunal administratif de Lille, le rapporteur public a estimé ce jeudi 15 octobre que les recours des opposants n’étaient pas valides. La décision des juges est attendue dans un mois.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-15T18:15:07+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "560fdd0f98dc"
-    },
-    {
-      "title": "Prévention, parcours de soins, jeunes… 20 mesures \"en faveur de la santé mentale\" proposées par un collectif de soignants, d'aidants et de patients",
-      "url": "https://www.franceinfo.fr/sante/prevention-parcours-de-soins-jeunes-20-mesures-en-faveur-de-la-sante-mentale-proposees-par-un-collectif-de-soignants-d-aidants-et-de-patients_8239234.html#xtor=RSS-3-[lestitres]",
-      "summary": "Dans ce livre blanc, le collectif appelle à \"un plan Marshall \" comprenant un budget de \"3 milliards d'euros [annuels] sur 5 ans\".",
-      "image": "https://www.franceinfo.fr/pictures/W9d4xwgCP32sLR1hw97y87W6N4o/432x243/filters:format(jpg)/2026/06/05/6a22e0fa23904173239457.jpg",
-      "published_at": "2026-10-15T20:07:46+02:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "7976d40c18ab"
-    },
-    {
-      "title": "La France et l’Allemagne s’accordent sur l’avenir d’une industrie automobile « made in Europe »",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/15/la-france-et-l-allemagne-s-accordent-sur-l-avenir-d-une-industrie-automobile-made-in-europe_6794759_3234.html",
-      "summary": "Paris et Berlin s’accordent sur un compromis automobile, conciliant protection du marché européen et assouplissement des objectifs climatiques pour 2035.",
-      "image": "https://img.lemde.fr/2026/10/12/886/0/8640/4320/644/322/60/0/c61a257_ftp-1-wkrtqdfjmu92-ea9ed94bc3be475ab7c4460dbfad0a56-1-214c8e81f638477d8e7c86e3b9d9147e.jpg",
-      "published_at": "2026-10-15T20:02:54+02:00",
-      "source": "Le Monde Inter",
-      "category": "Économie",
-      "id": "efd51656941e"
-    },
-    {
-      "title": "Indignations dans la magistrature après un numéro de «Frontières» ciblant le juge Youssef Badr",
-      "url": "https://www.liberation.fr/societe/police-justice/indignations-dans-la-magistrature-apres-un-numero-de-frontieres-ciblant-le-juge-youssef-badr-20261015_5D6FIF7INZAXJARNQ6VEXUF4GU/",
-      "summary": "Plusieurs magistrats ainsi que le ministre de la Justice s’insurgent contre la publication d’extrême droite, qui a consacré sa une mardi au juge du tribunal de Bobigny. Celui-ci avait fait condamner en juin le directeur de la rédaction du magazine, Eric Tegnér.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-15T17:49:39+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "69eab077f164"
-    },
-    {
-      "title": "Selon le FMI, l’Inde deviendra la quatrième économie mondiale en 2027",
-      "url": "https://www.liberation.fr/international/asie-pacifique/selon-le-fmi-linde-deviendra-la-quatrieme-economie-mondiale-en-2027-20261015_725NXDUU65FT5LMBKCLKWL3BDE/",
-      "summary": "Le PIB indien dépasserait l’année prochaine celui du Japon et du Royaume-Uni, d’après les prévisions du Fonds monétaire international. Une croissance dont certains experts doutent de la solidité, et qui masque un chômage important chez les jeunes.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-10-15T17:42:57+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "308dd75834ff"
-    },
-    {
-      "title": "Mobilisation des lycéens : ce que l'on sait de l'intervention de la police au lycée Paul-Eluard de Saint-Denis",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-ce-que-l-on-sait-de-l-intervention-de-la-police-au-lycee-paul-eluard-de-saint-denis_8239189.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'intervention de policiers en civil pour interpeller un élève au sein de l'établissement a provoqué de vives tensions avec des enseignants. Les deux parties dénoncent des violences. Trois personnes ont été interpellées et une enquête a été ouverte.",
-      "image": "https://www.franceinfo.fr/pictures/CxqZDz0FNWZwcfEEXi-vX-R5FRU/0x387:7451x4579/432x243/filters:format(jpg)/2026/10/15/6ad10f16bff5a067947817.jpg",
-      "published_at": "2026-10-15T19:39:58+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "b73b579e79f7"
-    },
-    {
-      "title": "Budget de la Sécurité sociale : les députés rejettent en commission la partie « recettes » du texte",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/15/budget-de-la-securite-sociale-les-deputes-rejettent-en-commission-la-partie-recettes-du-texte_6794693_823448.html",
-      "summary": "Bien que le rejet de la partie « recettes » du projet de loi de financement de la Sécurité sociale en commission n’ait que peu de conséquences, il augure un rejet similaire en séance à l’Assemblée nationale, où le texte sera discuté à partir de mardi 20 octobre.",
-      "image": "https://img.lemde.fr/2026/10/14/594/0/6000/3000/644/322/60/0/dbe8cb3_ftp-1-gphth7sjwkb0-5350251-01-06.jpg",
-      "published_at": "2026-10-15T19:36:46+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "70a4edb054d2"
-    },
-    {
-      "title": "Accusés de torture par la justice américaine, l'ex-président vénézuélien Nicolas Maduro et sa femme ont plaidé non coupable devant un tribunal de New York",
-      "url": "https://www.franceinfo.fr/monde/venezuela/accuses-de-torture-nicolas-maduro-et-sa-femme-plaident-non-coupable-devant-un-tribunal-de-new-york_8239141.html#xtor=RSS-3-[lestitres]",
-      "summary": "Tout au long de sa présidence, entre 2013 et 2026, l'ancien chef d'Etat, actuellement incarcéré aux Etats-Unis après son kidnapping, a été régulièrement accusé par des associations de défense des droits humains d'utiliser des moyens répressifs pour se maintenir au pouvoir.",
-      "image": "https://www.franceinfo.fr/pictures/pWcyH4hRcPLUiwks1grtSWa9S3w/0x0:1024x576/432x243/filters:format(jpg)/2026/10/15/6ad106a7d65de751324768.jpg",
-      "published_at": "2026-10-15T19:35:31+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "1edd57ce687a"
-    },
-    {
-      "title": "Eric Coquerel, député LFI : «La police qui entre dans un lycée pour arrêter un élève, ça ne devrait pas arriver dans une démocratie»",
-      "url": "https://www.liberation.fr/politique/eric-coquerel-depute-lfi-la-police-qui-entre-dans-un-lycee-pour-arreter-un-eleve-ca-ne-devrait-pas-arriver-dans-une-democratie-20261015_RYJZGUQIFNETND4XXYD5ODBDHE/",
-      "summary": "L’élu de Seine-Saint-Denis dénonce auprès de «Libé» une «répression violente» de la mobilisation et s’inquiète de voir des agents intervenir au sein d’établissements scolaires, comme ce jeudi 15 octobre au lycée Paul-Eluard à Saint-Denis.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-15T17:34:02+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "ece7a7664a10"
-    },
-    {
-      "title": "« Ce sont la souveraineté et la sécurité des pays membres de la CPI qui sont bafouées par les sanctions américaines »",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/15/ce-sont-la-souverainete-et-la-securite-des-pays-membres-de-la-cpi-qui-sont-bafouees-par-les-sanctions-americaines_6794660_3232.html",
-      "summary": "Avocats au barreau de Paris, Emmanuel Daoud et Gabriel Sebbah dénoncent, dans une tribune au « Monde », les sanctions annoncées par Washington le 9 octobre contre la Cour pénale internationale. Les Etats qui en sont membres doivent réagir avec force pour la soutenir.",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/089b84e_upload-1-b9t4vsrdamnz-frame-985.jpg",
-      "published_at": "2026-10-15T19:30:04+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "3d5ccf85218e"
-    },
-    {
-      "title": "L’odyssée de Space",
-      "url": "https://www.liberation.fr/culture/musique/lodyssee-de-space-20261015_SUNZFZM7BJHSRKNCABQHNLOJDI/",
-      "summary": "Sortie d’une compilation des titres de Space, le groupe créé en 1978 par Didier Marouani.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-10-15T17:19:00+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "4c90d3892118"
-    },
-    {
-      "title": "Mondial de l’Auto 2026 : nos 9 coups de cœur, de l’Alpine A310 Vision à la Citroën 2CV",
-      "url": "https://www.numerama.com/vroom/2353885-coups-de-coeur-du-mondial-de-lauto-voici-nos-voitures-preferees-du-salon.html",
-      "summary": "Qui dit Mondial de l'Auto, dit coups de cœur de la rédaction. Pour cette édition 2026 du salon, découvrez les modèles qui nous ont fait craquer chez Numerama, de la citadine au supercar, sans oublier les nombreux concepts. Et oui, la Citroën 2CV fait évidemment partie du lot.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-15T17:15:00+00:00",
-      "source": "Numerama",
-      "category": "Politique",
-      "id": "a3af385115d1"
-    },
-    {
-      "title": "Yémen : les Houthis, une puissance militaire fanatique et ambitieuse",
-      "url": "https://www.liberation.fr/international/moyen-orient/yemen-les-houthis-une-puissance-militaire-fanatique-et-ambitieuse-20261015_7HWQP4FZHBA4BA2ODRC7CZKRM4/",
-      "summary": "En trois décennies, le groupe chiite rebelle allié de l’Iran, qui contrôle la capitale Sanaa, a développé un savoir-faire en armement de haute technologie, et cherche à peser sur la scène internationale.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-15T17:07:09+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "19391f7e2ba9"
-    },
-    {
-      "title": "Donald Trump renonce à diffuser en direct la mise à mort par peloton d'exécution militaire d'un meurtrier de soldats américains",
-      "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-renonce-a-diffuser-en-direct-la-mise-a-mort-par-peloton-d-execution-militaire-du-meurtrier-de-soldats-americains_8239087.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cette décision avait soulevé un tollé aux Etats-Unis et dans le monde, suscitant des critiques de l'Eglise catholique, des organisations de défense des droits de l'homme et des Nations unies.",
-      "image": "https://www.franceinfo.fr/pictures/Wz2HbEjGBc2JIzJXqojF2ZckKi4/0x0:1024x576/432x243/filters:format(jpg)/2026/10/15/6ad0fb89160cb382094256.jpg",
-      "published_at": "2026-10-15T19:04:12+02:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "d66d420383ee"
-    },
-    {
-      "title": "Faillite de Character.ai : grandeur et décadence d’un petit commerce d’IA",
-      "url": "https://www.liberation.fr/economie/economie-numerique/faillite-de-characterai-grandeur-et-decadence-dun-petit-commerce-dia-20261015_W2W3KPDAPJC7FEYFGSRFA3RZJM/",
-      "summary": "Valorisée à un milliard de dollars en 2023, l’entreprise d’IA, qui proposait de personnaliser des robots conversationnels pour les adapter aux goûts de chacun, a annoncé sa faillite ce 13 octobre, à court de fonds et devenue le symbole de dérives et d’atteintes à la santé mentale.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-10-15T17:01:58+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "e0997ca51db3"
-    },
-    {
-      "title": "Les craintes suscitées par les dettes des acteurs de l’IA agitent les marchés",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/15/les-craintes-suscitees-par-les-dettes-des-acteurs-de-l-ia-agitent-les-marches_6794626_3234.html",
-      "summary": "CoreWeave, qui construit des data centers, a vu sa valeur boursière fondre de 20 % en moins de deux jours. Les marchés doutent de la capacité de certains acteurs de la tech à rembourser les emprunts contractés pour financer l’essor de l’intelligence artificielle.",
-      "image": "https://img.lemde.fr/2026/10/15/216/0/5558/2779/644/322/60/0/3ef9271_upload-1-ga1wyouibeyu-2025-09-22t184639z-67785841-rc22xgat7943-rtrmadp-3-usa-stocks.JPG",
-      "published_at": "2026-10-15T19:00:02+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "bdaeda062f56"
-    },
-    {
-      "title": "Marine Le Pen exige la démission de Richard Ferrand, le Conseil constitutionnel fait corps avec son président",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/15/marine-le-pen-exige-la-demission-de-richard-ferrand-le-conseil-constitutionnel-fait-corps-avec-son-president_6794623_823448.html",
-      "summary": "Richard Ferrand avait rappelé l’impossibilité de réviser la Constitution par référendum sans accord préalable du Parlement. Alors que la candidate RN à la présidentielle de 2027 réclame sa tête, les membres du collège de la rue de Montpensier ont fait savoir que les propos de leur président étaient partagés par l’ensemble de l’institution.",
-      "image": "https://img.lemde.fr/2026/01/20/69/0/7488/3744/644/322/60/0/f915b71_ftp-1-plbx4fggvos3-5936442-01-06.jpg",
-      "published_at": "2026-10-15T18:59:44+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "3d654123f8be"
-    },
-    {
-      "title": "«Plutôt casser que plier face au racisme» : Joëlle Dambo dépose une plainte pour cyberharcèlement dans l’affaire de la crêperie de Gomené",
-      "url": "https://www.liberation.fr/societe/plutot-casser-que-plier-face-au-racisme-joelle-dambo-depose-une-plainte-pour-cyberharcelement-dans-laffaire-de-la-creperie-de-gomene-20261015_L4BV3JEFYNETTPQ3AQPBMX65TE/",
-      "summary": "Installée dans les Côtes-d’Armor et victime d’insultes racistes sur les réseaux sociaux, la restauratrice antillaise a également dénoncé ce jeudi à Paris les lenteurs de l’enquête depuis qu’elle a saisi la justice début juillet.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-10-15T16:59:30+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "c3794d66505b"
-    },
-    {
-      "title": "Procès en appel de l’affaire «band of connasses» : «Tara Heuzé-Sarmini aurait dû être là en tant que victime»",
-      "url": "https://www.liberation.fr/societe/police-justice/proces-en-appel-de-laffaire-band-of-connasses-tara-heuze-sarmini-aurait-du-etre-la-en-tant-que-victime-20261015_JL3BTXGJGBCPHFO5RXJESPBRGA/",
-      "summary": "Condamnée en première instance en septembre, l’entrepreneuse et militante féministe était jugée jeudi 15 octobre par la cour d’appel de Douai pour avoir diffusé sur le réseau LinkedIn un message d’insulte à connotation sexiste que lui avait envoyé Nicolas B., un homme d’affaires lillois.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-10-15T16:50:26+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "da9b18df3a34"
-    },
-    {
-      "title": "Un collégien de Bergerac blesse légèrement cinq camarades avec un objet tranchant, une cellule d'écoute mise en place vendredi",
-      "url": "https://www.franceinfo.fr/faits-divers/un-collegien-de-bergerac-blesse-legerement-cinq-camarades-avec-un-objet-tranchant-une-cellule-d-ecoute-mise-en-place-vendredi_8239147.html#xtor=RSS-3-[lestitres]",
-      "summary": "Selon le parquet de Bergerac, le jeune garçon, inconnu de la justice, a expliqué aux enquêteurs avoir fait cela pour \"rigoler\" et l'autorité judiciaire exclut toute intention terroriste.",
-      "image": "https://www.franceinfo.fr/pictures/zuIvxKf0JmEe9frm73jE_22zHZQ/0x0:1200x675/432x243/filters:format(jpg)/2026/06/17/6a32c3a7a5302852937821.jpg",
-      "published_at": "2026-10-15T18:50:10+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "118cdd86fcb1"
-    },
-    {
-      "title": "Au Yémen, une attaque du siège du gouvernement à Aden par des houthistes fait au moins quatre morts",
-      "url": "https://www.lemonde.fr/international/article/2026/10/15/au-yemen-une-attaque-des-houthistes-sur-le-siege-du-gouvernement-a-aden-fait-au-moins-quatre-morts_6794622_3210.html",
-      "summary": "Le premier ministre, Shaya Mohsin Zindani, a assuré que le gouvernement yéménite, qui s’est replié à Aden en 2015 après avoir été chassé de la capitale, Sanaa, par les rebelles pro-iraniens, « continue de s’acquitter de ses fonctions ».",
-      "image": "https://img.lemde.fr/2026/10/15/108/0/4000/2000/644/322/60/0/2ae9673_ftp-1-c0zls6yyjogi-2026-10-15t112033z-1415565948-rc2l3oaru8eg-rtrmadp-3-iran-risis-saudi-riyadh.JPG",
-      "published_at": "2026-10-15T18:48:08+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "c7a8293eed65"
-    },
-    {
-      "title": "«On n’est pas des machines» : épuisés par la mobilisation lycéenne, des proviseurs ferment leur bureau",
-      "url": "https://www.liberation.fr/societe/education/on-nest-pas-des-machines-epuises-par-la-mobilisation-lyceenne-des-proviseurs-ferment-leur-bureau-20261015_MCKOPNJYEFDUJDCYM7HOXUHFEU/",
-      "summary": "En première ligne depuis le début du mouvement courant septembre, des chefs d’établissement ont fermé – symboliquement – leurs portes le jeudi 15 octobre. Avec aussi des revendications adressées au ministère de l’Education, pour l’instant pas à la hauteur.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-10-15T16:46:19+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "3cf92a9cdadd"
     }
   ]
 }
