@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T19:11:19.665133+00:00",
+  "generated_at": "2026-10-17T22:10:42.581067+00:00",
   "article_count": 30,
   "articles": [
     {
@@ -7,20 +7,90 @@
       "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-lyceens-etudiants-gilets-jaunes-des-milliers-de-manifestants-attendus-dans-toute-la-france_8241022.html#xtor=RSS-3-[lestitres]",
       "summary": "Des violences ont éclaté en marge des cortèges dans de nombreuses villes, comme à Paris, Lyon et Marseille.",
       "image": "https://www.franceinfo.fr/pictures/vD6YbtjLNatrCf070u5Rwjpclpo/0x286:5498x3378/432x243/filters:format(jpg)/2026/10/17/6ad3bfe7d327a015773087.jpg",
-      "published_at": "2026-10-17T21:02:58+02:00",
+      "published_at": "2026-10-17T23:01:00+02:00",
       "source": "France Info",
       "category": "Politique",
       "id": "fa3bcc2dd096"
+    },
+    {
+      "title": "La main d'un manifestant de 17 ans arrachée par une grenade à Saint-Étienne pendant une mobilisation du 17 octobre, l'enquête confiée à l'IGPN",
+      "url": "https://www.franceinfo.fr/economie/greve/a-saint-etienne-un-manifestant-grievement-blesse-a-la-main-a-saint-etienne-pendant-une-mobilisation-du-17-octobre_8241952.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'adolescent âgé de 17 ans a été transporté en urgence au CHU de la ville, les circonstances du drame restent indéterminées pour le moment.",
+      "image": "https://www.franceinfo.fr/pictures/Vfc2qXY3c8haDAXph7Hk_YaHpLo/0x260:5000x3073/432x243/filters:format(jpg)/2023/07/27/64c2140fdf77e_igpn.jpg",
+      "published_at": "2026-10-17T23:00:37+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "3add13ca8ce4"
+    },
+    {
+      "title": "La mairie de Limoges incendiée, la résidence préfectorale de Bordeaux saccagée... La mobilisation du 17 octobre émaillée de violences dans plusieurs villes de France",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/lyon-rennes-marseille-belfort-poitiers-la-journee-de-mobilisation-du-17-octobre-a-commence_8241559.html#xtor=RSS-3-[lestitres]",
+      "summary": "Plusieurs centaines de rassemblements et de manifestations ont été organisés samedi dans le pays, soutenus par différents syndicats et partis politiques à gauche. Environ 550 000 manifestants ont été comptés sur l'ensemble du territoire selon le ministère de l'Intérieur, 800 000 selon les organisateurs.",
+      "image": "https://www.franceinfo.fr/pictures/SPrxGNywXtivWyi1bhO4L0RZ0_0/0x0:7836x4407/432x243/filters:format(jpg)/2026/10/17/6ad3603e48a7b365291436.jpg",
+      "published_at": "2026-10-17T22:56:48+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "dec46eb49a12"
+    },
+    {
+      "title": "EN DIRECT – Mobilisation du 17 octobre : 550 000 manifestants partout en France, annonce Laurent Nuñez ; violences, incendies et pillages dans plusieurs villes",
+      "url": "https://www.liberation.fr/societe/education/en-direct-mouvement-du-17-octobre-contre-la-vie-chere-les-jeunes-et-les-jaunes-se-mobilisent-20261017_GH4UURZMZJHZ3HG7ZHNPSP7GDE/",
+      "summary": "Plus d’un an après «Bloquons tout» et plusieurs semaines de mobilisation lycéenne, la France a connu une nouvelle journée d’intense contestation sociale, ce samedi. Selon les organisateurs, 800 000 manifestants ont défilé.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-10-17T20:55:25+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "b9935d351fc3"
+    },
+    {
+      "title": "EN DIRECT, manifestations du 17 octobre : le gouvernement annonce 550 000 manifestants, les organisateurs, 800 000 ; environ 400 interpellations ; « des violences urbaines d’une gravité inouïe se sont déroulées et se déroulent encore »",
+      "url": "https://www.lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-le-gouvernement-annonce-550-000-manifestants-les-organisateurs-800-000-environ-400-interpellations-des-violences-urbaines-d-une-gravite-inouie-se-sont-deroulees-et-se-deroulent-encore_6795855_3224.html",
+      "summary": "Dans la capitale, mais aussi à Lille, à Lyon et à Marseille, de fortes tensions ont été signalées par nos journalistes sur le terrain. Des destructions ont aussi été observées dans les grandes villes.",
+      "image": "https://img.lemde.fr/2026/10/17/171/0/2048/1024/644/322/60/0/ac8d91b_upload-1-fcxu1nz28st7-whatsapp-image-2026-10-17-at-22-10-06-1.jpeg",
+      "published_at": "2026-10-17T22:11:27+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "f0cddd480a51"
+    },
+    {
+      "title": "Dans la mobilisation le 17 octobre à Paris, les manifestants tentent de faire entendre une multitude de \"ras-le-bol\", malgré les violences en marge du cortège",
+      "url": "https://www.franceinfo.fr/economie/greve/reportage-a-paris-une-foule-compacte-et-une-multitude-de-ras-le-bol-dans-la-manifestation-du-17-octobre_8241868.html#xtor=RSS-3-[lestitres]",
+      "summary": "Plusieurs milliers de manifestants ont défilé samedi entre la place de la République à la place de Clichy. Tout au long des plus de trois kilomètres du tracé, ils ont crié des revendications diverses, alors que des affrontements avec la police et des pillages secouaient la capitale.",
+      "image": "https://www.franceinfo.fr/pictures/CM2YP4S68oEL0fOCeHLVEJrYPlA/0x0:3840x2160/432x243/filters:format(jpg)/2026/10/17/6ad39deef0938083752033.jpg",
+      "published_at": "2026-10-17T21:40:05+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "c7d587d9a769"
     },
     {
       "title": "Un incendie ravage l'hôtel de ville de Limoges en marge de la mobilisation du 17 octobre, le campanile et une partie du toit se sont effondrés",
       "url": "https://www.franceinfo.fr/economie/greve/video-un-incendie-ravage-l-hotel-de-ville-de-limoges-en-marge-de-la-mobilisation-du-17-octobre_8242054.html#xtor=RSS-3-[lestitres]",
       "summary": "Plusieurs milliers de personnes ont participé à la manifestation avant que des violences ne surviennent en fin de parcours.",
       "image": "https://www.franceinfo.fr/pictures/tDW0z2ZIIaMSMqJiWOQtyufQGKQ/0x45:596x381/432x243/filters:format(jpg)/2026/10/17/6ad3c2f67f5e4559320036.png",
-      "published_at": "2026-10-17T20:59:49+02:00",
+      "published_at": "2026-10-17T21:12:27+02:00",
       "source": "France Info",
       "category": "Société",
       "id": "69d1c4b584b5"
+    },
+    {
+      "title": "Tennis de table : les frères Lebrun conservent leur titre de champions d’Europe en double",
+      "url": "https://www.lemonde.fr/sport/article/2026/10/17/tennis-de-table-les-freres-lebrun-conservent-leur-titre-de-champions-d-europe-en-double_6796688_3242.html",
+      "summary": "Deux ans après leur sacre à Linz, en Autriche, les Montpelliérains ont confirmé leur statut de numéros un mondiaux dans l’épreuve.",
+      "image": "https://img.lemde.fr/2026/10/17/38/0/1023/511/644/322/60/0/89a86f7_ftp-1-nmblpiprcfvt-afp-d3lj446-1024.jpg",
+      "published_at": "2026-10-17T21:08:08+02:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "22ea5e80c570"
+    },
+    {
+      "title": "Un homme se suicide en se jetant du haut de l’Arc de Triomphe",
+      "url": "https://www.liberation.fr/societe/police-justice/un-homme-se-suicide-en-se-jetant-du-haut-de-larc-de-triomphe-20261017_OKLEUL7MUZCTRJUHHT3SX7WUOE/",
+      "summary": "Agé de 22 ans, le jeune homme a mis fin à ses jours en se jetant du haut du célèbre monument parisien, samedi 17 octobre en début d’après-midi.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-10-17T19:03:04+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "646c00369373"
     },
     {
       "title": "Mouvement du 17 octobre : «violences anti-flic» ou «violences policières», les politiques réagissent",
@@ -31,16 +101,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "cb2db6db4b37"
-    },
-    {
-      "title": "A Paris, une foule compacte et une multitude de \"ras-le-bol\" dans la manifestation du 17 octobre",
-      "url": "https://www.franceinfo.fr/economie/greve/reportage-a-paris-une-foule-compacte-et-une-multitude-de-ras-le-bol-dans-la-manifestation-du-17-octobre_8241868.html#xtor=RSS-3-[lestitres]",
-      "summary": "Plusieurs milliers de manifestants ont défilé samedi entre la place de la République à la place de Clichy. Tout au long des plus de trois kilomètres du tracé, ils ont crié des revendications diverses, alors que des affrontements avec la police et des pillages secouaient la capitale.",
-      "image": "https://www.franceinfo.fr/pictures/CM2YP4S68oEL0fOCeHLVEJrYPlA/0x0:3840x2160/432x243/filters:format(jpg)/2026/10/17/6ad39deef0938083752033.jpg",
-      "published_at": "2026-10-17T20:52:36+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "c7d587d9a769"
     },
     {
       "title": "Place de la République piégée sous les lacrymos, des cortèges partout, et des pillages : un 17 octobre chaotique à Paris",
@@ -63,16 +123,6 @@
       "id": "970f460a16d4"
     },
     {
-      "title": "EN DIRECT – Mobilisation du 17 octobre : 550 000 manifestants partout en France, annonce Laurent Nuñez ; situation toujours très tendue dans plusieurs villes",
-      "url": "https://www.liberation.fr/societe/education/en-direct-mouvement-du-17-octobre-contre-la-vie-chere-les-jeunes-et-les-jaunes-se-mobilisent-20261017_GH4UURZMZJHZ3HG7ZHNPSP7GDE/",
-      "summary": "Plus d’un an après «Bloquons tout» et plusieurs semaines de mobilisation lycéenne, la France a connu une nouvelle journée d’intense contestation sociale, ce samedi. Selon la CGT, 500 000 manifestants ont défilé.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-17T18:42:13+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "b9935d351fc3"
-    },
-    {
       "title": "Mobilisation du 17 octobre : 800 000 personnes ont manifesté dans toute la France, selon les organisateurs, 550 000 selon le ministre de l'Intérieur",
       "url": "https://www.franceinfo.fr/economie/greve/mobilisation-du-17-octobre-800-000-personnes-ont-manifeste-dans-toute-la-france-selon-les-organisateurs-550-000-selon-le-ministre-de-l-interieur_8242081.html#xtor=RSS-3-[lestitres]",
       "summary": "Laurent Nuñez a estimé que des \"délinquants d'opportunité\" en avaient profité \"pour s'en prendre à des commerces\" et les \"piller\".",
@@ -81,16 +131,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "1c7af921c9fc"
-    },
-    {
-      "title": "La main d'un manifestant de 17 ans arrachée à Saint-Étienne pendant une mobilisation du 17 octobre, l'enquête confiée à l'IGPN",
-      "url": "https://www.franceinfo.fr/economie/greve/a-saint-etienne-un-manifestant-grievement-blesse-a-la-main-a-saint-etienne-pendant-une-mobilisation-du-17-octobre_8241952.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'adolescent âgé de 17 ans a été transporté en urgence au CHU de la ville, les circonstances du drame restent indéterminées pour le moment.",
-      "image": "https://www.franceinfo.fr/pictures/qDRuHKi083ZozhaVTvREXR0QT5U/432x243/filters:format(jpg)/2026/10/17/6ad35abc446ca432345097.jpg",
-      "published_at": "2026-10-17T20:29:36+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "3add13ca8ce4"
     },
     {
       "title": "Les frères Alexis et Félix Lebrun sacrés à nouveau champions d'Europe de tennis de table en double",
@@ -133,17 +173,17 @@
       "id": "ac4539d01b2f"
     },
     {
-      "title": "La mairie de Limoges incendiée, la résidence préfectorale de Bordeaux saccagée... La mobilisation du 17 octobre émaillée de violences dans plusieurs villes de France",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/lyon-rennes-marseille-belfort-poitiers-la-journee-de-mobilisation-du-17-octobre-a-commence_8241559.html#xtor=RSS-3-[lestitres]",
-      "summary": "Plusieurs centaines de rassemblements et de manifestations sont organisés samedi dans le pays, soutenus par différents syndicats et partis politiques à gauche.",
-      "image": "https://www.franceinfo.fr/pictures/SPrxGNywXtivWyi1bhO4L0RZ0_0/0x0:7836x4407/432x243/filters:format(jpg)/2026/10/17/6ad3603e48a7b365291436.jpg",
-      "published_at": "2026-10-17T19:53:03+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "dec46eb49a12"
+      "title": "Morts au travail : en Charente, un rassemblement pour continuer d’alerter sur un fait social",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/17/morts-au-travail-en-charente-un-rassemblement-pour-continuer-d-alerter-sur-un-fait-social_6796585_3234.html",
+      "summary": "A l’occasion d’un séminaire, une association de familles de victimes tire le bilan de ses actions et acte le manque de prise en compte des accidents du travail mortels au niveau politique, alors que l’Assurance-maladie fait état d’une nouvelle augmentation de ces derniers en 2025.",
+      "image": "https://img.lemde.fr/2026/10/17/0/0/5000/2500/644/322/60/0/0aa4605_upload-1-igl5dtw4ypxw-maxnewsspecialtwo580693.jpg",
+      "published_at": "2026-10-17T20:00:09+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "713c83f35974"
     },
     {
-      "title": "A nouveau sauvé par ses remplaçants, le PSG renverse Strasbourg et prend provisoirement les commandes de la Ligue 1",
+      "title": "Sauvé par ses remplaçants, le PSG renverse Strasbourg et prend provisoirement les commandes de la Ligue 1",
       "url": "https://www.franceinfo.fr/sports/foot/ligue-1/a-nouveau-sauve-par-ses-remplacants-le-psg-renverse-strasbourg-et-prend-provisoirement-les-commandes-de-la-ligue-1_8241889.html#xtor=RSS-3-[lestitres]",
       "summary": "Comme face au Mans une semaine plus tôt, le club de la capitale a dû attendre les entrées de ses meilleurs joueurs — préservés par Luis Enrique au coup d'envoi — pour changer le cours d'un match mal engagé, samedi.",
       "image": "https://www.franceinfo.fr/pictures/zF6Y8iSCVriSe39pfTQkkBAZC-w/0x0:3940x2216/432x243/filters:format(jpg)/2026/10/17/6ad3a9c171ec9763728092.jpg",
@@ -178,7 +218,7 @@
       "summary": "Quelques centaines de personnes, certaines masquées, se sont rassemblées samedi, vers midi, devant le ministère de l’éducation et les actions de protestation se sont ensuite étendues à l’ensemble de la capitale.",
       "image": "https://img.lemde.fr/2026/10/17/85/0/1024/512/644/322/60/0/46d7eef_ftp-1-aa9sfmyjbdwl-afp-d3lb6jx-1024.jpg",
       "published_at": "2026-10-17T19:28:54+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "2f58b00317dc"
     },
@@ -261,46 +301,6 @@
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "7d39aea6f5be"
-    },
-    {
-      "title": "Deux pétroliers ont pris feu après avoir heurté des mines dans le détroit d'Ormuz, annonce l'Iran",
-      "url": "https://www.franceinfo.fr/monde/iran/deux-petroliers-ont-pris-feu-apres-avoir-heurte-des-mines-dans-le-detroit-d-ormuz-annonce-l-iran_8241904.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'Iran revendique le contrôle de cette stratégique voie maritime et prend régulièrement pour cible des navires qui s'y aventurent sans son autorisation.",
-      "image": "https://www.franceinfo.fr/pictures/lg8zcZGk9PcPEz38-4NwJMjgaME/0x178:5568x3310/432x243/filters:format(jpg)/2026/10/17/6ad39cb582a33338284091.jpg",
-      "published_at": "2026-10-17T18:12:10+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "adad72981b17"
-    },
-    {
-      "title": "En Albanie, la «révolution des flamants roses» se radicalise, cinquième jour de violentes manifestations à Tirana",
-      "url": "https://www.liberation.fr/international/europe/en-albanie-la-revolution-des-flamants-roses-se-radicalise-cinquieme-jour-de-violentes-manifestations-a-tirana-20261017_EBABEGT77VBTVCMWUEH6N4YWJM/",
-      "summary": "Initialement déclenchés par un projet d’hôtel de luxe lié à Ivanka Trump, devenu le symbole de la corruption présumée et des inégalités, les cortèges ont pris un tour violent mardi.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-10-17T16:02:55+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "bb3e667d25a5"
-    },
-    {
-      "title": "Dans le Michigan, une shérif contre Trump : « Dès que j’ai pris mes fonctions, nous avons arrêté toute coopération avec la police de l’immigration »",
-      "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/17/dans-le-michigan-une-sherif-contre-trump-des-que-j-ai-pris-mes-fonctions-nous-avons-arrete-toute-cooperation-avec-la-police-de-l-immigration_6796481_4500055.html",
-      "summary": "Elue en 2024, à seulement 33 ans, la shérif du comté de Washtenaw, dans le Michigan, Alyshia Dyer, a remporté une bataille décisive face à l’administration Trump et sa politique de lutte contre l’immigration illégale. Elle a défendu le droit de la police locale de ne pas collaborer avec les agents de l’ICE.",
-      "image": "https://img.lemde.fr/2026/10/13/748/0/7398/3699/644/322/60/0/29d09d2_upload-1-gocki0h2plbf-787-sem-sherriff-004.jpg",
-      "published_at": "2026-10-17T18:00:07+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "f823056117a5"
-    },
-    {
-      "title": "\"J'ai cru qu'ils allaient me tuer\" : l'écrivain Jean-Christophe Rufin victime d'une agression jeudi soir à Bourges, une plainte déposée",
-      "url": "https://www.franceinfo.fr/faits-divers/l-ecrivain-jean-christophe-rufin-victime-d-une-agression-jeudi-soir-a-bourges-une-plainte-deposee_8241685.html#xtor=RSS-3-[lestitres]",
-      "summary": "Une enquête est ouverte pour \"violences volontaires aggravées\". Une personne est en garde à vue.",
-      "image": "https://www.franceinfo.fr/pictures/-y5XzGKHQo6eyvQJlh2XKCmbz88/0x0:5184x2916/432x243/filters:format(jpg)/2026/10/17/6ad34fec5332b775436690.jpg",
-      "published_at": "2026-10-17T17:13:38+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "dbb801bff475"
     }
   ]
 }
