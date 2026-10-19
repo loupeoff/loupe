@@ -1,16 +1,226 @@
 {
-  "generated_at": "2026-10-19T19:12:58.542174+00:00",
+  "generated_at": "2026-10-19T23:31:02.519303+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "EN DIRECT – Violences : les gardes à vue pourront passer de 48 à 72 heures pour «crime organisé», annonce Darmanin",
+      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky accuse Washington de retarder la livraison à Kiev de missiles « déjà payés »",
+      "url": "https://www.lemonde.fr/international/live/2026/10/20/en-direct-guerre-en-ukraine-volodymyr-zelensky-accuse-washington-de-retarder-la-livraison-a-kiev-de-missiles-deja-payes_6796922_3210.html",
+      "summary": "Le président ukrainien a également assuré que des pays européens étaient prêts à livrer des missiles intercepteurs Patriot, les seuls à pouvoir abattre les engins russes les plus sophistiqués et dont Kiev manque cruellement, mais qu’ils attendaient encore « l’autorisation américaine ».",
+      "image": "https://img.lemde.fr/2026/10/19/259/0/3000/1500/644/322/60/0/beffb24_upload-1-4857nreapefx-hva-xibxyaa6xom.jpeg",
+      "published_at": "2026-10-20T00:40:35+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "56a5aa77857d"
+    },
+    {
+      "title": "Météo-France place neuf départements du Sud en vigilance orange pour la journée de mardi",
+      "url": "https://www.franceinfo.fr/environnement/meteo/la-lozere-bascule-en-vigilance-orange-pluie-inondation-rejoignant-le-gard-et-l-herault-egalement-en-alerte-pour-des-risques-de-crues-et-d-orages-violents_8243632.html#xtor=RSS-3-[lestitres]",
+      "summary": "Il s'agit de l'Aveyron, des Bouches-du-Rhône, du Gard, du Var, du Vaucluse, de l'Hérault, de la Lozère, de l'Ardèche et de la Haute-Corse, pour des alertes pluie-inondation, orages et crues.",
+      "image": "https://www.franceinfo.fr/pictures/VtaX2_-yNhlH6z4CWcLTpYyE1sE/0x0:4000x2250/432x243/filters:format(jpg)/2026/10/19/6ad5d5b17d781983556449.jpg",
+      "published_at": "2026-10-20T00:07:14+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "cf9d517c422a"
+    },
+    {
+      "title": "Narcobanditisme : journée sous tension au procès de l’assassinat du demi-frère d’Amine Kessaci",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/19/narcobanditisme-journee-sous-tension-au-proces-de-l-assassinat-du-demi-frere-d-amine-kessaci_6797619_3224.html",
+      "summary": "Le président de la cour d’assises a dû suspendre l’audience momentanément après un geste d’Amine Oualane interprété comme une menace visant les parties civiles. Le jeune homme, considéré comme un des principaux leaders de la DZ Mafia, est soupçonné d’avoir participé à l’assassinat de trois personnes en 2020 parmi lesquelles figurait le demi-frère du militant.",
+      "image": "https://img.lemde.fr/2026/10/19/85/0/1024/512/644/322/60/0/3654c5c_ftp-1-oilbratczjuh-afp-d3qa9qz-1024.jpg",
+      "published_at": "2026-10-19T23:52:22+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "3f470a99917d"
+    },
+    {
+      "title": "Le ministre de l'Intérieur promet \"un dispositif policier plus nombreux\" à Marseille pour la nouvelle journée de manifestation prévue samedi",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-ministre-de-l-interieur-promet-un-dispositif-policier-plus-nombreux-a-marseille-pour-la-nouvelle-journee-de-manifestation-prevue-samedi_8244700.html#xtor=RSS-3-[lestitres]",
+      "summary": "Laurent Nuñez s'est déplacé dans la cité phocéenne lundi soir. Il s'est entretenu pendant 45 minutes avec le maire Benoît Payan.",
+      "image": "https://www.franceinfo.fr/pictures/GoKYs0pGLSW6X0cv4V0sBKS0gd4/0x0:1024x576/432x243/filters:format(jpg)/2026/10/19/6ad672f797b53023747687.jpg",
+      "published_at": "2026-10-19T23:50:21+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "407917251347"
+    },
+    {
+      "title": "Cristiano Ronaldo suspendu 30 jours pour avoir quitté sans autorisation le stage de la sélection portugaise",
+      "url": "https://www.franceinfo.fr/sports/foot/cristiano-ronaldo-suspendu-30-jours-pour-avoir-quitte-sans-autorisation-le-stage-de-la-selection-portugaise_8244691.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Conseil de discipline de la Fédération portugaise de football avait ouvert une procédure disciplinaire contre la star, après son départ en plein rassemblement.",
+      "image": "https://www.franceinfo.fr/pictures/6oWkeEq8LTXdeaNZTEvBTgpN1_s/0x0:1024x576/432x243/filters:format(jpg)/2026/10/19/6ad68c225f9c7276453433.jpg",
+      "published_at": "2026-10-19T23:37:52+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "1519de33e3b1"
+    },
+    {
+      "title": "Des couvre-feux partiels mis en place à Paris, Lyon, Lille et Nice après un week-end de violences et de pillages",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/des-couvre-feux-partiels-mis-en-place-a-paris-lyon-lille-et-nice_8244511.html#xtor=RSS-3-[lestitres]",
+      "summary": "Dans la capitale, seuls les secteurs des Halles et de la place de la République sont concernés. Dans le Nord et à Nice, les interdictions de circulation concernent uniquement les mineurs.",
+      "image": "https://www.franceinfo.fr/pictures/KmeeUNeTsiQGa82M5L6xv2ys4Co/0x230:2209x1473/432x243/filters:format(jpg)/2026/10/19/6ad65e658de7a735551116.jpg",
+      "published_at": "2026-10-19T23:26:14+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "22e3e11d1cd8"
+    },
+    {
+      "title": "\"Il voudra dire quelques mots\" : l'un des chefs présumés de la DZ Mafia souhaite s'adresser à Amine Kessaci lors du procès de l'assassinat du frère du militant",
+      "url": "https://www.franceinfo.fr/faits-divers/justice-proces/il-voudra-dire-quelques-mots-l-un-des-chefs-presumes-de-la-dz-mafia-pourrait-s-adresser-a-amine-kessaci-lors-du-proces-de-l-assassinat-du-frere-du-militant_8244661.html#xtor=RSS-3-[lestitres]",
+      "summary": "C'était une journée attendue depuis six ans par Amine Kessaci : le procès de l’assassinat de son demi-frère Brahim s’est ouvert ce lundi 19 octobre matin à Aix-en-Provence, en sa présence. Son frère était l’une des trois victimes retrouvées carbonisées en 2020, dans une affaire liée au trafic de drogue. Cinq hommes sont jugés, dont deux figures de la criminalité marseillaise. Trois semaines d’audi",
+      "image": "https://www.franceinfo.fr/pictures/GreozVwdL-9cBz3VTslxJhtkTsQ/14x0:1113x618/432x243/filters:format(jpg)/2026/10/19/6ad681983d471599215059.jpg",
+      "published_at": "2026-10-19T23:09:23+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "013734ba4555"
+    },
+    {
+      "title": "Violences : Laurent Nuñez est arrivé à Marseille pour rencontrer le maire",
       "url": "https://www.liberation.fr/societe/en-direct-violences-du-17-octobre-sebastien-lecornu-convoque-une-reunion-crise-20261019_4DH7XPWBNZHJFHVAQ2YZQPS52Q/",
-      "summary": "Le Premier ministre Sébastien Lecornu a annoncé ce lundi 19 octobre que plusieurs villes du Nord étaient également visées par le dispositif, après les violences urbaines de ce week-end.",
+      "summary": "Le ministre de l’Intérieur a rencontré Benoît Payan ce lundi 19 octobre au soir tandis qu’un couvre-feu partiel a été décrété dans plusieurs villes, dont Paris, Lyon et Nice.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-19T19:09:09+00:00",
+      "published_at": "2026-10-19T20:27:44+00:00",
       "source": "Libération",
       "category": "Politique",
       "id": "609765dd0c92"
+    },
+    {
+      "title": "La «panoplie du casseur» : des peines sévères lors des premières comparutions immédiates après le 17 octobre",
+      "url": "https://www.liberation.fr/societe/police-justice/la-panoplie-du-casseur-des-peines-severes-lors-des-premieres-comparutions-immediates-apres-le-17-octobre-20261019_FURFULNHYFGDZC2JEB6P2YSSOY/",
+      "summary": "La plupart des prévenus présentés au tribunal correctionnel de Paris ont été envoyés en prison ce lundi 19 octobre au soir, écopant d’une peine ferme ou d’un mandat de dépôt dans le cadre d’un renvoi.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-10-19T20:24:17+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "a9d30b233070"
+    },
+    {
+      "title": "Le Japon lance une fusée pour une mission visant les lunes de Mars",
+      "url": "https://www.franceinfo.fr/sciences/espace/le-japon-lance-une-fusee-pour-une-mission-visant-les-lunes-de-mars_8244652.html#xtor=RSS-3-[lestitres]",
+      "summary": "La fusée, avec à son bord une sonde spatiale et deux engins français, va tenter l’exploit inédit d’y récupérer des échantillons et peut-être de lever le voile sur les origines du Système solaire et de la vie sur Terre.",
+      "image": "https://www.franceinfo.fr/pictures/8V0L0cVPkX59dS3zoIPgikKL8pI/0x44:1024x620/432x243/filters:format(jpg)/2026/10/19/6ad67be044ea7665880377.jpg",
+      "published_at": "2026-10-19T22:23:18+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "f79c0fb4b80d"
+    },
+    {
+      "title": "Mamdani, Ocasio-Cortez… Aux Etats-Unis, les quatre figures qui chamboulent la gauche",
+      "url": "https://www.liberation.fr/international/amerique/mamdani-ocasio-cortez-aux-etats-unis-les-quatre-figures-qui-chamboulent-la-gauche-20261019_V6D2XKSWLFF5LKW2HDWTSU6RSM/",
+      "summary": "Fermement décidée à reconquérir les classes populaires, une nouvelle génération d’élus et de militants déstabilise l’appareil démocrate.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-10-19T20:15:00+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "e1e378a3dda8"
+    },
+    {
+      "title": "Violences du 17 octobre : la ministre des Outre-mer reconnaît \"les difficultés du quotidien\" et en appelle \"à la responsabilité de chacun\"",
+      "url": "https://la1ere.franceinfo.fr/violences-du-17-octobre-la-ministre-des-outre-mer-en-appelle-a-la-responsabilite-de-chacun-et-reconnait-les-difficultes-du-quotidien-1749705.html#xtor=RSS-3-[lestitres]",
+      "summary": "Alors que plusieurs territoires des Outre-mer sont touchés par des incidents et des violences urbaines depuis le 17 octobre, Naïma Moutchou explique s'être entretenue lundi 19 octobre avec les préfets Outre-mer sur les moyens mobilisés \"pour assurer la sécurité de la population\".",
+      "image": "https://www.franceinfo.fr/pictures/mbzG7floCuv-FpvEOfwH_h8suLw/432x243/filters:format(jpg)/2026/10/19/6ad677684452a527542017.jpg",
+      "published_at": "2026-10-19T22:08:04+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "3a1a67018ace"
+    },
+    {
+      "title": "«Pas une seule fois je n’ai baissé le regard», assure Amine Kessaci au procès de l’assassinat de son frère",
+      "url": "https://www.liberation.fr/societe/police-justice/pas-une-seule-fois-je-nai-baisse-le-regard-assure-amine-kessaci-au-proces-de-lassassinat-de-son-frere-20261019_DENHHAQOLFGMDDKWD57GTUTNII/",
+      "summary": "Sous haute surveillance policière, les cinq personnes accusées du triple narchomicide, commis en 2020, ont été entendues pour la première fois, ce lundi 19 octobre, devant la cour d’assises des Bouches-du-Rhône.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-10-19T20:06:16+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "a4f41db87cf2"
+    },
+    {
+      "title": "EN DIRECT, manifestations du 17 octobre : Laurent Nuñez, venu lundi soir à Marseille, promet au maire davantage de forces de l’ordre pour encadrer la prochaine manifestation prévue samedi",
+      "url": "https://www.lemonde.fr/societe/live/2026/10/19/en-direct-manifestations-du-17-octobre-laurent-nunez-est-a-marseille-pour-s-entretenir-avec-le-maire-benoit-payan_6795855_3224.html",
+      "summary": "Benoît Payan, qui avait réclamé la venue à Marseille du ministre de l’intérieur, a salué, lundi soir, une discussion « franche » et « salutaire ». L’édile avait vivement critiqué, depuis samedi, un sous-effectif des forces de l’ordre mobilisées dans sa ville, demandant « des comptes » de l’Etat sur les violences et les pillages.",
+      "image": "https://img.lemde.fr/2026/10/19/412/0/4950/2475/644/322/60/0/b384d8f_ftp-1-v1i2xsbhvpyh-afp-d3rq7re.jpg",
+      "published_at": "2026-10-19T21:49:39+02:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "d92ea8dce000"
+    },
+    {
+      "title": "En tournée dans le golfe Persique, Emmanuel Macron cherche une issue à la flambée des prix du carburant",
+      "url": "https://www.lemonde.fr/international/article/2026/10/19/en-tournee-dans-le-golfe-persique-emmanuel-macron-cherche-une-issue-a-la-flambee-des-prix-du-carburant_6797585_3210.html",
+      "summary": "Le président de la République a entamé, lundi, un déplacement de trois jours au Koweït, aux Emirats arabes unis, au Bahreïn et au Qatar, avec l’ambition de « sécuriser [les] approvisionnements » énergétiques de la France. Mais les monarchies de la région, dont les exportations d’hydrocarbures ont chuté avec le blocage du détroit d’Ormuz, n’ont guère plus de prise que Paris sur l’affrontement entre",
+      "image": "https://img.lemde.fr/2026/10/19/600/0/4189/2094/644/322/60/0/bb667a7_ftp-1-la92shpxqj77-2026-10-19t092903z-164028296-rc286oaprspn-rtrmadp-3-gulf-france-kuwait.JPG",
+      "published_at": "2026-10-19T21:45:39+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "e71165ea1f5e"
+    },
+    {
+      "title": "L’Ukraine affirme avoir mené la première évacuation par drone aérien d’un soldat blessé",
+      "url": "https://www.liberation.fr/international/europe/lukraine-affirme-avoir-mene-la-premiere-evacuation-par-drone-aerien-dun-soldat-blesse-20261019_YNJFOHM6NJA3BI7CBSIGU6ZG5U/",
+      "summary": "Selon l’unité de dronistes qui a diffusé ce lundi 19 octobre la vidéo du sauvetage, l’homme a été blessé sur une position où une évacuation classique était impossible en raison des mines et des drones russes.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-10-19T19:45:19+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "178d227843ee"
+    },
+    {
+      "title": "Qui sont ceux qui ont pillé les magasins et participé aux violences du 17 octobre ?",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/qui-sont-ceux-qui-ont-pille-les-magasins-et-participe-aux-violences-du-samedi-17-octobre_8244592.html#xtor=RSS-3-[lestitres]",
+      "summary": "Depuis samedi 17 octobre, 2 331 personnes ont été placées en garde à vue après les violences et les pillages. Les premières comparutions immédiates ont eu lieu lundi après-midi. Ces premières audiences permettent de découvrir leurs profils, mais aussi d’examiner les faits reprochés à chacun.",
+      "image": "https://www.franceinfo.fr/pictures/L-PjbRPzIxmQKgEoo98XXxFBHY0/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/19/6ad67174ab8fd641154058.jpg",
+      "published_at": "2026-10-19T21:44:46+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "9fcc2095ec16"
+    },
+    {
+      "title": "La DGSI dément que des armes de guerre aient été retrouvées parmi les émeutiers du 17 octobre, comme annoncé sur CNews",
+      "url": "https://www.liberation.fr/checknews/la-dgsi-dement-que-des-armes-de-guerre-aient-ete-retrouvees-parmi-les-emeutiers-du-17-octobre-comme-annonce-sur-cnews-20261019_XP76P433JZERLLLW2RVBPDATZM/",
+      "summary": "Une journaliste du «JDD» avançait dimanche soir, sur la chaîne d’extrême droite, que «des kalachnikovs et des pistolets-mitrailleurs» avaient été découverts entre les mains de manifestants, samedi. Présenté comme source, le service de renseignement intérieur infirme «complètement».",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-10-19T19:29:53+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "ca06c8249986"
+    },
+    {
+      "title": "Les gardes à vue liées aux violences du 17 octobre pourront passer de 48 à 72 heures pour \"criminalité organisée\", annonce Gérald Darmanin",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/les-gardes-a-vue-liees-aux-violences-du-17-octobre-pourront-passer-de-48-a-72-heures-pour-criminalite-organisee-annonce-gerald-darmanin_8244574.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le garde des Sceaux dit avoir envoyé \"une instruction à tous les parquets de France pour leur demander de passer en qualification de criminalité organisée\".",
+      "image": "https://www.franceinfo.fr/pictures/YIqadZXsG5AHbHm5kPhyLMAZDUk/0x0:6478x3643/432x243/filters:format(jpg)/2026/10/19/6ad663075f415094081803.jpg",
+      "published_at": "2026-10-19T21:27:03+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "9386b1b7837e"
+    },
+    {
+      "title": "Portugal : Cristiano Ronaldo suspendu 30 jours pour avoir quitté sans autorisation le stage de la sélection",
+      "url": "https://www.liberation.fr/sports/football/portugal-cristiano-ronaldo-suspendu-30-jours-pour-avoir-quitte-sans-autorisation-le-stage-de-la-selection-20261019_X5OXNY22WZA25CR6DZMHXWH5OU/",
+      "summary": "La sanction plutôt faible étant rétroactive et ayant pris effet le 30 septembre, le quintuple ballon d’or pourra de nouveau jouer avec l’équipe nationale dès la prochaine fenêtre internationale, mi-novembre.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-10-19T19:18:28+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "e246a8f2c8be"
+    },
+    {
+      "title": "En Ukraine, six morts dont trois enfants dans une frappe russe dans un parc près de Kharkiv",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-six-morts-dont-trois-enfants-dans-une-frappe-russe-dans-un-parc-pres-de-kharkiv_8244463.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cette frappe a visé le site \"à un moment où il y avait beaucoup de monde, notamment des familles avec des enfants\", a dénoncé la police régionale.",
+      "image": "https://www.franceinfo.fr/pictures/1BuP9rBsAT4bS66dNlCfrXdym0o/0x95:1024x671/432x243/filters:format(jpg)/2026/10/19/6ad66b6f036eb643386279.jpg",
+      "published_at": "2026-10-19T21:13:52+02:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "50801ccaa048"
+    },
+    {
+      "title": "Violences du 17 octobre : le ministre de la Ville et du Logement prend une circulaire pour que les revenus \"issus de la revente de produits volés\" soient déduits des aides sociales",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/violences-du-17-octobre-le-ministre-de-la-ville-et-du-logement-prend-une-circulaire-pour-que-les-revenus-issus-de-la-revente-de-produits-voles-soient-deduits-des-aides-sociales_8244562.html#xtor=RSS-3-[lestitres]",
+      "summary": "Durant le week-end en France, plus de 3 000 commerces ont subi des dégradations et nombre d'entre eux ont vu leurs rayons vidés par des émeutiers. Des objets ensuite parfois revendus sur internet sur Vinted, eBay ou Leboncoin.",
+      "image": "https://www.franceinfo.fr/pictures/Hl1vpWXKyJHwabgzlouguM-Qo7g/432x243/filters:format(jpg)/2026/09/24/6ab540a4b4eb2785610214.jpg",
+      "published_at": "2026-10-19T21:10:34+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "0d7b1c5c45d2"
     },
     {
       "title": "Paris, Lyon, Nice, Lille… Des couvre-feux partiels annoncés dès ce lundi soir après les violences",
@@ -33,21 +243,11 @@
       "id": "db3190dd9b16"
     },
     {
-      "title": "Violences du 17 octobre : les gardes à vue pourront passer de 48 à 72 heures pour \"criminalité organisée\", annonce Gérald Darmanin",
-      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-mobilisation-du-17-octobre-paris-lyon-et-nantes-touches-par-de-nouveaux-heurts-et-pillages-dimanche-au-moins-108-interpellations-dans-la-capitale_8243455.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le garde des Sceaux a envoyé \"une instruction à tous les parquets de France pour leur demander de passer en qualification de criminalité organisée\".",
-      "image": "https://www.franceinfo.fr/pictures/YIqadZXsG5AHbHm5kPhyLMAZDUk/0x0:6478x3643/432x243/filters:format(jpg)/2026/10/19/6ad663075f415094081803.jpg",
-      "published_at": "2026-10-19T21:01:42+02:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "3a2b49a1584c"
-    },
-    {
-      "title": "Après les violences du 17 octobre, les élus appellent à « faire bloc » lors du rassemblement devant les mairies",
+      "title": "Contre les violences du 17 octobre, les élus ont appelé à « faire bloc » lors des rassemblements devant les mairies",
       "url": "https://www.lemonde.fr/politique/article/2026/10/19/apres-les-violences-du-17-octobre-les-elus-appellent-a-faire-bloc-lors-du-rassemblement-devant-les-mairies_6797584_823448.html",
-      "summary": "Au lendemain des destructions et pillages qui ont touché une vingtaine de villes, de nombreux maires, dont ceux de Bordeaux, Paris ou Lyon, se sont réunis à l’appel de l’Association des maires de France (AMF). Un appel qui n’a pas masqué les désaccords politiques et l’exaspération des habitants et commerçants.",
+      "summary": "Au lendemain des destructions et pillages qui ont touché une vingtaine de villes, de nombreux maires, dont ceux de Bordeaux, de Paris et de Lyon, ont organisé des réunions à l’appel de l’Association des maires de France. Cet appel n’a pas masqué les désaccords politiques ni l’exaspération des habitants et des commerçants.",
       "image": "https://img.lemde.fr/2026/10/19/85/0/1024/512/644/322/60/0/a0fac75_ftp-1-vpywffrzskpb-afp-d3py9t3-1024.jpg",
-      "published_at": "2026-10-19T20:58:05+02:00",
+      "published_at": "2026-10-19T20:58:03+02:00",
       "source": "Le Monde",
       "category": "Sport",
       "id": "2506db50b4a6"
@@ -78,7 +278,7 @@
       "summary": "Dimanche, le président américain a apporté son soutien au premier ministre israélien avant les élections législatives israéliennes très disputées du 27 octobre.",
       "image": "https://img.lemde.fr/2026/10/18/85/0/1023/511/644/322/60/0/2f2998e_ftp-1-pxdscihx4op1-afp-d3ne7g3-1024.jpg",
       "published_at": "2026-10-19T20:52:52+02:00",
-      "source": "Le Monde Inter",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "925a9738354c"
     },
@@ -93,16 +293,6 @@
       "id": "92db2bd9e871"
     },
     {
-      "title": "Des couvre-feux partiels mis en place lundi soir à Paris, Lyon, Lille et Nice après un week-end de violences et de pillages",
-      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/des-couvre-feux-partiels-mis-en-place-a-paris-lyon-lille-et-nice_8244511.html#xtor=RSS-3-[lestitres]",
-      "summary": "Dans la capitale, seuls les secteurs des Halles et de la place de la République sont concernés. Dans le Nord et à Nice, les interdictions de circulation concernent uniquement les mineurs.",
-      "image": "https://www.franceinfo.fr/pictures/KmeeUNeTsiQGa82M5L6xv2ys4Co/0x230:2209x1473/432x243/filters:format(jpg)/2026/10/19/6ad65e658de7a735551116.jpg",
-      "published_at": "2026-10-19T20:51:36+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "22e3e11d1cd8"
-    },
-    {
       "title": "Un couvre-feu instauré à Paris de 23 heures lundi soir à 6 heures mardi matin, dans le secteur des Halles et de la place de la République",
       "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/un-couvre-feu-va-etre-mis-en-place-a-paris-dans-le-secteur-des-halles-et-la-place-de-la-republique-de-23-heures-a-6-heures_8244451.html#xtor=RSS-3-[lestitres]",
       "summary": "La mesure concerne tout le public, pas seulement les mineurs, a précisé la préfecture de police de Paris.",
@@ -111,196 +301,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "380aac77fb10"
-    },
-    {
-      "title": "Après la mobilisation sociale du 17 octobre, l’exécutif met un coup de répression",
-      "url": "https://www.liberation.fr/politique/apres-la-mobilisation-sociale-du-17-octobre-lexecutif-met-un-coup-de-repression-20261019_3MFI6NHSW5CUHPMKNYFOHO7GRA/",
-      "summary": "Avec l’annonce de l’instauration de couvre-feux dans certaines grandes villes ce lundi 19 octobre, le gouvernement a apporté une réponse sécuritaire aux violences qui ont émaillé le pays ce week-end. La veille, le ministre de l’Intérieur, Laurent Nuñez, avait présenté sa démission avant de finalement rester en poste.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-19T18:39:45+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "287fcd81f965"
-    },
-    {
-      "title": "Cristiano Ronaldo suspendu 30 jours pour avoir quitté sans autorisation le stage de la sélection portugaise",
-      "url": "https://www.lemonde.fr/sport/article/2026/10/19/cristiano-ronaldo-suspendu-30-jours-pour-avoir-quitte-sans-autorisation-le-stage-de-la-selection-portugaise_6797581_3242.html",
-      "summary": "L’attaquant star avait claqué la porte du rassemblement de la Seleçao das Quinas le 30 septembre, à la veille d’un match de Ligue des nations face au Danemark à cause d’un conflit avec son sélectionneur.",
-      "image": "https://img.lemde.fr/2026/10/19/268/0/3669/1834/644/322/60/0/4186dc3_ftp-1-t78drlr0bm0f-afp-d3rk69e.jpg",
-      "published_at": "2026-10-19T20:38:52+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "55d8969b92ef"
-    },
-    {
-      "title": "«J’ai juste ramassé des chaussures par terre» : au tribunal de Nice, les profils variés des pilleurs du 17 octobre",
-      "url": "https://www.liberation.fr/societe/police-justice/jai-juste-ramasse-des-chaussures-par-terre-au-tribunal-de-nice-les-profils-varies-des-pilleurs-du-17-octobre-20261019_EW46CVRI2BCQXBSIMGOZQKBTF4/",
-      "summary": "Le tribunal correctionnel a enchaîné seize comparutions immédiates, ce lundi, en lien avec les incidents qui se sont déroulés en marge de la manifestation de samedi.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-10-19T18:18:34+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "aa772ffdcb02"
-    },
-    {
-      "title": "Manifestations du 17 octobre : à Paris, des commissariats «débordés» et des conditions de retenue «très dégradantes»",
-      "url": "https://www.liberation.fr/societe/police-justice/manifestations-du-17-octobre-a-paris-des-commissariats-debordes-et-des-conditions-de-retenue-tres-degradantes-20261019_C3FXIUQ4XZBXBIT56XFCXWSOOY/",
-      "summary": "Au cours de la mobilisation des samedi 17 et dimanche 18 octobre, 702 personnes, dont de nombreux mineurs, ont été placées en garde à vue dans la capitale, selon les derniers chiffres du parquet. Face à cet afflux, plusieurs avocates ont constaté des conditions de retenue «chaotiques».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-19T18:08:25+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "aab587e0cb7c"
-    },
-    {
-      "title": "Un aller vers Phobos, à suivre en direct : le rover Idéfix s’envole ce soir pour défricher la lune de Mars",
-      "url": "https://www.numerama.com/sciences/2355859-un-aller-vers-phobos-a-suivre-en-direct-le-rover-idefix-senvole-ce-soir-pour-defricher-la-lune-de-mars.html",
-      "summary": "La mission MMX qui contient un petit rover Idéfix doit se rendre jusqu'à Phobos, la lune de Mars, pour en ramener quelques grammes d'échantillons. Un projet inédit et ambitieux dont le départ est à suivre en direct ce lundi 19 octobre au soir.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-10-19T17:50:56+00:00",
-      "source": "Numerama",
-      "category": "Tech",
-      "id": "bc38cc65cdc3"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : un sommet russo-américano-chinois ne ferait qu’alimenter « l’appétit de grandeur » de Vladimir Poutine, juge le ministre des affaires étrangères ukrainien",
-      "url": "https://www.lemonde.fr/international/live/2026/10/19/en-direct-guerre-en-ukraine-un-sommet-russo-americano-chinois-ne-ferait-qu-alimenter-l-appetit-de-grandeur-de-vladimir-poutine-juge-le-ministre-des-affaires-etrangeres-ukrainien_6796922_3210.html",
-      "summary": "« Inviter Poutine à une telle rencontre lui conférerait une stature qu’il ne mérite pas. Ce n’est pas un leader mondial ; c’est un criminel de guerre », a estimé Andrii Sybiha, qui plaide en revanche pour un sommet russo-américano-ukrainien.",
-      "image": "https://img.lemde.fr/2026/10/13/399/0/4791/2395/644/322/60/0/88647ee_ftp-1-4m2vwbmnikri-2026-10-13t094746z-1757455005-rc292oar7wnp-rtrmadp-3-ukraine-crisis-poland-security-forum.JPG",
-      "published_at": "2026-10-19T19:48:56+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "d355d660fff6"
-    },
-    {
-      "title": "17 octobre : comment Jean-Luc Mélenchon s’est retrouvé à porter le costume du coupable idéal",
-      "url": "https://www.liberation.fr/politique/17-octobre-comment-jean-luc-melenchon-sest-retrouve-a-porter-le-costume-du-coupable-ideal-20261019_HXZL644UWFFABA5YHTIIX456QE/",
-      "summary": "Si les responsables insoumis réfutent toute forme d’appel à la violence et tous liens avec les pillages, la stratégie de conflictualisation théorisée de longue date par l’ancien socialiste fournit un angle d’attaque commode à ses adversaires.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-19T17:48:47+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "7f09e830a67c"
-    },
-    {
-      "title": "17 octobre : le «street medic» frappé par des CRS place de la République à Paris n’est pas mort",
-      "url": "https://www.liberation.fr/checknews/17-octobre-le-street-medic-frappe-par-des-crs-place-de-la-republique-a-paris-nest-pas-mort-20261019_JKIAESIYZZCQZDD2N6AC3QIZHQ/",
-      "summary": "Présenté à tort comme le manifestant décédé lors de la journée de samedi, Antoine avait été filmé inconscient après avoir été violenté par des policiers. «CheckNews» l’a retrouvé et a recueilli son témoignage.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-19T17:47:52+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "cd95e14efab3"
-    },
-    {
-      "title": "Le mandat de Giorgia Meloni, des marges italiennes au cœur de la politique européenne",
-      "url": "https://www.lemonde.fr/international/article/2026/10/19/le-mandat-de-giorgia-meloni-des-marges-italiennes-au-c-ur-de-la-politique-europeenne_6797578_3210.html",
-      "summary": "« Meloni, quatre années au pouvoir » (1/6). La présidente du conseil affiche le plus long mandat d’un chef de l’exécutif de l’histoire de la République italienne. « Le Monde » raconte en six épisodes comment, sans rien renier de ses convictions, la dirigeante d’extrême droite s’est imposée, à la fois dans son pays et au sein de l’UE.",
-      "image": "https://img.lemde.fr/2026/10/18/164/0/6000/3000/644/322/60/0/33d04dd_upload-1-3dze4ucqhaiu-000-32ly6nc.jpg",
-      "published_at": "2026-10-19T19:46:49+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "255f1a3da431"
-    },
-    {
-      "title": "Au Chili, le monde de la culture s’émeut des coupes budgétaires prévues par José Antonio Kast",
-      "url": "https://www.lemonde.fr/international/article/2026/10/19/au-chili-le-monde-de-la-culture-s-emeut-des-coupes-budgetaires-prevues-par-jose-antonio-kast_6797577_3210.html",
-      "summary": "Le ministère de la culture voit son budget 2027 chuter de 10 % dans le projet présenté par le gouvernement d’extrême droite. Les artistes dénoncent une attaque sans précédent, qui touche aussi les lieux de mémoire de la dictature.",
-      "image": "https://img.lemde.fr/2026/10/16/358/0/2126/1063/644/322/60/0/1ca835f_ftp-1-eodspr4erg6q-2026-10-16t210622z-45624637-rc2e4oah7uqb-rtrmadp-3-bolivia-chile.JPG",
-      "published_at": "2026-10-19T19:40:14+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "614e97242c4a"
-    },
-    {
-      "title": "De premiers couvre-feux localisés annoncés à Paris, à Nice, à Lyon et à Lille, à la suite des violences du week-end",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/19/de-premiers-couvre-feux-localises-annonces-a-paris-nice-et-lille-apres-les-violences-du-week-end_6797576_823448.html",
-      "summary": "Sébastien Lecornu a annoncé avoir demandé aux préfets la mise en place de couvre-feux « localisés » dès lundi soir, pour protéger les commerces après les pillages et les violences constatés dans plusieurs villes samedi et dimanche.",
-      "image": "https://img.lemde.fr/2026/10/18/85/0/1024/512/644/322/60/0/9d0be40_ftp-1-ear45m4frqvq-afp-d3m93xu-1024.jpg",
-      "published_at": "2026-10-19T19:35:30+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "35795754b3d0"
-    },
-    {
-      "title": "Soutien de Wembanyama aux lycéens : Ciotti devrait être condamné pour intimidation anti-démocratique",
-      "url": "https://www.liberation.fr/sports/soutien-de-wembanyama-aux-lyceens-ciotti-devrait-etre-condamne-pour-intimidation-anti-democratique-20261019_UM7DONWBRFD5RIHIHM6XKIMDKA/",
-      "summary": "En accusant le basketteur Victor Wembanyama de «porter une responsabilité historique» dans les émeutes du 17 octobre alors qu’il n’a fait que soutenir le projet de manifestation, le maire de Nice exerce une pression particulièrement indigne de la part d’un élu.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-19T17:31:06+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "7225af7d56ad"
-    },
-    {
-      "title": "Parcoursup : une « concertation flash » est lancée au ministère de l’enseignement supérieur",
-      "url": "https://www.lemonde.fr/campus/article/2026/10/19/parcoursup-une-concertation-flash-est-lancee-au-ministere-de-l-enseignement-superieur_6797575_4401467.html",
-      "summary": "Le ministre a reçu, lundi, organisations lycéennes et chefs d’établissements du supérieur, avant une réunion plénière le 21 octobre qui aura pour but d’ « améliorer Parcoursup ». A l’été 2026, 32 200 candidats, soit 10 000 de plus qu’en 2025, ont saisi leur recteur pour être accompagnés afin de trouver une place.",
-      "image": "https://img.lemde.fr/2026/10/07/250/0/3000/1500/644/322/60/0/4e96a41_upload-1-pccks0zns2vy-maniflyce-enne-asurp-104812.jpg",
-      "published_at": "2026-10-19T19:30:41+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "d6e4b40e2fab"
-    },
-    {
-      "title": "EN DIRECT, manifestations du 17 octobre : des couvre-feux partiels annoncés à Paris, à Lyon, à Lille et à Nice",
-      "url": "https://www.lemonde.fr/societe/live/2026/10/19/en-direct-manifestations-du-17-octobre-de-premiers-couvre-feux-partiels-annonces-a-paris-lille-et-nice_6795855_3224.html",
-      "summary": "Un couvre-feu sera instauré dans certains quartiers de la capitale à partir de 23 heures lundi jusqu’à 6 heures mardi, a annoncé la Préfecture de police.",
-      "image": "https://img.lemde.fr/2026/10/18/85/0/1024/512/644/322/60/0/f2f406a_ftp-1-8mjjfh8etjj4-afp-d3me3t4-1024.jpg",
-      "published_at": "2026-10-19T19:21:00+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "2911207b52a6"
-    },
-    {
-      "title": "Mobilisation du 17 octobre : pour les commerçants, des dégâts encore difficiles à évaluer et parfois complexes à indemniser",
-      "url": "https://www.liberation.fr/economie/mobilisation-du-17-octobre-pour-les-commercants-des-degats-encore-difficiles-a-evaluer-et-parfois-complexes-a-indemniser-20261019_V7FNZAWVYVB6THDEXYTCTIWHNI/",
-      "summary": "Le gouvernement s’est engagé à aller vite dans la réparation des dommages causés lors des manifestations de ce week-end. Néanmoins, l’indemnisation des préjudices matériels et financiers pourrait buter sur la législation complexe des assurances.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-19T17:19:05+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "cd950da04f45"
-    },
-    {
-      "title": "Après le 17 octobre, des maires solidaires dans l’Aveyron : «L’argent de la reconstruction, il n’ira pas à nos projets de territoires»",
-      "url": "https://www.liberation.fr/politique/apres-le-17-octobre-des-maires-solidaires-dans-laveyron-largent-de-la-reconstruction-il-nira-pas-a-nos-projets-de-territoires-20261019_6AXK6CSASFGYLKEUBQDV7GJE4Y/",
-      "summary": "A Saint-Affrique, des élus de communes rurales se sont réunis lundi à l’appel national de l’Association des maires de France, pour dénoncer les violences de samedi et dire leur solidarité à «leurs collègues urbains».",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-10-19T17:16:26+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "ec407db73f13"
-    },
-    {
-      "title": "«Un avant-goût de ce qu’on va subir si Le Pen l’emporte en 2027» : à Amilly, le maire RN sabre les subventions du centre d’art des Tanneries",
-      "url": "https://www.liberation.fr/culture/un-avant-gout-de-ce-quon-va-subir-si-le-pen-lemporte-en-2027-a-amilly-le-maire-rn-sabre-les-subventions-du-centre-dart-des-tanneries-20261019_BL5E7VXNSJFU7CD7WDBVZZTT3U/",
-      "summary": "Les coupes budgétaires, actées par l’édile d’extrême droite, Tom Collen-Renaux, et par l’agglomération sous influence frontiste, vont contraindre le lieu de création contemporaine du Loiret à réduire sa programmation. Si les emplois devraient être préservés, l’inquiétude monte.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-10-19T17:15:39+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "b93e46ae8d0c"
-    },
-    {
-      "title": "Après la mobilisation du 17 octobre, Edouard Philippe et Gabriel Attal tentent d’incarner une forme de rupture avec les deux quinquennats d’Emmanuel Macron",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/19/presidentielle-2027-face-a-l-impopularite-d-emmanuel-macron-edouard-philippe-et-gabriel-attal-rejouent-la-strategie-de-la-rupture_6797573_823448.html",
-      "summary": "Confrontés à la crise sociale et politique, les deux anciens premiers ministres et candidats à l’élection présidentielle de 2027 multiplient les prises de distance avec le chef de l’Etat, soucieux de ne pas se laisser emporter par l’impopularité de ce dernier.",
-      "image": "https://img.lemde.fr/2026/10/09/393/0/4724/2362/644/322/60/0/94c3afb_upload-1-mmudle8oecia-mmagnin-edouard-philippe-lheure-de-verite-53.jpg",
-      "published_at": "2026-10-19T19:15:00+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "894f1cf784e2"
-    },
-    {
-      "title": "La connexion à Starlink toujours limitée \"dans plusieurs secteurs du front\" ukrainien, déplore Volodymyr Zelensky",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-connexion-a-starlink-toujours-limitee-dans-plusieurs-secteurs-du-front-ukrainien-deplore-volodymyr-zelensky_8244349.html#xtor=RSS-3-[lestitres]",
-      "summary": "Ces limitations compliquent de fait les interceptions de drones russes pour les forces armées ukrainiennes.",
-      "image": "https://www.franceinfo.fr/pictures/TYXou84HyNowMtQzwMmEjx6MXsM/0x0:1024x576/432x243/filters:format(jpg)/2026/10/19/6ad64499c2df2008732248.jpg",
-      "published_at": "2026-10-19T19:03:16+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "ec98d06b2d96"
     }
   ]
 }
