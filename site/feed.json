@@ -1,14 +1,244 @@
 {
-  "generated_at": "2026-10-23T19:03:33.203058+00:00",
+  "generated_at": "2026-10-23T22:01:55.178447+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "\"L'Etat sera là\" pour reconstruire la mairie de Limoges \"à l'identique\", promet Sébastien Lecornu",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-etat-sera-la-pour-reconstruire-la-mairie-de-limoges-a-l-identique-promet-sebastien-lecornu_8251528.html#xtor=RSS-3-[lestitres]",
+      "summary": "\"Le contribuable local, communal, ne mettra pas un euro dans la reconstruction de cet hôtel de ville\", a assuré le Premier ministre devant la presse, à l'issue de sa visite de l'édifice vendredi soir.",
+      "image": "https://www.franceinfo.fr/pictures/cAoqV5bqUvIMBTaysjCpiYWSDZk/0x53:1024x629/432x243/filters:format(jpg)/2026/10/23/6adbd39ea79ba551581438.jpg",
+      "published_at": "2026-10-23T23:39:31+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "47d418435963"
+    },
+    {
+      "title": "L'agence Moody's maintient la note souveraine de la France à Aa3 avec perspective négative",
+      "url": "https://www.franceinfo.fr/economie/l-agence-moody-s-maintient-la-note-souveraine-de-la-france-a-aa3-avec-perspective-negative_8251510.html#xtor=RSS-3-[lestitres]",
+      "summary": "Une décision qui \"déjoue les pronostics déclinistes\" de \"ceux qui spéculent sur la dette française\", a salué vendredi le Premier ministre Sébastien Lecornu.",
+      "image": "https://www.franceinfo.fr/pictures/h0hlVJSmbQjMMtMhLOk1OVbr1zM/0x53:1024x629/432x243/filters:format(jpg)/2026/10/23/6adbd02ba0151464898876.jpg",
+      "published_at": "2026-10-23T23:23:31+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "2ce4b6ebd496"
+    },
+    {
+      "title": "L’agence Moody’s maintient la note souveraine de la France à Aa3, mais y assortit une perspective négative",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/23/l-agence-moody-s-maintient-la-note-souveraine-de-la-france-a-aa3-mais-y-assortit-une-perspective-negative_6799147_3234.html",
+      "summary": "Cette décision « déjoue les pronostics déclinistes de nombreux “experts” et de ceux qui spéculent sur la dette française », a salué le premier ministre Sébastien Lecornu.",
+      "image": "https://img.lemde.fr/2024/04/26/302/0/4588/2294/644/322/60/0/0b14626_5311719-01-06.jpg",
+      "published_at": "2026-10-23T23:22:46+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "4068d5eaeee3"
+    },
+    {
+      "title": "\"Il aurait pu être tué\", \"Contrôles à plusieurs étapes\"… Questions sur une grave blessure après un tir de LBD sur un manifestant",
+      "url": "https://www.franceinfo.fr/enquetes-franceinfo/il-aurait-pu-etre-tue-controles-a-plusieurs-etapes-questions-sur-une-grave-blessure-apres-un-tir-de-lbd-sur-un-manifestant_8251504.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le week-end dernier, près d'un millier de policiers et gendarmes ont été blessés ; chez les manifestants on compte aussi plusieurs cas de blessures graves. Huit enquêtes de l'IGPN, la police des polices, sont en cours. Comment se déroulent-elles ? Pour le savoir, nous nous sommes penchés sur l'une d'entre elles, celle d'un homme gravement blessé à l'œil samedi dernier, à Strasbourg.",
+      "image": "https://www.franceinfo.fr/pictures/A4gOerJwrkyADSYeK944k5zmk1o/0x28:899x533/432x243/filters:format(jpg)/2026/10/23/6adbcd14cef63231773546.jpg",
+      "published_at": "2026-10-23T23:10:23+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "0ae276bbd3a7"
+    },
+    {
+      "title": "Attaque raciste dans les Yvelines : \"c'était une tentative de tuerie de masse\", dénonce le maire de Trappes",
+      "url": "https://www.franceinfo.fr/faits-divers/direct-coups-de-feu-dans-les-yvelines-le-parquet-national-antiterroriste-se-place-en-observation-annonce-sebastien-lecornu_8250646.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le suspect, un homme de 39 ans, \"n'a ciblé que les personnes arabes, noires, ou qu'il supposait de confession musulmane\", a souligné Ali Rabeh sur franceinfo.",
+      "image": "https://www.franceinfo.fr/pictures/Urjyck7j7pph8lo_xsA9RJPZn-k/0x625:6000x4000/432x243/filters:format(jpg)/2026/10/23/6adb6c8a428e2672852937.jpg",
+      "published_at": "2026-10-23T23:07:36+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "158f22d49ac3"
+    },
+    {
+      "title": "Dette : contre toute attente, Moody’s maintient la note de la France",
+      "url": "https://www.liberation.fr/economie/dette-contre-toute-attente-moodys-maintient-la-note-de-la-france-20261023_B6U3PWPYWFFHNKTAT7H3JXBBNY/",
+      "summary": "Ni les scènes de violence du 17 octobre, ni les incertitudes politiques qui planent sur l’adoption d’un budget n’ont convaincu la société américaine d’abaisser à un «simple A», la note de la dette publique française, vendredi 23 octobre. Elle parie sur l’hypothèse que le budget 2027 sera adopté.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-10-23T21:02:59+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "7c8ee7583a8a"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne dit qu’elle observera une trêve à Olechky à partir de mardi pour permettre des opérations humanitaires",
+      "url": "https://www.lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-l-armee-ukrainienne-dit-qu-elle-observera-une-treve-a-olechky-a-partir-de-mardi-pour-permettre-des-operations-humanitaires_6796922_3210.html",
+      "summary": "La Maison Blanche avait annoncé que Moscou et Kiev avaient « accepté de suspendre temporairement toutes les opérations militaires dans cette ville afin de permettre l’acheminement de l’aide humanitaire et de préparer l’évacuation des civils par un couloir sécurisé désigné à cet effet ».",
+      "image": "https://img.lemde.fr/2026/10/22/0/0/3796/1898/644/322/60/0/17d8244_ftp-1-4a0sdnmn29j7-afp-d46g49e.jpg",
+      "published_at": "2026-10-23T23:02:42+02:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "52781c7114d1"
+    },
+    {
+      "title": "Mobilisations du 24 octobre : \"le niveau de menace reste élevé\", affirme Sébastien Lecornu, ciblant \"l'ultragauche\" et \"la délinquance\"",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-24-octobre-emmanuel-macron-preside-un-conseil-de-defense-a-9-heures-avant-de-recevoir-les-lyceens-dans-l-apres-midi_8250124.html#xtor=RSS-3-[lestitres]",
+      "summary": "Il a assuré que le \"retour d'expérience\" du 17 octobre permettait au dispositif de sécurité d'être ajusté, notamment dans \"la manière dont les forces vont être utilisées\".",
+      "image": "https://www.franceinfo.fr/pictures/si8j6uiLEr1HgwOZa5lMrS50Pnw/0x53:1024x629/432x243/filters:format(jpg)/2026/10/23/6adbc79173f93170255785.jpg",
+      "published_at": "2026-10-23T22:47:30+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "9bacc0e235cf"
+    },
+    {
+      "title": "Attaque dans les Yvelines : Emmanuel Macron dénonce «un acte terroriste et raciste» qui constitue un «tournant»",
+      "url": "https://www.liberation.fr/societe/police-justice/en-direct-attaque-dans-les-yvelines-devant-le-esso-de-trappes-il-nous-a-regardes-et-il-nous-a-tire-dessus-20261023_3SICLLNDBRDGHPWGTRHWXGTWWU/",
+      "summary": "Le Parquet national antiterroriste (Pnat) a annoncé se saisir des faits commis par un homme qui a tiré en rafales dans la rue vendredi 23 octobre au matin dans les Yvelines, tuant une personne et en blessant cinq autres.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-10-23T20:41:41+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "00889b29f46f"
+    },
+    {
+      "title": "Attentat raciste à Trappes et La Verrière : Emmanuel Macron parle d'un \"tournant dans la vie de notre République et de notre nation\"",
+      "url": "https://www.franceinfo.fr/faits-divers/attentat-raciste-a-trappes-et-la-verriere-emmanuel-macron-parle-d-un-tournant-dans-la-vie-de-notre-republique-et-de-notre-nation_8251480.html#xtor=RSS-3-[lestitres]",
+      "summary": "Un homme soupçonné d'avoir voulu s'en prendre à des personnes issues de l'immigration a tué une personne et fait cinq blessées vendredi dans les Yvelines après voir tiré en rafale depuis une voiture.",
+      "image": "https://www.franceinfo.fr/pictures/ulLDVSHqm4T1HvgnZ0Ud4yUAe7U/0x53:1024x629/432x243/filters:format(jpg)/2026/10/23/6adbc2b1cf1be621825223.jpg",
+      "published_at": "2026-10-23T22:37:14+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "623157a00fe7"
+    },
+    {
+      "title": "Affaire «band of connasses» : condamnée en première instance, Tara Heuzé-Sarmini obtient gain de cause en appel",
+      "url": "https://www.liberation.fr/societe/police-justice/affaire-band-of-connasses-condamnee-en-premiere-instance-tara-heuze-sarmini-obtient-gain-de-cause-en-appel-20261023_5HTG25H6RRFOTKUOMYN4EOQIWE/",
+      "summary": "L’entrepreneuse avait diffusé une conversation privée avec un confrère qui la traitait de «connasse» sur le réseau social LinkedIn, sans le consentement de ce dernier.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-10-23T20:32:30+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "e13d9af40806"
+    },
+    {
+      "title": "Elena Nagapetyan, humoriste : «J’ai peur pour la santé des Rolling Stones»",
+      "url": "https://www.liberation.fr/culture/musique/elena-nagapetyan-humoriste-jai-peur-pour-la-sante-des-rolling-stones-20261023_XI3I2PYYC5FELPMT7N2HWL7W6U/",
+      "summary": "",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-10-23T20:25:00+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "dc61e7148892"
+    },
+    {
+      "title": "Mouvement social : «Le maintien de l’ordre ne se gère pas avec un sourire et un bisou», cingle le préfet de Paris",
+      "url": "https://www.liberation.fr/societe/police-justice/mouvement-social-le-maintien-de-lordre-ne-se-gere-pas-avec-un-sourire-et-un-bisou-cingle-le-prefet-de-paris-20261023_C4BUY7PFVVFTHHJ5TBG3BB4K5U/",
+      "summary": "Dans une interview donnée à «l’Opinion» le 23 octobre, Patrice Faure a défendu les dispositifs employés par les forces de l’ordre place de la République, avant même le début de la manifestation le 17 octobre.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-10-23T20:19:52+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "60436ae73757"
+    },
+    {
+      "title": "Mouvement social : le parcours parisien changé par la préfecture",
+      "url": "https://www.liberation.fr/societe/en-direct-mouvement-social-macron-recoit-les-lyceens-ce-vendredi-alors-que-les-arretes-dinterdiction-se-multiplient-20261023_PJGBRMNUHJDWRH47JQNWLR3FPA/",
+      "summary": "Emmanuel Macron s’est entretenu vendredi après-midi avec avec les organisations lycéennes, alors que les préfectures ont accordé quelques autorisations de manifestation, sur l’impulsion des organisations syndicales.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-10-23T20:15:15+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "76f3446b48cb"
+    },
+    {
+      "title": "\"On se dirige vers une bascule sur la bonne santé de notre État de droit\" : les craintes et les recours se multiplient face aux interdictions de manifester samedi partout en France",
+      "url": "https://www.franceinfo.fr/societe/justice/on-se-dirige-vers-une-bascule-sur-la-bonne-sante-de-notre-etat-de-droit-les-craintes-et-les-recours-se-multiplient-face-aux-interdictions-de-manifester-samedi-partout-en-france_8251453.html#xtor=RSS-3-[lestitres]",
+      "summary": "Plusieurs lieux culturels et grands musées parisiens resteront fermés en marge de la journée de mobilisation du samedi 24 octobre. Des interdictions de manifester ont également été décrétées par les préfets, comme à Lyon (Rhône) et à Montpellier (Hérault), tandis qu'à Paris, le parcours du cortège prévu entre Bastille et Nation fait encore débat.",
+      "image": "https://www.franceinfo.fr/pictures/3S-QDNWVNObbswhrI4JZ4y_DNwc/0x2:1341x756/432x243/filters:format(jpg)/2026/10/23/6adbbfbf38265257134714.jpg",
+      "published_at": "2026-10-23T22:13:53+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "06bc2d5e100c"
+    },
+    {
+      "title": "Emmanuel Macron a reconnu auprès des représentants lycéens le \"besoin d'une refonte en profondeur de Parcoursup\"",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-reconnu-aupres-des-representants-lyceens-le-besoin-d-une-refonte-en-profondeur-de-parcoursup_8251462.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le chef de l'Etat a rencontré l'ensemble des représentants des lycéens vendredi à l'Elysée, qui ont appelé à maintenir le \"bras de fer\" jusqu'à leur rencontre avec le Premier ministre lundi.",
+      "image": "https://www.franceinfo.fr/pictures/Cwsux6zMIkf1hoVkPuOjOUTooco/0x53:1024x629/432x243/filters:format(jpg)/2026/10/23/6adbbf462491c512176263.jpg",
+      "published_at": "2026-10-23T22:12:13+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "c4a75ae8ceee"
+    },
+    {
+      "title": "Congrès du RN : Orléans se prépare à être l’épicentre de mobilisations d’ampleur",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/23/congres-du-rn-orleans-se-prepare-a-etre-l-epicentre-de-mobilisations-d-ampleur_6799146_823448.html",
+      "summary": "De 20 000 à 30 000 opposants sont attendus en marge du congrès du Rassemblement national, samedi 24 octobre. De nombreux commerces seront fermés et les transports à l’arrêt dans une ville mise sous cloche.",
+      "image": "https://img.lemde.fr/2026/10/23/0/0/3000/1500/644/322/60/0/8b8bb92_upload-1-ipilupl24ok5-orleans-asurp-100774.jpg",
+      "published_at": "2026-10-23T21:47:21+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "3afa9238981e"
+    },
+    {
+      "title": "Manche : un homme meurt en coupant un arbre après le passage de la tempête Austen",
+      "url": "https://www.liberation.fr/environnement/climat/manche-un-homme-decede-en-coupant-un-arbre-apres-le-passage-de-la-tempete-austen-20261023_GVBDY3LLABEZZC4A6JESQ472OI/",
+      "summary": "La mort du sexagénaire est une «conséquence indirecte» de la tempête, a précisé la préfecture. Deux autres personnes ont été prises en charge «en urgence absolue» après que le vent a soufflé à plus de 100 km/h dans la zone classée vigilance orange.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-10-23T19:30:31+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "4e83820f4525"
+    },
+    {
+      "title": "Le Parti communiste français victime d'une cyberattaque",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-parti-communiste-francais-victime-d-une-cyberattaque_8251381.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le PCF a été alertée d'une fuite de données touchant son fichier des adhérents et sympathisants. Le parti a porté plainte.",
+      "image": "https://www.franceinfo.fr/pictures/pN-aSq2bh8OMLsdrE5pY5ntqvEI/0x118:2277x1399/432x243/filters:format(jpg)/2026/10/23/6adbb22010fd1126297347.jpg",
+      "published_at": "2026-10-23T21:15:45+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "5c2da71208e4"
+    },
+    {
+      "title": "Parcours de la manifestation du 24 octobre à Paris : l’intersyndicale maintient le parcours entre Bastille et Nation malgré l’interdiction",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/23/parcours-de-la-manifestation-du-24-octobre-a-paris-l-intersyndicale-maintient-le-parcours-entre-bastille-et-nation-malgre-l-interdiction_6799144_3224.html",
+      "summary": "L’intersyndicale d’Ile-de-France a déclaré vendredi qu’un nouveau parcours avait été « imposé » par la Préfecture entre la porte de Vincennes et la porte d’Italie ; « impossible à sécuriser », selon le cosecrétaire général de la CGT de Paris.",
+      "image": "https://img.lemde.fr/2026/10/21/684/0/8192/4096/644/322/60/0/00cdef8_ftp-1-gei3x8wlobqu-afp-d3y23j2.jpg",
+      "published_at": "2026-10-23T21:14:22+02:00",
+      "source": "Le Monde Politique",
+      "category": "Société",
+      "id": "9e48b12e4225"
+    },
+    {
+      "title": "Melania Trump affirme avoir obtenu une trêve entre Russes et Ukrainiens à Olechky",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/melania-trump-affirme-avoir-obtenu-une-treve-entre-russes-et-ukrainiens-a-olechky_8251402.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le cessez-le-feu dans la ville située près du fleuve Dniepr, qui forme la ligne de front entre troupes ukrainiennes et russes, doit entrer en vigueur le 29 octobre, a déclaré la Première dame dans un communiqué.",
+      "image": "https://www.franceinfo.fr/pictures/oi6aNBaWKzieLXg4puO80fjzUm4/0x53:1024x629/432x243/filters:format(jpg)/2026/10/23/6adbb171e23e7778663083.jpg",
+      "published_at": "2026-10-23T21:14:10+02:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "959960a00d88"
+    },
+    {
+      "title": "Un mort et plusieurs blessés graves, un suspect arrêté, \"un crime terroriste\"... Ce que l'on sait de l'attentat raciste à Trappes et La Verrière",
+      "url": "https://www.franceinfo.fr/societe/trappes/un-mort-et-plusieurs-blesses-un-suspect-arrete-le-parquet-antiterroriste-saisi-ce-que-l-on-sait-de-l-attaque-a-l-arme-a-feu-a-trappes-et-la-verriere_8250688.html#xtor=RSS-3-[lestitres]",
+      "summary": "Emmanuel Macron a évoqué vendredi soir, en déplacement dans les Yvelines, un \"tournant dans la vie de notre République et de notre nation\" après un \"attentat\" commis \"sur la base d'une idéologie raciste\".",
+      "image": "https://www.franceinfo.fr/pictures/yUlgmdBIoJ52YksKBOdi-s3NQpg/0x0:5463x3072/432x243/filters:format(jpg)/2026/10/23/6adb4010e2c63048013679.jpg",
+      "published_at": "2026-10-23T21:01:51+02:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "e6762d567840"
+    },
+    {
+      "title": "Tempête Austen : un homme est mort dans la Manche, deux autres personnes sont en urgence absolue, annonce la préfecture",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/direct-tempete-austen-161-000-foyers-prives-d-electricite-dans-le-nord-ouest-de-la-france_8250151.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le Samu fait par ailleurs état de 17 personnes en urgence relative en rapport avec la tempête dans le département.",
+      "image": "https://www.franceinfo.fr/pictures/NZAZtqZKTtJCEMH1p2jOuaEd8Ak/0x53:1024x629/432x243/filters:format(jpg)/2026/10/23/6adb9351afa38859265320.jpg",
+      "published_at": "2026-10-23T21:01:40+02:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "d4a03dd486a3"
+    },
     {
       "title": "Jean-Paul Huchon ou l’art du compromis, de Rocard à la région Ile-de-France",
       "url": "https://www.lemonde.fr/politique/article/2026/10/23/jean-paul-huchon-ou-l-art-du-compromis-de-rocard-a-la-region-ile-de-france_6799142_823448.html",
       "summary": "Figure influente du Parti socialiste, ce rocardien historique, décédé vendredi, a régné dix-sept ans sur la région francilienne.",
       "image": "https://img.lemde.fr/2026/10/23/665/0/4368/2184/644/322/60/0/c270155_upload-1-mrogwwg1us1a-zum10005d518.JPG",
       "published_at": "2026-10-23T20:59:16+02:00",
-      "source": "Le Monde Politique",
+      "source": "Le Monde",
       "category": "Politique",
       "id": "71e9326f3063"
     },
@@ -43,16 +273,6 @@
       "id": "a6e086ba19c1"
     },
     {
-      "title": "EN DIRECT – Mouvement social : le parcours parisien changé par la préfecture",
-      "url": "https://www.liberation.fr/societe/en-direct-mouvement-social-macron-recoit-les-lyceens-ce-vendredi-alors-que-les-arretes-dinterdiction-se-multiplient-20261023_PJGBRMNUHJDWRH47JQNWLR3FPA/",
-      "summary": "Emmanuel Macron s’est entretenu vendredi après-midi avec avec les organisations lycéennes, alors que les préfectures ont accordé quelques autorisations de manifestation, sur l’impulsion des organisations syndicales.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-23T18:36:41+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "76f3446b48cb"
-    },
-    {
       "title": "Contestation sociale : Macron écarte les siens pour reprendre la main",
       "url": "https://www.liberation.fr/politique/contestation-sociale-macron-ecarte-les-siens-pour-reprendre-la-main-20261023_SDFS4PBUXFEQ3DARHHOQVBXPXU/",
       "summary": "Entre fermeté sécuritaire et promesses à la jeunesse, le Président tente de reprendre seul le contrôle, court-circuitant une nouvelle fois son gouvernement.",
@@ -81,226 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "9666bb8ab13f"
-    },
-    {
-      "title": "Roumanie : deux attaques au couteau, dont l’une en lien avec la mouvance True Crime Community, ont fait quatre blessés dans des écoles",
-      "url": "https://www.lemonde.fr/international/article/2026/10/23/roumanie-deux-attaques-au-couteau-dont-l-une-en-lien-avec-la-mouvance-true-crime-community-ont-fait-quatre-blesses-dans-des-ecoles_6799140_3210.html",
-      "summary": "En moins d’une semaine, deux agressions à l’arme blanche ont eu lieu dans deux établissements roumains. L’un des auteurs serait lié à la communauté en ligne TCC glorifiant la violence extrême et qui aurait influencé le passage à l’acte de l’adolescent responsable de tirs à Aubagne le 12 octobre.",
-      "image": "https://img.lemde.fr/2026/10/20/517/0/7705/3852/644/322/60/0/7a7907b_ftp-1-fppwowiflrxh-afp-d3vu263.jpg",
-      "published_at": "2026-10-23T20:25:27+02:00",
-      "source": "Le Monde Inter",
-      "category": "Société",
-      "id": "eb2d2a7acf14"
-    },
-    {
-      "title": "Du mouvement lycéen aux mobilisations du 17 octobre, récit des 30 jours qui ont secoué la France",
-      "url": "https://www.lemonde.fr/societe/video/2026/10/23/du-mouvement-lyceen-aux-mobilisations-du-17-octobre-recit-des-30-jours-qui-ont-secoue-la-france_6799139_3224.html",
-      "summary": "Après un mois de blocages et de manifestations, le mouvement lycéen s’est prolongé le samedi 17 octobre par une mobilisation élargie et marquée par des violences. « Le Monde » a analysé les événements et reconstitue ce qu’il s’est passé lors de cette rentrée 2026.",
-      "image": "https://img.lemde.fr/2026/10/22/85/0/1920/960/644/322/60/0/647d625_upload-1-fuluem7ekzgn-thumbnail-re-cit-rentre-e-2026-sirius-copie.jpg",
-      "published_at": "2026-10-23T20:23:42+02:00",
-      "source": "Le Monde Politique",
-      "category": "Société",
-      "id": "c0da4edd9c35"
-    },
-    {
-      "title": "EN DIRECT – Attaque dans les Yvelines : Emmanuel Macron dénonce «un acte terroriste et raciste» qui constitue un «tournant»",
-      "url": "https://www.liberation.fr/societe/police-justice/en-direct-attaque-dans-les-yvelines-devant-le-esso-de-trappes-il-nous-a-regardes-et-il-nous-a-tire-dessus-20261023_3SICLLNDBRDGHPWGTRHWXGTWWU/",
-      "summary": "Le Parquet national antiterroriste (Pnat) a annoncé se saisir des faits commis par un homme qui a tiré en rafales dans la rue ce vendredi 23 octobre au matin dans les Yvelines, tuant une personne et en blessant au moins quatre.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-23T18:23:17+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "00889b29f46f"
-    },
-    {
-      "title": "Le président Macron bientôt licencié… mais pas en droit",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/le-president-macron-bientot-licencie-mais-pas-en-droit-20261023_D6W7WHUB6VGYXHFEFPAP544Q2M/",
-      "summary": "Pour Emmanuel Macron, les seuls groupements «légitimes» et donc autorisés à manifester samedi 24 octobre sont les syndicats. Cette idée est totalement étrangère au droit des manifestations qui se montre, au contraire, très libéral, relève la professeure de droit public Roseline Letteron.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-23T18:15:14+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "ba522f9bc259"
-    },
-    {
-      "title": "Manifestations du 24 octobre : à six mois de la présidentielle, le pouvoir politique est nu",
-      "url": "https://www.liberation.fr/idees-et-debats/manifestations-du-24-octobre-a-six-mois-de-la-presidentielle-le-pouvoir-politique-est-nu-20261023_6GJXECVYJ5FLVC5YQCNP2S3WYY/",
-      "summary": "En interdisant les rassemblements à tour de bras et en déployant un arsenal de sécurité maximale face à la colère de la rue, l’exécutif n’a qu’une réponse à la crise : la répression.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-23T18:11:41+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "41d0a117b7ec"
-    },
-    {
-      "title": "Tempête Austen : trois départements du nord de la France restent en vigilance orange, 242 000 foyers privés d’électricité",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/23/tempete-austen-trois-departements-du-nord-de-la-france-restent-en-vigilance-orange-242-000-foyers-prives-d-electricite_6799023_3245.html",
-      "summary": "Seuls le Nord, le Pas-de-Calais et la Somme sont toujours placés en vigilance orange pour vent. Un homme est mort en coupant un arbre après le passage de la tempête vendredi dans la Manche.",
-      "image": "https://img.lemde.fr/2026/10/23/842/0/6000/3000/644/322/60/0/179c973_ftp-1-qnkx7hopsxma-afp-d47c8cr.jpg",
-      "published_at": "2026-10-23T20:04:16+02:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "b81300dfb217"
-    },
-    {
-      "title": "Attentat raciste à Trappes et La Verrière : Emmanuel Macron évoque un \"tournant dans la vie de notre République et de notre nation\"",
-      "url": "https://www.franceinfo.fr/faits-divers/direct-coups-de-feu-dans-les-yvelines-le-parquet-national-antiterroriste-se-place-en-observation-annonce-sebastien-lecornu_8250646.html#xtor=RSS-3-[lestitres]",
-      "summary": "\"Ces personnes ont été visées en raison de leur couleur et leur religion supposées\", a déclaré le chef de l'Etat qui s'est rendu sur place vendredi soir.",
-      "image": "https://www.franceinfo.fr/pictures/Urjyck7j7pph8lo_xsA9RJPZn-k/0x625:6000x4000/432x243/filters:format(jpg)/2026/10/23/6adb6c8a428e2672852937.jpg",
-      "published_at": "2026-10-23T20:02:04+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "158f22d49ac3"
-    },
-    {
-      "title": "Cisjordanie : en réponse à une attaque contre des militaires israéliens, Nétanyahou promet des destructions d’ampleur et encore plus de colonies",
-      "url": "https://www.lemonde.fr/international/article/2026/10/23/cisjordanie-en-reponse-a-la-mort-de-deux-militaires-israeliens-netanyahou-promet-des-destructions-d-ampleur-et-encore-plus-de-colonies_6799138_3210.html",
-      "summary": "Après la mort de deux soldats près d’Hébron, le premier ministre israélien a promis « une opération très vaste de l’armée », mais l’état-major semble plus modéré, à quatre jours d’élections législatives décisives.",
-      "image": "https://img.lemde.fr/2026/10/23/251/0/3011/1505/644/322/60/0/ff2ff0e_ftp-1-rrehap36ghnu-afp-d48r7v7.jpg",
-      "published_at": "2026-10-23T20:01:39+02:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "084ec82b61b4"
-    },
-    {
-      "title": "Comment le 17 octobre est instrumentalisé par des influenceurs pour attirer l’attention de l’extrême droite à l’étranger, de Musk à Bukele",
-      "url": "https://www.lemonde.fr/pixels/article/2026/10/23/comment-le-17-octobre-est-instrumentalise-par-des-influenceurs-pour-attirer-l-attention-de-l-extreme-droite-a-l-etranger-de-musk-a-bukele_6799136_4408996.html",
-      "summary": "Sur le réseau social X, des personnalités comme Thaïs d’Escufon, Brivael Le Pogam et Alice Cordier commentent en anglais les images des manifestations et des violences. Leur objectif : propager un narratif xénophobe tout en assurant leur autopromotion.",
-      "image": "https://img.lemde.fr/2026/10/22/218/0/8192/4096/644/322/60/0/3bd5a34_upload-1-csyujnq4czgd-000-36ft4dn.jpg",
-      "published_at": "2026-10-23T20:00:02+02:00",
-      "source": "Le Monde",
-      "category": "Société",
-      "id": "27e5b4131a43"
-    },
-    {
-      "title": "Derrière la condamnation d’Olivier Bouygues, « un sérieux avertissement pour les grands propriétaires de domaines de chasse »",
-      "url": "https://www.lemonde.fr/societe/article/2026/10/23/derriere-la-condamnation-d-olivier-bouygues-un-serieux-avertissement-pour-les-grands-proprietaires-de-domaines-de-chasse_6799135_3224.html",
-      "summary": "L’homme d’affaires a été condamné à deux ans de prison avec sursis et 750 000 euros d’amende pour l’abattage, par ses gardes-chasse, d’espèces protégées sur sa propriété solognote. Il a fait appel.",
-      "image": "https://img.lemde.fr/2026/10/23/655/0/5579/2789/644/322/60/0/2bffbc0_upload-1-7msqvo7sqklt-000-c7jb7zt.jpg",
-      "published_at": "2026-10-23T19:56:47+02:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "9ae201d15b63"
-    },
-    {
-      "title": "Tirs mortels dans les Yvelines : un autre Kevin, innocent, accusé à tort sur les réseaux sociaux",
-      "url": "https://www.franceinfo.fr/societe/trappes/tirs-mortels-dans-les-yvelines-un-autre-kevin-innocent-accuse-a-tort-sur-les-reseaux-sociaux_8251342.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un certain Kevin T. a été placé en garde à vue et est soupçonné \"d'assassinat en relation avec une entreprise terroriste\" après des tirs mortels dans les Yvelines vendredi 23 octobre. Des internautes ont lancé une chasse aux sorcières sur les réseaux et accusent un autre Kevin T, pourtant innocent.",
-      "image": "https://www.franceinfo.fr/pictures/i_yaHxwCht5ZoZ-wxH78HEPJBYc/0x64:3464x2013/432x243/filters:format(jpg)/2026/10/23/6adb9f6082ef5345764939.jpg",
-      "published_at": "2026-10-23T19:56:23+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "5ae15b3c25c3"
-    },
-    {
-      "title": "Aux Etats-Unis, le soutien à Israël devient un enjeu électoral des midterms",
-      "url": "https://www.liberation.fr/international/amerique/aux-etats-unis-le-soutien-a-israel-devient-un-enjeu-electoral-des-midterms-20261019_Y3ERGXBCOJGK5GKXJ2E5WHX6QU/",
-      "summary": "Pour de nombreux électeurs démocrates, mais aussi républicains, l’appui sans condition de Washington au gouvernement israélien est devenu radioactif. C’est même devenu l’un des déterminants pour le scrutin du 3 novembre qui doit renouveler une partie du Congrès.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-23T17:36:44+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "be38bcd90ea2"
-    },
-    {
-      "title": "La diplomatie de Giorgia Meloni, une politique au cœur de l’internationale réactionnaire",
-      "url": "https://www.lemonde.fr/international/article/2026/10/23/la-diplomatie-de-giorgia-meloni-une-politique-au-c-ur-de-l-internationale-reactionnaire_6799132_3210.html",
-      "summary": "« Meloni, quatre années au pouvoir » (5/6). La présidente du conseil italien, d’extrême droite, cultive ses affinités idéologiques avec les dirigeants les plus conservateurs, comme Donald Trump, Javier Milei ou Viktor Orban. Et œuvre en Europe, grâce à ses réseaux, au durcissement de la lutte contre l’immigration illégale.",
-      "image": "https://img.lemde.fr/2026/10/21/0/0/3000/1500/644/322/60/0/331adb5_upload-1-zqr55i2qlwlo-063-2210747392.jpg",
-      "published_at": "2026-10-23T19:30:11+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "22f18c281baa"
-    },
-    {
-      "title": "Gilbert Achcar, chercheur : « L’“America first” de Donald Trump ne doit pas s’entendre comme un repli sur soi : c’est une affirmation de domination sur le monde »",
-      "url": "https://www.lemonde.fr/international/article/2026/10/23/gilbert-achcar-chercheur-l-america-first-de-donald-trump-ne-doit-pas-s-entendre-comme-un-repli-sur-soi-c-est-une-affirmation-de-domination-sur-le-monde_6799131_3210.html",
-      "summary": "Le président américain poursuit une politique de domination au Moyen-Orient, estime Gilbert Achcar. Dans un entretien au « Monde », l’intellectuel franco-libanais défend un anti-impérialisme fondé sur le droit des peuples à l’autodétermination, plutôt que sur le soutien aveugle aux ennemis des Etats-Unis.",
-      "image": "https://img.lemde.fr/2026/10/21/594/0/1625/812/644/322/60/0/c6e92ea_upload-1-glumazzpwtpk-jane-fine-06-1.jpg",
-      "published_at": "2026-10-23T19:30:10+02:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "727c5dff431f"
-    },
-    {
-      "title": "EN DIRECT, manifestations du 24 octobre : sept partis politiques de gauche déposent un recours auprès du Conseil d’Etat contre les interdictions de manifester",
-      "url": "https://www.lemonde.fr/societe/live/2026/10/23/en-direct-manifestations-du-24-octobre-sept-partis-politiques-de-gauche-deposent-un-recours-aupres-du-conseil-d-etat-contre-les-interdictions-de-manifester_6795855_3224.html",
-      "summary": "Emmanuel Macron avait affirmé, jeudi, à l’issue d’un conseil de sécurité que « la recommandation générale, c’est qu’il n’y ait pas de manifestation dans les jours à venir ». Les Ecologistes, La France insoumise, le Parti socialiste, le parti communiste, Debout (le parti de François Ruffin), L’Après (parti des ex-insoumis) et Génération.s ont déposé conjointement un recours en référé-liberté contre",
-      "image": "https://img.lemde.fr/2026/10/22/397/0/4772/2386/644/322/60/0/dd1d4bb_ftp-1-lkcxypmgt2s3-afp-d44f2uf.jpg",
-      "published_at": "2026-10-23T19:28:59+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "02275c4ae272"
-    },
-    {
-      "title": "Cisjordanie : deux soldats israéliens tués, Nétanyahou menace de lancer une opération «comme il n’y en a pas eu depuis la guerre des Six Jours»",
-      "url": "https://www.liberation.fr/international/moyen-orient/cisjordanie-deux-soldats-israeliens-tues-netanyahou-menace-de-lancer-une-operation-comme-il-ny-en-a-pas-eu-depuis-la-guerre-des-six-jours-20261023_P2S2QP4YV5E2PK3O7R5UYOMWL4/",
-      "summary": "Après l’attaque de deux Palestiniens contre un barrage de l’armée israélienne à Hébron ce vendredi 23 octobre, le Premier ministre Benyamin Nétanyahou a annoncé le bouclage total de la Cisjordanie.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-23T17:20:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "564c9e895dd9"
-    },
-    {
-      "title": "Tempête Austen : un homme est mort dans la Manche, deux autres persones sont en urgence absolue, annonce la préfecture",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/direct-tempete-austen-161-000-foyers-prives-d-electricite-dans-le-nord-ouest-de-la-france_8250151.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le Samu fait par ailleurs état de 17 personnes en urgence relative en rapport avec la tempête dans le département.",
-      "image": "https://www.franceinfo.fr/pictures/NZAZtqZKTtJCEMH1p2jOuaEd8Ak/0x53:1024x629/432x243/filters:format(jpg)/2026/10/23/6adb9351afa38859265320.jpg",
-      "published_at": "2026-10-23T19:18:44+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "d4a03dd486a3"
-    },
-    {
-      "title": "Ce que l'on sait de Kévin T., l'homme de 39 ans soupçonné de l'attaque terroriste qui fait un mort et plusieurs blessés graves à Trappes et La Verrière",
-      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-a-trappes/ce-que-l-on-sait-de-kevin-t-l-homme-de-39-ans-soupconne-de-l-attaque-terroriste-qui-fait-un-mort-et-plusieurs-blesses-graves-a-trappes-et-la-verriere_8250916.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le trentenaire était connu de la police, notamment pour des délits routiers. Il était en possession d'un pistolet-mitrailleur au moment des faits.",
-      "image": "https://www.franceinfo.fr/pictures/xFKU7spVNJIRrDj6P8d8Z0RMe6A/0x53:1024x629/432x243/filters:format(jpg)/2026/10/23/6adb796b4422e252452764.jpg",
-      "published_at": "2026-10-23T19:12:52+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "a666c7d0f63b"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : la Russie dit accepter une trêve dans la ville ukrainienne d’Olechky à partir de mardi pour permettre des opérations humanitaires",
-      "url": "https://www.lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-la-russie-dit-accepter-une-treve-dans-la-ville-ukrainienne-d-olechky-a-partir-de-mardi-pour-permettre-des-operations-humanitaires_6796922_3210.html",
-      "summary": "La Maison Blanche avait annoncé que Moscou et Kiev avaient « accepté de suspendre temporairement toutes les opérations militaires dans cette ville afin de permettre l’acheminement de l’aide humanitaire et de préparer l’évacuation des civils par un couloir sécurisé désigné à cet effet ».",
-      "image": "https://img.lemde.fr/2026/10/23/342/0/4102/2051/644/322/60/0/bb79ba7_ftp-1-0fzqv2zzh6mu-e3a4d1fbe64e4c2488b6ede8847b9477-0-c315d03de18f466dafe2004698f0a560.jpg",
-      "published_at": "2026-10-23T19:07:10+02:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "672d1524ac2f"
-    },
-    {
-      "title": "Fusillade à Trappes : comment les réseaux sociaux ont jeté en pâture le profil d’un innocent",
-      "url": "https://www.liberation.fr/checknews/fusillade-a-trappes-comment-les-reseaux-sociaux-ont-jete-en-pature-le-profil-dun-innocent-20261023_IOPSGSYQ2VD33DDHTGFVHVDFUU/",
-      "summary": "Après l’attaque meurtrière du vendredi 23 octobre dans les Yvelines, des internautes et médias ont identifié à tort Kevin T., un homme quasi homonyme du suspect, exposant sa vie privée et celle de ses proches.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-10-23T17:06:40+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "d0d69db6ec7d"
-    },
-    {
-      "title": "Mobilisations du 17 octobre : « L’héritage des “gilets jaunes” s’observe dans les transformations des manières de manifester »",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/23/mobilisations-du-17-octobre-l-heritage-des-gilets-jaunes-s-observe-dans-les-transformations-des-manieres-de-manifester_6799128_3232.html",
-      "summary": "Depuis le mouvement de 2018, les formes prises par la contestation se construisent dans l’interaction avec les forces de l’ordre, rendant caduque une analyse des manifestations fondée sur les intentions supposées des participants, note un collectif de politistes et de sociologues, dans une tribune au « Monde ».",
-      "image": "https://img.lemde.fr/2026/02/25/27/0/1500/750/644/322/60/0/b797c63_upload-1-owg0cse5lys7-frame-1185.jpg",
-      "published_at": "2026-10-23T19:00:16+02:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "1119516ac079"
-    },
-    {
-      "title": "Un mort et plusieurs blessés graves, un suspect arrêté, \"un crime terroriste\"... Ce que l'on sait de l'attentat raciste à Trappes et La Verrière",
-      "url": "https://www.franceinfo.fr/societe/trappes/un-mort-et-plusieurs-blesses-un-suspect-arrete-le-parquet-antiterroriste-saisi-ce-que-l-on-sait-de-l-attaque-a-l-arme-a-feu-a-trappes-et-la-verriere_8250688.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un homme a tiré dans la rue vendredi matin dans ces deux communes des Yvelines, tuant une personne et en blessant cinq autres. Emmanuel Macron a évoqué vendredi soir un \"tournant\" après un \"attentat\" commis \"sur la base d'une idéologie raciste\".",
-      "image": "https://www.franceinfo.fr/pictures/yUlgmdBIoJ52YksKBOdi-s3NQpg/0x0:5463x3072/432x243/filters:format(jpg)/2026/10/23/6adb4010e2c63048013679.jpg",
-      "published_at": "2026-10-23T18:58:44+02:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "e6762d567840"
     }
   ]
 }
