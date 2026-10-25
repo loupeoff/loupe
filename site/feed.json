@@ -1,14 +1,54 @@
 {
-  "generated_at": "2026-10-24T23:04:25.108159+00:00",
+  "generated_at": "2026-10-25T01:02:47.558537+00:00",
   "article_count": 30,
   "articles": [
     {
+      "title": "Le Gabon rétablit les réseaux sociaux après huit mois de suspension",
+      "url": "https://www.lemonde.fr/afrique/article/2026/10/25/le-gabon-retablit-les-reseaux-sociaux-apres-huit-mois-de-suspension_6799863_3212.html",
+      "summary": "Le gouvernement a également rendu l’identification formelle obligatoire pour tous les usagers gabonais en octobre, mettant ainsi fin à l’anonymat en ligne dans le pays.",
+      "image": "https://img.lemde.fr/2026/10/25/139/0/3840/1920/644/322/60/0/463bbb1_upload-1-gebozjoelbhc-capture-d-e-cran-2026-10-25-a-02-26-51.png",
+      "published_at": "2026-10-25T02:39:09+02:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "83262cac36c8"
+    },
+    {
+      "title": "L’archidiocèse de New York va verser 800 millions de dollars à plus de 1 300 victimes d’abus sexuels",
+      "url": "https://www.lemonde.fr/international/article/2026/10/25/l-archidiocese-de-new-york-va-verser-800-millions-de-dollars-a-plus-de-1-300-victimes-d-abus-sexuels_6799830_3210.html",
+      "summary": "L’Eglise catholique américaine, embourbée depuis le début des années 2000 dans des scandales sexuels à répétition, a déjà conclu plusieurs accords similaires, mettant un terme aux poursuites judiciaires.",
+      "image": "https://img.lemde.fr/2026/10/24/0/0/4243/2121/644/322/60/0/564f83a_upload-1-eyyf41rh3mls-000-96ga2b8.jpg",
+      "published_at": "2026-10-25T01:33:15+02:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "89d7ce8ed198"
+    },
+    {
+      "title": "Nigeria : au moins vingt morts dans une attaque de « bandits » dans le Nord-Est",
+      "url": "https://www.lemonde.fr/afrique/article/2026/10/25/nigeria-au-moins-vingt-morts-dans-une-attaque-de-bandits-dans-le-nord-est_6799797_3212.html",
+      "summary": "Si cette zone du pays est confrontée depuis longtemps à une insurrection djihadiste, elle est également en proie à des bandes criminelles sans motivation idéologique, qui terrorisent les communautés rurales.",
+      "image": "https://img.lemde.fr/2026/10/24/282/0/3104/1552/644/322/60/0/171bbbf_upload-1-wz96ffj1xtpd-2025-09-02t114253z-65098475-rc2ofgad1hk5-rtrmadp-3-nigeria-security.JPG",
+      "published_at": "2026-10-25T01:17:23+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "6d44f7aff151"
+    },
+    {
+      "title": "Donald Trump a voté par anticipation en Floride aux élections de mi-mandat",
+      "url": "https://www.lemonde.fr/international/article/2026/10/25/donald-trump-a-vote-par-anticipation-en-floride-aux-elections-de-mi-mandat_6799764_3210.html",
+      "summary": "A dix jours des midterms, le locataire de la Maison Blanche multiplie les attaques contre les démocrates et agite à nouveau le spectre de la fraude électorale.",
+      "image": "https://img.lemde.fr/2026/10/24/263/0/6400/3200/644/322/60/0/8829085_ftp-1-mku9jjklvxgt-afp-d4by63u.jpg",
+      "published_at": "2026-10-25T01:06:08+02:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "87197441daf1"
+    },
+    {
       "title": "EN DIRECT, guerre en Ukraine : au moins quatre morts dans des frappes russes dans les régions de Dnipropetrovsk et de Kharkiv",
       "url": "https://www.lemonde.fr/international/live/2026/10/25/en-direct-guerre-en-ukraine-au-moins-quatre-morts-dans-des-frappes-russes-dans-les-regions-de-dnipropetrovsk-et-de-kharkiv_6796922_3210.html",
-      "summary": "Dans la nuit de samedi à dimanche, Oleh Synehoubov, chef de l’administration militaire de l’oblast de Kharkiv, dans le nord-est de l’Ukraine, a annoncé qu’une personne avait été tuée et quatre autres blessées dans une offensive russe.",
+      "summary": "Une personne a été tuée et quatre autres ont été blessées dans une attaque ayant visé la ville ukrainienne de Kharkiv, dans le nord-est du pays, a annoncé Oleh Synehoubov, chef de l’administration militaire régionale, dans la nuit de samedi à dimanche.",
       "image": "https://img.lemde.fr/2026/10/23/145/0/6000/3000/644/322/60/0/190a159_ftp-1-mht8qwc7behq-8e25412aae66497f806d6c49cd90786b-1-046d3fe5da0d4c2aa7fae7f33701a472.jpg",
-      "published_at": "2026-10-25T01:00:52+02:00",
-      "source": "Le Monde Inter",
+      "published_at": "2026-10-25T01:00:49+02:00",
+      "source": "Le Monde",
       "category": "International",
       "id": "59e7e86d0a9e"
     },
@@ -261,46 +301,6 @@
       "source": "Le Monde Inter",
       "category": "Politique",
       "id": "f84f40677abc"
-    },
-    {
-      "title": "Motivations du suspect, profil de la victime, état de santé des blessés… Ce que l’on sait ce samedi de l’attaque raciste dans les Yvelines",
-      "url": "https://www.liberation.fr/societe/police-justice/motivations-du-suspect-profil-de-la-victime-etat-de-sante-des-blesses-ce-que-lon-sait-ce-samedi-de-lattaque-raciste-dans-les-yvelines-20261024_ZEXTBXBQPJBSTCEJ5JPENIN3KI/",
-      "summary": "Vendredi 23 octobre, un homme soupçonné d’avoir voulu s’en prendre à des personnes issues de l’immigration, a tiré à Trappes et à La Verrière, avant d’être arrêté. Un jeune homme de 26 ans a été tué et cinq personnes, dont une fillette de 12 ans, ont été blessées.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-10-24T17:20:47+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "5a00b18f4937"
-    },
-    {
-      "title": "Près de 410 000 personnes ont manifesté en France d'après le ministère de l'Intérieur, 800 000 selon la CGT, des tensions dans plusieurs grandes villes",
-      "url": "https://www.franceinfo.fr/societe/manifestations/pres-de-410-000-personnes-ont-manifeste-en-france-d-apres-le-ministere-de-l-interieur-800-000-selon-la-cgt-des-tensions-dans-plusieurs-grandes-villes_8252440.html#xtor=RSS-3-[lestitres]",
-      "summary": "Après un défilé calme à Paris, la situation s'est tendue en fin de cortège. Des heurts ont également éclaté dans plusieurs grandes villes, comme Marseille, Lille et Lyon.",
-      "image": "https://www.franceinfo.fr/pictures/kI_Gm8t8V6NHaCkll-PraYUXquk/0x106:1024x682/432x243/filters:format(jpg)/2026/10/24/6adce69d4b06b060835357.jpg",
-      "published_at": "2026-10-24T19:16:16+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "c5ae879f19e1"
-    },
-    {
-      "title": "\"Il était de ceux qui donnent l'exemple\" : qui était Pengo Bossio Wangi, le jeune homme tué lors de l'attentat raciste de Trappes ?",
-      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/il-etait-de-ceux-qui-donnent-l-exemple-qui-etait-pengo-bossio-wangi-le-jeune-homme-tue-lors-de-l-attentat-raciste-de-trappes_8252407.html#xtor=RSS-3-[lestitres]",
-      "summary": "Passionné de MMA, ce jeune sportif de 26 ans, décrit comme \"travailleur et déterminé\" par ses proches, rêvait de devenir combattant professionnel. Une marche blanche doit se tenir dimanche après-midi, à Aubervilliers (Seine-Saint-Denis).",
-      "image": "https://www.franceinfo.fr/pictures/ghLe2seazB51nqyvfZCtg7AopSk/0x117:1298x848/432x243/filters:format(jpg)/2026/10/24/6adcdbcba2bad640248503.jpg",
-      "published_at": "2026-10-24T19:07:10+02:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "5667e3c820eb"
-    },
-    {
-      "title": "Ian McEwan, à propos de l’écriture : « C’est mieux que le sexe, la cocaïne ou le jeu, c’est un abandon total »",
-      "url": "https://www.lemonde.fr/livres/article/2026/10/24/ian-mcewan-a-propos-de-l-ecriture-c-est-mieux-que-le-sexe-la-cocaine-ou-le-jeu-c-est-un-abandon-total_6799722_3260.html",
-      "summary": "Optimiste mesuré, le grand écrivain, qui manie l’ironie en Britannique, plonge au XXIIᵉ siècle dans un nouveau roman vertigineux, « Ce que nous pouvons savoir ».",
-      "image": "https://img.lemde.fr/2026/10/21/367/0/1949/974/644/322/60/0/02cd9f3_upload-1-zpejbodhbvyr-opaleplus-lumen-es-70735.jpg",
-      "published_at": "2026-10-24T19:00:08+02:00",
-      "source": "Le Monde",
-      "category": "Culture",
-      "id": "a736a6a3c535"
     }
   ]
 }
