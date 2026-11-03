@@ -7,308 +7,308 @@
   <description>Média en ligne généraliste. L&apos;essentiel de l&apos;actualité mis à jour chaque heure, et un résumé quotidien par email à 7h.</description>
   <language>fr-FR</language>
   <copyright>© 2026 Loupe</copyright>
-  <lastBuildDate>Tue, 03 Nov 2026 01:30:04 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 09:24:05 +0000</lastBuildDate>
   <generator>Loupe Aggregator</generator>
   <ttl>60</ttl>
   <item>
-    <title>Budget 2027 : les députés remanient la TVA sur l’électricité, la télévision payante ou encore les produits de première nécessité</title>
-    <link>https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-les-deputes-remanient-la-tva-sur-l-electricite-la-television-payante-ou-encore-les-produits-de-premiere-necessite_6805244_823449.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-les-deputes-remanient-la-tva-sur-l-electricite-la-television-payante-ou-encore-les-produits-de-premiere-necessite_6805244_823449.html</guid>
-    <pubDate>Tue, 03 Nov 2026 00:53:56 +0000</pubDate>
+    <title>EN DIRECT – Mobilisation de la jeunesse : 48 lycées bloqués sur l’ensemble du territoire ce mardi, selon l’Education nationale</title>
+    <link>https://www.liberation.fr/societe/education/en-direct-mobilisation-dans-les-lycees-et-les-universites-nouvel-appel-aux-blocages-ce-mardi-la-greve-de-jeudi-en-ligne-de-mire-20261103_RO4BAQZVTNDKBP7IFM6T2Y6RAI/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/societe/education/en-direct-mobilisation-dans-les-lycees-et-les-universites-nouvel-appel-aux-blocages-ce-mardi-la-greve-de-jeudi-en-ligne-de-mire-20261103_RO4BAQZVTNDKBP7IFM6T2Y6RAI/</guid>
+    <pubDate>Tue, 03 Nov 2026 09:21:43 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Décidées à «ne rien lâcher» face aux annonces du gouvernement jugées insuffisantes, les organisations de jeunesse appellent à des blocages massifs ce mardi, avant de rejoindre la mobilisation nationale de jeudi sur le pouvoir d’achat.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Vous voyagez en train cet automne ? OUIGO retire 10 € sur vos billets de train</title>
+    <link>https://www.numerama.com/vroom/2366199-vous-voyagez-en-train-cet-automne-ouigo-retire-10-e-sur-vos-billets-de-train.html</link>
+    <guid isPermaLink="true">https://www.numerama.com/vroom/2366199-vous-voyagez-en-train-cet-automne-ouigo-retire-10-e-sur-vos-billets-de-train.html</guid>
+    <pubDate>Tue, 03 Nov 2026 09:20:52 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">Numerama</source>
+    <description><![CDATA[[Deal du jour] Bonne nouvelle si vous prévoyez de voyager d'ici la mi-décembre : OUIGO propose un code promo de 10 € depuis ce lundi 2 novembre et jusqu'au lundi 9 novembre 2026. L'occasion de réserver vos prochains billets de train à prix réduit et de préparer vos escapades sans faire exploser votre budget.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Taxe-au-giga.fr : le Cookie Clicker de la taxe au gigaoctet existe, et il vous propose de la tester sur le député qui l’a portée</title>
+    <link>https://www.numerama.com/politique/2366181-taxe-au-giga-fr-le-cookie-clicker-de-la-taxe-au-gigaoctet-existe-et-il-vous-propose-de-la-tester-sur-le-depute-qui-la-portee.html</link>
+    <guid isPermaLink="true">https://www.numerama.com/politique/2366181-taxe-au-giga-fr-le-cookie-clicker-de-la-taxe-au-gigaoctet-existe-et-il-vous-propose-de-la-tester-sur-le-depute-qui-la-portee.html</guid>
+    <pubDate>Tue, 03 Nov 2026 09:19:30 +0000</pubDate>
+    <category>Tech</category>
+    <source url="https://loupeoff.github.io/loupe">Numerama</source>
+    <description><![CDATA[Faire payer au député Laurent Lhardit sa propre taxe au gigaoctet, un clic après l’autre : c’est le principe de taxe-au-giga.fr, un jeu parodique dans la veine de Cookie Clicker. La blague est absurde, mais ses calculs tiennent la route, et elle met le doigt sur quelques angles morts du texte.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Espagne : le footballeur de Tenerife Jesus de Miguel meurt après un choc violent sur le terrain</title>
+    <link>https://www.liberation.fr/sports/football/espagne-le-footballeur-de-tenerife-jesus-de-miguel-meurt-apres-un-choc-violent-sur-le-terrain-20261103_OCXI3DYMIJEPREK766GHV7BNRU/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/sports/football/espagne-le-footballeur-de-tenerife-jesus-de-miguel-meurt-apres-un-choc-violent-sur-le-terrain-20261103_OCXI3DYMIJEPREK766GHV7BNRU/</guid>
+    <pubDate>Tue, 03 Nov 2026 09:18:03 +0000</pubDate>
+    <category>Sport</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[L’avant-centre du club des Canaries, en deuxième division espagnole, était en soins intensifs depuis qu’il avait percuté le gardien du club d’Andorre, lundi 2 novembre.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>&quot;Il ne faut pas arrêter, c&apos;est maintenant que ça se joue&quot; : à Aubervilliers, des lycéens déterminés à poursuivre les blocages &quot;pour se faire entendre&quot;</title>
+    <link>https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-il-ne-faut-pas-arreter-c-est-maintenant-que-ca-se-joue-a-aubervilliers-des-lyceens-determines-a-poursuivre-les-blocages-pour-se-faire-entendre_8263874.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-il-ne-faut-pas-arreter-c-est-maintenant-que-ca-se-joue-a-aubervilliers-des-lyceens-determines-a-poursuivre-les-blocages-pour-se-faire-entendre_8263874.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Tue, 03 Nov 2026 10:14:23 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Les mesures proposées par l'exécutif n'ont pas convaincu les jeunes présents lundi devant l'établissement. "On arrêtera de se mobiliser quand le gouvernement arrêtera juste d'essayer de nous faire plaisir avec des mesures bidon", a martelé l'un des organisateurs du blocus.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/zthqF6vVFtVMNw5vwdsqvyw21jo/0x963:5712x4176/432x243/filters:format(jpg)/2026/11/02/6ae898af2a2d4502169094.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Trois personnes ont été interpellées mardi matin après l&apos;incendie au lycée Mandela à Nantes</title>
+    <link>https://www.franceinfo.fr/societe/education/blocage-des-lycees/trois-personnes-ont-ete-interpellees-mardi-matin-apres-l-incendie-au-lycee-mandela-a-nantes_8265473.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/societe/education/blocage-des-lycees/trois-personnes-ont-ete-interpellees-mardi-matin-apres-l-incendie-au-lycee-mandela-a-nantes_8265473.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Tue, 03 Nov 2026 10:06:15 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Selon une source proche de l'enquête, elles sont soupçonnées d'être impliquées dans l'incendie du hall au lycée Nelson Mandela à Nantes le 1er octobre dernier.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/kk3UuiM4-oCmKYfgFu7bohjE-k4/0x589:1530x1450/432x243/filters:format(jpg)/2026/10/02/6abf51a902347279172385.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>A Los Angeles, la crise du logement pousse des habitants à dormir dans leur voiture</title>
+    <link>https://www.franceinfo.fr/monde/usa/a-los-angeles-la-crise-du-logement-pousse-des-habitants-a-dormir-dans-leur-voiture_8264804.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/monde/usa/a-los-angeles-la-crise-du-logement-pousse-des-habitants-a-dormir-dans-leur-voiture_8264804.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Tue, 03 Nov 2026 10:05:29 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Dans la mégalopole de la côte ouest, se loger est devenu un véritable défi. Faute de moyens, certains habitants sont contraints de dormir dans leur voiture ou de se tourner vers des colocations atypiques. Entre loyers élevés, taux d'intérêt en hausse et manque de logements, le rêve californien devient inaccessible pour une partie toujours plus importante de la population.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/vYuOP9i_zcUXjilwZ8ficFdDgkU/0x54:1283x776/432x243/filters:format(jpg)/2026/11/02/6ae8fd87e2cb7043847004.png" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Attentat raciste de Trappes : 30 victimes ont été identifiées, selon le procureur national antiterroriste</title>
+    <link>https://www.lemonde.fr/societe/article/2026/11/03/attentat-raciste-de-trappes-30-victimes-ont-ete-identifiees-selon-le-procureur-national-antiterroriste_6805553_3224.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/societe/article/2026/11/03/attentat-raciste-de-trappes-30-victimes-ont-ete-identifiees-selon-le-procureur-national-antiterroriste_6805553_3224.html</guid>
+    <pubDate>Tue, 03 Nov 2026 10:03:03 +0000</pubDate>
     <category>Politique</category>
     <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Dans un hémicycle clairsemé, les parlementaires ont voté lundi des mesures qu’ils savent peu susceptibles de perdurer, compte tenu du rejet probable du budget, et d’un recours au 49.3 ou aux ordonnances par l’exécutif.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/10/28/700/0/8112/4056/644/322/60/0/a9d4516_ftp-1-dck9pcjeixhv-afp-d4px2ag.jpg" type="image/jpeg" length="0" />
+    <description><![CDATA[Le procureur, Olivier Christen, est revenu au micro de RTL sur le profil du suspect de l’attentat, Kevin T., qui a été mis en examen, jeudi 29 octobre. « C’est quelqu’un qui avait largement préparé, prémédité les faits, probablement depuis la fin de l’été, début septembre », a-t-il détaillé. Il a déclaré « n’être sympathisant d’aucun parti politique ».]]></description>
+    <enclosure url="https://img.lemde.fr/2026/11/03/559/0/6714/3357/644/322/60/0/5748a47_upload-1-ssmoizeiopzr-000-d4gw7en.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>EN DIRECT, guerre en Ukraine : l’émissaire américain annonce des négociations entre Moscou et Kiev la semaine prochaine à Abou Dhabi, sous médiation de Washington</title>
-    <link>https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-le-bilan-des-bombardements-russes-dans-l-oblast-de-zaporijia-passe-a-26-morts-annonce-volodymyr-zelensky_6803934_3210.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-le-bilan-des-bombardements-russes-dans-l-oblast-de-zaporijia-passe-a-26-morts-annonce-volodymyr-zelensky_6803934_3210.html</guid>
-    <pubDate>Tue, 03 Nov 2026 00:12:24 +0000</pubDate>
-    <category>International</category>
+    <title>Présidentielle 2027 : la primaire de la droite et du centre a du plomb dans l’aile avant même d’avoir décollé</title>
+    <link>https://www.lemonde.fr/politique/article/2026/11/03/presidentielle-2027-la-primaire-de-la-droite-et-du-centre-a-du-plomb-dans-l-aile-avant-meme-d-avoir-decolle_6805552_823448.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/politique/article/2026/11/03/presidentielle-2027-la-primaire-de-la-droite-et-du-centre-a-du-plomb-dans-l-aile-avant-meme-d-avoir-decolle_6805552_823448.html</guid>
+    <pubDate>Tue, 03 Nov 2026 10:02:24 +0000</pubDate>
+    <category>Politique</category>
     <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Selon Steve Witkoff, ces discussions prévues mardi 10 et mercredi 11 novembre « porteront sur les dispositions de sécurité d’après-guerre, la désescalade, les efforts humanitaires et les prochaines étapes vers la paix ». Par ailleurs, des bombardements russes dans l’oblast de Zaporijia ont fait au moins 26 morts.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/11/02/514/0/5548/2774/644/322/60/0/2e1158c_ftp-1-ze3bjxtdjecg-2026-11-02t213053z-3438278-rc2rfoa2zcqz-rtrmadp-3-ukraine-crisis-attack-zaporizhzhia-region.JPG" type="image/jpeg" length="0" />
+    <description><![CDATA[Des voix s’élèvent à droite pour appeler à dégager un candidat unique. Gabriel Attal et David Lisnard voudraient bien s’y soumettre quand Edouard Philippe espère toujours s’imposer dans les sondages.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/11/01/192/0/7483/3741/644/322/60/0/95ba90b_ftp-1-xuz2q2pnky3o-afp-d63z72y.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>«A long terme, le chômage entraîne des pathologies» : Santé publique France alerte sur la mauvaise santé des personnes sans emploi</title>
-    <link>https://www.liberation.fr/societe/sante/a-long-terme-le-chomage-entraine-des-pathologies-sante-publique-france-alerte-sur-la-mauvaise-sante-des-personnes-sans-emploi-20261103_4BDYSYMKCVALNM2DZHY27AXYUE/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/societe/sante/a-long-terme-le-chomage-entraine-des-pathologies-sante-publique-france-alerte-sur-la-mauvaise-sante-des-personnes-sans-emploi-20261103_4BDYSYMKCVALNM2DZHY27AXYUE/</guid>
-    <pubDate>Mon, 02 Nov 2026 23:01:00 +0000</pubDate>
-    <category>Économie</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Stigmatisation, dépression, maladies chroniques, inégalités de genre… L’agence publie ce mardi 3 novembre un long dossier sur la santé mentale et physique dégradée des chômeurs. Un «premier signal» pour entraîner une prise de conscience politique.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200" type="image/jpeg" length="0" />
+    <title>Jesus de Miguel, joueur du club espagnol de Tenerife, est décédé après un choc lors d&apos;une rencontre de deuxième division</title>
+    <link>https://www.franceinfo.fr/sports/foot/jesus-de-miguel-joueur-du-club-espagnol-de-tenerife-est-decede-apres-un-choc-lors-d-une-rencontre_8265461.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/sports/foot/jesus-de-miguel-joueur-du-club-espagnol-de-tenerife-est-decede-apres-un-choc-lors-d-une-rencontre_8265461.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Tue, 03 Nov 2026 10:01:03 +0000</pubDate>
+    <category>Société</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[L'attaquant de 30 ans avait été percuté par le gardien de la formation du FC Andorre, lundi en deuxième division espagnole, et avait vu son état se dégrader dans les heures suivantes.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/cFBCTCwSoDzyimMH8cewA4euVXg/0x107:2048x1259/432x243/filters:format(jpg)/2026/11/03/6ae9a2a309f0d319087759.png" type="image/jpeg" length="0" />
   </item>
   <item>
     <title>&quot;La première fois que j&apos;ai vraiment vu la Terre sous mes pieds, sous le scaphandre, c&apos;était surtout une joie&quot;, confie l&apos;astronaute Sophie Adenot</title>
     <link>https://www.franceinfo.fr/sciences/espace/sophie-adenot/la-premiere-fois-que-j-ai-vraiment-vu-la-terre-sous-mes-pieds-juste-la-sous-le-scaphandre-c-etait-surtout-une-joie-confie-sophie-adenot-astronaute_8264858.html#xtor=RSS-3-[lestitres]</link>
     <guid isPermaLink="true">https://www.franceinfo.fr/sciences/espace/sophie-adenot/la-premiere-fois-que-j-ai-vraiment-vu-la-terre-sous-mes-pieds-juste-la-sous-le-scaphandre-c-etait-surtout-une-joie-confie-sophie-adenot-astronaute_8264858.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Mon, 02 Nov 2026 23:52:08 +0000</pubDate>
+    <pubDate>Tue, 03 Nov 2026 10:00:26 +0000</pubDate>
     <category>Société</category>
     <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Invitée du 20 Heures de France 2, l'astronaute française est revenue sur son expérience dans l'espace, les difficultés physiques rencontrées lors de son retour sur Terre et l'intensité des sorties extravéhiculaires.]]></description>
+    <description><![CDATA[Invitée du "20 Heures" de France 2, l'astronaute française est revenue sur son expérience dans l'espace, les difficultés physiques rencontrées lors de son retour sur Terre et l'intensité des sorties extravéhiculaires.]]></description>
     <enclosure url="https://www.franceinfo.fr/pictures/hqwbedDmJsh8zszNxe_ekVHc9t8/9x0:1222x682/432x243/filters:format(jpg)/2026/11/02/6ae90cf93e15c933441705.png" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>Cinq personnes tuées par des frappes israéliennes dans la bande de Gaza, selon la défense civile</title>
-    <link>https://www.franceinfo.fr/monde/palestine/gaza/cinq-personnes-tuees-par-des-frappes-israeliennes-dans-la-bande-de-gaza-selon-la-defense-civile_8264864.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/monde/palestine/gaza/cinq-personnes-tuees-par-des-frappes-israeliennes-dans-la-bande-de-gaza-selon-la-defense-civile_8264864.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Mon, 02 Nov 2026 23:47:32 +0000</pubDate>
+    <title>Achille Mbembe, historien : « Il faut contrer l’idée fausse selon laquelle la démocratie serait anti-africaine »</title>
+    <link>https://www.lemonde.fr/afrique/article/2026/11/03/achille-mbembe-historien-il-faut-contrer-l-idee-fausse-selon-laquelle-la-democratie-serait-anti-africaine_6805551_3212.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/afrique/article/2026/11/03/achille-mbembe-historien-il-faut-contrer-l-idee-fausse-selon-laquelle-la-democratie-serait-anti-africaine_6805551_3212.html</guid>
+    <pubDate>Tue, 03 Nov 2026 10:00:15 +0000</pubDate>
     <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[L'armée israélienne dit avoir "frappé plusieurs terroristes" à divers endroits de l'enclave palestinienne.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/5fO4DYJxzLR8PHQn_sSO7Z56J5Y/0x80:1024x656/432x243/filters:format(jpg)/2026/11/02/6ae9121cbe2b4162996363.jpg" type="image/jpeg" length="0" />
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[Dans un entretien au « Monde », le directeur de la Fondation de l’innovation pour la démocratie défend un modèle propre au continent africain.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/10/26/758/0/2292/1146/644/322/60/0/57d0cad_upload-1-gtxkdiwokqxi-opaleplus-lumen-bmps-100752.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>Donald Trump assure qu&apos;un accord avec l&apos;Iran &quot;pourrait arriver&quot;</title>
-    <link>https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-assure-qu-un-accord-avec-l-iran-pourrait-arriver_8264852.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-assure-qu-un-accord-avec-l-iran-pourrait-arriver_8264852.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Mon, 02 Nov 2026 23:06:39 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Ce week-end, il s'était pourtant dit prêt à donner un "coup de massue" à l'Iran et avait déclaré qu'il lui restait à "s'occuper" d'un ou deux sites nucléaires iraniens.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/GCWefqc3f-q0SsQ1q9PTAgDMyAs/0x0:1024x576/432x243/filters:format(jpg)/2026/11/02/6ae9093a2e473860531565.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Au procès du triple narchomicide de 2020, face à la douleur des mères, un accusé pointe les rôles-clés d’Amine Oualane et Karim Harrat</title>
-    <link>https://www.lemonde.fr/societe/article/2026/11/02/aux-proces-du-triple-narchomicide-de-2020-face-a-la-douleur-des-meres-un-accuse-pointe-les-roles-cles-d-amine-oualane-et-karim-harrat_6805321_3224.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/societe/article/2026/11/02/aux-proces-du-triple-narchomicide-de-2020-face-a-la-douleur-des-meres-un-accuse-pointe-les-roles-cles-d-amine-oualane-et-karim-harrat_6805321_3224.html</guid>
-    <pubDate>Mon, 02 Nov 2026 22:58:09 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Deux des cinq accusés ont raconté, lundi 2 novembre, leurs versions des faits, incriminant leurs voisins de box. Dans cette journée de rebondissements, le versement dans la procédure de conversations sur la messagerie cryptée Sky ECC pourrait confirmer le rôle de Karim Harrat comme commanditaire.]]></description>
-    <enclosure url="https://img.lemde.fr/2025/04/10/69/0/3000/1500/644/322/60/0/21f6bc3_sirius-fs-upload-1-rz8drg0atq4z-1744297402354-frame-10.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>&quot;Francis Joyon va bien dans son bateau retourné&quot;, déclare le directeur de la Route du Rhum</title>
-    <link>https://www.franceinfo.fr/sports/voile/route-du-rhum/francis-joyon-va-bien-dans-son-bateau-retourne-declare-le-directeur-de-la-route-du-rhum_8264834.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/sports/voile/route-du-rhum/francis-joyon-va-bien-dans-son-bateau-retourne-declare-le-directeur-de-la-route-du-rhum_8264834.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Mon, 02 Nov 2026 22:41:10 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Deux cargos sont déroutés pour porter secours au navigateur qui a chaviré lundi à 200 milles au sud-ouest de l'Irlande.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/X1Ixawr8yku_6gK2kx-4PRFGQV4/0x316:3042x2028/432x243/filters:format(jpg)/2026/11/02/6ae90351880a4683581563.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Le camp d&apos;Edouard Philippe critiqué par la gauche pour ses propos sur l&apos;immigration</title>
-    <link>https://www.franceinfo.fr/elections/presidentielle/le-camp-d-edouard-philippe-critique-par-la-gauche-pour-ses-propos-sur-l-immigration_8264831.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/elections/presidentielle/le-camp-d-edouard-philippe-critique-par-la-gauche-pour-ses-propos-sur-l-immigration_8264831.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Mon, 02 Nov 2026 22:40:46 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Le candidat Horizons à la présidentielle a relié les pillages du 17 octobre à l'immigration. Pour Maud Bregeon, il a "dit tout haut ce que beaucoup de Français pensent tout bas".]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/uO1Dt2zABNgyqDbUBDtZrugwg0c/0x0:1024x576/432x243/filters:format(jpg)/2026/11/02/6ae9020c6e611919254923.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>«Voir ce que l’on voit» : les propos d’Edouard Philippe associant les pillages et l’immigration dénoncés, de la gauche à Villepin</title>
-    <link>https://www.liberation.fr/politique/voir-ce-que-lon-voit-les-propos-dedouard-philippe-associant-les-pillages-et-limmigration-denonces-de-la-gauche-a-villepin-20261102_LYR5X4MYURDRHNQCWWZELHWRUY/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/politique/voir-ce-que-lon-voit-les-propos-dedouard-philippe-associant-les-pillages-et-limmigration-denonces-de-la-gauche-a-villepin-20261102_LYR5X4MYURDRHNQCWWZELHWRUY/</guid>
-    <pubDate>Mon, 02 Nov 2026 21:16:50 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Après les propos d’Edouard Philippe tenus dans «le Point» puis sur TF1 reliant les pillages du 17 octobre à l’immigration, le camp du candidat Horizons à la présidentielle se retrouve depuis accusé par la gauche de flirter avec les idées de l’extrême droite.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Des frappes russes font 26 morts en Ukraine au lendemain de la fin d&apos;un cessez-le-feu à Olechky, Volodymyr Zelensky dénonce l&apos;anéantissement de &quot;tout espoir de progrès vers la paix&quot;</title>
-    <link>https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-font-18-morts-en-ukraine-au-lendemain-de-la-fin-d-un-cessez-le-feu-a-olechky-volodymyr-zelensky-denonce-l-aneantissement-de-tout-espoir-de-progres-vers-la-paix_8264639.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-font-18-morts-en-ukraine-au-lendemain-de-la-fin-d-un-cessez-le-feu-a-olechky-volodymyr-zelensky-denonce-l-aneantissement-de-tout-espoir-de-progres-vers-la-paix_8264639.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Mon, 02 Nov 2026 22:16:48 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA["C'est une preuve supplémentaire que la Russie ne veut ni désescalade ni véritable justice", a estimé le président ukrainien au sujet des frappes russes contre un village du sud-est de l'Ukraine.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/ELA5UEpL37_9q5nVVsjy_CpKJtU/0x0:1024x576/432x243/filters:format(jpg)/2026/11/02/6ae8fdb2966f3898516440.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>EN DIRECT, midterms 2026 : l’ultime discours de Donald Trump avant le scrutin, la décision de la Cour suprême sur la Californie… Retrouvez les dernières informations de la campagne</title>
-    <link>https://www.lemonde.fr/international/live/2026/11/02/en-direct-midterms-2026-l-iran-veut-un-accord-aussi-rapidement-que-possible-assure-donald-trump_6801590_3210.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/11/02/en-direct-midterms-2026-l-iran-veut-un-accord-aussi-rapidement-que-possible-assure-donald-trump_6801590_3210.html</guid>
-    <pubDate>Mon, 02 Nov 2026 22:13:47 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Les camps démocrate et républicain ont multiplié, lundi, les déplacements de dernière minute, à la veille des élections. Le président américain a lancé ses dernières piques contre ses rivaux démocrates, voyant dans le vote de mardi le scrutin de mi-mandat « le plus important de [la] vie [des Américains] ».]]></description>
-    <enclosure url="https://img.lemde.fr/2026/11/02/468/0/5619/2809/644/322/60/0/4ce1557_ftp-1-rpqoqnigefh9-afp-d68668j.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Présidentielle 2027 : la gauche fustige le camp d’Edouard Philippe pour ses propos sur l’immigration</title>
-    <link>https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-la-gauche-fustige-le-camp-d-edouard-philippe-pour-ses-propos-sur-l-immigration_6805320_823448.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-la-gauche-fustige-le-camp-d-edouard-philippe-pour-ses-propos-sur-l-immigration_6805320_823448.html</guid>
-    <pubDate>Mon, 02 Nov 2026 22:09:22 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[L’ancien premier ministre a jugé, la semaine dernière, « patente » la « surreprésentation » de jeunes issus de l’immigration lors des pillages du 17 octobre. Pour Maud Bregeon, il a « dit tout haut ce que beaucoup de Français pensent tout bas ».]]></description>
-    <enclosure url="https://img.lemde.fr/2026/11/01/659/0/7909/3954/644/322/60/0/1e92add_ftp-1-uoc2liwzyps2-afp-d63z737.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>La préfecture de police interdit la manifestation prévue mardi par une organisation étudiante au coeur de Paris, Interfac IDF dépose un recours</title>
-    <link>https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-prefecture-de-police-interdit-la-manifestation-prevue-mardi-par-une-organisation-etudiante-au-coeur-de-paris-interfac-idf-depose-un-recours_8264807.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-prefecture-de-police-interdit-la-manifestation-prevue-mardi-par-une-organisation-etudiante-au-coeur-de-paris-interfac-idf-depose-un-recours_8264807.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Mon, 02 Nov 2026 22:03:50 +0000</pubDate>
+    <title>Midterms 2026 : au Minnesota, « comme partout en Amérique, le rejet de Donald Trump est immense »</title>
+    <link>https://www.lemonde.fr/international/article/2026/11/03/midterms-2026-au-minnesota-comme-partout-en-amerique-le-rejet-de-donald-trump-est-immense_6805550_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/11/03/midterms-2026-au-minnesota-comme-partout-en-amerique-le-rejet-de-donald-trump-est-immense_6805550_3210.html</guid>
+    <pubDate>Tue, 03 Nov 2026 10:00:10 +0000</pubDate>
     <category>Société</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Les autorités ont évoqué un parcours "incompatible avec les contraintes de sécurité en vigueur" mises en place "dans un contexte social extrêmement tendu". L'organisation étudiante dénonce "une interdiction généralisée de manifester dans Paris".]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/hRBAlohZ-FstbEp70mY2iANg9B4/0x0:1024x576/432x243/filters:format(jpg)/2026/11/02/6ae8f9ece0c50900199081.jpg" type="image/jpeg" length="0" />
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[Larry Jacobs, professeur en sciences politiques à l’université du Minnesota-Twin Cities, estime que l’animosité envers le président américain dans cet Etat traumatisé par les violences de la police de l’immigration n’éclipse pas les facteurs locaux. Ainsi la candidate démocrate au Sénat, Peggy Flanagan, pourrait-elle être considérée comme trop à gauche par les électeurs indécis ou modérés.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/11/02/408/0/5500/2750/644/322/60/0/a4d22e3_ftp-1-rapa4y2uffki-2302615026.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>Violences sexuelles : une nouvelle enquête atteste de leur ampleur chez les jeunes</title>
-    <link>https://www.lemonde.fr/societe/article/2026/11/02/violences-sexuelles-une-nouvelle-enquete-atteste-de-leur-ampleur-chez-les-jeunes_6805319_3224.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/societe/article/2026/11/02/violences-sexuelles-une-nouvelle-enquete-atteste-de-leur-ampleur-chez-les-jeunes_6805319_3224.html</guid>
-    <pubDate>Mon, 02 Nov 2026 22:01:33 +0000</pubDate>
-    <category>Société</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Selon les résultats d’une étude menée par l’association Contre les violences sur mineurs, en partenariat avec l’Inserm et l’AP-HP, 63 % des jeunes de 18 ans à 21 ans interrogés déclarent avoir été victimes d’au moins un acte de violence sexuelle.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/11/02/391/0/4726/2363/644/322/60/0/caf7721_upload-1-pipzpqrne5tp-000-1pe2rd.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Midterms 2026 : qui est Ken Paxton, le sulfureux candidat républicain du Texas soutenu par Trump ?</title>
-    <link>https://www.liberation.fr/international/amerique/midterms-2026-qui-est-ken-paxton-le-sulfureux-candidat-republicain-du-texas-soutenu-par-trump-20261102_GM6B3D6QOZAHVKYTS4DDTMTA34/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/international/amerique/midterms-2026-qui-est-ken-paxton-le-sulfureux-candidat-republicain-du-texas-soutenu-par-trump-20261102_GM6B3D6QOZAHVKYTS4DDTMTA34/</guid>
-    <pubDate>Mon, 02 Nov 2026 20:49:18 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Le procureur général de cet Etat conservateur a été choisi directement par le Président pour affronter le démocrate James Talarico. Ses casseroles pourraient bien refroidir ses électeurs, mardi, dans le bureau de vote.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>A Gaza, les attaques menées par l’armée israélienne ne faiblissent pas</title>
-    <link>https://www.liberation.fr/international/moyen-orient/a-gaza-les-attaques-menees-par-larmee-israelienne-ne-faiblissent-pas-20261102_HRJPI3B62ZGD5OPNLDQ3IST73M/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/international/moyen-orient/a-gaza-les-attaques-menees-par-larmee-israelienne-ne-faiblissent-pas-20261102_HRJPI3B62ZGD5OPNLDQ3IST73M/</guid>
-    <pubDate>Mon, 02 Nov 2026 20:48:12 +0000</pubDate>
-    <category>International</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Au moins cinq personnes sont mortes ce lundi 2 novembre après des bombardements et des tirs de Tsahal. La veille, huit civils dont un enfant ont été tuées par des frappes menées par l’aviation et un drone de l’armée israélienne.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Trappes, manifestations, extrême droite : à BFM TV, les salariés dénoncent une «lente dérive idéologique», la direction promet «un baromètre»</title>
-    <link>https://www.liberation.fr/economie/medias/trappes-manifestations-extreme-droite-a-bfm-tv-les-salaries-denoncent-une-lente-derive-ideologique-la-direction-promet-un-barometre-20261102_RXFB5NRNHRDMVCC7KCW644GBYY/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/economie/medias/trappes-manifestations-extreme-droite-a-bfm-tv-les-salaries-denoncent-une-lente-derive-ideologique-la-direction-promet-un-barometre-20261102_RXFB5NRNHRDMVCC7KCW644GBYY/</guid>
-    <pubDate>Mon, 02 Nov 2026 20:45:00 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Plus de 160 personnes ont signé une lettre envoyée à la direction de la chaîne d’info en continu et à son propriétaire, le groupe CMA Media. Lors d’une réunion avec les journalistes ce lundi 2 novembre, la direction de la rédaction a promis la mise en place de garde-fous.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Le gouvernement demande aux préfets de faciliter les ouvertures dominicales pour aider les commerces touchés par les violences en marge des manifestations</title>
-    <link>https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-gouvernement-demande-aux-prefets-de-faciliter-les-ouvertures-dominicales-pour-aider-les-commerces-touches-par-les-violences-en-marge-des-manifestations_8264768.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-gouvernement-demande-aux-prefets-de-faciliter-les-ouvertures-dominicales-pour-aider-les-commerces-touches-par-les-violences-en-marge-des-manifestations_8264768.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Mon, 02 Nov 2026 21:37:08 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Jeudi, le gouvernement avait déjà annoncé qu'il encourageait maires et préfets à autoriser des ouvertures dominicales exceptionnelles, réclamées par les professionnels jusqu'à Noël.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/DEbuJSARay7Tabrtw8vuX-BO2lA/0x53:1024x629/432x243/filters:format(jpg)/2026/11/02/6ae8f1597cf01772985715.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Les impôts américains de Gianni Infantino entièrement payés par la Fifa</title>
-    <link>https://www.liberation.fr/sports/football/les-impots-americains-de-gianni-infantino-entierement-payes-par-la-fifa-20261102_SKTK3KXKJVDM3N334HUACI7TO4/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/sports/football/les-impots-americains-de-gianni-infantino-entierement-payes-par-la-fifa-20261102_SKTK3KXKJVDM3N334HUACI7TO4/</guid>
-    <pubDate>Mon, 02 Nov 2026 20:35:26 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Des révélations du «Monde» et du «New York Times» rendues publiques ce lundi 2 novembre mettent en lumière le système de prise en charge des impôts du président de la Fifa aux Etats-Unis, entièrement assurés par l’instance du football mondial.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Midterms : make America démocrate again</title>
-    <link>https://www.liberation.fr/idees-et-debats/editorial/midterms-make-america-democrate-again-20261102_MYJ4J4UK3BGWVPHEFFBQPXBGCE/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/idees-et-debats/editorial/midterms-make-america-democrate-again-20261102_MYJ4J4UK3BGWVPHEFFBQPXBGCE/</guid>
-    <pubDate>Mon, 02 Nov 2026 20:10:31 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Portés par le ressentiment contre la hausse du coût de la vie, les progressistes pourraient s’emparer de la Chambre des représentants, voire du Sénat, aux élections de mi-mandat, ce mardi 3 novembre. Une victoire qui signerait la fin de l’emprise totale de Donald Trump sur le pouvoir législatif des Etats-Unis.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Après les législatives en Israël, Benyamin Nétanyahou appelle à la formation d&apos;une large coalition gouvernementale sous sa direction et sans les partis arabes</title>
-    <link>https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/apres-les-legislatives-en-israel-benyamin-netanyahou-appelle-a-la-formation-d-une-large-coalition-gouvernementale-sous-sa-direction-et-sans-les-partis-arabes_8264693.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/apres-les-legislatives-en-israel-benyamin-netanyahou-appelle-a-la-formation-d-une-large-coalition-gouvernementale-sous-sa-direction-et-sans-les-partis-arabes_8264693.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Mon, 02 Nov 2026 21:01:04 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA[Les élections législatives du 27 octobre n’ont dégagé aucune majorité : le camp du Premier ministre sortant est arrivé devant le bloc principal de l'opposition, mais loin de la majorité pour garder le contrôle de la Knesset.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/tO7aXTDdtkr_X0ZCvqsyMNsCmV8/0x0:1024x576/432x243/filters:format(jpg)/2026/11/02/6ae8e999407c9711342677.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Procès du narchomicide du demi-frère d’Amine Kessaci : et soudain, deux accusés brisent l’omerta</title>
-    <link>https://www.liberation.fr/societe/police-justice/proces-du-narchomicide-du-demi-frere-damine-kessaci-et-soudain-deux-accuses-reconnaissent-leur-implication-20261102_G2A4SNORCRFEXNTXHYXGHPCEDI/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/societe/police-justice/proces-du-narchomicide-du-demi-frere-damine-kessaci-et-soudain-deux-accuses-reconnaissent-leur-implication-20261102_G2A4SNORCRFEXNTXHYXGHPCEDI/</guid>
-    <pubDate>Mon, 02 Nov 2026 19:55:15 +0000</pubDate>
+    <title>Un Français sur trois a des difficultés à payer ses factures de gaz et d’électricité</title>
+    <link>https://www.liberation.fr/economie/conso/un-francais-sur-trois-a-des-difficultes-a-payer-ses-factures-de-gaz-et-delectricite-20261103_OEPVQOLPVBHO3MDKQOMBV6HUAE/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/economie/conso/un-francais-sur-trois-a-des-difficultes-a-payer-ses-factures-de-gaz-et-delectricite-20261103_OEPVQOLPVBHO3MDKQOMBV6HUAE/</guid>
+    <pubDate>Tue, 03 Nov 2026 08:59:45 +0000</pubDate>
     <category>Sport</category>
     <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Après deux semaines d’audiences, la défense des cinq accusés d’un triple narchomicide, dont celui du demi-frère aîné du militant antidrogue, a commencé, lundi 2 novembre, à se fendiller.]]></description>
+    <description><![CDATA[La statistique monte à plus d’un Français sur deux chez les moins de 35 ans, d’après les chiffres du baromètre 2026 du médiateur de l’énergie ce mardi 3 novembre.]]></description>
     <enclosure url="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>Piratage de frigos : après la France et les Etats-Unis, des dizaines de supermarchés touchés en Suède, en Belgique ou encore en Italie</title>
-    <link>https://www.liberation.fr/international/europe/piratage-de-frigos-apres-la-france-et-les-etats-unis-des-dizaines-de-supermarches-touches-en-suede-et-en-belgique-20261102_BZIZVKQNMNDZLLZGLO7CDCY3VE/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/international/europe/piratage-de-frigos-apres-la-france-et-les-etats-unis-des-dizaines-de-supermarches-touches-en-suede-et-en-belgique-20261102_BZIZVKQNMNDZLLZGLO7CDCY3VE/</guid>
-    <pubDate>Mon, 02 Nov 2026 19:50:15 +0000</pubDate>
-    <category>Économie</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Dans la nuit de dimanche à lundi 2 novembre, les températures de dizaines d’installations frigorifiques de magasins suédois et belges ont soudainement grimpé en flèche. Une attaque qui rappelle celle ayant touché la France à la mi-octobre.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200" type="image/jpeg" length="0" />
+    <title>Mobilisation lycéenne et étudiante : de nouveaux blocages constatés à Caen, Clermont-Ferrand, Paris ou encore Marseille</title>
+    <link>https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-les-organisations-de-jeunesse-appellent-a-une-nouvelle-journee-de-blocages-massifs-des-facs-et-des-lycees-avant-la-greve-de-jeudi_8265284.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-les-organisations-de-jeunesse-appellent-a-une-nouvelle-journee-de-blocages-massifs-des-facs-et-des-lycees-avant-la-greve-de-jeudi_8265284.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Tue, 03 Nov 2026 09:59:29 +0000</pubDate>
+    <category>Société</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Plusieurs syndicats étudiants et lycéens appellent à la mobilisation dans les établissements scolaires, à l'approche de la grève de jeudi.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/RY5JuoBurzk7zY9-h3oyESqUP4M/0x52:1024x628/432x243/filters:format(jpg)/2026/11/03/6ae97a0178144134522005.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>Le ministre de l&apos;Intérieur &quot;ne renoncera à aucun moyen intermédiaire&quot; comme les grenades et gaz lacrymogènes lors des manifestations</title>
-    <link>https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-ministre-de-l-interieur-ne-renoncera-a-aucun-moyen-intermediaire-comme-les-grenades-et-gaz-lacrymogenes-lors-des-manifestations_8264732.html#xtor=RSS-3-[lestitres]</link>
-    <guid isPermaLink="true">https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-ministre-de-l-interieur-ne-renoncera-a-aucun-moyen-intermediaire-comme-les-grenades-et-gaz-lacrymogenes-lors-des-manifestations_8264732.html#xtor=RSS-3-[lestitres]</guid>
-    <pubDate>Mon, 02 Nov 2026 20:48:16 +0000</pubDate>
+    <title>Elections américaines de mi-mandat : les batailles décisives en cartes</title>
+    <link>https://www.liberation.fr/international/amerique/elections-americaines-de-mi-mandat-les-batailles-decisives-en-cartes-20261003_LWNS3ZKZDJGMNISEHMFIYCOXC4/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/international/amerique/elections-americaines-de-mi-mandat-les-batailles-decisives-en-cartes-20261003_LWNS3ZKZDJGMNISEHMFIYCOXC4/</guid>
+    <pubDate>Tue, 03 Nov 2026 08:56:51 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Le 3 novembre, les démocrates tenteront de reconquérir le Congrès. «Libération» s’est penché sur les scrutins les plus serrés pour le Sénat et la Chambre des représentants.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Présidentielle 2027 : Gérald Darmanin rejette lui aussi la primaire voulue par Gabriel Attal et appelle à se rassembler derrière Edouard Philippe</title>
+    <link>https://www.lemonde.fr/politique/article/2026/11/03/presidentielle-2027-gerald-darmanin-rejette-la-primaire-voulue-par-gabriel-attal-et-appelle-a-se-rassembler-derriere-edouard-philippe_6805549_823448.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/politique/article/2026/11/03/presidentielle-2027-gerald-darmanin-rejette-la-primaire-voulue-par-gabriel-attal-et-appelle-a-se-rassembler-derriere-edouard-philippe_6805549_823448.html</guid>
+    <pubDate>Tue, 03 Nov 2026 09:54:25 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Politique</source>
+    <description><![CDATA[Opposé depuis des mois à ce mode de départage, Edouard Philippe avait de nouveau écarté « une primaire de la division » et de la « confusion », quelques jours après la proposition lancée par son concurrent.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/11/03/621/0/7449/3724/644/322/60/0/a83f582_upload-1-jies4a2ig3tc-000-d3xu4ty.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>EN DIRECT - Midterms 2026 : le jour de la débâcle pour Trump ?</title>
+    <link>https://www.liberation.fr/international/amerique/resultats-des-midterms-2026-suivez-notre-direct-20261103_23VUN6EUORF3TBSCD6TRDVJFKA/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/international/amerique/resultats-des-midterms-2026-suivez-notre-direct-20261103_23VUN6EUORF3TBSCD6TRDVJFKA/</guid>
+    <pubDate>Tue, 03 Nov 2026 08:48:18 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Près de 250 millions d’Américains sont appelés aux urnes ce mardi 3 novembre, afin de renouveler l’ensemble de la Chambre des représentants et un tiers du Sénat dans des élections de mi-mandat qui pourraient tourner à la déroute pour le camp républicain.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Près de 5 000 personnes ont été placées en gardes à vue et 329 incarcérées depuis le 17 octobre, annonce Gérald Darmanin</title>
+    <link>https://www.franceinfo.fr/societe/manifestations/pres-de-5-000-personnes-ont-ete-placees-en-gardes-a-vue-et-329-incarcerees-depuis-le-17-octobre-annonce-gerald-darmanin_8265416.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/societe/manifestations/pres-de-5-000-personnes-ont-ete-placees-en-gardes-a-vue-et-329-incarcerees-depuis-le-17-octobre-annonce-gerald-darmanin_8265416.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Tue, 03 Nov 2026 09:48:02 +0000</pubDate>
+    <category>Société</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Des centaines de milliers de personnes ont encore défilé en France, samedi, pour le troisième consécutif d'une mobilisation contre la vie chère.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/8LuToS9HzVaHJDHG9iVY8M6YnAY/0x39:1024x615/432x243/filters:format(jpg)/2026/11/03/6ae99f2d8534e044465384.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Le groupe GiFi placé en redressement judiciaire à sa demande, 6 000 emplois menacés en France</title>
+    <link>https://www.lemonde.fr/economie/article/2026/11/03/le-groupe-gifi-place-en-redressement-judiciaire-a-sa-demande-6-000-emplois-menaces-en-france_6805546_3234.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/economie/article/2026/11/03/le-groupe-gifi-place-en-redressement-judiciaire-a-sa-demande-6-000-emplois-menaces-en-france_6805546_3234.html</guid>
+    <pubDate>Tue, 03 Nov 2026 09:46:18 +0000</pubDate>
+    <category>Économie</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
+    <description><![CDATA[Le tribunal de commerce de Toulouse ordonne au groupe une période d’observation de six mois et donne rendez-vous le 8 janvier 2027 pour une nouvelle audience visant à « déterminer si l’entreprise dispose des capacités financières suffisantes à sa poursuite d’activité et le maintien de la période d’observation ».]]></description>
+    <enclosure url="https://img.lemde.fr/2026/11/03/478/0/5734/2867/644/322/60/0/60a5920_upload-1-15izcx19spv2-000-c96k2vb.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Tester le « départ d’urgence » de Tesla pour s’amuser : la nouvelle mauvaise idée des conducteurs américains</title>
+    <link>https://www.numerama.com/vroom/2366161-tester-le-depart-durgence-de-tesla-pour-samuser-la-nouvelle-mauvaise-idee-des-conducteurs-americains.html</link>
+    <guid isPermaLink="true">https://www.numerama.com/vroom/2366161-tester-le-depart-durgence-de-tesla-pour-samuser-la-nouvelle-mauvaise-idee-des-conducteurs-americains.html</guid>
+    <pubDate>Tue, 03 Nov 2026 08:45:31 +0000</pubDate>
+    <category>Tech</category>
+    <source url="https://loupeoff.github.io/loupe">Numerama</source>
+    <description><![CDATA[En programmant une option pour permettre de fuir une fusillade, Tesla a oublié un détail : la tentation du bouton rouge. Aux États-Unis, des conducteurs déclenchent par curiosité le départ d’urgence sur les Superchargeurs, sans la moindre menace, et la facture suit.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Nouveaux pourparlers, frappes sur un hôpital à Kharkiv, 500 drones ukrainiens interceptés… L’actu du conflit en Ukraine ce 3 novembre</title>
+    <link>https://www.liberation.fr/international/moyen-orient/nouveaux-pourparlers-frappes-sur-un-hopital-a-kharkiv-500-drones-ukrainiens-interceptes-lactu-du-conflit-en-ukraine-ce-3-novembre-20261103_TSDN6V6OGFF2JNMRFKVKN35BCM/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/international/moyen-orient/nouveaux-pourparlers-frappes-sur-un-hopital-a-kharkiv-500-drones-ukrainiens-interceptes-lactu-du-conflit-en-ukraine-ce-3-novembre-20261103_TSDN6V6OGFF2JNMRFKVKN35BCM/</guid>
+    <pubDate>Tue, 03 Nov 2026 08:38:31 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[L’essentiel des informations du jour sur la guerre entre l’Ukraine et la Russie.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>EN DIRECT, guerre en Ukraine : le chancelier allemand annonce la venue, mardi, de Volodymyr Zelensky à Berlin</title>
+    <link>https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-le-chancelier-allemand-annonce-la-venue-mardi-de-volodymyr-zelensky-a-berlin_6803934_3210.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-le-chancelier-allemand-annonce-la-venue-mardi-de-volodymyr-zelensky-a-berlin_6803934_3210.html</guid>
+    <pubDate>Tue, 03 Nov 2026 09:37:11 +0000</pubDate>
+    <category>International</category>
+    <source url="https://loupeoff.github.io/loupe">Le Monde Inter</source>
+    <description><![CDATA[« Il sera chez moi à midi », a déclaré Friedrich Merz. Les discussions devraient porter sur le soutien de l’Allemagne à l’Ukraine.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/11/03/688/0/8256/4128/644/322/60/0/fa5eeb3_ftp-1-bp3xb2qu7tfk-97f033d9401e4282bd3b28f4a2f3fa33-0-b21bd7a0c60644e7ae453f21fca19b62.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Francis Joyon a été secouru par un cargo après avoir chaviré durant la Route du Rhum</title>
+    <link>https://www.franceinfo.fr/sports/voile/route-du-rhum/francis-joyon-a-ete-secouru-par-un-cargo-apres-avoir-chavire-durant-la-route-du-rhum_8265452.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/sports/voile/route-du-rhum/francis-joyon-a-ete-secouru-par-un-cargo-apres-avoir-chavire-durant-la-route-du-rhum_8265452.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Tue, 03 Nov 2026 09:35:25 +0000</pubDate>
+    <category>Société</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Le skipper de 70 ans, ancien vainqueur de l'épreuve, a été récupéré en mer vers 23 heures lundi et fait désormais route vers l'Irlande.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/sNOSSUwF8Bb6bN6PfiK1FE_BD8s/0x154:8256x4798/432x243/filters:format(jpg)/2026/11/03/6ae99c8e9d4e7620368688.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Le groupe Gifi est placé en redressement judiciaire</title>
+    <link>https://www.franceinfo.fr/economie/le-groupe-gifi-est-place-en-redressement-judiciaire_8265437.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/economie/le-groupe-gifi-est-place-en-redressement-judiciaire_8265437.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Tue, 03 Nov 2026 09:33:24 +0000</pubDate>
     <category>Politique</category>
     <source url="https://loupeoff.github.io/loupe">France Info</source>
-    <description><![CDATA["La répression, elle n'existe pas", a répondu Laurent Nuñez à des députés qui ont demandé de renoncer à l'emploi des grenades par les forces de l'ordre, après les graves blessures de lycéens lors du mouvement de mobilisation.]]></description>
-    <enclosure url="https://www.franceinfo.fr/pictures/GMMvDg02DPhmWR7o1_B08CCX3EU/0x53:1024x629/432x243/filters:format(jpg)/2026/11/02/6ae8e52227a54340950961.jpg" type="image/jpeg" length="0" />
+    <description><![CDATA[Dans une lettre adressée fin octobre aux salariés, le nouveau président du directoire assurait que cette procédure n'entraînerait "par elle-même aucune conséquence immédiate sur l'emploi" au sein de l'enseigne, qui compte 6 000 salariés en France.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/mynWyNWQF5SF7sq0WOd3vH235ok/0x106:1024x682/432x243/filters:format(jpg)/2026/11/03/6ae99c1f459b6474691632.jpg" type="image/jpeg" length="0" />
   </item>
   <item>
-    <title>Agression d’une directrice d’école et d’une enseignante à Nice par une mère d’élève : une enquête ouverte pour « tentative de meurtre »</title>
-    <link>https://www.lemonde.fr/societe/article/2026/11/02/agression-d-une-directrice-d-ecole-et-d-une-enseignante-a-nice-par-une-mere-d-eleve-une-enquete-ouverte-pour-tentative-de-meurtre_6805317_3224.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/societe/article/2026/11/02/agression-d-une-directrice-d-ecole-et-d-une-enseignante-a-nice-par-une-mere-d-eleve-une-enquete-ouverte-pour-tentative-de-meurtre_6805317_3224.html</guid>
-    <pubDate>Mon, 02 Nov 2026 20:41:29 +0000</pubDate>
-    <category>Société</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Une femme de 36 ans, mère de deux enfants scolarisés dans une école proche du centre de Nice, a menacé la directrice d’une arme à feu, avant de la frapper à plusieurs reprises, et de gifler une enseignante, selon un communiqué du procureur.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/11/02/483/0/5801/2900/644/322/60/0/93ee229_ftp-1-qmz5bwauvb9f-afp-d67c6v9.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Etats-Unis : les midterms, peur bleue de Donald Trump</title>
-    <link>https://www.liberation.fr/international/amerique/etats-unis-les-midterms-peur-bleue-de-donald-trump-20261102_ZS2MXCZ7NZF5DCCZQLIVQDNZR4/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/international/amerique/etats-unis-les-midterms-peur-bleue-de-donald-trump-20261102_ZS2MXCZ7NZF5DCCZQLIVQDNZR4/</guid>
-    <pubDate>Mon, 02 Nov 2026 19:37:52 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Au terme d’une campagne de toutes les outrances, l’élection qui doit renouveler une partie du Congrès, ce mardi 3 novembre, fait office de référendum pour ou contre le Président, jugé responsable de l’inflation galopante.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Législatives en Israël : Benyamin Nétanyahou appelle à une large coalition, sous sa direction et sans les partis arabes ; l’opposition doit se réunir pour tenter de constituer une majorité</title>
-    <link>https://www.lemonde.fr/international/article/2026/11/02/legislatives-en-israel-benyamin-netanyahou-appelle-a-une-large-coalition-sous-sa-direction-et-sans-les-partis-arabes-l-opposition-doit-se-reunir-pour-tenter-de-constituer-une-majorite_6805316_3210.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/11/02/legislatives-en-israel-benyamin-netanyahou-appelle-a-une-large-coalition-sous-sa-direction-et-sans-les-partis-arabes-l-opposition-doit-se-reunir-pour-tenter-de-constituer-une-majorite_6805316_3210.html</guid>
-    <pubDate>Mon, 02 Nov 2026 20:37:32 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Les élections législatives du 27 octobre n’ont dégagé aucune majorité, ni pour la coalition sortante du premier ministre israélien sortant, qui a obtenu 53 sièges, ni pour le bloc de l’opposition, emmené par le centriste Gadi Eisenkot, qui en compte 48.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/10/28/480/0/5760/2880/644/322/60/0/565418d_upload-1-0xzvstmrp08w-lgeai-qg-netanyahou-55.jpg" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Présidentielle : entre Edouard Philippe et Raphaël Glucksmann, une bataille pour l’issue de recours</title>
-    <link>https://www.liberation.fr/politique/presidentielle-entre-edouard-philippe-et-raphael-glucksmann-une-bataille-pour-lissue-de-recours-20261102_KXIDYDJLLNAKRNBZI3WXNREVK4/</link>
-    <guid isPermaLink="true">https://www.liberation.fr/politique/presidentielle-entre-edouard-philippe-et-raphael-glucksmann-une-bataille-pour-lissue-de-recours-20261102_KXIDYDJLLNAKRNBZI3WXNREVK4/</guid>
-    <pubDate>Mon, 02 Nov 2026 19:33:53 +0000</pubDate>
-    <category>Politique</category>
-    <source url="https://loupeoff.github.io/loupe">Libération</source>
-    <description><![CDATA[Convaincus que celui qui prendra l’avantage sur l’autre bénéficiera du vote utile d’une partie de l’électorat modéré, le candidat Horizons et son concurrent PS-Place publique se livrent un duel à distance. Avec en ligne de mire une place au second tour de la présidentielle.]]></description>
-    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
-  </item>
-  <item>
-    <title>Au Japon, une justice implacable contre des trafics de drogue en plein essor</title>
-    <link>https://www.lemonde.fr/international/article/2026/11/02/au-japon-une-justice-implacable-contre-des-trafics-de-drogue-en-plein-essor_6805315_3210.html</link>
-    <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/11/02/au-japon-une-justice-implacable-contre-des-trafics-de-drogue-en-plein-essor_6805315_3210.html</guid>
-    <pubDate>Mon, 02 Nov 2026 20:30:07 +0000</pubDate>
+    <title>La Ligue de football professionnel teste le prix de la Ligue 1 en lançant son appel d’offres</title>
+    <link>https://www.lemonde.fr/sport/article/2026/11/03/la-ligue-de-football-professionnel-teste-le-prix-de-la-ligue-1-en-lancant-son-appel-d-offres_6805545_3242.html</link>
+    <guid isPermaLink="true">https://www.lemonde.fr/sport/article/2026/11/03/la-ligue-de-football-professionnel-teste-le-prix-de-la-ligue-1-en-lancant-son-appel-d-offres_6805545_3242.html</guid>
+    <pubDate>Tue, 03 Nov 2026 09:30:07 +0000</pubDate>
     <category>Sport</category>
     <source url="https://loupeoff.github.io/loupe">Le Monde</source>
-    <description><![CDATA[Les douanes nippones arrêtent de plus en plus de « mules » transportant de la drogue vers l’Archipel. La justice les sanctionne sévèrement alors que le pays fait face à une forte augmentation des trafics et de la consommation de stupéfiants.]]></description>
-    <enclosure url="https://img.lemde.fr/2026/11/02/494/0/5925/2962/644/322/60/0/8702546_upload-1-xkzjccprpoev-000-34jp4je.jpg" type="image/jpeg" length="0" />
+    <description><![CDATA[Les candidats à la diffusion du championnat de France pour la période 2027-2032 ont jusqu’au 7 décembre pour se faire connaître. La LFP espère une offre de Canal+, de BeIN Sports, de RMC Sport, voire d’une plateforme américaine.]]></description>
+    <enclosure url="https://img.lemde.fr/2026/11/02/882/0/6000/3000/644/322/60/0/0651f7b_upload-1-xkywysf8oqfg-000-c6bp4cr.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Prix Goncourt 2026 : quatre romans en lice pour succéder à &quot;La Maison vide&quot; de Laurent Mauvignier, le lauréat désigné à 13 heures</title>
+    <link>https://www.franceinfo.fr/culture/livres/prix-litteraires/direct-prix-goncourt-2026-qui-succedera-a-la-maison-vide-de-laurent-mauvignier_8264468.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/culture/livres/prix-litteraires/direct-prix-goncourt-2026-qui-succedera-a-la-maison-vide-de-laurent-mauvignier_8264468.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Tue, 03 Nov 2026 09:26:58 +0000</pubDate>
+    <category>Culture</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Les jurés doivent choisir entre "L'inconnue du quai de Javel" de Philippe Jaenada, "La solitude des professeurs est infinie" de Yannick Haenel, "Choses que je croyais perdues" de Clémentine Mélois et "De l'autre côté du lac" de Sylvain Prudhomme.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/tqcNHvZmhYaZ8QfRSWV98arN5PU/0x87:1024x663/432x243/filters:format(jpg)/2026/11/02/6ae8cb608a5dd012375926.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>&quot;Ils n&apos;ont pas pu résister à cette déferlante d&apos;émotion&quot; : au procès de l&apos;assassinat du frère d&apos;Amine Kessaci, la douleur des mères provoque des aveux</title>
+    <link>https://www.franceinfo.fr/faits-divers/justice-proces/ils-n-ont-pas-pu-resister-a-cette-deferlante-d-emotion-au-proces-de-l-assassinat-du-frere-d-amine-kessaci-la-douleur-des-meres-provoque-des-aveux_8265380.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/faits-divers/justice-proces/ils-n-ont-pas-pu-resister-a-cette-deferlante-d-emotion-au-proces-de-l-assassinat-du-frere-d-amine-kessaci-la-douleur-des-meres-provoque-des-aveux_8265380.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Tue, 03 Nov 2026 09:26:33 +0000</pubDate>
+    <category>Société</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Après plus de deux semaines de procès dans ce dossier, la plupart des cinq accusés clamaient leur innocence, mais le procès a basculé, lundi, quand les trois mères des victimes ont témoigné à la barre.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/laIq3XRgJsoD2oG0UhknhjQFYrA/0x302:5808x3569/432x243/filters:format(jpg)/2026/11/03/6ae991842ae5a478630692.jpg" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Midterms : au Michigan, une élue socialiste française en campagne pour le démocrate Abdul El-Sayed</title>
+    <link>https://www.liberation.fr/international/amerique/midterms-au-michigan-une-elue-socialiste-francaise-en-campagne-pour-le-democrate-abdul-el-sayed-20261103_PBRLJ6PMOZCVNM6AWOGNHH555Y/</link>
+    <guid isPermaLink="true">https://www.liberation.fr/international/amerique/midterms-au-michigan-une-elue-socialiste-francaise-en-campagne-pour-le-democrate-abdul-el-sayed-20261103_PBRLJ6PMOZCVNM6AWOGNHH555Y/</guid>
+    <pubDate>Tue, 03 Nov 2026 08:26:18 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">Libération</source>
+    <description><![CDATA[Elue locale près de Toulouse, Fatiha Tighboula participe à la campagne sénatoriale d’Abdul El-Sayed, après celle de Zohran Mamdani à New York. Une immersion qui nourrit sa réflexion sur les combats de la gauche française.]]></description>
+    <enclosure url="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Une pétition appelant à fermer CNews dépasse 600 000 signatures sur le site de l&apos;Assemblée nationale, au-delà du seuil requis pour un possible débat</title>
+    <link>https://www.franceinfo.fr/economie/medias/une-petition-appelant-a-fermer-cnews-depasse-500-000-signatures-sur-le-site-de-l-assemblee-nationale-seuil-requis-pour-un-possible-debat_8264006.html#xtor=RSS-3-[lestitres]</link>
+    <guid isPermaLink="true">https://www.franceinfo.fr/economie/medias/une-petition-appelant-a-fermer-cnews-depasse-500-000-signatures-sur-le-site-de-l-assemblee-nationale-seuil-requis-pour-un-possible-debat_8264006.html#xtor=RSS-3-[lestitres]</guid>
+    <pubDate>Tue, 03 Nov 2026 09:26:01 +0000</pubDate>
+    <category>Politique</category>
+    <source url="https://loupeoff.github.io/loupe">France Info</source>
+    <description><![CDATA[Pour cela, toutefois, une commission doit auparavant se prononcer en décidant de la classer ou de l'examiner, élaborant alors ce rapport.]]></description>
+    <enclosure url="https://www.franceinfo.fr/pictures/TczfIOOQ-y0TTDYZT7e9BVzQ85U/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/02/6ae87d251b58a265986008.jpg" type="image/jpeg" length="0" />
   </item>
 </channel>
 </rss>
