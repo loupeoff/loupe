@@ -1,16 +1,186 @@
 {
-  "generated_at": "2026-11-07T18:38:21.505254+00:00",
+  "generated_at": "2026-11-07T22:38:10.336652+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "EN DIRECT – Manifestations du 7 novembre : 250 000 personnes ont défilé dans toute la France, selon l’intersyndicale de la jeunesse",
+      "title": "Le XV de France signe une démonstration face à des Fidjiens stériles pour son premier match d'automne",
+      "url": "https://www.franceinfo.fr/sports/rugby/xv-de-france/le-xv-de-france-signe-une-demonstration-face-a-des-fidjiens-steriles-pour-son-premier-match-d-automne_8272730.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les hommes de Fabien Galthié n'ont pas laissé le moindre espoir aux Fidjiens (54-17), samedi soir à Lyon. Point noir de la soirée : la sortie sur blessure de Romain Ntamack.",
+      "image": "https://www.franceinfo.fr/pictures/U-I8snBpZMXUDzKaVwq5O7CmLJY/0x0:6861x3859/432x243/filters:format(jpg)/2026/11/07/6aef9ae7bbc33083756262.jpg",
+      "published_at": "2026-11-07T23:01:02+01:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "f5f33b993aa7"
+    },
+    {
+      "title": "Le PSG assure le service minimum contre Troyes et signe un septième succès d'affilée en Ligue 1",
+      "url": "https://www.franceinfo.fr/sports/foot/psg/le-psg-assure-le-service-minimum-contre-troyes-et-signe-un-septieme-succes-d-affilee-en-ligue-1_8272742.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le club parisien est assuré de rester leader du championnat à l'issue de la 10e journée.",
+      "image": "https://www.franceinfo.fr/pictures/cWbQ5xlxlet4EcVX_b__ibXIu0w/0x128:2458x1510/432x243/filters:format(jpg)/2026/11/07/6aef98b5559f2928373786.jpg",
+      "published_at": "2026-11-07T22:56:29+01:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "7915fffee3c8"
+    },
+    {
+      "title": "\"On entend beaucoup de revendications mais pas de réponses concrètes\" : à Paris, la mobilisation se poursuit malgré les annonces du gouvernement",
+      "url": "https://www.franceinfo.fr/societe/manifestations/reportage-on-entend-beaucoup-de-revendications-mais-pas-de-reponses-concretes-a-paris-la-mobilisation-se-poursuit-malgre-les-annonces-du-gouvernement_8272733.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le cortège qui s'est élancé depuis la place de la République jusqu'à celle de la Nation s'est déroulé en grande majorité dans le calme, même si les quelques milliers de personnes présentes ne décolèrent pas après les propositions du gouvernement qu'ils jugent insuffisantes.",
+      "image": "https://www.franceinfo.fr/pictures/wr_L-Sl0MVJgYx_iiyymbPqfjj8/0x135:7239x4207/432x243/filters:format(jpg)/2026/11/07/6aef9b7862ac2172949076.jpg",
+      "published_at": "2026-11-07T22:47:45+01:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "d653c77667db"
+    },
+    {
+      "title": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
+      "url": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]",
+      "summary": "Au total, 16 personnes sont hospitalisées après cette attaque, dont cinq étrangers, a fait savoir, dans la soirée samedi, le ministre de l'Intérieur. Tout indique que le suspect \"était fasciné par des idéologies d'extrême droite. Même si cela devra encore être vérifié\", a précisé le ministre de l'Intérieur.",
+      "image": "https://www.franceinfo.fr/pictures/QNOOq7XAUw7mVHpRcNL0b6EMxas/0x60:1024x636/432x243/filters:format(jpg)/2026/11/07/6aef76bd1aa73040905605.jpg",
+      "published_at": "2026-11-07T22:37:20+01:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "10d5ce296369"
+    },
+    {
+      "title": "Aux obsèques de Pengo Bossio Wangi, à Guyancourt : « Mon fils n’est pas une couleur de peau, mon fils est un être humain »",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/07/aux-obseques-de-pengo-bossio-wangi-a-guyancourt-mon-fils-n-est-pas-une-couleur-de-peau-mon-fils-est-un-etre-humain_6808317_3224.html",
+      "summary": "Des centaines de personnes, proches et anonymes, sont venues rendre un dernier hommage au jeune homme de 26 ans, tué lors d’un attentat raciste à Trappes, le 23 octobre.",
+      "image": "https://img.lemde.fr/2026/10/31/389/0/4673/2336/644/322/60/0/6967cb3_upload-1-vmmqrhvh8xnk-3-rassemblement-trappes-hleuqeux-dsc0230.jpg",
+      "published_at": "2026-11-07T22:09:52+01:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "e7e1e2621962"
+    },
+    {
+      "title": "Benoît Sineau secouru et \"sain et sauf\" après avoir activé sa balise de détresse sur la Route du Rhum",
+      "url": "https://www.franceinfo.fr/sports/voile/route-du-rhum/benoit-sineau-a-active-sa-balise-de-detresse-sur-la-route-du-rhum-des-concurrents-deroutes-pour-le-secourir_8272628.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'organisation a annoncé samedi dans un communiqué qu'elle avait demandé à plusieurs bateaux de venir en aide au skippeur d'Ekinox-Rhétores.",
+      "image": "https://www.franceinfo.fr/pictures/oHpZD_bgRL5Th9MqzLL4YNkF_dc/0x105:4252x2497/432x243/filters:format(jpg)/2026/11/07/6aef704b5bb76951709703.jpg",
+      "published_at": "2026-11-07T22:02:40+01:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "e6471ba42c69"
+    },
+    {
+      "title": "Dana White, le patron de l’UFC et proche de Donald Trump, sollicité pour devenir porte-parole de la Maison Blanche",
+      "url": "https://www.lemonde.fr/international/article/2026/11/07/dana-white-le-patron-de-l-ufc-sollicite-par-donald-trump-au-poste-de-porte-parole-de-la-maison-blanche_6808316_3210.html",
+      "summary": "Le président américain a exhorté le dirigeant de la plus grande organisation mondiale d’arts martiaux mixtes à accepter ce poste vacant depuis le 16 octobre, lui suggérant de s’entourer de combattants pour affronter « la gauche cinglée ».",
+      "image": "https://img.lemde.fr/2026/11/07/0/0/3693/1846/644/322/60/0/8b6cca9_ftp-1-bf08yftherqq-6a0d8a35d88e44a4b6b49bc133975e45-0-02e93aa800534f0e8cbfde9e8b9290a6.jpg",
+      "published_at": "2026-11-07T21:53:11+01:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "455e059bf304"
+    },
+    {
+      "title": "\"Nous allons gagner\" : au Bourget, Jean-Luc Mélenchon dévoile son programme pour 2027 et poursuit sa démonstration de force",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/reportage-nous-allons-gagner-au-bourget-jean-luc-melenchon-devoile-son-programme-pour-2027-et-poursuit-sa-demonstration-de-force_8272679.html#xtor=RSS-3-[lestitres]",
+      "summary": "Devant plus de 20 000 personnes, le prétendant insoumis à l'Elysée a présenté la version actualisée de son programme l'Avenir en commun avec plus de 1 000 propositions, entre pouvoir d'achat, écologie et santé.",
+      "image": "https://www.franceinfo.fr/pictures/gjLgGrTfNdrU2VxlV4bEfMsC9H4/0x184:4764x2864/432x243/filters:format(jpg)/2026/11/07/6aef87f45ac61035951835.jpg",
+      "published_at": "2026-11-07T21:30:30+01:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "93f38536f7bb"
+    },
+    {
+      "title": "En Israël, le chef de l'opposition à Benyamin Nétanyahou, Gadi Eisenkot, sera chargé dimanche de former le prochain gouvernement, annonce la présidence",
+      "url": "https://www.franceinfo.fr/monde/israel/en-israel-le-chef-de-l-opposition-a-benyamin-netanyahou-gadi-eisenkot-sera-charge-dimanche-de-former-le-prochain-gouvernement-annonce-la-presidence_8272685.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cet ancien chef d'état-major aura la lourde tâche de rallier un minimum de 61 députés dans un paysage politique fracturé, à l'image du pays.",
+      "image": "https://www.franceinfo.fr/pictures/ZhM4JoPiCtTBH0fFbEtvE7TuJfY/0x53:1024x629/432x243/filters:format(jpg)/2026/11/07/6aef7f1397cd4558499961.jpg",
+      "published_at": "2026-11-07T20:52:36+01:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "5bbf638d0b43"
+    },
+    {
+      "title": "Israël : Gadi Eisenkot, principal opposant de Benyamin Nétanyahou, va être chargé de former un gouvernement",
+      "url": "https://www.lemonde.fr/international/article/2026/11/07/israel-gadi-eisenkot-le-principal-opposant-de-benyamin-netanyahou-va-etre-charge-de-former-un-gouvernement_6808313_3210.html",
+      "summary": "L’ancien chef d’état-major israélien, aujourd’hui à la tête du parti Yashar !, sera officiellement chargé dimanche de former le prochain gouvernement israélien, a annoncé samedi soir la présidence.",
+      "image": "https://img.lemde.fr/2026/10/28/586/0/3416/1708/644/322/60/0/e5462d5_ftp-1-f7onczycej9p-2026-10-28t032117z-1949345560-rc2zboakgvrk-rtrmadp-3-israel-election.JPG",
+      "published_at": "2026-11-07T20:51:02+01:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "970b4f091a6d"
+    },
+    {
+      "title": "Au Bourget, Jean-Luc Mélenchon refuse l’ouverture au reste de la gauche, un pari à haut risque",
+      "url": "https://www.liberation.fr/politique/au-bourget-jean-luc-melenchon-refuse-louverture-au-reste-de-la-gauche-un-pari-a-haut-risque-20261107_HLVHHJCBYVAJNPEAGSYMY7MYSU/",
+      "summary": "Lors de son meeting ce samedi, le candidat insoumis à la présidentielle a assumé ne pas vouloir s’ouvrir aux forces politiques idéologiquement voisines. Stratégie par étapes ou sectarisme suicidaire ?",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-11-07T19:35:59+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "269b5019a5ae"
+    },
+    {
+      "title": "Donald Trump propose le poste de porte-parole de la Maison Blanche à Dana White, patron d'une fédération de MMA",
+      "url": "https://www.franceinfo.fr/monde/usa/donald-trump-propose-le-poste-de-porte-parole-de-la-maison-blanche-a-dana-white-patron-d-une-federation-de-mma_8272667.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ce poste stratégique est vacant depuis l'éviction le 16 octobre de la précédente porte-parole, Katie Zacharia, congédiée au bout d'une petite semaine.",
+      "image": "https://www.franceinfo.fr/pictures/b8u2jeec6uSK4G75w_hj2bshRzQ/0x93:1024x669/432x243/filters:format(jpg)/2026/11/07/6aef7b30c8091197646147.jpg",
+      "published_at": "2026-11-07T20:28:31+01:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "43cc33fa724b"
+    },
+    {
+      "title": "Mobilisation sociale : malgré une affluence en baisse, les manifestants veulent « maintenir la pression » avant la conférence sociale de lundi à Matignon",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/07/mobilisation-sociale-malgre-une-affluence-en-baisse-les-manifestants-veulent-maintenir-le-pression-avant-la-conference-sociale-de-lundi-a-matignon_6808311_823448.html",
+      "summary": "Entre 146 000 et 250 000 personnes ont défilé, le plus souvent dans le calme. C’était le quatrième samedi de mobilisation de rang et la deuxième journée de cortèges de la semaine, après des manifestations de grande ampleur, jeudi, à l’appel des organisations syndicales.",
+      "image": "https://img.lemde.fr/2026/11/07/247/0/6000/3000/644/322/60/0/5c9a9a6_ftp-1-kxp2fvj8axqs-2026-11-07t151455z-100900085-rc23joapd1o1-rtrmadp-3-france-protest.JPG",
+      "published_at": "2026-11-07T20:25:00+01:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "4a96fa832c51"
+    },
+    {
+      "title": "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
+      "url": "https://www.franceinfo.fr/france/nouvelle-aquitaine/gironde/cette-recrudescence-des-vols-impacte-la-production-des-parcs-500-km-de-cables-de-cuivre-derobes-dans-une-centrale-photovoltaique_8272673.html#xtor=RSS-3-[lestitres]",
+      "summary": "Plus de 500 kilomètres de câbles de cuivre, dont le cours ne cesse de s’envoler, ont été dérobés dans des parcs photovoltaïques du Sud-Ouest. Le montant du préjudice est estimé à 1 million d’euros. Plus d’une centaine de gendarmes ont été mobilisés pour démanteler un réseau, et six personnes placées en détention.",
+      "image": "https://www.franceinfo.fr/pictures/yHVpC5jCztwAtENVzKB5wj5V8zk/0x123:1578x1010/432x243/filters:format(jpg)/2026/11/07/6aef7a0807143554223656.png",
+      "published_at": "2026-11-07T20:22:19+01:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "1b01b8bd0a27"
+    },
+    {
+      "title": "Manifestations du 7 novembre : 250 000 personnes ont défilé dans toute la France, selon les syndicats, 146 000 selon Beauvau, une mobilisation en recul",
       "url": "https://www.liberation.fr/economie/social/en-direct-colere-sociale-nouvelle-journee-de-mobilisation-ce-samedi-deux-jours-avant-une-conference-sociale-a-matignon-20261107_MUMGM32WH5DODF76RBQEND6HPM/",
       "summary": "Samedi, pour le quatrième week-end consécutif, de nouvelles manifestations se sont déroulées sous haute sécurité policière et dans le calme, avec pour épicentre Paris, où des gilets jaunes se sont rassemblés à Concorde malgré l’interdiction de la préfecture de police.",
       "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-11-07T18:27:31+00:00",
+      "published_at": "2026-11-07T19:12:33+00:00",
       "source": "Libération",
       "category": "Société",
       "id": "e9714a8ba683"
+    },
+    {
+      "title": "Depuis son meeting au Bourget, Jean-Luc Mélenchon refuse de mettre \"de l'eau dans\" son \"vin pour séduire et être moins clivant\"",
+      "url": "https://www.franceinfo.fr/politique/melenchon/depuis-son-meeting-au-bourget-jean-luc-melenchon-refuse-de-mettre-de-l-eau-dans-son-vin-pour-seduire-et-etre-moins-clivant_8272640.html#xtor=RSS-3-[lestitres]",
+      "summary": "Cet événement, qui se tenait samedi au Bourget (Seine-Saint-Denis), suivait la sortie en librairie vendredi du programme présidentiel des Insoumis, nouvelle version de \"L'Avenir en commun\", forte de 1 069 propositions.",
+      "image": "https://www.franceinfo.fr/pictures/FQe6SFt6rabz24Do1bYfHebDZy8/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/07/6aef4919c04e3436802011.jpg",
+      "published_at": "2026-11-07T19:58:40+01:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "9d68ba2b5c3d"
+    },
+    {
+      "title": "«On est épuisés émotionnellement, mais il y a des choses qui nous font tenir» : à Paris, les jeunes manifestants restent mobilisés",
+      "url": "https://www.liberation.fr/societe/on-est-epuises-emotionnellement-mais-il-y-a-des-choses-qui-nous-font-tenir-a-paris-les-jeunes-manifestants-restent-mobilises-20261107_YNKADUBQ7RGRDGA2IDM4FOIZNM/",
+      "summary": "Si le quatrième samedi du mouvement social a affiché une participation en baisse, étudiants et lycéens ont continué de défiler joyeusement à Paris.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-11-07T18:57:58+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "b122f1bdb1cc"
+    },
+    {
+      "title": "«A bas la résignation des battus d’avance» : en meeting au Bourget, Jean-Luc Mélenchon signe une inflexible démonstration de force",
+      "url": "https://www.liberation.fr/politique/a-bas-la-resignation-des-battus-davance-en-meeting-au-bourget-jean-luc-melenchon-signe-une-inflexible-demonstration-de-force-20261107_RVPT73ESOFCSTM7TH7R3YMG2SE/",
+      "summary": "Le candidat insoumis a rassemblé plus de 20 000 personnes au Parc des expositions en Seine-Saint-Denis, selon les chiffres des organisateurs, lors d’une convention de présentation de son programme, ce samedi 7 novembre.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-11-07T18:49:39+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "d6e6ee64b01b"
     },
     {
       "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
@@ -23,6 +193,16 @@
       "id": "ac748c842a86"
     },
     {
+      "title": "Près de 146 000 personnes ont défilé en France samedi 7 novembre selon le ministère de l'Intérieur, 250 000 selon l'intersyndicale de la jeunesse",
+      "url": "https://www.franceinfo.fr/societe/manifestations/pres-de-146-000-personnes-ont-defile-en-france-samedi-7-novembre-selon-le-ministere-de-l-interieur-250-000-selon-l-intersyndicale-de-la-jeunesse_8272610.html#xtor=RSS-3-[lestitres]",
+      "summary": "La mobilisation de samedi est en recul par rapport à jeudi et par rapport aux trois précédents samedis de mobilisation sociale.",
+      "image": "https://www.franceinfo.fr/pictures/pYjSDCcdrAVkjjEQEQlk4PAfWRc/0x106:1024x682/432x243/filters:format(jpg)/2026/11/07/6aef6c73e48d2976248127.jpg",
+      "published_at": "2026-11-07T19:23:21+01:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "8a353ea74382"
+    },
+    {
       "title": "«C’est une tragédie pour Cracovie, on n’a jamais connu une chose pareille» : 6 morts et une dizaine de blessés dans une fusillade",
       "url": "https://www.liberation.fr/international/europe/pologne-5-morts-et-une-dizaine-de-blesses-dans-une-fusillade-a-cracovie-20261107_SOXK4M35TFC5HCTPTS3UN5KWBM/",
       "summary": "En milieu d’après-midi ce samedi, un homme a fait irruption en voiture dans le centre la deuxième ville de Pologne et ouvert le feu au hasard. Le tireur a été blessé, neutralisé et transféré à l’hôpital.",
@@ -31,6 +211,16 @@
       "source": "Libération",
       "category": "Sport",
       "id": "dbc121853b63"
+    },
+    {
+      "title": "France-Fidji : revivez la large victoire du XV de France face aux Fidjiens, entachée par la blessure de Romain Ntamack",
+      "url": "https://www.lemonde.fr/sport/live/2026/11/07/en-direct-france-fidji-suivez-le-match-de-championnat-des-nations-de-rugby-2026_6808309_3242.html",
+      "summary": "Les hommes de Fabien Galthié ont débuté le mois de novembre par une large victoire, samedi, à Décines-Charpieu (54-17). Confronté à une vague de blessure, le sélectionneur devra néanmoins probablement se passer de Ntamack face à l’Afrique du Sud, vendredi.",
+      "image": "https://img.lemde.fr/2026/11/07/226/0/3726/1863/644/322/60/0/11dfa5f_ftp-1-svqr77fmnukc-2026-11-07t221957z-248216543-up1emb71q1834-rtrmadp-3-rugby-union-nationschamp-fra-fji.JPG",
+      "published_at": "2026-11-07T19:10:03+01:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "4984a6d9fe1e"
     },
     {
       "title": "«Moi qui pensais vivre dans le pays des droits de l’homme» : à Nantes, recherche manif désespérément",
@@ -43,16 +233,6 @@
       "id": "9b36da15d76d"
     },
     {
-      "title": "A Cracovie, en Pologne, un assaillant tire sur des passants, faisant six morts et \"plusieurs blessés\"",
-      "url": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]",
-      "summary": "Un homme a foncé en voiture sur une place de la ville puis a tiré sur des passants. Il a été blessé par balle par la police et transporté à l'hôpital.",
-      "image": "https://www.franceinfo.fr/pictures/GHDd8xzGqvIAs2WZrs-RRuTL4Wc/0x53:1024x629/432x243/filters:format(jpg)/2026/11/07/6aef47f147ade588177691.jpg",
-      "published_at": "2026-11-07T19:02:03+01:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "10d5ce296369"
-    },
-    {
       "title": "Le soignant qui a changé ma vie : « J’étais sa patiente pour Covid long, je suis devenue sa collègue »",
       "url": "https://www.lemonde.fr/intimites/article/2026/11/07/le-soignant-qui-a-change-ma-vie-j-etais-sa-patiente-pour-covid-long-je-suis-devenue-sa-collegue_6808308_6190330.html",
       "summary": "Chaque mois, « Le Monde » part à la rencontre d’un soignant et d’un soigné qui, ensemble et au-delà du soin, ont su nouer un lien. Etonnante trajectoire que celle du duo formé par Valérie Triponez, infirmière atteinte d’un Covid long, et Mathieu Saubade, spécialiste de cette maladie complexe, devenus collaborateurs.",
@@ -61,16 +241,6 @@
       "source": "Le Monde",
       "category": "Sport",
       "id": "0c8822513a1d"
-    },
-    {
-      "title": "Une sélection de livres de poche : « Les Femmes et la Libération », André Comte-Sponville, Paul Lynch, Lydie Salvayre…",
-      "url": "https://www.lemonde.fr/critique-litteraire/article/2026/11/07/une-selection-de-livres-de-poche-les-femmes-et-la-liberation-andre-comte-sponville-paul-lynch-lydie-salvayre_6808307_5473203.html",
-      "summary": "Parmi les livres de poche parus récemment, « Le Monde des livres » vous recommande…",
-      "image": "https://img.lemde.fr/2026/11/04/160/0/1920/960/644/322/60/0/b7e7e15_upload-1-5p7sco6uhytv-poches1.jpg",
-      "published_at": "2026-11-07T19:00:04+01:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "91715b126c18"
     },
     {
       "title": "Les députés communistes qui soutiennent La France insoumise se sont mis \"en dehors du parti\", estime le PCF",
@@ -103,23 +273,13 @@
       "id": "50481811f098"
     },
     {
-      "title": "Des sportifs et créateurs de contenus français courent pendant vingt-cinq heures pour soutenir une association",
-      "url": "https://www.lemonde.fr/videos/article/2026/11/07/des-sportifs-et-createurs-de-contenus-francais-courent-pendant-vingt-cinq-heures-pour-soutenir-une-association_6808306_1669088.html",
-      "summary": "Cent quarante coureurs ont récolté près de 1,5 million d’euros pour l’association Rêves, qui réalise les vœux d’enfants gravement malades.",
-      "image": "https://img.lemde.fr/2026/08/29/666/0/8000/4000/644/322/60/0/fdf90e5_ftp-1-w8p3iupu2x9v-5947310-01-06.jpg",
-      "published_at": "2026-11-07T18:50:19+01:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "e5b8318ceef4"
-    },
-    {
-      "title": "En Pologne, au moins six morts dans une attaque par arme à feu à Cracovie, le tireur interpellé",
+      "title": "En Pologne, une attaque par arme à feu a fait au moins six morts à Cracovie, Donald Tusk dénonce un acte de « terrorisme »",
       "url": "https://www.lemonde.fr/international/article/2026/11/07/en-pologne-au-moins-six-morts-dans-une-attaque-par-arme-a-feu-a-cracovie-le-tireur-interpelle_6808293_3211.html",
-      "summary": "Selon un porte-parole de la police, un homme a foncé en voiture sur la grande place de la vieille ville et a tiré « au hasard » sur des passants. L’auteur des faits a été neutralisé et blessé par balle.",
-      "image": "https://img.lemde.fr/2026/11/07/388/0/4656/2328/644/322/60/0/c2dc238_ftp-1-i35pu46rtpe3-2026-11-07t152544z-807251327-up1emb716qzie-rtrmadp-3-poland-shooting.JPG",
+      "summary": "Le tireur, un Polonais de 24 ans « fasciné par les idéologies d’extrême droite » d’après le premier ministre, a ouvert le feu « au hasard » sur la grande place de la vieille ville. Deux jours de deuil national ont été décrétés.",
+      "image": "https://img.lemde.fr/2026/11/07/583/0/7000/3500/644/322/60/0/097a63b_ftp-1-2etzccthi9gk-d5474e3f651a4d489e772ff15c225279-0-fcb10f5274c84653b58ed6940a166851.jpg",
       "published_at": "2026-11-07T18:34:57+01:00",
       "source": "Le Monde",
-      "category": "Sport",
+      "category": "Politique",
       "id": "026a3ce81823"
     },
     {
@@ -133,16 +293,6 @@
       "id": "3e9f8a31f60d"
     },
     {
-      "title": "Mobilisation du 7 novembre : 146 000 personnes ont défilé en France samedi selon le ministère de l'Intérieur, 250 000 selon l'intersyndicale de la jeunesse",
-      "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-7-novembre-suivez-avec-nous-cette-nouvelle-journee-de-manifestations_8272010.html#xtor=RSS-3-[lestitres]",
-      "summary": "De nouvelles manifestations se sont tenues samedi sous haute sécurité, deux jours après une mobilisation nationale de grande ampleur à l'appel des syndicats.",
-      "image": "https://www.franceinfo.fr/pictures/39ahfXNm58MOHy9Cbd19ARfN7XA/0x261:5000x3073/432x243/filters:format(jpg)/2026/11/07/6aef5a7e50aa1907108607.jpg",
-      "published_at": "2026-11-07T18:26:58+01:00",
-      "source": "France Info",
-      "category": "Société",
-      "id": "a3095ecad887"
-    },
-    {
       "title": "Tout juste destitué, l'ex-président du Paraguay entendu par la justice dans le cadre de la crise bancaire qui secoue le pays",
       "url": "https://www.franceinfo.fr/monde/ameriques/l-ex-president-du-paraguay-entendu-par-la-justice-dans-le-cadre-de-la-crise-bancaire-qui-secoue-le-pays_8272526.html#xtor=RSS-3-[lestitres]",
       "summary": "La crise bancaire a éclaté mardi avec la mise sous tutelle pour insolvabilité d'une banque en ligne, gelant ainsi les dépôts de près de trois millions de personnes.",
@@ -151,156 +301,6 @@
       "source": "France Info",
       "category": "Politique",
       "id": "77347defb667"
-    },
-    {
-      "title": "Depuis son meeting au Bourget, Jean-Luc Mélenchon refuse de mettre \"de l'eau dans\" son \"vin pour séduire et être moins clivant\"",
-      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-jean-luc-melenchon-va-presenter-son-programme-au-bourget_8272022.html#xtor=RSS-3-[lestitres]",
-      "summary": "A six mois de la présidentielle, Jean-Luc Mélenchon a tenu un meeting samedi au Bourget. Edouard Philippe s'est rendu de son côté aux Rencontres de l'avenir à Saint-Raphaël, et Bruno Retailleau sera à Brive-la-Gaillarde.",
-      "image": "https://www.franceinfo.fr/pictures/FQe6SFt6rabz24Do1bYfHebDZy8/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/07/6aef4919c04e3436802011.jpg",
-      "published_at": "2026-11-07T18:25:21+01:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "91f75f3082fd"
-    },
-    {
-      "title": "«La musique est un dialogue plus fort que les mots» : à Nice, l’Orchestre du nouveau monde fait des petits",
-      "url": "https://www.liberation.fr/societe/la-musique-est-un-dialogue-plus-fort-que-les-mots-a-nice-lorchestre-du-nouveau-monde-fait-des-petits-20261107_YIWY4TLCHJHORBYN7BBVB72SUE/",
-      "summary": "Avant que ne s’élance le cortège dans la capitale azuréenne, samedi, une cinquantaine de musiciens ont constitué une formation symphonique, en mimétisme à l’Orchestre du nouveau monde et en déroulant les mêmes morceaux.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-11-07T17:15:26+00:00",
-      "source": "Libération",
-      "category": "Culture",
-      "id": "f14e5d45cd63"
-    },
-    {
-      "title": "Mathieu Lefèvre va remplacer momentanément comme porte-parole du gouvernement Maud Bregeon, qui va partir en congé maternité",
-      "url": "https://www.lemonde.fr/politique/article/2026/11/07/mathieu-lefevre-va-remplacer-momentanement-comme-porte-parole-du-gouvernement-maud-bregeon-qui-va-partir-en-conge-maternite_6808304_823448.html",
-      "summary": "Ce proche du garde des sceaux, Gérald Darmanin, conservera son poste de ministre délégué à la transition écologique pendant cet intérim d’environ cinq semaines.",
-      "image": "https://img.lemde.fr/2026/11/07/430/0/5165/2582/644/322/60/0/4770b52_upload-1-6a405x5tjylu-000-c6dc29h.jpg",
-      "published_at": "2026-11-07T18:13:21+01:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "3ef7888e7f24"
-    },
-    {
-      "title": "Ce film de Sylvain Chomet pour Dior a-t-il été réalisé avec l’IA ?",
-      "url": "https://www.liberation.fr/checknews/ce-film-de-sylvain-chomet-pour-dior-a-t-il-ete-realise-avec-lia-20261107_QURVF5TQIJC7LCFJ6JA2TS5WFQ/",
-      "summary": "Accusé d’avoir largement utilisé l’intelligence artificielle, le réalisateur des «Triplettes de Belleville» assure avoir tout «dessiné à la main» mais reconnaît «avoir eu recours à l’interpolation automatisée» pour l’animation.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-11-07T17:12:59+00:00",
-      "source": "Libération",
-      "category": "Tech",
-      "id": "173f95fe78b4"
-    },
-    {
-      "title": "EN DIRECT, manifestations du 7 novembre : 146 000 personnes ont défilé en France samedi, selon le ministère de l’intérieur, 250 000, selon l’intersyndicale de la jeunesse",
-      "url": "https://www.lemonde.fr/societe/live/2026/11/07/en-direct-manifestations-du-7-novembre-146-000-personnes-ont-defile-en-france-samedi-selon-le-ministere-de-l-interieur-250-000-selon-l-intersyndicale-de-la-jeunesse_6808254_3224.html",
-      "summary": "La situation sur l’ensemble du territoire national, au regard du maintien de l’ordre, « demeure globalement calme et maîtrisée », a indiqué le ministère de l’intérieur dans l’après-midi. A Paris, plusieurs tirs de grenade ont retenti place de la Nation où le cortège parti de la place de la République est arrivé. Les forces de l’ordre ont demandé l’évacuation.",
-      "image": "https://img.lemde.fr/2026/11/07/500/0/6000/3000/644/322/60/0/713dbba_ftp-1-xnufpq38wkpt-afp-d6r93wv.jpg",
-      "published_at": "2026-11-07T18:07:26+01:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "680b45f0b093"
-    },
-    {
-      "title": "Hervé Le Bras, historien : « Une France de technocrates est en train d’être remplacée par une France de tribuns »",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/07/herve-le-bras-historien-une-france-de-technocrates-est-en-train-d-etre-remplacee-par-une-france-de-tribuns_6808301_3224.html",
-      "summary": "Dans un entretien au « Monde », Hervé Le Bras explique comment une partie de la population française en perte de repères traditionnels et se sentant exclue pourrait écarter les élites actuelles au profit d’un gouvernement autoritaire qui redonnerait au peuple une place centrale.",
-      "image": "https://img.lemde.fr/2026/08/28/525/0/6299/3149/644/322/60/0/66ad219_ftp-1-aqrewqewnizp-f6dfef47c17d44658c04fa7c9571d1d2-0-361dd698895446feb56f865ede59b58b.jpg",
-      "published_at": "2026-11-07T18:00:33+01:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "7c6011a77a15"
-    },
-    {
-      "title": "Carla Shatz, neuroscientifique : « La notion que le cerveau est déjà plastique in utero, bien avant la naissance, a été déterminante »",
-      "url": "https://www.lemonde.fr/sciences/article/2026/11/07/carla-shatz-neuroscientifique-la-notion-que-le-cerveau-est-deja-plastique-in-utero-bien-avant-la-naissance-a-ete-determinante_6808300_1650684.html",
-      "summary": "La chercheuse américaine a reçu le 3 novembre la Grande Médaille de l’Académie des sciences, une récompense qui met en valeur ses découvertes sur le développement du cerveau. Elle raconte dans un entretien au « Monde » cette aventure, qui a permis d’influencer les politiques éducatives.",
-      "image": "https://img.lemde.fr/2026/11/05/276/0/3307/1653/644/322/60/0/5d49741_upload-1-pivqjda08u2o-adsiences-grande-medaille-20261e4a9295mdme-carla-shatz.JPG",
-      "published_at": "2026-11-07T18:00:18+01:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "cddd8615f8c1"
-    },
-    {
-      "title": "Dans les cabinets d’affaires, l’inquiétude des jeunes avocats : « D’ici à cinq ans, l’IA sera capable d’exécuter la quasi-totalité des tâches aujourd’hui confiées à un stagiaire ou à un jeune collaborateur »",
-      "url": "https://www.lemonde.fr/campus/article/2026/11/07/dans-les-cabinets-d-affaires-l-inquietude-des-jeunes-avocats-d-ici-a-cinq-ans-l-ia-sera-capable-d-executer-la-quasi-totalite-des-taches-aujourd-hui-confiees-a-un-stagiaire-ou-a-un-jeune-collaborateur_6808299_4401467.html",
-      "summary": "Alors que l’intelligence artificielle générative déferle dans le monde du droit, une partie de la jeune génération d’avocats s’interroge sur ses perspectives de carrière.",
-      "image": "https://img.lemde.fr/2026/10/29/14/0/1790/895/644/322/60/0/37505a0_upload-1-2yc3vvht2jaw-def-web-2.jpg",
-      "published_at": "2026-11-07T18:00:14+01:00",
-      "source": "Le Monde",
-      "category": "Tech",
-      "id": "4f324d444515"
-    },
-    {
-      "title": "« L’Europe et le Canada se sont mis d’accord pour essayer de vivre dans un monde post-Trump avant même qu’il ait quitté la Maison Blanche »",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/07/l-europe-et-le-canada-se-sont-mis-d-accord-pour-essayer-de-vivre-dans-un-monde-post-trump-avant-meme-qu-il-ait-quitte-la-maison-blanche_6808298_3232.html",
-      "summary": "L’Union européenne et Ottawa s’inspirent de la stratégie de la « révolution autolimitée », pensée par les dissidents d’Europe de l’Est dans les années 1970 pour bâtir une société parallèle à côté de la société officielle, sans chercher à la réformer, note le politiste bulgare Ivan Krastev, dans une tribune au « Monde ».",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/74736ce_upload-1-1q1lcx7t5zad-frame-1190.jpg",
-      "published_at": "2026-11-07T18:00:13+01:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "564a84f52ad7"
-    },
-    {
-      "title": "Le ministre délégué Mathieu Lefèvre va être nommé porte-parole du gouvernement par intérim",
-      "url": "https://www.franceinfo.fr/politique/le-ministre-delegue-mathieu-lefevre-va-etre-nomme-porte-parole-du-gouvernement-par-interim_8272532.html#xtor=RSS-3-[lestitres]",
-      "summary": "Cette nomination intervient alors que l'actuelle porte-parole du gouvernement, Maud Bregeon, va bientôt entamer son congé maternité.",
-      "image": "https://www.franceinfo.fr/pictures/PnAxPD4mdc40y2w5f_gpspG8vHc/0x0:1024x576/432x243/filters:format(jpg)/2026/11/07/6aef551654a20231648237.jpg",
-      "published_at": "2026-11-07T17:47:21+01:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "2998ab82df93"
-    },
-    {
-      "title": "Au Yémen, 22 morts dans des bombardements saoudiens autour de Sanaa, annoncent les Houthis",
-      "url": "https://www.liberation.fr/international/moyen-orient/au-yemen-22-morts-dans-des-bombardements-saoudiens-autour-de-sanaa-annoncent-les-houthis-20261107_3LFMWR22AJDNLJ3LILURQLOTAE/",
-      "summary": "Le conflit s’intensifie sur le sol yéménite, depuis la reprise des hostilités cet été, l’offensive du groupe sur le littoral en septembre et les représailles saoudiennes en octobre.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-11-07T16:47:17+00:00",
-      "source": "Libération",
-      "category": "Sport",
-      "id": "e566fe610f81"
-    },
-    {
-      "title": "« Super-rafales, un phénomène sous surveillance », sur Arte : voyage au centre des mégatempêtes",
-      "url": "https://www.lemonde.fr/culture/article/2026/11/07/super-rafales-un-phenomene-sous-surveillance-sur-arte-voyage-au-centre-des-megatempetes_6808297_3246.html",
-      "summary": "A l’occasion de la COP31 sur le climat, des scientifiques passionnés décryptent ces phénomènes météorologiques récents et violents dans un documentaire spectaculaire.",
-      "image": "https://img.lemde.fr/2026/11/02/1040/0/7677/3838/644/322/60/0/c6c713f_upload-1-k0wgoymiftxo-super-rafales2c-un-phc3a9nomc3a8ne-sous-surveillance-quadruple-columns-of-calamity.jpg",
-      "published_at": "2026-11-07T17:30:10+01:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "cac6ff12d189"
-    },
-    {
-      "title": "Présidentielle 2027 : « Je n’ai qu’une chose raisonnable à vous proposer : il faut tout changer », lance Jean-Luc Mélenchon lors de son meeting au Bourget",
-      "url": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-je-n-ai-qu-une-chose-raisonnable-a-vous-proposer-il-faut-tout-changer-lance-jean-luc-melenchon-en-introduction-de-son-meeting-au-bourget_6808296_823448.html",
-      "summary": "« Nous sommes en train d’ouvrir le chemin d’un grand changement politique en France », a affirmé le candidat « insoumis » samedi, lors d’un meeting de campagne pour la présentation du programme présidentiel de La France insoumise.",
-      "image": "https://img.lemde.fr/2026/11/07/878/0/1756/878/644/322/60/0/43e9e8e_upload-1-c80x90yrqhdm-l1180040.JPG",
-      "published_at": "2026-11-07T17:21:22+01:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "9663236cd2a9"
-    },
-    {
-      "title": "Le parquet de Paris ouvre une enquête sur les récentes alertes à la bombe visant des avions survolant la France et recherche un \"lien éventuel avec des puissances étrangères\"",
-      "url": "https://www.franceinfo.fr/faits-divers/le-parquet-de-paris-ouvre-une-enquete-sur-les-recentes-alertes-a-la-bombe-visant-des-avions-survolant-la-france-et-recherche-un-lien-eventuel-avec-des-puissances-etrangeres_8272469.html#xtor=RSS-3-[lestitres]",
-      "summary": "Des dizaines de vols commerciaux européens ont fait l'objet d'alertes à la bombe depuis le début de la semaine.",
-      "image": "https://www.franceinfo.fr/pictures/aFuc6k7JobBEXWRPve0ogzwypg0/0x53:1024x629/432x243/filters:format(jpg)/2026/11/07/6aef472e78315635833075.jpg",
-      "published_at": "2026-11-07T17:17:43+01:00",
-      "source": "France Info",
-      "category": "Économie",
-      "id": "0a697556452b"
-    },
-    {
-      "title": "L'épopée du Français Luca van Assche stoppée en demi-finales du Masters 1000 de Paris par Ben Shelton",
-      "url": "https://www.franceinfo.fr/sports/tennis/masters-1000/l-epopee-du-francais-luca-van-assche-stoppee-en-demi-finales-du-masters-1000-de-paris-par-ben-shelton_8272385.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'Américain, numéro quatre mondial, a vacillé mais a finalement fait respecter son rang, samedi, en dominant le Français en trois sets.",
-      "image": "https://www.franceinfo.fr/pictures/GK0KG5hQW2gHoUXR3IIhr-Bmymk/0x0:8640x4860/432x243/filters:format(jpg)/2026/11/07/6aef32e6bfc5e748824347.jpg",
-      "published_at": "2026-11-07T17:10:32+01:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "a9f0aabbaa52"
     }
   ]
 }
