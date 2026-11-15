@@ -1,306 +1,306 @@
 {
-  "generated_at": "2026-11-15T09:08:59.824053+00:00",
+  "generated_at": "2026-11-15T16:56:26.847304+00:00",
   "article_count": 30,
   "articles": [
     {
-      "title": "Cette app française connaît mieux votre Tesla que l’app Tesla",
-      "url": "https://www.numerama.com/tech/2373571-cette-app-francaise-connait-mieux-votre-tesla-que-lapp-tesla.html",
-      "summary": "Vous trouvez votre app Tesla trop limitée ? Un Français lance Copeel, une application iPhone destinée aux propriétaires de Tesla et nous avons eu la chance de la bêta-tester. Elle enregistre trajets, recharges, stationnement et santé de la batterie, ajoute un assistant IA et plusieurs features malines.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-11-15T09:03:00+00:00",
-      "source": "Numerama",
+      "title": "Un journaliste collaborateur régulier de l’AFP a été arrêté par les forces israéliennes en Cisjordanie occupée",
+      "url": "https://www.liberation.fr/international/moyen-orient/un-journaliste-collaborateur-regulier-de-lafp-a-ete-arrete-par-les-forces-israeliennes-en-cisjordanie-occupee-20261115_3Z4K72QEHNGKNPJSQBXFBCBHQE/",
+      "summary": "Ce dimanche 15 novembre, des soldats israéliens ont interpellé à son domicile un journaliste pigiste de l’Agence France Presse, soupçonné de «liens avec le Hamas».",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-11-15T16:46:02+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "ae93df1687fe"
+    },
+    {
+      "title": "Cyberattaque contre Maileva, filiale du groupe La Poste : une enquête ouverte et confiée à la Brigade de lutte contre la cybercriminalité",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/15/cyberattaque-contre-maileva-filiale-du-groupe-la-poste-une-enquete-ouverte-et-confiee-a-la-brigade-de-lutte-contre-la-cybercriminalite_6811036_4408996.html",
+      "summary": "Les investigations ont été ouvertes pour « atteinte à un système de traitement automatisé de données » par la section cybercriminalité du parquet parisien et confiées à la BL2C, service d’enquête spécialisé. Cette cyberattaque a conduit au vol des coordonnées de 22 millions de personnes, selon La Poste.",
+      "image": "https://img.lemde.fr/2023/10/25/111/0/2000/1000/644/322/60/0/a05e57b_1698248553266-ransomware-ordinateur-error-mains-v2.png",
+      "published_at": "2026-11-15T17:40:29+01:00",
+      "source": "Le Monde",
       "category": "Tech",
-      "id": "48271b875fd0"
+      "id": "257a50825cc5"
     },
     {
-      "title": "« Les citoyens s’apprêtent à n’être qu’une simple ressource gérée par des patrons de la tech tels que Musk, Thiel et Zuckerberg »",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/15/les-citoyens-s-appretent-a-n-etre-qu-une-simple-ressource-geree-par-des-patrons-de-la-tech-tels-que-musk-thiel-et-zuckerberg_6811002_3232.html",
-      "summary": "Dans une tribune au « Monde », Katharina Pistor, professeure de droit, compare la domination exercée par la « confrérie de la tech » sur les citoyens à l’approche adoptée autrefois par les colons envers les peuples autochtones.",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/500aaa5_upload-1-mmqcii5msjtg-frame-728.jpg",
-      "published_at": "2026-11-15T10:00:28+01:00",
-      "source": "Le Monde Inter",
+      "title": "Une centaine de personnes réunies pour une marche blanche en hommage à Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes",
+      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-centaine-de-personnes-reunies-pour-une-marche-blanche-en-hommage-a-pengo-bossio-wangi-tue-dans-l-attaque-raciste-de-trappes_8283689.html#xtor=RSS-3-[lestitres]",
+      "summary": "Derrière la large banderole noire floquée du portrait de son neveu, un des oncles de la victime a voulu organiser cette marche blanche \"pour faire porter la voix\" de son proche décédé.",
+      "image": "https://www.franceinfo.fr/pictures/21S9Mcu_WUdzq6etVFn4p9T9ROA/0x900:8640x5760/432x243/filters:format(jpg)/2026/11/15/6af9d71068c14577568770.jpg",
+      "published_at": "2026-11-15T17:36:04+01:00",
+      "source": "France Info",
       "category": "Sport",
-      "id": "50a9a400c10c"
+      "id": "ad5040283a2b"
     },
     {
-      "title": "« Sans les thermes, Royat est morte » : le possible déremboursement des cures thermales menace un modèle déjà fragilisé",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/15/sans-les-thermes-royat-est-morte-le-possible-deremboursement-des-cures-thermales-menace-un-modele-deja-fragilise_6811001_3234.html",
-      "summary": "Dans la petite ville du Puy-de-Dôme, comme dans les autres stations, le thermalisme est essentiel aux hôtels et aux commerces. En proposant de transférer 200 millions d’euros de prise en charge des cures aux complémentaires de santé, le gouvernement a provoqué une fronde chez les professionnels et les communes concernés.",
-      "image": "https://img.lemde.fr/2026/11/11/648/0/7784/3892/644/322/60/0/8c07bff_upload-1-idy6bwvje7rc-20250628lmt2372.jpg",
-      "published_at": "2026-11-15T10:00:17+01:00",
-      "source": "Le Monde Politique",
+      "title": "Katarzyna Kalwat, un théâtre hanté par la honte",
+      "url": "https://www.liberation.fr/culture/scenes/katarzyna-kalwat-un-theatre-hante-par-la-honte-20261115_HHAP6U2EUBFQHGOS7G4ETVEOO4/",
+      "summary": "Admiratrice de Didier Eribon et Annie Ernaux, la metteuse en scène polonaise s’attaque à son tour aux problèmes de hiérarchie sociale, en moquant les mécanismes dans ses pièces redoutablement mordantes.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-11-15T16:30:16+00:00",
+      "source": "Libération",
       "category": "Politique",
-      "id": "2d16409d3b0e"
+      "id": "069460522fbf"
     },
     {
-      "title": "Nonna Mayer, politiste : « Le contexte électoral est particulièrement dramatique sur les plans intérieur et international »",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/15/nonna-mayer-politiste-le-contexte-electoral-est-particulierement-dramatique-sur-les-plans-interieur-et-international_6811000_3232.html",
-      "summary": "Les candidats à l’élection présidentielle de 2027 vont devoir se positionner face aux nombreux enjeux qui préoccupent les Français : pouvoir d’achat, système social, insécurité, bouleversements climatiques, observe la politiste dans un entretien au « Monde ».",
-      "image": "https://img.lemde.fr/2026/10/28/140/0/8368/4184/644/322/60/0/6c6629e_upload-1-ebdl7x7yxo2j-000-328v2fq.jpg",
-      "published_at": "2026-11-15T10:00:17+01:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "73ceeaee0d86"
-    },
-    {
-      "title": "Jordanie : trois hommes condamnés à mort pour l’attaque meurtrière d’une église orthodoxe en octobre",
-      "url": "https://www.lemonde.fr/international/article/2026/11/15/jordanie-trois-hommes-condamnes-a-mort-pour-l-attaque-meurtriere-d-une-eglise-orthodoxe-en-octobre_6810998_3210.html",
-      "summary": "Neuf personnes avaient été tuées et 25 avaient été blessées dans cette attaque sans précédent contre les chrétiens du royaume, le 23 octobre.",
-      "image": "https://img.lemde.fr/2026/10/24/459/0/5500/2750/644/322/60/0/dee9f72_ftp-1-ch7uhvg9gb9m-2026-10-24t133814z-2025982202-rc2l9oaxpk5k-rtrmadp-3-jordan-church.JPG",
-      "published_at": "2026-11-15T09:52:09+01:00",
-      "source": "Le Monde Inter",
-      "category": "Sport",
-      "id": "2bdb7c6e6c33"
-    },
-    {
-      "title": "Les revalorisations annoncées pour les plus bas salaires coûteront plus d'un milliard d'euros aux finances publiques, déclare le ministre David Amiel",
-      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/il-y-aura-bien-une-hausse-des-points-pour-les-plus-bas-salaires-de-la-fonction-publique-confirme-le-ministre-david-amiel_8283254.html#xtor=RSS-3-[lestitres]",
-      "summary": "David Amiel confirme, dans le \"8h30 franceinfo\" dimanche, une augmentation \"pour les plus bas salaires de la fonction publique\" représentant \"350 euros brut par an\".",
-      "image": "https://www.franceinfo.fr/pictures/SVueCn-vGR6-3aBIgx9Igst6cAs/69x0:993x520/432x243/filters:format(jpg)/2026/11/15/6af96588e7277057411845.jpg",
-      "published_at": "2026-11-15T09:49:24+01:00",
+      "title": "Un important site industriel russe touché par des frappes ukrainiennes",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-important-site-industriel-russe-touche-par-des-frappes-attribuees-a-kiev_8283350.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les autorités de la république du Tatarstan, citées par les médias russes, ont fait état de trois blessés dimanche, tandis que le gouverneur de la région russe de Rostov-sur-le-Don a annoncé un mort.",
+      "image": "https://www.franceinfo.fr/pictures/E01iqGMTHUSVur7VLLqq_hERpfM/0x0:4837x2720/432x243/filters:format(jpg)/2026/11/15/6af98c38d5241879196027.jpg",
+      "published_at": "2026-11-15T17:26:15+01:00",
       "source": "France Info",
       "category": "Politique",
-      "id": "01f973d8cce1"
+      "id": "f777e0d47e6f"
+    },
+    {
+      "title": "L'Estonie va fermer sa frontière avec la Russie à partir du 1er décembre, après une nouvelle tentative de sabotage",
+      "url": "https://www.franceinfo.fr/monde/russie/l-estonie-va-fermer-sa-frontiere-avec-la-russie-a-partir-du-1er-decembre-apres-une-nouvelle-tentative-de-sabotage_8283728.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'Estonie dit avoir déjoué in extremis une nouvelle tentative d'incendie d'une usine de drones orchestrée, selon elle, par le renseignement militaire russe.",
+      "image": "https://www.franceinfo.fr/pictures/dSP8Vka2xNoCQslxLonYqRxIWSI/0x485:8256x5129/432x243/filters:format(jpg)/2026/11/15/6af9dbfe35c10151645611.jpg",
+      "published_at": "2026-11-15T17:22:50+01:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "34451db8538c"
+    },
+    {
+      "title": "Prostitution des adolescentes : dans les tribunaux, un phénomène «vertigineux» pris très au sérieux",
+      "url": "https://www.liberation.fr/societe/sexualite-et-genres/prostitution-des-adolescentes-dans-les-tribunaux-un-phenomene-vertigineux-pris-tres-au-serieux-20261115_NACKUKAXEFG5ZIMGIES7GXSP74/",
+      "summary": "«Libération» a suivi cinq procès pour proxénétisme aggravé, impliquant des mineures parfois très jeunes, afin d’entendre les victimes, leurs parents, les proxénètes, les magistrats… Face à des cas «systémiques» qui s’accumulent, les personnels judiciaires espèrent une prise de conscience collective.",
+      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
+      "published_at": "2026-11-15T16:09:25+00:00",
+      "source": "Libération",
+      "category": "Culture",
+      "id": "d0918967b7ba"
+    },
+    {
+      "title": "Elections législatives : le chantier sans cesse repoussé du redécoupage électoral",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/15/elections-legislatives-le-chantier-sans-cesse-repousse-du-redecoupage-electoral_6811034_823448.html",
+      "summary": "Si des élections législatives sont organisées en 2027 après la présidentielle, elles reposeront sur une carte électorale qui n’a plus été retouchée depuis 2009. Alors que les autorités politiques tardent à se lancer dans ce chantier à haut risque, une commission dédiée s’est remise au travail.",
+      "image": "https://img.lemde.fr/2024/06/18/0/0/2100/1050/644/322/60/0/cabe93a_1718707996737-circonscriptions.jpg",
+      "published_at": "2026-11-15T17:09:00+01:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "ac627fb8c183"
     },
     {
       "title": "Avions cloués au sol aux Etats-Unis : des câbles en cuivre vétustes à l’origine des perturbations",
       "url": "https://www.liberation.fr/international/amerique/avions-cloues-au-sol-aux-etats-unis-des-cables-en-cuivre-vetustes-a-lorigine-des-perturbations-20261115_7BLQEXRP2NHQ3G46IQIYY3KJLQ/",
       "summary": "Deux jours après l’incident majeur qui a entraîné une paralysie totale du trafic aérien outre-Atlantique, les autorités évoquent le remplacement raté d’anciennes lignes de communication qui aurait eu des conséquences en cascade.",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
-      "published_at": "2026-11-15T08:42:31+00:00",
+      "published_at": "2026-11-15T16:07:40+00:00",
       "source": "Libération",
       "category": "Sport",
       "id": "73c85c40cea5"
     },
     {
-      "title": "Après un rude combat, Ciryl Gane conserve son titre des poids lourds de l'UFC",
-      "url": "https://www.franceinfo.fr/sports/mma/apres-un-rude-combat-ciryl-gane-conserve-son-titre-des-poids-lourds-de-l-ufc_8283269.html#xtor=RSS-3-[lestitres]",
-      "summary": "Dans le mythique Madison Square Garden de New York, le Français a dû attendre la fin des cinq rounds samedi pour obtenir la victoire contre l'Américain Josh Hokit, et réussir son premier combat à défendre sa ceinture.",
-      "image": "https://www.franceinfo.fr/pictures/SJkgExM5QW50Oe1Q1BNplfLagQ4/0x0:5147x2895/432x243/filters:format(jpg)/2026/11/15/6af96ae51efaa295672456.jpg",
-      "published_at": "2026-11-15T09:32:42+01:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "43745e263d2c"
-    },
-    {
-      "title": "Le gouvernement interdit la vente de mortiers d'artifice jusqu'au 27 novembre",
-      "url": "https://www.franceinfo.fr/faits-divers/le-gouvernement-interdit-la-vente-de-mortiers-d-artifice-jusqu-au-27-novembre_8283236.html#xtor=RSS-3-[lestitres]",
-      "summary": "L'exécutif invoque la prévention des \"risques de troubles graves à l'ordre public lors des blocages en cours devant des lycées et des universités, ainsi qu'à l'occasion des manifestations\".",
-      "image": "https://www.franceinfo.fr/pictures/DPqu-glf-7nlQYzW45SCGDy4IbI/0x0:4000x2250/432x243/filters:format(jpg)/2026/11/15/6af96d493885e262891903.jpg",
-      "published_at": "2026-11-15T09:29:01+01:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "db148b9eb79c"
-    },
-    {
-      "title": "Au Masters de Turin, Arthur Fils devra confirmer son nouveau statut après une année en dents de scie",
-      "url": "https://www.franceinfo.fr/sports/tennis/arthur-fils/au-masters-de-turin-arthur-fils-devra-confirmer-son-nouveau-statut-apres-une-annee-en-dents-de-scie_8274734.html#xtor=RSS-3-[lestitres]",
-      "summary": "Qualifié pour le Masters de fin d'année, regroupant les huit meilleurs joueurs de la saison, Arthur Fils devra malgré tout prouver qu'il a bien sa place parmi l'élite du tennis mondial.",
-      "image": "https://www.franceinfo.fr/pictures/ivIiQ3_7kJkaszSYACk4ajipRYw/0x0:4802x2701/432x243/filters:format(jpg)/2026/11/10/6af32838850e7261928198.jpg",
-      "published_at": "2026-11-15T09:11:43+01:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "f5a7e212b032"
-    },
-    {
-      "title": "Panneaux solaires dans les champs : l’horizon assombri d’une potentielle solution contre le dérèglement climatique",
-      "url": "https://www.liberation.fr/environnement/agriculture/panneaux-solaires-dans-les-champs-lhorizon-assombri-dune-potentielle-solution-contre-le-dereglement-climatique-20261115_K2TFRJ2DLRGK3AH5PQVYUXVV6Y/",
-      "summary": "L’agrivoltaïsme pourrait, selon les défenseurs de la technologie, aider l’agriculture à être plus résiliente face au réchauffement planétaire. Mais la filière s’inquiète de voir le gouvernement la tuer dans l’œuf.",
+      "title": "La femme «très grièvement brûlée» par son conjoint, près de Bordeaux, est morte de ses blessures",
+      "url": "https://www.liberation.fr/societe/police-justice/la-femme-tres-grievement-brulee-par-son-conjoint-pres-de-bordeaux-est-morte-de-ses-blessures-20261115_QMAKFOPBSZBTDGZCPFPCMAUYOM/",
+      "summary": "Le parquet de Libourne, qui avait ouvert une enquête pour «tentative de féminicide» a requalifié la procédure en «homicide par conjoint», à la suite du décès de la victime dans la nuit de samedi à dimanche.",
       "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-11-15T08:00:00+00:00",
+      "published_at": "2026-11-15T16:02:03+00:00",
       "source": "Libération",
       "category": "Politique",
-      "id": "48cddfa95f16"
+      "id": "f17ff9995168"
     },
     {
-      "title": "Une septuagénaire portée disparue à Candillargues après les intempéries dans l'Hérault",
-      "url": "https://www.franceinfo.fr/faits-divers/une-septuagenaire-disparue-a-candillargues-apres-les-intemperies-dans-l-herault_8283239.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les sapeurs-pompiers ont effectué une centaine d'interventions en raison des fortes pluies qui ont secoué l'est du département.",
-      "image": "https://www.franceinfo.fr/pictures/uaCUyCUq_GjR3WXl0kgr-fBsDKc/0x109:4314x2536/432x243/filters:format(jpg)/2026/11/15/6af9672c9081f339877999.jpg",
-      "published_at": "2026-11-15T08:59:32+01:00",
-      "source": "France Info",
-      "category": "Sport",
-      "id": "723865599dda"
-    },
-    {
-      "title": "Le gouvernement interdit la vente de mortiers d’artifice jusqu’à fin novembre",
-      "url": "https://www.liberation.fr/societe/le-gouvernement-interdit-la-vente-de-mortiers-dartifice-jusqua-fin-novembre-20261115_JABUS45GTZD6VC35B4P76OLO2Y/",
-      "summary": "Inscrite ce dimanche 15 novembre au Journal officiel, la mesure porte sur les fusées F2 et F3, après plusieurs incidents relevés ces dernières semaines lors de la mobilisation des lycéens.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-11-15T07:54:04+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "1fa23e8a296d"
-    },
-    {
-      "title": "Une filiale de la Poste piratée, 22 millions de personnes concernées",
-      "url": "https://www.liberation.fr/economie/une-filiale-de-la-poste-piratee-22-millions-de-personnes-concernees-20261115_YHARNQX345BADFNXBPGKU2FY6Y/",
-      "summary": "L’entreprise Maileva a indiqué samedi 15 novembre avoir été victime d’un vol de données massif mi-septembre. Une enquête judiciaire est en cours.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-11-15T07:51:26+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "82da54fd4096"
-    },
-    {
-      "title": "Pour le président, la position de Marine Le Pen sur l'Ukraine \"est antipatriotique et irréaliste\", déclare l'entourage d'Emmanuel Macron",
-      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/le-president-veut-maintenir-l-ukraine-en-situation-de-donner-des-coups-alors-que-les-americains-s-occupent-de-l-enfoncer-affirme-l-entourage-d-emmanuel-macron_8283194.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le chef de l'Etat dénonce des \"candidats qui passent leur temps à vomir les Européens, à dénoncer les Ukrainiens\", a déclaré l'entourage d'Emmanuel Macron à France Inter.",
-      "image": "https://www.franceinfo.fr/pictures/vF9yHXcI9dFSryemKfVFM8SzGcQ/0x456:5351x3466/432x243/filters:format(jpg)/2026/11/15/6af95094b19c7363664118.jpg",
-      "published_at": "2026-11-15T08:48:43+01:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "c621e9c9e3dd"
-    },
-    {
-      "title": "Après 40 ans de règne, Volkswagen doit tout réapprendre en Chine",
-      "url": "https://www.numerama.com/vroom/2374243-apres-40-ans-de-regne-volkswagen-doit-tout-reapprendre-en-chine.html",
-      "summary": "40 ans au sommet, et voilà Volkswagen obligée de réapprendre son métier. En Chine, le réveil est brutal. Un édito Watt Else publié le 12 novembre 2026 au retour d'un séjour en Chine.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-11-15T07:48:00+00:00",
+      "title": "France-Turquie : où voir le match de foot en direct et en streaming ?",
+      "url": "https://www.numerama.com/pop-culture/2373649-france-turquie-ou-voir-le-match-de-foot-en-direct-et-en-streaming.html",
+      "summary": "L'Équipe de France n'est pas encore qualifiée pour les quarts de finale de la Ligue des nations, en raison de sa défaite face à l'Italie. Mais les Bleus reçoivent la Turquie, 0 point au compteur, pour la dernière journée. Le match est diffusé ce dimanche 15 novembre à 20h45, sur TF1 et TF1+.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-11-15T16:02:00+00:00",
       "source": "Numerama",
-      "category": "International",
-      "id": "cb7a3e2a42d5"
+      "category": "Sport",
+      "id": "5abb3f0dd9e9"
     },
     {
-      "title": "Sommet de la francophonie : Emmanuel Macron appelle à l’« unité » et au « consensus » face aux tensions entre la RDC et le Rwanda",
-      "url": "https://www.lemonde.fr/international/article/2026/11/15/somment-de-la-francophonie-emmanuel-macron-appelle-a-l-unite-et-au-consensus-face-aux-tensions-entre-la-rdc-et-le-rwanda_6810995_3210.html",
-      "summary": "Après huit ans et deux mandats de Louise Mushikiwabo, Kinshasa, qui accuse Kigali de soutenir le groupe armé rebelle du M23 dans ses provinces de l’Est, s’oppose à la reconduction de la Rwandaise à la tête de l’Organisation internationale de la francophonie.",
-      "image": "https://img.lemde.fr/2026/11/15/554/0/6652/3326/644/322/60/0/3289c2a_ftp-1-hqs21wpxr2q6-afp-d7hg6ul.jpg",
-      "published_at": "2026-11-15T08:45:48+01:00",
+      "title": "Alice Ekman, sinologue : « Malgré ses difficultés, la Chine veut accélérer la restructuration de la gouvernance mondiale et marginaliser les pays occidentaux »",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/15/alice-ekman-sinologue-malgre-ses-difficultes-la-chine-veut-accelerer-la-restructuration-de-la-gouvernance-mondiale-et-marginaliser-les-pays-occidentaux_6811033_3232.html",
+      "summary": "Pékin entend faire du sommet de la Coopération économique Asie-Pacifique (APEC), qui doit se tenir les 18 et 19 novembre, une vitrine de sa puissance dans le but de bâtir « un nouveau type de mondialisation sous son égide », assure la spécialiste de la Chine, dans un entretien au « Monde ».",
+      "image": "https://img.lemde.fr/2026/11/04/516/0/6192/3096/644/322/60/0/dcb375d_ftp-1-vqvwb5dwx0d5-afp-d6cu69e.jpg",
+      "published_at": "2026-11-15T17:00:20+01:00",
+      "source": "Le Monde Inter",
+      "category": "International",
+      "id": "ef52bb66c60c"
+    },
+    {
+      "title": "Au cœur du plus vibrant foyer culturel de Pologne, Cracovie, ville à l’honneur du festival parisien Un week-end à l’Est",
+      "url": "https://www.lemonde.fr/livres/article/2026/11/15/au-c-ur-du-plus-vibrant-foyer-culturel-de-pologne-cracovie-ville-a-l-honneur-du-festival-parisien-un-week-end-a-l-est_6811031_3260.html",
+      "summary": "L’énergie de la grande cité polonaise animera le festival Un week-end à l’Est, à Paris, du 16 au 28 novembre. Rencontre, sur place, avec quelques-uns de ses écrivains et artistes les plus en vue.",
+      "image": "https://img.lemde.fr/2026/11/10/264/0/2500/1250/644/322/60/0/59639a1_upload-1-2ffnvddpkt0s-kofman-double-bind-c-bartek-warzecha-10.jpg",
+      "published_at": "2026-11-15T17:00:15+01:00",
+      "source": "Le Monde Inter",
+      "category": "Culture",
+      "id": "ccc4c59124c1"
+    },
+    {
+      "title": "Présidentielle 2027 : Edouard Philippe accepte l’invitation de Gérard Larcher à une discussion des candidats de la droite et du centre, mais refuse toujours une primaire",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/15/presidentielle-2027-edouard-philippe-accepte-l-invitation-de-gerard-larcher-a-une-discussion-des-candidats-de-la-droite-et-du-centre-mais-refuse-toujours-une-primaire_6811029_823448.html",
+      "summary": "Le président du Sénat, Gérard Larcher, a proposé samedi aux candidats de la droite et du centre de se réunir pour trancher sur une « méthode de départage » permettant d’aboutir à une candidature unique « au début de l’année [2027] ».",
+      "image": "https://img.lemde.fr/2026/11/14/606/0/7276/3638/644/322/60/0/792c1c2_ftp-1-03yti63mefdb-afp-d7gf2zu.jpg",
+      "published_at": "2026-11-15T17:00:04+01:00",
+      "source": "Le Monde Politique",
+      "category": "Politique",
+      "id": "109e9143b86b"
+    },
+    {
+      "title": "Une soirée en boîte de nuit pour favoriser les rencontres entre personnes handicapées : « On a échangé nos numéros, on va essayer de se revoir »",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/15/une-soiree-en-boite-de-nuit-pour-favoriser-les-rencontres-entre-personnes-handicapees-on-a-echange-nos-numeros-on-va-essayer-de-se-revoir_6811028_3224.html",
+      "summary": "Près de Montpellier, plus de 270 personnes ont participé à une fête organisée par l’établissement d’accueil médicalisé Le Hameau des Horizons. Le fruit d’une réflexion des résidents et du personnel sur les freins à la vie affective et sexuelle des personnes en situation de handicap.",
+      "image": "https://img.lemde.fr/2026/11/04/788/0/9520/4760/644/322/60/0/673db41_upload-1-aymbykoecaeu-48-dav202610-d14-l1019474.jpg",
+      "published_at": "2026-11-15T16:48:54+01:00",
       "source": "Le Monde",
       "category": "Politique",
-      "id": "1a6e706a7c59"
+      "id": "874205b3f7ed"
     },
     {
-      "title": "Que faut-il attendre du sommet inédit entre Xi Jinping, Vladimir Poutine et Donald Trump, prévu jeudi en Chine ?",
-      "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/que-faut-il-attendre-du-sommet-inedit-entre-xi-jinping-vladimir-poutine-et-donald-trump-attendu-jeudi-en-chine_8282519.html#xtor=RSS-3-[lestitres]",
-      "summary": "Selon les présidences américaine et russe, les dirigeants de la Chine, de la Russie et des Etats-Unis se retrouveront à Shenzhen. Au-delà du symbole, les experts ne s'attendent pas à des annonces importantes.",
-      "image": "https://www.franceinfo.fr/pictures/DNKAv1cliEDBwofByHfeh76hu1s/0x344:6613x4063/432x243/filters:format(jpg)/2026/11/14/6af8646b20578252255303.jpg",
-      "published_at": "2026-11-15T08:24:37+01:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "a730ab845298"
-    },
-    {
-      "title": "Des câbles en cuivre vétustes à l'origine des perturbations de milliers de vols aux Etats-Unis, selon l'administration Trump",
-      "url": "https://www.franceinfo.fr/monde/usa/des-cables-en-cuivre-vetustes-a-l-origine-des-perturbations-de-milliers-de-vols-aux-etats-unis-selon-l-administration-trump_8283218.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le remplacement de câbles vétustes a \"provoqué des problèmes dans la communication avec les avions\" et aussi sur des radars, a détaillé samedi le ministre des Transports américain.",
-      "image": "https://www.franceinfo.fr/pictures/ZyCk4gsAlIHMgGWpnbdcQ7rBAs8/0x73:1024x649/432x243/filters:format(jpg)/2026/11/15/6af95bbe0d2a8046763407.jpg",
-      "published_at": "2026-11-15T08:14:19+01:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "9b17091eb30e"
-    },
-    {
-      "title": "Mort à 80 ans de l’ancien maire de Grenoble Michel Destot",
-      "url": "https://www.liberation.fr/politique/mort-a-80-ans-de-lancien-maire-de-grenoble-michel-destot-20261115_63I7RYUCMNESJFOMA7FN6FNTMM/",
-      "summary": "Le socialiste, qui dirigea la ville pendant trois mandats, fut également près de trente ans député de l’Isère.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-11-15T07:03:14+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "941f4c21d774"
-    },
-    {
-      "title": "Volodymyr Zelensky affirme que Washington a proposé des concessions territoriales en échange d'une adhésion de l'Ukraine à l'Otan",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymy-zelensky-affirme-que-les-etats-unis-ont-propose-des-concessions-territoriales-en-echange-d-une-adhesion-de-kiev-a-l-otan_8282333.html#xtor=RSS-3-[lestitres]",
-      "summary": "Jared Kushner, gendre de Donald Trump et émissaire de Washington sur la guerre en Ukraine, a simplement affirmé sur X que \"plusieurs nouvelles idées ont émergé\" après deux jours de pourparlers entre l'Ukraine et la Russie à Abou Dhabi, sous l'égide des Etats-Unis.",
-      "image": "https://www.franceinfo.fr/pictures/qKOKb50U-rV4sJ6hZHsGPL9W6mo/0x0:5396x3035/432x243/filters:format(jpg)/2026/11/14/6af83e0216aca168047724.jpg",
-      "published_at": "2026-11-15T07:19:04+01:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "27306daacafe"
-    },
-    {
-      "title": "« Les Nations unies vont-elles se vendre au plus offrant ? »",
-      "url": "https://www.lemonde.fr/un-si-proche-orient/article/2026/11/15/les-nations-unies-vont-elles-se-vendre-au-plus-offrant_6810991_6116995.html",
-      "summary": "La campagne des Emirats arabes unis pour s’emparer de la direction de l’ONU menace les fondements mêmes du multilatéralisme, estime Jean-Pierre Filiu dans sa chronique.",
-      "image": "https://img.lemde.fr/2026/11/09/504/0/6048/3024/644/322/60/0/5a47a71_ftp-1-gnea5spxzwbi-afp-d6xj7bq.jpg",
-      "published_at": "2026-11-15T07:00:08+01:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "ff3f8f5e827e"
-    },
-    {
-      "title": "L’Iran revendique une attaque de drones contre une base américaine à Bahreïn",
-      "url": "https://www.lemonde.fr/international/article/2026/11/15/l-iran-revendique-une-attaque-de-drones-contre-une-base-americaine-a-bahrein_6810990_3210.html",
-      "summary": "Les gardiens de la révolution iraniens avaient déjà annoncé, vendredi, une attaque contre un système de radar américain à Bahreïn, première frappe contre un pays du Golfe depuis le début de septembre.",
-      "image": "https://img.lemde.fr/2026/11/15/20/0/1356/678/644/322/60/0/78a9612_upload-1-rbvoysc1ymbx-capture-d-e-cran-2026-11-14-a-10-55-04-pm.png",
-      "published_at": "2026-11-15T06:58:52+01:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "865ef62df5e5"
-    },
-    {
-      "title": "L'Ukraine et la Russie bataillent dans l'espace pour se doter de constellations satellitaires souveraines",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-et-la-russie-bataillent-dans-l-espace-pour-se-doter-de-constellations-satellitaires-souveraines_8279132.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les deux belligérants cherchent des alternatives à Starlink, afin de disposer d'une infrastructure fiable pour leurs communications, notamment militaires.",
-      "image": "https://www.franceinfo.fr/pictures/kqOD-6-tDvmKReHL8oV1RNhHy7w/0x0:1655x931/432x243/filters:format(jpg)/2026/11/13/6af6edeb2ac1b590734822.jpg",
-      "published_at": "2026-11-15T06:50:36+01:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "b6b371caf176"
-    },
-    {
-      "title": "\"Ce n'est pas un simple jeu vidéo\" : comment les fans se préparent à la sortie de \"GTA VI\" après treize ans d'attente",
-      "url": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/temoignages-ce-n-est-pas-un-simple-jeu-video-comment-les-fans-se-preparent-a-la-sortie-de-gta-vi-apres-treize-ans-d-attente_8265593.html#xtor=RSS-3-[lestitres]",
-      "summary": "La franchise culte \"Grand Theft Auto\" a marqué de nombreux joueurs depuis sa création en 1997 par l'éditeur américain Rockstar Games. Pour profiter au mieux du nouvel opus, disponible jeudi, beaucoup ont investi et même pris des jours de congés.",
-      "image": "https://www.franceinfo.fr/pictures/1G0PJkDBQ578KEaZV_tClt7hu84/0x0:3840x2160/432x243/filters:format(jpg)/2026/11/03/6ae9f2a7454b6441435886.jpg",
-      "published_at": "2026-11-15T06:49:52+01:00",
+      "title": "Grièvement brûlée par son conjoint, une femme est morte près de Bordeaux",
+      "url": "https://www.franceinfo.fr/societe/feminicides/grievement-brulee-par-son-conjoint-une-femme-est-morte-pres-de-bordeaux_8283656.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'homme est mort dans l'incendie du domicile à Saint-Denis-de-Pile et la victime avait d'abord été \"évacuée en urgence\" au centre hospitalier de Bordeaux, avant de succomber à ses blessures.",
+      "image": "https://www.franceinfo.fr/pictures/0U-NFATwR-zlUDbtSDRtCyXhj58/0x391:5982x3756/432x243/filters:format(jpg)/2026/11/15/6af9ce6ca570b700294760.jpg",
+      "published_at": "2026-11-15T16:41:35+01:00",
       "source": "France Info",
       "category": "Sport",
-      "id": "2f801063ebcf"
+      "id": "c1f66248f47f"
     },
     {
-      "title": "Finales ATP : entre les blessures des uns et les progrès des autres, l’élite du tennis se renouvelle",
-      "url": "https://www.lemonde.fr/sport/article/2026/11/15/finales-atp-entre-les-blessures-des-uns-et-les-progres-des-autres-l-elite-du-tennis-se-renouvelle_6810989_3242.html",
-      "summary": "Quatre des huit joueurs engagés disputent pour la première fois le traditionnel tournoi de fin de saison, qui démarre le 15 novembre à Turin. Leur qualification tient autant à leurs performances qu’à la succession de pépins physiques qui ont touché les cadors du circuit.",
-      "image": "https://img.lemde.fr/2026/11/05/322/0/3865/1932/644/322/60/0/b028b65_ftp-1-mnx3bahy2cwd-afp-d6kk7v7.jpg",
-      "published_at": "2026-11-15T06:30:21+01:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "0240e1a86965"
-    },
-    {
-      "title": "Six mois d’épidémie d’Ebola en RDC : ils racontent leur vie en première ligne face au virus",
-      "url": "https://www.lemonde.fr/afrique/article/2026/11/15/six-mois-d-epidemie-d-ebola-en-rdc-ils-racontent-leur-vie-en-premiere-ligne-face-au-virus_6810987_3212.html",
-      "summary": "Depuis la déclaration officielle de l’épidémie le 15 mai, plus de 5 400 personnes en sont mortes en République démocratique du Congo. « Le Monde » est allé à la rencontre d’humanitaires, d’infirmiers, de victimes qui, chaque jour, font face à ce fléau invisible.",
-      "image": "https://img.lemde.fr/2026/11/12/584/0/7008/3504/644/322/60/0/ec621ad_upload-1-lwnlnctfp1wj-02-pb-lemonde-ebola-ituri-temoignages-acteurs-riposte.jpg",
-      "published_at": "2026-11-15T06:30:09+01:00",
+      "title": "Yémen : les forces gouvernementales redéploient leurs troupes des environs du détroit de Bab Al-Mandab vers Aden, menacée par les houthistes",
+      "url": "https://www.lemonde.fr/international/article/2026/11/15/yemen-les-forces-gouvernementales-redeploient-leurs-troupes-des-environs-du-detroit-de-bab-el-mandeb-vers-aden-menacee-par-les-houthistes_6811027_3210.html",
+      "summary": "Le retrait des troupes gouvernementales de la région de Bab Al-Mandab va permettre aux houthistes de consolider leur contrôle de ce détroit stratégique qui relie l’Asie à l’Europe via le canal de Suez. Ils y avaient déjà renforcé leur emprise en prenant tout le littoral ouest à l’issue d’une offensive éclair en septembre.",
+      "image": "https://img.lemde.fr/2026/11/13/115/0/3672/1836/644/322/60/0/00ebbb2_ftp-1-12z7ngo9pnue-2026-11-13t161552z-916091977-rc20noa79hbc-rtrmadp-3-ian-crisis-yemen-aden.JPG",
+      "published_at": "2026-11-15T16:33:16+01:00",
       "source": "Le Monde Inter",
-      "category": "International",
-      "id": "c4de47369d6c"
-    },
-    {
-      "title": "L’Arabie saoudite, un royaume pris en étau entre deux guerres, débordé par l’escalade des rivalités régionales",
-      "url": "https://www.lemonde.fr/international/article/2026/11/15/l-arabie-saoudite-un-royaume-pris-en-etau-entre-deux-guerres-deborde-par-l-escalade-des-rivalites-regionales_6810988_3210.html",
-      "summary": "Cible des représailles iraniennes et rattrapée par la guerre au Yémen, l’Arabie saoudite voit sa sécurité et ses appétits économiques mis à mal. Face à une protection américaine devenue incertaine et à la nouvelle dimension stratégique et militaire d’Israël, Riyad cherche à s’extraire de l’arc des conflits moyen-orientaux, mais peine à trouver les alliés nécessaires.",
-      "image": "https://img.lemde.fr/2026/10/15/430/0/4521/2260/644/322/60/0/edec89f_ftp-1-ecsowwizk5lr-2026-10-15t153251z-1370989464-rc243oaqiyhf-rtrmadp-3-iran-crisis-aramco.JPG",
-      "published_at": "2026-11-15T06:30:01+01:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "20dc7ba1186c"
-    },
-    {
-      "title": "Le lent déclin économique de la France face au reste de l’Europe",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html",
-      "summary": "L’Hexagone affiche l’une des plus faibles croissances européennes cette année. Un phénomène qui accentue la chute du pays dans le classement européen en PIB par habitant, désormais en dessous de la moyenne.",
-      "image": "https://img.lemde.fr/2026/11/13/399/0/5700/2850/644/322/60/0/8a4f3b3_upload-1-z9mvgb5tupsr-000-c9428we.jpg",
-      "published_at": "2026-11-15T06:15:07+01:00",
-      "source": "Le Monde",
-      "category": "Économie",
-      "id": "f9a756ec99e2"
-    },
-    {
-      "title": "« Les élections au Brésil, aux Etats-Unis et en Israël ont vu la défaite des partis qui ont misé sur la provocation sur les réseaux sociaux »",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/15/les-elections-au-bresil-aux-etats-unis-et-en-israel-ont-vu-la-defaite-des-partis-qui-ont-mise-sur-la-provocation-sur-les-reseaux-sociaux_6810983_3232.html",
-      "summary": "Si les récentes campagnes électorales ont vu la multiplication d’attaques en ligne et de contenus générés par IA, les résultats électoraux ont démontré que tout l’activisme du monde sur les réseaux ne compense pas un mauvais programme ou un bilan catastrophique, observe, dans sa chronique, Damien Leloup, journaliste au service Pixels du « Monde ».",
-      "image": "https://img.lemde.fr/2026/10/24/500/0/6000/3000/644/322/60/0/22255bd_ftp-1-f4y3xe0qhyks-2026-10-24t090028z-1910329474-rc2pwnawrwd9-rtrmadp-3-brazil-election-social-media.JPG",
-      "published_at": "2026-11-15T06:15:06+01:00",
-      "source": "Le Monde",
       "category": "Politique",
-      "id": "f01ff2f6296f"
+      "id": "0c2a3e872e6e"
+    },
+    {
+      "title": "Crise au Paraguay : les dix jours où le crash d’une banque a fait sauter le pays",
+      "url": "https://www.liberation.fr/international/amerique/crise-au-paraguay-les-dix-jours-ou-le-crash-dune-banque-a-fait-sauter-le-pays-20261115_YNIWRBCUTBBGJEMDX5NQL7TBHM/",
+      "summary": "La faillite de Ueno Bank, dont près de la moitié de la population était cliente, a provoqué la destitution du président conservateur, étroitement lié à l’établissement. Et chaque jour apporte de nouvelles révélations sur le scandale financier.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-11-15T15:31:25+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "a34a587ee0b7"
+    },
+    {
+      "title": "Après l’agression de journalistes de BFM-TV lors de la manifestation du 14 novembre à Lyon, une enquête ouverte pour violences en réunion",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/15/apres-l-agression-de-journalistes-de-bfm-tv-a-lyon-une-enquete-a-ete-ouverte-pour-violences-en-reunion_6811026_3224.html",
+      "summary": "« Mon caméraman a été violemment projeté au sol, puis roué de coups. Certains sont allés jusqu’à crier “Brûlez-le !” », a dit l’une des journalistes. Samedi, la direction de BFM-TV avait condamné « ces attaques physiques ».",
+      "image": "https://img.lemde.fr/2026/11/14/500/0/6000/3000/644/322/60/0/6863c3e_ftp-1-cd70vu3jqyax-afp-d7gv23f.jpg",
+      "published_at": "2026-11-15T16:30:19+01:00",
+      "source": "Le Monde",
+      "category": "Société",
+      "id": "adb2a4bdd05e"
+    },
+    {
+      "title": "Sommet de la francophonie : à Phnom Penh, une succession sous tension",
+      "url": "https://www.liberation.fr/international/sommet-de-la-francophonie-a-phnom-penh-une-succession-sous-tension-20261115_NRACYD5AQNDZLBE2EBXZQXC7Z4/",
+      "summary": "Les membres de l’Organisation internationale de la francophonie doivent désigner leur secrétaire général lundi 16 novembre. Sur fond de conflit entre le Rwanda et la RDC, les tentatives françaises de compromis peinent à aboutir.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-11-15T15:22:34+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "b352a4ea0b27"
+    },
+    {
+      "title": "Présidentielle 2027 : \"Cette primaire, je n'y participerai pas\", répète Edouard Philippe après l'appel de Gérard Larcher",
+      "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-l-entourage-d-emmanuel-macron-etrille-les-candidats-qui-veulent-baisser-l-aide-financiere-a-l-ukraine-dont-marine-le-pen_8283293.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le président du Sénat a proposé aux candidats de la droite et du centre de \"se retrouver dans les meilleurs délais\" pour évoquer \"la méthode de départage\" permettant d'aboutir à une candidature unique à la présidentielle.",
+      "image": "https://www.franceinfo.fr/pictures/-F5N-Kp55A2nQQ9y2YAPzp17kVQ/0x0:7961x4478/432x243/filters:format(jpg)/2026/11/15/6af9c6ee98651755391774.jpg",
+      "published_at": "2026-11-15T16:16:05+01:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "8675e017f178"
+    },
+    {
+      "title": "«Come Out» d’Olivier Dubois : à corps parfaits",
+      "url": "https://www.liberation.fr/culture/scenes/come-out-dolivier-dubois-a-corps-parfaits-20261115_54CHNV3UDZGZTBMKGXORES4MFM/",
+      "summary": "Le chorégraphe recrée la pièce emblématique de Steve Reich dans un hypnotique et puissant ballet de quatorze danseurs cadencés au son du compositeur minimaliste américain.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-11-15T15:15:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "29e3a10c7fe9"
+    },
+    {
+      "title": "Le ministre de l'Education nationale se rend à Nantes lundi pour la réouverture du lycée Nelson-Mandela, en partie incendié le 1er octobre",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministre-de-l-education-nationale-se-rend-a-nantes-lundi-pour-la-reouverture-du-lycee-nelson-mandela-en-partie-incendie-le-1er-octobre_8283644.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'établissement avait été en partie endommagé lors d'un blocage pendant le mouvement lycéen dont le sinistre est devenu l'un des premiers symboles des débordements survenus en marge de la mobilisation.",
+      "image": "https://www.franceinfo.fr/pictures/kk3UuiM4-oCmKYfgFu7bohjE-k4/0x589:1530x1450/432x243/filters:format(jpg)/2026/10/02/6abf51a902347279172385.jpg",
+      "published_at": "2026-11-15T16:11:34+01:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "3ade5724cc97"
+    },
+    {
+      "title": "La France et le Cambodge scellent leur \"partenariat renouvelé\" avec 29 accords",
+      "url": "https://www.franceinfo.fr/monde/asie/la-france-et-le-cambodge-scellent-leur-partenariat-renouvele-avec-29-accords_8283617.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les domaines de la santé, de la culture, du patrimoine, de la défense, mais aussi de l'énergie et de l'agroalimentaire sont concernés.",
+      "image": "https://www.franceinfo.fr/pictures/3b_LXNWxFuirW18tnsehCIkbpL4/0x0:3532x1986/432x243/filters:format(jpg)/2026/11/15/6af9c151dedb3680763166.jpg",
+      "published_at": "2026-11-15T16:06:22+01:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "55e7ed1a355f"
+    },
+    {
+      "title": "L'Iran fait état de deux pétroliers en feu dans le détroit d'Ormuz",
+      "url": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/l-iran-fait-etat-de-deux-petroliers-en-feu-dans-le-detroit-d-ormuz_8283602.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'un des deux navires, \"un superpétrolier transportant plus de 2 millions de barils de pétrole brut\", a coulé.",
+      "image": "https://www.franceinfo.fr/pictures/_OTxx5wGVk-gIR_fgkROyn2ii84/0x347:3338x2225/432x243/filters:format(jpg)/2026/11/15/6af9bc7fa25d5881664689.jpg",
+      "published_at": "2026-11-15T15:57:13+01:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "271559f643a0"
+    },
+    {
+      "title": "Le programme de Mélenchon : un toboggan vers une France appauvrie, par Alexandra Roulet",
+      "url": "https://www.liberation.fr/idees-et-debats/opinions/le-programme-de-melenchon-un-toboggan-vers-une-france-appauvrie-par-alexandra-roulet-20261115_6UCVHCU5WZCDTACBLP6DQG7R2U/",
+      "summary": "Si certaines orientations défendues par le candidat LFI au Bourget sont souhaitables, plusieurs choix structurants, sur le partage du travail, l’IA, le nucléaire et le financement desserviraient les intérêts des Français, et notamment des plus fragiles, analyse l’économiste.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-11-15T14:54:14+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "d98766396319"
+    },
+    {
+      "title": "Réchauffement climatique : cessons de voir les scientifiques comme des prophètes de malheur",
+      "url": "https://www.liberation.fr/environnement/climat/rechauffement-climatique-cessons-de-voir-les-scientifiques-comme-des-prophetes-de-malheur-20261115_XPD4LJCT2FFIXDKOR6V34SDYYM/",
+      "summary": "Le discours des experts du climat est souvent jugé anxiogène. Pourtant, ils ne cessent de nous dire qu’il est encore temps d’agir. A quelques jours de la fin de la COP31 et à quelques mois de la présidentielle, la balle est dans le camp des politiques.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-11-15T14:51:40+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "4dd67a3ae9ec"
+    },
+    {
+      "title": "Dans le sud du Texas, la révolte contre le mur de Trump : «La seule invasion, ici, c’est celle du gouvernement fédéral»",
+      "url": "https://www.liberation.fr/international/dans-le-sud-du-texas-la-revolte-contre-le-mur-de-trump-la-seule-invasion-ici-cest-celle-du-gouvernement-federal-20261115_3MU5T7M34FAGLPZTVV5CTUCTFA/",
+      "summary": "Dans la région désertique de Big Bend, qui accueille le parc national du même nom, la Cour suprême vient d’autoriser la reprise de la construction d’un mur à la frontière du Mexique. Les habitants, qu’importe leur bord politique, dénoncent une décision injuste, à l’impact délétère sur leur quotidien.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-11-15T14:45:00+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "2d2833b4004a"
+    },
+    {
+      "title": "\"Je suis là pour vivre un moment spécial de ma vie\" : à 46 ans, Ronaldinho rechausse les crampons pour un match officiel en troisième division italienne",
+      "url": "https://www.franceinfo.fr/sports/foot/je-suis-la-pour-vivre-un-moment-special-de-ma-vie-a-46-ans-ronaldinho-rechausse-les-crampons-pour-un-match-officiel-en-troisieme-division-italienne_8283596.html#xtor=RSS-3-[lestitres]",
+      "summary": "L'ancien Ballon d'or 2005 et champion du monde 2002 n'avait plus disputé de match officiel depuis onze ans. Un événement autant marketing que sportif.",
+      "image": "https://www.franceinfo.fr/pictures/wyu40EPYQGUvq1_ydTBmzD55yUc/0x279:5392x3312/432x243/filters:format(jpg)/2026/11/15/6af9b8260f9a7869920459.jpg",
+      "published_at": "2026-11-15T15:39:37+01:00",
+      "source": "France Info",
+      "category": "Sport",
+      "id": "79ed43d3b4e6"
+    },
+    {
+      "title": "Primaire à droite : au tour de Gérard Larcher de demander une réunion entre candidats",
+      "url": "https://www.liberation.fr/politique/primaire-a-droite-au-tour-de-gerard-larcher-de-demander-une-reunion-entre-candidats-20261114_GEGE46CXONGIDOR67OIMO4SHYE/",
+      "summary": "Le président LR du Sénat propose aux candidats une réunion «dans les meilleurs délais» pour évoquer une «méthode de départage» qui aboutirait à une candidature unique. La pression s’accentue sur Edouard Philippe, qui refuse de participer à une primaire.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-11-15T14:35:11+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "bd7f37bba78c"
     }
   ]
 }
