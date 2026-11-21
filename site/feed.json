@@ -1,7 +1,277 @@
 {
-  "generated_at": "2026-11-20T19:57:12.804244+00:00",
+  "generated_at": "2026-11-21T01:20:02.918972+00:00",
   "article_count": 30,
   "articles": [
+    {
+      "title": "En Seine-Maritime, le Cailly refait son lit",
+      "url": "https://www.liberation.fr/forums/en-seine-maritime-le-cailly-refait-son-lit-20261121_WB2WVL5V6ZCGZL76BIRNKECBFA/",
+      "summary": "Enterrée dans les années 60, la rivière va refaire surface grâce à des travaux, prévus en 2027, qui permettront de recréer une continuité écologique avec la Seine.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-11-21T00:50:00+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "763dd1d96d8f"
+    },
+    {
+      "title": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’intelligence artificielle",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+      "summary": "Les inquiétudes sur le modèle économique des entreprises, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de dollars de valorisation, la Bourse américaine vivant une de ses pires semaines depuis la crise liée au Covid.",
+      "image": "https://img.lemde.fr/2026/11/17/145/0/8640/4320/644/322/60/0/1aac9c6_ftp-1-bl2mjk8u5plu-723cd91866ad4c908c14cab2908a80fe-0-22cb69999ee142a0a4ae95c6c2e55cd5.jpg",
+      "published_at": "2026-11-21T01:33:30+01:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "9703f79f5f78"
+    },
+    {
+      "title": "Jusqu'à deux ans de prison ferme et le caractère raciste des violences retenu pour les trois policiers accusés d'avoir roué de coups Michel Zecler",
+      "url": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-condamnations-allant-d-un-an-a-deux-ans-de-prison-ferme-pour-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8292287.html#xtor=RSS-3-[lestitres]",
+      "summary": "La cour criminelle de Paris a rendu son verdict très attendu, vendredi soir, face à un public venu en nombre, et a finalement retenu la circonstance aggravante de racisme. Les peines vont de un an sous bracelet électronique à deux ans de prison ferme.",
+      "image": "https://www.franceinfo.fr/pictures/mUce-5pfICvv5UodXjzk4q_zQz4/0x28:5315x3018/432x243/filters:format(jpg)/2026/11/21/6b00d3309e766622813542.jpg",
+      "published_at": "2026-11-21T01:26:28+01:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "a475bc1452e8"
+    },
+    {
+      "title": "« GTA VI » s’offre un lancement record avec 3,79 milliards de dollars de ventes dès le premier jour",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/21/gta-vi-s-offre-un-lancement-record-avec-3-79-milliards-de-dollars-de-ventes-des-le-premier-jour_6813745_4408996.html",
+      "summary": "Ces revenus, équivalents à 3,5 milliards d’euros environ, sont près de cinq fois supérieurs à ceux générés en vingt-quatre heures par la version précédente de la mythique saga de « Grand Theft Auto », en 2013. Le jeu vidéo, lancé jeudi, a été salué par la critique.",
+      "image": "https://img.lemde.fr/2026/11/19/181/0/6000/3000/644/322/60/0/2339ee9_ftp-1-iog45s2jy4zp-2305932040.jpg",
+      "published_at": "2026-11-21T01:13:13+01:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "5ebf853562b4"
+    },
+    {
+      "title": "Au procès de l’interpellation de Michel Zecler, le caractère raciste des violences retenu, trois policiers condamnés à des peines de prison ferme et l’espoir d’une « jurisprudence »",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/21/au-proces-de-l-interpellation-de-michel-zecler-le-caractere-raciste-des-violences-retenu-trois-policiers-condamnes-a-des-peines-de-prison-ferme-et-l-espoir-d-une-jurisprudence_6813718_3224.html",
+      "summary": "Contrôlé en 2020 devant son studio de musique, le producteur avait été tabassé par les agents, qui avaient ensuite prétendu sur procès-verbal qu’il les avait agressés. Une version démentie par les images filmées par une caméra de surveillance.",
+      "image": "https://img.lemde.fr/2026/11/20/0/0/5144/2572/644/322/60/0/0ee0e4b_ftp-1-rkpzyby0pscn-2026-11-20t094309z-113922976-rc2lroav1l6q-rtrmadp-3-france-justice-zecler.JPG",
+      "published_at": "2026-11-21T00:46:36+01:00",
+      "source": "Le Monde",
+      "category": "Culture",
+      "id": "3a55b90cc699"
+    },
+    {
+      "title": "Etats-Unis : un juge valide un accord d’indemnisation par Bayer de 7,25 milliards de dollars pour solder l’ensemble des plaintes liées au Roundup",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/21/etats-unis-un-juge-valide-un-accord-d-indemnisation-par-bayer-de-7-25-milliards-de-dollars-pour-solder-l-ensemble-des-plaintes-liees-au-roundup_6813717_3244.html",
+      "summary": "Cette indemnisation « ne comporte aucune reconnaissance de responsabilité ou de faute », avait précisé en février le géant de l’agrochimie, qui a racheté Monsanto en 2018.",
+      "image": "https://img.lemde.fr/2026/04/27/684/0/8192/4096/644/322/60/0/874de26_ftp-1-89jmyvuosf6a-5879674-01-06.jpg",
+      "published_at": "2026-11-21T00:25:01+01:00",
+      "source": "Le Monde",
+      "category": "Économie",
+      "id": "4fadf796c725"
+    },
+    {
+      "title": "Transition écologique : nous serons ce que nous produirons",
+      "url": "https://www.liberation.fr/forums/transition-ecologique-nous-serons-ce-que-nous-produirons-20261121_I54L6QPHZZGPBBUGYRBOGZOY3Y/",
+      "summary": "Produire en France ou en Europe est un choix de société et un impératif pour nos économies et notre indépendance énergétique.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-11-20T23:20:00+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "bd7a9f72713d"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Emmanuel Macron dénonce un « agenda agressif » de la Russie sur le « territoire européen »",
+      "url": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-emmanuel-macron-denonce-un-agenda-agressif-de-la-russie-sur-le-territoire-europeen_6810982_3210.html",
+      "summary": "« La Russie fait un pari irresponsable qui ne peut que l’isoler davantage et renforcer la détermination et l’unité des Européens », a déclaré le président de la République, après une série d’« incidents graves », en Pologne, en Moldavie ou au Danemark.",
+      "image": "https://img.lemde.fr/2026/11/20/685/0/8224/4112/644/322/60/0/efbf849_ftp-1-uton6zw7rupn-afp-d86z2cl.jpg",
+      "published_at": "2026-11-21T00:13:26+01:00",
+      "source": "Le Monde Inter",
+      "category": "Politique",
+      "id": "13a623db6016"
+    },
+    {
+      "title": "Guerre en Ukraine : Emmanuel Macron dénonce un \"agenda agressif\" de la Russie, après une série d'\"incidents graves\", notamment en Pologne et au Danemark",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-un-missile-russe-tombe-dans-le-sud-est-de-la-pologne-sans-faire-de-blesse_8292080.html#xtor=RSS-3-[lestitres]",
+      "summary": "Des missiles russes sont tombés vendredi en Pologne, non loin de la frontière ukrainienne, sans faire de blessé.",
+      "image": "https://www.franceinfo.fr/pictures/izQJ5PMUXr-6C22CfOWQASAnr3c/0x53:1024x629/432x243/filters:format(jpg)/2026/11/16/6afb597e4670a357573193.jpg",
+      "published_at": "2026-11-20T23:54:33+01:00",
+      "source": "France Info",
+      "category": "International",
+      "id": "035b5c6445a3"
+    },
+    {
+      "title": "Cisjordanie occupée : un Palestinien tué par un garde de sécurité d’une colonie israélienne près de Ramallah",
+      "url": "https://www.lemonde.fr/international/article/2026/11/20/cisjordanie-occupee-un-palestinien-tue-par-un-garde-de-securite-d-une-colonie-israelienne-pres-de-ramallah_6813716_3210.html",
+      "summary": "L’armée israélienne a annoncé l’interpellation d’un homme qui se trouvait avec la victime.",
+      "image": "https://img.lemde.fr/2020/07/02/291/0/3500/1750/644/322/60/0/3982560_96363018-571020.jpg",
+      "published_at": "2026-11-20T23:38:27+01:00",
+      "source": "Le Monde Inter",
+      "category": "Sport",
+      "id": "79568b7a5bdc"
+    },
+    {
+      "title": "Présidentielle 2027 : Dominique de Villepin officialise sa candidature, entre geste gaullien et référence révolutionnaire",
+      "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/20/presidentielle-2027-dominique-de-villepin-officialise-sa-candidature-entre-geste-gaullien-et-reference-revolutionnaire_6813715_6205049.html",
+      "summary": "Après le faux départ de 2012, l’ancien premier ministre entend bien être présent au premier tour en avril. A 73 ans, il se frottera peut-être pour la première fois au suffrage universel. Il a dévoilé vendredi ses premières propositions et livré un réquisitoire implacable contre les différents partis.",
+      "image": "https://img.lemde.fr/2026/11/20/1304/0/7824/3912/644/322/60/0/179f10c_ftp-1-vbs4jp83yis5-afp-d84a6uh.jpg",
+      "published_at": "2026-11-20T23:25:50+01:00",
+      "source": "Le Monde",
+      "category": "Politique",
+      "id": "b00c8e9719cb"
+    },
+    {
+      "title": "L'auteur du tir de mortier d'artifice contre la députée LFI Farida Amrani a été condamné à 10 mois de bracelet électronique",
+      "url": "https://www.franceinfo.fr/faits-divers/l-auteur-du-tir-de-mortier-d-artifice-contre-la-deputee-lfi-farida-amrani-a-ete-condamne-a-10mois-de-bracelet-electronique_8293004.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le 7 novembre, un individu masqué était entré dans un salon de coiffure d'Evry-Courcouronnes (Essonne) où se trouvait l'élue. Elle avait été légèrement blessée.",
+      "image": "https://www.franceinfo.fr/pictures/gT6RiLwc-e10hQDvcBrahV2b2SE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/20/6b00bf7a5344f160884588.jpg",
+      "published_at": "2026-11-20T22:55:57+01:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "2156839385cc"
+    },
+    {
+      "title": "Députés et sénateurs parviennent à un accord sur le projet de budget de \"fin de gestion\" pour 2026, avant une possible adoption définitive mardi",
+      "url": "https://www.franceinfo.fr/economie/budget/deputes-et-senateurs-parviennent-a-un-accord-sur-le-projet-de-budget-de-fin-de-gestion-pour-2026-avant-une-possible-adoption-definitive-mardi_8292914.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le texte, qui procède aux derniers ajustements budgétaires de l'année en cours, a fait l'objet d'un accord en commission mixte paritaire.",
+      "image": "https://www.franceinfo.fr/pictures/T3RQHlyV5gPBqLB7Ou9Q7C6C120/0x53:1024x629/432x243/filters:format(jpg)/2026/11/20/6b00b4274f82f346232064.jpg",
+      "published_at": "2026-11-20T22:35:30+01:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "96576fd3c7b4"
+    },
+    {
+      "title": "Dix personnes mises en examen pour avoir escroqué des cryptomonnaies et des métaux précieux après des piratages informatiques de sociétés spécialisées",
+      "url": "https://www.franceinfo.fr/faits-divers/dix-personnes-mises-en-examen-pour-avoir-escroque-des-cryptomonnaies-et-des-metaux-precieux-apres-des-piratages-informatiques-de-societes-specialisees_8292965.html#xtor=RSS-3-[lestitres]",
+      "summary": "Les malfaiteurs étaient très organisés. Un commanditaire ciblait les bases de données à voler, tandis que des \"callers\" contactaient les victimes pour les inciter à transférer leurs fonds avant que d'autres individus se rendent chez les victimes pour dérober leurs actifs.",
+      "image": "https://www.franceinfo.fr/pictures/fraMHoUhNyqI2J0I5RhCi3IZeMk/0x0:1280x720/432x243/filters:format(jpg)/2025/11/19/untitled-691e13d79f936055680858.jpg",
+      "published_at": "2026-11-20T22:29:29+01:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "6a17ab6b0589"
+    },
+    {
+      "title": "Procès de l’agression de Michel Zecler : les trois policiers condamnés à de la prison ferme, le caractère raciste retenu",
+      "url": "https://www.liberation.fr/societe/police-justice/proces-de-lagression-de-michel-zecler-les-trois-policiers-condamnes-a-de-la-prison-ferme-le-caractere-raciste-retenu-20261120_XYMUA36HLVC7XAAVSGIWMAGYCE/",
+      "summary": "Aurélien Lapersonne, Philippe Tondeux et Pierre Plantier ont été condamnés à des peines allant d’une à deux années fermes ce vendredi 20 novembre. La cour criminelle départementale de Paris a finalement reconnu la circonstance aggravante du racisme. L’avocat de Michel Zecler a parlé de «succès» et de «décision qui fait date»",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
+      "published_at": "2026-11-20T21:20:11+00:00",
+      "source": "Libération",
+      "category": "Société",
+      "id": "677e6d2e8af3"
+    },
+    {
+      "title": "En Suisse aussi, la jeunesse descend dans la rue contre « un avenir bouché »",
+      "url": "https://www.lemonde.fr/international/article/2026/11/20/en-suisse-aussi-la-jeunesse-descend-dans-la-rue-contre-un-avenir-bouche_6813714_3210.html",
+      "summary": "Plusieurs dizaines de milliers de jeunes ont manifesté vendredi 20 novembre dans les grandes villes du pays alpin. Austérité budgétaire, coupes dans les services publics, pouvoir d’achat, coût du logement et crise climatique alimentaient les slogans.",
+      "image": "https://img.lemde.fr/2026/11/20/416/0/5000/2500/644/322/60/0/1a19530_ftp-1-7j4w0q681gqd-afp-d8476nq.jpg",
+      "published_at": "2026-11-20T22:12:29+01:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "e43fab329e7d"
+    },
+    {
+      "title": "\"GTA VI, le jeu vidéo qui rend la planète folle\" : regardez le documentaire de franceinfo consacré à la sortie mondiale la plus attendue des gamers",
+      "url": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/direct-gta-vi-le-jeu-video-qui-rend-la-planete-folle-regardez-le-documentaire-de-franceinfo-consacre-a-la-sortie-mondiale-la-plus-attendue-des-gamers_8291969.html#xtor=RSS-3-[lestitres]",
+      "summary": "Le nouvel opus de \"Grand Theft Auto\" est devenu un événement planétaire. Mais pour quelles raisons ? Quelle est la recette du succès de la franchise ?",
+      "image": "https://www.franceinfo.fr/pictures/_8HxAG-uzJIxtC-qKslMfrmODPg/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/20/6b002438de414770473403.png",
+      "published_at": "2026-11-20T22:06:18+01:00",
+      "source": "France Info",
+      "category": "Société",
+      "id": "79dce0ba02cf"
+    },
+    {
+      "title": "Julien Perrot, «inclus dans quelque chose de très grand»",
+      "url": "https://www.liberation.fr/forums/julien-perrot-inclus-dans-quelque-chose-de-tres-grand-20261120_34GKER7W4ZA45EPFQIO56AF4VY/",
+      "summary": "Le naturaliste suisse à la tête de la maison d’édition la Salamandre, créateur de fanzines et de documentaires, pense la biodiversité comme un lieu d’apaisement à réinvestir pour mieux la protéger.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-11-20T21:06:00+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "58ac366db6e1"
+    },
+    {
+      "title": "Affaire des fuites d’infos de l’Intérieur vers le RN : le sort du préfet Hugues Moutouh en suspens",
+      "url": "https://www.liberation.fr/societe/police-justice/en-diret-affaire-des-fuites-dinfos-de-linterieur-vers-le-rn-le-prefet-suspecte-convoque-en-fin-de-matinee-par-laurent-nunez-20261120_WG2TEKBGI5E4HOV6APKLT4AM6I/",
+      "summary": "Des perquisitions ont eu lieu ces dernières semaines au siège du parti de Marine Le Pen et à Beauvau, dans le cadre d’une enquête judiciaire pour des soupçons de transmissions d’informations confidentielles au profit du parti d’extrême droite.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-11-20T20:54:48+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "1f638102d84c"
+    },
+    {
+      "title": "Le patron de Malakoff Humanis, Thomas Saunier, visé par une enquête pour corruption, démis de ses fonctions",
+      "url": "https://www.liberation.fr/societe/le-patron-de-malakoff-humanis-thomas-saunier-vise-par-une-enquete-pour-corruption-demis-de-ses-fonctions-20261120_U4GLNJEDV5D5BPPEPDNQPEQ77Y/",
+      "summary": "Le directeur général depuis 10 ans du poids lourd de l’assurance n’avait plus la confiance des syndicats et du patronat. Il a été débarqué ce vendredi 20 novembre.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "published_at": "2026-11-20T20:43:10+00:00",
+      "source": "Libération",
+      "category": "Sport",
+      "id": "0eacf6345879"
+    },
+    {
+      "title": "Génocide des Rohingya : la Cour internationale de justice « confirme qu’elle est indubitablement la boussole du droit international »",
+      "url": "https://www.lemonde.fr/international/article/2026/11/20/genocide-des-rohingya-la-cour-internationale-de-justice-confirme-qu-elle-est-indubitablement-la-boussole-du-droit-international_6813702_3210.html",
+      "summary": "En reconnaissant le génocide des Rohingya commis par la Birmanie, la plus haute Cour de l’ONU établit pour la première fois la responsabilité d’un Etat dans « le crime des crimes ». Alors que l’Afrique du Sud a saisi l’institution contre Israël, accusant l’Etat hébreu d’un génocide contre les Palestiniens de Gaza, cet arrêt pourrait faire jurisprudence.",
+      "image": "https://img.lemde.fr/2026/11/20/816/0/4928/2464/644/322/60/0/cc22378_ftp-1-7jkzpxcagury-afp-d83v29f.jpg",
+      "published_at": "2026-11-20T21:38:52+01:00",
+      "source": "Le Monde",
+      "category": "International",
+      "id": "577a9f61ee62"
+    },
+    {
+      "title": "GTA VI a été vendu à 32,5 millions d’exemplaires, générant 3,79 milliards de dollars le jour de sa sortie",
+      "url": "https://www.liberation.fr/culture/jeux-video/gta-vi-a-ete-vendu-a-325-millions-dexemplaires-generant-379-milliards-de-dollars-le-jour-de-sa-sortie-20261120_YAPSE5MSI5FRDILZLHJ2ENSWPU/",
+      "summary": "En 24 heures et grâce aux pré-commandes, le jeu vidéo a battu un «record» selon son éditeur Rockstar Games. C’est cinq fois plus que son prédécesseur en 2013, GTA V.",
+      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
+      "published_at": "2026-11-20T20:35:31+00:00",
+      "source": "Libération",
+      "category": "Économie",
+      "id": "8691aecf46e1"
+    },
+    {
+      "title": "«Une funeste connerie» : bronca des créateurs de contenu contre les nouvelles mesures de l’Arcom pour le pluralisme",
+      "url": "https://www.liberation.fr/economie/medias/une-funeste-connerie-bronca-des-createurs-de-contenu-contre-les-nouvelles-mesures-de-larcom-pour-le-pluralisme-20261120_R5C6BOL6WNG3DOZIOIIQLFITYU/",
+      "summary": "Au lendemain de l’annonce du régulateur de l’audiovisuel et du numérique, de nombreux influenceurs, comme Jean Massiet ou Gaspard G, s’offusquent de ces nouvelles règles en vue de la présidentielle.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
+      "published_at": "2026-11-20T20:34:01+00:00",
+      "source": "Libération",
+      "category": "Politique",
+      "id": "82e304818e35"
+    },
+    {
+      "title": "Les ventes de \"GTA VI\" ont généré 3,79 milliards de dollars le jour de sa sortie, selon l'éditeur du jeu vidéo",
+      "url": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/les-ventes-de-gta-vi-ont-atteint-3-79-milliards-de-dollars-le-jour-de-sa-sortie-selon-l-editeur-du-jeu-video_8292920.html#xtor=RSS-3-[lestitres]",
+      "summary": "Ce chiffre représente près de cinq fois les quelque 800 millions de dollars que son prédécesseur, \"Grand Theft Auto V\", avait générés au cours de ses premières 24 heures en 2013.",
+      "image": "https://www.franceinfo.fr/pictures/eugdg3gsyLm-l5sPyO9wTN-UJ2Q/0x53:1024x629/432x243/filters:format(jpg)/2026/11/20/6b00a6923b7e1023553155.jpg",
+      "published_at": "2026-11-20T21:30:34+01:00",
+      "source": "France Info",
+      "category": "Économie",
+      "id": "774ef6c5754d"
+    },
+    {
+      "title": "Jean-Michel Jarre, l’homme machines",
+      "url": "https://www.liberation.fr/culture/musique/jean-michel-jarre-lhomme-machines-20261120_P4KROCFBPNBRFNJ6BJ52OJRV6M/",
+      "summary": "Sortie en librairie de «Machines», recueil des instruments électroniques que Jean-Michel Jarre collectionne depuis près de cinquante ans.",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
+      "published_at": "2026-11-20T20:17:00+00:00",
+      "source": "Libération",
+      "category": "International",
+      "id": "f12febdf7f46"
+    },
+    {
+      "title": "Un square aux noms de Zyed et Bouna bientôt, place de la Nation",
+      "url": "https://www.lemonde.fr/politique/video/2026/11/20/un-square-aux-noms-de-zyed-et-bouna-bientot-sur-la-place-de-la-nation_6813701_823448.html",
+      "summary": "Sur proposition du maire, Emmanuel Grégoire, le Conseil de Paris a voté, vendredi 20 novembre, pour que les noms des deux adolescents morts en 2005 figurent sur une emprise de la place, dans le 11ᵉ arrondissement",
+      "image": "https://img.lemde.fr/2026/11/20/292/0/3504/1752/644/322/60/0/68bd8a5_upload-1-ikpwlswqzo2m-68bd8a5-ftp-import-images-1-k5yc7cq7yfiz-5239046-01-06.jpg",
+      "published_at": "2026-11-20T21:12:42+01:00",
+      "source": "Le Monde Politique",
+      "category": "Sport",
+      "id": "0c89e8f71647"
+    },
+    {
+      "title": "Le logement est le premier poste de dépense qui \"ampute le pouvoir d'achat\" des Français, souligne Christophe Robert, de la Fondation pour le logement des défavorisés",
+      "url": "https://www.franceinfo.fr/elections/le-logement-est-le-premier-poste-de-depense-qui-ampute-le-pouvoir-d-achat-des-francais-souligne-christophe-robert-de-la-fondation-pour-le-logement-des-defavorises_8292908.html#xtor=RSS-3-[lestitres]",
+      "summary": "À cinq mois de l'élection présidentielle, la Fondation pour le logement des défavorisés appelle à mettre la question du logement au cœur des débats et alerte, sur France Inter, sur la situation précaire des mal-logés.",
+      "image": "https://www.franceinfo.fr/pictures/JMPZSX-BXVQ88lri9qYgwMcNOsE/0x29:1688x979/432x243/filters:format(jpg)/2024/06/19/robert-66727785aa11e111620097.jpg",
+      "published_at": "2026-11-20T21:08:53+01:00",
+      "source": "France Info",
+      "category": "Politique",
+      "id": "24ed7c3a5943"
+    },
     {
       "title": "David Lisnard, dynamiteur populiste de la bataille à droite",
       "url": "https://www.liberation.fr/politique/lisnard-dynamiteur-populiste-de-la-bataille-a-droite-20261120_XBOH6GUQORBZPOVFP6T6TZRUFA/",
@@ -13,6 +283,16 @@
       "id": "3219f0f85198"
     },
     {
+      "title": "Pluie-inondation : dans le Pas-de-Calais, les pluies importantes diminuent après des inondations de maisons et de routes",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/20/pluie-inondation-dans-le-pas-de-calais-les-pluies-significatives-diminuent-apres-des-inondations-de-maisons-et-de-routes_6813624_3245.html",
+      "summary": "Il est tombé jusqu’à plus de 150 millimètres dans le sud-ouest du Pas-de-Calais en soixante-douze heures, selon Météo-France, qui prévoyait la fin des pluies importantes pour le cours de l’après-midi de vendredi.",
+      "image": "https://img.lemde.fr/2026/11/19/98/0/6048/3024/644/322/60/0/184173d_ftp-1-kqboq73szrd5-afp-d7zl6kg.jpg",
+      "published_at": "2026-11-20T20:50:23+01:00",
+      "source": "Le Monde",
+      "category": "Sport",
+      "id": "5f35330a00d0"
+    },
+    {
       "title": "Grâce à l’IA, un chercheur affirme avoir résolu l’un des problèmes mathématiques les plus importants du monde",
       "url": "https://www.liberation.fr/international/grace-a-lia-un-chercheur-affirme-avoir-resolu-lun-des-problemes-mathematiques-les-plus-importants-du-monde-20261120_2UWLZTQX6JF6DBEBDW6EJ7SUS4/",
       "summary": "Levent Alpöge, mathématicien turco-américain de 34 ans, employé d’Anthropic, a annoncé ce vendredi 20 novembre avoir trouvé la solution à l’hypothèse de Riemann, qui fait partie des sept problèmes dits «du millénaire».",
@@ -21,286 +301,6 @@
       "source": "Libération",
       "category": "Politique",
       "id": "34376cf279e5"
-    },
-    {
-      "title": "Projet de loi logement : les députés n’ont pas revoté sur le droit de louer les passoires thermiques",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/20/projet-de-loi-logement-les-deputes-n-ont-pas-revote-sur-le-droit-de-louer-les-passoires-thermiques_6813700_3224.html",
-      "summary": "L’examen de ce texte qui ambitionne de relancer la création de logements s’est achevé vendredi. Le gouvernement mise sur une suppression ultérieure de l’amendement RN qui réautorise la mise en location des logements les plus énergivores.",
-      "image": "https://img.lemde.fr/2026/11/13/934/0/3733/1866/644/322/60/0/31da29a_upload-1-6ca3qghwdv7h-lewisjoly-vieausmic-033.JPG",
-      "published_at": "2026-11-20T20:34:01+01:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "62cc43d451fe"
-    },
-    {
-      "title": "Sommet à Shenzhen : Donald Trump assure que ses relations \"fantastiques\" avec Xi Jinping et Vladimir Poutine contribuent à la sécurité des Etats-Unis",
-      "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-suivez-la-conference-de-presse-du-president-americain-donald-trump-apres-un-sommet-inedit-avec-xi-jinping-et-vladimir-poutine_8292656.html#xtor=RSS-3-[lestitres]",
-      "summary": "Les dirigeants américain, russe et chinois ont échangé pendant environ 1h20 jeudi en Chine. Ils se sont mis d'accord sur une \"déclaration de paix\" à l'issue de cette rencontre.",
-      "image": "https://www.franceinfo.fr/pictures/TMEUF43fVsKIXbwImGl82BXxYYc/0x0:1024x576/432x243/filters:format(jpg)/2026/11/20/6b0088ca482bb561577600.jpg",
-      "published_at": "2026-11-20T20:33:18+01:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "c18106e26700"
-    },
-    {
-      "title": "Guerre en Ukraine : Donald Trump assure que Vladimir Poutine lui a dit \"clairement\" qu'il souhaitait une issue \"diplomatique\" avec Kiev",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-un-missile-russe-tombe-dans-le-sud-est-de-la-pologne-sans-faire-de-blesse_8292080.html#xtor=RSS-3-[lestitres]",
-      "summary": "Au lendemain d'un sommet inédit à Shenzen, le président américain a tenu une conférence de presse vendredi pour faire le point sur sa rencontre avec les dirigeants russe et chinois.",
-      "image": "https://www.franceinfo.fr/pictures/HNH4XQcY8rJEQdaHIbQy9Nds15U/0x0:1024x576/432x243/filters:format(jpg)/2026/11/20/6b009a89cd5fd452874172.jpg",
-      "published_at": "2026-11-20T20:32:30+01:00",
-      "source": "France Info",
-      "category": "International",
-      "id": "035b5c6445a3"
-    },
-    {
-      "title": "Bulle IA : «Il ne faut pas perdre de vue que les investisseurs ne sont pas forcément rationnels»",
-      "url": "https://www.liberation.fr/economie/economie-numerique/bulle-ia-il-ne-faut-pas-perdre-de-vue-que-les-investisseurs-ne-sont-pas-forcement-rationnels-20261120_3ZMQUIX55RA7LEOQHQPVQSISXQ/",
-      "summary": "Après l’entrée en Bourse de la société américaine Anthropic le 19 novembre, Denis Desclos, enseignant et directeur du Pôle Trading-Finance de marché à l’ESLSCA, estime que le secteur de l’IA est entré dans sa phase de «surinvestissement». A la clé, le risque d’un retournement de tendance.",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=1200",
-      "published_at": "2026-11-20T19:32:09+00:00",
-      "source": "Libération",
-      "category": "Économie",
-      "id": "85fd412723c7"
-    },
-    {
-      "title": "Après que des missiles russes se sont écrasés en Pologne, le premier ministre Donald Tusk annonce « des mois de grands défis pour nous tous »",
-      "url": "https://www.lemonde.fr/international/article/2026/11/20/apres-que-des-missiles-russes-se-sont-ecrases-en-pologne-le-premier-ministre-donald-tusk-annonce-des-mois-de-grands-defis-pour-nous-tous_6813699_3210.html",
-      "summary": "Le secrétaire général de l’OTAN, Mark Rutte, doit se rendre à Varsovie samedi 21 novembre. Les alliés de la Pologne ont tous condamné ces incursions dans l’espace aérien du pays et ont rappelé leur solidarité.",
-      "image": "https://img.lemde.fr/2026/11/20/458/0/5500/2750/644/322/60/0/6f9e43c_ftp-1-ei1st2bw0g2k-2026-11-20t092607z-1323429495-rc2lroalv5s3-rtrmadp-3-ukraine-crisis-poland-objects.JPG",
-      "published_at": "2026-11-20T20:30:07+01:00",
-      "source": "Le Monde Inter",
-      "category": "Politique",
-      "id": "250ce0a2293c"
-    },
-    {
-      "title": "Le Parlement adopte définitivement la présomption d'usage légal des armes par les forces de l'ordre",
-      "url": "https://www.franceinfo.fr/faits-divers/police/le-parlement-adopte-definitivement-la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre_8292845.html#xtor=RSS-3-[lestitres]",
-      "summary": "La proposition de loi, soutenue par le centre, la droite et l'extrême droite, a été adoptée à 205 voix pour et 110 contre au Sénat.",
-      "image": "https://www.franceinfo.fr/pictures/ANaBRiIoGbgZNVzfFdLLANufcuE/0x53:1024x629/432x243/filters:format(jpg)/2026/11/20/6b0094f3dedce223130921.jpg",
-      "published_at": "2026-11-20T20:26:13+01:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "f3f872bf1f37"
-    },
-    {
-      "title": "Une information judiciaire ouverte contre Gérard Depardieu et Michel Houellebecq, accusés de viol en réunion et d’agressions sexuelles lors d’un tournage",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/20/une-information-judiciaire-ouverte-contre-gerard-depardieu-et-michel-houellebecq-accuses-de-viol-en-reunion-et-d-agressions-sexuelles-lors-d-un-tournage_6813698_3224.html",
-      "summary": "L’ouverture d’une « information judiciaire sur plainte » d’une comédienne ayant tourné dans un film en 2018 avec l’acteur et l’écrivain, a été confirmée par le parquet, vendredi.",
-      "image": "https://img.lemde.fr/2026/11/20/0/97/1006/503/644/322/60/0/3449d3c_upload-1-fobb0c8ctxha-1217824.png",
-      "published_at": "2026-11-20T20:24:41+01:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "b2f95dac850e"
-    },
-    {
-      "title": "Le Danemark accuse la Russie d’avoir commandité le meurtre d’un rappeur ukrainien",
-      "url": "https://www.liberation.fr/international/europe/au-danemark-les-autorites-accusent-la-russie-davoir-commandite-le-meurtre-dun-rappeur-ukrainien-20261120_IHVAG2EHGBDZTPAZP3AK7NU43A/",
-      "summary": "Après la mise en examen ce vendredi 20 novembre de deux Danois soupçonnés d’avoir voulu assassiner sur son territoire le chanteur Kyivstoner en septembre, Copenhague a annoncé l’expulsion d’un diplomate de Moscou.",
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200",
-      "published_at": "2026-11-20T19:20:26+00:00",
-      "source": "Libération",
-      "category": "International",
-      "id": "9106e8bcaed6"
-    },
-    {
-      "title": "David Lisnard, le regard à l’extrême droite",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/david-lisnard-le-regard-a-lextreme-droite-20261120_J3YNVKL3FZCE7LC46GCFPDCXZE/",
-      "summary": "Le candidat ultralibéral au succès sondagier surprise ne cache pas sa proximité avec Eric Ciotti ou Sarah Knafo. Jusqu’où ?",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-11-20T19:14:48+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "3e522f864635"
-    },
-    {
-      "title": "Organisations présentes, dispositif de sécurité... A quoi faut-il s'attendre pour les manifestations du samedi 21 novembre ?",
-      "url": "https://www.franceinfo.fr/economie/greve/organisations-presentes-dispositif-de-securite-a-quoi-faut-il-s-attendre-pour-les-manifestations-du-samedi-21-novembre_8292461.html#xtor=RSS-3-[lestitres]",
-      "summary": "Le ministre de l'Intérieur a demandé aux préfets d'être \"particulièrement vigilants\" samedi, nouvelle journée de mobilisation sociale en France qui coïncide avec le huitième anniversaire du mouvement des gilets jaunes.",
-      "image": "https://www.franceinfo.fr/pictures/00Nt6QopDDeWtlvKXkrXwYlH0Xo/0x641:4341x3082/432x243/filters:format(jpg)/2026/11/20/6b006ce0a4d84867641623.jpg",
-      "published_at": "2026-11-20T20:11:44+01:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "52649198d2de"
-    },
-    {
-      "title": "MeToo stand-up : classement sans suite en faveur de Seb Mellia, la plaignante, Tania Dutel, annonce un recours",
-      "url": "https://www.liberation.fr/societe/police-justice/metoo-stand-up-classement-sans-suite-en-faveur-de-seb-mellia-la-plaignante-tania-dutel-annonce-un-recours-20261120_2GPX2C6YGVGTVKNN3QAOMEXIVE/",
-      "summary": "L’enquête pour viol visant l’humoriste, a été classée sans suite en octobre pour infraction insuffisamment caractérisée, a appris ce vendredi 20 novembre l’AFP de sources proches du dossier.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-11-20T19:10:00+00:00",
-      "source": "Libération",
-      "category": "Tech",
-      "id": "bd1381508061"
-    },
-    {
-      "title": "Présidentielle 2027 : Emmanuel Macron fustige le « discours de jalousie et de haine de la réussite » dans la campagne",
-      "url": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-emmanuel-macron-fustige-le-discours-de-jalousie-et-de-haine-de-la-reussite-dans-la-campagne_6813696_823448.html",
-      "summary": "Le président de la République a attaqué les candidats de gauche à l’élection présidentielle, en tentant de protéger son bilan économique.",
-      "image": "https://img.lemde.fr/2026/11/20/701/0/8419/4209/644/322/60/0/4e2270d_ftp-1-gjqjn2yvplhi-afp-d86z2cf.jpg",
-      "published_at": "2026-11-20T20:09:22+01:00",
-      "source": "Le Monde Politique",
-      "category": "Politique",
-      "id": "9be07c767f2c"
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine, qualifié d’« ami » par Donald Trump, est un « assassin », souligne Volodymyr Zelensky",
-      "url": "https://www.lemonde.fr/international/live/2026/11/20/en-direct-guerre-en-ukraine-vladimir-poutine-qualifie-d-ami-par-donald-trump-est-un-assassin-souligne-volodymyr-zelensky_6810982_3210.html",
-      "summary": "Le président ukrainien a également accusé Moscou de s’en prendre délibérément aux civils et aux infrastructures ukrainiennes après avoir, selon lui, échoué à obtenir des succès militaires sur le front cette année.",
-      "image": "https://img.lemde.fr/2026/11/19/102/0/7161/3580/644/322/60/0/5c88dda_ftp-1-cwxzpvup3jbe-10cd86d69e4e40daa064a94bce37003e-0-574f7ee72e23408999c0371baf3b76b7.jpg",
-      "published_at": "2026-11-20T20:09:14+01:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "ed9da511fdc1"
-    },
-    {
-      "title": "«Ce n’est pas tous les jours qu’un navire s’échoue» : sur les côtes landaises, un cargo sous l’œil des badauds et la surveillance des secours",
-      "url": "https://www.liberation.fr/societe/ce-nest-pas-tous-les-jours-quun-navire-sechoue-sur-les-cotes-landaises-un-cargo-sous-loeil-des-badauds-et-la-surveillance-des-secours-20261120_TBAHKDLFIZEVZLBS3ZCVVWPKQQ/",
-      "summary": "Un cargo battant pavillon maltais s’est échoué sur la plage de Lit-et-Mixe durant la nuit du 19 au 20 novembre. Son destin est suspendu à la possibilité – ou non – de le remorquer vers le large.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-11-20T19:04:51+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "c74d07c279f9"
-    },
-    {
-      "title": "Le Danemark accuse la Russie d’avoir commandité la tentative d’assassinat d’un rappeur ukrainien sur son territoire",
-      "url": "https://www.lemonde.fr/international/article/2026/11/20/le-danemark-accuse-la-russie-d-avoir-commandite-la-tentative-d-assassinat-d-un-rappeur-ukrainien-sur-son-territoire_6813695_3210.html",
-      "summary": "Selon Copenhague, les services de renseignements russes avaient planifié le meurtre d’Albert Vasiliev, alias Kyivstoner, en s’appuyant sur la participation du gang danois Loyal to Familia. Le chef de la diplomatie a annoncé ce 20 novembre l’expulsion de l’attaché militaire russe en poste au Danemark.",
-      "image": "https://img.lemde.fr/2026/11/20/217/0/5232/2616/644/322/60/0/80ea034_ftp-1-d4lnbmnpqrlm-afp-d86h8hj.jpg",
-      "published_at": "2026-11-20T20:00:13+01:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "372ff5529b79"
-    },
-    {
-      "title": "La présomption d’usage légal des armes par les forces de l’ordre définitivement adoptée au Parlement",
-      "url": "https://www.liberation.fr/societe/police-justice/le-senat-se-fracture-sur-la-presomption-de-legitime-defense-pour-les-forces-de-lordre-20261120_WPSHZYWZYRBYNHESCLCJHQEMSU/",
-      "summary": "Le Sénat, comme l’Assemblée nationale en juillet dernier, a validé ce vendredi 20 novembre, ce texte décrit par plusieurs groupes de gauche comme un «permis de tuer».",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-11-20T18:47:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "c40ea1dd4bb5"
-    },
-    {
-      "title": "La loi sur la présomption de légitime défense pour les forces de l’ordre définitivement adoptée par le Parlement, ayant été approuvée au Sénat",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/20/la-loi-sur-la-presomption-de-legitime-defense-pour-les-forces-de-l-ordre-definitivement-adoptee-par-le-parlement-ayant-ete-approuvee-au-senat_6813692_3224.html",
-      "summary": "La gauche sénatoriale a d’ores et déjà annoncé qu’elle saisirait en commun le Conseil constitutionnel pour faire barrage à la promulgation de ce qu’elle considère comme l’instauration d’un « permis de tuer » pour les policiers.",
-      "image": "https://img.lemde.fr/2026/10/27/194/0/5490/2745/644/322/60/0/cf69f72_ftp-1-dz3pfzmhehhq-afp-d4la7pd.jpg",
-      "published_at": "2026-11-20T19:46:18+01:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "d19531d677db"
-    },
-    {
-      "title": "Contenus IA : Google supprime de son moteur de recherche plusieurs sites d’actu (dont «Marie France»)",
-      "url": "https://www.liberation.fr/checknews/contenus-ia-google-supprime-de-son-moteur-de-recherche-plusieurs-sites-dactu-dont-marie-france-20261120_DBIDSLMBOZHRZBZV4YCAZWWKGI/",
-      "summary": "Des sites comme «Pleine Vie», «Modes et Travaux» ou des sous-domaines de «Ouest-France» sont concernés par un vigoureux coup de balai effectué début novembre par le géant californien.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
-      "published_at": "2026-11-20T18:42:57+00:00",
-      "source": "Libération",
-      "category": "Tech",
-      "id": "b7d0406983e2"
-    },
-    {
-      "title": "Hugues Moutouh, De Villepin à l’Elysée, grève le 1er décembre… L’actu de ce vendredi 20 novembre",
-      "url": "https://www.liberation.fr/international/europe/hugues-moutouh-de-villepin-a-lelysee-greve-le-1er-decembre-lactu-de-ce-vendredi-20-novembre-20261120_BAC2ZYPB55HQ7KITQBAKH7DLTA/",
-      "summary": "La rédaction de «Libération» récapitule les principales actualités de ce vendredi.",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200",
-      "published_at": "2026-11-20T18:34:35+00:00",
-      "source": "Libération",
-      "category": "Société",
-      "id": "d383b11884e1"
-    },
-    {
-      "title": "Mario + Lapins Crétins Sparks of Hope devient très abordable sur Switch",
-      "url": "https://www.numerama.com/pop-culture/2380241-mario-lapins-cretins-sparks-of-hope-devient-tres-abordable-sur-switch.html",
-      "summary": "Le Black Friday fait baisser le prix de Mario + The Lapins Crétins Sparks of Hope sur Switch. Un jeu de stratégie qui ne se prend jamais au sérieux (mais qui l'est !), et qui a de quoi séduire toute la famille.",
-      "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200",
-      "published_at": "2026-11-20T18:30:00+00:00",
-      "source": "Numerama",
-      "category": "Culture",
-      "id": "05376dd09041"
-    },
-    {
-      "title": "Près de la moitié des maires excluent de parrainer un candidat à la présidentielle 2027, principalement par peur d'être étiquetés politiquement",
-      "url": "https://www.franceinfo.fr/elections/pres-de-la-moitie-des-maires-excluent-de-parrainer-un-candidat-a-la-presidentielle-2027-principalement-par-peur-d-etre-etiquetes-politiquement_8292749.html#xtor=RSS-3-[lestitres]",
-      "summary": "Quelque 48,3% des maires refuseraient aujourd'hui d'accorder leur parrainage à un ou une candidate qui les solliciterait, révèle une étude publiée par l'Association des maires de France et le Cevipof.",
-      "image": "https://www.franceinfo.fr/pictures/ceIHgmBwCPm27-GHQnWDv1_UyMw/0x53:1024x629/432x243/filters:format(jpg)/2026/11/20/6b0086fdc0638721956847.jpg",
-      "published_at": "2026-11-20T19:25:32+01:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "716955f49479"
-    },
-    {
-      "title": "Budget : députés et sénateurs s’entendent sur un premier texte malgré l’enlisement politique",
-      "url": "https://www.lemonde.fr/politique/article/2026/11/20/budget-deputes-et-senateurs-s-entendent-sur-un-premier-texte-malgre-l-enlisement-politique_6813691_823448.html",
-      "summary": "La commission mixte paritaire réunie vendredi 19 novembre a trouvé un accord sur le projet de loi de fin de gestion pour 2026. Trouver un compromis sur le budget 2027, rejeté à l’Assemblée et jugé « suicidaire » au Sénat, s’annonce plus ardu.",
-      "image": "https://img.lemde.fr/2026/11/17/2016/0/3448/1724/644/322/60/0/2234b41_upload-1-kbpuluaioqx7-cbi1348122.JPG",
-      "published_at": "2026-11-20T19:24:13+01:00",
-      "source": "Le Monde",
-      "category": "Politique",
-      "id": "83825dc02d2f"
-    },
-    {
-      "title": "Au terme de longues négociations, le Royaume-Uni et l’Union européenne font un pas l’un vers l’autre",
-      "url": "https://www.lemonde.fr/international/article/2026/11/20/au-terme-de-longues-negociations-le-royaume-uni-et-l-union-europeenne-font-un-pas-l-un-vers-l-autre_6813690_3210.html",
-      "summary": "Londres et Bruxelles ont conclu des accords sur la taxe carbone, la mobilité des jeunes et le rétablissement d’un espace sanitaire et phytosanitaire commun. Mais ceux-ci restent conditionnés à une autre négociation, encore en cours, sur l’allègement des frais de scolarité dans les universités britanniques pour les étudiants européens.",
-      "image": "https://img.lemde.fr/2026/11/20/155/0/4432/2216/644/322/60/0/28cf159_ftp-1-em1yiplzdogw-8834e5c74af641c0bc368e48f43e41df-0-b5d3c646aa0e4fee8172ac5fa9b72fb3.jpg",
-      "published_at": "2026-11-20T19:15:15+01:00",
-      "source": "Le Monde",
-      "category": "International",
-      "id": "e56c2d960b8c"
-    },
-    {
-      "title": "Présidentielle 2027 : François Hollande laisse à Raphaël Glucksmann jusqu’à février pour convaincre, lui promet de «surprendre»",
-      "url": "https://www.liberation.fr/politique/presidentielle-2027-francois-hollande-laisse-a-raphael-glucksmann-jusqua-fevrier-pour-convaincre-lui-promet-de-surprendre-20261120_V6TAIK6H7NGWFCXCCZQ24HWBLA/",
-      "summary": "L’ancien président socialiste, qui avait renoncé à se représenter en 2017 au vu de sa très forte impopularité, continue d’entretenir le doute sur ses intentions et sur une éventuelle candidature.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-11-20T18:12:01+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "67de36c4b8b5"
-    },
-    {
-      "title": "\"Je ne savais pas qu'il était encore là\", réagit Marine Tondelier après le départ de Yannick Jadot des Ecologistes",
-      "url": "https://www.franceinfo.fr/elections/je-ne-savais-pas-qu-il-etait-encore-la-reagit-marine-tondelier-apres-le-depart-de-yannick-jadot-des-ecologistes_8292785.html#xtor=RSS-3-[lestitres]",
-      "summary": "Yannick Jadot a annoncé quitter les Ecologistes après la main tendue de Marine Tondelier à Jean-Luc Mélenchon pour la présidentielle 2027. Le désormais ex-membre du parti était déjà suspendu pour avoir rejoint Raphaël Glucksmann.",
-      "image": "https://www.franceinfo.fr/pictures/RELBHL1Cdf7e6DBxGxVo59BFOc0/0x428:8192x5036/432x243/filters:format(jpg)/2026/11/20/6b008a4e4e537262998415.jpg",
-      "published_at": "2026-11-20T19:01:22+01:00",
-      "source": "France Info",
-      "category": "Politique",
-      "id": "5c35a5190b33"
-    },
-    {
-      "title": "Minerais critiques : au Kenya, un consortium américain met la main sur un site prometteur",
-      "url": "https://www.lemonde.fr/afrique/article/2026/11/20/minerais-critiques-au-kenya-un-consortium-americain-met-la-main-sur-un-site-prometteur_6813689_3212.html",
-      "summary": "Le ministère des mines kényan a choisi, jeudi 19 novembre, le consortium Frontier Minerals pour exploiter le site de Mrima Hill. Une victoire pour Washington, qui cherche à pallier la restriction des exportations chinoises en minerais.",
-      "image": "https://img.lemde.fr/2026/11/20/350/0/4200/2100/644/322/60/0/f0544c3_upload-1-mhtffawx25uc-000-77d26zp.jpg",
-      "published_at": "2026-11-20T19:00:27+01:00",
-      "source": "Le Monde Inter",
-      "category": "International",
-      "id": "fca2b650ec58"
-    },
-    {
-      "title": "Comprendre le féminicide par vicariance, une manière de faire souffrir les femmes à vie en détruisant leurs proches",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/20/comprendre-le-feminicide-par-vicariance-une-maniere-de-faire-souffrir-les-femmes-a-vie-en-detruisant-leurs-proches_6813687_3232.html",
-      "summary": "Parente de l’amant d’une femme tué par un conjoint éconduit, Barbara Métais-Chastanier s’attache, dans son essai « Elles ne mouraient pas toutes », à regarder le fait social derrière le fait divers. Elle analyse cette façon de maximiser la douleur des femmes « à travers le meurtre de leurs enfants, parents, conjoints, amis ».",
-      "image": "https://img.lemde.fr/2026/11/05/160/0/1920/960/644/322/60/0/b00be62_upload-1-h2mhhgygzbrz-violences-conjugales.jpg",
-      "published_at": "2026-11-20T19:00:11+01:00",
-      "source": "Le Monde",
-      "category": "Sport",
-      "id": "68025daae2b8"
-    },
-    {
-      "title": "L’alliance des Ecologistes et de LFI serait un contresens majeur pour les verts",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/lalliance-des-ecologistes-et-de-lfi-serait-un-contresens-majeur-pour-les-verts-20261120_MLCSPJ7MCFFWJB5D6PIEVTYJMY/",
-      "summary": "Pour l’écrivain Philippe Mouche, le rapprochement de Marine Tondelier et Jean-Luc Mélenchon entre en contradiction avec les valeurs du mouvement écologiste sur la démocratie interne, les relations internationales et l’Europe.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200",
-      "published_at": "2026-11-20T18:00:00+00:00",
-      "source": "Libération",
-      "category": "Politique",
-      "id": "49bb35e52b69"
     }
   ]
 }
